@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neutral Working</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #0a0a0a;
+    --text: #e0e0e0;
+    --dim: #555;
+    --accent: #00ff88;
+    --accent-dim: #00ff8822;
+    --grid: #ffffff06;
+  }
+
+  html { font-size: 16px; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  /* Grid background */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 60px 60px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Glow orb */
+  .orb {
+    position: fixed;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background: radial-gradient(circle, var(--accent-dim) 0%, transparent 70%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 0;
+    animation: pulse 8s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.3; transform: translate(-50%, -50%) scale(1); }
+    50% { opacity: 0.6; transform: translate(-50%, -50%) scale(1.15); }
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+
+  .logo {
+    font-size: 0.75rem;
+    font-weight: 300;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    color: var(--dim);
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+
+  h1 .accent {
+    color: var(--accent);
+    text-shadow: 0 0 40px var(--accent-dim), 0 0 80px var(--accent-dim);
+  }
+
+  .tagline {
+    font-size: 0.85rem;
+    font-weight: 300;
+    color: var(--dim);
+    letter-spacing: 0.15em;
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  /* Project grid */
+  .projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1px;
+    max-width: 640px;
+    width: 100%;
+    background: #ffffff08;
+    border: 1px solid #ffffff08;
+  }
+
+  .project {
+    background: var(--bg);
+    padding: 1.5rem;
+    text-decoration: none;
+    color: var(--text);
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .project::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background: var(--accent);
+    transition: width 0.3s ease;
+  }
+
+  .project:hover {
+    background: #111;
+  }
+
+  .project:hover::after {
+    width: 100%;
+  }
+
+  .project:hover .project-name {
+    color: var(--accent);
+  }
+
+  .project-name {
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-bottom: 0.35rem;
+    transition: color 0.2s ease;
+  }
+
+  .project-type {
+    font-size: 0.65rem;
+    color: var(--dim);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .project-status {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-right: 0.4rem;
+    vertical-align: middle;
+  }
+
+  .live { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+  .wip { background: #ff8800; box-shadow: 0 0 6px #ff880066; }
+  .soon { background: var(--dim); }
+
+  /* Footer */
+  .footer {
+    margin-top: 4rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .footer a {
+    font-size: 0.7rem;
+    color: var(--dim);
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    transition: color 0.2s ease;
+  }
+
+  .footer a:hover { color: var(--accent); }
+
+  .separator {
+    width: 1px;
+    height: 12px;
+    background: #ffffff15;
+  }
+
+  /* Cursor glow */
+  .cursor-glow {
+    position: fixed;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: radial-gradient(circle, var(--accent-dim) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    transform: translate(-50%, -50%);
+  }
+
+  /* Terminal-style blink */
+  .cursor-blink::after {
+    content: '_';
+    animation: blink 1s step-end infinite;
+    color: var(--accent);
+  }
+
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .projects {
+      grid-template-columns: 1fr;
+    }
+    .footer {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .separator { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cursor-glow" id="glow"></div>
+<div class="orb"></div>
+
+<div class="container">
+  <div class="logo">Luke Warrington</div>
+
+  <h1>neutral<span class="accent">.</span>working</h1>
+
+  <p class="tagline cursor-blink">creative systems &amp; digital infrastructure</p>
+
+  <div class="projects">
+    <a class="project" href="https://softpower.neutralworking.com">
+      <div class="project-name"><span class="project-status live"></span>Soft Power</div>
+      <div class="project-type">interactive literature</div>
+    </a>
+    <a class="project" href="#">
+      <div class="project-name"><span class="project-status wip"></span>Chief Scout</div>
+      <div class="project-type">internal tool</div>
+    </a>
+    <a class="project" href="https://chat.neutralworking.com">
+      <div class="project-name"><span class="project-status live"></span>Chat</div>
+      <div class="project-type">local llm interface</div>
+    </a>
+    <a class="project" href="https://n8n.neutralworking.com">
+      <div class="project-name"><span class="project-status live"></span>n8n</div>
+      <div class="project-type">automation engine</div>
+    </a>
+  </div>
+
+  <div class="footer">
+    <a href="https://github.com/neutralworking">github</a>
+    <div class="separator"></div>
+    <a href="mailto:luke@neutralworking.com">contact</a>
+  </div>
+</div>
+
+<script>
+  const glow = document.getElementById('glow');
+  let visible = false;
+
+  document.addEventListener('mousemove', (e) => {
+    if (!visible) { glow.style.opacity = '1'; visible = true; }
+    glow.style.left = e.clientX + 'px';
+    glow.style.top = e.clientY + 'px';
+  });
+
+  document.addEventListener('mouseleave', () => {
+    glow.style.opacity = '0';
+    visible = false;
+  });
+</script>
+
+</body>
+</html>
