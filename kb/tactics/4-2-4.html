@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>4-2-4 · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">tactics</a>
+<span class="sep">/</span>
+<span class="crumb">4-2-4</span>
+</header>
+<article>
+<h1 id="4-2-4">4-2-4</h1>
+<p>Lars Lagerback Tight back four unit, two box-to-box midfielders, two
+wingers, a big forward and a small forward.</p>
+<p>Strengths and Weaknesses <a
+href="https://jobsinfootball.com/blog/tactics/4-2-4-formation/#">https://jobsinfootball.com/blog/tactics/4-2-4-formation/#</a>
+URL: <a
+href="https://jobsinfootball.com/blog/tactics/4-2-4-formation/#">https://jobsinfootball.com/blog/tactics/4-2-4-formation/#</a></p>
+<p>Just who invented the 4-2-4 is a matter of some debate […] Some
+credit Zezé Moreira, some Manuel Fleitas Solich, some Martim Francisco.
+[…] it is possible that it is not even a Brazilian invention but one of
+a number of variations employed by Boris Arkadiev at Dinamo Moscow. The
+truth is that Brazil, with the diagonal, and Hungary, with their
+withdrawn center-forward (and correspondingly withdrawn left-half), had
+independently moved to a position from which the 4-2-4 was an inevitable
+development.</p>
+<p>[Manuel Fleitas Solich] pushed his left-half […] back to play as the
+quarto zagueiro -the “fourth defender”- the term that is still used
+today in Brazil for the defender whose job is to step up and join the
+midfield. […] In practice, the 4-2-4 almost never appeared in that form.
+In possession, while attacking, it would be a 3-3-4; out of possession,
+a 4-3-3.</p>
+<hr />
+<p><a href="https://en.wikipedia.org/wiki/File:4-2-4_formation.svg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/4-2-4_formation.svg/170px-4-2-4_formation.svg.png" /></a></p>
+<p>The 4–2–4 formation attempts to combine a strong attack with a strong
+defence, and was conceived as a reaction to the WM's stiffness. It could
+also be considered a further development of the WW. The 4–2–4 was the
+first formation to be described using numbers.</p>
+<p>While the initial developments leading to the 4–2–4 were devised by
+<a href="https://en.wikipedia.org/wiki/M%C3%A1rton_Bukovi"
+title="Márton Bukovi">Márton Bukovi</a>, the credit for creating the
+4–2–4 lies with two people: <a
+href="https://en.wikipedia.org/wiki/Fl%C3%A1vio_Costa"
+title="Flávio Costa">Flávio Costa</a>, the Brazilian national coach in
+the early 1950s, as well as another Hungarian, <a
+href="https://en.wikipedia.org/wiki/B%C3%A9la_Guttman"
+title="Béla Guttman">Béla Guttman</a>. These tactics seemed to be
+developed independently, with the Brazilians discussing these ideas
+while the Hungarians seemed to be putting them into
+motion.<span class="wikilink-broken">9</span>(<a
+href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-sebes-9)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-sebes-9)</a><span class="wikilink-broken">10</span>(<a
+href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-fifa424-10)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-fifa424-10)</a><span class="wikilink-broken">11</span>(<a
+href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-11)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-11)</a>
+The fully developed 4–2–4 was only "perfected" in Brazil, however, in
+the late 1950s.</p>
+<p>Costa published his ideas, the "diagonal system", in the Brazilian
+newspaper <em>O Cruzeiro</em>, using schematics and, for the first time,
+the formation description by
+numbers.<span class="wikilink-broken">10</span>(<a
+href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-fifa424-10)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-fifa424-10)</a>
+The "diagonal system" was another precursor of the 4–2–4 and was created
+to spur improvisation in players.</p>
+<p>Guttmann himself moved to Brazil later in the 1950s to help develop
+these tactical ideas using the experience of Hungarian coaches.</p>
+<p>The 4–2–4 formation made use of the players' increasing levels of
+skill and fitness, aiming to effectively use six defenders and six
+forwards, with the midfielders performing both tasks. The fourth
+defender increased the number of defensive players but mostly allowed
+them to be closer together, thus enabling effective cooperation among
+them, the point being that a stronger defence would allow an even
+stronger attack.</p>
+<p>The relatively empty midfield relied on defenders that should now be
+able not only to steal the ball, but also hold it, pass it or even run
+with it and start an attack. So this formation required that all
+players, including defenders, are somehow skilful and with initiative,
+making it a perfect fit for the Brazilian players' minds. The 4–2–4
+needed a high level of tactical awareness, as having only two
+midfielders could lead to defensive problems. The system was also fluid
+enough to allow the formation to change throughout play.</p>
+<p>The 4–2–4 was first used with success at the club level in Brazil by
+<a href="https://en.wikipedia.org/wiki/Santos_FC"
+title="Santos FC">Santos</a>, and was used by <a
+href="https://en.wikipedia.org/wiki/Brazil_national_football_team"
+title="Brazil national football team">Brazil</a> in their wins at the <a
+href="https://en.wikipedia.org/wiki/1958_FIFA_World_Cup"
+title="1958 FIFA World Cup">1958 World Cup</a> and <a
+href="https://en.wikipedia.org/wiki/1970_FIFA_World_Cup"
+title="1970 FIFA World Cup">1970 World Cups</a>, both featuring <a
+href="https://en.wikipedia.org/wiki/Pel%C3%A9" title="Pelé">Pelé</a>,
+and <a href="https://en.wikipedia.org/wiki/M%C3%A1rio_Zagallo"
+title="Mário Zagallo">Mário Zagallo</a>, the latter of whom played in
+1958 and coached in 1970. The formation was quickly adopted throughout
+the world after the Brazilian success. Under the management of <a
+href="https://en.wikipedia.org/wiki/Jock_Stein" title="Jock Stein">Jock
+Stein</a>, <a href="https://en.wikipedia.org/wiki/Celtic_F.C."
+title="Celtic F.C.">Celtic</a> won the <a
+href="https://en.wikipedia.org/wiki/1966%E2%80%9367_European_Cup"
+title="1966–67 European Cup">1966–67 European Cup</a> and reached the <a
+href="https://en.wikipedia.org/wiki/1970_European_Cup_Final"
+title="1970 European Cup Final">final</a> of the <a
+href="https://en.wikipedia.org/wiki/1969%E2%80%9370_European_Cup"
+title="1969–70 European Cup">1969–70 European Cup</a> using this
+formation.</p>
+<p>It was also used by <a
+href="https://en.wikipedia.org/wiki/Vladim%C3%ADr_Mirka"
+title="Vladimír Mirka">Vladimír Mirka</a> in Czechoslovakia's victorious
+<a
+href="https://en.wikipedia.org/wiki/1968_UEFA_European_Under-18_Championship"
+title="1968 UEFA European Under-18 Championship">1968 UEFA European
+Under-18 Championship</a> campaign. He continued to use it after its
+waning days.</p>
+
+<a class="source-link" href="4-2-4.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

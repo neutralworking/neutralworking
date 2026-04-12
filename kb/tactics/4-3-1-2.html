@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>4-3-1-2 · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">tactics</a>
+<span class="sep">/</span>
+<span class="crumb">4-3-1-2</span>
+</header>
+<article>
+<h1 id="4-3-1-2">4-3-1-2</h1>
+<p><a
+href="http://theinsidechannel.com/juventus-shift-4-3-1-2/">http://theinsidechannel.com/juventus-shift-4-3-1-2/</a>
+<a
+href="http://thenewlibero.tumblr.com/post/99078419025/why-the-4-3-1-2-makes-sense-in-the-modern-game">http://thenewlibero.tumblr.com/post/99078419025/why-the-4-3-1-2-makes-sense-in-the-modern-game</a></p>
+<p>A variation of the 4–3–3 wherein a striker gives way to a central
+attacking midfielder. The formation focuses on the attacking midfielder
+moving play through the centre with the strikers on either side. It is a
+much narrower setup in comparison to the 4–3–3 and is usually dependent
+on the <a
+href="https://en.wikipedia.org/wiki/Midfielder#Attacking_midfielder"
+title="Midfielder">attacking midfielder</a> to create chances. Examples
+of sides which won trophies using this formation were the <a
+href="https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Cup"
+title="2002–03 UEFA Cup">2002–03 UEFA Cup</a> and <a
+href="https://en.wikipedia.org/wiki/2003%E2%80%9304_UEFA_Champions_League"
+title="2003–04 UEFA Champions League">2003–04 UEFA Champions League</a>
+winners Porto under José Mourinho's; and the <a
+href="https://en.wikipedia.org/wiki/2002%E2%80%9303_UEFA_Champions_League"
+title="2002–03 UEFA Champions League">2002–03 UEFA Champions League</a>
+and <a href="https://en.wikipedia.org/wiki/2003%E2%80%9304_Serie_A"
+title="2003–04 Serie A">2003–04 Serie A</a>-winning Milan team, and <a
+href="https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League"
+title="2009–10 Premier League">2009–10 Premier League</a> winners
+Chelsea, both managed by Carlo Ancelotti. This formation was also
+adopted by <a href="https://en.wikipedia.org/wiki/Massimiliano_Allegri"
+title="Massimiliano Allegri">Massimiliano Allegri</a> for the <a
+href="https://en.wikipedia.org/wiki/2010%E2%80%9311_Serie_A"
+title="2010–11 Serie A">2010–11 Serie A</a> title-winning season for
+Milan. It was also the favoured formation of <a
+href="https://en.wikipedia.org/wiki/Maurizio_Sarri"
+title="Maurizio Sarri">Maurizio Sarri</a> during his time at Empoli
+between 2012 and 2015, during which time they won promotion to Serie A
+and subsequently avoided relegation, finishing 15th in the <a
+href="https://en.wikipedia.org/wiki/2014%E2%80%9315_Serie_A"
+title="2014–15 Serie A">2014–15 Serie A</a> season.</p>
+
+<a class="source-link" href="4-3-1-2.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

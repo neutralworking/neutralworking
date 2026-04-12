@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1-2-7 · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">tactics</a>
+<span class="sep">/</span>
+<span class="crumb">1-2-7</span>
+</header>
+<article>
+<h1 id="1-2-7">1-2-7</h1>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/old-football-formations.html">https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/old-football-formations.html</a></p>
+<p>In the earliest days of football there were no specific formations or
+designated positions. Football was played like a children’s game of kick
+and run: the ball was kicked long and all the players ran towards
+it.</p>
+<p>In 1863, the <a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/offside-rule-in-soccer.html">offside
+rule in football</a> was formalized with the creation of the English
+Football Association. The rule stated that any player in front of the
+kicker is offside and cannot play the ball. The kick and run game was no
+more and became a game of charge-and-dribble: players dribbled the ball
+as far as they can towards the opponents goal with several teammates to
+their sides. Players rarely passed the ball and there was no real
+formation.  </p>
+<p>Because of excess of dribbling and the poor number of goals scored,
+the FA amended the offside rule. Forward passes were allowed again as
+long as there were three players between the receiver and the goal line.
+With the new rule, teams began to play a more organized football which
+led to the creation of tactical formations.</p>
+<p>Below are the most influential formations in the formative years of
+football.</p>
+<p><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/127-football-formation.jpg"
+alt="The 1-2-7, the earliest football formation, was popular in England in the 1860s-70s" /></p>
+<p>1-2-7 is the most popular formation in the 1860-70s. With only one
+center back, two halfbacks, and seven forwards, it reflects the
+all-attacking nature of football in that era. The strategy at that time
+was mostly based on long ball to the upfield and charge-dribbling.</p>
+<p>The English team played with a 1-2-7 formation when they faced
+Scotland in 1872. The Scots, represented by Queen’s Park Rangers,
+utilized a 2-2-6 formation.</p>
+<p>Unlike the English, who played a game based on individual skills, the
+Scots relied on short passing and teamwork. By passing the ball among
+each other, the Scots were able to grind an unexpected 0-0 draw against
+highly favored England.</p>
+<p><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/235-football-formation.jpg" />1880
+– 1925: The Pyramid (2-3-5 formation)</p>
+<p>The 2-3-5 formation is popularly known as the “pyramid” because of
+its triangular shape on the blackboard. It was popularized by
+<strong>English football team</strong> Preston North End, which had many
+Scottish players on its lineup. (The arrival of Scots in English clubs
+in the 1880s led to the dominance of the passing strategy over the
+dribble and long ball type of play.)</p>
+<p>The pyramid can be considered the first formation that relied on
+teamwork rather than individual effort. In defense, the left and right
+halves mark the opposition wingers and the center backs mark the inside
+forwards. The key player is the center half, who marks the opposition
+striker and is in charge of pivoting the team from defense to offense.
+After retrieving the ball in defense, he organizes his team’s attack and
+feeds the ball to the forwards.</p>
+<p>Preston North End used the 2-3-5 formation to become the first
+winners of the English Double: winning both the English League and the
+FA Cup in 1889. They went through the entire season without conceding a
+loss, earning them the nickname “The Invincibles” and encouraging other
+clubs to adopt the pyramid. The formation continued to dominate English
+football until 1925, when the offside rules were changed to allow
+players to receive forward passes if there are at least two defenders
+between him and the goal line.</p>
+<p>In the 1930s, a modified 2-3-5 formation was popular in Austria,
+Hungary, and Czechoslovakia. Called the Danubian school, its primary
+strategy is to distribute the ball through short ground passes. It
+reached its peak when Austria finished fourth in the 1934 World Cup
+(Football world cup 1934).</p>
+<p>1925 – 1945: W-M formation (3-2-2-3)<img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/WM-football-formation.jpg"
+alt="WM (3-2-2-3), an old football formation invented by legendary Arsenal Coach Herbert Chapman" /></p>
+<p>The 3-2-2-3 formation was popularized by Arsenal manager Herbert
+Chapman in 1925 when the offside rule was changed. Chapman countered the
+increased pressure on defense by putting an equal number of players on
+the offensive and defensive ends.</p>
+<p>Three defenders (two fullbacks, one center back) and two halfbacks
+make up the defensive end while two inside forwards, two wingers, and
+one striker make up the offense. This 3-2-2-3 formation was more
+popularly called as the W-M formation because the defenders’ arrangement
+on the field forms a “W” while the forwards form an “M.”</p>
+<p>In a game, the W-M formation works with three forwards in front of
+the opponents’ goal, three defenders in front of the team’s own goal,
+and four players forming a square in the middle. Teams that have
+high-endurance midfielders can play this position with seven forwards or
+seven defenders at a time. This can be done by halfbacks moving up in
+offense and inside forwards dropping back in defense.</p>
+<p>Arsenal is the most famous team associated with W-M. Using this
+formation, the club won five First Division titles and two FA Cups
+between 1931 and 1939. Such achievement from a previously unsuccessful
+club spread the use of W-M formation in all of England.</p>
+<p><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/metodo-footaball-formation.jpg" />1934
+&amp; 1938: Il Metodo (2-3-2-3)</p>
+<p>“Il Metodo” (the method) was a football formation developed by
+Italian manager Vittorio Pozzo in the 1930s. Fundamentally, it is a
+defensive adaptation of the 2-3-5 formation, formed by withdrawing two
+forwards from the frontline.</p>
+<p>Two center backs protect the shoulders of the goalkeeper while the
+left and right halves take up the opposition wingers. The center half
+marks the opposing striker while two inside forwards lie deep to help on
+defense. The center half, just like in the pyramid position, serves as
+the transition from defense to offense. The offensive strategy is based
+on counterattacking and long balls, which the center half initiates with
+the inside forwards.</p>
+<p>The Italian football team brought il metodo to prominence by winning
+the 1934 and <strong>1938 World Cup</strong> titles.</p>
+<p>1950s: M-U formation (3-2-3-2)<img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/MU-football-formation.jpg" /></p>
+<p>MU is a flexible football formation that was derived from the WM
+formation. It places equal number of players on both halves of the field
+and was popularized by the Hungarians in the 1950s.</p>
+<p>The formation works with three defenders, two halfbacks, three
+forwards (two inside forwards &amp; one withdrawn striker), and two
+wingers. The key player is the deep-lying striker, who draws out the
+opposing center back to make room for the other forwards. In defense, MU
+works the same way as the WM formation.  </p>
+<p>It can be considered that MU brought the death of the then-famous WM
+formation, when Hungary defeated England by a score of 6-3 in 1953.
+Hungarian forwards constantly swapped places, which confused a
+man-marking English defense and ultimately led to the blow out.  The
+game was played in Wembley Stadium and was the English’ first defeat at
+the venue.</p>
+<p><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/424-football-formation.jpg" />Late
+1950s: 4-2-4</p>
+<p>4-2-4 is the predecessor of <a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/football-formations.html">modern
+football formations</a> and was developed by the Hungarians and
+Brazilians independently in the late 1950s. It is the first formation
+that featured a four-man backline.  </p>
+<p>In defense, this formation can become a 4-3-3, with one forward
+dropping back to defend in midfield. The two halfbacks are tasked to
+block off counterattacks. Because of a weak middle, much of the
+defending will be left to the back four. The defenders should look to
+passing the ball as quick as possible to the forwards to exploit their
+numeric advantage.</p>
+<p>When attacking, the formation works as 3-3-4, with one defender going
+up to push the ball. The two strikers give depth to the attack while the
+two wingers give width.</p>
+<p>Brazil brought 4-2-4 to prominence by winning the <strong>1958 World
+Cup</strong>. Since then, it has evolved to different four-back
+formations like 4-3-3 and 4-4-2.</p>
+<h2 id="related-articles">Related articles</h2>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/soccer-foul-rules-misconduct-explained.html"><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/soccer-foul-rules-misconduct-explained.jpg"
+alt="Soccer foul and misconduct explained" /></a></p>
+<h3 id="soccer-foul-and-misconduct-explained"><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/soccer-foul-rules-misconduct-explained.html">Soccer
+foul and misconduct explained</a></h3>
+<p>What are the most typical fouls in soccer? What is the sanction when
+the foul is awarded?</p>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/maradona-hand-of-god-goal.html"><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/maradona-hand-of-god-goal.jpg"
+alt="Maradona&#39;s Hand of God Goal" /></a></p>
+<h3 id="maradonas-hand-of-god-goal"><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/maradona-hand-of-god-goal.html">Maradona's
+Hand of God Goal</a></h3>
+<p>learn more about the infamous "Hand of God" goal of Diego Maradona
+during the 1986 World Cup.</p>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/field-dimensions-markings.html"><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/field-dimensions-markings.jpg"
+alt="Soccer Field Dimensions &amp; Markings" /></a></p>
+<h3 id="soccer-field-dimensions--markings"><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/field-dimensions-markings.html">Soccer
+Field Dimensions &amp; Markings</a></h3>
+<p>what are the dimensions of a regulation soccer field? Find out that
+out and more.</p>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/soccer-kick-off.html"><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/soccer-kick-off.jpg"
+alt="Soccer Kick Off" /></a></p>
+<h3 id="soccer-kick-off"><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/soccer-kick-off.html">Soccer
+Kick Off</a></h3>
+<p>a step by step guide on how to do a proper kickoff in soccer.</p>
+<p><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/main-football-rules.html"><img
+src="https://web.archive.org/web/20190705193350im_/https://www.football-bible.com/images/image/main-football-rules.jpg"
+alt="Main Football Rules" /></a></p>
+<h3 id="main-football-rules"><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/soccer-info/main-football-rules.html">Main
+Football Rules</a></h3>
+<p>Understand the football laws and regulations through this simplified
+soccer article.</p>
+<ul>
+<li><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/about-us.html">About
+Us</a></li>
+<li><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/contact-us.html">Contact
+Us</a></li>
+<li><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/sitemap.html">Sitemap</a></li>
+<li><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/terms-of-use.html">Terms
+of Use</a></li>
+<li><a
+href="https://web.archive.org/web/20190705193350/https://www.football-bible.com/cookie-policy.html">Cookie
+Policy</a></li>
+</ul>
+
+<a class="source-link" href="1-2-7.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>
