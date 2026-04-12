@@ -1,0 +1,875 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Language Tidbits Studio</title>
+  <style>
+    :root {
+      --bg: #060606;
+      --surface: #111111;
+      --surface2: #1a1a1a;
+      --border: #1a1a1a;
+      --border2: #242424;
+      --accent: #005FFF;
+      --accent-dim: rgba(0,95,255,0.10);
+      --accent-border: rgba(0,95,255,0.35);
+      --green: #00C853;
+      --green-dim: rgba(0,200,83,0.10);
+      --amber: #FF9800;
+      --amber-dim: rgba(255,152,0,0.10);
+      --red: #FF2442;
+      --red-dim: rgba(255,36,66,0.10);
+      --text: #ffffff;
+      --text2: #888888;
+      --text3: #666666;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+    html, body {
+      margin: 0;
+      min-height: 100vh;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      line-height: 1.5;
+      letter-spacing: -0.01em;
+    }
+
+    /* Topbar */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 44px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .topbar-back {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--text3);
+      text-decoration: none;
+      letter-spacing: 0.01em;
+    }
+    .topbar-back:hover { color: var(--text2); }
+    .topbar-title {
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--text3);
+    }
+    .topbar-spacer { width: 60px; }
+
+    /* Layout */
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* Panel visibility */
+    .panel { display: none; }
+    .panel.active { display: block; }
+
+    /* Section labels */
+    .section-label {
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 16px;
+    }
+
+    /* Submit panel */
+    .input-area {
+      background: var(--surface);
+      border: 1px solid var(--border2);
+      border-radius: 3px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+    .input-area textarea {
+      width: 100%;
+      min-height: 100px;
+      background: var(--bg);
+      border: 1px solid var(--border2);
+      border-radius: 2px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 13px;
+      padding: 12px;
+      resize: vertical;
+      outline: none;
+      letter-spacing: -0.01em;
+    }
+    .input-area textarea::placeholder {
+      color: var(--text3);
+    }
+    .input-area textarea:focus {
+      border-color: var(--accent-border);
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 34px;
+      padding: 0 18px;
+      font-family: inherit;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      border: none;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn:disabled { opacity: 0.4; cursor: default; }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn-danger {
+      background: var(--red);
+      color: #fff;
+    }
+    .btn-ghost {
+      background: transparent;
+      border: 1px solid var(--border2);
+      color: var(--text2);
+    }
+    .btn-ghost:hover { border-color: var(--text3); color: var(--text); }
+
+    .submit-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    /* Topics list */
+    .topics-list {
+      margin-top: 32px;
+    }
+    .topic-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 14px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      margin-bottom: 6px;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+    .topic-item:hover {
+      border-color: var(--border2);
+    }
+    .topic-name {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 70%;
+    }
+
+    /* Badges */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      height: 20px;
+      padding: 0 8px;
+      font-size: 0.58rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border-radius: 2px;
+      white-space: nowrap;
+    }
+    .badge-pending { background: var(--surface2); color: var(--text3); }
+    .badge-running { background: var(--accent-dim); color: var(--accent); }
+    .badge-done { background: var(--green-dim); color: var(--green); }
+    .badge-error { background: var(--red-dim); color: var(--red); }
+    .badge-ready { background: var(--green-dim); color: var(--green); }
+
+    /* Progress panel */
+    .progress-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 28px;
+    }
+    .progress-topic {
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .pipeline-stages {
+      position: relative;
+      padding-left: 28px;
+    }
+    .pipeline-stages::before {
+      content: "";
+      position: absolute;
+      left: 7px;
+      top: 8px;
+      bottom: 8px;
+      width: 1px;
+      background: var(--border2);
+    }
+    .stage {
+      position: relative;
+      padding: 10px 0 10px 20px;
+    }
+    .stage-dot {
+      position: absolute;
+      left: -24px;
+      top: 14px;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      border: 2px solid var(--border2);
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .stage-dot-inner {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: transparent;
+    }
+    .stage.is-running .stage-dot {
+      border-color: var(--accent);
+    }
+    .stage.is-running .stage-dot-inner {
+      background: var(--accent);
+      animation: pulse 1.4s ease-in-out infinite;
+    }
+    .stage.is-done .stage-dot {
+      border-color: var(--green);
+      background: var(--green);
+    }
+    .stage.is-done .stage-dot-inner {
+      background: #fff;
+      width: 6px;
+      height: 6px;
+    }
+    .stage.is-error .stage-dot {
+      border-color: var(--red);
+    }
+    .stage.is-error .stage-dot-inner {
+      background: var(--red);
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    .stage-label {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text2);
+    }
+    .stage.is-running .stage-label { color: var(--text); }
+    .stage.is-done .stage-label { color: var(--green); }
+    .stage.is-error .stage-label { color: var(--red); }
+    .stage-meta {
+      font-size: 11px;
+      color: var(--text3);
+      margin-top: 2px;
+    }
+
+    /* Review panel */
+    .review-section {
+      margin-bottom: 24px;
+    }
+    .review-section label {
+      display: block;
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 6px;
+    }
+    .review-section input[type="text"],
+    .review-section textarea {
+      width: 100%;
+      background: var(--surface);
+      border: 1px solid var(--border2);
+      border-radius: 2px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 13px;
+      padding: 10px 12px;
+      outline: none;
+    }
+    .review-section input[type="text"]:focus,
+    .review-section textarea:focus {
+      border-color: var(--accent-border);
+    }
+    .review-section textarea {
+      min-height: 80px;
+      resize: vertical;
+    }
+    .review-section textarea.readonly {
+      color: var(--text2);
+      background: var(--bg);
+      cursor: default;
+    }
+
+    .video-wrapper {
+      background: var(--surface);
+      border: 1px solid var(--border2);
+      border-radius: 2px;
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .video-wrapper video {
+      width: 100%;
+      display: block;
+    }
+    .video-placeholder {
+      height: 240px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text3);
+      font-size: 12px;
+    }
+
+    .platforms {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .platform-check {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      font-size: 12px;
+      color: var(--text2);
+      user-select: none;
+    }
+    .platform-check input[type="checkbox"] {
+      accent-color: var(--accent);
+      width: 14px;
+      height: 14px;
+      cursor: pointer;
+    }
+
+    .review-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 28px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+
+    /* Reject modal */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.7);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-overlay.open {
+      display: flex;
+    }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border2);
+      border-radius: 3px;
+      padding: 24px;
+      width: 400px;
+      max-width: 90vw;
+    }
+    .modal h3 {
+      font-size: 14px;
+      font-weight: 600;
+      margin: 0 0 16px;
+    }
+    .modal textarea {
+      width: 100%;
+      min-height: 80px;
+      background: var(--bg);
+      border: 1px solid var(--border2);
+      border-radius: 2px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 13px;
+      padding: 10px 12px;
+      resize: vertical;
+      outline: none;
+    }
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 14px;
+      justify-content: flex-end;
+    }
+
+    /* Toast */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(80px);
+      background: var(--surface);
+      border: 1px solid var(--border2);
+      border-radius: 3px;
+      padding: 10px 20px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text);
+      z-index: 200;
+      opacity: 0;
+      transition: transform 0.25s, opacity 0.25s;
+      pointer-events: none;
+    }
+    .toast.visible {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+
+    /* Empty state */
+    .empty-state {
+      text-align: center;
+      padding: 40px 0;
+      color: var(--text3);
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <a class="topbar-back" href="../">&larr; Back</a>
+    <span class="topbar-title">Language Tidbits Studio</span>
+    <span class="topbar-spacer"></span>
+  </div>
+
+  <div class="container">
+
+    <!-- Panel 1: Submit -->
+    <div id="panel-submit" class="panel active">
+      <div class="section-label">New Tidbit</div>
+      <div class="input-area">
+        <textarea id="input-text" placeholder="Enter a word, topic, sentence, or URL..."></textarea>
+        <div class="submit-actions">
+          <button class="btn btn-primary" id="btn-submit">Submit</button>
+        </div>
+      </div>
+
+      <div class="topics-list">
+        <div class="section-label">Recent Submissions</div>
+        <div id="topics-container">
+          <div class="empty-state">No submissions yet</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel 2: Pipeline Progress -->
+    <div id="panel-progress" class="panel">
+      <div class="progress-header">
+        <span class="progress-topic" id="progress-topic-name"></span>
+        <button class="btn btn-ghost" id="btn-back-submit">&larr; Back</button>
+      </div>
+
+      <div class="section-label">Pipeline</div>
+      <div class="pipeline-stages" id="pipeline-stages">
+        <div class="stage" data-stage="ingest">
+          <div class="stage-dot"><div class="stage-dot-inner"></div></div>
+          <div class="stage-label">Ingesting sources (Wikipedia, Reddit)</div>
+          <div class="stage-meta"></div>
+        </div>
+        <div class="stage" data-stage="summarize">
+          <div class="stage-dot"><div class="stage-dot-inner"></div></div>
+          <div class="stage-label">Summarizing &amp; generating script</div>
+          <div class="stage-meta"></div>
+        </div>
+        <div class="stage" data-stage="tts">
+          <div class="stage-dot"><div class="stage-dot-inner"></div></div>
+          <div class="stage-label">Generating voiceover (TTS)</div>
+          <div class="stage-meta"></div>
+        </div>
+        <div class="stage" data-stage="render">
+          <div class="stage-dot"><div class="stage-dot-inner"></div></div>
+          <div class="stage-label">Rendering video</div>
+          <div class="stage-meta"></div>
+        </div>
+        <div class="stage" data-stage="ready">
+          <div class="stage-dot"><div class="stage-dot-inner"></div></div>
+          <div class="stage-label">Ready for review</div>
+          <div class="stage-meta"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel 3: Review & Publish -->
+    <div id="panel-review" class="panel">
+      <div class="progress-header">
+        <span class="progress-topic" id="review-topic-name"></span>
+        <button class="btn btn-ghost" id="btn-back-progress">&larr; Back</button>
+      </div>
+
+      <div class="section-label">Video Preview</div>
+      <div class="video-wrapper">
+        <video id="review-video" controls>
+          <source src="" type="video/mp4" />
+        </video>
+        <div class="video-placeholder" id="video-placeholder">No video available</div>
+      </div>
+
+      <div class="review-section">
+        <label>Title</label>
+        <input type="text" id="review-title" placeholder="Video title" />
+      </div>
+
+      <div class="review-section">
+        <label>Description</label>
+        <textarea id="review-description" placeholder="Video description"></textarea>
+      </div>
+
+      <div class="review-section">
+        <label>Tags</label>
+        <input type="text" id="review-tags" placeholder="Comma-separated tags" />
+      </div>
+
+      <div class="review-section">
+        <label>Script</label>
+        <textarea id="review-script" class="readonly" readonly></textarea>
+      </div>
+
+      <div class="section-label">Platforms</div>
+      <div class="platforms">
+        <label class="platform-check">
+          <input type="checkbox" value="youtube" checked /> YouTube
+        </label>
+        <label class="platform-check">
+          <input type="checkbox" value="tiktok" /> TikTok
+        </label>
+        <label class="platform-check">
+          <input type="checkbox" value="twitter" /> X / Twitter
+        </label>
+      </div>
+
+      <div class="review-actions">
+        <button class="btn btn-primary" id="btn-approve">Approve &amp; Publish</button>
+        <button class="btn btn-danger" id="btn-reject">Reject</button>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Reject modal -->
+  <div class="modal-overlay" id="reject-modal">
+    <div class="modal">
+      <h3>Reject &mdash; Reason</h3>
+      <textarea id="reject-reason" placeholder="What needs to change?"></textarea>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="btn-reject-cancel">Cancel</button>
+        <button class="btn btn-danger" id="btn-reject-confirm">Reject</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast"></div>
+
+  <script>
+    // ── Config ──────────────────────────────────────────────
+    const WEBHOOK_BASE = "/n8n/webhook";
+
+    // ── State ───────────────────────────────────────────────
+    let currentTopicId = null;
+    let pollTimer = null;
+
+    // ── DOM refs ────────────────────────────────────────────
+    const panelSubmit   = document.getElementById("panel-submit");
+    const panelProgress = document.getElementById("panel-progress");
+    const panelReview   = document.getElementById("panel-review");
+
+    const inputText       = document.getElementById("input-text");
+    const btnSubmit       = document.getElementById("btn-submit");
+    const topicsContainer = document.getElementById("topics-container");
+
+    const progressTopicName = document.getElementById("progress-topic-name");
+    const pipelineStages    = document.getElementById("pipeline-stages");
+    const btnBackSubmit     = document.getElementById("btn-back-submit");
+
+    const reviewTopicName  = document.getElementById("review-topic-name");
+    const reviewVideo      = document.getElementById("review-video");
+    const videoPlaceholder = document.getElementById("video-placeholder");
+    const reviewTitle      = document.getElementById("review-title");
+    const reviewDesc       = document.getElementById("review-description");
+    const reviewTags       = document.getElementById("review-tags");
+    const reviewScript     = document.getElementById("review-script");
+    const btnApprove       = document.getElementById("btn-approve");
+    const btnReject        = document.getElementById("btn-reject");
+    const btnBackProgress  = document.getElementById("btn-back-progress");
+
+    const rejectModal      = document.getElementById("reject-modal");
+    const rejectReason     = document.getElementById("reject-reason");
+    const btnRejectCancel  = document.getElementById("btn-reject-cancel");
+    const btnRejectConfirm = document.getElementById("btn-reject-confirm");
+
+    const toast = document.getElementById("toast");
+
+    // ── Helpers ─────────────────────────────────────────────
+    function showPanel(panel) {
+      [panelSubmit, panelProgress, panelReview].forEach(p => p.classList.remove("active"));
+      panel.classList.add("active");
+    }
+
+    function showToast(msg) {
+      toast.textContent = msg;
+      toast.classList.add("visible");
+      setTimeout(() => toast.classList.remove("visible"), 2800);
+    }
+
+    function stopPolling() {
+      if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+    }
+
+    function badgeHTML(status) {
+      const cls = {
+        pending: "badge-pending",
+        running: "badge-running",
+        done: "badge-done",
+        ready: "badge-ready",
+        error: "badge-error"
+      }[status] || "badge-pending";
+      const label = status ? status.charAt(0).toUpperCase() + status.slice(1) : "Pending";
+      return `<span class="badge ${cls}">${label}</span>`;
+    }
+
+    // ── API ─────────────────────────────────────────────────
+    async function apiPost(path, body) {
+      const res = await fetch(WEBHOOK_BASE + path, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body)
+      });
+      return res.json();
+    }
+
+    async function apiGet(path) {
+      const res = await fetch(WEBHOOK_BASE + path);
+      return res.json();
+    }
+
+    // ── Load topics ─────────────────────────────────────────
+    async function loadTopics() {
+      try {
+        const data = await apiGet("/studio/topics");
+        const topics = Array.isArray(data) ? data : (data.topics || []);
+        if (!topics.length) {
+          topicsContainer.innerHTML = '<div class="empty-state">No submissions yet</div>';
+          return;
+        }
+        topicsContainer.innerHTML = topics.map(t => `
+          <div class="topic-item" data-id="${t.id}">
+            <span class="topic-name">${escapeHtml(t.input || t.topic || t.name || t.id)}</span>
+            ${badgeHTML(t.status)}
+          </div>
+        `).join("");
+
+        topicsContainer.querySelectorAll(".topic-item").forEach(el => {
+          el.addEventListener("click", () => {
+            currentTopicId = el.dataset.id;
+            openProgress(el.querySelector(".topic-name").textContent);
+          });
+        });
+      } catch (e) {
+        topicsContainer.innerHTML = '<div class="empty-state">Could not load topics</div>';
+      }
+    }
+
+    function escapeHtml(str) {
+      const d = document.createElement("div");
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    // ── Submit ──────────────────────────────────────────────
+    btnSubmit.addEventListener("click", async () => {
+      const text = inputText.value.trim();
+      if (!text) return;
+      btnSubmit.disabled = true;
+      try {
+        const data = await apiPost("/studio/submit", { input: text });
+        currentTopicId = data.id || data.topic_id || null;
+        inputText.value = "";
+        if (currentTopicId) {
+          openProgress(text);
+        } else {
+          showToast("Submitted");
+          loadTopics();
+        }
+      } catch (e) {
+        showToast("Submit failed");
+      }
+      btnSubmit.disabled = false;
+    });
+
+    // ── Progress ────────────────────────────────────────────
+    function openProgress(topicLabel) {
+      progressTopicName.textContent = topicLabel;
+      showPanel(panelProgress);
+      resetStages();
+      pollStatus();
+      pollTimer = setInterval(pollStatus, 3000);
+    }
+
+    function resetStages() {
+      pipelineStages.querySelectorAll(".stage").forEach(s => {
+        s.className = "stage";
+        s.querySelector(".stage-meta").textContent = "";
+      });
+    }
+
+    const STAGE_KEYS = ["ingest", "summarize", "tts", "render", "ready"];
+
+    async function pollStatus() {
+      if (!currentTopicId) return;
+      try {
+        const data = await apiGet("/studio/status?id=" + encodeURIComponent(currentTopicId));
+        const stages = data.stages || data.pipeline || {};
+
+        STAGE_KEYS.forEach(key => {
+          const el = pipelineStages.querySelector(`[data-stage="${key}"]`);
+          if (!el) return;
+          const info = stages[key] || {};
+          const status = info.status || info;
+          el.className = "stage";
+          if (status === "running")  el.classList.add("is-running");
+          if (status === "done")     el.classList.add("is-done");
+          if (status === "error")    el.classList.add("is-error");
+          if (info.message) {
+            el.querySelector(".stage-meta").textContent = info.message;
+          }
+        });
+
+        // If overall status is ready, switch to review
+        if (data.status === "ready" || (stages.ready && (stages.ready === "done" || stages.ready.status === "done"))) {
+          stopPolling();
+          openReview(data);
+        }
+        // If error, stop polling
+        if (data.status === "error") {
+          stopPolling();
+        }
+      } catch (e) {
+        // Silently retry on next poll
+      }
+    }
+
+    btnBackSubmit.addEventListener("click", () => {
+      stopPolling();
+      showPanel(panelSubmit);
+      loadTopics();
+    });
+
+    // ── Review ──────────────────────────────────────────────
+    function openReview(data) {
+      reviewTopicName.textContent = data.topic || data.input || data.name || "";
+      reviewTitle.value = data.title || data.topic || "";
+      reviewDesc.value = data.description || "";
+      reviewTags.value = (data.tags || []).join(", ");
+      reviewScript.value = data.script || "";
+
+      if (data.video_url) {
+        reviewVideo.querySelector("source").src = data.video_url;
+        reviewVideo.load();
+        reviewVideo.style.display = "block";
+        videoPlaceholder.style.display = "none";
+      } else {
+        reviewVideo.style.display = "none";
+        videoPlaceholder.style.display = "flex";
+      }
+
+      showPanel(panelReview);
+    }
+
+    btnBackProgress.addEventListener("click", () => {
+      showPanel(panelProgress);
+      pollTimer = setInterval(pollStatus, 3000);
+    });
+
+    // Approve
+    btnApprove.addEventListener("click", async () => {
+      const platforms = [];
+      document.querySelectorAll(".platforms input:checked").forEach(cb => platforms.push(cb.value));
+      const tags = reviewTags.value.split(",").map(t => t.trim()).filter(Boolean);
+
+      btnApprove.disabled = true;
+      try {
+        await apiPost("/studio/approve", {
+          id: currentTopicId,
+          platforms: platforms,
+          title: reviewTitle.value,
+          description: reviewDesc.value,
+          tags: tags
+        });
+        showToast("Approved and publishing");
+        showPanel(panelSubmit);
+        loadTopics();
+      } catch (e) {
+        showToast("Approve failed");
+      }
+      btnApprove.disabled = false;
+    });
+
+    // Reject
+    btnReject.addEventListener("click", () => {
+      rejectReason.value = "";
+      rejectModal.classList.add("open");
+    });
+    btnRejectCancel.addEventListener("click", () => {
+      rejectModal.classList.remove("open");
+    });
+    btnRejectConfirm.addEventListener("click", async () => {
+      btnRejectConfirm.disabled = true;
+      try {
+        await apiPost("/studio/reject", {
+          id: currentTopicId,
+          reason: rejectReason.value
+        });
+        rejectModal.classList.remove("open");
+        showToast("Rejected - sent back for revision");
+        showPanel(panelSubmit);
+        loadTopics();
+      } catch (e) {
+        showToast("Reject failed");
+      }
+      btnRejectConfirm.disabled = false;
+    });
+
+    // ── Init ────────────────────────────────────────────────
+    loadTopics();
+  </script>
+
+</body>
+</html>
