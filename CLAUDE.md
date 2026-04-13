@@ -8,8 +8,8 @@ Pure static site served at `neutralworking.com`. No package.json, no build step,
 
 Four top-level surfaces, all linked from `index.html`:
 
-1. **`index.html`** — landing page for "Neutral Working" (Luke Warrington). Single file, inline CSS/JS. Renders as a VS Code window (titlebar, tab strip, explorer, editor, status bar) with a syntax-highlighted TypeScript hero.
-2. **`admin/index.html`** — ops dashboard (portfolio health, KB freshness, Studio queue, script runner) behind a shared-secret auth gate. Shares the landing's VS Code aesthetic.
+1. **`index.html`** — landing page for "Neutral Working" (Luke Warrington). Dark bg (`#0a0a0a`), `#00ff88` accent, JetBrains Mono, grid background, glow orb, cursor-follow glow, `auto-fit` project grid. A VS-Code-styled redesign was tried and reverted — do not revive it without explicit instruction.
+2. **`admin/index.html`** — ops dashboard (portfolio health, KB freshness, Studio queue, script runner) behind a shared-secret auth gate. This one still uses the VS Code High Contrast aesthetic (titlebar / tab strip / explorer / editor / status bar, Geist Mono, `#4FC1FF`/`#4EC9B0`/`#F48771` accents). It is currently the only file using that language.
 3. **`studio/`** — "Language Tidbits Studio", a single-file SPA (`studio/index.html`, ~875 lines).
 4. **`kb/`** — static mirror of the "Chief Scout Knowledge Base".
 
@@ -77,13 +77,15 @@ The 5 Studio pipeline stage keys (`ingest`, `summarize`, `tts`, `render`, `ready
 
 ## Styling conventions
 
-Landing (`index.html`) and Admin (`admin/index.html`) share a **VS Code High Contrast Dark** visual language: pure black bg, bright colored accents (`--kw` `#4FC1FF`, `--type` `#4EC9B0`, `--fn` `#DCDCAA`, `--str` `#CE9178`, `--err` `#F48771`, `--cmt` `#7CAE6C`), fixed 34px titlebar / 32px tab strip / 24px status bar chrome, `Geist Mono` as the primary font with `Instrument Serif` for one hero accent on the landing, scanline + SVG grain overlays. The full token block is duplicated at the top of both files — if you adjust tokens, update both.
+Four surfaces, four deliberately distinct visual languages. **Do not unify** them without an explicit ask.
 
-KB (`kb/**/*.html`) uses a **different, older** visual language (JetBrains Mono, `#0a0a0a` bg, `#00ff88` accent, grid background via `body::before`). It is a generated mirror (see below) and should not be restyled to match the new landing unless you're prepared to rewrite the upstream generator.
+- **Landing (`index.html`)** and **KB (`kb/**/*.html`)** share the original green-terminal look: `#0a0a0a` bg, `#00ff88` accent, JetBrains Mono, fixed grid background via `body::before`, article h1/h2/h3 prefixed with `#`/`##`/`###` in the accent color on KB pages. The landing also has a pulsing glow orb and a cursor-follow glow.
+- **Admin (`admin/index.html`)** uses VS Code High Contrast Dark: pure black bg, `--kw` `#4FC1FF`, `--type` `#4EC9B0`, `--fn` `#DCDCAA`, `--str` `#CE9178`, `--err` `#F48771`, `--cmt` `#7CAE6C`; 34px titlebar / 32px tab strip / 24px status bar chrome; `Geist Mono` primary font; scanline + SVG grain overlays. Self-contained in one file.
+- **Studio (`studio/index.html`)** uses a third palette (`#005FFF` accent, Helvetica, 13px base).
 
-Studio (`studio/index.html`) uses a **third, deliberately distinct** palette (`#005FFF` accent, Helvetica, 13px base). Don't unify it with landing/admin unless asked.
+All CSS and JS is inlined per-file. There is no shared stylesheet — each file is independently styled. If you change tokens in admin, no other file needs updating.
 
-All CSS and JS is inlined per-file. There is no shared stylesheet — if you change the landing/admin token palette, the update must be hand-propagated. Same for KB chrome, preferably via the upstream generator.
+**Historical note on the landing:** a VS-Code-window concept for `index.html` was built and then reverted in the same session because it read as a "broken browser window" and the mobile layout was bad. Don't reach for that idea again without an explicit brief.
 
 ## Tooling / environment
 
