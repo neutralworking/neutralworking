@@ -24,7 +24,7 @@
 
     --fg-0: #FFFFFF;
     --fg-1: #A1A1A1;
-    --fg-2: #525252;
+    --fg-2: #8A8A8A;
     --fg-3: #2E2E2E;
 
     --kw:    #4FC1FF;
@@ -201,7 +201,8 @@
   .tree-item .dot.live { background: var(--type); box-shadow: 0 0 6px var(--type); }
   .tree-item .dot.wip  { background: var(--fn);   box-shadow: 0 0 6px var(--fn); }
   .tree-item .dot.down { background: var(--err);  box-shadow: 0 0 6px var(--err); }
-  .tree-item .meta { margin-left: auto; color: var(--fg-3); font-size: 10px; }
+  .tree-item .meta { margin-left: auto; color: var(--fg-2); font-size: 10px; }
+  .tree-item:hover .meta, .tree-item.is-active .meta { color: var(--fg-0); }
   .tree-item .arrow { color: var(--fg-3); width: 10px; display: inline-block; }
 
   /* ── dashboard ────────────────────────────────────────── */
@@ -375,7 +376,7 @@
   }
   .kb-cat .name { color: var(--fg-1); font-size: 12px; }
   .kb-cat .count { color: var(--var); font-variant-numeric: tabular-nums; }
-  .kb-cat .when  { color: var(--fg-3); font-size: 11px; margin-left: 10px; }
+  .kb-cat .when  { color: var(--fg-2); font-size: 11px; margin-left: 10px; }
 
   .kb-stale-list {
     background: var(--bg-1);
@@ -469,7 +470,7 @@
     color: var(--fg-0);
   }
   .palette-input input::placeholder { color: var(--fg-2); }
-  .palette-hint { color: var(--fg-3); font-size: 11px; }
+  .palette-hint { color: var(--fg-2); font-size: 11px; }
   .palette-list { max-height: 200px; overflow-y: auto; }
   .palette-row {
     display: grid;
@@ -544,7 +545,8 @@
   .terminal-tabs .tt .dot.done { background: var(--type); box-shadow: 0 0 6px var(--type); }
   .terminal-tabs .tt .dot.err  { background: var(--err); box-shadow: 0 0 6px var(--err); }
   .terminal-tabs .tt .dot.run  { background: var(--fn); animation: pulseBox 1.4s ease-in-out infinite; }
-  .terminal-tabs .tt .x { color: var(--fg-3); margin-left: 2px; font-size: 13px; line-height: 1; }
+  .terminal-tabs .tt .x { color: var(--fg-2); margin-left: 2px; font-size: 13px; line-height: 1; }
+  .terminal-tabs .tt .x:hover { color: var(--err); }
   .terminal-tabs .tt-spacer { flex: 1; }
 
   .terminal {
