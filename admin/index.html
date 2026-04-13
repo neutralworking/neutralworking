@@ -1,0 +1,1744 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="color-scheme" content="dark" />
+<meta name="robots" content="noindex, nofollow" />
+<title>admin.tsx — neutral.working</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@300;400;500;600;700&family=Geist:wght@300;400;500&display=swap" rel="stylesheet" />
+
+<style>
+  :root {
+    --bg-0: #000000;
+    --bg-1: #0A0A0A;
+    --bg-2: #141414;
+    --bg-3: #1C1C1C;
+    --bg-4: #262626;
+    --line-0: #1F1F1F;
+    --line-1: #3B3B3B;
+    --line-2: #6E6E6E;
+
+    --fg-0: #FFFFFF;
+    --fg-1: #A1A1A1;
+    --fg-2: #525252;
+    --fg-3: #2E2E2E;
+
+    --kw:    #4FC1FF;
+    --var:   #9CDCFE;
+    --fn:    #DCDCAA;
+    --str:   #CE9178;
+    --type:  #4EC9B0;
+    --cmt:   #7CAE6C;
+    --err:   #F48771;
+    --num:   #B5CEA8;
+    --punc:  #D4D4D4;
+
+    --mono: "Geist Mono", ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace;
+    --sans: "Geist", -apple-system, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  ::selection { background: rgba(79,193,255,0.28); color: #fff; }
+
+  html, body {
+    height: 100%;
+    background: var(--bg-0);
+    color: var(--fg-0);
+    font-family: var(--mono);
+    font-size: 13px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "tnum" 1, "ss01", "cv10";
+  }
+  body { overflow: hidden; }
+  a { color: inherit; text-decoration: none; }
+  button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
+  input, textarea {
+    font: inherit; color: inherit; background: none; border: none; outline: none;
+  }
+
+  /* ── window ───────────────────────────────────────────── */
+  .window {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    grid-template-rows: 34px 32px 1fr 24px;
+    z-index: 1;
+  }
+
+  /* ── titlebar ─────────────────────────────────────────── */
+  .titlebar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 14px;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--line-0);
+    font-size: 11px;
+    color: var(--fg-1);
+    user-select: none;
+  }
+  .titlebar-left, .titlebar-right { display: flex; align-items: center; gap: 14px; }
+  .file-icon { width: 11px; height: 11px; color: var(--kw); }
+  .breadcrumb { display: flex; align-items: center; gap: 8px; }
+  .breadcrumb .sep { color: var(--fg-3); }
+  .breadcrumb .here { color: var(--fg-0); }
+
+  .mode-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 8px;
+    border: 1px solid var(--line-1);
+    border-radius: 2px;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: border-color .15s, color .15s;
+  }
+  .mode-pill .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--fn); box-shadow: 0 0 6px var(--fn); }
+  .mode-pill.is-live .dot { background: var(--type); box-shadow: 0 0 6px var(--type); }
+  .mode-pill:hover { border-color: var(--kw); color: var(--fg-0); }
+
+  .clock { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+  .clock .unit { color: var(--fg-2); margin-left: 4px; }
+
+  /* ── tab strip ────────────────────────────────────────── */
+  .tabstrip {
+    display: flex;
+    background: var(--bg-1);
+    border-bottom: 1px solid var(--line-0);
+    font-size: 11px;
+    color: var(--fg-1);
+    user-select: none;
+  }
+  .tab {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 16px;
+    height: 100%;
+    background: var(--bg-0);
+    border-right: 1px solid var(--line-0);
+  }
+  .tab.active { color: var(--fg-0); border-top: 1px solid var(--err); }
+  .tab .tab-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--err); box-shadow: 0 0 6px var(--err); }
+  .tab .x { color: var(--fg-2); font-size: 13px; line-height: 1; }
+  .tab-filler {
+    flex: 1;
+    background: repeating-linear-gradient(-45deg, transparent 0 6px, var(--line-0) 6px 7px);
+    opacity: 0.35;
+  }
+  .tab-back {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 0 14px;
+    color: var(--fg-2);
+    border-right: 1px solid var(--line-0);
+    transition: color .15s, background .15s;
+  }
+  .tab-back:hover { color: var(--fg-0); background: var(--bg-3); }
+
+  /* ── main split ───────────────────────────────────────── */
+  .main {
+    display: grid;
+    grid-template-columns: 272px 1fr;
+    min-height: 0;
+  }
+
+  /* ── explorer ─────────────────────────────────────────── */
+  .explorer {
+    background: var(--bg-1);
+    border-right: 1px solid var(--line-0);
+    padding: 14px 0 24px;
+    overflow-y: auto;
+    font-size: 11px;
+    color: var(--fg-1);
+  }
+  .explorer-title {
+    padding: 0 16px 14px;
+    font-size: 10px;
+    color: var(--fg-2);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+  .tree-section { margin-bottom: 16px; }
+  .tree-section > .section-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 16px;
+    font-size: 10px;
+    color: var(--fg-2);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .tree-section .caret { color: var(--fg-2); width: 8px; display: inline-block; }
+  .tree-section > ul { list-style: none; padding: 2px 0 4px; }
+  .tree-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 3px 16px 3px 32px;
+    color: var(--fg-1);
+    font-size: 12px;
+    transition: background .12s, color .12s;
+    position: relative;
+    cursor: pointer;
+  }
+  .tree-item:hover { background: var(--bg-3); color: var(--fg-0); }
+  .tree-item.is-active { background: var(--bg-3); color: var(--fg-0); }
+  .tree-item.is-active::before {
+    content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: var(--kw);
+  }
+  .tree-item .dot { width: 6px; height: 6px; border-radius: 50%; flex: none; background: var(--fg-3); }
+  .tree-item .dot.live { background: var(--type); box-shadow: 0 0 6px var(--type); }
+  .tree-item .dot.wip  { background: var(--fn);   box-shadow: 0 0 6px var(--fn); }
+  .tree-item .dot.down { background: var(--err);  box-shadow: 0 0 6px var(--err); }
+  .tree-item .meta { margin-left: auto; color: var(--fg-3); font-size: 10px; }
+  .tree-item .arrow { color: var(--fg-3); width: 10px; display: inline-block; }
+
+  /* ── dashboard ────────────────────────────────────────── */
+  .dashboard {
+    position: relative;
+    overflow-y: auto;
+    background: var(--bg-0);
+    scroll-behavior: smooth;
+  }
+  .dashboard::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(1100px 500px at 15% 0%, rgba(79,193,255,0.04), transparent 60%),
+      radial-gradient(800px 400px at 100% 100%, rgba(244,135,113,0.03), transparent 70%);
+    pointer-events: none;
+  }
+
+  .panel {
+    position: relative;
+    padding: 28px 34px 34px;
+    border-bottom: 1px solid var(--line-0);
+  }
+  .panel + .panel { padding-top: 34px; }
+
+  .panel-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  .panel-header .kind {
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--fg-2);
+  }
+  .panel-header .kind::before {
+    content: "// ";
+    color: var(--cmt);
+  }
+  .panel-header h2 {
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    color: var(--fg-0);
+  }
+  .panel-header h2 .tkw { color: var(--kw); font-weight: 500; }
+  .panel-header h2 .tty { color: var(--type); font-weight: 500; }
+  .panel-header h2 .tvar { color: var(--var); }
+  .panel-header h2 .tpunc { color: var(--fg-2); }
+  .panel-header .spacer { flex: 1; }
+  .panel-header .btn { font-size: 11px; }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border: 1px solid var(--line-1);
+    color: var(--fg-0);
+    background: var(--bg-1);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    transition: border-color .15s, background .15s, color .15s;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  .btn:hover { border-color: var(--kw); color: var(--kw); }
+  .btn:focus-visible { outline: 2px solid var(--kw); outline-offset: 1px; }
+  .btn.primary { border-color: var(--kw); color: var(--kw); }
+  .btn.primary:hover { background: rgba(79,193,255,0.08); }
+  .btn.warn { border-color: var(--fn); color: var(--fn); }
+  .btn.warn:hover { background: rgba(220,220,170,0.08); }
+  .btn.danger { border-color: var(--err); color: var(--err); }
+  .btn.danger:hover { background: rgba(244,135,113,0.08); }
+  .btn[disabled] { opacity: 0.4; cursor: not-allowed; }
+
+  /* ── health grid ──────────────────────────────────────── */
+  .health-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .health-row {
+    display: grid;
+    grid-template-columns: 24px 2fr 80px 110px 110px 1fr 90px;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    border-top: 1px solid var(--line-0);
+    background: var(--bg-1);
+    transition: background .15s;
+  }
+  .health-row:first-child { border-top: none; }
+  .health-row:hover { background: var(--bg-2); }
+  .health-row .dot {
+    width: 8px; height: 8px; border-radius: 50%; background: var(--fg-3);
+    justify-self: center;
+  }
+  .health-row .dot.live { background: var(--type); box-shadow: 0 0 8px var(--type); }
+  .health-row .dot.wip  { background: var(--fn);   box-shadow: 0 0 8px var(--fn); }
+  .health-row .dot.down { background: var(--err);  box-shadow: 0 0 8px var(--err); }
+  .health-row .slug {
+    display: flex; flex-direction: column; gap: 2px;
+  }
+  .health-row .slug .name { color: var(--fg-0); font-weight: 500; }
+  .health-row .slug .url { color: var(--fg-2); font-size: 11px; }
+  .health-row .http { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+  .health-row .http.ok { color: var(--type); }
+  .health-row .http.err { color: var(--err); }
+  .health-row .lat { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+  .health-row .when { color: var(--fg-2); font-size: 11px; }
+  .health-row .spark { width: 100%; height: 24px; }
+  .health-row .recheck {
+    font-size: 10px; padding: 4px 10px;
+    color: var(--fg-1); border: 1px solid var(--line-1); border-radius: 2px;
+    transition: border-color .15s, color .15s;
+    justify-self: end;
+  }
+  .health-row .recheck:hover { border-color: var(--kw); color: var(--kw); }
+
+  /* ── KB freshness ─────────────────────────────────────── */
+  .kb-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 18px;
+  }
+  .kb-card {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    padding: 14px 16px;
+    border-radius: 2px;
+  }
+  .kb-card .label {
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--fg-2);
+  }
+  .kb-card .value {
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--fg-0);
+    margin-top: 6px;
+    font-variant-numeric: tabular-nums;
+  }
+  .kb-card .value .sub { color: var(--fg-2); font-size: 11px; font-weight: 400; margin-left: 6px; }
+  .kb-card .value.warn { color: var(--fn); }
+  .kb-card .value.ok   { color: var(--type); }
+
+  .kb-cats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .kb-cat {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    padding: 10px 14px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .kb-cat .name { color: var(--fg-1); font-size: 12px; }
+  .kb-cat .count { color: var(--var); font-variant-numeric: tabular-nums; }
+  .kb-cat .when  { color: var(--fg-3); font-size: 11px; margin-left: 10px; }
+
+  .kb-stale-list {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    padding: 10px 0;
+    border-radius: 2px;
+  }
+  .kb-stale-row {
+    display: grid;
+    grid-template-columns: 12px 1fr 100px 80px;
+    gap: 10px;
+    padding: 6px 16px;
+    color: var(--fg-1);
+    font-size: 12px;
+  }
+  .kb-stale-row .m { color: var(--fn); }
+  .kb-stale-row .path { color: var(--fg-0); }
+  .kb-stale-row .cat { color: var(--var); }
+  .kb-stale-row .age { color: var(--fg-2); font-variant-numeric: tabular-nums; }
+
+  /* ── studio queue ─────────────────────────────────────── */
+  .q-table {
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .q-head {
+    display: grid;
+    grid-template-columns: 120px 1fr 1fr 100px 90px;
+    gap: 14px;
+    padding: 10px 16px;
+    background: var(--bg-2);
+    color: var(--fg-2);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--line-0);
+  }
+  .q-row {
+    display: grid;
+    grid-template-columns: 120px 1fr 1fr 100px 90px;
+    gap: 14px;
+    align-items: center;
+    padding: 12px 16px;
+    background: var(--bg-1);
+    border-bottom: 1px solid var(--line-0);
+    transition: background .15s;
+  }
+  .q-row:last-child { border-bottom: none; }
+  .q-row:hover { background: var(--bg-2); }
+  .q-row .id { color: var(--fg-2); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .q-row .topic { color: var(--fg-0); }
+  .q-row .topic .reason { display: block; color: var(--err); font-size: 11px; margin-top: 2px; }
+  .q-row .stages { display: flex; gap: 6px; align-items: center; }
+  .q-row .stage {
+    width: 10px; height: 10px; border-radius: 2px; background: var(--bg-3);
+    border: 1px solid var(--line-1);
+  }
+  .q-row .stage.done { background: var(--type); border-color: var(--type); }
+  .q-row .stage.run  {
+    background: var(--fn); border-color: var(--fn);
+    animation: pulseBox 1.4s ease-in-out infinite;
+  }
+  .q-row .stage.err  { background: var(--err); border-color: var(--err); }
+  @keyframes pulseBox { 50% { opacity: 0.4; } }
+  .q-row .age { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+
+  /* ── script runner ────────────────────────────────────── */
+  .runner {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .palette {
+    background: var(--bg-1);
+    border: 1px solid var(--line-1);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .palette-input {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--line-0);
+  }
+  .palette-input .prompt { color: var(--kw); font-weight: 600; }
+  .palette-input input {
+    flex: 1;
+    font-size: 14px;
+    color: var(--fg-0);
+  }
+  .palette-input input::placeholder { color: var(--fg-2); }
+  .palette-hint { color: var(--fg-3); font-size: 11px; }
+  .palette-list { max-height: 200px; overflow-y: auto; }
+  .palette-row {
+    display: grid;
+    grid-template-columns: 18px 1fr auto;
+    gap: 12px;
+    padding: 10px 16px;
+    cursor: pointer;
+    border-top: 1px solid var(--line-0);
+    color: var(--fg-1);
+    transition: background .12s, color .12s;
+  }
+  .palette-row:first-child { border-top: none; }
+  .palette-row:hover, .palette-row.is-hover {
+    background: var(--bg-3);
+    color: var(--fg-0);
+  }
+  .palette-row .ico { color: var(--fn); text-align: center; }
+  .palette-row .id { color: var(--fg-2); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .palette-row .label .name { color: var(--fg-0); }
+  .palette-row .label .desc { color: var(--fg-2); font-size: 11px; display: block; }
+
+  .params {
+    display: none;
+    padding: 14px 16px;
+    border-top: 1px solid var(--line-0);
+    background: var(--bg-0);
+    gap: 10px;
+  }
+  .params.open { display: grid; }
+  .params .row { display: flex; align-items: center; gap: 10px; }
+  .params label { color: var(--fg-2); font-size: 11px; min-width: 100px; text-transform: uppercase; letter-spacing: 0.1em; }
+  .params input[type="text"],
+  .params select {
+    flex: 1;
+    padding: 8px 10px;
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    color: var(--fg-0);
+    font-size: 12px;
+    border-radius: 2px;
+  }
+  .params input[type="text"]:focus,
+  .params select:focus { border-color: var(--kw); }
+  .params .actions { display: flex; gap: 10px; margin-top: 4px; justify-content: flex-end; }
+
+  .terminal-wrap {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .terminal-tabs {
+    display: flex;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--line-0);
+    font-size: 11px;
+    color: var(--fg-1);
+    min-height: 30px;
+    overflow-x: auto;
+  }
+  .terminal-tabs .tt {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 14px;
+    border-right: 1px solid var(--line-0);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .terminal-tabs .tt.active { color: var(--fg-0); background: var(--bg-0); }
+  .terminal-tabs .tt .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--fn); }
+  .terminal-tabs .tt .dot.done { background: var(--type); box-shadow: 0 0 6px var(--type); }
+  .terminal-tabs .tt .dot.err  { background: var(--err); box-shadow: 0 0 6px var(--err); }
+  .terminal-tabs .tt .dot.run  { background: var(--fn); animation: pulseBox 1.4s ease-in-out infinite; }
+  .terminal-tabs .tt .x { color: var(--fg-3); margin-left: 2px; font-size: 13px; line-height: 1; }
+  .terminal-tabs .tt-spacer { flex: 1; }
+
+  .terminal {
+    padding: 14px 16px;
+    height: 300px;
+    overflow-y: auto;
+    background: #000;
+    font-size: 12.5px;
+    line-height: 20px;
+    color: var(--fg-0);
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .terminal .pl { color: var(--kw); }
+  .terminal .ok { color: var(--type); }
+  .terminal .wn { color: var(--fn); }
+  .terminal .er { color: var(--err); }
+  .terminal .dm { color: var(--fg-2); }
+  .terminal .cmt2 { color: var(--cmt); }
+  .terminal-empty {
+    color: var(--fg-2);
+    padding: 14px 16px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    font-size: 12px;
+  }
+
+  /* ── not-wired empty state ────────────────────────────── */
+  .not-wired {
+    border: 1px dashed var(--line-1);
+    background:
+      repeating-linear-gradient(-45deg, rgba(220,220,170,0.02) 0 8px, transparent 8px 16px);
+    padding: 22px 24px;
+    color: var(--fg-1);
+    font-size: 12px;
+    border-radius: 2px;
+  }
+  .not-wired .h {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--fn);
+    margin-bottom: 8px;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .not-wired code {
+    display: inline-block;
+    background: var(--bg-1);
+    padding: 2px 6px;
+    color: var(--var);
+    border-radius: 2px;
+  }
+
+  /* ── status bar ───────────────────────────────────────── */
+  .statusbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 14px;
+    background: var(--err);
+    color: #1a0805;
+    font-size: 11px;
+    font-weight: 500;
+    user-select: none;
+    border-top: 1px solid var(--line-0);
+  }
+  .statusbar.is-live { background: var(--type); color: #021a10; }
+  .statusbar .group { display: flex; align-items: center; gap: 16px; height: 100%; }
+  .statusbar .sb { display: inline-flex; align-items: center; gap: 6px; padding: 0 2px; height: 100%; }
+  .statusbar .sb.linkish { padding: 0 8px; cursor: pointer; transition: background .15s; }
+  .statusbar .sb.linkish:hover { background: rgba(0,0,0,0.2); }
+  .statusbar .dot-ready {
+    width: 6px; height: 6px; border-radius: 50%; background: currentColor; opacity: 0.85;
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes pulse { 50% { opacity: 0.3; } }
+
+  /* ── auth modal ───────────────────────────────────────── */
+  .modal-mask {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.82);
+    backdrop-filter: blur(6px);
+    z-index: 200;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 16vh;
+  }
+  .modal-mask.open { display: flex; }
+  .modal {
+    width: 540px;
+    max-width: 92vw;
+    background: var(--bg-1);
+    border: 1px solid var(--line-1);
+    border-top: 1px solid var(--kw);
+    box-shadow: 0 30px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(79,193,255,0.08);
+    animation: modalIn .25s cubic-bezier(.2,.8,.2,1);
+  }
+  @keyframes modalIn { from { transform: translateY(-8px); opacity: 0; } }
+  .modal .mh {
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--fg-2);
+    border-bottom: 1px solid var(--line-0);
+    background: var(--bg-2);
+  }
+  .modal .mh .cmd { color: var(--kw); }
+  .modal .body {
+    padding: 18px 18px 14px;
+  }
+  .modal .prompt {
+    color: var(--kw);
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 10px;
+  }
+  .modal .input-row {
+    display: flex;
+    align-items: center;
+    padding: 10px 14px;
+    background: var(--bg-0);
+    border: 1px solid var(--line-1);
+    border-radius: 2px;
+  }
+  .modal .input-row input {
+    flex: 1;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    color: var(--fg-0);
+  }
+  .modal .input-row input::placeholder { color: var(--fg-2); }
+  .modal .hint {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    color: var(--fg-2);
+    font-size: 11px;
+  }
+  .modal .hint .err-msg { color: var(--err); }
+  .modal .hint kbd {
+    background: var(--bg-3);
+    border: 1px solid var(--line-1);
+    border-radius: 2px;
+    padding: 1px 6px;
+    font-size: 10px;
+    color: var(--fg-1);
+    font-family: var(--mono);
+  }
+  .modal .foot {
+    padding: 12px 18px;
+    border-top: 1px solid var(--line-0);
+    background: var(--bg-2);
+    color: var(--cmt);
+    font-size: 11px;
+  }
+  .modal .foot::before { content: "// "; color: var(--cmt); opacity: 0.7; }
+
+  /* ── toast ────────────────────────────────────────────── */
+  .toast {
+    position: fixed;
+    bottom: 48px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    padding: 10px 18px;
+    background: var(--bg-1);
+    border: 1px solid var(--line-1);
+    color: var(--fg-0);
+    font-size: 12px;
+    z-index: 150;
+    opacity: 0;
+    transition: opacity .2s, transform .2s;
+    pointer-events: none;
+    border-radius: 2px;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  .toast.ok  { border-top: 1px solid var(--type); }
+  .toast.err { border-top: 1px solid var(--err); }
+
+  /* ── overlays ─────────────────────────────────────────── */
+  .scanlines {
+    position: fixed; inset: 0;
+    background: repeating-linear-gradient(to bottom, rgba(255,255,255,0.022) 0 1px, transparent 1px 3px);
+    pointer-events: none;
+    z-index: 99;
+    mix-blend-mode: overlay;
+  }
+  .grain {
+    position: fixed; inset: 0;
+    pointer-events: none;
+    z-index: 98;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='1.1' numOctaves='2'/><feColorMatrix type='matrix' values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.8 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  }
+
+  /* ── intro stagger ────────────────────────────────────── */
+  .fade-up { opacity: 0; transform: translateY(4px); animation: fadeUp .45s cubic-bezier(.2,.7,.2,1) forwards; }
+  @keyframes fadeUp { to { opacity: 1; transform: none; } }
+  .panel:nth-of-type(1) { animation-delay: 0ms; }
+  .panel:nth-of-type(2) { animation-delay: 60ms; }
+  .panel:nth-of-type(3) { animation-delay: 120ms; }
+  .panel:nth-of-type(4) { animation-delay: 180ms; }
+
+  /* ── responsive ───────────────────────────────────────── */
+  @media (max-width: 1100px) {
+    .health-row {
+      grid-template-columns: 20px 2fr 70px 90px 90px 80px;
+    }
+    .health-row .spark { display: none; }
+    .kb-top { grid-template-columns: 1fr 1fr; }
+    .kb-cats { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 860px) {
+    .main { grid-template-columns: 1fr; }
+    .explorer { display: none; }
+    .panel { padding: 22px 18px; }
+    .panel-header h2 { font-size: 15px; }
+    .health-row { grid-template-columns: 20px 1fr 70px 90px 70px; gap: 10px; }
+    .health-row .when { display: none; }
+    .kb-top { grid-template-columns: 1fr 1fr; }
+    .kb-cats { grid-template-columns: 1fr; }
+    .q-head, .q-row { grid-template-columns: 80px 1.5fr 1fr 70px; }
+    .q-row .age, .q-head > :nth-child(5) { display: none; }
+    .terminal { height: 240px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- auth modal -->
+<div class="modal-mask" id="auth-modal">
+  <div class="modal" role="dialog" aria-label="enter admin token">
+    <div class="mh"><span class="cmd">⌘K</span> &nbsp;authenticate &nbsp;·&nbsp; neutral.working /admin</div>
+    <div class="body">
+      <div class="input-row">
+        <span class="prompt">&gt;</span>
+        <input id="auth-input" type="password" autocomplete="off" spellcheck="false" placeholder="enter admin token" />
+      </div>
+      <div class="hint">
+        <span id="auth-err" class="err-msg"></span>
+        <span><kbd>↵</kbd> authenticate &nbsp;·&nbsp; <kbd>esc</kbd> cancel</span>
+      </div>
+    </div>
+    <div class="foot">token is sent as <code style="color:var(--var);font-family:var(--mono)">X-Admin-Token</code> header to n8n. enforcement lives upstream — this page is a convenience, not a lock.</div>
+  </div>
+</div>
+
+<div class="window">
+
+  <!-- titlebar -->
+  <header class="titlebar">
+    <div class="titlebar-left">
+      <svg class="file-icon" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <path d="M3 1.5h6L13 5.5v8a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-12a1 1 0 0 1 1-1Z" stroke="currentColor" stroke-width="1.2"/>
+        <path d="M9 1.5V5h4" stroke="currentColor" stroke-width="1.2"/>
+      </svg>
+      <div class="breadcrumb">
+        <a href="/" style="color:var(--fg-1)">neutral.working</a>
+        <span class="sep">/</span>
+        <span>admin</span>
+        <span class="sep">/</span>
+        <span class="here">admin.tsx</span>
+      </div>
+    </div>
+    <div class="titlebar-right">
+      <button id="mode-pill" class="mode-pill" title="toggle live / mock">
+        <span class="dot"></span> <span id="mode-label">mock</span>
+      </button>
+      <span class="clock" id="clock">—— : —— : ——<span class="unit">UTC</span></span>
+    </div>
+  </header>
+
+  <!-- tab strip -->
+  <div class="tabstrip">
+    <a class="tab-back" href="/">
+      <span>←</span> <span>index.tsx</span>
+    </a>
+    <div class="tab active">
+      <span class="tab-dot"></span>
+      <span>admin.tsx</span>
+      <span class="x">×</span>
+    </div>
+    <div class="tab-filler"></div>
+  </div>
+
+  <!-- main -->
+  <div class="main">
+
+    <!-- explorer -->
+    <aside class="explorer">
+      <div class="explorer-title">Explorer — admin</div>
+
+      <div class="tree-section">
+        <div class="section-label"><span class="caret">▾</span> PORTFOLIO HEALTH</div>
+        <ul id="explorer-portfolio"></ul>
+      </div>
+
+      <div class="tree-section">
+        <div class="section-label"><span class="caret">▾</span> PIPELINES</div>
+        <ul>
+          <li><a class="tree-item" data-target="#panel-kb"><span class="dot live"></span><span>kb / mirror</span></a></li>
+          <li><a class="tree-item" data-target="#panel-studio"><span class="dot wip"></span><span>studio / queue</span></a></li>
+        </ul>
+      </div>
+
+      <div class="tree-section">
+        <div class="section-label"><span class="caret">▾</span> SCRIPTS</div>
+        <ul id="explorer-scripts"></ul>
+      </div>
+
+      <div class="tree-section">
+        <div class="section-label"><span class="caret">▾</span> META</div>
+        <ul>
+          <li><a class="tree-item" href="/"><span class="arrow">←</span><span>back to /</span></a></li>
+          <li><a class="tree-item" id="sign-out-tree"><span class="arrow">⎆</span><span>sign out</span></a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- dashboard -->
+    <section class="dashboard">
+
+      <!-- ── panel 1: health grid ────────────────────────── -->
+      <div class="panel fade-up" id="panel-health">
+        <div class="panel-header">
+          <span class="kind">panel 01</span>
+          <h2><span class="tkw">portfolio</span><span class="tpunc">.</span><span class="tvar">health</span><span class="tpunc">()</span></h2>
+          <span class="spacer"></span>
+          <button class="btn" id="btn-recheck-all">⟳ re-check all</button>
+        </div>
+        <div id="health-grid" class="health-grid"></div>
+      </div>
+
+      <!-- ── panel 2: KB freshness ───────────────────────── -->
+      <div class="panel fade-up" id="panel-kb">
+        <div class="panel-header">
+          <span class="kind">panel 02</span>
+          <h2><span class="tkw">kb</span><span class="tpunc">.</span><span class="tvar">freshness</span><span class="tpunc">()</span></h2>
+          <span class="spacer"></span>
+          <button class="btn warn" id="btn-kb-rebuild">⟳ rebuild mirror</button>
+        </div>
+        <div class="kb-top" id="kb-top"></div>
+        <div class="kb-cats" id="kb-cats"></div>
+        <div class="kb-stale-list" id="kb-stale"></div>
+      </div>
+
+      <!-- ── panel 3: studio queue ───────────────────────── -->
+      <div class="panel fade-up" id="panel-studio">
+        <div class="panel-header">
+          <span class="kind">panel 03</span>
+          <h2><span class="tkw">studio</span><span class="tpunc">.</span><span class="tvar">queue</span><span class="tpunc">[]</span></h2>
+          <span class="spacer"></span>
+          <button class="btn" id="btn-studio-refresh">⟳ refresh</button>
+        </div>
+        <div class="q-table">
+          <div class="q-head">
+            <div>id</div>
+            <div>topic</div>
+            <div>pipeline</div>
+            <div>age</div>
+            <div></div>
+          </div>
+          <div id="q-rows"></div>
+        </div>
+      </div>
+
+      <!-- ── panel 4: script runner ──────────────────────── -->
+      <div class="panel fade-up" id="panel-runner">
+        <div class="panel-header">
+          <span class="kind">panel 04</span>
+          <h2><span class="tkw">scripts</span><span class="tpunc">.</span><span class="tvar">run</span><span class="tpunc">()</span></h2>
+          <span class="spacer"></span>
+          <span class="palette-hint">⌘K to focus · ↑↓ to navigate · ↵ to run</span>
+        </div>
+
+        <div class="runner">
+          <div class="palette">
+            <div class="palette-input">
+              <span class="prompt">&gt;</span>
+              <input id="palette-q" type="text" placeholder="run a script or workflow…" spellcheck="false" autocomplete="off" />
+              <span class="palette-hint" id="palette-count">—</span>
+            </div>
+            <div class="palette-list" id="palette-list"></div>
+            <div class="params" id="params">
+              <div class="row">
+                <label>args</label>
+                <input type="text" id="param-args" placeholder="(none)" />
+              </div>
+              <div class="actions">
+                <button class="btn" id="btn-cancel-params">cancel</button>
+                <button class="btn primary" id="btn-run-script">⏵ run</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="terminal-wrap">
+            <div class="terminal-tabs" id="term-tabs"></div>
+            <div id="term-body" class="terminal-empty">select a script above to begin</div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <!-- status bar -->
+  <footer class="statusbar" id="statusbar">
+    <div class="group left">
+      <span class="sb"><span>⎇</span> main</span>
+      <span class="sb"><span class="dot-ready"></span> <span id="sb-mode">MOCK MODE</span></span>
+      <span class="sb"><span>🔒</span> token: <span id="sb-token">—</span></span>
+    </div>
+    <div class="group right">
+      <span class="sb"><span id="sb-jobs">● 0 jobs</span></span>
+      <span class="sb">last sync: <span id="sb-sync">never</span></span>
+      <a class="sb linkish" id="sb-signout">sign out ⎆</a>
+    </div>
+  </footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<div class="scanlines" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<script>
+/* ═══════════════════════════════════════════════════════════════════════
+ *  neutral.working — admin dashboard
+ *  ─────────────────────────────────────────────────────────────────────
+ *  Auth model: a shared secret stored in localStorage under
+ *  `nw.admin.token`, sent as `X-Admin-Token` header on every fetch to n8n.
+ *  Real enforcement lives in n8n; this page is a convenience, not a lock.
+ *  Anyone reading this JS can see the header name; anyone on the network
+ *  can read the token from request headers. Treat accordingly.
+ *
+ *  n8n endpoint contract (all paths live under `/n8n/webhook/admin/`):
+ *  ─────────────────────────────────────────────────────────────────────
+ *    GET  /portfolio                → [{ slug, url, status, http,
+ *                                        latency_ms, last_check, history }]
+ *    POST /portfolio/recheck        → re-run all health checks
+ *    GET  /kb/status                → { last_rebuild, categories, stale }
+ *    POST /kb/rebuild               → kick off pipeline/96_kb_index.py
+ *    GET  /studio/queue             → [{ id, topic, stage, status,
+ *                                        age_seconds, rejected_reason? }]
+ *    POST /studio/rerun             → { id }
+ *    GET  /workflows                → [{ id, label, desc, params:[...] }]
+ *    POST /scripts/run              → { id, params } → { job_id }
+ *    GET  /scripts/status?job_id    → { state, logs, exit_code? }
+ *
+ *  If any endpoint returns 404, the owning panel falls back to a dashed
+ *  "not wired" empty state with the exact path it tried. Nothing breaks.
+ * ═══════════════════════════════════════════════════════════════════════ */
+
+/* ── config ─────────────────────────────────────────────────────── */
+const WEBHOOK_BASE = "/n8n/webhook/admin";
+const LS_TOKEN     = "nw.admin.token";
+const LS_MOCK      = "nw.admin.mock";
+const POLL_QUEUE_MS  = 4000;
+const POLL_SCRIPT_MS = 1500;
+
+/* ── state ──────────────────────────────────────────────────────── */
+const state = {
+  token:   localStorage.getItem(LS_TOKEN) || "",
+  mock:    localStorage.getItem(LS_MOCK) !== "0",  // default ON
+  jobs:    new Map(),   // job_id → { tabEl, bodyEl, timer, state, label }
+  activeJob: null,
+  workflows: [],
+  selectedIdx: 0,
+  selectedWorkflow: null,
+};
+
+/* ── mocks ──────────────────────────────────────────────────────── */
+const MOCK = {
+  portfolio: [
+    { slug: "softpower",   url: "https://softpower.neutralworking.com", status: "live", http: 200, latency_ms: 118, last_check: Date.now()-42000,  history: spark(20, 90, 160) },
+    { slug: "studio",      url: "/studio/",                             status: "live", http: 200, latency_ms: 42,  last_check: Date.now()-31000,  history: spark(20, 30, 90)  },
+    { slug: "kb",          url: "/kb/",                                 status: "live", http: 200, latency_ms: 38,  last_check: Date.now()-29000,  history: spark(20, 20, 70)  },
+    { slug: "chief-scout", url: "https://scout.neutralworking.com",     status: "wip",  http: 302, latency_ms: 210, last_check: Date.now()-60000,  history: spark(20, 150, 260)},
+    { slug: "chat",        url: "https://chat.neutralworking.com",      status: "live", http: 200, latency_ms: 94,  last_check: Date.now()-44000,  history: spark(20, 70, 140) },
+    { slug: "n8n",         url: "https://n8n.neutralworking.com",       status: "live", http: 200, latency_ms: 63,  last_check: Date.now()-39000,  history: spark(20, 45, 110) },
+  ],
+  kb: {
+    last_rebuild: Date.now() - 1000*60*60*24*10,
+    total_articles: 46,
+    total_words: 15911,
+    stale_count: 4,
+    categories: [
+      { name: "archetypes", count: 13, last_updated: Date.now() - 1000*60*60*24*10  },
+      { name: "tactics",    count: 33, last_updated: Date.now() - 1000*60*60*24*10  },
+      { name: "clubs",      count: 0,  last_updated: null                            },
+      { name: "players",    count: 0,  last_updated: null                            },
+      { name: "concepts",   count: 0,  last_updated: null                            },
+      { name: "queries",    count: 0,  last_updated: null                            },
+    ],
+    stale: [
+      { slug: "commander",  category: "archetypes", days_old: 10 },
+      { slug: "engine",     category: "archetypes", days_old: 10 },
+      { slug: "2-3-5-wm",   category: "tactics",    days_old: 10 },
+      { slug: "3-4-3",      category: "tactics",    days_old: 10 },
+    ],
+  },
+  studio: [
+    { id: "T-00182", topic: "lenition in celtic languages",          stages: ["done","done","run","pending","pending"], stage: "tts",      age_seconds: 94,  status: "running" },
+    { id: "T-00181", topic: "false friends: embarassada (pt→es)",    stages: ["done","done","done","done","done"],       stage: "ready",    age_seconds: 430, status: "ready"   },
+    { id: "T-00180", topic: "why japanese has no future tense",      stages: ["done","done","done","err","pending"],     stage: "render",   age_seconds: 870, status: "error",  rejected_reason: "tts voice model timed out" },
+    { id: "T-00179", topic: "the great vowel shift",                 stages: ["done","run","pending","pending","pending"], stage: "summarize", age_seconds: 22, status: "running" },
+  ],
+  workflows: [
+    { id: "kb.rebuild",       label: "kb · rebuild mirror",       desc: "run pipeline/96_kb_index.py upstream and pull built output", ico: "⟳", params: [] },
+    { id: "kb.import",        label: "kb · import source",        desc: "ingest a markdown source file into chief-scout",             ico: "↧", params: ["path"] },
+    { id: "studio.rerun",     label: "studio · rerun topic",      desc: "re-queue a failed or rejected topic through the pipeline",   ico: "↻", params: ["topic_id"] },
+    { id: "studio.submit",    label: "studio · submit topic",     desc: "enqueue a fresh language-tidbit topic",                      ico: "＋", params: ["input"] },
+    { id: "health.recheck",   label: "health · re-check all",     desc: "force a fresh uptime probe across the portfolio",            ico: "⟳", params: [] },
+    { id: "health.cache",     label: "health · bust cache",       desc: "invalidate cached status for all portfolio items",           ico: "✕", params: [] },
+    { id: "git.pull",         label: "git · pull origin",         desc: "pull latest changes on the deploy host",                     ico: "⇣", params: [] },
+    { id: "cdn.purge",        label: "cdn · purge all",           desc: "purge cloudflare cache for neutralworking.com",              ico: "✕", params: [] },
+  ],
+  scripts_progress: {
+    "kb.rebuild": [
+      { t: 0,    cls: "pl", text: "$ pipeline/96_kb_index.py" },
+      { t: 200,  cls: "dm", text: "─ loading upstream source tree…" },
+      { t: 500,  cls: "dm", text: "─ parsing 46 markdown sources" },
+      { t: 850,  cls: "dm", text: "─ rendering archetypes/ (13 files)" },
+      { t: 1200, cls: "dm", text: "─ rendering tactics/ (33 files)" },
+      { t: 1550, cls: "dm", text: "─ building category _index.md" },
+      { t: 1850, cls: "cmt2", text: "# 46 articles / 15,911 words" },
+      { t: 2200, cls: "dm", text: "─ writing kb/INDEX.md" },
+      { t: 2500, cls: "ok", text: "✓ mirror rebuilt in 2.47s" },
+      { t: 2700, cls: "ok", text: "✓ done", done: true },
+    ],
+    "studio.rerun": [
+      { t: 0,    cls: "pl", text: "$ studio.rerun T-00180" },
+      { t: 300,  cls: "dm", text: "─ resetting pipeline state for T-00180" },
+      { t: 600,  cls: "dm", text: "─ stage: ingest …" },
+      { t: 1000, cls: "ok", text: "✓ ingest done (312ms)" },
+      { t: 1200, cls: "dm", text: "─ stage: summarize …" },
+      { t: 1800, cls: "ok", text: "✓ summarize done (612ms)" },
+      { t: 2000, cls: "dm", text: "─ stage: tts …" },
+      { t: 2800, cls: "ok", text: "✓ tts done (798ms)" },
+      { t: 3000, cls: "dm", text: "─ stage: render …" },
+      { t: 3700, cls: "ok", text: "✓ render done (701ms)" },
+      { t: 3900, cls: "ok", text: "✓ topic T-00180 ready for review", done: true },
+    ],
+    "health.recheck": [
+      { t: 0,    cls: "pl", text: "$ health.recheck" },
+      { t: 150,  cls: "dm", text: "→ probing softpower.neutralworking.com" },
+      { t: 320,  cls: "ok", text: "  200 OK · 118ms" },
+      { t: 450,  cls: "dm", text: "→ probing /studio/" },
+      { t: 570,  cls: "ok", text: "  200 OK · 42ms" },
+      { t: 650,  cls: "dm", text: "→ probing /kb/" },
+      { t: 790,  cls: "ok", text: "  200 OK · 38ms" },
+      { t: 900,  cls: "dm", text: "→ probing scout.neutralworking.com" },
+      { t: 1180, cls: "wn", text: "  302 FOUND · 210ms (redirect)" },
+      { t: 1250, cls: "dm", text: "→ probing chat.neutralworking.com" },
+      { t: 1400, cls: "ok", text: "  200 OK · 94ms" },
+      { t: 1500, cls: "dm", text: "→ probing n8n.neutralworking.com" },
+      { t: 1680, cls: "ok", text: "  200 OK · 63ms" },
+      { t: 1800, cls: "ok", text: "✓ 5/6 healthy · 1 wip", done: true },
+    ],
+    "default": [
+      { t: 0,    cls: "pl", text: "$ running…" },
+      { t: 400,  cls: "dm", text: "─ starting job" },
+      { t: 1100, cls: "dm", text: "─ working" },
+      { t: 1800, cls: "ok", text: "✓ complete", done: true },
+    ],
+  },
+};
+
+function spark(n, min, max) {
+  const a = [];
+  for (let i = 0; i < n; i++) a.push(Math.round(min + Math.random() * (max - min)));
+  return a;
+}
+
+/* ── auth ───────────────────────────────────────────────────────── */
+const authModal = document.getElementById("auth-modal");
+const authInput = document.getElementById("auth-input");
+const authErr   = document.getElementById("auth-err");
+
+function openAuth(errMsg) {
+  authErr.textContent = errMsg || "";
+  authInput.value = "";
+  authModal.classList.add("open");
+  setTimeout(() => authInput.focus(), 0);
+}
+function closeAuth() { authModal.classList.remove("open"); }
+
+authInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    const v = authInput.value.trim();
+    if (!v) { authErr.textContent = "empty token"; return; }
+    state.token = v;
+    localStorage.setItem(LS_TOKEN, v);
+    updateTokenDisplay();
+    closeAuth();
+    boot();
+  }
+  if (e.key === "Escape") {
+    if (state.token) closeAuth();
+  }
+});
+
+async function updateTokenDisplay() {
+  const el = document.getElementById("sb-token");
+  if (!state.token) { el.textContent = "—"; return; }
+  try {
+    const buf = new TextEncoder().encode(state.token);
+    const hash = await crypto.subtle.digest("SHA-256", buf);
+    const hex = Array.from(new Uint8Array(hash)).slice(0, 2).map(b => b.toString(16).padStart(2,"0")).join("");
+    el.textContent = hex + "…";
+  } catch {
+    el.textContent = "****";
+  }
+}
+
+function signOut() {
+  localStorage.removeItem(LS_TOKEN);
+  state.token = "";
+  updateTokenDisplay();
+  openAuth();
+}
+document.getElementById("sb-signout").addEventListener("click", signOut);
+document.getElementById("sign-out-tree").addEventListener("click", signOut);
+
+/* ── fetch wrapper ──────────────────────────────────────────────── */
+async function nwFetch(path, init = {}) {
+  if (state.mock) return mockFetch(path, init);
+  const headers = new Headers(init.headers || {});
+  headers.set("X-Admin-Token", state.token);
+  if (init.body && !headers.has("Content-Type")) headers.set("Content-Type", "application/json");
+  const res = await fetch(WEBHOOK_BASE + path, { ...init, headers });
+  if (res.status === 401) {
+    signOut();
+    openAuth("token rejected by n8n");
+    throw new Error("401");
+  }
+  if (res.status === 404) {
+    const err = new Error("not wired");
+    err.code = 404;
+    err.path = WEBHOOK_BASE + path;
+    throw err;
+  }
+  if (!res.ok) throw new Error("fetch " + path + " " + res.status);
+  return res.json();
+}
+
+/* ── mock fetch ─────────────────────────────────────────────────── */
+async function mockFetch(path, init) {
+  await new Promise(r => setTimeout(r, 120 + Math.random() * 180));
+  if (path === "/portfolio")       return structuredClone(MOCK.portfolio);
+  if (path === "/portfolio/recheck") {
+    MOCK.portfolio.forEach(p => {
+      p.latency_ms = Math.max(15, Math.round(p.latency_ms + (Math.random()*40 - 20)));
+      p.last_check = Date.now();
+      p.history.shift();
+      p.history.push(p.latency_ms);
+    });
+    return { ok: true };
+  }
+  if (path === "/kb/status")       return structuredClone(MOCK.kb);
+  if (path === "/kb/rebuild")      return { job_id: spawnJob("kb.rebuild", "kb · rebuild mirror") };
+  if (path === "/studio/queue")    return structuredClone(MOCK.studio);
+  if (path === "/studio/rerun")    return { job_id: spawnJob("studio.rerun", "studio · rerun") };
+  if (path === "/workflows")       return structuredClone(MOCK.workflows);
+  if (path === "/scripts/run") {
+    const body = init.body ? JSON.parse(init.body) : {};
+    const label = (MOCK.workflows.find(w => w.id === body.id) || {}).label || body.id || "script";
+    return { job_id: spawnJob(body.id || "default", label) };
+  }
+  if (path.startsWith("/scripts/status")) {
+    const id = new URLSearchParams(path.split("?")[1] || "").get("job_id");
+    return mockJobStatus(id);
+  }
+  throw Object.assign(new Error("mock not wired"), { code: 404, path: WEBHOOK_BASE + path });
+}
+
+/* ── mock job engine ────────────────────────────────────────────── */
+const mockJobs = new Map();  // job_id → { kind, started, logs, done }
+let jobSeq = 100;
+function spawnJob(kind, label) {
+  const id = "J-" + (++jobSeq).toString().padStart(5, "0");
+  mockJobs.set(id, { kind, label, started: Date.now(), logs: [], done: false });
+  return id;
+}
+function mockJobStatus(id) {
+  const job = mockJobs.get(id);
+  if (!job) return { state: "error", logs: [{ cls: "er", text: "job not found: " + id }], exit_code: 127 };
+  const script = MOCK.scripts_progress[job.kind] || MOCK.scripts_progress["default"];
+  const elapsed = Date.now() - job.started;
+  const logs = script.filter(s => s.t <= elapsed);
+  const last = script[script.length - 1];
+  const done = elapsed >= last.t && last.done;
+  if (done) job.done = true;
+  return {
+    state: done ? "done" : "running",
+    logs: logs.map(l => ({ cls: l.cls, text: l.text })),
+    exit_code: done ? 0 : null,
+  };
+}
+
+/* ── toast ──────────────────────────────────────────────────────── */
+const toastEl = document.getElementById("toast");
+let toastTimer = null;
+function toast(msg, kind) {
+  toastEl.textContent = msg;
+  toastEl.className = "toast show " + (kind || "");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { toastEl.className = "toast"; }, 2800);
+}
+
+/* ── mode toggle ────────────────────────────────────────────────── */
+const modePill = document.getElementById("mode-pill");
+const modeLabel = document.getElementById("mode-label");
+const sbMode = document.getElementById("sb-mode");
+const statusbarEl = document.getElementById("statusbar");
+function applyMode() {
+  modeLabel.textContent = state.mock ? "mock" : "live";
+  modePill.classList.toggle("is-live", !state.mock);
+  sbMode.textContent = state.mock ? "MOCK MODE" : "LIVE";
+  statusbarEl.classList.toggle("is-live", !state.mock);
+}
+modePill.addEventListener("click", () => {
+  state.mock = !state.mock;
+  localStorage.setItem(LS_MOCK, state.mock ? "1" : "0");
+  applyMode();
+  toast(state.mock ? "switched to mock mode" : "switched to live mode", "ok");
+  boot();
+});
+
+/* ── clock ──────────────────────────────────────────────────────── */
+const clockEl = document.getElementById("clock");
+function tickClock() {
+  const d = new Date();
+  const pad = (n) => String(n).padStart(2, "0");
+  clockEl.innerHTML =
+    pad(d.getUTCHours()) + " : " + pad(d.getUTCMinutes()) + " : " + pad(d.getUTCSeconds()) +
+    '<span class="unit">UTC</span>';
+}
+tickClock();
+setInterval(tickClock, 1000);
+
+function updateSync() {
+  document.getElementById("sb-sync").textContent = "now";
+}
+function updateJobsCount() {
+  const n = Array.from(state.jobs.values()).filter(j => j.state === "running").length;
+  document.getElementById("sb-jobs").textContent = "● " + n + " job" + (n === 1 ? "" : "s");
+}
+
+/* ── not-wired empty state ──────────────────────────────────────── */
+function renderNotWired(el, err) {
+  el.innerHTML = `
+    <div class="not-wired">
+      <div class="h">⚠ not wired</div>
+      <div>endpoint returned <code>${err.code || "—"}</code> from <code>${escapeHtml(err.path || "—")}</code>.</div>
+      <div style="margin-top:6px;color:var(--fg-2)">build this workflow in n8n and the panel will light up.</div>
+    </div>`;
+}
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+/* ── panel: health grid ─────────────────────────────────────────── */
+const healthGrid = document.getElementById("health-grid");
+async function loadHealth() {
+  try {
+    const rows = await nwFetch("/portfolio");
+    renderHealth(rows);
+    renderExplorerPortfolio(rows);
+    updateSync();
+  } catch (e) {
+    if (e.code === 404) renderNotWired(healthGrid, e);
+    else healthGrid.innerHTML = `<div class="not-wired"><div class="h">error</div>${escapeHtml(e.message)}</div>`;
+  }
+}
+function renderHealth(rows) {
+  healthGrid.innerHTML = rows.map((r, i) => {
+    const cls = r.status === "live" ? "live" : r.status === "wip" ? "wip" : "down";
+    const httpCls = r.http >= 200 && r.http < 300 ? "ok" : r.http >= 400 ? "err" : "";
+    return `
+      <div class="health-row" data-slug="${escapeHtml(r.slug)}">
+        <div class="dot ${cls}"></div>
+        <div class="slug"><span class="name">${escapeHtml(r.slug)}</span><span class="url">${escapeHtml(r.url)}</span></div>
+        <div class="http ${httpCls}">${r.http || "—"}</div>
+        <div class="lat">${r.latency_ms}<span style="color:var(--fg-2)"> ms</span></div>
+        <div class="when">${ago(r.last_check)}</div>
+        <div>${sparkSvg(r.history || [], cls)}</div>
+        <button class="recheck" data-recheck="${escapeHtml(r.slug)}">⟳</button>
+      </div>`;
+  }).join("");
+  healthGrid.querySelectorAll("[data-recheck]").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      btn.textContent = "…";
+      await nwFetch("/portfolio/recheck", { method: "POST" }).catch(() => {});
+      await loadHealth();
+    });
+  });
+}
+function renderExplorerPortfolio(rows) {
+  const ul = document.getElementById("explorer-portfolio");
+  ul.innerHTML = rows.map(r => {
+    const cls = r.status === "live" ? "live" : r.status === "wip" ? "wip" : "down";
+    return `<li><a class="tree-item" data-scroll="[data-slug='${escapeHtml(r.slug)}']"><span class="dot ${cls}"></span><span>${escapeHtml(r.slug)}</span><span class="meta">${r.latency_ms}ms</span></a></li>`;
+  }).join("");
+}
+function sparkSvg(hist, cls) {
+  if (!hist.length) return "";
+  const w = 96, h = 24, pad = 1;
+  const mn = Math.min(...hist), mx = Math.max(...hist);
+  const range = (mx - mn) || 1;
+  const step = (w - pad * 2) / (hist.length - 1);
+  const pts = hist.map((v, i) => {
+    const x = pad + i * step;
+    const y = h - pad - ((v - mn) / range) * (h - pad * 2);
+    return x + "," + y.toFixed(1);
+  }).join(" ");
+  const stroke =
+    cls === "live" ? "var(--type)" :
+    cls === "wip"  ? "var(--fn)" :
+    cls === "down" ? "var(--err)" : "var(--fg-2)";
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+    <polyline fill="none" stroke="${stroke}" stroke-width="1.3" points="${pts}"/>
+  </svg>`;
+}
+function ago(ts) {
+  const s = Math.max(0, Math.round((Date.now() - ts) / 1000));
+  if (s < 60) return s + "s ago";
+  const m = Math.round(s / 60);
+  if (m < 60) return m + "m ago";
+  return Math.round(m / 60) + "h ago";
+}
+document.getElementById("btn-recheck-all").addEventListener("click", async () => {
+  await nwFetch("/portfolio/recheck", { method: "POST" }).catch(() => {});
+  await loadHealth();
+  toast("portfolio rechecked", "ok");
+});
+
+/* ── panel: KB freshness ────────────────────────────────────────── */
+const kbTopEl  = document.getElementById("kb-top");
+const kbCatsEl = document.getElementById("kb-cats");
+const kbStaleEl = document.getElementById("kb-stale");
+
+async function loadKb() {
+  try {
+    const k = await nwFetch("/kb/status");
+    renderKb(k);
+  } catch (e) {
+    if (e.code === 404) {
+      renderNotWired(kbTopEl, e);
+      kbCatsEl.innerHTML = ""; kbStaleEl.innerHTML = "";
+    }
+  }
+}
+function renderKb(k) {
+  const dAgo = Math.round((Date.now() - k.last_rebuild) / (1000*60*60*24));
+  const dCls = dAgo >= 14 ? "warn" : "ok";
+  kbTopEl.innerHTML = `
+    <div class="kb-card">
+      <div class="label">last rebuild</div>
+      <div class="value ${dCls}">${dAgo}d<span class="sub">ago</span></div>
+    </div>
+    <div class="kb-card">
+      <div class="label">articles</div>
+      <div class="value">${k.total_articles}</div>
+    </div>
+    <div class="kb-card">
+      <div class="label">words</div>
+      <div class="value">${k.total_words.toLocaleString()}</div>
+    </div>
+    <div class="kb-card">
+      <div class="label">stale (&gt;30d)</div>
+      <div class="value ${k.stale_count === 0 ? 'ok' : 'warn'}">${k.stale_count}</div>
+    </div>`;
+  kbCatsEl.innerHTML = k.categories.map(c => `
+    <div class="kb-cat">
+      <span class="name">${escapeHtml(c.name)}</span>
+      <span><span class="count">${c.count}</span><span class="when">${c.last_updated ? ago(c.last_updated) : "—"}</span></span>
+    </div>`).join("");
+  kbStaleEl.innerHTML = `
+    <div class="kb-stale-row" style="color:var(--fg-2)">
+      <span></span><span>article</span><span>category</span><span>age</span>
+    </div>` + k.stale.map(s => `
+    <div class="kb-stale-row">
+      <span class="m">M</span>
+      <span class="path">${escapeHtml(s.slug)}.md</span>
+      <span class="cat">${escapeHtml(s.category)}</span>
+      <span class="age">${s.days_old}d</span>
+    </div>`).join("");
+}
+document.getElementById("btn-kb-rebuild").addEventListener("click", async () => {
+  try {
+    const r = await nwFetch("/kb/rebuild", { method: "POST" });
+    attachJob(r.job_id, "kb · rebuild mirror");
+    toast("rebuild started", "ok");
+  } catch (e) {
+    toast("rebuild failed: " + (e.message || "error"), "err");
+  }
+});
+
+/* ── panel: studio queue ────────────────────────────────────────── */
+const qRowsEl = document.getElementById("q-rows");
+async function loadStudio() {
+  try {
+    const rows = await nwFetch("/studio/queue");
+    renderStudio(rows);
+  } catch (e) {
+    if (e.code === 404) renderNotWired(qRowsEl, e);
+  }
+}
+function renderStudio(rows) {
+  if (!rows.length) {
+    qRowsEl.innerHTML = `<div class="q-row"><span style="grid-column:1/-1;color:var(--fg-2);text-align:center">queue is empty</span></div>`;
+    return;
+  }
+  qRowsEl.innerHTML = rows.map(r => {
+    const stages = (r.stages || ["pending","pending","pending","pending","pending"]);
+    const sd = stages.map((s, i) => {
+      const cls = s === "done" ? "done" : s === "run" ? "run" : s === "err" ? "err" : "";
+      return `<span class="stage ${cls}" title="${["ingest","summarize","tts","render","ready"][i]}: ${s}"></span>`;
+    }).join("");
+    const reason = r.rejected_reason ? `<span class="reason">↳ ${escapeHtml(r.rejected_reason)}</span>` : "";
+    const btnCls = r.status === "error" ? "danger" : r.status === "ready" ? "primary" : "";
+    const btnLabel = r.status === "error" ? "↻ rerun" : r.status === "ready" ? "✓ review" : "↻ rerun";
+    return `
+      <div class="q-row">
+        <div class="id">${escapeHtml(r.id)}</div>
+        <div class="topic">${escapeHtml(r.topic)}${reason}</div>
+        <div class="stages">${sd}</div>
+        <div class="age">${Math.round(r.age_seconds/60)}m ${r.age_seconds%60}s</div>
+        <button class="btn ${btnCls}" data-rerun="${escapeHtml(r.id)}" style="font-size:10px;padding:4px 10px">${btnLabel}</button>
+      </div>`;
+  }).join("");
+  qRowsEl.querySelectorAll("[data-rerun]").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const id = btn.dataset.rerun;
+      try {
+        const r = await nwFetch("/studio/rerun", { method: "POST", body: JSON.stringify({ id }) });
+        attachJob(r.job_id, "studio · rerun " + id);
+        toast("rerunning " + id, "ok");
+      } catch (e) {
+        toast("rerun failed", "err");
+      }
+    });
+  });
+}
+document.getElementById("btn-studio-refresh").addEventListener("click", loadStudio);
+
+/* ── panel: script runner ───────────────────────────────────────── */
+const paletteQ    = document.getElementById("palette-q");
+const paletteList = document.getElementById("palette-list");
+const paletteCount= document.getElementById("palette-count");
+const paramsEl    = document.getElementById("params");
+const paramArgs   = document.getElementById("param-args");
+
+async function loadWorkflows() {
+  try {
+    state.workflows = await nwFetch("/workflows");
+    renderPalette(paletteQ.value);
+    renderExplorerScripts(state.workflows);
+  } catch (e) {
+    if (e.code === 404) {
+      renderNotWired(paletteList, e);
+      paletteCount.textContent = "0";
+    }
+  }
+}
+function renderPalette(q) {
+  const ql = (q || "").toLowerCase().trim();
+  const filtered = state.workflows.filter(w =>
+    !ql || w.id.toLowerCase().includes(ql) || w.label.toLowerCase().includes(ql) || (w.desc||"").toLowerCase().includes(ql)
+  );
+  paletteCount.textContent = filtered.length + " of " + state.workflows.length;
+  paletteList.innerHTML = filtered.map((w, i) => `
+    <div class="palette-row ${i === state.selectedIdx ? 'is-hover' : ''}" data-id="${escapeHtml(w.id)}">
+      <span class="ico">${escapeHtml(w.ico || '▸')}</span>
+      <span class="label"><span class="name">${escapeHtml(w.label)}</span><span class="desc">${escapeHtml(w.desc || '')}</span></span>
+      <span class="id">${escapeHtml(w.id)}</span>
+    </div>`).join("") || `<div class="palette-row" style="color:var(--fg-2);cursor:default">no matches</div>`;
+  paletteList.querySelectorAll(".palette-row[data-id]").forEach((row) => {
+    row.addEventListener("click", () => {
+      state.selectedWorkflow = state.workflows.find(w => w.id === row.dataset.id) || null;
+      openParams();
+    });
+  });
+}
+function renderExplorerScripts(rows) {
+  const ul = document.getElementById("explorer-scripts");
+  ul.innerHTML = rows.slice(0, 8).map(w => `
+    <li><a class="tree-item" data-pick="${escapeHtml(w.id)}"><span class="arrow">▸</span><span>${escapeHtml(w.id)}</span></a></li>
+  `).join("");
+  ul.querySelectorAll("[data-pick]").forEach(el => {
+    el.addEventListener("click", () => {
+      state.selectedWorkflow = state.workflows.find(w => w.id === el.dataset.pick) || null;
+      document.getElementById("panel-runner").scrollIntoView({ behavior: "smooth", block: "start" });
+      paletteQ.value = "";
+      renderPalette("");
+      openParams();
+    });
+  });
+}
+function openParams() {
+  if (!state.selectedWorkflow) return;
+  paramsEl.classList.add("open");
+  paramArgs.placeholder = state.selectedWorkflow.params && state.selectedWorkflow.params.length
+    ? state.selectedWorkflow.params.join(", ")
+    : "(no arguments)";
+  paramArgs.value = "";
+  setTimeout(() => paramArgs.focus(), 0);
+}
+function closeParams() { paramsEl.classList.remove("open"); state.selectedWorkflow = null; }
+document.getElementById("btn-cancel-params").addEventListener("click", closeParams);
+
+document.getElementById("btn-run-script").addEventListener("click", async () => {
+  if (!state.selectedWorkflow) return;
+  const body = { id: state.selectedWorkflow.id, params: parseArgs(paramArgs.value, state.selectedWorkflow.params || []) };
+  try {
+    const r = await nwFetch("/scripts/run", { method: "POST", body: JSON.stringify(body) });
+    attachJob(r.job_id, state.selectedWorkflow.label);
+    toast("started: " + state.selectedWorkflow.label, "ok");
+    closeParams();
+  } catch (e) {
+    toast("run failed: " + (e.message || ""), "err");
+  }
+});
+
+function parseArgs(raw, names) {
+  if (!names.length) return {};
+  const parts = raw.split(",").map(s => s.trim()).filter(Boolean);
+  const out = {};
+  names.forEach((n, i) => { if (parts[i] !== undefined) out[n] = parts[i]; });
+  return out;
+}
+
+paletteQ.addEventListener("input", () => { state.selectedIdx = 0; renderPalette(paletteQ.value); });
+paletteQ.addEventListener("keydown", (e) => {
+  const rows = paletteList.querySelectorAll(".palette-row[data-id]");
+  if (e.key === "ArrowDown") { state.selectedIdx = (state.selectedIdx + 1) % Math.max(1, rows.length); renderPalette(paletteQ.value); e.preventDefault(); }
+  if (e.key === "ArrowUp")   { state.selectedIdx = (state.selectedIdx - 1 + rows.length) % Math.max(1, rows.length); renderPalette(paletteQ.value); e.preventDefault(); }
+  if (e.key === "Enter" && rows.length) {
+    const id = rows[state.selectedIdx]?.dataset.id;
+    state.selectedWorkflow = state.workflows.find(w => w.id === id) || null;
+    openParams();
+  }
+});
+
+/* ── terminal (jobs) ────────────────────────────────────────────── */
+const termTabs = document.getElementById("term-tabs");
+const termBody = document.getElementById("term-body");
+
+function attachJob(jobId, label) {
+  if (state.jobs.has(jobId)) { focusJob(jobId); return; }
+  const tab = document.createElement("div");
+  tab.className = "tt active";
+  tab.innerHTML = `<span class="dot run"></span><span>${escapeHtml(label)}</span><span class="x">×</span>`;
+  tab.addEventListener("click", (e) => {
+    if (e.target.classList.contains("x")) { killJob(jobId); return; }
+    focusJob(jobId);
+  });
+  if (!termTabs.querySelector(".tt-spacer")) {
+    const sp = document.createElement("div"); sp.className = "tt-spacer"; termTabs.appendChild(sp);
+  }
+  termTabs.insertBefore(tab, termTabs.querySelector(".tt-spacer"));
+
+  const body = document.createElement("div");
+  body.className = "terminal";
+  body.innerHTML = `<div class="cmt2">// ${escapeHtml(label)} · ${new Date().toLocaleTimeString()}</div>`;
+
+  state.jobs.set(jobId, { tabEl: tab, bodyEl: body, state: "running", label, logsShown: 0 });
+  focusJob(jobId);
+  updateJobsCount();
+
+  const timer = setInterval(async () => {
+    try {
+      const s = await nwFetch("/scripts/status?job_id=" + encodeURIComponent(jobId));
+      const j = state.jobs.get(jobId);
+      if (!j) return;
+      for (let i = j.logsShown; i < s.logs.length; i++) {
+        const line = document.createElement("div");
+        line.className = s.logs[i].cls || "";
+        line.textContent = s.logs[i].text;
+        j.bodyEl.appendChild(line);
+      }
+      j.logsShown = s.logs.length;
+      if (j.bodyEl === termBody) j.bodyEl.scrollTop = j.bodyEl.scrollHeight;
+      if (s.state === "done" || s.state === "error") {
+        clearInterval(timer);
+        j.state = s.state;
+        const dot = j.tabEl.querySelector(".dot");
+        dot.className = "dot " + (s.state === "done" ? "done" : "err");
+        updateJobsCount();
+      }
+    } catch (e) {
+      clearInterval(timer);
+    }
+  }, POLL_SCRIPT_MS);
+  state.jobs.get(jobId).timer = timer;
+}
+function focusJob(jobId) {
+  termTabs.querySelectorAll(".tt").forEach(t => t.classList.remove("active"));
+  const j = state.jobs.get(jobId);
+  if (!j) return;
+  j.tabEl.classList.add("active");
+  if (termBody !== j.bodyEl) {
+    termBody.replaceWith(j.bodyEl);
+  }
+  document.getElementById("term-body")?.remove();
+  j.bodyEl.id = "term-body";
+  j.bodyEl.className = "terminal";
+  j.bodyEl.scrollTop = j.bodyEl.scrollHeight;
+  state.activeJob = jobId;
+}
+function killJob(jobId) {
+  const j = state.jobs.get(jobId);
+  if (!j) return;
+  clearInterval(j.timer);
+  j.tabEl.remove();
+  if (state.activeJob === jobId) {
+    j.bodyEl.remove();
+    const first = termTabs.querySelector(".tt");
+    if (first) {
+      const nextId = Array.from(state.jobs.keys()).find(id => state.jobs.get(id).tabEl === first);
+      if (nextId) focusJob(nextId);
+    } else {
+      const empty = document.createElement("div");
+      empty.id = "term-body";
+      empty.className = "terminal-empty";
+      empty.textContent = "select a script above to begin";
+      document.querySelector(".terminal-wrap").appendChild(empty);
+    }
+  }
+  state.jobs.delete(jobId);
+  updateJobsCount();
+}
+
+/* ── explorer wiring ────────────────────────────────────────────── */
+document.addEventListener("click", (e) => {
+  const a = e.target.closest(".tree-item[data-target]");
+  if (a) {
+    const sel = a.getAttribute("data-target");
+    const target = document.querySelector(sel);
+    if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+    document.querySelectorAll(".tree-item.is-active").forEach(n => n.classList.remove("is-active"));
+    a.classList.add("is-active");
+  }
+  const s = e.target.closest(".tree-item[data-scroll]");
+  if (s) {
+    const row = document.querySelector(s.getAttribute("data-scroll"));
+    if (row) {
+      row.scrollIntoView({ behavior: "smooth", block: "center" });
+      row.style.transition = "background .2s";
+      row.style.background = "rgba(79,193,255,0.1)";
+      setTimeout(() => { row.style.background = ""; }, 900);
+    }
+    document.querySelectorAll(".tree-item.is-active").forEach(n => n.classList.remove("is-active"));
+    s.classList.add("is-active");
+  }
+});
+
+/* ── global keys ────────────────────────────────────────────────── */
+window.addEventListener("keydown", (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
+    e.preventDefault();
+    paletteQ.focus();
+    paletteQ.select();
+    document.getElementById("panel-runner").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+});
+
+/* ── boot ───────────────────────────────────────────────────────── */
+async function boot() {
+  updateTokenDisplay();
+  applyMode();
+  updateJobsCount();
+  await Promise.all([loadHealth(), loadKb(), loadStudio(), loadWorkflows()]);
+  // background polling
+  if (window.__nwPoll) clearInterval(window.__nwPoll);
+  window.__nwPoll = setInterval(loadStudio, POLL_QUEUE_MS);
+}
+
+if (!state.token) {
+  openAuth();
+} else {
+  boot();
+}
+</script>
+</body>
+</html>
