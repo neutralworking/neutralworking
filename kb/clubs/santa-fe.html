@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Santa Fe · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">santa-fe</span>
+</header>
+<article>
+<h1 id="santa-fe">Santa Fe</h1>
+<p><strong>League</strong>: Categoría Primera A<br />
+<strong>Nation</strong>: Colombia<br />
+<strong>Players in DB</strong>: 15</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/a-zapata.html">a-zapata</a> A. Zapata</td>
+<td>AM</td>
+<td>Creator</td>
+<td>61.0</td>
+</tr>
+<tr>
+<td><a href="../players/angelo-rodriguez.html">angelo-rodriguez</a> Ángelo Rodríguez</td>
+<td>AM</td>
+<td>Creator</td>
+<td>61.0</td>
+</tr>
+<tr>
+<td><a href="../players/h-mosquera.html">h-mosquera</a> H. Mosquera</td>
+<td>AM</td>
+<td>Creator</td>
+<td>62.0</td>
+</tr>
+<tr>
+<td><a href="../players/omir-fernandez.html">omir-fernandez</a> Omir Fernandez</td>
+<td>CF</td>
+<td>Sprinter-Dribbler</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/d-torres.html">d-torres</a> D. Torres</td>
+<td>CM</td>
+<td>Creator-Destroyer</td>
+<td>57.0</td>
+</tr>
+<tr>
+<td><a href="../players/i-scarpeta.html">i-scarpeta</a> I. Scarpeta</td>
+<td>CM</td>
+<td>Striker-Destroyer</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/v-moreno.html">v-moreno</a> V. Moreno</td>
+<td>CM</td>
+<td>Destroyer-Striker</td>
+<td>57.0</td>
+</tr>
+<tr>
+<td><a href="../players/y-velasquez.html">y-velasquez</a> Y. Velásquez</td>
+<td>CM</td>
+<td>Striker-Creator</td>
+<td>58.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">k-cuesta</span> K. Cuesta</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/j-monroy.html">j-monroy</a> J. Monroy</td>
+<td>WD</td>
+<td>Cover</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/o-albornoz.html">o-albornoz</a> O. Albornoz</td>
+<td>WM</td>
+<td>Creator-Dribbler</td>
+<td>32.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">c-mafla</span> C. Mafla</td>
+<td>None</td>
+<td>Striker-Creator</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">e-perlaza</span> E. Perlaza</td>
+<td>None</td>
+<td>Creator</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">j-melendez</span> J. Melendez</td>
+<td>None</td>
+<td>Destroyer-Creator</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">jeison-angulo</span> Jeison Angulo</td>
+<td>None</td>
+<td>Sprinter-Dribbler</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="santa-fe.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

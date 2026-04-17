@@ -7,164 +7,46 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
 <div class="wrap">
 <header class="topnav">
-<a href="../../">neutral.working</a>
+<a href="../../index.html">neutral.working</a>
 <span class="sep">/</span>
 <a href="../index.html">kb</a>
 <span class="sep">/</span>
@@ -174,146 +56,11 @@ article strong { color: #fff; font-weight: 500; }
 </header>
 <article>
 <h1 id="352">3–5–2</h1>
-<p><a href="https://en.wikipedia.org/wiki/File:3-5-2DV.jpg"><img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/3-5-2DV.jpg/110px-3-5-2DV.jpg" /></a></p>
+<p><a href="https://en.wikipedia.org/wiki/File:3-5-2DV.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/3-5-2DV.jpg/110px-3-5-2DV.jpg" /></a></p>
 <p>3–5–2 formation</p>
-<p>This formation is similar to 5–3–2, but with some important tweaks:
-there is usually no <a
-href="https://en.wikipedia.org/wiki/Sweeper_(association_football)"
-title="Sweeper (association football)">sweeper</a> (or <em>libero</em>)
-but rather three classic centre-backs, and the two <a
-href="https://en.wikipedia.org/wiki/Wing-back_(association_football)"
-title="Wing-back (association football)">wing-backs</a> are oriented
-more towards the attack. Because of this, the most central midfielder
-tends to remain further back in order to help prevent counter-attacks.
-It also differs from the classical 3–5–2 of the WW by having a
-non-staggered midfield. There are several coaches claiming to be the
-inventors of this formation, like two-time European Cup winning manager
-and World Cup runner-up <a
-href="https://en.wikipedia.org/wiki/Ernst_Happel"
-title="Ernst Happel">Ernst Happel</a> and the unorthodox and
-controversial <a href="https://en.wikipedia.org/wiki/Nikos_Alefantos"
-title="Nikos Alefantos">Nikos Alefantos</a>, but the first to
-successfully employ it at the highest level was <a
-href="https://en.wikipedia.org/wiki/Carlos_Bilardo"
-title="Carlos Bilardo">Carlos Bilardo</a>, who led <a
-href="https://en.wikipedia.org/wiki/Argentina_national_football_team"
-title="Argentina national football team">Argentina</a> to win the <a
-href="https://en.wikipedia.org/wiki/1986_FIFA_World_Cup"
-title="1986 FIFA World Cup">1986 World Cup</a> using the
-3–5–2.<span class="wikilink-broken">65</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)</a>
-The high point of the 3–5–2's influence was the <a
-href="https://en.wikipedia.org/wiki/1990_FIFA_World_Cup"
-title="1990 FIFA World Cup">1990 World Cup</a>, with both finalists,
-Bilardo's Argentina and <a
-href="https://en.wikipedia.org/wiki/Franz_Beckenbauer"
-title="Franz Beckenbauer">Franz Beckenbauer</a>'s <a
-href="https://en.wikipedia.org/wiki/West_Germany_national_football_team"
-title="West Germany national football team">West Germany</a> employing
-it.<span class="wikilink-broken">65</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)</a></p>
-<p>In the last years of first decade of 2000, <a
-href="https://en.wikipedia.org/wiki/Gian_Piero_Gasperini"
-title="Gian Piero Gasperini">Gian Piero Gasperini</a> during his years
-at <a href="https://en.wikipedia.org/wiki/Genoa_CFC"
-title="Genoa CFC">Genoa CFC</a> (and later in <a
-href="https://en.wikipedia.org/wiki/Atalanta_BC"
-title="Atalanta BC">Atalanta BC</a>) using this tactical system, in a
-modern way, with high pressure, speed, strength, one on one defense and
-ball possession helped his revival. Later, also, Italian coach <a
-href="https://en.wikipedia.org/wiki/Antonio_Conte"
-title="Antonio Conte">Antonio Conte</a> successfully implemented the
-3–5–2 at <a href="https://en.wikipedia.org/wiki/Juventus_F.C."
-title="Juventus F.C.">Juventus</a>, having won three <a
-href="https://en.wikipedia.org/wiki/Serie_A" title="Serie A">Serie A</a>
-consecutive titles between 2012 and 2014, the first <a
-href="https://en.wikipedia.org/wiki/2011%E2%80%9312_Serie_A"
-title="2011–12 Serie A">unbeaten</a> (record in a league championship
-with 20 contestants) and the last <a
-href="https://en.wikipedia.org/wiki/2013%E2%80%9314_Serie_A"
-title="2013–14 Serie A">reaching the points record</a>
-(102).<span class="wikilink-broken">66</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-66)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-66)</a>
-After coaching the <a
-href="https://en.wikipedia.org/wiki/Italy_national_football_team"
-title="Italy national football team">Italy national team</a>, Conte used
-again the 3–5–2 system at Chelsea during the <a
-href="https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League"
-title="2016–17 Premier League">2016–17 Premier League</a> season,
-leading the club to the league title and an <a
-href="https://en.wikipedia.org/wiki/2017_FA_Cup_Final"
-title="2017 FA Cup Final">FA Cup final</a>. In order to properly
-counteract the additional forward pressure from the wing-backs in the
-system, other sides, including <a
-href="https://en.wikipedia.org/wiki/Ronald_Koeman"
-title="Ronald Koeman">Ronald Koeman</a>'s <a
-href="https://en.wikipedia.org/wiki/Everton_F.C."
-title="Everton F.C.">Everton</a> and <a
-href="https://en.wikipedia.org/wiki/Mauricio_Pochettino"
-title="Mauricio Pochettino">Mauricio Pochettino</a>'s Tottenham, also
-used the formation against
-Chelsea.<span class="wikilink-broken">67</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Conte&#39;s_brilliance-67)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Conte's_brilliance-67)</a><span class="wikilink-broken">68</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-68)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-68)</a>
-At international level, <a
-href="https://en.wikipedia.org/wiki/Louis_van_Gaal"
-title="Louis van Gaal">Louis van Gaal</a> utilised 3–5–2 with the <a
-href="https://en.wikipedia.org/wiki/Netherlands_national_football_team"
-title="Netherlands national football team">Netherlands</a> in the <a
-href="https://en.wikipedia.org/wiki/2014_FIFA_World_Cup"
-title="2014 FIFA World Cup">2014 World Cup</a>, in which they finished
-third.<span class="wikilink-broken">69</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-69)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-69)</a>
-Notably, this formation was specifically employed as a counter to the
-challenge of <a href="https://en.wikipedia.org/wiki/Ball_possession"
-title="Ball possession">possession football</a> used by the <a
-href="https://en.wikipedia.org/wiki/Spain_men%27s_national_football_team"
-title="Spain men&#39;s national football team">Spanish national
-side</a>. <a href="https://en.wikipedia.org/wiki/Cesare_Prandelli"
-title="Cesare Prandelli">Cesare Prandelli</a> used it for Italy's 1–1
-draw with Spain in the group stage of <a
-href="https://en.wikipedia.org/wiki/UEFA_Euro_2012"
-title="UEFA Euro 2012">Euro 2012</a>, with some commentators seeing <a
-href="https://en.wikipedia.org/wiki/Daniele_De_Rossi"
-title="Daniele De Rossi">Daniele De Rossi</a> as a <a
-href="https://en.wikipedia.org/wiki/Sweeper_(football)"
-title="Sweeper (football)">sweeper</a>.<span class="wikilink-broken">70</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-70)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-70)</a>
-The Netherlands used it to greater effect against Spain during the <a
-href="https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_Group_B#Spain_vs_Netherlands"
-title="2014 FIFA World Cup Group B">group stage of the 2014 World
-Cup</a>, completing a 5–1 win. This minimised the Dutch weaknesses
-(inexperience in defence) and maximising their strengths (world-class
-forwards in <a href="https://en.wikipedia.org/wiki/Robin_van_Persie"
-title="Robin van Persie">Robin van Persie</a> and <a
-href="https://en.wikipedia.org/wiki/Arjen_Robben"
-title="Arjen Robben">Arjen
-Robben</a>).<span class="wikilink-broken">71</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Tactical_Analysis:_How_the_Netherlands_demolished_Spain-71)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Tactical_Analysis:_How_the_Netherlands_demolished_Spain-71)</a></p>
-<p>Simone Inzaghi, who succeeded Antonio Conte at <a
-href="https://en.wikipedia.org/wiki/Inter_Milan"
-title="Inter Milan">Inter</a>, has helped modernize and further innovate
-the 3-5-2. Inzaghi's system builds ball possession through the
-goalkeeper and defenders and uses midfielders who are quick and
-technical and capable of defending very well. Particularly innovative
-was his use of side midfielders, called "Quinti" in Italian ("fifths" in
-English) such as <a
-href="https://en.wikipedia.org/wiki/Federico_Dimarco"
-title="Federico Dimarco">Federico Dimarco</a>. Dimarco was used in a
-very flexible way with defensive duties in the non-possession phase
-(playing in the defensive line in a 5-3-2 shape), but would shift in the
-offensive phase. The two midfield sidemen would go up on the line of the
-attackers forming a four-man attack in a 3-3-4
-shape.<span class="wikilink-broken">72</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-72)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-72)</a>
-In two seasons Inter managed to win four trophies (two Italian supercups
-and two Italian cups) along with an appearance in the <a
-href="https://en.wikipedia.org/wiki/2023_UEFA_Champions_League_final"
-title="2023 UEFA Champions League final">2023 UEFA Champions League
-final</a>.<span class="wikilink-broken">73</span>(<a
-href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-73)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-73)</a></p>
-
+<p>This formation is similar to 5–3–2, but with some important tweaks: there is usually no <a href="https://en.wikipedia.org/wiki/Sweeper_(association_football)" title="Sweeper (association football)">sweeper</a> (or <em>libero</em>) but rather three classic centre-backs, and the two <a href="https://en.wikipedia.org/wiki/Wing-back_(association_football)" title="Wing-back (association football)">wing-backs</a> are oriented more towards the attack. Because of this, the most central midfielder tends to remain further back in order to help prevent counter-attacks. It also differs from the classical 3–5–2 of the WW by having a non-staggered midfield. There are several coaches claiming to be the inventors of this formation, like two-time European Cup winning manager and World Cup runner-up <a href="https://en.wikipedia.org/wiki/Ernst_Happel" title="Ernst Happel">Ernst Happel</a> and the unorthodox and controversial <a href="https://en.wikipedia.org/wiki/Nikos_Alefantos" title="Nikos Alefantos">Nikos Alefantos</a>, but the first to successfully employ it at the highest level was <a href="https://en.wikipedia.org/wiki/Carlos_Bilardo" title="Carlos Bilardo">Carlos Bilardo</a>, who led <a href="https://en.wikipedia.org/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a> to win the <a href="https://en.wikipedia.org/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">1986 World Cup</a> using the 3–5–2.<span class="wikilink-broken">65</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)</a> The high point of the 3–5–2's influence was the <a href="https://en.wikipedia.org/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">1990 World Cup</a>, with both finalists, Bilardo's Argentina and <a href="https://en.wikipedia.org/wiki/Franz_Beckenbauer" title="Franz Beckenbauer">Franz Beckenbauer</a>'s <a href="https://en.wikipedia.org/wiki/West_Germany_national_football_team" title="West Germany national football team">West Germany</a> employing it.<span class="wikilink-broken">65</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Wilson-65)</a></p>
+<p>In the last years of first decade of 2000, <a href="https://en.wikipedia.org/wiki/Gian_Piero_Gasperini" title="Gian Piero Gasperini">Gian Piero Gasperini</a> during his years at <a href="https://en.wikipedia.org/wiki/Genoa_CFC" title="Genoa CFC">Genoa CFC</a> (and later in <a href="https://en.wikipedia.org/wiki/Atalanta_BC" title="Atalanta BC">Atalanta BC</a>) using this tactical system, in a modern way, with high pressure, speed, strength, one on one defense and ball possession helped his revival. Later, also, Italian coach <a href="https://en.wikipedia.org/wiki/Antonio_Conte" title="Antonio Conte">Antonio Conte</a> successfully implemented the 3–5–2 at <a href="https://en.wikipedia.org/wiki/Juventus_F.C." title="Juventus F.C.">Juventus</a>, having won three <a href="https://en.wikipedia.org/wiki/Serie_A" title="Serie A">Serie A</a> consecutive titles between 2012 and 2014, the first <a href="https://en.wikipedia.org/wiki/2011%E2%80%9312_Serie_A" title="2011–12 Serie A">unbeaten</a> (record in a league championship with 20 contestants) and the last <a href="https://en.wikipedia.org/wiki/2013%E2%80%9314_Serie_A" title="2013–14 Serie A">reaching the points record</a> (102).<span class="wikilink-broken">66</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-66)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-66)</a> After coaching the <a href="https://en.wikipedia.org/wiki/Italy_national_football_team" title="Italy national football team">Italy national team</a>, Conte used again the 3–5–2 system at Chelsea during the <a href="https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League" title="2016–17 Premier League">2016–17 Premier League</a> season, leading the club to the league title and an <a href="https://en.wikipedia.org/wiki/2017_FA_Cup_Final" title="2017 FA Cup Final">FA Cup final</a>. In order to properly counteract the additional forward pressure from the wing-backs in the system, other sides, including <a href="https://en.wikipedia.org/wiki/Ronald_Koeman" title="Ronald Koeman">Ronald Koeman</a>'s <a href="https://en.wikipedia.org/wiki/Everton_F.C." title="Everton F.C.">Everton</a> and <a href="https://en.wikipedia.org/wiki/Mauricio_Pochettino" title="Mauricio Pochettino">Mauricio Pochettino</a>'s Tottenham, also used the formation against Chelsea.<span class="wikilink-broken">67</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Conte&#39;s_brilliance-67)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Conte's_brilliance-67)</a><span class="wikilink-broken">68</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-68)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-68)</a> At international level, <a href="https://en.wikipedia.org/wiki/Louis_van_Gaal" title="Louis van Gaal">Louis van Gaal</a> utilised 3–5–2 with the <a href="https://en.wikipedia.org/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a> in the <a href="https://en.wikipedia.org/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014 World Cup</a>, in which they finished third.<span class="wikilink-broken">69</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-69)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-69)</a> Notably, this formation was specifically employed as a counter to the challenge of <a href="https://en.wikipedia.org/wiki/Ball_possession" title="Ball possession">possession football</a> used by the <a href="https://en.wikipedia.org/wiki/Spain_men%27s_national_football_team" title="Spain men&#39;s national football team">Spanish national side</a>. <a href="https://en.wikipedia.org/wiki/Cesare_Prandelli" title="Cesare Prandelli">Cesare Prandelli</a> used it for Italy's 1–1 draw with Spain in the group stage of <a href="https://en.wikipedia.org/wiki/UEFA_Euro_2012" title="UEFA Euro 2012">Euro 2012</a>, with some commentators seeing <a href="https://en.wikipedia.org/wiki/Daniele_De_Rossi" title="Daniele De Rossi">Daniele De Rossi</a> as a <a href="https://en.wikipedia.org/wiki/Sweeper_(football)" title="Sweeper (football)">sweeper</a>.<span class="wikilink-broken">70</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-70)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-70)</a> The Netherlands used it to greater effect against Spain during the <a href="https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_Group_B#Spain_vs_Netherlands" title="2014 FIFA World Cup Group B">group stage of the 2014 World Cup</a>, completing a 5–1 win. This minimised the Dutch weaknesses (inexperience in defence) and maximising their strengths (world-class forwards in <a href="https://en.wikipedia.org/wiki/Robin_van_Persie" title="Robin van Persie">Robin van Persie</a> and <a href="https://en.wikipedia.org/wiki/Arjen_Robben" title="Arjen Robben">Arjen Robben</a>).<span class="wikilink-broken">71</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Tactical_Analysis:_How_the_Netherlands_demolished_Spain-71)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-Tactical_Analysis:_How_the_Netherlands_demolished_Spain-71)</a></p>
+<p>Simone Inzaghi, who succeeded Antonio Conte at <a href="https://en.wikipedia.org/wiki/Inter_Milan" title="Inter Milan">Inter</a>, has helped modernize and further innovate the 3-5-2. Inzaghi's system builds ball possession through the goalkeeper and defenders and uses midfielders who are quick and technical and capable of defending very well. Particularly innovative was his use of side midfielders, called "Quinti" in Italian ("fifths" in English) such as <a href="https://en.wikipedia.org/wiki/Federico_Dimarco" title="Federico Dimarco">Federico Dimarco</a>. Dimarco was used in a very flexible way with defensive duties in the non-possession phase (playing in the defensive line in a 5-3-2 shape), but would shift in the offensive phase. The two midfield sidemen would go up on the line of the attackers forming a four-man attack in a 3-3-4 shape.<span class="wikilink-broken">72</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-72)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-72)</a> In two seasons Inter managed to win four trophies (two Italian supercups and two Italian cups) along with an appearance in the <a href="https://en.wikipedia.org/wiki/2023_UEFA_Champions_League_final" title="2023 UEFA Champions League final">2023 UEFA Champions League final</a>.<span class="wikilink-broken">73</span>(<a href="https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-73)">https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-73)</a></p>
 <a class="source-link" href="352.md">view raw .md →</a>
 </article>
 </div>

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gerson · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
+article pre code { background: none; border: none; padding: 0; }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">players</a>
+<span class="sep">/</span>
+<span class="crumb">gerson</span>
+</header>
+<article>
+<h1 id="gerson">Gerson</h1>
+<h2 id="overview">Overview</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Position</strong></td>
+<td>WM</td>
+</tr>
+<tr>
+<td><strong>Club</strong></td>
+<td>Flamengo</td>
+</tr>
+<tr>
+<td><strong>Nation</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>28</td>
+</tr>
+<tr>
+<td><strong>Archetype</strong></td>
+<td><a href="../archetypes/creator.html">creator</a> Creator-Striker</td>
+</tr>
+<tr>
+<td><strong>Level</strong></td>
+<td>85</td>
+</tr>
+<tr>
+<td><strong>Overall</strong></td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><strong>Pursuit</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Market Value Tier</strong></td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="scouting-notes">Scouting Notes</h2>
+<p>CM BRA C 0.0 The young Gérson combined technique and an extremely potent left foot shot with intelligence and an uncanny ability to control the game from the midfield. One of his greatest assets was his ability to switch defence into attack with one long, laser-like pass from deep inside his own half. Gérson is considered one of the best passers in World Cup history. Although he didn't play well in 1966, he was the mastermind behind the whole Brazilian national team in the 1970 tournament. He is regarded as the best passer and midfielder in that Cup and the best player in the final match against Italy. Gérson was born and spent his childhood in the city of Niterói, just to the eastern side of Guanabara Bay from Rio de Janeiro, then the capital of the former Rio de Janeiro State. In school he was nicknamed papagaio (parrot), a nickname he kept throughout his life and which many of his fellow footballers used when addressing him. Both his father and uncle were professional footballers in Rio. His father was a close friend of the legendary Zizinho, widely held as the best Brazilian footballer before Pelé, a superstar with Flamengo and a forward in the 1950 national team, along with Vasco da Gama's Ademir Menezes and Flamengo's Jair da Rosa Pinto. So when Gérson announced he intended to become a footballer himself, he found little opposition at home. As a boy his heroes had been the aforementioned midfielders Zizinho and Jair and Vasco da Gama's Danilo Alvim. However, in his first club, Flamengo, he was eventually cast in the same mold as the most influential midfield player of that era, Didi. Soon he was being talked of as a successor to Didi. Within a year of making his professional debut for Flamengo in 1959, he was called to the Brazilian ‘amateur’ team in the Pan-American Games in Chicago.[3] A year later he was a lynchpin of the side at the Rome Olympics where he scored four goals, but Brazil did not make it beyond the group phase.[4] By 1961, he was the playmaker in Flamengo. He had also been recruited into the full national squad to defend the World Cup in Chile by the new national coach Aymore Moreira.[5] Yet his dreams of combining with the bandy-legged ‘Little Bird’ Garrincha, along with Pelé and Didi in Chile were dashed when he suffered a serious knee injury. Forced to undergo surgery, he couldn’t get himself back into Moreira’s squad. It would be one of many injuries to blight his career. In 1963 he chose not to sign another contract with Flamengo after being assigned the impossible task of man-marking Garrincha in the 1962 Rio de Janeiro Championship final (which Botafogo won 3–0. He packed his bags and moved to Botafogo, which by then had the most celebrated squad in Rio (and arguably in Brazil, alongside Pelé's Santos, featuring superstars Garrincha, Didi, Nilton Santos, Zagallo and Quarentinha. In Botafogo he became one of the most celebrated Brazilian players of his generation, winning the Torneio Rio-São Paulo in 1964 and 1965, the Rio de Janeiro Championship in 1967 and 1968 and with the Brazilian Cup in 1968 in two finals against Fortaleza the first national honour in the history of Botafogo. Later on, he also played for São Paulo and Fluminense, his favourite team. Overall, he played 70 times, scoring 14 goals for his country, including one in that 1970 final.</p>
+<h2 id="attribute-grades">Attribute Grades</h2>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Physical</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>Shielding</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>First Touch</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Penalties</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Reactions</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Stamina</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Acceleration</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Crossing</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Pace</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Pass Range</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Balance</td>
+<td>████████████ 12/10</td>
+</tr>
+<tr>
+<td>Jumping</td>
+<td>████████████ 12/10</td>
+</tr>
+<tr>
+<td>Marking</td>
+<td>████████████ 12/10</td>
+</tr>
+<tr>
+<td>Movement</td>
+<td>████████████ 12/10</td>
+</tr>
+<tr>
+<td>Volleys</td>
+<td>████████████ 12/10</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traits">Traits</h2>
+<ul>
+<li><strong>availability</strong> (physical) — severity 10/10</li>
+<li><strong>durability</strong> (physical) — severity 4/10</li>
+</ul>
+<h2 id="personality">Personality</h2>
+<ul>
+<li><strong>Game Reading (EI)</strong>: 44</li>
+<li><strong>Motivation (SN)</strong>: 42</li>
+<li><strong>Social (TF)</strong>: 61</li>
+<li><strong>Pressure (JP)</strong>: 46</li>
+<li><strong>Competitiveness</strong>: 5/10</li>
+<li><strong>Coachability</strong>: 4/10</li>
+</ul>
+<h2 id="research-notes">Research Notes</h2>
+<details>
+<summary>Raw scouting narrative</summary>
+
+<hr />
+<h2>{}</h2>
+<p>CM BRA C 0.0 The young Gérson combined technique and an extremely potent left foot shot with intelligence and an uncanny ability to control the game from the midfield. One of his greatest assets was his ability to switch defence into attack with one long, laser-like pass from deep inside his own half. Gérson is considered one of the best passers in World Cup history. Although he didn't play well in 1966, he was the mastermind behind the whole Brazilian national team in the 1970 tournament. He is regarded as the best passer and midfielder in that Cup and the best player in the final match against Italy. Gérson was born and spent his childhood in the city of Niterói, just to the eastern side of Guanabara Bay from Rio de Janeiro, then the capital of the former Rio de Janeiro State. In school he was nicknamed papagaio (parrot), a nickname he kept throughout his life and which many of his fellow footballers used when addressing him. Both his father and uncle were professional footballers in Rio. His father was a close friend of the legendary Zizinho, widely held as the best Brazilian footballer before Pelé, a superstar with Flamengo and a forward in the 1950 national team, along with Vasco da Gama's Ademir Menezes and Flamengo's Jair da Rosa Pinto. So when Gérson announced he intended to become a footballer himself, he found little opposition at home. As a boy his heroes had been the aforementioned midfielders Zizinho and Jair and Vasco da Gama's Danilo Alvim. However, in his first club, Flamengo, he was eventually cast in the same mold as the most influential midfield player of that era, Didi. Soon he was being talked of as a successor to Didi. Within a year of making his professional debut for Flamengo in 1959, he was called to the Brazilian ‘amateur’ team in the Pan-American Games in Chicago.[3] A year later he was a lynchpin of the side at the Rome Olympics where he scored four goals, but Brazil did not make it beyond the group phase.[4] By 1961, he...</p>
+</details>
+<a class="source-link" href="gerson.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

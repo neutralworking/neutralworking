@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tomáš Rosický · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
+article pre code { background: none; border: none; padding: 0; }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">players</a>
+<span class="sep">/</span>
+<span class="crumb">tomas-rosicky</span>
+</header>
+<article>
+<h1 id="tomáš-rosický">Tomáš Rosický</h1>
+<h2 id="overview">Overview</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Position</strong></td>
+<td>CM</td>
+</tr>
+<tr>
+<td><strong>Club</strong></td>
+<td>Sparta Prague</td>
+</tr>
+<tr>
+<td><strong>Nation</strong></td>
+<td>Czechia</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>45</td>
+</tr>
+<tr>
+<td><strong>Archetype</strong></td>
+<td><a href="../archetypes/dribbler.html">dribbler</a> Dribbler</td>
+</tr>
+<tr>
+<td><strong>Level</strong></td>
+<td>44</td>
+</tr>
+<tr>
+<td><strong>Overall</strong></td>
+<td>46.0</td>
+</tr>
+<tr>
+<td><strong>Pursuit</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Market Value Tier</strong></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="scouting-notes">Scouting Notes</h2>
+<p>CM Creator Arsenal CZE B 0.0 Ahead of his first senior international tournament, "Rosický was described by the BBC as ""a solid playmaker"".</p>
+<p>Arsenal manager Wenger described Rosický as having ""great technique", "skill on the ball and sharp passing"".</p>
+<p>Upon signing a contract extension in 2010", "Wenger called him a ""special talent"" and said his ""vision and touch is remarkable"".</p>
+<p>Announcing Rosický's 2012 contract extension", "Wenger called him ""technically top class"". Rosický is also well known for preferring to use his outside of the foot for passing and shooting.</p>
+<p>In Germany", "he gained the nickname ""The Little Mozart"" for his ability to orchestrate play on the pitch.</p>
+<p>David Hytner of The Guardian described him as ""the all-round midfielder who brings balance", "organisation and urgency to the team""." He started his professional career at his hometown club AC Sparta Prague, playing three seasons in the Czech First League before moving to Borussia Dortmund in 2001 for DM 25 million (approximately £18 million), at the time a record transfer fee paid by a Bundesliga club. Rosický joined Arsenal in 2006, and has since made over 200 appearances for the club, including their victory in the 2014 FA Cup Final. Internationally, Rosický made his debut for the Czech Republic in 2000 and became captain of his country in 2006. He has taken part in three UEFA European Championships as well as the 2006 FIFA World Cup. Rosický began his career at AC Sparta Prague, following his father Jiří who played for the club in the 1970s and brother, also called Jiří who played as a trainee in the 1990s.[3][4] Having played for Sparta's youth teams,[5] Tomáš debuted for Sparta's senior team in 1998 and played three matches in the 1998–99 season,[6] winning the national title with Sparta.[7] He scored five goals in the 1999–2000 season as the team won the league for the second year in succession.[6][7] He was named the "Talent of the Year" at the 1999 Czech Footballer of the Yearawards.[7] During the 2000–01 UEFA Champions League group stage, he scored goals in matches against Shakhtar Donetsk and Arsenal, attracting the attention of German Bundesliga club Borussia Dortmund who had a bid accepted for the player in January 2001. On 9 January 2001, Rosický joined Borussia Dortmund, signing a five-year contract.[8] His transfer fee of DM 25 million (approximately £18 million), made him the most expensive player in Bundesliga history and the most expensive Czech player to be sold to a foreign team.[8][9] In his first full season at Borussia, Rosický helped the club to win the 2001–02 Bundesliga title.[10] He also took part in the 2002 UEFA Cup Final, which Dortmund ultimately lost 3–2 toFeyenoord.[11] During his first two and a half seasons with the club, Rosický played 75 league matches, scoring nine goals and registering 20 assists.[12] He subsequently agreed to extend his contract with Dortmund in July 2003, signing a deal to stay at the club until 2008.[12] At the end of the season, Rosický was announced as the winner of the Czech Republic's Golden Ball award. Although Rosický was part of the Dortmund team which reached the final of the 2003 DFB-Ligapokal, losing 4–2 to Hamburg,[14] he later described the 2003–04 season as his "worst club season", as Dortmund failed to qualify for the following season's Champions League competition.[15] He scored his first competitive goal of the 2005–06 season in February 2006, against MSV Duisburg; it was his 16th Bundesliga goal on his 139th league appearance.[16] March 2006 saw him have injury problems with his thigh, but he scored twice in Dortmund's 4–2 win against Hamburg at the end the month.[18] He was linked with a move to Spanish side Atlético Madrid, which he discussed in sports magazine Kicker, although mentioned in March 2006 that he hadn't signed a contract to move elsewhere. On 23 May 2006, Arsenal confirmed that they had signed then 25-year-old Rosický on a long-term contract for an undisclosed fee.[9][20] He made his competitive debut for Arsenal on 8 August 2006 in a 3–0 win over Dinamo Zagreb in a Champions League qualifier.[21] Rosický scored his first Arsenal goal on 13 September 2006 against Hamburg in Arsenal's first Champions League game of the season, which Arsenal won by two goals to one.[22] On 6 January 2007, he scored twice against Liverpool at Anfield in the FA Cup, in a 3–1 victory for Arsenal.[23][24] In February 2007, Rosický was announced as the Czech Footballer of the Year for 2006, marking his third time winning the award after previous victories in 2001 and 2002.[25] He scored his first Premier League goal on 11 February 2007 against Wigan Athletic.[26] He also scored against Bolton Wanderers on 14 April 2007[27] and against Manchester City on 17 April 2007.[28] He finished his debut season at Arsenal having scored six goals in 37 appearances for the club in all competitions. On 29 August, he scored in a Champions League qualifying match against hi</p>
+<h2 id="attribute-grades">Attribute Grades</h2>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First Touch</td>
+<td>█████████████████ 17/10</td>
+</tr>
+<tr>
+<td>Skills</td>
+<td>█████████████████ 17/10</td>
+</tr>
+<tr>
+<td>Pass Accuracy</td>
+<td>████████████████ 16/10</td>
+</tr>
+<tr>
+<td>Vision</td>
+<td>████████████████ 16/10</td>
+</tr>
+<tr>
+<td>Long Range</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>Mid Range</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>Volleys</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>Acceleration</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Pace</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Aerial Duels</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Heading</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Interceptions</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Marking</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Tackling</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Carries</td>
+<td>████████░░ 8/10</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traits">Traits</h2>
+<ul>
+<li><strong>Dribbler</strong> (style) — severity 7/10</li>
+<li><strong>Ball Progressor</strong> (style) — severity 7/10</li>
+<li><strong>Long Range Passing</strong> (style) — severity 4/10</li>
+</ul>
+<h2 id="personality">Personality</h2>
+<ul>
+<li><strong>Game Reading (EI)</strong>: 43</li>
+<li><strong>Motivation (SN)</strong>: 45</li>
+<li><strong>Social (TF)</strong>: 78</li>
+<li><strong>Pressure (JP)</strong>: 23</li>
+<li><strong>Competitiveness</strong>: 5/10</li>
+<li><strong>Coachability</strong>: 6/10</li>
+</ul>
+<a class="source-link" href="tomas-rosicky.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

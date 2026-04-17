@@ -2,7 +2,7 @@
 title: Dribbler
 category: archetypes
 tags: [Technical, Dribbler]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Technical archetype. Core attributes: carries, first_touch, skills, take_ons.
@@ -19,11 +19,17 @@ summary: Technical archetype. Core attributes: carries, first_touch, skills, tak
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[ribery]] Ribéry | WF | — | — |
-| [[son]] Son | WF | — | — |
-| [[robben]] Robben | WF | — | — |
-| [[leao]] Leão | WF | — | — |
-| [[isco]] Isco | AM | — | — |
+| [[riqui-puig]] Riqui Puig | CM | Los Angeles Galaxy | 82.0 |
+| [[pedro-malheiro]] Pedro Malheiro | WD | Boavista | 81.0 |
+| [[rayan-ait-nouri]] Rayan Ait-Nouri | WD | Manchester City | 80.0 |
+| [[nicolas-gonzalez]] Nicolás González | WF | Fiorentina | 80.0 |
+| [[jose-machin]] José Machín | CM | Monza | 79.0 |
+| [[fotis-ioannidis]] Fotis Ioannidis | CF | Sporting CP
+ | 79.0 |
+| [[yankuba-minteh]] Yankuba Minteh | WF | Brighton | 79.0 |
+| [[alen-halilovic]] Alen Halilović | CM | Fortuna Sittard | 79.0 |
+| [[bruno-langa]] Bruno Langa | WD | Estrela da Amadora | 79.0 |
+| [[oscar-bobb]] Oscar Bobb | WF | Manchester City | 79.0 |
 
 ## Compound Archetypes
 

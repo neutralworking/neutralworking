@@ -2,7 +2,7 @@
 title: 2-3-5 (Pyramid)
 category: tactics
 tags: [formation]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Tactical analysis of the 2-3-5 (Pyramid) formation.

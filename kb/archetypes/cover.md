@@ -2,7 +2,7 @@
 title: Cover
 category: archetypes
 tags: [Tactical, Cover]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Tactical archetype. Core attributes: awareness, discipline, interceptions, positioning.
@@ -19,11 +19,16 @@ summary: Tactical archetype. Core attributes: awareness, discipline, interceptio
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[van-dijk]] Van Dijk | CD | — | — |
-| [[john-stones]] John Stones | CD | — | — |
-| [[baresi]] Baresi | CD | — | — |
-| [[pau-torres]] Pau Torres | CD | — | — |
-| [[marcelo]] Marcelo | WD | — | — |
+| [[marc-andre-ter-stegen]] Marc-André ter Stegen | GK | Barcelona | 82.0 |
+| [[joao-cancelo]] João Cancelo | WD | Barcelona | 81.0 |
+| [[amadou-haidara]] Amadou Haidara | CM | Lens | 81.0 |
+| [[mitchel-bakker]] Mitchel Bakker | WD | Atalanta | 81.0 |
+| [[ben-white]] Ben White | WD | Arsenal | 81.0 |
+| [[rico-lewis]] Rico Lewis | WD | Manchester City | 81.0 |
+| [[yangel-herrera]] Yangel Herrera | DM | Girona | 80.0 |
+| [[oleksandr-zinchenko]] Oleksandr Zinchenko | WD | Nottingham Forest | 80.0 |
+| [[florian-dietz]] Florian Dietz | CF | 1. FC Köln | 80.0 |
+| [[david-alaba]] David Alaba | CD | Real Madrid | 80.0 |
 
 ## Compound Archetypes
 

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Leicester City · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">leicester-city</span>
+</header>
+<article>
+<h1 id="leicester-city">Leicester City</h1>
+<p><strong>League</strong>: Championship<br />
+<strong>Nation</strong>: England<br />
+<strong>Players in DB</strong>: 42</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/aaron-ramsey.html">aaron-ramsey</a> Aaron Ramsey</td>
+<td>AM</td>
+<td>Dribbler</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/d-mukasa.html">d-mukasa</a> D. Mukasa</td>
+<td>AM</td>
+<td>Creator</td>
+<td>53.0</td>
+</tr>
+<tr>
+<td><a href="../players/kasey-mcateer.html">kasey-mcateer</a> Kasey McAteer</td>
+<td>AM</td>
+<td>Sprinter</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/ben-nelson.html">ben-nelson</a> Ben Nelson</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/caleb-okoli.html">caleb-okoli</a> Caleb Okoli</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/harry-souttar.html">harry-souttar</a> Harry Souttar</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/jamal-lascelles.html">jamal-lascelles</a> Jamal Lascelles</td>
+<td>CD</td>
+<td>Cover</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/jannik-vestergaard.html">jannik-vestergaard</a> Jannik Vestergaard</td>
+<td>CD</td>
+<td>Powerhouse-Destroyer</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">k-gray</span> K. Gray</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">sam-tierney</span> Sam Tierney</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/wout-faes.html">wout-faes</a> Wout Faes</td>
+<td>CD</td>
+<td>Destroyer-Dribbler</td>
+<td>58.0</td>
+</tr>
+<tr>
+<td><a href="../players/b-de-cordova-reid.html">b-de-cordova-reid</a> B. De Cordova-Reid</td>
+<td>CF</td>
+<td>Sprinter-Dribbler</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/jordan-ayew.html">jordan-ayew</a> Jordan Ayew</td>
+<td>CF</td>
+<td>Striker</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/josh-gordon.html">josh-gordon</a> Josh Gordon</td>
+<td>CF</td>
+<td>Powerhouse</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/patson-daka.html">patson-daka</a> Patson Daka</td>
+<td>CF</td>
+<td>Striker</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/silko-amari-otieno-thomas.html">silko-amari-otieno-thomas</a> Silko Amari Otieno Thomas</td>
+<td>CF</td>
+<td>Creator</td>
+<td>29.0</td>
+</tr>
+<tr>
+<td><a href="../players/boubakary-soumare.html">boubakary-soumare</a> Boubakary Soumare</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>62.0</td>
+</tr>
+<tr>
+<td><a href="../players/hamza-choudhury.html">hamza-choudhury</a> Hamza Choudhury</td>
+<td>CM</td>
+<td>Powerhouse-Destroyer</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/harry-winks.html">harry-winks</a> Harry Winks</td>
+<td>CM</td>
+<td>Cover</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/jordan-james.html">jordan-james</a> Jordan James</td>
+<td>CM</td>
+<td>Engine</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">michael-golding</span> Michael Golding</td>
+<td>CM</td>
+<td>Destroyer</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">shannon-obrien</span> Shannon O'Brien</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">will-alves</span> Will Alves</td>
+<td>CM</td>
+<td>Sprinter-Dribbler</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/oliver-skipp.html">oliver-skipp</a> Oliver Skipp</td>
+<td>DM</td>
+<td>Cover</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/asmir-begovic.html">asmir-begovic</a> Asmir Begović</td>
+<td>GK</td>
+<td>GK</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">fran-vieites</span> Fran Vieites</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">harry-french</span> Harry French</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/jakub-stolarczyk.html">jakub-stolarczyk</a> Jakub Stolarczyk</td>
+<td>GK</td>
+<td>GK</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">connor-wood</span> Connor Wood</td>
+<td>WD</td>
+<td>Powerhouse</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/luke-thomas.html">luke-thomas</a> Luke Thomas</td>
+<td>WD</td>
+<td>Sprinter</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/ricardo-pereira.html">ricardo-pereira</a> Ricardo Pereira</td>
+<td>WD</td>
+<td>Engine-Passer</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/ryan-bertrand.html">ryan-bertrand</a> Ryan Bertrand</td>
+<td>WD</td>
+<td>Sprinter</td>
+<td>56.0</td>
+</tr>
+<tr>
+<td><a href="../players/victor-kristiansen.html">victor-kristiansen</a> Victor Kristiansen</td>
+<td>WD</td>
+<td>Powerhouse-Destroyer</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/abdul-fatawu.html">abdul-fatawu</a> Abdul Fatawu</td>
+<td>WF</td>
+<td>Sprinter-Dribbler</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">alisha-lehmann</span> Alisha Lehmann</td>
+<td>WF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">bobby-decordova-reid</span> Bobby Decordova-Reid</td>
+<td>WF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/jeremy-monga.html">jeremy-monga</a> Jeremy Monga</td>
+<td>WF</td>
+<td>Creator</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/stephy-mavididi.html">stephy-mavididi</a> Stephy Mavididi</td>
+<td>WF</td>
+<td>Striker-Sprinter</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">wanya-marcal-madivadua</span> Wanya Marcal-Madivadua</td>
+<td>WF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/l-page.html">l-page</a> L. Page</td>
+<td>WM</td>
+<td>Creator-Cover</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/marc-albrighton.html">marc-albrighton</a> Marc Albrighton</td>
+<td>WM</td>
+<td>Creator</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">o-aluko</span> O. Aluko</td>
+<td>None</td>
+<td>Creator-Destroyer</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="leicester-city.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

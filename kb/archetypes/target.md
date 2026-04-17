@@ -2,7 +2,7 @@
 title: Target
 category: archetypes
 tags: [Physical, Target]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Physical archetype. Core attributes: aerial_duels, heading, jumping, volleys.
@@ -19,11 +19,16 @@ summary: Physical archetype. Core attributes: aerial_duels, heading, jumping, vo
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[soucek]] Souček | CM | — | — |
-| [[ibrahimovic]] Ibrahimović | CF | — | — |
-| [[ronaldo]] Ronaldo | CF | — | — |
-| [[crouch]] Crouch | CF | — | — |
-| [[godin]] Godín | CD | — | — |
+| [[asier-villalibre]] Asier Villalibre | CF | Athletic Bilbao | 81.0 |
+| [[erling-haaland]] Erling Haaland | CF | Manchester City | 80.0 |
+| [[mike-maignan]] Mike Maignan | GK | AC Milan | 79.0 |
+| [[fraser-hornby]] Fraser Hornby | CF | Darmstadt | 79.0 |
+| [[el-hadji-malick-diouf]] El Hadji Malick Diouf | WD | West Ham United | 79.0 |
+| [[chris-martin]] Chris Martin | GK | Queens Park Rangers | 78.0 |
+| [[abdi-salim]] Abdi Salim | CD | Orlando City SC | 77.0 |
+| [[phillip-tietz]] Phillip Tietz | CF | Augsburg | 77.0 |
+| [[michael-folorunsho]] Michael Folorunsho | CM | Napoli | 77.0 |
+| [[adam-buksa]] Adam Buksa | CF | Udinese | 76.0 |
 
 ## Compound Archetypes
 

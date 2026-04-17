@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aberdeen · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">aberdeen</span>
+</header>
+<article>
+<h1 id="aberdeen">Aberdeen</h1>
+<p><strong>League</strong>: None<br />
+<strong>Nation</strong>: None<br />
+<strong>Players in DB</strong>: 36</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/stuart-armstrong.html">stuart-armstrong</a> Stuart Armstrong</td>
+<td>AM</td>
+<td>Creator</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/angus-macdonald.html">angus-macdonald</a> Angus MacDonald</td>
+<td>CD</td>
+<td>Cover</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/mats-knoester.html">mats-knoester</a> Mats Knoester</td>
+<td>CD</td>
+<td>Destroyer-Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">richard-jensen</span> Richard Jensen</td>
+<td>CD</td>
+<td>Powerhouse-Cover</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/stefan-gartenmann.html">stefan-gartenmann</a> Stefan Gartenmann</td>
+<td>CD</td>
+<td>Cover-Powerhouse</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/tom-mcintyre.html">tom-mcintyre</a> Tom McIntyre</td>
+<td>CD</td>
+<td>Target</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/ester-sokler.html">ester-sokler</a> Ester Sokler</td>
+<td>CF</td>
+<td>Sprinter</td>
+<td>61.0</td>
+</tr>
+<tr>
+<td><a href="../players/k-nisbet.html">k-nisbet</a> K. Nisbet</td>
+<td>CF</td>
+<td>Target-Striker</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/marko-lazetic.html">marko-lazetic</a> Marko Lazetić</td>
+<td>CF</td>
+<td>Striker-Creator</td>
+<td>58.0</td>
+</tr>
+<tr>
+<td><a href="../players/a-dorrington.html">a-dorrington</a> A. Dorrington</td>
+<td>CM</td>
+<td>Destroyer-Striker</td>
+<td>34.0</td>
+</tr>
+<tr>
+<td><a href="../players/a-jensen.html">a-jensen</a> A. Jensen</td>
+<td>CM</td>
+<td>Destroyer-Creator</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/a-palaversa.html">a-palaversa</a> A. Palaversa</td>
+<td>CM</td>
+<td>Destroyer-Dribbler</td>
+<td>34.0</td>
+</tr>
+<tr>
+<td><a href="../players/adil-aouchiche.html">adil-aouchiche</a> Adil Aouchiche</td>
+<td>CM</td>
+<td>Creator</td>
+<td>62.0</td>
+</tr>
+<tr>
+<td><a href="../players/dante-polvara.html">dante-polvara</a> Dante Polvara</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/dean-campbell.html">dean-campbell</a> Dean Campbell</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/dennis-geiger.html">dennis-geiger</a> Dennis Geiger</td>
+<td>CM</td>
+<td>Creator</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/g-molloy.html">g-molloy</a> G. Molloy</td>
+<td>CM</td>
+<td>Destroyer-Powerhouse</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/graeme-shinnie.html">graeme-shinnie</a> Graeme Shinnie</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/jack-milne.html">jack-milne</a> Jack Milne</td>
+<td>CM</td>
+<td>Destroyer</td>
+<td>52.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">jonny-hayes</span> Jonny Hayes</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/leighton-clarkson.html">leighton-clarkson</a> Leighton Clarkson</td>
+<td>CM</td>
+<td>Dribbler</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/s-heltne-nilsen.html">s-heltne-nilsen</a> S. Heltne Nilsen</td>
+<td>CM</td>
+<td>Destroyer-Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/toyosi-olusanya.html">toyosi-olusanya</a> Toyosi Olusanya</td>
+<td>CM</td>
+<td>Sprinter</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/dimitar-mitov.html">dimitar-mitov</a> Dimitar Mitov</td>
+<td>GK</td>
+<td>GK</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">p-kristian-bratveit</span> P. Kristian Bråtveit</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">tom-ritchie</span> Tom Ritchie</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/nicky-devlin.html">nicky-devlin</a> Nicky Devlin</td>
+<td>WD</td>
+<td>Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">dilan-markanday</span> Dilan Markanday</td>
+<td>WF</td>
+<td>Sprinter</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/jesper-karlsson.html">jesper-karlsson</a> Jesper Karlsson</td>
+<td>WF</td>
+<td>Striker</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/kusini-yengi.html">kusini-yengi</a> Kusini Yengi</td>
+<td>WF</td>
+<td>Sprinter</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/shayden-morris.html">shayden-morris</a> Shayden Morris</td>
+<td>WF</td>
+<td>Sprinter</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/t-keskinen.html">t-keskinen</a> T. Keskinen</td>
+<td>WF</td>
+<td>Sprinter-Creator</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/d-lobban.html">d-lobban</a> D. Lobban</td>
+<td>WM</td>
+<td>Destroyer-Creator</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/m-frame.html">m-frame</a> M. Frame</td>
+<td>WM</td>
+<td>Cover-Creator</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/n-milanovic.html">n-milanovic</a> N. Milanovic</td>
+<td>WM</td>
+<td>Striker-Creator</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">k-kjartansson</span> K. Kjartansson</td>
+<td>None</td>
+<td>Creator-Striker</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="aberdeen.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

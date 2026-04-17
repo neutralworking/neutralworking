@@ -2,7 +2,7 @@
 title: Creator
 category: archetypes
 tags: [Mental, Creator]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Mental archetype. Core attributes: creativity, flair, vision, threat.
@@ -19,11 +19,16 @@ summary: Mental archetype. Core attributes: creativity, flair, vision, threat.
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[ronaldinho]] Ronaldinho | AM | — | — |
-| [[bruno-fernandes]] Bruno Fernandes | AM | — | — |
-| [[ozil]] Özil | AM | — | — |
-| [[messi]] Messi | WF | — | — |
-| [[kaka]] Kaká | AM | — | — |
+| [[dejan-kulusevski]] Dejan Kulusevski | WF | Tottenham Hotspur | 83.0 |
+| [[angelino]] Angeliño | WD | AS Roma | 82.0 |
+| [[inigo-ruiz-de-galarreta]] Iñigo Ruiz de Galarreta | DM | Athletic Bilbao | 82.0 |
+| [[eliesse-ben-seghir]] Eliesse Ben Seghir | AM | Bayer Leverkusen | 82.0 |
+| [[james-maddison]] James Maddison | CM | Tottenham Hotspur | 82.0 |
+| [[moussa-diaby]] Moussa Diaby | WF | Aston Villa | 82.0 |
+| [[giacomo-raspadori]] Giacomo Raspadori | CF | Atlético Madrid | 81.0 |
+| [[edon-zhegrova]] Edon Zhegrova | WF | Juventus | 81.0 |
+| [[dilane-bakwa]] Dilane Bakwa | WF | Nottingham Forest | 81.0 |
+| [[federico-chiesa]] Federico Chiesa | WF | Liverpool | 81.0 |
 
 ## Compound Archetypes
 

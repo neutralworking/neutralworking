@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sevilla · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">sevilla</span>
+</header>
+<article>
+<h1 id="sevilla">Sevilla</h1>
+<p><strong>League</strong>: La Liga<br />
+<strong>Nation</strong>: Spain<br />
+<strong>Players in DB</strong>: 31</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/oso.html">oso</a> Oso</td>
+<td>AM</td>
+<td>Creator</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/batista-mendy.html">batista-mendy</a> Batista Mendy</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/fabio-cardoso.html">fabio-cardoso</a> Fábio Cardoso</td>
+<td>CD</td>
+<td>Cover</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/gabriel-suazo.html">gabriel-suazo</a> Gabriel Suazo</td>
+<td>CD</td>
+<td>Creator</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/kike-salas.html">kike-salas</a> Kike Salas</td>
+<td>CD</td>
+<td>Powerhouse-Cover</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/marcao.html">marcao</a> Marcão</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/tanguy-nianzou.html">tanguy-nianzou</a> Tanguy Nianzou</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/akor-adams.html">akor-adams</a> Akor Adams</td>
+<td>CF</td>
+<td>Striker</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">iker-villar</span> Iker Villar</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/rafa-mir.html">rafa-mir</a> Rafa Mir</td>
+<td>CF</td>
+<td>Striker-Destroyer</td>
+<td>79.0</td>
+</tr>
+<tr>
+<td><a href="../players/andres-castrin.html">andres-castrin</a> Andrés Castrín</td>
+<td>CM</td>
+<td>Destroyer</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/djibril-sow.html">djibril-sow</a> Djibril Sow</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/joan-jordan.html">joan-jordan</a> Joan Jordán</td>
+<td>CM</td>
+<td>Creator</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/jose-angel-carmona.html">jose-angel-carmona</a> José Ángel Carmona</td>
+<td>CM</td>
+<td>Destroyer-Creator</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/lucien-agoume.html">lucien-agoume</a> Lucien Agoumé</td>
+<td>CM</td>
+<td>Engine-Dribbler</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/nemanja-gudelj.html">nemanja-gudelj</a> Nemanja Gudelj</td>
+<td>DM</td>
+<td>Target</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/neal-maupay.html">neal-maupay</a> Neal Maupay</td>
+<td>GK</td>
+<td>Striker-Creator</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">odysseas-vlachodimos</span> Odysseas Vlachodimos</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/rjan-nyland.html">rjan-nyland</a> Ørjan Nyland</td>
+<td>GK</td>
+<td>GK</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/adria-pedrosa.html">adria-pedrosa</a> Adrià Pedrosa</td>
+<td>WD</td>
+<td>Sprinter</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/cesar-azpilicueta.html">cesar-azpilicueta</a> César Azpilicueta</td>
+<td>WD</td>
+<td>Destroyer</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/juanlu-sanchez.html">juanlu-sanchez</a> Juanlu Sánchez</td>
+<td>WD</td>
+<td>Creator-Destroyer</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/adnan-januzaj.html">adnan-januzaj</a> Adnan Januzaj</td>
+<td>WF</td>
+<td>Creator</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/alexis-sanchez.html">alexis-sanchez</a> Alexis Sánchez</td>
+<td>WF</td>
+<td>Creator-Striker</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/alfon-gonzalez.html">alfon-gonzalez</a> Alfon González</td>
+<td>WF</td>
+<td>Striker-Creator</td>
+<td>48.0</td>
+</tr>
+<tr>
+<td><a href="../players/chidera-ejuke.html">chidera-ejuke</a> Chidera Ejuke</td>
+<td>WF</td>
+<td>Striker-Sprinter</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/isaac-romero.html">isaac-romero</a> Isaac Romero</td>
+<td>WF</td>
+<td>Striker</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/peque-fernandez.html">peque-fernandez</a> Peque Fernández</td>
+<td>WF</td>
+<td>Creator-Striker</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/ruben-vargas.html">ruben-vargas</a> Ruben Vargas</td>
+<td>WF</td>
+<td>Striker-Sprinter</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/suso.html">suso</a> Suso</td>
+<td>WF</td>
+<td>Creator</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">manu-bueno</span> Manu Bueno</td>
+<td>None</td>
+<td>Creator-Powerhouse</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="sevilla.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

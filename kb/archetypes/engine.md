@@ -2,7 +2,7 @@
 title: Engine
 category: archetypes
 tags: [Tactical, Engine]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Tactical archetype. Core attributes: intensity, pressing, stamina, versatility.
@@ -19,11 +19,16 @@ summary: Tactical archetype. Core attributes: intensity, pressing, stamina, vers
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[nedved]] Nedved | WM | — | — |
-| [[gattuso]] Gattuso | DM | — | — |
-| [[bale]] Bale | WF | — | — |
-| [[zanetti]] Zanetti | WD | — | — |
-| [[brozovic]] Brozović | DM | — | — |
+| [[harvey-elliott]] Harvey Elliott | CF | Aston Villa | 82.0 |
+| [[ferland-mendy]] Ferland Mendy | WD | Real Madrid | 81.0 |
+| [[declan-rice]] Declan Rice | CM | Arsenal | 81.0 |
+| [[yunus-musah]] Yunus Musah | CM | AC Milan | 81.0 |
+| [[ederson]] Ederson | GK | Atalanta | 81.0 |
+| [[jude-bellingham]] Jude Bellingham | AM | Real Madrid | 81.0 |
+| [[charles-de-ketelaere]] Charles De Ketelaere | CF | Atalanta | 80.0 |
+| [[cody-gakpo]] Cody Gakpo | WF | Liverpool | 80.0 |
+| [[myles-lewis-skelly]] Myles Lewis-Skelly | WD | Arsenal | 79.0 |
+| [[adrien-truffert]] Adrien Truffert | WD | Bournemouth | 79.0 |
 
 ## Compound Archetypes
 

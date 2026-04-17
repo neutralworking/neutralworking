@@ -1,0 +1,107 @@
+---
+title: Isak Bergmann Jóhannesson
+category: players
+tags: [CM, 1. FC Köln, Dribbler-Sprinter]
+updated: 2026-04-14
+source: compiled
+confidence: high
+summary: CM at 1. FC Köln. Archetype: Dribbler-Sprinter.
+person_id: 19027
+backlinks: [dribbler, 1-fc-koln]
+---
+
+# Isak Bergmann Jóhannesson
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CM |
+| **Club** | 1. FC Köln |
+| **Nation** | None |
+| **Age** | 23 |
+| **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Level** | 78 |
+| **Overall** | 65.0 |
+| **Pursuit** | None |
+| **Market Value Tier** | 3 |
+
+## Scouting Notes
+
+
+ClubIFK Norrköping
+
+PositionMidfielder
+
+Born23 March 2003
+
+His grandfather, Gudjon Thordarson, is one of the most famous coaches in Iceland history, who worked at Stoke and Barnsley among others. His father, Joey Gudjónsson, represented his country 34 times and had a good spell at Leicester. His uncles are famous too, especially Thordur Gudjonsson, who was one of the best Icelandic players of his generation. It is hardly surprising, therefore, that Ísak Bergmann Jóhannesson is showing immense potential. In fact, he could become the brightest star of his legendary family. The versatile midfielder, who is usually used on the right flank but can easily play on the left or centrally, has become absolutely integral at Norrköping, providing three goals and six assists in just 21 Allsvenskan matches. His left foot is phenomenal, and Juventus are reportedly following his progress closely. **[Michael Yokhin](https://twitter.com/Yokhin)**  
+[Watch Isak Bergmann Jóhannesson in action](https://twitter.com/AllsvenskanSE/status/1292888769390153729)  
+  
+**October 2021 update** It was only a question of time before a movve and in August 2021 he signed for Copenhagen to further his career. “I cannot thank IFK Norrköping enough,” he said. “I arrived here as a 15-year-old boy and I leave as a man. They have done everything for me.”  
+  
+**September 2022 update** Has gained vital experience at Copenhagen, not least in Europe where he has featured in the Europa League and, this season, the Champions League. This summer he was included on a list made by Tipsbladet of the Danish top-flight’s 10 most expensive players.  
+  
+**October 2023 update** Continues to develop nicely, even though the competition at Copenhagen is very tough. Was loaned out to Fortuna Dusseldorf in the summer and he has forced himself into the starting XI of the promotion-chasing 2. Bundesliga side. Provided three assists in his first six league matches in Germany. "It has been a better start than I could have dreamed of," he told Rheinische Post.
+
+
+
+## Attribute Grades
+
+| Attribute | Grade |
+|---|---|
+| Stamina | █████████████████ 17/10 |
+| Balance | ███████████████ 15/10 |
+| First Touch | ███████████████ 15/10 |
+| Shielding | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Physical | █████████████ 13/10 |
+| Penalties | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+
+## Traits
+
+- **positional_discipline** (tactical) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Personality
+
+- **Game Reading (EI)**: 57
+- **Motivation (SN)**: 46
+- **Social (TF)**: 55
+- **Pressure (JP)**: 46
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+
+ClubIFK Norrköping
+
+PositionMidfielder
+
+Born23 March 2003
+
+His grandfather, Gudjon Thordarson, is one of the most famous coaches in Iceland history, who worked at Stoke and Barnsley among others. His father, Joey Gudjónsson, represented his country 34 times and had a good spell at Leicester. His uncles are famous too, especially Thordur Gudjonsson, who was one of the best Icelandic players of his generation. It is hardly surprising, therefore, that Ísak Bergmann Jóhannesson is showing immense potential. In fact, he could become the brightest star of his legendary family. The versatile midfielder, who is usually used on the right flank but can easily play on the left or centrally, has become absolutely integral at Norrköping, providing three goals and six assists in just 21 Allsvenskan matches. His left foot is phenomenal, and Juventus are reportedly following his progress closely. **[Michael Yokhin](https://twitter.com/Yokhin)**  
+[Watch Isak Bergmann Jóhannesson in action](https://twitter.com/AllsvenskanSE/status/1292888769390153729)  
+  
+**October 2021 update** It was only a question of time before a movve and in August 2021 he signed for Copenhagen to further his career. “I cannot thank IFK Norrköping enough,” he said. “I arrived here as a 15-year-old boy and I leave as a man. They have done everything for me.”  
+  
+**September 2022 update** Has gained vital experience at Copenhagen, not least in Europe where he has featured in the Europa League and, this season, the Champions League. This summer he was included on a list made by Tipsbladet of the Danish top-flight’s 10 most expensive players.  
+  
+**October 2023 update** Continues to develop nicely, even though the competition at Copenhagen is very tough. Was loaned out to Fortuna Dusseldorf in the summer and he has forced himself into the starting XI of the promotion-chasing 2. Bundesliga side. Provided three assists in his first six league matches in Germany. "It has been a better start than I could have drea...
+
+</details>

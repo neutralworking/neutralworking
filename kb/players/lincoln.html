@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lincoln · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
+article pre code { background: none; border: none; padding: 0; }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">players</a>
+<span class="sep">/</span>
+<span class="crumb">lincoln</span>
+</header>
+<article>
+<h1 id="lincoln">Lincoln</h1>
+<h2 id="overview">Overview</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Position</strong></td>
+<td>AM</td>
+</tr>
+<tr>
+<td><strong>Club</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Nation</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>30</td>
+</tr>
+<tr>
+<td><strong>Archetype</strong></td>
+<td><a href="../archetypes/creator.html">creator</a> Creator</td>
+</tr>
+<tr>
+<td><strong>Level</strong></td>
+<td>78</td>
+</tr>
+<tr>
+<td><strong>Overall</strong></td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><strong>Pursuit</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Market Value Tier</strong></td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<h2 id="scouting-notes">Scouting Notes</h2>
+<p>CountryBrazil</p>
+<p>ClubFlamengo</p>
+<p>PositionForward</p>
+<p>Born16 December 2000</p>
+<p>“He is devilish! I saw him playing in a final they won 5-0 and he played a great game. He has all ability to be the future No9 for my Flamengo.” Who is speaking? It’s Zico, the biggest idol of the Brazilian club where Lincoln is taking his first steps in professional football. A powerfully built teenager, Lincoln is a classic No 9 – a position where Brazil have had great players in the past such as Careca, Ronaldo and Adriano. Lincoln was a key part of Brazil’s title-winning side at the under-17 South American championship, scoring five goals – two fewer than Vinicius Júnior, his team-mate who was the tournament’s top scorer. He is tipped to follow Vinícius to one of Europe’s biggest clubs. <strong><a href="https://twitter.com/thiagorabelo1?lang=en">Thiago Rabelo</a></strong></p>
+<p><strong>October 2018 update</strong> Joined up with the first team in October 2017 and his best moment of the season was a goal against Grêmio. Will hope to feature even more during this campaign.</p>
+<p><strong>October 2019 update</strong> Is now in his third year as a professional but is not playing as many games as he would like. Has made 20 league appearances for Flamengo, which is not bad, but has been hampered by a hamstring injury recently.</p>
+<p><strong>October 2020 update</strong> Was given ample opportunities in the Flamengo first team under Jorge Jesus but did not always deliver. Now, with Domènec Torrent as his manager, it has been going better for some reason. Has 36 first-team performances for Flamengo now and played 18 minutes of the Club World Cup defeat against Liverpool.</p>
+<p><strong>October 2021 update</strong> Struggled with the expectations and criticism from the Flamengo supporters, who expected him to become as good as Vinicius Jr. After the departure of the coach Doménec Torrent, who was replaced by Rogério Ceni, he lost his place in the first-team squad and signed for Japanese side Vissel Kobe for $3m in January.</p>
+<p><strong>September 2022 update</strong> The forward did not have the best of times in 2022 so far, making only eight J1 League appearances before being loaned to Cruzeiro, Ronaldo’s club, in Série B.</p>
+<h2 id="attribute-grades">Attribute Grades</h2>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jumping</td>
+<td>████████████████ 16/10</td>
+</tr>
+<tr>
+<td>Acceleration</td>
+<td>███████████████ 15/10</td>
+</tr>
+<tr>
+<td>Balance</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>First Touch</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Pace</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Heading</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Movement</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Reactions</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Shielding</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Volleys</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Crossing</td>
+<td>████████████ 12/10</td>
+</tr>
+<tr>
+<td>Stamina</td>
+<td>███████████ 11/10</td>
+</tr>
+<tr>
+<td>Pass Range</td>
+<td>██████████ 10/10</td>
+</tr>
+<tr>
+<td>Aerial Duels</td>
+<td>████████░░ 8/10</td>
+</tr>
+<tr>
+<td>Aggression</td>
+<td>████████░░ 8/10</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traits">Traits</h2>
+<ul>
+<li><strong>aerial_threat</strong> (physical) — severity 10/10</li>
+<li><strong>Trickery</strong> (style) — severity 5/10</li>
+<li><strong>Technical Ability</strong> (style) — severity 5/10</li>
+<li><strong>flamboyant</strong> (style) — severity 4/10</li>
+</ul>
+<h2 id="personality">Personality</h2>
+<ul>
+<li><strong>Game Reading (EI)</strong>: 43</li>
+<li><strong>Motivation (SN)</strong>: 56</li>
+<li><strong>Social (TF)</strong>: 72</li>
+<li><strong>Pressure (JP)</strong>: 40</li>
+<li><strong>Competitiveness</strong>: 3/10</li>
+<li><strong>Coachability</strong>: 3/10</li>
+</ul>
+<h2 id="research-notes">Research Notes</h2>
+<details>
+<summary>Raw scouting narrative</summary>
+
+<p>CountryBrazil</p>
+<p>ClubFlamengo</p>
+<p>PositionForward</p>
+<p>Born16 December 2000</p>
+<p>“He is devilish! I saw him playing in a final they won 5-0 and he played a great game. He has all ability to be the future No9 for my Flamengo.” Who is speaking? It’s Zico, the biggest idol of the Brazilian club where Lincoln is taking his first steps in professional football. A powerfully built teenager, Lincoln is a classic No 9 – a position where Brazil have had great players in the past such as Careca, Ronaldo and Adriano. Lincoln was a key part of Brazil’s title-winning side at the under-17 South American championship, scoring five goals – two fewer than Vinicius Júnior, his team-mate who was the tournament’s top scorer. He is tipped to follow Vinícius to one of Europe’s biggest clubs. <strong><a href="https://twitter.com/thiagorabelo1?lang=en">Thiago Rabelo</a></strong></p>
+<p><strong>October 2018 update</strong> Joined up with the first team in October 2017 and his best moment of the season was a goal against Grêmio. Will hope to feature even more during this campaign.</p>
+<p><strong>October 2019 update</strong> Is now in his third year as a professional but is not playing as many games as he would like. Has made 20 league appearances for Flamengo, which is not bad, but has been hampered by a hamstring injury recently.</p>
+<p><strong>October 2020 update</strong> Was given ample opportunities in the Flamengo first team under Jorge Jesus but did not always deliver. Now, with Domènec Torrent as his manager, it has been going better for some reason. Has 36 first-team performances for Flamengo now and played 18 minutes of the Club World Cup defeat against Liverpool.</p>
+<p><strong>October 2021 update</strong> Struggled with the expectations and criticism from the Flamengo supporters, who expected him to become as good as Vinicius Jr. After the departure of the coach Doménec Torrent, who was replaced by Rogério Ceni, he lost his place in the first-team squad and signed for Japanese side Vissel Kobe for $3m in January.</p>
+<p><strong>September 2022 update</strong> The forward did not have the bes...</p>
+</details>
+<a class="source-link" href="lincoln.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

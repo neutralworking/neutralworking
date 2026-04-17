@@ -1,0 +1,92 @@
+---
+title: Arjen Robben
+category: players
+tags: [WF, FC Groningen, Netherlands, Striker-Sprinter]
+updated: 2026-04-14
+source: compiled
+confidence: high
+summary: WF at FC Groningen. Archetype: Striker-Sprinter.
+person_id: 8691
+backlinks: [striker, fc-groningen]
+---
+
+# Arjen Robben
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | WF |
+| **Club** | FC Groningen |
+| **Nation** | Netherlands |
+| **Age** | 42 |
+| **Archetype** | [[striker]] Striker-Sprinter |
+| **Level** | 46 |
+| **Overall** | 47.0 |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Scouting Notes
+
+Messi might have been an 8 if not for this man. 
+The quintessential inverted winger. 
+With Ribery. 
+
+
+WF	Creative	Speedster	Wizard	Chelsea, Bayern Munich	NED	B	83.6	Robben is regarded as one of the best wingers in the world, "with ESPN stating he is ""able to take on and beat defenders at the drop of a hat", "Robben's ability to get to the byline and deliver in accurate crosses instils fear into any defence."" Usually deployed on the right wing", Robben often cuts inside on his left foot to move to a more central attacking position, and uses his speed and dribbling skills to take on defenders until he finds the space to make an attempt on goal. He is predominantly a left footed player. During a match he will often drift to the left wing, with his teammate, in the case of Bayern Munich, Franck Ribéry, switching over to the right. Another factor in his playing style is his relationship with the right-fullback. At Bayern, and he has at times openly admitted to the charges. In December 2011, Robben apologised for a dive against VfL Bochum in a DFB-Pokal match which earned him a yellow card, "saying ""I must not do things like this"". In July 2014", Robben admitted to diving in the first half of Netherlands' match against Mexico in the last 16 round of the 2014 FIFA World Cup, but maintained that he had not dived for the decisive penalty he won in stoppage time which Netherlands converted to win 2–1. Following the incident, Robben's former manager at Chelsea, José Mourinho, claimed that Robben's speed and creativity cause opponents who cannot stop him to foul him, "but ""sometimes [Robben] tries to get an advantage", "or to get a penalty"""		Dutch professional footballer who plays for German club Bayern Munich and is the captain of the Netherlands national team. Robben has appeared at the 2004, 2008 and 2012 UEFA European Championships, and the 2006, 2010 and 2014 FIFA World Cups. He is a forward who usually plays as a left or right sided winger. Robben is known for his dribbling skills, speed, crossing ability and his accurate left foot long-range shots from the right wing. Robben first came to prominence with Groningen, for whom he was player of the year for the 2000–01 Eredivisie season. Two years later he signed for PSV, where he became the Netherlands' Young Player of the Year and won an Eredivisie title. The following season Robben's signature was pursued by leading English clubs, and after protracted transfer negotiations he joined Chelsea in 2004. Robben's Chelsea debut was delayed through injury, but upon returning to fitness he helped Chelsea bring home two consecutive Premier League titles, and was the FA Premier League Player of the Month in November 2005.[4][5] After a third season in England which was punctuated by injury, Robben moved to Spanish club Real Madrid for €35 million. In August 2009, Robben transferred to Bayern Munich for a fee of around €25 million, scoring two goals on his debut. In his first season in Munich, Bayern won the league title, Robben's fifth league title in eight years, and Robben scored the winning goal in the 2013 UEFA Champions League Final. After his first season with Bayern, Robben was also named Footballer of the Year in Germany. In 2014, Robben was ranked the fourth-best footballer in the world by The Guardian.
+
+## Attribute Grades
+
+| Attribute | Grade |
+|---|---|
+| First Touch | ███████████████████ 19/10 |
+| Skills | ███████████████████ 19/10 |
+| Take Ons | ███████████████████ 19/10 |
+| Long Range | █████████████████ 17/10 |
+| Mid Range | █████████████████ 17/10 |
+| Volleys | █████████████████ 17/10 |
+| Pass Accuracy | ████████████████ 16/10 |
+| Pass Range | ████████████████ 16/10 |
+| Aerial Duels | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Interceptions | ███████████ 11/10 |
+| Marking | ███████████ 11/10 |
+| Tackling | ███████████ 11/10 |
+| Awareness | ███████░░░ 7/10 |
+| Carries | ███████░░░ 7/10 |
+
+## Traits
+
+- **dribble_artist** (style) — severity 7/10
+- **long_range_threat** (tactical) — severity 7/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+
+## Personality
+
+- **Game Reading (EI)**: 38
+- **Motivation (SN)**: 65
+- **Social (TF)**: 89
+- **Pressure (JP)**: 36
+- **Competitiveness**: 5/10
+- **Coachability**: 5/10
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+---
+class: attacker
+---
+
+
+
+Messi might have been an 8 if not for this man. 
+The quintessential inverted winger. 
+With Ribery. 
+
+
+WF	Creative	Speedster	Wizard	Chelsea, Bayern Munich	NED	B	83.6	Robben is regarded as one of the best wingers in the world, "with ESPN stating he is ""able to take on and beat defenders at the drop of a hat", "Robben's ability to get to the byline and deliver in accurate crosses instils fear into any defence."" Usually deployed on the right wing", Robben often cuts inside on his left foot to move to a more central attacking position, and uses his speed and dribbling skills to take on defenders until he finds the space to make an attempt on goal. He is predominantly a left footed player. During a match he will often drift to the left wing, with his teammate, in the case of Bayern Munich, Franck Ribéry, switching over to the right. Another factor in his playing style is his relationship with the right-fullback. At Bayern, and he has at times openly admitted to the charges. In December 2011, Robben apologised for a dive against VfL Bochum in a DFB-Pokal match which earned him a yellow card, "saying ""I must not do things like this"". In July 2014", Robben admitted to diving in the first half of Netherlands' match against Mexico in the last 16 round of the 2014 FIFA World Cup, but maintained that he had not dived for the decisive penalty he won in stoppage time which Netherlands converted to win 2–1. Following the incident, Robben's former manager at Chelsea, José Mourinho, claimed that Robben's speed and creativity cause opponents who cannot stop him to foul him, "but ""sometimes [Robben] tries to get an advantage", "or to get a penalty"""		Dutch professional footballer who plays for German club Bayern Munich and is the captain of the Netherlands national team. Robben has appeared at the 2004, 2008 and 2012 UEFA European Championships, and the 2006, 2010 and 2014 FIFA World Cups. He is a forward who usually plays as a left or right sided winge...
+
+</details>

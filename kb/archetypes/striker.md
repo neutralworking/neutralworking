@@ -2,7 +2,7 @@
 title: Striker
 category: archetypes
 tags: [Technical, Striker]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Technical archetype. Core attributes: close_range, mid_range, long_range, penalties.
@@ -19,11 +19,16 @@ summary: Technical archetype. Core attributes: close_range, mid_range, long_rang
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[bergkamp]] Bergkamp | CF | — | — |
-| [[totti]] Totti | CF | — | — |
-| [[batistuta]] Batistuta | CF | — | — |
-| [[cantona]] Cantona | CF | — | — |
-| [[bale]] Bale | WF | — | — |
+| [[fermin-lopez]] Fermín López | CM | Barcelona | 84.0 |
+| [[jonas-wind]] Jonas Wind | CF | Wolfsburg | 81.0 |
+| [[kai-havertz]] Kai Havertz | CF | Arsenal | 80.0 |
+| [[assane-diao]] Assane Diao | WF | Como | 80.0 |
+| [[victor-boniface]] Victor Boniface | CF | Werder Bremen | 80.0 |
+| [[yoane-wissa]] Yoane Wissa | WF | Newcastle United | 80.0 |
+| [[mergim-berisha]] Mërgim Berisha | CF | 1899 Hoffenheim | 80.0 |
+| [[gabriel-jesus]] Gabriel Jesus | CF | Arsenal | 80.0 |
+| [[steffen-tigges]] Steffen Tigges | CF | 1. FC Köln | 79.0 |
+| [[marco-richter]] Marco Richter | CF | Darmstadt | 79.0 |
 
 ## Compound Archetypes
 

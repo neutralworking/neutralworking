@@ -2,7 +2,7 @@
 title: Commander
 category: archetypes
 tags: [Mental, Commander]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Mental archetype. Core attributes: communication, concentration, drive, leadership.

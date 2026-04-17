@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metz · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">metz</span>
+</header>
+<article>
+<h1 id="metz">Metz</h1>
+<p><strong>League</strong>: Ligue 2<br />
+<strong>Nation</strong>: France<br />
+<strong>Players in DB</strong>: 46</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/g-hein.html">g-hein</a> G. Hein</td>
+<td>AM</td>
+<td>Dribbler-Sprinter</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/christophe-herelle.html">christophe-herelle</a> Christophe Hérelle</td>
+<td>CD</td>
+<td>Destroyer-Powerhouse</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/ismael-traore.html">ismael-traore</a> Ismaël Traoré</td>
+<td>CD</td>
+<td>Powerhouse-Destroyer</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/jose-luis-palomino.html">jose-luis-palomino</a> José Luis Palomino</td>
+<td>CD</td>
+<td>Cover</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/koffi-kouao.html">koffi-kouao</a> Koffi Kouao</td>
+<td>CD</td>
+<td>Sprinter</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/malick-mbaye.html">malick-mbaye</a> Malick Mbaye</td>
+<td>CD</td>
+<td>Sprinter</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/benjamin-tetteh.html">benjamin-tetteh</a> Benjamin Tetteh</td>
+<td>CF</td>
+<td>Target</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/cheikh-sabaly.html">cheikh-sabaly</a> Cheikh Sabaly</td>
+<td>CF</td>
+<td>Sprinter</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/giorgi-kvilitaia.html">giorgi-kvilitaia</a> Giorgi Kvilitaia</td>
+<td>CF</td>
+<td>Creator-Striker</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/joel-asoro.html">joel-asoro</a> Joel Asoro</td>
+<td>CF</td>
+<td>Sprinter</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">pape-ndiaga-yade</span> Pape Ndiaga Yade</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/abdoulaye-toure.html">abdoulaye-toure</a> Abdoulaye Touré</td>
+<td>CM</td>
+<td>Striker</td>
+<td>59.0</td>
+</tr>
+<tr>
+<td><a href="../players/b-munongo.html">b-munongo</a> B. Munongo</td>
+<td>CM</td>
+<td>Cover</td>
+<td>43.0</td>
+</tr>
+<tr>
+<td><a href="../players/benjamin-stambouli.html">benjamin-stambouli</a> Benjamin Stambouli</td>
+<td>CM</td>
+<td>Destroyer</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/danley-jean-jacques.html">danley-jean-jacques</a> Danley Jean Jacques</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/j-gbamin.html">j-gbamin</a> J. Gbamin</td>
+<td>CM</td>
+<td>Destroyer-Striker</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/jessy-deminguet.html">jessy-deminguet</a> Jessy Deminguet</td>
+<td>CM</td>
+<td>Sprinter</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/kevin-ndoram.html">kevin-ndoram</a> Kévin N'Doram</td>
+<td>CM</td>
+<td>Creator</td>
+<td>53.0</td>
+</tr>
+<tr>
+<td><a href="../players/m-bokele-mputu.html">m-bokele-mputu</a> M. Bokele Mputu</td>
+<td>CM</td>
+<td>Destroyer-Creator</td>
+<td>42.0</td>
+</tr>
+<tr>
+<td><a href="../players/sadibou-sane.html">sadibou-sane</a> Sadibou Sané</td>
+<td>CM</td>
+<td>Destroyer</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/sami-lahssaini.html">sami-lahssaini</a> Sami Lahssaini</td>
+<td>CM</td>
+<td>Cover</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/t-yegbe.html">t-yegbe</a> T. Yegbe</td>
+<td>CM</td>
+<td>Destroyer-Target</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/u-mboula.html">u-mboula</a> U. Mboula</td>
+<td>CM</td>
+<td>Cover</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">warren-tchimbembe</span> Warren Tchimbembé</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/boubacar-traore.html">boubacar-traore</a> Boubacar Traore</td>
+<td>DM</td>
+<td>Powerhouse-Passer</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/alexandre-oukidja.html">alexandre-oukidja</a> Alexandre Oukidja</td>
+<td>GK</td>
+<td>GK</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">j-fischer</span> J. Fischer</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/bouna-sarr.html">bouna-sarr</a> Bouna Sarr</td>
+<td>WD</td>
+<td>Creator</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/fode-ballo-toure.html">fode-ballo-toure</a> Fode Ballo-Toure</td>
+<td>WD</td>
+<td>Sprinter-Dribbler</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/maxime-colin.html">maxime-colin</a> Maxime Colin</td>
+<td>WD</td>
+<td>Powerhouse</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/g-abuashvili.html">g-abuashvili</a> G. Abuashvili</td>
+<td>WF</td>
+<td>Striker</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/giorgi-tsitaishvili.html">giorgi-tsitaishvili</a> Giorgi Tsitaishvili</td>
+<td>WF</td>
+<td>Sprinter</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/ibou-sane.html">ibou-sane</a> Ibou Sané</td>
+<td>WM</td>
+<td>Creator</td>
+<td>57.0</td>
+</tr>
+<tr>
+<td><a href="../players/kevin-van-den-kerkhof.html">kevin-van-den-kerkhof</a> Kevin Van Den Kerkhof</td>
+<td>WM</td>
+<td>Sprinter-Passer</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">ababacar-lo</span> Ababacar Lô</td>
+<td>None</td>
+<td>Destroyer</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">brian-madjo</span> Brian Madjo</td>
+<td>None</td>
+<td>Striker-Creator</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">edouard-soumah-abbad</span> Édouard Soumah-Abbad</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">habib-diallo</span> Habib Diallo</td>
+<td>None</td>
+<td>Striker</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">joseph-nduquidi</span> Joseph N'Duquidi</td>
+<td>None</td>
+<td>Destroyer-Dribbler</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">lilian-raillot</span> Lilian Raillot</td>
+<td>None</td>
+<td>Destroyer-Sprinter</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">morgan-bokele</span> Morgan Bokele</td>
+<td>None</td>
+<td>Sprinter-Dribbler</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">n-mbala</span> N. Mbala</td>
+<td>None</td>
+<td>Striker</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">othmane-chraibi</span> Othmane Chraibi</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">ousmane-ba</span> Ousmane Ba</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">oussmane-kebe</span> Oussmane Kébé</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">xhuliano-skuka</span> Xhuliano Skuka</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="metz.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

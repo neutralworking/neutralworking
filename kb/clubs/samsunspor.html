@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Samsunspor · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">samsunspor</span>
+</header>
+<article>
+<h1 id="samsunspor">Samsunspor</h1>
+<p><strong>League</strong>: None<br />
+<strong>Nation</strong>: None<br />
+<strong>Players in DB</strong>: 40</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="wikilink-broken">alim-ozturk</span> Alim Öztürk</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/joe-mendes.html">joe-mendes</a> Joe Mendes</td>
+<td>CD</td>
+<td>Sprinter-Dribbler</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/kingsley-schindler.html">kingsley-schindler</a> Kingsley Schindler</td>
+<td>CD</td>
+<td>Creator</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/lubomir-satka.html">lubomir-satka</a> Ľubomír Šatka</td>
+<td>CD</td>
+<td>Cover</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">osman-celik</span> Osman Çelik</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/rick-van-drongelen.html">rick-van-drongelen</a> Rick van Drongelen</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/toni-borevkovic.html">toni-borevkovic</a> Toni Borevković</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/c-ndiaye.html">c-ndiaye</a> C. Ndiaye</td>
+<td>CF</td>
+<td>Striker</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/elayis-tavsan.html">elayis-tavsan</a> Elayis Tavşan</td>
+<td>CF</td>
+<td>Sprinter</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/ercan-kara.html">ercan-kara</a> Ercan Kara</td>
+<td>CF</td>
+<td>Target-Striker</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/landry-dimata.html">landry-dimata</a> Landry Dimata</td>
+<td>CF</td>
+<td>Sprinter</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/marius.html">marius</a> Marius</td>
+<td>CF</td>
+<td>Cover-Sprinter</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/marius-mouandilmadji.html">marius-mouandilmadji</a> Marius Mouandilmadji</td>
+<td>CF</td>
+<td>Striker-Sprinter</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">moryke-fofana</span> Moryké Fofana</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/afonso-sousa.html">afonso-sousa</a> Afonso Sousa</td>
+<td>CM</td>
+<td>Sprinter-Dribbler</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/antoine-makoumbou.html">antoine-makoumbou</a> Antoine Makoumbou</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/c-yuksel.html">c-yuksel</a> C. Yüksel</td>
+<td>CM</td>
+<td>Creator-Cover</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/carlo-holse.html">carlo-holse</a> Carlo Holse</td>
+<td>CM</td>
+<td>Sprinter</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/e-aydin.html">e-aydin</a> E. Aydin</td>
+<td>CM</td>
+<td>Destroyer-Creator</td>
+<td>36.0</td>
+</tr>
+<tr>
+<td><a href="../players/flavien-tait.html">flavien-tait</a> Flavien Tait</td>
+<td>CM</td>
+<td>Creator</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">muhammed-gumuskaya</span> Muhammed Gümüşkaya</td>
+<td>CM</td>
+<td>Sprinter</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/olivier-ntcham.html">olivier-ntcham</a> Olivier Ntcham</td>
+<td>CM</td>
+<td>Passer</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/soner-aydogdu.html">soner-aydogdu</a> Soner Aydoğdu</td>
+<td>CM</td>
+<td>Passer</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/soner-gonul.html">soner-gonul</a> Soner Gönül</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td><a href="../players/tanguy-coulibaly.html">tanguy-coulibaly</a> Tanguy Coulibaly</td>
+<td>CM</td>
+<td>Creator</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/yunus-emre-cift.html">yunus-emre-cift</a> Yunus Emre Çift</td>
+<td>DM</td>
+<td>Destroyer-Powerhouse</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">jakub-szumski</span> Jakub Szumski</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">muammer-yldrm</span> Muammer Yıldırım</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">okan-kocuk</span> Okan Kocuk</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/zeki-yavru.html">zeki-yavru</a> Zeki Yavru</td>
+<td>WD</td>
+<td>Creator</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/anthony-musaba.html">anthony-musaba</a> Anthony Musaba</td>
+<td>WF</td>
+<td>Sprinter</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/emre-klnc.html">emre-klnc</a> Emre Kılınç</td>
+<td>WM</td>
+<td>Creator-Sprinter</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/l-tomasson.html">l-tomasson</a> L. Tómasson</td>
+<td>WM</td>
+<td>Striker-Destroyer</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">amir-arli</span> Amir Arli</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">bedirhan-cetin</span> Bedirhan Çetin</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">enes-albak</span> Enes Albak</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">k-assoumou</span> K. Assoumou</td>
+<td>None</td>
+<td>Creator-Sprinter</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">muhammet-ali-ozbaskc</span> Muhammet Ali Özbaskıcı</td>
+<td>None</td>
+<td>Powerhouse</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">p-yaldr</span> P. Yaldır</td>
+<td>None</td>
+<td>Cover-Creator</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">taha-tosun</span> Taha Tosun</td>
+<td>None</td>
+<td>None</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="samsunspor.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

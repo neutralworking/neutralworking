@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Newcastle United · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">newcastle-united</span>
+</header>
+<article>
+<h1 id="newcastle-united">Newcastle United</h1>
+<p><strong>League</strong>: Premier League<br />
+<strong>Nation</strong>: England<br />
+<strong>Players in DB</strong>: 41</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/joe-willock.html">joe-willock</a> Joe Willock</td>
+<td>AM</td>
+<td>Dribbler-Destroyer</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/alex-murphy.html">alex-murphy</a> Alex Murphy</td>
+<td>CD</td>
+<td>Cover</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/ciaran-clark.html">ciaran-clark</a> Ciaran Clark</td>
+<td>CD</td>
+<td>Destroyer-Target</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/fabian-schar.html">fabian-schar</a> Fabian Schar</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">l-shahar</span> L. Shahar</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/malick-thiaw.html">malick-thiaw</a> Malick Thiaw</td>
+<td>CD</td>
+<td>Destroyer</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/sven-botman.html">sven-botman</a> Sven Botman</td>
+<td>CD</td>
+<td>Cover-Powerhouse</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/nick-woltemade.html">nick-woltemade</a> Nick Woltemade</td>
+<td>CF</td>
+<td>Striker-Cover</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">will-osula</span> Will Osula</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/bruno-guimaraes.html">bruno-guimaraes</a> Bruno Guimarães</td>
+<td>CM</td>
+<td>Creator-Engine</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/jacob-ramsey.html">jacob-ramsey</a> Jacob Ramsey</td>
+<td>CM</td>
+<td>Engine-Dribbler</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/joelinton.html">joelinton</a> Joelinton</td>
+<td>CM</td>
+<td>Engine-Dribbler</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/lewis-miley.html">lewis-miley</a> Lewis Miley</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">park-seung-soo</span> Park Seung-Soo</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">s-alabi</span> S. Alabi</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">s-neave</span> S. Neave</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/sandro-tonali.html">sandro-tonali</a> Sandro Tonali</td>
+<td>CM</td>
+<td>Powerhouse-Engine</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">a-harrison</span> A. Harrison</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/aaron-ramsdale.html">aaron-ramsdale</a> Aaron Ramsdale</td>
+<td>GK</td>
+<td>GK</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">aidan-harris</span> Aidan Harris</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">j-ruddy</span> J. Ruddy</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/john-ruddy.html">john-ruddy</a> John Ruddy</td>
+<td>GK</td>
+<td>GK</td>
+<td>60.0</td>
+</tr>
+<tr>
+<td><a href="../players/loris-karius.html">loris-karius</a> Loris Karius</td>
+<td>GK</td>
+<td>GK</td>
+<td>79.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">mark-gillespie</span> Mark Gillespie</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/nick-pope.html">nick-pope</a> Nick Pope</td>
+<td>GK</td>
+<td>GK</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/dan-burn.html">dan-burn</a> Dan Burn</td>
+<td>WD</td>
+<td>Destroyer</td>
+<td>63.0</td>
+</tr>
+<tr>
+<td><a href="../players/emil-krafth.html">emil-krafth</a> Emil Krafth</td>
+<td>WD</td>
+<td>Destroyer</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">harrison-ashby</span> Harrison Ashby</td>
+<td>WD</td>
+<td>Sprinter</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/kieran-trippier.html">kieran-trippier</a> Kieran Trippier</td>
+<td>WD</td>
+<td>Creator</td>
+<td>61.0</td>
+</tr>
+<tr>
+<td><a href="../players/lewis-hall.html">lewis-hall</a> Lewis Hall</td>
+<td>WD</td>
+<td>Creator</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/paul-dummett.html">paul-dummett</a> Paul Dummett</td>
+<td>WD</td>
+<td>Creator</td>
+<td>60.0</td>
+</tr>
+<tr>
+<td><a href="../players/tino-livramento.html">tino-livramento</a> Tino Livramento</td>
+<td>WD</td>
+<td>Cover-Dribbler</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/anthony-elanga.html">anthony-elanga</a> Anthony Elanga</td>
+<td>WF</td>
+<td>Creator</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/anthony-gordon.html">anthony-gordon</a> Anthony Gordon</td>
+<td>WF</td>
+<td>Creator-Passer</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">garang-kuol</span> Garang Kuol</td>
+<td>WF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/harvey-barnes.html">harvey-barnes</a> Harvey Barnes</td>
+<td>WF</td>
+<td>Striker-Destroyer</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/jacob-murphy.html">jacob-murphy</a> Jacob Murphy</td>
+<td>WF</td>
+<td>Engine-Dribbler</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/w-osula.html">w-osula</a> W. Osula</td>
+<td>WF</td>
+<td>Striker-Creator</td>
+<td>27.0</td>
+</tr>
+<tr>
+<td><a href="../players/yoane-wissa.html">yoane-wissa</a> Yoane Wissa</td>
+<td>WF</td>
+<td>Striker-Engine</td>
+<td>80.0</td>
+</tr>
+<tr>
+<td><a href="../players/matt-ritchie.html">matt-ritchie</a> Matt Ritchie</td>
+<td>WM</td>
+<td>Creator</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">william-osula</span> William Osula</td>
+<td>None</td>
+<td>Dribbler-Target</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="newcastle-united.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

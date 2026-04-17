@@ -1,5 +1,9 @@
 # Concepts Index
 
-> 0 articles | 0 words | Last rebuilt: 2026-04-03
+> 1 articles | 891 words | Last rebuilt: 2026-04-17
 
-*No articles yet.*
+## Articles
+
+| Article | Summary |
+|---|---|
+| [[transfer-market-2025]] Transfer Market 2025: Record Fees, Agent Surge & What It Means for Scouting | FIFA's Global Transfer Report 2025 recorded all-time highs across every major metric — fees up 52%,  |

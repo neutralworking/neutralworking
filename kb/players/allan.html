@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Allan · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
+article pre code { background: none; border: none; padding: 0; }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">players</a>
+<span class="sep">/</span>
+<span class="crumb">allan</span>
+</header>
+<article>
+<h1 id="allan">Allan</h1>
+<h2 id="overview">Overview</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Position</strong></td>
+<td>DM</td>
+</tr>
+<tr>
+<td><strong>Club</strong></td>
+<td>Palmeiras</td>
+</tr>
+<tr>
+<td><strong>Nation</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Age</strong></td>
+<td>29</td>
+</tr>
+<tr>
+<td><strong>Archetype</strong></td>
+<td><a href="../archetypes/engine.html">engine</a> Engine</td>
+</tr>
+<tr>
+<td><strong>Level</strong></td>
+<td>83</td>
+</tr>
+<tr>
+<td><strong>Overall</strong></td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><strong>Pursuit</strong></td>
+<td>None</td>
+</tr>
+<tr>
+<td><strong>Market Value Tier</strong></td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="scouting-notes">Scouting Notes</h2>
+<p>CM BRA C 0.0 He operates primarily as a defensive midfielder and central midfielder and is comfortable at playing both in attack and defence and is equally comfortable being deployed deep or as a playmaker. Normally a defensive midfielder, Allan is known as a dynamic midfielder with good ball winning skills. He also possesses good dribbling skills, pace and good long passing ability. He has been described as different from traditional defensive midfielder, due to his reputation for dribbling past defenders and passing through the legs of a defender Allan was signed from Madureira by Uruguayan side Deportivo Maldonado at 17 years of age old for an undisclosed fee. However, he was later loaned out to Vasco da Gama back in Brazil; he would not make an appearance for Maldonado. Allan moved to Vasco da Gama once again still as a youth player, loaned from Deportivo Maldonado. A year after he played for their youth team, he was brought back and promoted to the first-team by coach Dorival Júnior, playing in many crucial games in the club's 2009 season to help the side win the Série B and secure promotion to the top-flight Série A, though he ultimately suffered an injury. Allan, injured, could not compete in the Campeonato Carioca with Vasco da Gama nor the 2010 Copa do Brasil. After initial recovery, he returned to the club's junior team to regain fitness ahead of a return to the first-team. He then returned to the professional fold in the last round of the Série A before the break for the 2011 FIFA U-20 World Cup, playing in the Copa da Hora friendly tournament. The club took the tournament with Allan participating, also scoring a goal in a 3–2 victory over Coritiba. On 4 June 2012, Allan signed for Italian Serie A side Udinese for a reported fee of €3 million from Deportivo Maldonado. He made his debut for Udinese at home at the Stadio Friuli against Juventus, where he created an assist for teammate Andrea Lazzari's goal. In his first season in Udine, Allan played mostly as a defensive midfielder, recovering and distributing a large number of balls. Manager Francesco Guidolin played him in 36 games in the league out of 38 games, he proved one of the best bargains of the season, defying expectation and playing almost all games as a starter to help Udinese to finish in a surprise fifth-place position, securing qualification to next year's UEFA Europa League. A more challenging second season followed Allan and Udinese, as the club finished 13th in the league in what was Francesco Guidolin's final season with the side. Despite this, Allan excelled in midfield, even scoring his first goals for the club as his improvement in Italy continued. His calm and controlled performance in midfield also prompted future Udinese manager Andrea Stramaccioni to suggest that he was now one of the best young midfielders in Europe, comparable to Juventus' Paul Pogba. In the 2014–15 season, Allan was to be the top ball-winner of all of Europe's top-five leagues (Premier League, La Liga, Bundesliga, Serie A and Ligue 1) with the most balls won. His superb performances were tracked by major European sides Juventus, Borussia Dortmund, Chelsea, VfL Wolfsburg, Arsenal and Napoli, which all were reportedly interested in his signature. Allan ultimately joined the latter, remaining in Italy. Allan made his Napoli debut in a pre-season friendly against Lega Pro side FeralpiSalò, which Napoli won 5–2.[7] He made his first Serie A debut for Napoli at home against Sampdoria in the second matchday of the Serie A season, creating an assist for Gonzalo Higuaín with a through-ball that the latter converted with a right-footed shot from the right side of the box, making the scoreline 2–0. Allan was later substituted in the second-half for David López.[8] Allan would then receive a start in Napoli's third game of the season, a 2–2 away draw with Empoli, scoring an equalizer in the 78th minute after converting a pass from captain Marek Hamšík. On 17 September, Allan cam</p>
+<h2 id="attribute-grades">Attribute Grades</h2>
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Physical</td>
+<td>██████████████████ 18/10</td>
+</tr>
+<tr>
+<td>Stamina</td>
+<td>█████████████████ 17/10</td>
+</tr>
+<tr>
+<td>Jumping</td>
+<td>████████████████ 16/10</td>
+</tr>
+<tr>
+<td>Acceleration</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Balance</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>First Touch</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Pace</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Reactions</td>
+<td>██████████████ 14/10</td>
+</tr>
+<tr>
+<td>Heading</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Marking</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Movement</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Pass Range</td>
+<td>█████████████ 13/10</td>
+</tr>
+<tr>
+<td>Crossing</td>
+<td>███████████ 11/10</td>
+</tr>
+<tr>
+<td>Penalties</td>
+<td>███████████ 11/10</td>
+</tr>
+<tr>
+<td>Volleys</td>
+<td>███████████ 11/10</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traits">Traits</h2>
+<ul>
+<li><strong>availability</strong> (physical) — severity 10/10</li>
+<li><strong>aerial_threat</strong> (physical) — severity 10/10</li>
+<li><strong>progressive_carrier</strong> (tactical) — severity 9/10</li>
+<li><strong>Tackling Ability</strong> (style) — severity 4/10</li>
+<li><strong>Defensive Awareness</strong> (style) — severity 4/10</li>
+<li><strong>Work Rate</strong> (style) — severity 4/10</li>
+<li><strong>Strength</strong> (style) — severity 4/10</li>
+<li><strong>durability</strong> (physical) — severity 2/10</li>
+</ul>
+<h2 id="personality">Personality</h2>
+<ul>
+<li><strong>Game Reading (EI)</strong>: 42</li>
+<li><strong>Motivation (SN)</strong>: 58</li>
+<li><strong>Social (TF)</strong>: 47</li>
+<li><strong>Pressure (JP)</strong>: 33</li>
+<li><strong>Competitiveness</strong>: 6/10</li>
+<li><strong>Coachability</strong>: 3/10</li>
+</ul>
+<h2 id="research-notes">Research Notes</h2>
+<details>
+<summary>Raw scouting narrative</summary>
+
+<p>CM BRA C 0.0 He operates primarily as a defensive midfielder and central midfielder and is comfortable at playing both in attack and defence and is equally comfortable being deployed deep or as a playmaker. Normally a defensive midfielder, Allan is known as a dynamic midfielder with good ball winning skills. He also possesses good dribbling skills, pace and good long passing ability. He has been described as different from traditional defensive midfielder, due to his reputation for dribbling past defenders and passing through the legs of a defender Allan was signed from Madureira by Uruguayan side Deportivo Maldonado at 17 years of age old for an undisclosed fee. However, he was later loaned out to Vasco da Gama back in Brazil; he would not make an appearance for Maldonado. Allan moved to Vasco da Gama once again still as a youth player, loaned from Deportivo Maldonado. A year after he played for their youth team, he was brought back and promoted to the first-team by coach Dorival Júnior, playing in many crucial games in the club's 2009 season to help the side win the Série B and secure promotion to the top-flight Série A, though he ultimately suffered an injury. Allan, injured, could not compete in the Campeonato Carioca with Vasco da Gama nor the 2010 Copa do Brasil. After initial recovery, he returned to the club's junior team to regain fitness ahead of a return to the first-team. He then returned to the professional fold in the last round of the Série A before the break for the 2011 FIFA U-20 World Cup, playing in the Copa da Hora friendly tournament. The club took the tournament with Allan participating, also scoring a goal in a 3–2 victory over Coritiba. On 4 June 2012, Allan signed for Italian Serie A side Udinese for a reported fee of €3 million from Deportivo Maldonado. He made his debut for Udinese at home at the Stadio Friuli against Juventus, where he created an assist for teammate Andrea Lazzari's goal. In his first season in Udine, Allan played mo...</p>
+</details>
+<a class="source-link" href="allan.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

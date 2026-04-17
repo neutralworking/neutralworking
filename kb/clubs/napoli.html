@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Napoli · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">napoli</span>
+</header>
+<article>
+<h1 id="napoli">Napoli</h1>
+<p><strong>League</strong>: Serie A<br />
+<strong>Nation</strong>: Italy<br />
+<strong>Players in DB</strong>: 32</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/a-vergara.html">a-vergara</a> A. Vergara</td>
+<td>AM</td>
+<td>Creator</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/elif-elmas.html">elif-elmas</a> Elif Elmas</td>
+<td>AM</td>
+<td>Dribbler</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/alessandro-buongiorno.html">alessandro-buongiorno</a> Alessandro Buongiorno</td>
+<td>CD</td>
+<td>Cover-Dribbler</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">amir-rrahani</span> Amir Rrahani</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">luigi-davino</span> Luigi D'Avino</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/sam-beukema.html">sam-beukema</a> Sam Beukema</td>
+<td>CD</td>
+<td>Destroyer-Dribbler</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/lorenzo-lucca.html">lorenzo-lucca</a> Lorenzo Lucca</td>
+<td>CF</td>
+<td>Striker-Destroyer</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/rasmus-hjlund.html">rasmus-hjlund</a> Rasmus Højlund</td>
+<td>CF</td>
+<td>Striker-Destroyer</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/romelu-lukaku.html">romelu-lukaku</a> Romelu Lukaku</td>
+<td>CF</td>
+<td>Striker-Destroyer</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/amir-rrahmani.html">amir-rrahmani</a> Amir Rrahmani</td>
+<td>CM</td>
+<td>Destroyer-Powerhouse</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><a href="../players/andre-franck-zambo-anguissa.html">andre-franck-zambo-anguissa</a> Andre-Franck Zambo Anguissa</td>
+<td>CM</td>
+<td>Cover-Passer</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">francesco-gioielli</span> Francesco Gioielli</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/kevin-de-bruyne.html">kevin-de-bruyne</a> Kevin De Bruyne</td>
+<td>CM</td>
+<td>Controller-Creator</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/michael-folorunsho.html">michael-folorunsho</a> Michael Folorunsho</td>
+<td>CM</td>
+<td>Target-Passer</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/scott-mctominay.html">scott-mctominay</a> Scott McTominay</td>
+<td>CM</td>
+<td>Cover-Passer</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/stanislav-lobotka.html">stanislav-lobotka</a> Stanislav Lobotka</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/billy-gilmour.html">billy-gilmour</a> Billy Gilmour</td>
+<td>DM</td>
+<td>Engine</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><a href="../players/alex-meret.html">alex-meret</a> Alex Meret</td>
+<td>GK</td>
+<td>GK</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">hubert-idasiak</span> Hubert Idasiak</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">lorenzo-russo</span> Lorenzo Russo</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">nikita-contini</span> Nikita Contini</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/giovanni-di-lorenzo.html">giovanni-di-lorenzo</a> Giovanni Di Lorenzo</td>
+<td>WD</td>
+<td>Cover</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/leonardo-spinazzola.html">leonardo-spinazzola</a> Leonardo Spinazzola</td>
+<td>WD</td>
+<td>Creator</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td><a href="../players/mathias-olivera.html">mathias-olivera</a> Mathías Olivera</td>
+<td>WD</td>
+<td>Engine-Dribbler</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/miguel-gutierrez.html">miguel-gutierrez</a> Miguel Gutiérrez</td>
+<td>WD</td>
+<td>Creator-Dribbler</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/pasquale-mazzocchi.html">pasquale-mazzocchi</a> Pasquale Mazzocchi</td>
+<td>WD</td>
+<td>Sprinter-Passer</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/alessio-zerbin.html">alessio-zerbin</a> Alessio Zerbin</td>
+<td>WF</td>
+<td>Creator-Passer</td>
+<td>79.0</td>
+</tr>
+<tr>
+<td><a href="../players/david-neres.html">david-neres</a> David Neres</td>
+<td>WF</td>
+<td>Dribbler-Engine</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/hamed-junior-traore.html">hamed-junior-traore</a> Hamed Junior Traorè</td>
+<td>WF</td>
+<td>Creator-Striker</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/matteo-politano.html">matteo-politano</a> Matteo Politano</td>
+<td>WF</td>
+<td>Striker-Creator</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td><a href="../players/noa-lang.html">noa-lang</a> Noa Lang</td>
+<td>WF</td>
+<td>Dribbler-Powerhouse</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">g-ambrosino</span> G. Ambrosino</td>
+<td>None</td>
+<td>Sprinter-Dribbler</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="napoli.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

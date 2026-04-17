@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inverting-The-Role Index · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">inverting-the-role</a>
+</header>
+<article>
+<h1 id="inverting-the-role">Inverting the Role</h1>
+<blockquote>
+<p><em>Inverting the Pyramid</em> told the history of formations. This series tells the history of <strong>roles</strong> — the specific tactical jobs that players do within those formations, and how a single innovator can reimagine what a position means.</p>
+</blockquote>
+<h2 id="the-arc">The Arc</h2>
+<ol type="1">
+<li><strong>The Birth of Roles</strong> (pre-1960s) — roles defined by formation, unnamed, unexamined</li>
+<li><strong>The Liberation</strong> (1960s-1990s) — coaches separate role from position</li>
+<li><strong>The Taxonomy</strong> (2000s-present) — roles so specialized that a single position contains five different jobs</li>
+</ol>
+<h2 id="chapters">Chapters</h2>
+<h3 id="i-the-spine--where-the-role-was-born">I. The Spine — Where the Role Was Born</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Roles</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="01-the-last-line-of-thought.html">The Last Line of Thought</a></td>
+<td>Sweeper + Sweeper Keeper</td>
+<td>Published</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The Quarterback</td>
+<td>Regista</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The Ghost in the Machine</td>
+<td>Falso Nove</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Between the Lines</td>
+<td>Trequartista vs Enganche</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ii-the-flanks--width-inversion-and-the-death-of-the-winger">II. The Flanks — Width, Inversion, and the Death of the Winger</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Roles</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5</td>
+<td>The Death and Resurrection of the Winger</td>
+<td>Winger + Tornante</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The Inside-Out Forward</td>
+<td>Inverted Winger</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Fullback Who Disappeared</td>
+<td>Invertido</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>8</td>
+<td>The Corridor Worker</td>
+<td>Carrilero vs Mezzala</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table>
+<h3 id="iii-the-destroyers-and-the-conductors">III. The Destroyers and the Conductors</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Roles</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9</td>
+<td>The Invisible Wall</td>
+<td>Anchor + Ball Winner</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>10</td>
+<td>The Metronome</td>
+<td>Metodista vs Playmaker</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Every Blade of Grass</td>
+<td>Tuttocampista + Segundo Volante</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>12</td>
+<td>The Raumdeuter and Other Ghosts</td>
+<td>Raumdeuter + Incursore + Shadow Striker</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table>
+<h3 id="iv-the-front-line--strikers-and-goal-scoring">IV. The Front Line — Strikers and Goal-Scoring</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Roles</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13</td>
+<td>The Battering Ram</td>
+<td>Target Forward vs Prima Punta</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>14</td>
+<td>The Second Man</td>
+<td>Seconda Punta</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>15</td>
+<td>The Point of the Spear</td>
+<td>Spearhead</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>16</td>
+<td>The Complete Myth</td>
+<td>Why CS dropped Complete Forward</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table>
+<h3 id="v-the-system--how-roles-create-tactics">V. The System — How Roles Create Tactics</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Roles</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17</td>
+<td>The Engine Room</td>
+<td>Midfield role combinations</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>18</td>
+<td>The Defensive Compact</td>
+<td>CB-DM partnerships</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Building From the Back</td>
+<td>GK-CB build-up roles</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Inverting the Role</td>
+<td>Series conclusion</td>
+<td>Planned</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="_index.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

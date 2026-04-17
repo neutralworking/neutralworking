@@ -1,0 +1,78 @@
+---
+title: Gerson
+category: players
+tags: [WM, Flamengo, Creator-Striker]
+updated: 2026-04-14
+source: compiled
+confidence: high
+summary: WM at Flamengo. Archetype: Creator-Striker.
+person_id: 18982
+backlinks: [creator, flamengo]
+---
+
+# Gerson
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | WM |
+| **Club** | Flamengo |
+| **Nation** | None |
+| **Age** | 28 |
+| **Archetype** | [[creator]] Creator-Striker |
+| **Level** | 85 |
+| **Overall** | 75.0 |
+| **Pursuit** | None |
+| **Market Value Tier** | 3 |
+
+## Scouting Notes
+
+CM					BRA	C	0.0	The young Gérson combined technique and an extremely potent left foot shot with intelligence and an uncanny ability to control the game from the midfield. One of his greatest assets was his ability to switch defence into attack with one long, laser-like pass from deep inside his own half. Gérson is considered one of the best passers in World Cup history. Although he didn't play well in 1966, he was the mastermind behind the whole Brazilian national team in the 1970 tournament. He is regarded as the best passer and midfielder in that Cup and the best player in the final match against Italy.		Gérson was born and spent his childhood in the city of Niterói, just to the eastern side of Guanabara Bay from Rio de Janeiro, then the capital of the former Rio de Janeiro State. In school he was nicknamed papagaio (parrot), a nickname he kept throughout his life and which many of his fellow footballers used when addressing him. Both his father and uncle were professional footballers in Rio. His father was a close friend of the legendary Zizinho, widely held as the best Brazilian footballer before Pelé, a superstar with Flamengo and a forward in the 1950 national team, along with Vasco da Gama's Ademir Menezes and Flamengo's Jair da Rosa Pinto. So when Gérson announced he intended to become a footballer himself, he found little opposition at home. As a boy his heroes had been the aforementioned midfielders Zizinho and Jair and Vasco da Gama's Danilo Alvim. However, in his first club, Flamengo, he was eventually cast in the same mold as the most influential midfield player of that era, Didi. Soon he was being talked of as a successor to Didi.  Within a year of making his professional debut for Flamengo in 1959, he was called to the Brazilian ‘amateur’ team in the Pan-American Games in Chicago.[3] A year later he was a lynchpin of the side at the Rome Olympics where he scored four goals, but Brazil did not make it beyond the group phase.[4] By 1961, he was the playmaker in Flamengo. He had also been recruited into the full national squad to defend the World Cup in Chile by the new national coach Aymore Moreira.[5] Yet his dreams of combining with the bandy-legged ‘Little Bird’ Garrincha, along with Pelé and Didi in Chile were dashed when he suffered a serious knee injury. Forced to undergo surgery, he couldn’t get himself back into Moreira’s squad. It would be one of many injuries to blight his career. In 1963 he chose not to sign another contract with Flamengo after being assigned the impossible task of man-marking Garrincha in the 1962 Rio de Janeiro Championship final (which Botafogo won 3–0. He packed his bags and moved to Botafogo, which by then had the most celebrated squad in Rio (and arguably in Brazil, alongside Pelé's Santos, featuring superstars Garrincha, Didi, Nilton Santos, Zagallo and Quarentinha. In Botafogo he became one of the most celebrated Brazilian players of his generation, winning the Torneio Rio-São Paulo in 1964 and 1965, the Rio de Janeiro Championship in 1967 and 1968 and with the Brazilian Cup in 1968 in two finals against Fortaleza the first national honour in the history of Botafogo. Later on, he also played for São Paulo and Fluminense, his favourite team.  Overall, he played 70 times, scoring 14 goals for his country, including one in that 1970 final.
+
+## Attribute Grades
+
+| Attribute | Grade |
+|---|---|
+| Physical | ███████████████ 15/10 |
+| Shielding | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Penalties | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Crossing | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Balance | ████████████ 12/10 |
+| Jumping | ████████████ 12/10 |
+| Marking | ████████████ 12/10 |
+| Movement | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+
+## Traits
+
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 4/10
+
+## Personality
+
+- **Game Reading (EI)**: 44
+- **Motivation (SN)**: 42
+- **Social (TF)**: 61
+- **Pressure (JP)**: 46
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+---
+{}
+---
+
+CM					BRA	C	0.0	The young Gérson combined technique and an extremely potent left foot shot with intelligence and an uncanny ability to control the game from the midfield. One of his greatest assets was his ability to switch defence into attack with one long, laser-like pass from deep inside his own half. Gérson is considered one of the best passers in World Cup history. Although he didn't play well in 1966, he was the mastermind behind the whole Brazilian national team in the 1970 tournament. He is regarded as the best passer and midfielder in that Cup and the best player in the final match against Italy.		Gérson was born and spent his childhood in the city of Niterói, just to the eastern side of Guanabara Bay from Rio de Janeiro, then the capital of the former Rio de Janeiro State. In school he was nicknamed papagaio (parrot), a nickname he kept throughout his life and which many of his fellow footballers used when addressing him. Both his father and uncle were professional footballers in Rio. His father was a close friend of the legendary Zizinho, widely held as the best Brazilian footballer before Pelé, a superstar with Flamengo and a forward in the 1950 national team, along with Vasco da Gama's Ademir Menezes and Flamengo's Jair da Rosa Pinto. So when Gérson announced he intended to become a footballer himself, he found little opposition at home. As a boy his heroes had been the aforementioned midfielders Zizinho and Jair and Vasco da Gama's Danilo Alvim. However, in his first club, Flamengo, he was eventually cast in the same mold as the most influential midfield player of that era, Didi. Soon he was being talked of as a successor to Didi.  Within a year of making his professional debut for Flamengo in 1959, he was called to the Brazilian ‘amateur’ team in the Pan-American Games in Chicago.[3] A year later he was a lynchpin of the side at the Rome Olympics where he scored four goals, but Brazil did not make it beyond the group phase.[4] By 1961, he...
+
+</details>

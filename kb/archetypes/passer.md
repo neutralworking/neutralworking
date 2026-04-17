@@ -2,7 +2,7 @@
 title: Passer
 category: archetypes
 tags: [Technical, Passer]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Technical archetype. Core attributes: pass_accuracy, crossing, pass_range, through_balls.
@@ -19,11 +19,16 @@ summary: Technical archetype. Core attributes: pass_accuracy, crossing, pass_ran
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[thiago]] Thiago | CM | — | — |
-| [[laudrup]] Laudrup | AM | — | — |
-| [[platini]] Platini | AM | — | — |
-| [[xabi-alonso]] Xabi Alonso | DM | — | — |
-| [[pirlo]] Pirlo | DM | — | — |
+| [[thiago-almada]] Thiago Almada | AM | Atlético Madrid | 80.0 |
+| [[albie-morgan]] Albie Morgan | CM | Charlton Athletic | 79.0 |
+| [[adam-maher]] Adam Maher | CM | Damac FC | 79.0 |
+| [[nicolas-lodeiro]] Nicolás Lodeiro | CM | None | 78.0 |
+| [[julian-gressel]] Julian Gressel | CM | D.C. United | 77.0 |
+| [[lazar-samardzic]] Lazar Samardžić | AM | Atalanta | 77.0 |
+| [[alexis-claude-maurice]] Alexis Claude-Maurice | WF | Augsburg | 77.0 |
+| [[enzo-fernandez]] Enzo Fernández | CM | Chelsea | 77.0 |
+| [[mees-hoedemakers]] Mees Hoedemakers | CM | Viborg | 76.0 |
+| [[nick-powell]] Nick Powell | CM | Stoke City | 76.0 |
 
 ## Compound Archetypes
 

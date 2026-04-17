@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brentford · kb · neutral.working</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
+html { font-size: 15px; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
+article pre code { background: none; border: none; padding: 0; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
+.source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="topnav">
+<a href="../../index.html">neutral.working</a>
+<span class="sep">/</span>
+<a href="../index.html">kb</a>
+<span class="sep">/</span>
+<a href="index.html">clubs</a>
+<span class="sep">/</span>
+<span class="crumb">brentford</span>
+</header>
+<article>
+<h1 id="brentford">Brentford</h1>
+<p><strong>League</strong>: Premier League<br />
+<strong>Nation</strong>: England<br />
+<strong>Players in DB</strong>: 43</p>
+<h2 id="squad">Squad</h2>
+<table>
+<thead>
+<tr>
+<th>Player</th>
+<th>Position</th>
+<th>Archetype</th>
+<th>Overall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../players/fabio-carvalho.html">fabio-carvalho</a> Fabio Carvalho</td>
+<td>AM</td>
+<td>Striker</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/mikkel-damsgaard.html">mikkel-damsgaard</a> Mikkel Damsgaard</td>
+<td>AM</td>
+<td>Engine-Creator</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/romelle-donovan.html">romelle-donovan</a> Romelle Donovan</td>
+<td>AM</td>
+<td>Sprinter</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/ethan-pinnock.html">ethan-pinnock</a> Ethan Pinnock</td>
+<td>CD</td>
+<td>Destroyer-Dribbler</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/harlee-dean.html">harlee-dean</a> Harlee Dean</td>
+<td>CD</td>
+<td>Powerhouse-Destroyer</td>
+<td>72.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">j-stephenson</span> J. Stephenson</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/kristoffer-ajer.html">kristoffer-ajer</a> Kristoffer Ajer</td>
+<td>CD</td>
+<td>Dribbler-Destroyer</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/nathan-collins.html">nathan-collins</a> Nathan Collins</td>
+<td>CD</td>
+<td>Destroyer-Dribbler</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">o-shield</span> O. Shield</td>
+<td>CD</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/sepp-van-den-berg.html">sepp-van-den-berg</a> Sepp van den Berg</td>
+<td>CD</td>
+<td>Cover-Dribbler</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">ethan-laidlaw</span> Ethan Laidlaw</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">gustavo-nunes</span> Gustavo Nunes</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/igor-thiago.html">igor-thiago</a> Igor Thiago</td>
+<td>CF</td>
+<td>Striker-Destroyer</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/ivan-toney.html">ivan-toney</a> Ivan Toney</td>
+<td>CF</td>
+<td>Striker</td>
+<td>68.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">scott-hogan</span> Scott Hogan</td>
+<td>CF</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/antoni-milambo.html">antoni-milambo</a> Antoni Milambo</td>
+<td>CM</td>
+<td>Dribbler-Sprinter</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/dru-yearwood.html">dru-yearwood</a> Dru Yearwood</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/jordan-henderson.html">jordan-henderson</a> Jordan Henderson</td>
+<td>CM</td>
+<td>Engine</td>
+<td>64.0</td>
+</tr>
+<tr>
+<td><a href="../players/josh-dasilva.html">josh-dasilva</a> Josh Dasilva</td>
+<td>CM</td>
+<td>Creator</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">luka-bentt</span> Luka Bentt</td>
+<td>CM</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/mathias-jensen.html">mathias-jensen</a> Mathias Jensen</td>
+<td>CM</td>
+<td>Passer</td>
+<td>71.0</td>
+</tr>
+<tr>
+<td><a href="../players/shandon-baptiste.html">shandon-baptiste</a> Shandon Baptiste</td>
+<td>CM</td>
+<td>Creator</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/theo-archibald.html">theo-archibald</a> Theo Archibald</td>
+<td>CM</td>
+<td>Powerhouse</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/vitaly-janelt.html">vitaly-janelt</a> Vitaly Janelt</td>
+<td>CM</td>
+<td>Engine-Passer</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/yegor-yarmolyuk.html">yegor-yarmolyuk</a> Yegor Yarmolyuk</td>
+<td>CM</td>
+<td>Destroyer-Creator</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">yehor-yarmoliuk</span> Yehor Yarmoliuk</td>
+<td>CM</td>
+<td>Dribbler</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/caoimhin-kelleher.html">caoimhin-kelleher</a> Caoimhin Kelleher</td>
+<td>GK</td>
+<td>GK</td>
+<td>82.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">e-balcombe</span> E. Balcombe</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">hakon-valdimarsson</span> Hákon Valdimarsson</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">j-eyestone</span> J. Eyestone</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">jack-bonham</span> Jack Bonham</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">matthew-cox</span> Matthew Cox</td>
+<td>GK</td>
+<td>GK</td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="../players/aaron-hickey.html">aaron-hickey</a> Aaron Hickey</td>
+<td>WD</td>
+<td>Sprinter-Cover</td>
+<td>73.0</td>
+</tr>
+<tr>
+<td><a href="../players/michael-kayode.html">michael-kayode</a> Michael Kayode</td>
+<td>WD</td>
+<td>Powerhouse-Destroyer</td>
+<td>65.0</td>
+</tr>
+<tr>
+<td><a href="../players/rico-henry.html">rico-henry</a> Rico Henry</td>
+<td>WD</td>
+<td>Sprinter-Cover</td>
+<td>74.0</td>
+</tr>
+<tr>
+<td><a href="../players/ryan-woods.html">ryan-woods</a> Ryan Woods</td>
+<td>WD</td>
+<td>Powerhouse</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/sergio-reguilon.html">sergio-reguilon</a> Sergio Reguilón</td>
+<td>WD</td>
+<td>Creator</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td><a href="../players/dango-ouattara.html">dango-ouattara</a> Dango Ouattara</td>
+<td>WF</td>
+<td>Dribbler-Sprinter</td>
+<td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/kevin-schade.html">kevin-schade</a> Kevin Schade</td>
+<td>WF</td>
+<td>Sprinter-Striker</td>
+<td>76.0</td>
+</tr>
+<tr>
+<td><a href="../players/saman-ghoddos.html">saman-ghoddos</a> Saman Ghoddos</td>
+<td>WF</td>
+<td>Creator</td>
+<td>69.0</td>
+</tr>
+<tr>
+<td><a href="../players/keane-lewis-potter.html">keane-lewis-potter</a> Keane Lewis-Potter</td>
+<td>WM</td>
+<td>Sprinter-Creator</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td><a href="../players/reiss-nelson.html">reiss-nelson</a> Reiss Nelson</td>
+<td>WM</td>
+<td>Creator-Dribbler</td>
+<td>81.0</td>
+</tr>
+<tr>
+<td><span class="wikilink-broken">ellery-balcombe</span> Ellery Balcombe</td>
+<td>None</td>
+<td>Sprinter</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<a class="source-link" href="brentford.md">view raw .md →</a>
+</article>
+</div>
+</body>
+</html>

@@ -2,7 +2,7 @@
 title: Controller
 category: archetypes
 tags: [Mental, Controller]
-updated: 2026-04-03
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: Mental archetype. Core attributes: anticipation, composure, decisions, tempo.
@@ -19,11 +19,11 @@ summary: Mental archetype. Core attributes: anticipation, composure, decisions, 
 
 | Player | Position | Club | Overall |
 |---|---|---|---|
-| [[rodri]] Rodri | DM | — | — |
-| [[pedri]] Pedri | CM | — | — |
-| [[frenkie-de-jong]] Frenkie de Jong | CM | — | — |
-| [[kroos]] Kroos | CM | — | — |
-| [[berbatov]] Berbatov | CF | — | — |
+| [[pedri]] Pedri | CM | Barcelona | 79.0 |
+| [[joao-neves]] João Neves | CM | Paris Saint-Germain | 78.0 |
+| [[kevin-de-bruyne]] Kevin De Bruyne | CM | Napoli | 77.0 |
+| [[bernardo-silva]] Bernardo Silva | WM | Manchester City | 76.0 |
+| [[martin-zubimendi]] Martín Zubimendi | DM | Arsenal | 74.0 |
 
 ## Compound Archetypes
 
