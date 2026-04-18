@@ -2,7 +2,7 @@
 title: Juan Valentín Giménez
 category: players
 tags: [CM, Rosario Central, Destroyer-Target]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Rosario Central. Archetype: Destroyer-Target.
@@ -26,25 +26,55 @@ backlinks: [destroyer, rosario-central]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Juan Valentín Giménez projects primarily as a CM with a `Destroyer-Target` lean. The strongest database support comes from Heading, Interceptions, and Pass Range.
+
+## Role Fit
+
+- Best-fit role is `Ball Winner`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Heading, Interceptions, and Pass Range.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Interceptions, and Pass Range.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Aggression | ███████████ 11/10 |
-| Awareness | ██████████ 10/10 |
-| Reactions | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +84,10 @@ backlinks: [destroyer, rosario-central]
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

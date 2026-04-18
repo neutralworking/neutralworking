@@ -1,13 +1,13 @@
 ---
 title: Jota Silva
 category: players
-tags: [WF, Beşiktaş, Portugal, Sprinter-Dribbler]
-updated: 2026-04-14
+tags: [WF, Nottingham Forest, Portugal, Sprinter-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WF at Beşiktaş. Archetype: Sprinter-Dribbler.
+summary: WF at Nottingham Forest. Archetype: Sprinter-Dribbler.
 person_id: 13110
-backlinks: [sprinter, besiktas]
+backlinks: [sprinter, nottingham-forest]
 ---
 
 # Jota Silva
@@ -17,7 +17,7 @@ backlinks: [sprinter, besiktas]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Beşiktaş |
+| **Club** | Nottingham Forest |
 | **Nation** | Portugal |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
@@ -26,33 +26,52 @@ backlinks: [sprinter, besiktas]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Jota Silva projects primarily as a WF with a `Sprinter-Dribbler` lean. The strongest database support comes from Stamina, Acceleration, and Balance.
+
+## Role Fit
+
+- Best-fit role is `Inverted Winger`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Stamina, Acceleration, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Acceleration, and Balance.
+- Style traits point toward Pace, Work Rate, and Finishing in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Long Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Close Range | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Vision | ███████████████ 15/10 |
-| Composure | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Pace** (style) — severity 4/10
-- **Work Rate** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +81,19 @@ backlinks: [sprinter, besiktas]
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Pace** (style) — severity 4/10
+- **Work Rate** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

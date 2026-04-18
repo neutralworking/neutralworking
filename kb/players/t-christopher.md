@@ -2,7 +2,7 @@
 title: T. Christopher
 category: players
 tags: [CF, Ivory Coast]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at None. Archetype: None.
@@ -25,28 +25,62 @@ person_id: 29208
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+T. Christopher projects primarily as a CF with a `None` lean. The strongest database support comes from Awareness, First Touch, and Skills.
+
+## Role Fit
+
+- Best-fit role is `Spearhead`.
+- Most bankable strengths show up in Awareness, First Touch, and Skills.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Awareness, First Touch, and Skills.
+- Style traits point toward Two Footed, Skill Moves, and Technical Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| First Touch | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Duels | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Awareness | ███████░░░ 7/10 |
-| First Touch | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Duels | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Intensity | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Physical | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Mental | ██░░░░░░░░ 2/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
 
 - **Two Footed** (style) — severity 9/10
 - **Skill Moves** (style) — severity 6/10
 - **Technical Ability** (style) — severity 5/10
 - **Anticipation** (style) — severity 5/10
 - **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 13 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |

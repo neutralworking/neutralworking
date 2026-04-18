@@ -2,7 +2,7 @@
 title: Álvaro Rodríguez
 category: players
 tags: [CF, Elche, Uruguay, Powerhouse-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Elche. Archetype: Powerhouse-Creator.
@@ -26,37 +26,55 @@ backlinks: [powerhouse, elche]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Young Uruguayan centre-forward with a lean, athletic frame and reasonable movement in the box, but he lacks the physicality and aerial dominance you'd want from a target man in La Liga. His touch can be heavy under pressure, and he hasn't yet developed the predatory instinct or spatial awareness to consistently create chances for himself. Promising raw material, but nowhere near ready for a leading role.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `75`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
+- Most bankable strengths show up in Crossing, Jumping, and Stamina.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Crossing, Jumping, and Stamina.
+- Style traits point toward Flamboyant, Direct, and Strength in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Crossing | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Awareness | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **direct** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -66,3 +84,20 @@ Young Uruguayan centre-forward with a lean, athletic frame and reasonable moveme
 - **Pressure (JP)**: 54
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Direct** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

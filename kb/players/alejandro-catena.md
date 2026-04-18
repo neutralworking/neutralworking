@@ -2,7 +2,7 @@
 title: Alejandro Catena
 category: players
 tags: [CD, Osasuna, Spain, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Osasuna. Archetype: Destroyer.
@@ -26,35 +26,54 @@ backlinks: [destroyer, osasuna]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Intelligent centre-back who reads the game well and positions himself shrewdly; good on the ball for building from the back. Lacks elite athleticism and struggles against truly clinical finishers, but a reliable La Liga regular.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor` with model support score `76`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Physical, and Stamina.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Stamina.
+- Style traits point toward Aerial Ability and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Physical | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Reactions | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Long Range | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Penalties | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Blocking | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
-| Crossing | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Intelligent centre-back who reads the game well and positions himself shrewdly; 
 - **Pressure (JP)**: 35
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

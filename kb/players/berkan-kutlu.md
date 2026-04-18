@@ -2,7 +2,7 @@
 title: Berkan Kutlu
 category: players
 tags: [CM, Galatasaray, Turkey, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Galatasaray. Archetype: Powerhouse.
@@ -26,34 +26,55 @@ backlinks: [powerhouse, galatasaray]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Kutlu operates as a high-volume terrier—relentless pace, acceleration, and aggression combine with strong technical ability and genuine stamina to create a midfielder who harasses and transitions with intensity. His mental toughness is a legitimate asset in chaotic systems, yet poor discipline and weak blocking betray vulnerability to structured, possession-based opposition that doesn't require chasing shadows. At 28, he suits Turkish or Eastern European clubs valuing chaos-mitigation and press-triggers; European elite will find his lack of guile and defensive structure too exposed at center midfield.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Acceleration, Pace, and Aggression.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Aggression.
+- Style traits point toward Defensive Awareness and Work Rate in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Awareness | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Aggression | ███████████████ 15/10 |
-| Awareness | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Interceptions | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Defensive Awareness** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +84,17 @@ Kutlu operates as a high-volume terrier—relentless pace, acceleration, and agg
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Defensive Awareness** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

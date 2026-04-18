@@ -2,7 +2,7 @@
 title: Gustaf Lagerbielke
 category: players
 tags: [CD, Braga, Sweden, Dribbler-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Braga. Archetype: Dribbler-Powerhouse.
@@ -26,32 +26,55 @@ backlinks: [dribbler, braga]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Gustaf Lagerbielke projects primarily as a CD with a `Dribbler-Powerhouse` lean. The strongest database support comes from Jumping, Physical, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Colossus`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Physical, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and First Touch.
+- Style traits point toward Aerial Ability, Tackling Ability, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Take Ons | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Stamina | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Long Range | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
-| Pace | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Balance | █████████░ 9/10 |
-| Pass Range | ████████░░ 8/10 |
-| Aerial Duels | ███████░░░ 7/10 |
-| Aggression | ███████░░░ 7/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **Aerial Ability** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -61,3 +84,18 @@ backlinks: [dribbler, braga]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Aerial Ability** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

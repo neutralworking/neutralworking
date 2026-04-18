@@ -2,7 +2,7 @@
 title: F. Lauenborg
 category: players
 tags: [CM, Randers FC, Creator-Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Randers FC. Archetype: Creator-Cover.
@@ -26,33 +26,54 @@ backlinks: [creator, randers-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Lauenborg, suited for a Tuttocampista role, presents a concerning profile with limited ratings across all four pillars: technical, tactical, mental, and physical. Despite these universal limitations, he does show some strengths in general physicality, reactions, shielding, and aggression, but is noted for specific mental and technical weaknesses, as well as poor defensive blocking. This type of player, relying purely on raw physical attributes and aggression with limited refinement, harks back to an earlier era of football where brute force could compensate for a lack of sophistication in certain roles. Acquiring Lauenborg would represent a significant risk due to his widespread limitations, even if he offers a strong physical presence and aggression, necessitating a very clear, niche role.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Jumping, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Jumping, and Pass Accuracy.
+- Style traits point toward Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Defensive Awareness** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +83,16 @@ Lauenborg, suited for a Tuttocampista role, presents a concerning profile with l
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Defensive Awareness** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

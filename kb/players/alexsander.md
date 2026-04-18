@@ -2,7 +2,7 @@
 title: Alexsander
 category: players
 tags: [DM, Cover-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at None. Archetype: Cover-Striker.
@@ -26,33 +26,53 @@ backlinks: [cover]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A composed, tactically aware defensive midfielder with strong short-range accuracy and interception timing, operating as a high-pressing pivote despite modest blocking capability and inconsistent vision. His guile in possession—unusual for a terrier archetype—suggests subtlety in ball-winning and transition setup, though his discipline and blocking weaknesses prevent him from being an uncompromising defensive anchor. Best positioned in structured pressing systems where his awareness and tackling intensity drive defensive intensity without requiring him to absorb excessive defensive burden alone.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Segundo Volante` with model support score `75`.
+- Primary archetype leans toward `Cover` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Aggression, Duels, and Pass Accuracy.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Duels, and Pass Accuracy.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Take Ons | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ██████████ 10/10 |
-| Duels | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Creativity | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Skills | ████████░░ 8/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 7/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -62,3 +82,16 @@ A composed, tactically aware defensive midfielder with strong short-range accura
 - **Pressure (JP)**: 58
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

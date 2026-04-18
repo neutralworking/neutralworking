@@ -2,7 +2,7 @@
 title: Cristian Colman
 category: players
 tags: [CF, Nacional Asunción, Paraguay]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Nacional Asunción. Archetype: None.
@@ -26,19 +26,59 @@ backlinks: [nacional-asuncion]
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Cristian Colman projects primarily as a CF with a `None` lean. The strongest database support comes from Pace, Acceleration, and Aerial Duels.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker`.
+- Most bankable strengths show up in Pace, Acceleration, and Aerial Duels.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Acceleration, and Aerial Duels.
+- Style traits point toward Two Footed, Aerial Ability, and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Acceleration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aerial Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Heading | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Physical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tactical | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ████████░░ 8/10 |
-| Acceleration | ███████░░░ 7/10 |
-| Aerial Duels | ███████░░░ 7/10 |
-| Heading | ███████░░░ 7/10 |
-| Physical | ██████░░░░ 6/10 |
-| Tactical | ███░░░░░░░ 3/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
 
 - **Two Footed** (style) — severity 7/10
 - **Aerial Ability** (style) — severity 5/10
 - **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |

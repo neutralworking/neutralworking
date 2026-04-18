@@ -1,0 +1,92 @@
+---
+title: Brandon Austin
+category: players
+tags: [GK, Tottenham Hotspur, England, GK]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: GK at Tottenham Hotspur. Archetype: GK.
+person_id: 9162
+backlinks: [gk, tottenham-hotspur]
+---
+
+# Brandon Austin
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | GK |
+| **Club** | Tottenham Hotspur |
+| **Nation** | England |
+| **Age** | 27 |
+| **Archetype** | [[gk]] GK |
+| **Level** | 78 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 3 |
+
+## Snapshot
+
+English backup goalkeeper competing for scraps in the pecking order at a top-six club. Limited distribution and positioning concerns suggest he's more of a cup-competition option than a serious contender for regular minutes.
+
+## Role Fit
+
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Physical, Jumping, and Pace.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Pace.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Jumping | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pace | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Reactions | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Acceleration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Stamina | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 85
+- **Motivation (SN)**: 11
+- **Social (TF)**: 34
+- **Pressure (JP)**: 18
+- **Competitiveness**: 2/10
+- **Coachability**: 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -1,6 +1,6 @@
 # Tactics Index
 
-> 33 articles | 13,893 words | Last rebuilt: 2026-04-17
+> 33 articles | 13,893 words | Last rebuilt: 2026-04-18
 
 ## Articles
 

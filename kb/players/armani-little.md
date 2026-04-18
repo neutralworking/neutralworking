@@ -2,7 +2,7 @@
 title: Armani Little
 category: players
 tags: [CM, Southampton, England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Southampton. Archetype: Powerhouse.
@@ -26,35 +26,54 @@ backlinks: [powerhouse, southampton]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Energetic box-to-box presence with decent work rate, but limited technical range and inconsistent decision-making in transitions. Useful squad option for a club fighting relegation, but lacks the quality or consistency for sustained PL football.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Two Footed, Long Range Passing, and Trivela in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aggression | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Aggression | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Pace | ███████████████ 15/10 |
-| Composure | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Through Balls | █████████████ 13/10 |
-| Vision | █████████████ 13/10 |
-| Close Range | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Energetic box-to-box presence with decent work rate, but limited technical range
 - **Pressure (JP)**: 58
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

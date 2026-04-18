@@ -3,7 +3,7 @@ title: Pedro Gonçalves
 category: players
 tags: [WF, Sporting CP
 , Portugal, Dribbler-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Sporting CP
@@ -29,27 +29,62 @@ backlinks: [dribbler, sporting-cp]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Pedro Gonçalves projects primarily as a WF with a `Dribbler-Cover` lean. The strongest database support comes from Balance, Composure, and Crossing.
+
+## Role Fit
+
+- Best-fit role is `Inverted Winger` with model support score `80`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Composure, and Crossing.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Composure, and Crossing.
+- Style traits point toward Ball Retention, Two Footed, and Skill Moves in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Composure | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Mid Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Composure | █████████████████ 17/10 |
-| Crossing | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Mid Range | █████████████████ 17/10 |
-| Movement | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Take Ons | █████████████████ 17/10 |
-| Vision | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Penalties | ████████████████ 16/10 |
-| Through Balls | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 64
+- **Motivation (SN)**: 44
+- **Social (TF)**: 35
+- **Pressure (JP)**: 42
+- **Competitiveness**: 7/10
+- **Coachability**: 5/10
+
+## Trait Ledger
 
 - **Ball Retention** (style) — severity 8/10
 - **Two Footed** (style) — severity 7/10
@@ -61,11 +96,10 @@ backlinks: [dribbler, sporting-cp]
 - **Finishing** (style) — severity 5/10
 - **Set Piece Threat** (style) — severity 5/10
 
-## Personality
+## Evidence Ledger
 
-- **Game Reading (EI)**: 64
-- **Motivation (SN)**: 44
-- **Social (TF)**: 35
-- **Pressure (JP)**: 42
-- **Competitiveness**: 7/10
-- **Coachability**: 5/10
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

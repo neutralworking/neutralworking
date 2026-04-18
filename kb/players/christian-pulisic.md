@@ -2,7 +2,7 @@
 title: Christian Pulisic
 category: players
 tags: [WF, AC Milan, United States, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at AC Milan. Archetype: Striker-Creator.
@@ -26,42 +26,58 @@ backlinks: [striker, ac-milan]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 American winger revitalised in Milan. Work rate, goals, and consistency have all improved. Plays with freedom and confidence in Serie A.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `81`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Balance, First Touch, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, First Touch, and Reactions.
+- Style traits point toward Two Footed, Direct, and Skill Moves in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| First Touch | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Crossing | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Stamina | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Physical | ███████████ 11/10 |
-| Composure | ██████████ 10/10 |
-| Heading | ██████████ 10/10 |
-| Marking | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 9/10
-- **direct** (style) — severity 7/10
-- **counter_attack_threat** (tactical) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **patient** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -71,6 +87,29 @@ American winger revitalised in Milan. Work rate, goals, and consistency have all
 - **Pressure (JP)**: 39
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 9/10
+- **Direct** (style) — severity 7/10
+- **Counter Attack Threat** (tactical) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Patient** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

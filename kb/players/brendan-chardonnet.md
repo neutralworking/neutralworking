@@ -2,7 +2,7 @@
 title: Brendan Chardonnet
 category: players
 tags: [CD, Brest, France, Destroyer-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Brest. Archetype: Destroyer-Dribbler.
@@ -26,38 +26,58 @@ backlinks: [destroyer, brest]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Experienced centre-back with excellent reading of the game and the sort of positional discipline that frustrates attackers — he's won enough duels and cut-outs to remain credible in Ligue 1. Age is creeping in (31 now) and he's never been a ball-player, so don't expect him driving forward or threading through-balls; he's a pure defender, and a good one at that. Still a staple of a well-organised backline.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `80`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Reactions, and Penalties.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Reactions, and Penalties.
+- Style traits point toward Aerial Ability, Defensive Awareness, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Durability, and Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Penalties | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Balance | ███████████ 11/10 |
-| Long Range | ██████████ 10/10 |
-| Movement | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
-| Acceleration | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **aerial_threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,3 +87,21 @@ Experienced centre-back with excellent reading of the game and the sort of posit
 - **Pressure (JP)**: 35
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

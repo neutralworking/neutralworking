@@ -1,0 +1,91 @@
+---
+title: Deji Elerewe
+category: players
+tags: [CD, Barrow, England, Cover]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: CD at Barrow. Archetype: Cover.
+person_id: 10190
+backlinks: [cover, barrow]
+---
+
+# Deji Elerewe
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CD |
+| **Club** | Barrow |
+| **Nation** | England |
+| **Age** | 22 |
+| **Archetype** | [[cover]] Cover |
+| **Level** | 76 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+Elerewe is a physically imposing Vorstopper with impressive acceleration and pace for a centre-back, making him adept at covering ground quickly and winning aerial duels. However, his extremely limited technical ability, particularly in close-range passing and through-balls, means he struggles to contribute to build-up play and can be a liability when pressed. Don't ask him to play out from the back.
+
+## Role Fit
+
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Physical, and Acceleration.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Acceleration.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Awareness | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Tackling | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Aggression | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 54
+- **Motivation (SN)**: 42
+- **Social (TF)**: 26
+- **Pressure (JP)**: 62
+- **Competitiveness**: 6/10
+- **Coachability**: 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

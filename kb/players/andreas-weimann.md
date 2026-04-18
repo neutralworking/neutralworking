@@ -2,7 +2,7 @@
 title: Andreas Weimann
 category: players
 tags: [WF, Derby County, Austria, Striker-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Derby County. Archetype: Striker-Sprinter.
@@ -26,36 +26,55 @@ backlinks: [striker, derby-county]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A veteran winger-forward whose legs have gone but whose brain remains sharp — he positions himself well to receive, understands the geometry of transitions, and can still thread passes in tight spaces. His pace is essentially zero now, and he cannot create separation against engaged defenders, limiting his effectiveness in open-play scenarios.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Target Forward` with model support score `63`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Stamina, Acceleration, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Acceleration, and Balance.
+- Style traits point toward Work Rate, Finishing, and Trickery in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Pass Range | ███████████ 11/10 |
-| Interceptions | ██████████ 10/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Heading | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **Work Rate** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +84,19 @@ A veteran winger-forward whose legs have gone but whose brain remains sharp — 
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Work Rate** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

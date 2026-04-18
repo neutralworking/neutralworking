@@ -2,7 +2,7 @@
 title: Emil Krafth
 category: players
 tags: [WD, Newcastle United, Sweden, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Newcastle United. Archetype: Destroyer.
@@ -26,35 +26,58 @@ backlinks: [destroyer, newcastle-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A versatile right-sider whose professionalism and flexibility have made him a useful rotation option without being particularly special in any one phase. His defending is workmanlike rather than inspired, and his attacking contribution is similarly functional rather than creative. He's a solid depth player who won't embarrass himself but also won't distinguish himself.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wing-back` with model support score `72`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
+- Most bankable strengths show up in First Touch, Marking, and Pass Range.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Marking, and Pass Range.
+- Style traits point toward Long Throws in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Composure | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Shielding | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Long Throws** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +87,18 @@ A versatile right-sider whose professionalism and flexibility have made him a us
 - **Pressure (JP)**: 45
 - **Competitiveness**: 4/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Long Throws** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

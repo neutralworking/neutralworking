@@ -2,7 +2,7 @@
 title: Iván Martín
 category: players
 tags: [CM, Girona, Spain, Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Girona. Archetype: Engine.
@@ -26,38 +26,58 @@ backlinks: [engine, girona]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Experienced midfielder who anchors the center of the park with positional discipline and reasonable distribution; he's the type who does his job without drawing attention to himself. He lacks dynamism in either direction—not a presser, not a ball-carrier—and his passing is functional rather than progressive. A reliable, understated operator for a side wanting stability, but he won't change a game.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Ball Winner` with model support score `79`.
+- Primary archetype leans toward `Engine` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
+- Most bankable strengths show up in Balance, Crossing, and Movement.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Crossing, and Movement.
+- Style traits point toward Flamboyant and Technical Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier and Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Crossing | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Penalties | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Intensity | ██████████ 10/10 |
-| Carries | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **progressive_carrier** (tactical) — severity 8/10
-- **flamboyant** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,3 +87,21 @@ Experienced midfielder who anchors the center of the park with positional discip
 - **Pressure (JP)**: 47
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Progressive Carrier** (tactical) — severity 8/10
+- **Flamboyant** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

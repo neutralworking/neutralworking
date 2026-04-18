@@ -1,0 +1,91 @@
+---
+title: George Lapslie
+category: players
+tags: [CM, Charlton Athletic, England, Powerhouse]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: CM at Charlton Athletic. Archetype: Powerhouse.
+person_id: 11323
+backlinks: [powerhouse, charlton-athletic]
+---
+
+# George Lapslie
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CM |
+| **Club** | Charlton Athletic |
+| **Nation** | England |
+| **Age** | 28 |
+| **Archetype** | [[powerhouse]] Powerhouse |
+| **Level** | 80 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 2 |
+
+## Snapshot
+
+A central midfielder with workmanlike application and decent engines, but his technical quality in possession is merely adequate and he lacks the range of passing or forward vision to be a primary creator. He's the sort of player who'll get stuck in and run around all day, which is valuable in lower divisions, yet offers little in the way of genuine progression.
+
+## Role Fit
+
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Shielding, Balance, and Jumping.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Jumping.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 53
+- **Motivation (SN)**: 46
+- **Social (TF)**: 40
+- **Pressure (JP)**: 54
+- **Competitiveness**: 6/10
+- **Coachability**: 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

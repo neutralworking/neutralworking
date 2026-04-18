@@ -2,7 +2,7 @@
 title: Sivert Mannsverk
 category: players
 tags: [CM, Sparta Praha, Norway, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sparta Praha. Archetype: Powerhouse.
@@ -26,36 +26,54 @@ backlinks: [powerhouse, sparta-praha]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A true Powerhouse with impressive physical attributes, Mannsverk excels as a Mezzala due to his immense stamina, acceleration, and aerial ability, contributing significantly to a team's build-up. His blueprint as a midfielder and strong physical presence suggest a fit for a system that leverages dynamic box-to-box running and powerful surges into half-spaces. At 23, he's a player with high potential for a club willing to work on his tactical understanding, which is limited, and channel his hot-headed trait, which impacts his discipline and performance in duels.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `79`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Stamina, Shielding, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Shielding, and Acceleration.
+- Style traits point toward Work Rate and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Penalties | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| Shielding | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pace | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 7/10
-- **Work Rate** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -65,3 +83,19 @@ A true Powerhouse with impressive physical attributes, Mannsverk excels as a Mez
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 7/10
+- **Work Rate** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

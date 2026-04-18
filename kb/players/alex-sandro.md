@@ -2,7 +2,7 @@
 title: Alex Sandro
 category: players
 tags: [WD, Flamengo, Brazil, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Flamengo. Archetype: Cover.
@@ -26,37 +26,60 @@ backlinks: [cover, flamengo]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 	Brazil	LB / LWB	26 January 1991 (age 32)	2015	2024	Portugal Porto	€26M[14]	309	15
 	
   WD		Creator			BRA	C	0.0			
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `58`.
+- Primary archetype leans toward `Cover` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, First Touch, and Pace.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Pace.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Skills | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Skills | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Pass Range | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Intensity | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **aerial_threat** (physical) — severity 10/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,6 +89,22 @@ backlinks: [cover, flamengo]
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Threat** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

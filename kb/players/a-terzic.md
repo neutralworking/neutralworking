@@ -2,7 +2,7 @@
 title: A. Terzić
 category: players
 tags: [WM, Red Bull Salzburg, Sprinter-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Red Bull Salzburg. Archetype: Sprinter-Cover.
@@ -26,33 +26,49 @@ backlinks: [sprinter, red-bull-salzburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Terzić's pace and acceleration make him a formidable Winger, capable of beating defenders with his first touch and crossing ability. However, his limited tactical awareness and lack of guile can lead to predictable play, and his weakness in blocking can leave his team exposed on the counter. A team that values direct, pacey attacks could benefit from his skills, but may need to provide additional support to compensate for his weaknesses.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
+- Most bankable strengths show up in Acceleration, Crossing, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Crossing, and First Touch.
+- Style traits point toward Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Pace | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Movement | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Physical | ███████████ 11/10 |
-| Discipline | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +78,16 @@ Terzić's pace and acceleration make him a formidable Winger, capable of beating
 - **Pressure (JP)**: 58
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

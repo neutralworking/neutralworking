@@ -2,7 +2,7 @@
 title: F. Ibarra
 category: players
 tags: [DM, Rosario Central, Destroyer-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Rosario Central. Archetype: Destroyer-Sprinter.
@@ -26,33 +26,55 @@ backlinks: [destroyer, rosario-central]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+F. Ibarra projects primarily as a DM with a `Destroyer-Sprinter` lean. The strongest database support comes from Acceleration, Shielding, and Stamina.
+
+## Role Fit
+
+- Best-fit role is `Ball Winner` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Acceleration, Shielding, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Shielding, and Stamina.
+- Style traits point toward Flamboyant, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| First Touch | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Heading | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Intensity | ████████░░ 8/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 8/10
-- **flamboyant** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -62,3 +84,19 @@ backlinks: [destroyer, rosario-central]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 8/10
+- **Flamboyant** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

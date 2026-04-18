@@ -1,83 +1,97 @@
 ---
-title: Ederson
+title: Éderson
 category: players
-tags: [GK, Atalanta, Brazil, Engine-Powerhouse]
-updated: 2026-04-14
+tags: [GK, Fenerbahçe, Brazil, GK]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: GK at Atalanta. Archetype: Engine-Powerhouse.
-person_id: 10477
-backlinks: [engine, atalanta]
+summary: GK at Fenerbahçe. Archetype: GK.
+person_id: 10478
+backlinks: [gk, fenerbahce]
 ---
 
-# Ederson
+# Éderson
 
 ## Overview
 
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | Atalanta |
+| **Club** | Fenerbahçe |
 | **Nation** | Brazil |
-| **Age** | 26 |
-| **Archetype** | [[engine]] Engine-Powerhouse |
-| **Level** | 86 |
+| **Age** | 32 |
+| **Archetype** | [[gk]] GK |
+| **Level** | 84 |
 | **Overall** | 81.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 4 |
+| **Pursuit** | Monitor |
+| **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
-The goalkeeper who redefined the position at City. Sweeper-keeper supreme, outrageous distribution, brave in 1v1s. Shot-stopping occasionally questioned.
+Éderson projects primarily as a GK with a `GK` lean. The strongest database support comes from Pass Range, Through Balls, and Pass Accuracy.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Pass Range, Through Balls, and Pass Accuracy.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Range, Through Balls, and Pass Accuracy.
+- Style traits point toward Long Range Passing, Cross Claimer, and Passing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Accuracy | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Technical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████████ 18/10 |
-| Stamina | ██████████████████ 18/10 |
-| First Touch | █████████████████ 17/10 |
-| Aggression | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| Interceptions | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Skills | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **elegant** (style) — severity 4/10
-- **Work Rate** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 46
-- **Social (TF)**: 42
-- **Pressure (JP)**: 56
-- **Competitiveness**: 7/10
-- **Coachability**: 6/10
+- **Game Reading (EI)**: 70
+- **Motivation (SN)**: 30
+- **Social (TF)**: 40
+- **Pressure (JP)**: 20
+- **Competitiveness**: 6/10
+- **Coachability**: 8/10
 
-## Research Notes
+## Trait Ledger
 
-<details>
-<summary>Raw scouting narrative</summary>
+- **Long Range Passing** (style) — severity 8/10
+- **Cross Claimer** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
 
----
-class: goalkeeper
-subclass: distributor
----
-When Pep Guardiola made a cheeky remark about Ederson being the best penalty taker at [Manchester City](http://90min.com/teams/manchester-city) everyone believed him - such is the technical ability of the Brazilian stopper.  
-  
-2022/23 saw the Brazilian rise to the occasion in the Champions League, making heroic stops against Real Madrid and Inter as City won the tournament for the first time ever.
+## Evidence Ledger
 
-</details>
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

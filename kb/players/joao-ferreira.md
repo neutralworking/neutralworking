@@ -2,7 +2,7 @@
 title: João Ferreira
 category: players
 tags: [WD, AS Saint-Étienne, Portugal, Sprinter-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at AS Saint-Étienne. Archetype: Sprinter-Destroyer.
@@ -26,34 +26,54 @@ backlinks: [sprinter, as-saint-etienne]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A left-sided defender operating in Ligue 2, Ferreira is a functional, physical presence with decent recovery pace and the athleticism to cover ground quickly when Saint-Étienne transition. He's capable enough in a back four at this level — solid enough positioning, willing to engage — but he's not a footballer in the modern sense; his passing is lateral and safe, his decision-making in the half-space is pedestrian, and he struggles to progress play from deep with any real range or intelligence. The sort of defender who gets exposed against good wide forwards with technical demands because he relies on recovery rather than anticipation or reading space. At 24, with limited top-division experience, he's a squad player with a ceiling that's unlikely to extend far beyond Ligue 2 mid-table.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, Pace, and Jumping.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Jumping.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Shielding | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ A left-sided defender operating in Ligue 2, Ferreira is a functional, physical p
 - **Pressure (JP)**: 53
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

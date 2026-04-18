@@ -2,7 +2,7 @@
 title: Å. Andersson
 category: players
 tags: [WM, IFK Norrköping, Destroyer-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at IFK Norrköping. Archetype: Destroyer-Creator.
@@ -26,29 +26,51 @@ backlinks: [destroyer, ifk-norrkoping]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Å. Andersson projects primarily as a WM with a `Destroyer-Creator` lean. The strongest database support comes from Physical, Jumping, and Reactions.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `69`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
+- Most bankable strengths show up in Physical, Jumping, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Reactions.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Jumping | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Reactions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Acceleration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pace | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ███████████ 11/10 |
-| Jumping | █████████░ 9/10 |
-| Reactions | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Acceleration | ██████░░░░ 6/10 |
-| Blocking | ██████░░░░ 6/10 |
-| Creativity | ██████░░░░ 6/10 |
-| Pace | ██████░░░░ 6/10 |
-| Tackling | ██████░░░░ 6/10 |
-| Duels | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Stamina | █████░░░░░ 5/10 |
-| Take Ons | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +80,15 @@ backlinks: [destroyer, ifk-norrkoping]
 - **Pressure (JP)**: 43
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

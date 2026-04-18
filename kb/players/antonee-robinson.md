@@ -2,7 +2,7 @@
 title: Antonee Robinson
 category: players
 tags: [WD, Fulham, United States, Engine-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Fulham. Archetype: Engine-Dribbler.
@@ -26,39 +26,58 @@ backlinks: [engine, fulham]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A right-back whose primary currency is explosive recovery speed and an almost American physicality to his defending—he'll chase down lost causes that most would accept and use his frame intelligently in one-v-one situations. His crossing remains pedestrian and his decision-making when pressed can be erratic, but for a team that asks their fullback to be a last-resort defender, he's genuinely useful. His lack of technical subtlety limits his contribution to possession phases.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `74`.
+- Primary archetype leans toward `Engine` behaviour from a `WD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Balance, Crossing, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Crossing, and Jumping.
+- Style traits point toward Tackling Ability, Crossing Ability, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Crossing | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| First Touch | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Aerial Duels | █████████░ 9/10 |
-| Awareness | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Marking | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **high_press** (tactical) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -68,3 +87,22 @@ A right-back whose primary currency is explosive recovery speed and an almost Am
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **High Press** (tactical) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Guilherme Henriques da Silva Carvalho
 category: players
 tags: [WD, Unión, Brazil, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Unión. Archetype: Cover.
@@ -26,30 +26,54 @@ backlinks: [cover, union]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Guilherme Henriques da Silva Carvalho projects primarily as a WD with a `Cover` lean. The strongest database support comes from Creativity, Pressing, and Duels.
+
+## Role Fit
+
+- Best-fit role is `Corner Back` with model support score `61`.
+- Primary archetype leans toward `Cover` behaviour from a `WD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Creativity, Pressing, and Duels.
+
+## In Possession
+
+- Ball-value indicators lean on Creativity, Pressing, and Duels.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Marking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Creativity | █████████░ 9/10 |
-| Pressing | ████████░░ 8/10 |
-| Duels | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Marking | ██████░░░░ 6/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Discipline | █████░░░░░ 5/10 |
-| Interceptions | █████░░░░░ 5/10 |
-| Mental | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -59,3 +83,16 @@ backlinks: [cover, union]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

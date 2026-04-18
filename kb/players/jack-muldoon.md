@@ -1,0 +1,94 @@
+---
+title: Jack Muldoon
+category: players
+tags: [CF, Harrogate Town, England, Sprinter]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: CF at Harrogate Town. Archetype: Sprinter.
+person_id: 12141
+backlinks: [sprinter, harrogate-town]
+---
+
+# Jack Muldoon
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CF |
+| **Club** | Harrogate Town |
+| **Nation** | England |
+| **Age** | 36 |
+| **Archetype** | [[sprinter]] Sprinter |
+| **Level** | 64 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+A forward at 36 who's lost his explosiveness but retains clever positioning and an understanding of spaces that comes with age. His finishing is streaky; his link-up play is decent. He's a useful option coming off the bench or in a two-striker system where he can play a foil role, but expecting goals is optimistic.
+
+## Role Fit
+
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Stamina, Acceleration, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Acceleration, and Balance.
+- Style traits point toward Finishing in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Penalties | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 40
+- **Motivation (SN)**: 41
+- **Social (TF)**: 80
+- **Pressure (JP)**: 47
+- **Competitiveness**: 5/10
+- **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Finishing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

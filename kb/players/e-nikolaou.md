@@ -2,7 +2,7 @@
 title: E. Nikolaou
 category: players
 tags: [CM, Panetolikos, Powerhouse-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Panetolikos. Archetype: Powerhouse-Cover.
@@ -26,31 +26,56 @@ backlinks: [powerhouse, panetolikos]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+E. Nikolaou projects primarily as a CM with a `Powerhouse-Cover` lean. The strongest database support comes from Awareness, Heading, and Interceptions.
+
+## Role Fit
+
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Awareness, Heading, and Interceptions.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Awareness, Heading, and Interceptions.
+- Style traits point toward Two Footed, Positioning, and Aerial Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Awareness | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Long Range | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Positioning** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +85,17 @@ backlinks: [powerhouse, panetolikos]
 - **Pressure (JP)**: 59
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Positioning** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

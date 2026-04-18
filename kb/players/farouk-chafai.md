@@ -2,7 +2,7 @@
 title: Farouk Chafaï
 category: players
 tags: [CD, USM Alger, Algeria, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at USM Alger. Archetype: Cover.
@@ -26,32 +26,55 @@ backlinks: [cover, usm-alger]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Farouk Chafaï projects primarily as a CD with a `Cover` lean. The strongest database support comes from Jumping, Physical, and Stamina.
+
+## Role Fit
+
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Physical, and Stamina.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Stamina.
+- Style traits point toward Anticipation, Positioning, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Awareness | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Tackling | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Physical | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Awareness | ████████████████ 16/10 |
-| Reactions | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| Aggression | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Close Range | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Composure | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Pass Accuracy | ███████████ 11/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Anticipation** (style) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -61,3 +84,18 @@ backlinks: [cover, usm-alger]
 - **Pressure (JP)**: 67
 - **Competitiveness**: 8/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Anticipation** (style) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

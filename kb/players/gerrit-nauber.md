@@ -2,7 +2,7 @@
 title: Gerrit Nauber
 category: players
 tags: [CD, Go Ahead Eagles, Germany, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Go Ahead Eagles. Archetype: Destroyer.
@@ -26,31 +26,55 @@ backlinks: [destroyer, go-ahead-eagles]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Gerrit Nauber projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Jumping, Heading, and Balance.
+
+## Role Fit
+
+- Best-fit role is `Distributor` with model support score `69`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Jumping, Heading, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Heading, and Balance.
+- Style traits point toward Long Throws in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Stamina | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| First Touch | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Range | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Heading | ██████████████ 14/10 |
-| Balance | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Stamina | ███████████ 11/10 |
-| First Touch | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Acceleration | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Pace | █████████░ 9/10 |
-| Blocking | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Close Range | ███████░░░ 7/10 |
-| Composure | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **Long Throws** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [destroyer, go-ahead-eagles]
 - **Pressure (JP)**: 58
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Long Throws** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

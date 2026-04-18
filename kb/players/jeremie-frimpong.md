@@ -2,7 +2,7 @@
 title: Jeremie Frimpong
 category: players
 tags: [WD, Liverpool, Netherlands, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Liverpool. Archetype: Creator-Dribbler.
@@ -26,39 +26,58 @@ backlinks: [creator, liverpool]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Electric wingback with devastating pace. Creates overloads on the right, scores goals from deep. Defensive awareness the only concern.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Invertido` with model support score `79`.
+- Primary archetype leans toward `Creator` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, Balance, and Pace.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Pace.
+- Style traits point toward Elegant, Pace, and Trickery in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Crossing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████████ 19/10 |
-| Balance | ██████████████████ 18/10 |
-| Pace | ██████████████████ 18/10 |
-| Shielding | ██████████████████ 18/10 |
-| Crossing | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Take Ons | █████████████████ 17/10 |
-| Movement | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Close Range | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Long Range | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **elegant** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
-- **flamboyant** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,6 +87,26 @@ Electric wingback with devastating pace. Creates overloads on the right, scores 
 - **Pressure (JP)**: 45
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Elegant** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

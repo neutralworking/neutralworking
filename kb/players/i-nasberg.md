@@ -1,13 +1,13 @@
 ---
 title: I. Näsberg
 category: players
-tags: [CM, Vålerenga, Destroyer-Powerhouse]
-updated: 2026-04-14
+tags: [CM, Viborg, Destroyer-Powerhouse]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Vålerenga. Archetype: Destroyer-Powerhouse.
+summary: CM at Viborg. Archetype: Destroyer-Powerhouse.
 person_id: 26119
-backlinks: [destroyer, valerenga]
+backlinks: [destroyer, viborg]
 ---
 
 # I. Näsberg
@@ -17,7 +17,7 @@ backlinks: [destroyer, valerenga]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Vålerenga |
+| **Club** | Viborg |
 | **Nation** | None |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
@@ -26,33 +26,54 @@ backlinks: [destroyer, valerenga]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 As a Destroyer-Powerhouse, Näsberg excels in his Metodista role, utilizing his physicality and jumping ability to dominate in the air, while his tackling and stamina allow him to break up opposition attacks. However, his limited tactical awareness and lack of creativity hinder his ability to influence the game in the final third. His moderate mental and physical attributes make him a solid, if unspectacular, option for a team looking for a destroyer-type midfielder.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `75`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Jumping, Pace, and Stamina.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Stamina.
+- Style traits point toward Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Discipline | █████████░ 9/10 |
-| Blocking | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +83,16 @@ As a Destroyer-Powerhouse, Näsberg excels in his Metodista role, utilizing his 
 - **Pressure (JP)**: 59
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

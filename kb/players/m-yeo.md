@@ -2,7 +2,7 @@
 title: M. Yeo
 category: players
 tags: [CM, Red Bull Salzburg, Creator-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Red Bull Salzburg. Archetype: Creator-Powerhouse.
@@ -26,35 +26,54 @@ backlinks: [creator, red-bull-salzburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 M. Yeo is a technically gifted Tuttocampista with a strong first touch and acceleration, allowing him to beat opponents in tight spaces. His shielding and balance are also notable strengths, making him a reliable presence in midfield. However, his weaknesses in duels and tactical awareness may hinder his ability to control the tempo of the game. His flamboyant trait and high_press style suggest he would thrive in a team that values creativity and intensity.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Shielding, Balance, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Stamina.
+- Style traits point toward Flamboyant and Work Rate in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Acceleration | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Jumping | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Aggression | ██████████ 10/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 8/10
-- **high_press** (tactical) — severity 6/10
-- **Work Rate** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +83,18 @@ M. Yeo is a technically gifted Tuttocampista with a strong first touch and accel
 - **Pressure (JP)**: 42
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 8/10
+- **High Press** (tactical) — severity 6/10
+- **Work Rate** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

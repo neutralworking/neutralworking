@@ -2,7 +2,7 @@
 title: Ablie Jallow
 category: players
 tags: [CM, Servette, Gambia, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Servette. Archetype: Creator.
@@ -26,38 +26,58 @@ backlinks: [creator, servette]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Winger or attacking midfielder with reasonable pace and a willingness to take on defenders in direct situations. His decision-making in the final third is inconsistent, and he can become predictable when space closes—he struggles to find the progressive pass or create for others when his direct run isn't available. Functional width option for a Ligue 1 side battling relegation, but limited ceiling as a creator.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `75`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Positional Discipline.
+- Most bankable strengths show up in Balance, Shielding, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Stamina.
+- Style traits point toward Trickery and Technical Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | ██████████████████ 18/10 |
-| Stamina | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Marking | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Heading | ██████████ 10/10 |
-| Penalties | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **positional_discipline** (tactical) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -67,3 +87,21 @@ Winger or attacking midfielder with reasonable pace and a willingness to take on
 - **Pressure (JP)**: 41
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Positional Discipline** (tactical) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

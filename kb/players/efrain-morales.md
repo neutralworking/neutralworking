@@ -2,7 +2,7 @@
 title: Efrain Morales
 category: players
 tags: [CD, Atlanta United FC, Bolivia, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Atlanta United FC. Archetype: Cover.
@@ -26,29 +26,54 @@ backlinks: [cover, atlanta-united-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Efrain Morales is a young defender with a lot of potential, boasting impressive physical attributes and a strong tackling presence, but his technical ability and composure on the ball are significant weaknesses, often leading to panicked clearances and a lack of progressive carries from the back. As a modern centre-back, he has the potential to develop into a dominant force, but his current limitations in mid-range and close-range situations are a concern. His marking and interceptions are decent, but he can be exposed by clever movement from opposition attackers.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Centrale`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Interceptions, Stamina, and Tackling.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Interceptions, Stamina, and Tackling.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Awareness | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Interceptions | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Jumping | ███████████ 11/10 |
-| Pass Accuracy | ███████████ 11/10 |
-| Aggression | ██████████ 10/10 |
-| Balance | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| First Touch | █████████░ 9/10 |
-| Heading | █████████░ 9/10 |
-| Reactions | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +83,11 @@ Efrain Morales is a young defender with a lot of potential, boasting impressive 
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

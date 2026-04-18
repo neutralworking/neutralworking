@@ -2,7 +2,7 @@
 title: Luiz Henrique
 category: players
 tags: [WF, Zenit St. Petersburg, Brazil, Creator-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Zenit St. Petersburg. Archetype: Creator-Striker.
@@ -26,34 +26,54 @@ backlinks: [creator, zenit-st-petersburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A direct, purposeful winger with genuine pace and the kind of ball-carrying threat that makes full-backs genuinely uncomfortable in one-v-one situations. He's at his best running in behind or cutting inside from the flank to create half-chances, and there's a real athleticism to how he moves through transitions. The weakness is the same as many Brazilian wingers of this profile: his final ball can be wasteful, his decision-making under pressure isn't elite, and he doesn't have the tactical discipline to consistently press or track runners when Zenit need defensive stability.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Creativity, Physical, and Through Balls.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Creativity, Physical, and Through Balls.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Physical | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Carries | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Drive | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Intensity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Creativity | ████████░░ 8/10 |
-| Physical | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Carries | ███████░░░ 7/10 |
-| Drive | ███████░░░ 7/10 |
-| Intensity | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Stamina | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Technical | ███████░░░ 7/10 |
-| Anticipation | ██████░░░░ 6/10 |
-| Composure | ██████░░░░ 6/10 |
-| Concentration | ██████░░░░ 6/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ A direct, purposeful winger with genuine pace and the kind of ball-carrying thre
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

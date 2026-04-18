@@ -2,7 +2,7 @@
 title: D. Janošek
 category: players
 tags: [CM, OL, Creator-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OL. Archetype: Creator-Powerhouse.
@@ -26,38 +26,54 @@ backlinks: [creator, ol]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 D. Janošek's Connector archetype and strong technical ability make him a good fit for a Mezzala role, where he can use his shielding ability and aggression to win the ball back and distribute it to his teammates, but his limited tactical awareness and lack of discipline may make it difficult for him to play in more competitive leagues, and his introverted personality may require a team with a strong collective identity to help him feel supported and motivated, allowing him to focus on developing his game and making the most of his strengths, particularly his ability to contribute to the build-up phase.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `74`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Shielding, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Shielding, and Stamina.
+- Style traits point toward Two Footed, Set Piece Threat, and Long Range Shooting in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Flair | █████████░ 9/10 |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,3 +83,21 @@ D. Janošek's Connector archetype and strong technical ability make him a good f
 - **Pressure (JP)**: 30
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

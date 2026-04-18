@@ -2,7 +2,7 @@
 title: H. Stengel
 category: players
 tags: [AM, OM, Cover-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at OM. Archetype: Cover-Powerhouse.
@@ -26,30 +26,51 @@ backlinks: [cover, om]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+H. Stengel projects primarily as a AM with a `Cover-Powerhouse` lean. The strongest database support comes from Stamina, Shielding, and Balance.
+
+## Role Fit
+
+- Best-fit role is `Incursore` with model support score `70`.
+- Primary archetype leans toward `Cover` behaviour from a `AM` base.
+- Most bankable strengths show up in Stamina, Shielding, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Shielding, and Balance.
+- Style traits point toward Two Footed and Long Range Passing in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| Shielding | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Awareness | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +80,16 @@ backlinks: [cover, om]
 - **Pressure (JP)**: 47
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

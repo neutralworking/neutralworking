@@ -2,7 +2,7 @@
 title: Cristian Valencia
 category: players
 tags: [CD, Bolivia]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at None. Archetype: None.
@@ -25,22 +25,56 @@ person_id: 28967
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Cristian Valencia projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Composure, and Interceptions.
+
+## Role Fit
+
+- Best-fit role is `Sweeper`.
+- Most bankable strengths show up in Skills, Composure, and Interceptions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Skills, Composure, and Interceptions.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pass Accuracy | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Skills | ████████░░ 8/10 |
-| Composure | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Blocking | ██████░░░░ 6/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Discipline | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Drive | ███░░░░░░░ 3/10 |
-| Duels | ███░░░░░░░ 3/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

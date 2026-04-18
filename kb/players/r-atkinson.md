@@ -2,7 +2,7 @@
 title: R. Atkinson
 category: players
 tags: [CM, Bristol City, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Bristol City. Archetype: Destroyer-Powerhouse.
@@ -26,34 +26,54 @@ backlinks: [destroyer, bristol-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 R. Atkinson is a Connector who operates effectively as a Tuttocampista, using his strong technical and tactical abilities to control the tempo of the game. His physical strengths, including his jumping and heading ability, make him a dominant force in midfield, and his positional discipline allows him to read the game effectively. However, his limited mental attributes can lead to poor decision-making in high-pressure situations, and his lack of creativity can make him predictable in possession.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `75`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Positional Discipline.
+- Most bankable strengths show up in Jumping, Stamina, and Marking.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Marking.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | █████████████████ 17/10 |
-| Jumping | ████████████████ 16/10 |
-| Stamina | ███████████████ 15/10 |
-| Marking | ██████████████ 14/10 |
-| Reactions | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **positional_discipline** (tactical) — severity 7/10
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -63,3 +83,17 @@ R. Atkinson is a Connector who operates effectively as a Tuttocampista, using hi
 - **Pressure (JP)**: 64
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Positional Discipline** (tactical) — severity 7/10
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

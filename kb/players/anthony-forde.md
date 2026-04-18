@@ -2,7 +2,7 @@
 title: Anthony Forde
 category: players
 tags: [WF, Walsall, Ireland, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Walsall. Archetype: Sprinter.
@@ -26,34 +26,50 @@ backlinks: [sprinter, walsall]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Veteran winger who's lost a yard of pace but compensates with experience and set-piece delivery; useful squad option for a lower-league side but no longer penetrative enough for consistent top-flight minutes.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Technical Ability and Crossing Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Through Balls | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Stamina | █████████████ 13/10 |
-| Through Balls | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Penalties | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Technical Ability** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +79,17 @@ Veteran winger who's lost a yard of pace but compensates with experience and set
 - **Pressure (JP)**: 45
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Technical Ability** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Borna Barišić
 category: players
 tags: [WD, Leganes, Croatia, Passer]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Leganes. Archetype: Passer.
@@ -26,36 +26,57 @@ backlinks: [passer, leganes]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A Croatian left-back whose best years were behind him some time ago, Barišić remains a professional in his positioning and rarely loses focus defensively. His attacking contribution is minimal—he's not progressing play through the half-spaces or generating width—and his decline in pace has made him vulnerable to direct wingers. He's a squad depth player, acceptable as a rotation piece for a club content with mid-table stability.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Primary archetype leans toward `Passer` behaviour from a `WD` base.
+- Most bankable strengths show up in Through Balls, Crossing, and Jumping.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Through Balls, Crossing, and Jumping.
+- Style traits point toward Set Piece Threat and Crossing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Through Balls | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Long Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Through Balls | █████████████████ 17/10 |
-| Crossing | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +86,19 @@ A Croatian left-back whose best years were behind him some time ago, Barišić r
 - **Pressure (JP)**: 44
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -1,6 +1,6 @@
 # Clubs Index
 
-> 665 articles | 188,686 words | Last rebuilt: 2026-04-17
+> 665 articles | 188,686 words | Last rebuilt: 2026-04-18
 
 ## Articles
 

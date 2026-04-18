@@ -2,7 +2,7 @@
 title: Frédéric Veseli
 category: players
 tags: [WD, Fatih Karagümrük, Albania, Creator]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Fatih Karagümrük. Archetype: Creator.
@@ -26,30 +26,61 @@ backlinks: [creator, fatih-karagumruk]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Frédéric Veseli, also known as Freddie Veseli, is a professional footballer who plays as a defender for Süper Lig club Fatih Karagümrük and the Albania national team. His main position is center back, but he can also play at right-back and left-back. Veseli began his youth career with FC Renens and later joined Manchester City and Manchester United. He has also played for clubs such as Ipswich Town, Bury, Port Vale, Lugano, Empoli, Le Mans, Salernitana, and Benevento. Veseli represented Switzerland at various youth levels before accepting an invitation from the Albania national team in 2015. He was named in the squad for UEFA Euro 2016. [^1]
 
 [^1]: https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Veseli
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wing-back`.
+- Primary archetype leans toward `Creator` behaviour from a `WD` base.
+- Most bankable strengths show up in Tactical, Technical, and Awareness.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Tactical, Technical, and Awareness.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Awareness | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Intensity | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Mental | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Carries | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Creativity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Through Balls | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Tactical | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Awareness | ███░░░░░░░ 3/10 |
-| Intensity | ███░░░░░░░ 3/10 |
-| Mental | ███░░░░░░░ 3/10 |
-| Carries | ██░░░░░░░░ 2/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
-| Through Balls | █░░░░░░░░░ 1/10 |
-| Vision | █░░░░░░░░░ 1/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,6 +90,21 @@ Frédéric Veseli, also known as Freddie Veseli, is a professional footballer wh
 - **Pressure (JP)**: 74
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

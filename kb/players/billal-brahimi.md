@@ -1,13 +1,13 @@
 ---
 title: Billal Brahimi
 category: players
-tags: [WF, Viborg, Algeria, Creator]
-updated: 2026-04-14
+tags: [WF, Nice, Algeria, Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WF at Viborg. Archetype: Creator.
+summary: WF at Nice. Archetype: Creator.
 person_id: 9060
-backlinks: [creator, viborg]
+backlinks: [creator, nice]
 ---
 
 # Billal Brahimi
@@ -17,7 +17,7 @@ backlinks: [creator, viborg]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Viborg |
+| **Club** | Nice |
 | **Nation** | Algeria |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator |
@@ -26,36 +26,58 @@ backlinks: [creator, viborg]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Brahimi, a Creator with an Inverted Winger blueprint, thrives as a Raumdeuter, utilizing his acceleration, pace, and take-on ability to attack spaces and deliver powerful mid and long-range shots from the right flank. His availability and durability are commendable, but his limited physical and mental pillars mean he struggles with defensive marking and interceptions, and surprisingly lacks guile for a Creator archetype. He fits the modern mold of an inverted attacker, often drifting into central areas from wide positions to exploit gaps, ideal for counter-attacking teams with quick transitions. At 26, Brahimi offers a specific attacking solution for a club that can tolerate his defensive shortcomings in exchange for his offensive output, particularly from the right wing where he can cut inside.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `79`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Pace, Balance, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Balance, and First Touch.
+- Style traits point toward Pace in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Discipline | ████████░░ 8/10 |
-| Intensity | ████████░░ 8/10 |
-| Acceleration | ███████░░░ 7/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **counter_attack_threat** (tactical) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -65,3 +87,19 @@ Brahimi, a Creator with an Inverted Winger blueprint, thrives as a Raumdeuter, u
 - **Pressure (JP)**: 40
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Counter Attack Threat** (tactical) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

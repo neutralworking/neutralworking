@@ -2,7 +2,7 @@
 title: Elliot Watt
 category: players
 tags: [CM, Motherwell, Scotland, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Motherwell. Archetype: Powerhouse.
@@ -26,40 +26,54 @@ backlinks: [powerhouse, motherwell]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Watt's archetype as a Heartbeat midfielder is reflected in his strong tactical awareness, stamina, and aggression, making him an excellent Tuttocampista. His ability to contribute to build-up play and press high up the pitch is valuable, but his technical limitations and discipline issues may lead to mistakes in critical areas. A team that values high-intensity pressing and can provide Watt with a clear role and expectations could help him reach his full potential.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `75`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Stamina, Balance, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Balance, and Shielding.
+- Style traits point toward Two Footed, Passing Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, High Press, and Press Resistant.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Pass Range | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Marking | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Physical | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Penalties | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Passing Ability** (style) — severity 5/10
-- **high_press** (tactical) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **flamboyant** (style) — severity 4/10
-- **press_resistant** (tactical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -69,3 +83,23 @@ Watt's archetype as a Heartbeat midfielder is reflected in his strong tactical a
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Passing Ability** (style) — severity 5/10
+- **High Press** (tactical) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+- **Press Resistant** (tactical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

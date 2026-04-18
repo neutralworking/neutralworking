@@ -2,7 +2,7 @@
 title: Fernando Pavia Mamani Luis
 category: players
 tags: [CM, Bolivia]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: None.
@@ -25,22 +25,56 @@ person_id: 28668
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Fernando Pavia Mamani Luis projects primarily as a CM with a `None` lean. The strongest database support comes from Pass Accuracy, Composure, and Close Range.
+
+## Role Fit
+
+- Best-fit role is `Metodista` with model support score `46`.
+- Most bankable strengths show up in Pass Accuracy, Composure, and Close Range.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Composure, and Close Range.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Close Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Discipline | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Long Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Blocking | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Interceptions | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mid Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | ████████░░ 8/10 |
-| Composure | ███████░░░ 7/10 |
-| Close Range | ██████░░░░ 6/10 |
-| Discipline | ██████░░░░ 6/10 |
-| Long Range | ██████░░░░ 6/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Interceptions | █████░░░░░ 5/10 |
-| Mid Range | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Awareness | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Creativity | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Duels | ████░░░░░░ 4/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |

@@ -2,7 +2,7 @@
 title: Guilherme Inácio
 category: players
 tags: [WF, Corinthians, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Corinthians. Archetype: Striker.
@@ -26,25 +26,51 @@ backlinks: [striker, corinthians]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Guilherme Inácio projects primarily as a WF with a `Striker` lean. The strongest database support comes from Close Range, Mid Range, and Pass Accuracy.
+
+## Role Fit
+
+- Best-fit role is `Inverted Winger` with model support score `55`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Close Range, Mid Range, and Pass Accuracy.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Mid Range, and Pass Accuracy.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Mid Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Penalties | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Duels | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████░ 9/10 |
-| Mid Range | ████████░░ 8/10 |
-| Pass Accuracy | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Composure | ███████░░░ 7/10 |
-| Duels | ██████░░░░ 6/10 |
-| Flair | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Take Ons | ██████░░░░ 6/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Vision | █████░░░░░ 5/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +80,10 @@ backlinks: [striker, corinthians]
 - **Pressure (JP)**: 73
 - **Competitiveness**: 6/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

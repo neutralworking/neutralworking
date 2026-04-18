@@ -2,7 +2,7 @@
 title: Dan Nlundulu
 category: players
 tags: [WM, St Mirren, England, Target]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at St Mirren. Archetype: Target.
@@ -26,32 +26,56 @@ backlinks: [target, st-mirren]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Dan Nlundulu projects primarily as a WM with a `Target` lean. The strongest database support comes from Jumping, Physical, and Pace.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Primary archetype leans toward `Target` behaviour from a `WM` base.
+- Most bankable strengths show up in Jumping, Physical, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Pace.
+- Style traits point toward Flamboyant in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Movement | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Pace | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Balance | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Penalties | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Take Ons | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **inconsistent** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -61,3 +85,18 @@ backlinks: [target, st-mirren]
 - **Pressure (JP)**: 40
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Inconsistent** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

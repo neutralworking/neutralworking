@@ -2,7 +2,7 @@
 title: Dylan Pierias
 category: players
 tags: [WM, Adelaide United, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Adelaide United. Archetype: Sprinter.
@@ -26,7 +26,7 @@ backlinks: [sprinter, adelaide-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 
 CountryAustralia
@@ -51,31 +51,46 @@ A throughly modern-day right-back, Pierias made headlines in February this year 
 
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger` with model support score `73`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
+- Most bankable strengths show up in Acceleration, Balance, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Shielding.
+- Style traits point toward Patient, Acceleration, and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████████ 18/10 |
-| Balance | ██████████████████ 18/10 |
-| Shielding | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| Jumping | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| First Touch | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Marking | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Reactions | ██████████ 10/10 |
-| Penalties | █████████░ 9/10 |
-| Volleys | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **patient** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -85,6 +100,22 @@ A throughly modern-day right-back, Pierias made headlines in February this year 
 - **Pressure (JP)**: 47
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Patient** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Serdar Saatçı
 category: players
 tags: [CD, Trabzonspor, Turkey, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Trabzonspor. Archetype: Destroyer.
@@ -26,31 +26,55 @@ backlinks: [destroyer, trabzonspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Serdar Saatçı projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Jumping, Acceleration, and Aggression.
+
+## Role Fit
+
+- Best-fit role is `Sweeper`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Acceleration, and Aggression.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and Aggression.
+- Style traits point toward Strength, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Tackling | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Aggression | ███████████████ 15/10 |
-| Interceptions | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Strength** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [destroyer, trabzonspor]
 - **Pressure (JP)**: 61
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Strength** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

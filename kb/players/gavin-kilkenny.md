@@ -2,7 +2,7 @@
 title: Gavin Kilkenny
 category: players
 tags: [CM, Bournemouth, Ireland, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Bournemouth. Archetype: Powerhouse.
@@ -26,33 +26,54 @@ backlinks: [powerhouse, bournemouth]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Box-to-box midfielder who wants to be progressive but often settles for safe sideways passes; he covers ground and isn't afraid to get stuck in. The issue is that he doesn't have the top-end technical ability or press-resistance to operate at a sustained high level. Functional squad player in a lower-table or Championship context, but out of his depth at the elite end.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Shielding, Balance, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Pass Accuracy.
+- Style traits point toward Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Aggression | █████████████ 13/10 |
-| Awareness | █████████████ 13/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Vision | █████████████ 13/10 |
-| Long Range | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,6 +83,20 @@ Box-to-box midfielder who wants to be progressive but often settles for safe sid
 - **Pressure (JP)**: 46
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

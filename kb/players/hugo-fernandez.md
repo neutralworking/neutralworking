@@ -2,7 +2,7 @@
 title: Hugo Fernandez
 category: players
 tags: [CM, Olimpia, Paraguay]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Olimpia. Archetype: None.
@@ -26,22 +26,56 @@ backlinks: [olimpia]
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Hugo Fernandez projects primarily as a CM with a `None` lean. The strongest database support comes from Threat, Creativity, and Take Ons.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `47`.
+- Most bankable strengths show up in Threat, Creativity, and Take Ons.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Threat, Creativity, and Take Ons.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Take Ons | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Long Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Close Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Discipline | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Threat | ████████░░ 8/10 |
-| Creativity | ███████░░░ 7/10 |
-| Take Ons | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Long Range | ██████░░░░ 6/10 |
-| Close Range | █████░░░░░ 5/10 |
-| Discipline | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Blocking | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |

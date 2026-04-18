@@ -2,7 +2,7 @@
 title: Adil Aouchiche
 category: players
 tags: [CM, Aberdeen, France, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Aberdeen. Archetype: Creator.
@@ -26,37 +26,58 @@ backlinks: [creator, aberdeen]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Left-footed eighth-man with decent ball retention and a tidy short passing range, but lacks the dynamism or press resistance you'd want from a midfielder stepping up a division. Operates best in a structured, possession-dominant setup where he can recycle play in the half-spaces; ask him to break lines or carry the ball through a congested middle and the limitations become apparent. Has the tools for a solid Ligue 2 operator, not much beyond.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `68`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, First Touch, and Movement.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, First Touch, and Movement.
+- Style traits point toward Skill Moves and Trivela in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Heading | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Marking | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Skill Moves** (style) — severity 6/10
-- **Trivela** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +87,20 @@ Left-footed eighth-man with decent ball retention and a tidy short passing range
 - **Pressure (JP)**: 38
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Skill Moves** (style) — severity 6/10
+- **Trivela** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

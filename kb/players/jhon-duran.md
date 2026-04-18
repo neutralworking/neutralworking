@@ -2,7 +2,7 @@
 title: Jhon Durán
 category: players
 tags: [CF, Fenerbahçe, Colombia, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Fenerbahçe. Archetype: Striker-Creator.
@@ -26,7 +26,7 @@ backlinks: [striker, fenerbahce]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubEnvigado
@@ -44,34 +44,54 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
 **October 2023 update** Signed for Aston Villa in an £18m deal at the start of the year, becoming Unai Emery’s back-up striker behind Ollie Watkins following Danny Ings’ departure to West Ham. "He will need to play matches, gain minutes and experiences and confidence," Emery gushed after the 18-year-old scored a late stunner to set Villa on their way to a 3-1 September win over Crystal Palace. "Scoring like he did today, it is coming quick. But the most important thing is his quality, his capacity, his skill, his big potential.” A regular in the Colombia squad, he also scored his first international goal against Japan in March.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `64`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
+- Most bankable strengths show up in Jumping, Acceleration, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and First Touch.
+- Style traits point toward Strength and Finishing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier and Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Carries | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **progressive_carrier** (tactical) — severity 8/10
-- **counter_attack_threat** (tactical) — severity 6/10
-- **Strength** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -81,6 +101,25 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Progressive Carrier** (tactical) — severity 8/10
+- **Counter Attack Threat** (tactical) — severity 6/10
+- **Strength** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Benjamin Šeško
 category: players
 tags: [CF, Manchester United, Slovenia, Striker-Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Manchester United. Archetype: Striker-Engine.
@@ -26,41 +26,54 @@ backlinks: [striker, manchester-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Šeško embodies the Marksman archetype as a Spearhead, combining strong technical ability and tactical understanding with impressive physical attributes, pace, and aerial prowess. His finishing from both close and long range makes him a direct goal threat, particularly suited for counter-attacking scenarios where his direct running can exploit space. However, his overall creativity and guile in intricate attacking play remain limited, and his defensive blocking contribution is minimal. This profile aligns with the traditional target man who can lead the line, using his physical presence and pace to stretch defenses, but with a modern emphasis on strong tactical positioning. At 22 and in his peak, Šeško is a high-value asset for clubs seeking a primary goalscorer who can also be a significant counter-attack threat, offering a clear offensive focal point, though teams relying on his link-up creativity might find him lacking.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Prima Punta` with model support score `85`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Jumping, Pace, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Acceleration.
+- Style traits point toward Direct, Two Footed, and Skill Moves in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████████ 19/10 |
-| Acceleration | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Crossing | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Penalties | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 8/10
-- **direct** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Acrobatic** (style) — severity 5/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -70,3 +83,24 @@ backlinks: [striker, manchester-united]
 - **Pressure (JP)**: 55
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 8/10
+- **Direct** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Acrobatic** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

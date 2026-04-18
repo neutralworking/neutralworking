@@ -2,7 +2,7 @@
 title: N. Ferraresi
 category: players
 tags: [CM, São Paulo, Destroyer-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at São Paulo. Archetype: Destroyer-Creator.
@@ -26,34 +26,54 @@ backlinks: [destroyer, sao-paulo]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 N. Ferraresi, a Warrior archetype and best suited as a Tuttocampista, is a physically and mentally strong midfielder, excelling in defensive duels, tackling, awareness, and vision, demonstrating good composure under pressure. His flamboyant style and high-press trait indicate a player who thrives in competitive, high-intensity environments, but his attacking output is severely hampered by poor shooting across all ranges. This player fits the mould of a ball-winning midfielder who also possesses good passing vision, reminiscent of older-style holding midfielders who were central to both breaking up play and initiating attacks. At 27, Ferraresi represents a valuable, seasoned asset for clubs needing a reliable, physically robust central midfielder to bolster their defensive screen, though his limited attacking range means he would be a poor fit for sides seeking a goal-scoring or highly creative midfield presence.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `77`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Aggression, Duels, and Pass Accuracy.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Duels, and Pass Accuracy.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Duels | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Tackling | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ██████████ 10/10 |
-| Duels | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Tackling | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Intensity | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 7/10
-- **flamboyant** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ N. Ferraresi, a Warrior archetype and best suited as a Tuttocampista, is a physi
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 7/10
+- **Flamboyant** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

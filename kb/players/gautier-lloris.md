@@ -2,7 +2,7 @@
 title: Gautier Lloris
 category: players
 tags: [CD, Le Havre, France, Destroyer-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Le Havre. Archetype: Destroyer-Dribbler.
@@ -26,41 +26,58 @@ backlinks: [destroyer, le-havre]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Solid, no-nonsense defender who understands positioning and rarely gets caught out of shape, though he compensates for declining athleticism with experience rather than elite technique. Good leader by example, but vulnerability to pace and occasional lapses in concentration suggest he's best suited for a defensive-minded setup.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Stopper` with model support score `80`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
+- Most bankable strengths show up in Heading, Jumping, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Jumping, and Reactions.
+- Style traits point toward Defensive Awareness, Strength, and Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Press Resistant.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Long Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Take Ons | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Stamina | ██████████████ 14/10 |
-| Pass Range | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Take Ons | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Crossing | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Acceleration | ████████░░ 8/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Awareness | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **aerial_threat** (physical) — severity 6/10
-- **press_resistant** (tactical) — severity 5/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -70,3 +87,24 @@ Solid, no-nonsense defender who understands positioning and rarely gets caught o
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Press Resistant** (tactical) — severity 5/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

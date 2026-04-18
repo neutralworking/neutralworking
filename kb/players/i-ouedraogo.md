@@ -2,7 +2,7 @@
 title: I. Ouédraogo
 category: players
 tags: [CM, Odense BK, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Odense BK. Archetype: Cover.
@@ -26,35 +26,55 @@ backlinks: [cover, odense-bk]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Ouédraogo bridges warrior and metodista archetypes through blocking discipline and interception timing—his elegant trait suggests technical grace within a defensive frame, uncommon for pure ball-winners. Guile and pass accuracy enable controlled progression; the high-press and build-up markers position him in modern compact systems rather than old-school destroyers. Physical limitations and inability to take on defenders constrain his sphere to positional play and distribution; a club seeking a press-resistant, tactically intelligent destroyer finds value here, but only if pace-driven phases don't demand cover ground quickly.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `75`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Aggression, Blocking, and Flair.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Blocking, and Flair.
+- Style traits point toward Elegant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Tackling | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pass Accuracy | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ████████░░ 8/10 |
-| Blocking | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Tackling | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Take Ons | ███████░░░ 7/10 |
-| Composure | ██████░░░░ 6/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Physical | ██████░░░░ 6/10 |
-| Pressing | ██████░░░░ 6/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **elegant** (style) — severity 7/10
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -64,3 +84,18 @@ Ouédraogo bridges warrior and metodista archetypes through blocking discipline 
 - **Pressure (JP)**: 46
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Elegant** (style) — severity 7/10
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

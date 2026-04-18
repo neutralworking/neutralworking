@@ -2,7 +2,7 @@
 title: Bas Dost
 category: players
 tags: [CF, NEC, Netherlands, Striker]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at NEC. Archetype: Striker.
@@ -26,34 +26,54 @@ backlinks: [striker, nec]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A back-to-the-goal number nine who thrives on service into the box rather than ball progression—his aerial presence and finishing instincts remain sharp at 36, but he's become a passenger in build-up play and lacks the lateral mobility to operate effectively in transition or half-space combinations. His role at NEC is purely functional: occupy centre-backs, win headers, convert chances. That's still useful in the Eredivisie, but he's no longer a starter at this level; more a reliable finisher off the bench or in specific matchups.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Aerial Duels, Heading, and Long Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Aerial Duels, Heading, and Long Range.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Mid Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aerial Duels | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Skills | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ A back-to-the-goal number nine who thrives on service into the box rather than b
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

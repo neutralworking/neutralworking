@@ -2,7 +2,7 @@
 title: Iron Gomis
 category: players
 tags: [CM, Salernitana, France, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Salernitana. Archetype: Cover.
@@ -26,26 +26,55 @@ backlinks: [cover, salernitana]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 French midfielder with typical Ligue 2/Championship athleticism but struggles to adapt his game to Serie A's tactical demands. Energetic but limited in possession-based transitions.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Ball Winner`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Technical, Physical, and Skills.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Technical, Physical, and Skills.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Technical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Physical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Skills | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Tactical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Technical | ███████░░░ 7/10 |
-| Physical | ██████░░░░ 6/10 |
-| Skills | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Mental | ███░░░░░░░ 3/10 |
-| Aggression | ██░░░░░░░░ 2/10 |
-| Intensity | █░░░░░░░░░ 1/10 |
-| Pressing | █░░░░░░░░░ 1/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -55,3 +84,11 @@ French midfielder with typical Ligue 2/Championship athleticism but struggles to
 - **Pressure (JP)**: 46
 - **Competitiveness**: 1/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

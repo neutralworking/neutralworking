@@ -2,7 +2,7 @@
 title: Ibou Touray
 category: players
 tags: [WD, Everton, Gambia, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Everton. Archetype: Powerhouse.
@@ -26,36 +26,54 @@ backlinks: [powerhouse, everton]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Gambian right-back in his early thirties who still offers defensive solidity and a willingness to engage in duels. He's not a modern inverted fullback—his attacking contribution is minimal and he lacks the recovery pace to cover for an aggressive winger. A pure defender for a side content to sit deep, but limited in what he can do beyond his primary role.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Fullback`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
+- Most bankable strengths show up in Stamina, Pace, and Acceleration.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Pace, and Acceleration.
+- Style traits point toward Positioning, Long Range Passing, and Work Rate in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Shielding | ███████████████ 15/10 |
-| Aggression | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Vision | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Positioning** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +83,19 @@ Gambian right-back in his early thirties who still offers defensive solidity and
 - **Pressure (JP)**: 43
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Positioning** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

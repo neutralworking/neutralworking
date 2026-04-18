@@ -2,7 +2,7 @@
 title: Sergio Pellissier
 category: players
 tags: [CF, Chievo Verona, Striker]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Chievo Verona. Archetype: Striker.
@@ -26,30 +26,52 @@ backlinks: [striker, chievo-verona]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Sergio Pellissier projects primarily as a CF with a `Striker` lean. The strongest database support comes from Long Range, Mid Range, and Pace.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Long Range, Mid Range, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Long Range, Mid Range, and Pace.
+- Style traits point toward Dribbler and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| First Touch | ███████████████ 15/10 |
-| Aerial Duels | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Interceptions | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Tackling | ███████████ 11/10 |
-| Skills | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Acceleration | ██████░░░░ 6/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Dribbler** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +81,16 @@ backlinks: [striker, chievo-verona]
 - **Pressure (JP)**: 46
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Dribbler** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

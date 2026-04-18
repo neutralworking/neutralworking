@@ -2,7 +2,7 @@
 title: Maya Yoshida
 category: players
 tags: [CD, Los Angeles Galaxy, Japan, Target]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Los Angeles Galaxy. Archetype: Target.
@@ -26,37 +26,58 @@ backlinks: [target, los-angeles-galaxy]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A cerebral centre-back who understands positioning and spatial awareness intimately, but whose physical decline—reduced lateral quickness and jump height—exposes him against modern vertical pressing and athletic centre-forwards. He can still operate effectively in a low block with strong midfield cover, distributing the ball with precision and organizing shape, yet he's become a liability in transition and when isolated one-on-one. Valuable as a squad mentor and rotation option in a well-drilled back three.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `61`.
+- Primary archetype leans toward `Target` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Heading, and Reactions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Heading, and Reactions.
+- Style traits point toward Two Footed and Aerial Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Penalties | ███████████ 11/10 |
-| Shielding | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Clearances | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
-| Mid Range | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **aerial_threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +87,20 @@ A cerebral centre-back who understands positioning and spatial awareness intimat
 - **Pressure (JP)**: 43
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

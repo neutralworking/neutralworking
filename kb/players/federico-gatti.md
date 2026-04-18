@@ -2,7 +2,7 @@
 title: Federico Gatti
 category: players
 tags: [CD, Juventus, Italy, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Juventus. Archetype: Destroyer-Powerhouse.
@@ -26,39 +26,58 @@ backlinks: [destroyer, juventus]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Italian centre-back who rose from Serie C. Aggressive, aerially dominant. Ball-playing ability improving but still a work in progress.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `81`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Acceleration, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and Pace.
+- Style traits point toward Defensive Awareness, Strength, and Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| First Touch | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Long Range | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
-| Movement | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **durability** (physical) — severity 6/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -68,6 +87,26 @@ Italian centre-back who rose from Serie C. Aggressive, aerially dominant. Ball-p
 - **Pressure (JP)**: 35
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Durability** (physical) — severity 6/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

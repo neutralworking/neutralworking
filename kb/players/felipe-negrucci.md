@@ -2,7 +2,7 @@
 title: Felipe Negrucci
 category: players
 tags: [CM, São Paulo, Striker-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at São Paulo. Archetype: Striker-Cover.
@@ -26,29 +26,54 @@ backlinks: [striker, sao-paulo]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A young central midfielder with strong technical foundation and composure under mid-range pressure, capable of functioning as a tuttocampista in structured environments. His tackling and close-range awareness suggest a ball-winner's foundation, but limited tactical development and absence of take-on craft signal he'll need clearer spatial instructions rather than improvisational freedom. The empathy in his personality hints at leadership potential; clubs seeking a dependable but intellectually constrained midfield anchor should monitor his tactical growth closely.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `67`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Most bankable strengths show up in Close Range, Composure, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Composure, and Pass Accuracy.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Composure | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ██████████ 10/10 |
-| Composure | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Mid Range | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Awareness | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Concentration | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +83,11 @@ A young central midfielder with strong technical foundation and composure under 
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

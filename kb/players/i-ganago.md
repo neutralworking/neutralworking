@@ -1,13 +1,13 @@
 ---
 title: I. Ganago
 category: players
-tags: [CF, New England Revolution, Sprinter-Dribbler]
-updated: 2026-04-14
+tags: [CF, Nantes, Sprinter-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at New England Revolution. Archetype: Sprinter-Dribbler.
+summary: CF at Nantes. Archetype: Sprinter-Dribbler.
 person_id: 21621
-backlinks: [sprinter, new-england-revolution]
+backlinks: [sprinter, nantes]
 ---
 
 # I. Ganago
@@ -17,7 +17,7 @@ backlinks: [sprinter, new-england-revolution]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | New England Revolution |
+| **Club** | Nantes |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
@@ -26,29 +26,52 @@ backlinks: [sprinter, new-england-revolution]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+I. Ganago projects primarily as a CF with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Jumping, and Pace.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Acceleration, Jumping, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Pace.
+- Style traits point toward Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Pass Range | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Interceptions | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +81,15 @@ backlinks: [sprinter, new-england-revolution]
 - **Pressure (JP)**: 44
 - **Competitiveness**: 3/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

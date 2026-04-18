@@ -2,7 +2,7 @@
 title: J. Rasmussen
 category: players
 tags: [CM, Red Bull Salzburg, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Red Bull Salzburg. Archetype: Destroyer.
@@ -26,35 +26,53 @@ backlinks: [destroyer, red-bull-salzburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Rasmussen's Heartbeat archetype is defined by his composure, pass accuracy, and blocking ability, making him a reliable presence in midfield, but his limited technical ability and guile may hinder his ability to contribute to the team's build-up play and create scoring opportunities, suggesting that he would be best utilized in a team that values defensive solidity and counter-attacking flair, with a director of football likely to view him as a dependable, if unremarkable, addition to the squad.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `77`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Blocking, Duels, and Pass Accuracy.
+
+## In Possession
+
+- Ball-value indicators lean on Blocking, Duels, and Pass Accuracy.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Blocking | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Duels | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Blocking | ██████████ 10/10 |
-| Duels | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Pressing | ████████░░ 8/10 |
-| Physical | ███████░░░ 7/10 |
-| Positioning | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **press_resistant** (tactical) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +82,18 @@ Rasmussen's Heartbeat archetype is defined by his composure, pass accuracy, and 
 - **Pressure (JP)**: 59
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Resistant** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

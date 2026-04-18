@@ -2,7 +2,7 @@
 title: J. Lolley
 category: players
 tags: [CF, Sydney FC, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Sydney FC. Archetype: Sprinter-Dribbler.
@@ -26,34 +26,52 @@ backlinks: [sprinter, sydney-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+J. Lolley projects primarily as a CF with a `Sprinter-Dribbler` lean. The strongest database support comes from Balance, Acceleration, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `70`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Acceleration, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Acceleration, and First Touch.
+- Style traits point toward Flamboyant, Close Control, and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Physical | ████████████ 12/10 |
-| Tackling | ███████████ 11/10 |
-| Awareness | ██████████ 10/10 |
-| Heading | █████████░ 9/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 10/10
-- **Close Control** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **direct** (style) — severity 4/10
-- **big_game_player** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -63,3 +81,20 @@ backlinks: [sprinter, sydney-fc]
 - **Pressure (JP)**: 37
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 10/10
+- **Close Control** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Direct** (style) — severity 4/10
+- **Big Game Player** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

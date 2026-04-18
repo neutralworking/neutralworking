@@ -2,7 +2,7 @@
 title: Islam Hawsawi
 category: players
 tags: [WD, Al Wehda, Saudi Arabia, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Al Wehda. Archetype: Cover.
@@ -26,26 +26,55 @@ backlinks: [cover, al-wehda]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Young fullback with encouraging athleticism and a physical presence that suggests he could adapt to higher levels with proper coaching. Positioning is still unpolished and he can be caught cold by crossfield passes or inverted runs, but the raw materials—pace, strength, willingness—are there. Genuine prospect if the development pathway is managed well.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wing-back`.
+- Primary archetype leans toward `Cover` behaviour from a `WD` base.
+- Most bankable strengths show up in Skills, Technical, and Physical.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Skills, Technical, and Physical.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Physical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Tactical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Skills | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Physical | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Aggression | ██░░░░░░░░ 2/10 |
-| Intensity | ██░░░░░░░░ 2/10 |
-| Mental | ██░░░░░░░░ 2/10 |
-| Pressing | ██░░░░░░░░ 2/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -55,3 +84,11 @@ Young fullback with encouraging athleticism and a physical presence that suggest
 - **Pressure (JP)**: 41
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

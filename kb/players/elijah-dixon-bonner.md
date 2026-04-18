@@ -1,0 +1,91 @@
+---
+title: Elijah Dixon-Bonner
+category: players
+tags: [CM, Queens Park Rangers, England, Powerhouse]
+updated: 2026-04-17
+source: compiled
+confidence: high
+summary: CM at Queens Park Rangers. Archetype: Powerhouse.
+person_id: 10554
+backlinks: [powerhouse, queens-park-rangers]
+---
+
+# Elijah Dixon-Bonner
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CM |
+| **Club** | Queens Park Rangers |
+| **Nation** | England |
+| **Age** | 25 |
+| **Archetype** | [[powerhouse]] Powerhouse |
+| **Level** | 77 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+Young midfielder with promising work rate and engine but tactically naive and prone to reckless challenges; still developing—potential is there but currently a squad option at best.
+
+## Role Fit
+
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Shielding, Balance, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Pass Accuracy.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 55
+- **Motivation (SN)**: 42
+- **Social (TF)**: 40
+- **Pressure (JP)**: 47
+- **Competitiveness**: 6/10
+- **Coachability**: 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

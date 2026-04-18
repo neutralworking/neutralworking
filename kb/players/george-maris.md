@@ -2,7 +2,7 @@
 title: George Maris
 category: players
 tags: [CF, Barnsley, England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Barnsley. Archetype: Powerhouse.
@@ -26,34 +26,50 @@ backlinks: [powerhouse, barnsley]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 As a 'Powerhouse' Poacher, George Maris leverages impressive pace, stamina, and shielding to bully defenders and get into dangerous goalscoring positions, making him a handful in and around the box. Yet, his extremely low mental, technical, and tactical grades betray a striker who lacks the footballing intelligence, finesse, and intelligent movement to consistently convert opportunities or link play effectively.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Pace, and Shielding.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Pace, and Shielding.
+- Style traits point toward Long Range Passing and Passing Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Aggression | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Close Range | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Long Range Passing** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +79,17 @@ As a 'Powerhouse' Poacher, George Maris leverages impressive pace, stamina, and 
 - **Pressure (JP)**: 56
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Long Range Passing** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

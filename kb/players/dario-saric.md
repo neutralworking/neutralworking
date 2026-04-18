@@ -1,13 +1,13 @@
 ---
 title: Dario Šarić
 category: players
-tags: [CM, Antalyaspor, Bosnia & Herzegovina, Powerhouse-Dribbler]
-updated: 2026-04-14
+tags: [CM, FK Crvena zvezda, Bosnia & Herzegovina, Powerhouse-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Antalyaspor. Archetype: Powerhouse-Dribbler.
+summary: CM at FK Crvena zvezda. Archetype: Powerhouse-Dribbler.
 person_id: 10025
-backlinks: [powerhouse, antalyaspor]
+backlinks: [powerhouse, fk-crvena-zvezda]
 ---
 
 # Dario Šarić
@@ -17,7 +17,7 @@ backlinks: [powerhouse, antalyaspor]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Antalyaspor |
+| **Club** | FK Crvena zvezda |
 | **Nation** | Bosnia & Herzegovina |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
@@ -26,35 +26,54 @@ backlinks: [powerhouse, antalyaspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Dario Šarić is a dominant Relayeur with a unique blend of physicality and technical ability, allowing him to excel in both defensive and attacking phases. His exceptional stamina and balance make him a tireless worker, but his poor blocking and limited creativity hold him back from being a truly elite midfielder. He can be prone to giving away possession cheaply.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `78`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Stamina, Balance, and First Touch.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Balance, and First Touch.
+- Style traits point toward Trickery, Technical Ability, and Trivela in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Movement | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Penalties | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Dario Šarić is a dominant Relayeur with a unique blend of physicality and tech
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

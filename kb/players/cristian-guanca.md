@@ -2,7 +2,7 @@
 title: Cristian Guanca
 category: players
 tags: [WF, Al-Wahda, Argentina, Striker-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Al-Wahda. Archetype: Striker-Sprinter.
@@ -26,34 +26,50 @@ backlinks: [striker, al-wahda]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Cristian Guanca is a pacey inside forward who excels at making progressive carries down the flank, utilizing his exceptional movement and stamina to beat defenders. However, his technical ability on the ball is a major concern, often struggling to produce quality deliveries or beat opponents in tight spaces. His lack of tackling prowess also makes him a liability in half-spaces, where he frequently gets outmuscled by more physical opponents.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Long Range, Mid Range, and Movement.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Long Range, Mid Range, and Movement.
+- Style traits point toward Trivela and Crossing Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Close Range | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Penalties | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Trivela** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +79,17 @@ Cristian Guanca is a pacey inside forward who excels at making progressive carri
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Trivela** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

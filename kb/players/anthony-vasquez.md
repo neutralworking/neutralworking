@@ -1,12 +1,13 @@
 ---
 title: Anthony Vasquez
 category: players
-tags: [CF, Bolivia]
-updated: 2026-04-14
+tags: [CF, UTC, Bolivia]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at None. Archetype: None.
+summary: CF at UTC. Archetype: None.
 person_id: 29045
+backlinks: [utc]
 ---
 
 # Anthony Vasquez
@@ -16,7 +17,7 @@ person_id: 29045
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | UTC |
 | **Nation** | Bolivia |
 | **Age** | 23 |
 | **Archetype** | [[—]] None |
@@ -25,22 +26,52 @@ person_id: 29045
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Anthony Vasquez projects primarily as a CF with a `None` lean. The strongest database support comes from Discipline, Composure, and Through Balls.
+
+## Role Fit
+
+- Best-fit role is `Falso Nove`.
+- Most bankable strengths show up in Discipline, Composure, and Through Balls.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Discipline, Composure, and Through Balls.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Discipline | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Composure | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Through Balls | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Aggression | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Creativity | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Flair | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Long Range | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Mental | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Discipline | █████░░░░░ 5/10 |
-| Composure | ███░░░░░░░ 3/10 |
-| Through Balls | ███░░░░░░░ 3/10 |
-| Aggression | ██░░░░░░░░ 2/10 |
-| Creativity | ██░░░░░░░░ 2/10 |
-| Flair | ██░░░░░░░░ 2/10 |
-| Long Range | ██░░░░░░░░ 2/10 |
-| Mental | ██░░░░░░░░ 2/10 |
-| Pressing | ██░░░░░░░░ 2/10 |
-| Tactical | ██░░░░░░░░ 2/10 |
-| Take Ons | ██░░░░░░░░ 2/10 |
-| Vision | ██░░░░░░░░ 2/10 |
-| Close Range | █░░░░░░░░░ 1/10 |
-| Duels | █░░░░░░░░░ 1/10 |
-| Mid Range | █░░░░░░░░░ 1/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

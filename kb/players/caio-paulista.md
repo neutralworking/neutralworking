@@ -2,7 +2,7 @@
 title: Caio Paulista
 category: players
 tags: [WM, Destroyer-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at None. Archetype: Destroyer-Striker.
@@ -26,29 +26,49 @@ backlinks: [destroyer]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A tornante archetype built around technical security and defensive solidity rather than build-up play, Paulista's strength lies in one-v-one blocking and composed possession retention in tight spaces. His awareness and take-on ability enable defensive pressing and recovery possession, yet he lacks the guile and wide-angle vision needed for progressive play—close-range finishing and creative passing are genuine gaps. Teams playing a back-three or using inverted fullbacks benefit most from his defensive foundation, but he cannot function as a playmaker or false-9 outlet.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
+- Most bankable strengths show up in Duels, Pass Accuracy, and Aggression.
+
+## In Possession
+
+- Ball-value indicators lean on Duels, Pass Accuracy, and Aggression.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Interceptions | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Duels | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Awareness | ████████░░ 8/10 |
-| Blocking | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Skills | ████████░░ 8/10 |
-| Tackling | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Creativity | ███████░░░ 7/10 |
-| Discipline | ███████░░░ 7/10 |
-| Physical | ███████░░░ 7/10 |
-| Concentration | ██████░░░░ 6/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +78,11 @@ A tornante archetype built around technical security and defensive solidity rath
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Ângelo
 category: players
 tags: [WF, Al-Nassr, Brazil, Sprinter-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Al-Nassr. Archetype: Sprinter-Destroyer.
@@ -26,7 +26,7 @@ backlinks: [sprinter, al-nassr]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubSantos
@@ -42,37 +42,51 @@ The best way to explain how good Ângelo is probably through the stats and recor
 **October 2023 update** Struggled for goals with Santos – scoring only two in the first half of the season – but did enough to catch the attention of Chelsea, who signed him for €15m in August. Will spend the 2023-24 season on loan at Strasbourg, the French club Chelsea bought a majority stake in in June who are managed by Patrick Vieira.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger` with model support score `80`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Acceleration, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Acceleration, and Pace.
+- Style traits point toward Flamboyant, Skill Moves, and Trickery in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat, Availability, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| Pace | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Reactions | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 10/10
-- **Skill Moves** (style) — severity 6/10
-- **durability** (physical) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
-- **patient** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -82,6 +96,28 @@ The best way to explain how good Ângelo is probably through the stats and recor
 - **Pressure (JP)**: 38
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 10/10
+- **Skill Moves** (style) — severity 6/10
+- **Durability** (physical) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
+- **Patient** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

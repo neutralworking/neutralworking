@@ -2,7 +2,7 @@
 title: Williot Swedberg
 category: players
 tags: [CF, Celta Vigo, Sweden, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Celta Vigo. Archetype: Striker-Creator.
@@ -26,37 +26,58 @@ backlinks: [striker, celta-vigo]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Young Swedish striker still learning the demands of La Liga football, with decent physical attributes and reasonable movement in the box. Shows willingness to work defensively and understands spatial awareness for his age. Needs meaningful minutes in a lower league to develop the finishing instinct and tactical maturity required for consistent senior competition at this level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Prima Punta` with model support score `78`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Balance, Acceleration, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Acceleration, and Stamina.
+- Style traits point toward Finishing and Trickery in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Physical | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **counter_attack_threat** (tactical) — severity 5/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -66,6 +87,24 @@ Young Swedish striker still learning the demands of La Liga football, with decen
 - **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Counter Attack Threat** (tactical) — severity 5/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

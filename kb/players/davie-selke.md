@@ -2,7 +2,7 @@
 title: Davie Selke
 category: players
 tags: [CF, Başakşehir, Germany, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Başakşehir. Archetype: Striker.
@@ -26,36 +26,58 @@ backlinks: [striker, basaksehir]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A veteran German striker at the tail end of his career, still capable of pressing and offering a physical presence in the final third, but his movement has dulled and he's now reliant on service rather than creating separation himself. He's a reliable backup at this level — functional in a team setup — but lacks the sharpness or positioning intelligence to lead the line in a genuinely ambitious project. A journeyman's endgame, nothing sinister, just diminishing returns.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `74`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Jumping, Heading, and Physical.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Heading, and Physical.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Heading | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Shielding | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Pass Range | █████████░ 9/10 |
-| Close Range | ████████░░ 8/10 |
-| Crossing | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **counter_attack_threat** (tactical) — severity 8/10
-- **Aerial Ability** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -65,3 +87,19 @@ A veteran German striker at the tail end of his career, still capable of pressin
 - **Pressure (JP)**: 53
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Counter Attack Threat** (tactical) — severity 8/10
+- **Aerial Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

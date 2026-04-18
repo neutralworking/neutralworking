@@ -2,7 +2,7 @@
 title: Daniele De Rossi
 category: players
 tags: [DM, Boca Juniors, Italy, Destroyer-Commander]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Boca Juniors. Archetype: Destroyer-Commander.
@@ -26,7 +26,7 @@ backlinks: [destroyer, boca-juniors]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 CM	Aggressive	Guardian	Destroyer	AS Roma	ITA	A	89.1	
 
@@ -46,33 +46,50 @@ De Rossi has represented Italy at under-19, under-20, under-21 and senior levels
 
 He was part of the 2006 FIFA World Cup-winning squad and has also participated at UEFA Euro 2008, the 2009 FIFA Confederations Cup, the 2010 World Cup, Euro 2012 (finishing in second place), the 2013 FIFA Confederations Cup (finishing in third place) and the 2014 World Cup. De Rossi was named in the Euro 2012 Team of the Tournament for his performances. In 2009, the French sports magazine L'Équipe named De Rossi as the eighth-best midfielder in the world"
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Volante` with model support score `90`.
+- Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
+- Most bankable strengths show up in Heading, Interceptions, and Marking.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Interceptions, and Marking.
+- Style traits point toward Ball Winner, Dribbler, and Ball Progressor in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | █████████████████ 17/10 |
-| Interceptions | ████████████████ 16/10 |
-| Marking | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Mid Range | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Skills | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Aerial Duels | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Ball Winner** (style) — severity 7/10
-- **Dribbler** (style) — severity 7/10
-- **Ball Progressor** (style) — severity 7/10
-- **Aerial Threat** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -82,6 +99,24 @@ He was part of the 2006 FIFA World Cup-winning squad and has also participated a
 - **Pressure (JP)**: 58
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Ball Winner** (style) — severity 7/10
+- **Dribbler** (style) — severity 7/10
+- **Ball Progressor** (style) — severity 7/10
+- **Aerial Threat** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

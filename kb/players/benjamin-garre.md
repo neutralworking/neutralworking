@@ -1,13 +1,13 @@
 ---
 title: Benjamín Garre
 category: players
-tags: [CM, Vasco da Gama, Striker-Creator]
-updated: 2026-04-14
+tags: [CM, Aris Thessaloniki FC, Striker-Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Vasco da Gama. Archetype: Striker-Creator.
+summary: CM at Aris Thessaloniki FC. Archetype: Striker-Creator.
 person_id: 18877
-backlinks: [striker, vasco-da-gama]
+backlinks: [striker, aris-thessaloniki-fc]
 ---
 
 # Benjamín Garre
@@ -17,7 +17,7 @@ backlinks: [striker, vasco-da-gama]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Vasco da Gama |
+| **Club** | Aris Thessaloniki FC |
 | **Nation** | None |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Creator |
@@ -26,7 +26,7 @@ backlinks: [striker, vasco-da-gama]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 CountryArgentina
@@ -50,25 +50,51 @@ Oscar Garré, who was part of the Argentina side who won the World Cup at Mexico
 **September 2022 update** The year 2022 was a breakthrough one for Garré. He left Racing to join Huracán in June and the move has proven to be just what he needed. At Racing he was on the edge of a breakthrough for years, but never quite succeeded. But, now revitalised at Huracán, Garré has been in the starting XI for every single game since making his debut. A key part in Huracán’s strong league form that has turned the team into an outside chance for the Argentinian title,the manager, Diego Dabove, has lavished praise on the youngster. “Apart from being a great player and the quality he has been showing here, we’ve also signed a great person.”
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Most bankable strengths show up in Creativity, Through Balls, and Vision.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Creativity, Through Balls, and Vision.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Carries | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Creativity | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Carries | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Drive | █████░░░░░ 5/10 |
-| Mental | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Communication | ███░░░░░░░ 3/10 |
-| Leadership | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -78,6 +104,15 @@ Oscar Garré, who was part of the Argentina side who won the World Cup at Mexico
 - **Pressure (JP)**: 43
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Christopher Jullien
 category: players
 tags: [CD, Montpellier, France, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Montpellier. Archetype: Destroyer.
@@ -26,36 +26,58 @@ backlinks: [destroyer, montpellier]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 At 32, Jullien is a veteran centre-back who still reads the game well and uses his body intelligently, but his mobility has declined noticeably and he can't recover against pacey strikers in transition. He's a safe pair of hands for set pieces and aerial duels, but asking him to cover space laterally or defend in the half-spaces is a risk. Experience still counts, but he's entering the margins of his usefulness.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Physical, and Heading.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Heading.
+- Style traits point toward Aerial Ability and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Physical | █████████████████ 17/10 |
-| Heading | ████████████████ 16/10 |
-| Aggression | ███████████████ 15/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Aerial Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +87,19 @@ At 32, Jullien is a veteran centre-back who still reads the game well and uses h
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

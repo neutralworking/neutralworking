@@ -2,7 +2,7 @@
 title: Winsley Boteli Mokango
 category: players
 tags: [CF, FC Sion, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at FC Sion. Archetype: Striker.
@@ -26,34 +26,53 @@ backlinks: [striker, fc-sion]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Boteli Mokango, a Marksman best suited as a Poacher, displays strong technical abilities evident in his diverse shooting range from close, mid, and long distance, alongside adept take-ons. His flamboyant and direct style is clear, but limited mental and physical pillars result in weaknesses like composure, vision, and struggles in duels, indicating he can be inconsistent under pressure and less involved in link-up play. He fits the lineage of goal-dependent strikers who prioritize getting into scoring positions and finishing chances over extensive involvement in build-up play, thriving in systems that supply clear-cut opportunities. For a Director of Football, Mokango represents a prospect with high scoring potential for a club that can maximize his technical strengths and provide consistent service, but his limited composure and vision imply a need for robust creative midfielders and a forgiving tactical environment.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Carries, Close Range, and Take Ons.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Carries, Close Range, and Take Ons.
+- Style traits point toward Direct and Flamboyant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Mid Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Threat | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Carries | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Flair | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Threat | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Long Range | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Mental | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 7/10
-- **flamboyant** (style) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -63,3 +82,17 @@ Boteli Mokango, a Marksman best suited as a Poacher, displays strong technical a
 - **Pressure (JP)**: 47
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 7/10
+- **Flamboyant** (style) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

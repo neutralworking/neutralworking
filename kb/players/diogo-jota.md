@@ -2,7 +2,7 @@
 title: Diogo Jota
 category: players
 tags: [CF, Liverpool, Portugal, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Liverpool. Archetype: Striker-Creator.
@@ -26,39 +26,55 @@ backlinks: [striker, liverpool]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Blueprint: Aguero/Fowler
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Movement, and Reactions.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Movement, and Reactions.
+- Style traits point toward Two Footed, Skill Moves, and Pace in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Movement | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aggression | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Close Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Composure | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Movement | ██████████████████ 18/10 |
-| Reactions | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| Aggression | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Close Range | █████████████████ 17/10 |
-| Composure | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Heading | █████████████████ 17/10 |
-| Long Range | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Take Ons | █████████████████ 17/10 |
-| Volleys | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 9/10
-- **Skill Moves** (style) — severity 6/10
-- **Pace** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,6 +84,25 @@ Blueprint: Aguero/Fowler
 - **Pressure (JP)**: 63
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 9/10
+- **Skill Moves** (style) — severity 6/10
+- **Pace** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

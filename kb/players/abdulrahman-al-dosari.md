@@ -2,7 +2,7 @@
 title: Abdulrahman Al Dosari
 category: players
 tags: [CM, OL, Cover-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OL. Archetype: Cover-Striker.
@@ -26,30 +26,56 @@ backlinks: [cover, ol]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Abdulrahman Al Dosari projects primarily as a CM with a `Cover-Striker` lean. The strongest database support comes from Close Range, Communication, and Concentration.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `69`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Close Range, Communication, and Concentration.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Communication, and Concentration.
+- Style traits point toward Elegant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Discipline | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Flair | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Discipline | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Flair | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Skills | ████░░░░░░ 4/10 |
-| Take Ons | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Interceptions | ███░░░░░░░ 3/10 |
-| Mid Range | ███░░░░░░░ 3/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Pressing | ███░░░░░░░ 3/10 |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **elegant** (style) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -59,3 +85,16 @@ backlinks: [cover, ol]
 - **Pressure (JP)**: 46
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Elegant** (style) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

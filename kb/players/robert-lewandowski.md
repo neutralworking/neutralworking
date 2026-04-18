@@ -2,7 +2,7 @@
 title: Robert Lewandowski
 category: players
 tags: [CF, Barcelona, Poland, Engine-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Barcelona. Archetype: Engine-Striker.
@@ -26,46 +26,58 @@ backlinks: [engine, barcelona]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Ageless Polish striker. Positioning, finishing, and movement are still world-class. Pace has gone but the brain compensates.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Prima Punta` with model support score `67`.
+- Primary archetype leans toward `Engine` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
+- Most bankable strengths show up in First Touch, Jumping, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Jumping, and Reactions.
+- Style traits point toward Finishing, Direct, and Two Footed in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat and Progressive Carrier.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat, Availability, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Volleys | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ██████████████████ 18/10 |
-| Jumping | ██████████████████ 18/10 |
-| Reactions | ██████████████████ 18/10 |
-| Shielding | █████████████████ 17/10 |
-| Volleys | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Pass Range | ██████████████ 14/10 |
-| Carries | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
-| Intensity | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 10/10
-- **aerial_threat** (physical) — severity 10/10
-- **availability** (physical) — severity 10/10
-- **Finishing** (style) — severity 8/10
-- **direct** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **progressive_carrier** (tactical) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Close Control** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **durability** (physical) — severity 3/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -75,6 +87,31 @@ Ageless Polish striker. Positioning, finishing, and movement are still world-cla
 - **Pressure (JP)**: 63
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 10/10
+- **Aerial Threat** (physical) — severity 10/10
+- **Availability** (physical) — severity 10/10
+- **Finishing** (style) — severity 8/10
+- **Direct** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Progressive Carrier** (tactical) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Close Control** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Franco Escobar
 category: players
 tags: [CD, Houston Dynamo FC, Argentina, Powerhouse-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Houston Dynamo FC. Archetype: Powerhouse-Destroyer.
@@ -26,37 +26,54 @@ backlinks: [powerhouse, houston-dynamo-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Escobar, a Powerhouse-Destroyer, possesses surprising pace and balance for a centre-back, even showing an unusual aptitude for take-ons and shielding, suggesting a potential for defensive transitioning. Yet, his dire performance in duels means he's often second-best in critical one-on-one situations, while his low blocking and creativity scores confirm he's hardly a robust shot-stopper or a ball-playing defender.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `72`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Acceleration, Balance, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Jumping.
+- Style traits point toward Flamboyant, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
-| Close Range | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 6/10
-- **hot_headed** (behavioral) — severity 6/10
-- **flamboyant** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Escobar, a Powerhouse-Destroyer, possesses surprising pace and balance for a cen
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 6/10
+- **Hot Headed** (behavioral) — severity 6/10
+- **Flamboyant** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

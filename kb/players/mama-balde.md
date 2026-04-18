@@ -2,7 +2,7 @@
 title: Mama Baldé
 category: players
 tags: [WF, Brest, Guinea-Bissau, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Brest. Archetype: Striker.
@@ -26,36 +26,56 @@ backlinks: [striker, brest]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Winger from Guinea-Bissau with intermittent bursts of direct running and enough pace to create chaos, but lacks the consistency or final-ball discipline that separates Ligue 1 contributors from squad depth. Decision-making is erratic; he'll skin a fullback one moment and sky a cross the next. Prospect rather than a finished player in a settled league.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Target Forward` with model support score `65`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Jumping, Pace, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Balance.
+- Style traits point toward Direct and Acceleration in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Heading | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Volleys | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Marking | ██████████ 10/10 |
-| Tackling | ██████████ 10/10 |
-| Interceptions | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **direct** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -65,3 +85,19 @@ Winger from Guinea-Bissau with intermittent bursts of direct running and enough 
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Direct** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Federico Fazio
 category: players
 tags: [CD, Salernitana, Argentina, Destroyer-Target]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Salernitana. Archetype: Destroyer-Target.
@@ -26,34 +26,58 @@ backlinks: [destroyer, salernitana]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Aging Argentine center-back (38) relying on experience and positional smarts, but immobile against quicker forwards. Crisis option rather than sustainable solution for a relegation-battling defense.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Interceptions, Marking, and Tackling.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Interceptions, Marking, and Tackling.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Interceptions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Marking | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Tackling | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Interceptions | █████████████████ 17/10 |
-| Marking | █████████████████ 17/10 |
-| Tackling | █████████████████ 17/10 |
-| Aerial Duels | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| First Touch | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Skills | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
-| Long Range | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Volleys | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +87,17 @@ Aging Argentine center-back (38) relying on experience and positional smarts, bu
 - **Pressure (JP)**: 66
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

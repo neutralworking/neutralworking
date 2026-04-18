@@ -2,7 +2,7 @@
 title: Gonzalo García
 category: players
 tags: [WF, Real Madrid, Spain, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Real Madrid. Archetype: Striker.
@@ -26,29 +26,50 @@ backlinks: [striker, real-madrid]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Wide forward with directness and willingness to take defenders on, but inconsistent end product and defensive workrate limit his impact. Squad player type rather than consistent starter material.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Target Forward` with model support score `71`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Close Range, Mid Range, and Composure.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Mid Range, and Composure.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Penalties | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Pass Accuracy | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Long Range | ███████░░░ 7/10 |
-| Stamina | ███████░░░ 7/10 |
-| Tempo | ███████░░░ 7/10 |
-| Threat | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Anticipation | ██████░░░░ 6/10 |
-| Communication | ██████░░░░ 6/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +79,11 @@ Wide forward with directness and willingness to take defenders on, but inconsist
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

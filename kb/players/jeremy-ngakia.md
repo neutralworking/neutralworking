@@ -2,7 +2,7 @@
 title: Jeremy Ngakia
 category: players
 tags: [WD, Watford, England, Powerhouse-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Watford. Archetype: Powerhouse-Cover.
@@ -26,36 +26,54 @@ backlinks: [powerhouse, watford]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Pacey English right-winger with useful dribbling ability but inconsistent decision-making and finishing; decent squad option in lower-tier clubs but lacks the end product or consistency for regular top-flight football.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `74`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Acceleration, Shielding, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Shielding, and Jumping.
+- Style traits point toward Flamboyant, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Pass Range | ███████████ 11/10 |
-| Movement | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 10/10
-- **high_press** (tactical) — severity 7/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -65,3 +83,19 @@ Pacey English right-winger with useful dribbling ability but inconsistent decisi
 - **Pressure (JP)**: 54
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 10/10
+- **High Press** (tactical) — severity 7/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

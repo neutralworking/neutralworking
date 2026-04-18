@@ -2,7 +2,7 @@
 title: Jeffrey de Lange
 category: players
 tags: [GK, Marseille, Netherlands, GK]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Marseille. Archetype: GK.
@@ -26,30 +26,55 @@ backlinks: [gk, marseille]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A backup goalkeeper getting rare minutes, decent shot-stopper but without the positional intelligence or distribution range to merit serious consideration at this level. He's a competent reserve who could hold a lower-division side, but there's nothing here suggesting he'll ever push into genuine contention at Ligue 1 standard.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Acceleration, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Acceleration, and Jumping.
+- Style traits point toward Two Footed, Far Throw, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Physical | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Technical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Jumping | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Physical | ██████████ 10/10 |
-| Pass Range | ████████░░ 8/10 |
-| Technical | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Stamina | █████░░░░░ 5/10 |
-| Aggression | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Far Throw** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +84,18 @@ A backup goalkeeper getting rare minutes, decent shot-stopper but without the po
 - **Pressure (JP)**: 12
 - **Competitiveness**: 2/10
 - **Coachability**: 7/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Far Throw** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 10 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

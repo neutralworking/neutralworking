@@ -2,7 +2,7 @@
 title: Kai Havertz
 category: players
 tags: [CF, Arsenal, Germany, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Arsenal. Archetype: Striker-Creator.
@@ -26,41 +26,54 @@ backlinks: [striker, arsenal]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Havertz's movement and close-range finishing are major strengths, but his limited mental pillar and weaknesses in aerial duels make him a better fit as a Falso Nove, dropping deep to create space and exploit his technical abilities, with a peak-aged Havertz offering significant value to a top club looking for a versatile attacking threat.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove` with model support score `89`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Creativity, First Touch, and Flair.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Creativity, First Touch, and Flair.
+- Style traits point toward Two Footed, Skill Moves, and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Flair | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Heading | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Accuracy | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Penalties | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Creativity | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Flair | █████████████████ 17/10 |
-| Heading | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Movement | █████████████████ 17/10 |
-| Pass Accuracy | █████████████████ 17/10 |
-| Penalties | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Threat | █████████████████ 17/10 |
-| Vision | █████████████████ 17/10 |
-| Anticipation | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| Decisions | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **Close Control** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -70,6 +83,28 @@ Havertz's movement and close-range finishing are major strengths, but his limite
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Close Control** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

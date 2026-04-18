@@ -2,7 +2,7 @@
 title: Ester Sokler
 category: players
 tags: [CF, Aberdeen, Slovenia, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Aberdeen. Archetype: Sprinter.
@@ -26,37 +26,54 @@ backlinks: [sprinter, aberdeen]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A forward operating at a level where physical attributes and willingness to work count more than technical subtlety; shows reasonable movement in the box and aggression in pressing, but lacks the close control or spatial intelligence to create space in congested areas. A hard worker whose output depends heavily on service quality.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `65`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Acceleration, Jumping, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Pace.
+- Style traits point toward Flamboyant, Two Footed, and Acrobatic in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Balance | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Pass Range | ██████████ 10/10 |
-| Crossing | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Close Range | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 8/10
-- **flamboyant** (style) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Acrobatic** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -66,3 +83,20 @@ A forward operating at a level where physical attributes and willingness to work
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 8/10
+- **Flamboyant** (style) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Acrobatic** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

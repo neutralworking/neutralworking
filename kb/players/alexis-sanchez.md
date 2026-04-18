@@ -2,7 +2,7 @@
 title: Alexis Sánchez
 category: players
 tags: [WF, Sevilla, Chile, Creator-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Sevilla. Archetype: Creator-Striker.
@@ -26,7 +26,7 @@ backlinks: [creator, sevilla]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 
 WF Relentless	Creator	Thunder	Barcelona, Arsenal	CHI	B	83.6	Sánchez is a quick, creative, and hardworking player with an eye for goal, who is known in particuar for his energy, skill, and work-rate on the pitch.
@@ -42,33 +42,50 @@ Sánchez signed for Arsenal in July 2014 for a fee reported to be around £35 mi
 #10, #11, #9, #active, #chi, #football, #player
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `71`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Acceleration, First Touch, and Pass Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Pass Range.
+- Style traits point toward Pace and Acceleration in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████████ 18/10 |
-| First Touch | ██████████████████ 18/10 |
-| Pass Range | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Aerial Duels | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Awareness | ██████████ 10/10 |
-| Carries | ██████████ 10/10 |
-| Intensity | ██████████ 10/10 |
-| Composure | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **aerial_threat** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -78,3 +95,20 @@ Sánchez signed for Arsenal in July 2014 for a fee reported to be around £35 mi
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Threat** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -1,13 +1,13 @@
 ---
 title: J. Rodríguez
 category: players
-tags: [CM, FC Juárez, Creator-Striker]
-updated: 2026-04-14
+tags: [CM, Cagliari, Creator-Striker]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at FC Juárez. Archetype: Creator-Striker.
+summary: CM at Cagliari. Archetype: Creator-Striker.
 person_id: 21354
-backlinks: [creator, fc-juarez]
+backlinks: [creator, cagliari]
 ---
 
 # J. Rodríguez
@@ -17,7 +17,7 @@ backlinks: [creator, fc-juarez]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | FC Juárez |
+| **Club** | Cagliari |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[creator]] Creator-Striker |
@@ -26,31 +26,55 @@ backlinks: [creator, fc-juarez]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+J. Rodríguez projects primarily as a CM with a `Creator-Striker` lean. The strongest database support comes from Threat, Creativity, and Through Balls.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `72`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Threat, Creativity, and Through Balls.
+
+## In Possession
+
+- Ball-value indicators lean on Threat, Creativity, and Through Balls.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Threat | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Intensity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Take Ons | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Threat | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Discipline | ███████░░░ 7/10 |
-| Flair | ███████░░░ 7/10 |
-| Intensity | ███████░░░ 7/10 |
-| Take Ons | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Long Range | ██████░░░░ 6/10 |
-| Mid Range | ██████░░░░ 6/10 |
-| Mental | █████░░░░░ 5/10 |
-| Skills | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Close Range | ████░░░░░░ 4/10 |
-| Composure | ████░░░░░░ 4/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [creator, fc-juarez]
 - **Pressure (JP)**: 39
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

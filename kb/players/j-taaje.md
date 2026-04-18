@@ -2,7 +2,7 @@
 title: J. Taaje
 category: players
 tags: [CM, OM, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OM. Archetype: Destroyer-Powerhouse.
@@ -26,35 +26,55 @@ backlinks: [destroyer, om]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Taaje's Destroyer-Powerhouse archetype and Tuttocampista role suggest a player who excels in winning the ball back and using his physicality to overpower opponents, but his limited technical ability and creativity hold him back from being a more influential player. His jumping, heading, and stamina make him a strong target for long balls and set pieces, but he may struggle with more technical and possession-based opponents. A team that values directness and physicality in their midfield play could be a good fit for him.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Jumping, Stamina, and Pace.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Pace.
+- Style traits point toward Aerial Ability, Strength, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pass Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Stamina | ██████████████ 14/10 |
-| Pace | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Balance | ██████████ 10/10 |
-| Blocking | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Shielding | ████████░░ 8/10 |
-| Aerial Duels | ███████░░░ 7/10 |
-| Awareness | ███████░░░ 7/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +84,18 @@ Taaje's Destroyer-Powerhouse archetype and Tuttocampista role suggest a player w
 - **Pressure (JP)**: 65
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Gianluigi Buffon
 category: players
 tags: [GK, Parma, Italy, GK-Commander]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Parma. Archetype: GK-Commander.
@@ -26,37 +26,57 @@ backlinks: [gk, parma]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 GK	Enthusiastic	Shotstopper	Superman	Parma, Juventus	ITA	A	87.8		Gigi Buffon is the greatest goalkeeper in the World in the 2000s and is considered by many journalists in www.channel4.com as the greatest goalkeeper ever in history of Italian series A even above the great legend like Dino Zoff. He is also the only goalkeeper to win UEFA club footballer of the Year. Buffon has gotten very good shape for being goalkeeper, very agile, perfectly reading the game and becoming one of the most consistency keepers ever. He unbelievably became the long-period first choice GK of Parma at 1996 which he was just 17 year olds. He still holds the most expensive goalkeeper record for moving to Juventus. He had to play in Italian Series B one season because of  punishment to Juventus for match fix scandal. In world cup 2006, He kept consecutive five matches clean sheets in addition to 453 minute scoreless. Buffon has made 18 consecutive years of international appearances and holds the record all-time most caps for Italy. He is named in UEFA team of the year only three times. He has made around 350 clean sheets in first-level matches of all competitions or 42 % approximately. Buffon is also all-time most caps player for Italy.	A vocal organizer of the defence and a key dressing room personality
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Torwart` with model support score `94`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Tactical fit is strongest when the game asks for Brick Wall and Captain Leader.
+- Most bankable strengths show up in Close Range, Positioning, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Positioning, and Reactions.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Brick Wall and Captain Leader.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Positioning | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Communication | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Leadership | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████████████ 17/10 |
-| Positioning | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Pass Range | █████████████ 13/10 |
-| Pace | ███████████ 11/10 |
-| Communication | ████████░░ 8/10 |
-| Leadership | ████████░░ 8/10 |
-| Mental | █████░░░░░ 5/10 |
-| Physical | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Awareness | ███░░░░░░░ 3/10 |
-| Intensity | ███░░░░░░░ 3/10 |
-| Carries | ██░░░░░░░░ 2/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **brick_wall** (tactical) — severity 7/10
-- **big_game_player** (behavioral) — severity 7/10
-- **captain_leader** (tactical) — severity 7/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -66,6 +86,24 @@ GK	Enthusiastic	Shotstopper	Superman	Parma, Juventus	ITA	A	87.8		Gigi Buffon is 
 - **Pressure (JP)**: 78
 - **Competitiveness**: 2/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Brick Wall** (tactical) — severity 7/10
+- **Big Game Player** (behavioral) — severity 7/10
+- **Captain Leader** (tactical) — severity 7/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

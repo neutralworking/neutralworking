@@ -2,7 +2,7 @@
 title: E. Ayaosi
 category: players
 tags: [WF, MFK Karviná, Creator-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at MFK Karviná. Archetype: Creator-Striker.
@@ -26,33 +26,51 @@ backlinks: [creator, mfk-karvina]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 E. Ayaosi is a Virtuoso archetype, best utilized as an Inventor, whose strong technical and mental pillars translate into exceptional guile, creativity, vision, and take-ons, often showcasing a flamboyant style. While excellent at sparking attacks, his contributions from long-range are minimal, his pass accuracy can be inconsistent, and disciplinary concerns are present. This profile evokes the classic wide playmaker who creates chaos and openings through individual brilliance, a stylistic choice for teams that value spontaneity in the final third. From MFK Karviná, Ayaosi represents a high-upside, if somewhat inconsistent, option for a club looking to add a creative, inventive presence, provided they can accommodate his limitations and manage his discipline.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger` with model support score `69`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Take Ons, Creativity, and Flair.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Take Ons, Creativity, and Flair.
+- Style traits point toward Flamboyant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Take Ons | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Take Ons | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Skills | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Close Range | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Mid Range | ██████░░░░ 6/10 |
-| Penalties | ██████░░░░ 6/10 |
-| Physical | ██████░░░░ 6/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 10/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +80,16 @@ E. Ayaosi is a Virtuoso archetype, best utilized as an Inventor, whose strong te
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 10/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

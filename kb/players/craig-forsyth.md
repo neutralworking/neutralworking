@@ -2,7 +2,7 @@
 title: Craig Forsyth
 category: players
 tags: [WD, Derby County, Scotland, Powerhouse-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Derby County. Archetype: Powerhouse-Cover.
@@ -26,30 +26,55 @@ backlinks: [powerhouse, derby-county]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Craig Forsyth projects primarily as a WD with a `Powerhouse-Cover` lean. The strongest database support comes from Heading, Crossing, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Corner Back` with model support score `72`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
+- Most bankable strengths show up in Heading, Crossing, and First Touch.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Crossing, and First Touch.
+- Style traits point toward Anticipation and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Mid Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Mid Range | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
-| Vision | ████████████ 12/10 |
-| Close Range | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Anticipation** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [powerhouse, derby-county]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Anticipation** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

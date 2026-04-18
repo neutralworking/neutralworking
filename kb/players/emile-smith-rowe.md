@@ -2,7 +2,7 @@
 title: Emile Smith Rowe
 category: players
 tags: [CM, Fulham, England, Dribbler-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Fulham. Archetype: Dribbler-Cover.
@@ -26,40 +26,58 @@ backlinks: [dribbler, fulham]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 An intelligent, left-footed number eight who finds space in the half-spaces through natural positioning rather than explosive movement, then uses those pockets to drive progressive carries or thread passes into deeper areas. His press is disciplined, his retention under pressure is genuine, and his ability to break lines keeps opposing midfields honest. However, he lacks the explosive athleticism to dominate possession-based pressing phases, and his offensive contribution remains limited to the occasional chance-creation rather than goal-scoring threat.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `79`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Balance, Acceleration, and Crossing.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Acceleration, and Crossing.
+- Style traits point toward Two Footed, Skill Moves, and Finishing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Pass Range | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Composure | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **positional_discipline** (tactical) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -69,6 +87,27 @@ An intelligent, left-footed number eight who finds space in the half-spaces thro
 - **Pressure (JP)**: 42
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Positional Discipline** (tactical) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

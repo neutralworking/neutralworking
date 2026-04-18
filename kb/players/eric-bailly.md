@@ -2,7 +2,7 @@
 title: Eric Bailly
 category: players
 tags: [CD, Real Oviedo, Côte d’Ivoire, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Real Oviedo. Archetype: Cover.
@@ -26,37 +26,58 @@ backlinks: [cover, real-oviedo]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Veteran Ivorian centre-back with bundles of athleticism and an aggressive streak that generates mistakes as often as match-winners; his recovery pace masks poor reading of the game, and at 31 he's in natural decline. Still a capable defender for a struggling side but increasingly unreliable at this level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `78`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Physical, Jumping, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Pace.
+- Style traits point toward Tackling Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | █████████████████ 17/10 |
-| Jumping | ████████████████ 16/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Long Range | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Mid Range | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Movement | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **aerial_threat** (physical) — severity 6/10
-- **Tackling Ability** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -66,3 +87,20 @@ Veteran Ivorian centre-back with bundles of athleticism and an aggressive streak
 - **Pressure (JP)**: 35
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Tackling Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

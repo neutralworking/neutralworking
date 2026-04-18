@@ -1,0 +1,73 @@
+---
+title: Cara Bösl
+category: players
+tags: [GK, Eintracht Frankfurt Women, Germany, GK]
+updated: 2026-04-18
+source: compiled
+confidence: low
+summary: GK at Eintracht Frankfurt Women. Archetype: GK.
+person_id: 9356
+backlinks: [gk, eintracht-frankfurt-women]
+---
+
+# Cara Bösl
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | GK |
+| **Club** | Eintracht Frankfurt Women |
+| **Nation** | Germany |
+| **Age** | 29 |
+| **Archetype** | [[gk]] GK |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+A shot-stopper of genuine competence with sharp reflexes and an organised approach to her line. Bösl's weakness is her distribution—she can look uncertain playing out from the back and occasionally hesitates on crosses, which limits her in Frankfurt's possession-dominant phases. At 29, she's a solid, professional goalkeeper for a European club, but not one who will drive play through intelligent sweeping or ballplaying.
+
+## Role Fit
+
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 56
+- **Social (TF)**: 45
+- **Pressure (JP)**: 56
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

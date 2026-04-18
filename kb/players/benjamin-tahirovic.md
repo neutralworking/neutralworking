@@ -2,7 +2,7 @@
 title: Benjamin Tahirović
 category: players
 tags: [DM, Ajax, Bosnia & Herzegovina, Dribbler-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Ajax. Archetype: Dribbler-Destroyer.
@@ -26,34 +26,54 @@ backlinks: [dribbler, ajax]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Defensive midfielder with decent work rate and a solid understanding of how to shield the back four in a low block. Tidy passer in tight spaces and shows composure under mild pressure. Lacks the range and penetrative vision to progress play consistently, and his positioning can be passive when the opposition controls tempo.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Regista` with model support score `67`.
+- Primary archetype leans toward `Dribbler` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in First Touch, Pass Range, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Pass Range, and Stamina.
+- Style traits point toward Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Marking | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Movement | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ Defensive midfielder with decent work rate and a solid understanding of how to s
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

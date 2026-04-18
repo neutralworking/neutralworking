@@ -1,13 +1,13 @@
 ---
 title: Myles Peart-Harris
 category: players
-tags: [WM, Oxford United, Creator-Sprinter]
-updated: 2026-04-14
+tags: [WM, Brentford, Creator-Sprinter]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WM at Oxford United. Archetype: Creator-Sprinter.
+summary: WM at Brentford. Archetype: Creator-Sprinter.
 person_id: 19374
-backlinks: [creator, oxford-united]
+backlinks: [creator, brentford]
 ---
 
 # Myles Peart-Harris
@@ -17,7 +17,7 @@ backlinks: [creator, oxford-united]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | Oxford United |
+| **Club** | Brentford |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[creator]] Creator-Sprinter |
@@ -26,35 +26,53 @@ backlinks: [creator, oxford-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A left-sided prospect with genuine pace and directness in the final third, but operating in that awkward developmental limbo where senior consistency hasn't arrived yet. He'll beat a man and create something, but the decision-making remains loose and the defensive positioning is still a work in progress. Brentford's model demands intelligence in possession from their wide players; he's still learning that language.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `False Winger` with model support score `63`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Stamina, Jumping, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Jumping, and Acceleration.
+- Style traits point toward Press Proven in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Penalties | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Marking | ██████████ 10/10 |
-| Volleys | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Press Proven** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +82,18 @@ A left-sided prospect with genuine pace and directness in the final third, but o
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Press Proven** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

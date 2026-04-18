@@ -2,7 +2,7 @@
 title: Davide Bettella
 category: players
 tags: [CD, Monza, Italy, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Monza. Archetype: Destroyer.
@@ -26,36 +26,58 @@ backlinks: [destroyer, monza]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Functional centre-back who doesn't offer much beyond competence—he's reasonably solid in a defensive line but contributes almost nothing to ball progression or defensive organization beyond basic positioning. Squad depth, nothing more.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Tackling, Aggression, and Awareness.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Tackling, Aggression, and Awareness.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Tackling | ██████████████ 14/10 |
-| Aggression | █████████████ 13/10 |
-| Awareness | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Composure | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| First Touch | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +87,19 @@ Functional centre-back who doesn't offer much beyond competence—he's reasonabl
 - **Pressure (JP)**: 60
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

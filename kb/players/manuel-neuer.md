@@ -2,7 +2,7 @@
 title: Manuel Neuer
 category: players
 tags: [GK, Bayern Munich, Germany, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Bayern Munich. Archetype: GK.
@@ -26,39 +26,59 @@ backlinks: [gk, bayern-munich]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 The greatest sweeper-keeper ever. Reflexes still sharp, commands the box, distribution is world-class. Age is catching up but experience compensates.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor` with model support score `74`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Close Range, Pass Range, and Reactions.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Pass Range, and Reactions.
+- Style traits point toward Passing Ability, Two Footed, and Far Throw in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pass Range | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Positioning | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pace | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Stamina | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ██████████████████ 18/10 |
-| Pass Range | ██████████████████ 18/10 |
-| Reactions | █████████████████ 17/10 |
-| Positioning | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
-| Stamina | █████████░ 9/10 |
-| Concentration | ████████░░ 8/10 |
-| Drive | ████████░░ 8/10 |
-| Pass Accuracy | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **quiet_leader** (behavioral) — severity 8/10
-- **Passing Ability** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Far Throw** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,6 +88,26 @@ The greatest sweeper-keeper ever. Reflexes still sharp, commands the box, distri
 - **Pressure (JP)**: 42
 - **Competitiveness**: 2/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Quiet Leader** (behavioral) — severity 8/10
+- **Passing Ability** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Far Throw** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

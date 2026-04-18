@@ -2,7 +2,7 @@
 title: Kevin Rodríguez
 category: players
 tags: [CF, Ecuador]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at None. Archetype: None.
@@ -25,16 +25,56 @@ person_id: 28124
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Kevin Rodríguez projects primarily as a CF with a `None` lean. The strongest database support comes from Flair, Skills, and Mental.
+
+## Role Fit
+
+- Best-fit role is `Falso Nove`.
+- Most bankable strengths show up in Flair, Skills, and Mental.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Flair, Skills, and Mental.
+- Style traits point toward Skill Moves and Trickery in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Flair | ████████░░ 8/10 |
-| Skills | ███████░░░ 7/10 |
-| Mental | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
 
 - **Skill Moves** (style) — severity 6/10
 - **Trickery** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |

@@ -2,7 +2,7 @@
 title: Álex Grimaldo
 category: players
 tags: [WD, Bayer Leverkusen, Spain, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Bayer Leverkusen. Archetype: Creator-Dribbler.
@@ -26,37 +26,54 @@ backlinks: [creator, bayer-leverkusen]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Spanish left-back with a wand of a left foot. Set-piece specialist, delivers quality crosses, scores free kicks. Defensive work improved.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Invertido` with model support score `82`.
+- Primary archetype leans toward `Creator` behaviour from a `WD` base.
+- Most bankable strengths show up in Crossing, Balance, and First Touch.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Crossing, Balance, and First Touch.
+- Style traits point toward Crossing Ability, Skill Moves, and Patient in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Crossing | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Take Ons | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Crossing | ███████████████████ 19/10 |
-| Balance | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Pass Range | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Take Ons | █████████████████ 17/10 |
-| Movement | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Physical | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Penalties | ███████████ 11/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Crossing Ability** (style) — severity 8/10
-- **Skill Moves** (style) — severity 6/10
-- **patient** (style) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Spanish left-back with a wand of a left foot. Set-piece specialist, delivers qua
 - **Pressure (JP)**: 42
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Crossing Ability** (style) — severity 8/10
+- **Skill Moves** (style) — severity 6/10
+- **Patient** (style) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

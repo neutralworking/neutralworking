@@ -2,7 +2,7 @@
 title: Fabio Chiarodia
 category: players
 tags: [CD, Borussia Mönchengladbach, Italy, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Borussia Mönchengladbach. Archetype: Cover.
@@ -26,34 +26,54 @@ backlinks: [cover, borussia-monchengladbach]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A left-sided centre-back with genuine technical quality and composure in possession—he'll progress the ball into the half-space with conviction and isn't afraid of the ball at his feet. At 20, he's still learning the positional discipline required to defend transitions cleanly, and his physical profile (a touch lean) occasionally shows when dealing with direct, aggressive forward play. He's a prospect with real upside, but not yet a finished article at Bundesliga level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Balance, Jumping, and Physical.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Jumping, and Physical.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Composure | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ A left-sided centre-back with genuine technical quality and composure in possess
 - **Pressure (JP)**: 65
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

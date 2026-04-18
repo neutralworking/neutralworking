@@ -2,7 +2,7 @@
 title: Jude Bellingham
 category: players
 tags: [AM, Real Madrid, England, Engine-Commander]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Real Madrid. Archetype: Engine-Commander.
@@ -26,48 +26,58 @@ backlinks: [engine, real-madrid]
 | **Pursuit** | Pass |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Generational talent. Combines physical dynamism with technical excellence and elite mentality. Goals, assists, pressing, defending — does everything. Already a Ballon d'Or contender at 22. England talisman. Not acquirable — Real Madrid long-term project.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Mediapunta` with model support score `89`.
+- Primary archetype leans toward `Engine` behaviour from a `AM` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
+- Most bankable strengths show up in Reactions, Anticipation, and Composure.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Anticipation, and Composure.
+- Style traits point toward Flamboyant, Work Rate, and Two Footed in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier, Build Up Contributor, and High Press.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Anticipation | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Composure | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Decisions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Tempo | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Creativity | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Flair | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████████ 18/10 |
-| Anticipation | █████████████████ 17/10 |
-| Composure | █████████████████ 17/10 |
-| Decisions | █████████████████ 17/10 |
-| Tempo | █████████████████ 17/10 |
-| Close Range | ████████████████ 16/10 |
-| Creativity | ████████████████ 16/10 |
-| Flair | ████████████████ 16/10 |
-| Threat | ████████████████ 16/10 |
-| Vision | ████████████████ 16/10 |
-| Awareness | ███████████████ 15/10 |
-| Carries | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Intensity | ███████████████ 15/10 |
-| Mid Range | ███████████████ 15/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **aerial_threat** (physical) — severity 10/10
-- **flamboyant** (style) — severity 8/10
-- **Work Rate** (style) — severity 8/10
-- **progressive_carrier** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **patient** (style) — severity 6/10
-- **high_press** (tactical) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **press_resistant** (tactical) — severity 5/10
-- **durability** (physical) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -77,6 +87,31 @@ Generational talent. Combines physical dynamism with technical excellence and el
 - **Pressure (JP)**: 54
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Threat** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 8/10
+- **Work Rate** (style) — severity 8/10
+- **Progressive Carrier** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Patient** (style) — severity 6/10
+- **High Press** (tactical) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 16 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

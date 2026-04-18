@@ -2,7 +2,7 @@
 title: A. Cuello
 category: players
 tags: [WF, Sportivo San Lorenzo, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Sportivo San Lorenzo. Archetype: Sprinter-Dribbler.
@@ -26,31 +26,53 @@ backlinks: [sprinter, sportivo-san-lorenzo]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+A. Cuello projects primarily as a WF with a `Sprinter-Dribbler` lean. The strongest database support comes from Balance, Shielding, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Winger` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Shielding, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and First Touch.
+- Style traits point toward Direct, Pace, and Acceleration in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Crossing | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| First Touch | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
-| Pass Range | █████████░ 9/10 |
-| Physical | ████████░░ 8/10 |
-| Carries | ██████░░░░ 6/10 |
-| Pace | ██████░░░░ 6/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 4/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +82,17 @@ backlinks: [sprinter, sportivo-san-lorenzo]
 - **Pressure (JP)**: 46
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 4/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

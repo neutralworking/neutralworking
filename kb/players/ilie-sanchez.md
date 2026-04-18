@@ -2,7 +2,7 @@
 title: Ilie Sánchez
 category: players
 tags: [CM, Elche CF, Spain, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Elche CF. Archetype: Powerhouse.
@@ -26,35 +26,54 @@ backlinks: [powerhouse, elche-cf]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Spanish midfielder now 35 years old who still moves the ball with purpose in short passing sequences, but his mobility is shot and he can't contribute defensively or cover ground in transition. He's a relic of Elche's past rather than a current solution, and any minutes he receives are purely down to squad depletion. Emergency squad filler only.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Stamina, First Touch, and Reactions.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, First Touch, and Reactions.
+- Style traits point toward Passing Ability, Long Range Passing, and Press Proven in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| First Touch | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Aggression | ██████████████ 14/10 |
-| Awareness | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Passing Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Press Proven** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Spanish midfielder now 35 years old who still moves the ball with purpose in sho
 - **Pressure (JP)**: 53
 - **Competitiveness**: 8/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Passing Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: A. Bareiro
 category: players
 tags: [CF, Fortaleza, Powerhouse-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Fortaleza. Archetype: Powerhouse-Dribbler.
@@ -26,38 +26,52 @@ backlinks: [powerhouse, fortaleza]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Bareiro's archetype as a Marksman is well-suited to his strengths as a physical, hard-working forward who excels at shielding and making intelligent movements. However, his limited tactical awareness and creativity can make him a predictable opponent. As a Complete Forward, Bareiro can use his jumping ability and stamina to dominate aerial battles and press defenders, but will need to work on his discipline and vision to become a more well-rounded attacker. A team looking for a physical presence up front could benefit from Bareiro's abilities.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `70`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Physical, and Shielding.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Shielding.
+- Style traits point toward Direct, Work Rate, and Strength in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Movement | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Close Range | ██████████ 10/10 |
-| Mid Range | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 10/10
-- **direct** (style) — severity 6/10
-- **Work Rate** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -67,3 +81,21 @@ Bareiro's archetype as a Marksman is well-suited to his strengths as a physical,
 - **Pressure (JP)**: 55
 - **Competitiveness**: 6/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 10/10
+- **Direct** (style) — severity 6/10
+- **Work Rate** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

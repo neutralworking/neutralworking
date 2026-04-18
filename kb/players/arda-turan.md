@@ -2,7 +2,7 @@
 title: Arda Turan
 category: players
 tags: [WM, Galatasaray, Turkey, Dribbler]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at Galatasaray. Archetype: Dribbler.
@@ -26,30 +26,50 @@ backlinks: [dribbler, galatasaray]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Arda Turan projects primarily as a WM with a `Dribbler` lean. The strongest database support comes from First Touch, Skills, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Winger`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WM` base.
+- Most bankable strengths show up in First Touch, Skills, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Skills, and Acceleration.
+- Style traits point toward Dribbler and Ball Progressor in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Skills | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Vision | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ██████████████████ 18/10 |
-| Skills | ██████████████████ 18/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Vision | ███████████████ 15/10 |
-| Aerial Duels | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Long Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Interceptions | ██████████ 10/10 |
-| Marking | ██████████ 10/10 |
-| Tackling | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Dribbler** (style) — severity 7/10
-- **Ball Progressor** (style) — severity 7/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +79,16 @@ backlinks: [dribbler, galatasaray]
 - **Pressure (JP)**: 31
 - **Competitiveness**: 5/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Dribbler** (style) — severity 7/10
+- **Ball Progressor** (style) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

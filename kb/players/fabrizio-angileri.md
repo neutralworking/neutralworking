@@ -2,7 +2,7 @@
 title: Fabrizio Angileri
 category: players
 tags: [WD, Corinthians, Argentina, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Corinthians. Archetype: Sprinter.
@@ -26,33 +26,54 @@ backlinks: [sprinter, corinthians]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 An Argentine left-back now at the veteran stage who was once more progressive but is increasingly just a defender managing matches, with limited pace and a straightforward, conservative approach to the left flank. His crossing is functional but not dangerous, and he rarely creates overloads or invites the winger forward to exploit space. Angileri serves as a disciplined, risk-averse option who defends the first line of threat and nothing beyond that.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
+- Most bankable strengths show up in Long Range, Jumping, and Stamina.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Long Range, Jumping, and Stamina.
+- Style traits point toward Crossing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Long Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Through Balls | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | █████████████████ 17/10 |
-| Jumping | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Through Balls | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Vision | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +83,16 @@ An Argentine left-back now at the veteran stage who was once more progressive bu
 - **Pressure (JP)**: 31
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Andrew
 category: players
 tags: [GK, Gil Vicente, Brazil, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Gil Vicente. Archetype: Creator.
@@ -26,31 +26,55 @@ backlinks: [creator, gil-vicente]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Andrew projects primarily as a GK with a `Creator` lean. The strongest database support comes from Reactions, Jumping, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `Creator` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Acceleration.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Jumping, and Acceleration.
+- Style traits point toward Shot Stopping, Footwork, and Passing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Intensity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████ 14/10 |
-| Jumping | ████████████ 12/10 |
-| Acceleration | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Creativity | █████████░ 9/10 |
-| Intensity | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Pace | ████████░░ 8/10 |
-| Stamina | ████████░░ 8/10 |
-| Carries | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Pass Range | ███████░░░ 7/10 |
-| Technical | ███████░░░ 7/10 |
-| Mental | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Shot Stopping** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [creator, gil-vicente]
 - **Pressure (JP)**: 45
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Shot Stopping** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

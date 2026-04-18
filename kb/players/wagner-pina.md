@@ -2,7 +2,7 @@
 title: Wagner Pina
 category: players
 tags: [CM, Trabzonspor, Cape Verde, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Trabzonspor. Archetype: Sprinter.
@@ -26,33 +26,53 @@ backlinks: [sprinter, trabzonspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Pina is a Connector archetype, well-suited to a Mezzala role, characterized by strong tactical, mental, and physical pillars, evident in his exceptional shielding, stamina, and pace. Curiously, despite strong tactical awareness, his general tactical weakness is noted, alongside disciplinary issues and poor volley technique. This profile suggests a modern, athletic midfielder capable of driving forward from a wider central position, contributing significantly to build-up and connecting phases of play. At 23, Pina offers an intriguing blend of physical prowess and build-up contribution, though his contradictory tactical and disciplinary weaknesses suggest he may require focused coaching to integrate fully into a demanding tactical scheme.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `78`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Shielding, Acceleration, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Acceleration, and Pace.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Marking | ██████████ 10/10 |
-| Heading | █████████░ 9/10 |
-| Penalties | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -62,3 +82,16 @@ Pina is a Connector archetype, well-suited to a Mezzala role, characterized by s
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

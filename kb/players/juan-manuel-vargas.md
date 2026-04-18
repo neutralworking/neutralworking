@@ -1,13 +1,13 @@
 ---
 title: Juan Manuel Vargas
 category: players
-tags: [WF, Millonarios, Peru, Sprinter-Destroyer]
-updated: 2026-04-14
+tags: [WF, Puebla, Peru, Sprinter-Destroyer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WF at Millonarios. Archetype: Sprinter-Destroyer.
+summary: WF at Puebla. Archetype: Sprinter-Destroyer.
 person_id: 3673
-backlinks: [sprinter, millonarios]
+backlinks: [sprinter, puebla]
 ---
 
 # Juan Manuel Vargas
@@ -17,7 +17,7 @@ backlinks: [sprinter, millonarios]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Millonarios |
+| **Club** | Puebla |
 | **Nation** | Peru |
 | **Age** | 42 |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
@@ -26,30 +26,56 @@ backlinks: [sprinter, millonarios]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Juan Manuel Vargas projects primarily as a WF with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, First Touch, and Interceptions.
+
+## Role Fit
+
+- Best-fit role is `Wide Target Forward` with model support score `44`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Acceleration, First Touch, and Interceptions.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Interceptions.
+- Style traits point toward Pace in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Interceptions | ████████████████ 16/10 |
-| Marking | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Aerial Duels | █████████████ 13/10 |
-| Heading | ████████░░ 8/10 |
-| Pace | ██████░░░░ 6/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Physical | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Discipline | ███░░░░░░░ 3/10 |
-| Mental | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +85,16 @@ backlinks: [sprinter, millonarios]
 - **Pressure (JP)**: 58
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

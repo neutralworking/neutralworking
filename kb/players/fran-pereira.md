@@ -2,7 +2,7 @@
 title: Fran Pereira
 category: players
 tags: [CM, Toluca, Cape Verde, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Toluca. Archetype: Sprinter-Dribbler.
@@ -26,30 +26,58 @@ backlinks: [sprinter, toluca]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Fran Pereira projects primarily as a CM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Balance, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Ball Winner` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Acceleration, Balance, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and First Touch.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████ 13/10 |
-| Balance | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Penalties | ██████████ 10/10 |
-| Crossing | █████████░ 9/10 |
-| Stamina | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **endurance** (physical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -59,3 +87,16 @@ backlinks: [sprinter, toluca]
 - **Pressure (JP)**: 43
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Endurance** (physical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

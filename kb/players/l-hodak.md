@@ -2,7 +2,7 @@
 title: L. Hodak
 category: players
 tags: [CM, HNK Hajduk Split, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at HNK Hajduk Split. Archetype: Destroyer.
@@ -26,31 +26,55 @@ backlinks: [destroyer, hnk-hajduk-split]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+L. Hodak projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Aggression, Awareness, and Interceptions.
+
+## Role Fit
+
+- Best-fit role is `Tuttocampista` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Aggression, Awareness, and Interceptions.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Awareness, and Interceptions.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Duels | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Intensity | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Awareness | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Blocking | ██████░░░░ 6/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
-| Pass Accuracy | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 6/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [destroyer, hnk-hajduk-split]
 - **Pressure (JP)**: 59
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 6/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: Matheus Nascimento
 category: players
 tags: [WM, Los Angeles Galaxy, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Los Angeles Galaxy. Archetype: Striker-Creator.
@@ -26,7 +26,7 @@ backlinks: [striker, los-angeles-galaxy]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubBotafogo
@@ -43,25 +43,46 @@ The talented striker is known as “Little Cavani” or Cavaninho because of his
 **October 2023 update** 2023 has been frustrating for Nascimento so far. Botafogo are fighting for the title but the youngster has been given very few chances to shine.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `59`.
+- Primary archetype leans toward `Striker` behaviour from a `WM` base.
+- Most bankable strengths show up in Threat, Close Range, and Through Balls.
+
+## In Possession
+
+- Ball-value indicators lean on Threat, Close Range, and Through Balls.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Threat | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Close Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Through Balls | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mid Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Vision | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Threat | ███████░░░ 7/10 |
-| Close Range | ██████░░░░ 6/10 |
-| Through Balls | ██████░░░░ 6/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Mid Range | █████░░░░░ 5/10 |
-| Vision | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Discipline | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Long Range | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Composure | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -71,6 +92,15 @@ The talented striker is known as “Little Cavani” or Cavaninho because of his
 - **Pressure (JP)**: 36
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

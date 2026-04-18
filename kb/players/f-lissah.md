@@ -2,7 +2,7 @@
 title: F. Lissah
 category: players
 tags: [CM, Falkirk, Destroyer-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Falkirk. Archetype: Destroyer-Creator.
@@ -26,34 +26,54 @@ backlinks: [destroyer, falkirk]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 F. Lissah is a Warrior Tuttocampista with a strong physical profile, boasting impressive pace, acceleration, and aggression, which he effectively uses for shielding and in a high-press system. While his moderate tactical and mental pillars provide a base, his flamboyant style is offset by concerns over his overall mental strength, discipline, and a notable lack of creativity. He is a dynamic, high-energy midfield presence, recalling industrious box-to-box types who drive play through sheer force rather than intricate passing, making him an interesting proposition for a team needing raw power and defensive work rate, but a club would need to develop his consistency and creative output to unlock his full potential.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Pace, Acceleration, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Acceleration, and Balance.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Stamina | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Crossing | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Marking | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| First Touch | ██████████ 10/10 |
-| Heading | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Reactions | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 8/10
-- **high_press** (tactical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ F. Lissah is a Warrior Tuttocampista with a strong physical profile, boasting im
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 8/10
+- **High Press** (tactical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

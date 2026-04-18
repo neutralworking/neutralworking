@@ -2,7 +2,7 @@
 title: Angelo Stiller
 category: players
 tags: [DM, Stuttgart, Germany, Engine-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Stuttgart. Archetype: Engine-Passer.
@@ -26,43 +26,58 @@ backlinks: [engine, stuttgart]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A deep midfielder with exceptional press resistance and the rare ability to receive the ball in tight spaces and turn away from pressure; his left foot is technically assured, and he progresses play with intelligent short-range distribution or the occasional long-range switch. The worry is that he can be bypassed in transition due to modest mobility and acceleration, making him vulnerable to explosive counter-pressing from elite teams. A very good player at a big club, but not quite world-class.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Anchor` with model support score `66`.
+- Primary archetype leans toward `Engine` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
+- Most bankable strengths show up in First Touch, Pass Range, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Pass Range, and Reactions.
+- Style traits point toward Ball Retention, Elegant, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier, Build Up Contributor, and Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Movement | ████████████ 12/10 |
-| Pace | ███████████ 11/10 |
-| Intensity | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **progressive_carrier** (tactical) — severity 8/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Ball Retention** (style) — severity 5/10
-- **elegant** (style) — severity 5/10
-- **positional_discipline** (tactical) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Press Proven** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **flamboyant** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -72,3 +87,26 @@ A deep midfielder with exceptional press resistance and the rare ability to rece
 - **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Progressive Carrier** (tactical) — severity 8/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Ball Retention** (style) — severity 5/10
+- **Elegant** (style) — severity 5/10
+- **Positional Discipline** (tactical) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

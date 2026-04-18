@@ -2,7 +2,7 @@
 title: Cheikh Mamadou Diabaté
 category: players
 tags: [CM, Wolfsberger AC, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Wolfsberger AC. Archetype: Destroyer-Powerhouse.
@@ -26,37 +26,54 @@ backlinks: [destroyer, wolfsberger-ac]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Cheikh Mamadou Diabaté operates as a Terrier Tuttocampista, offering impressive pace, acceleration, and a physical presence that, combined with strong marking and jumping ability, makes him an effective build-up contributor in a high-press system. However, his effectiveness is hampered by a notable lack of guile and creativity in possession, alongside a hot-headed tendency that often leads to discipline issues. This player fits the mold of a modern defensive midfielder or box-to-box engine, providing disruptive energy and contributing to early build-up phases, a staple in transitional, athletic systems. For clubs seeking an energetic, physical presence in midfield to win back possession and initiate attacks from deep, Diabaté represents a cost-effective option, given his moderate mental and tactical balance; however, his consistent disciplinary problems and limited creative output mean he's a higher-risk acquisition best suited for a very structured role without significant playmaking responsibility.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Acceleration, Pace, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Jumping.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Stamina | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| First Touch | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Awareness | █████████░ 9/10 |
-| Balance | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 9/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **high_press** (tactical) — severity 6/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Cheikh Mamadou Diabaté operates as a Terrier Tuttocampista, offering impressive
 - **Pressure (JP)**: 65
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 9/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **High Press** (tactical) — severity 6/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

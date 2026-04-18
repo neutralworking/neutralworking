@@ -2,7 +2,7 @@
 title: Anton Gaaei
 category: players
 tags: [WD, Ajax, Denmark, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Ajax. Archetype: Creator.
@@ -26,33 +26,55 @@ backlinks: [creator, ajax]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Quick, aggressive full-back with real appetite for the press and a willingness to go direct in transition. He's got the athleticism to recover when beaten and enough composure on the ball to thread a pass into midfield. The issue is consistency—you get stretches where his positioning becomes sloppy and he'll give up dangerous space in the half-space.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Invertido` with model support score `70`.
+- Primary archetype leans toward `Creator` behaviour from a `WD` base.
+- Most bankable strengths show up in Pace, Stamina, and Acceleration.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Stamina, and Acceleration.
+- Style traits point toward Crossing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Movement | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Vision | ████████████ 12/10 |
-| Through Balls | ███████████ 11/10 |
-| Close Range | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +84,16 @@ Quick, aggressive full-back with real appetite for the press and a willingness t
 - **Pressure (JP)**: 43
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

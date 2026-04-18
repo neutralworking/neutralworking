@@ -2,7 +2,7 @@
 title: Jádson
 category: players
 tags: [CM, EC Juventude, Striker-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at EC Juventude. Archetype: Striker-Cover.
@@ -26,30 +26,61 @@ backlinks: [striker, ec-juventude]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Jádson projects primarily as a CM with a `Striker-Cover` lean. The strongest database support comes from Pass Accuracy, Awareness, and Composure.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `63`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Most bankable strengths show up in Pass Accuracy, Awareness, and Composure.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Awareness, and Composure.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Interceptions | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Skills | ████████░░ 8/10 |
-| Stamina | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Blocking | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Drive | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Long Range | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 6/10
-- **endurance** (physical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +90,16 @@ backlinks: [striker, ec-juventude]
 - **Pressure (JP)**: 37
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 6/10
+- **Endurance** (physical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

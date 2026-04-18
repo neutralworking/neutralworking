@@ -2,7 +2,7 @@
 title: D. Atanga
 category: players
 tags: [AM, Wolfsberger AC, Sprinter-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Wolfsberger AC. Archetype: Sprinter-Creator.
@@ -26,30 +26,52 @@ backlinks: [sprinter, wolfsberger-ac]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+D. Atanga projects primarily as a AM with a `Sprinter-Creator` lean. The strongest database support comes from Balance, Shielding, and Stamina.
+
+## Role Fit
+
+- Best-fit role is `Mediapunta` with model support score `70`.
+- Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
+- Most bankable strengths show up in Balance, Shielding, and Stamina.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Stamina.
+- Style traits point toward Two Footed and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Volleys | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Stamina | ███████████████ 15/10 |
-| Movement | █████████████ 13/10 |
-| First Touch | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
-| Pass Range | ██████████ 10/10 |
-| Discipline | █████████░ 9/10 |
-| Marking | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +81,16 @@ backlinks: [sprinter, wolfsberger-ac]
 - **Pressure (JP)**: 45
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

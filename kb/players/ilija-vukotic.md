@@ -2,7 +2,7 @@
 title: Ilija Vukotić
 category: players
 tags: [CM, OFI Crete, Montenegro, Cover-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OFI Crete. Archetype: Cover-Passer.
@@ -26,37 +26,54 @@ backlinks: [cover, ofi-crete]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Vukotić, a tall Cover-Passer with strong physical and mental pillars, shows excellent heading, jumping, and aggression, making him dominant in aerial duels and a stamina monster. As a Holding Midfielder blueprint, he embodies a more physically imposing and direct type, capable of winning the ball through sheer presence, fitting systems that value a towering midfield presence. While technically strong and suited as a Tuttocampista, his actual dueling ability is weak, and he lacks guile and creativity from central midfield. As a newcomer at 27, he offers a commanding, left-footed presence for a club seeking power, but his limited tactical awareness suggests he's best deployed in a system that minimizes demands for intricate link-up play.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Physical, Heading, and Jumping.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Heading, and Jumping.
+- Style traits point toward Strength, Aerial Ability, and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Awareness | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Vukotić, a tall Cover-Passer with strong physical and mental pillars, shows exc
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Cristian Ansaldi
 category: players
 tags: [WD, Parma, Argentina, Creator]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Parma. Archetype: Creator.
@@ -26,32 +26,59 @@ backlinks: [creator, parma]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Cristian Ansaldi projects primarily as a WD with a `Creator` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Fullback`.
+- Primary archetype leans toward `Creator` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, Pace, and First Touch.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and First Touch.
+- Style traits point toward Pace and Acceleration in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Skills | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Tackling | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████████ 18/10 |
-| Pace | ██████████████████ 18/10 |
-| First Touch | ███████████████ 15/10 |
-| Interceptions | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Skills | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Aerial Duels | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Long Range | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -61,3 +88,18 @@ backlinks: [creator, parma]
 - **Pressure (JP)**: 45
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

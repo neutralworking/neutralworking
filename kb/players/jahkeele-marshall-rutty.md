@@ -2,7 +2,7 @@
 title: Jahkeele Marshall-Rutty
 category: players
 tags: [CF, CF Montréal, Canada, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at CF Montréal. Archetype: Sprinter.
@@ -26,7 +26,7 @@ backlinks: [sprinter, cf-montreal]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubToronto FC
@@ -43,30 +43,47 @@ Most young players emerging from Canada are likely to be likened to a certain Al
 **October 2023 update** Remains at Toronto and has racked up nearly 50 MLS appearances at the time of writing. Asked in April what it was like being compared to Alphonso Davies and other players on the Guardian Next Generation list, he told TFC notebook: “I’ve said this from when I was a young age, it’s an honour to be compared to these players, but I don’t like to read those things. When I go home, that’s not what we talk about. It’s just how are you getting better every single day. When I come in, I just want to be the best version of myself and keep learning from these players."
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Acceleration, Balance, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Pace.
+- Style traits point toward Two Footed and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Take Ons | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Awareness | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -76,6 +93,21 @@ Most young players emerging from Canada are likely to be likened to a certain Al
 - **Pressure (JP)**: 45
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

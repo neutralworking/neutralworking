@@ -2,7 +2,7 @@
 title: Justin Lonwijk
 category: players
 tags: [CM, Fortuna Sittard, Suriname, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Fortuna Sittard. Archetype: Cover.
@@ -26,33 +26,54 @@ backlinks: [cover, fortuna-sittard]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Lonwijk is a hard-running, physically dominant tuttocampista archetype whose jumping, pace, and aggression make him a spirited ball-winner in transition and pressing sequences. His tactical blindness—poor blocking and duels despite physical gifts—reveals a midfielder who overwhelms through pure effort rather than structure, which severely limits his ceiling in mid-block defensive systems. He suits counter-heavy setups where stamina and aggression matter more than positional intelligence, making him valuable depth for pressing-first clubs but unreliable as a starter in phases-based football.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `75`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Jumping, Pace, and Stamina.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Stamina.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Pace | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Shielding | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Penalties | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +83,16 @@ Lonwijk is a hard-running, physically dominant tuttocampista archetype whose jum
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

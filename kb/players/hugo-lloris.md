@@ -2,7 +2,7 @@
 title: Hugo Lloris
 category: players
 tags: [GK, LAFC, France, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at LAFC. Archetype: GK.
@@ -26,35 +26,59 @@ backlinks: [gk, lafc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 GK	Influential	Shotstopper	Commander	OL, Tottenham	FRA	A	0.0
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Comandante` with model support score `69`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Close Range, Positioning, and Pass Range.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Positioning, and Pass Range.
+- Style traits point toward Shot Stopping in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Positioning | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Stamina | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████████████ 17/10 |
-| Positioning | █████████████████ 17/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ███████████ 11/10 |
-| Jumping | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Physical | ████████░░ 8/10 |
-| Stamina | ██████░░░░ 6/10 |
-| Skills | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Awareness | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Shot Stopping** (style) — severity 5/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,6 +88,22 @@ GK	Influential	Shotstopper	Commander	OL, Tottenham	FRA	A	0.0
 - **Pressure (JP)**: 45
 - **Competitiveness**: 2/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Shot Stopping** (style) — severity 5/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

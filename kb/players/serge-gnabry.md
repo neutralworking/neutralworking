@@ -2,7 +2,7 @@
 title: Serge Gnabry
 category: players
 tags: [WF, Bayern Munich, Germany, Striker-Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Bayern Munich. Archetype: Striker-Engine.
@@ -26,40 +26,58 @@ backlinks: [striker, bayern-munich]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Gnabry's technical ability and acceleration make him a dangerous Inside Forward, but his lack of guile and clearances are weaknesses that need to be managed, with his peak age and experience making him a valuable asset for a top club, particularly one that can utilize his counter-attacking threat and provide him with the necessary support and structure.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger` with model support score `81`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Shielding, Acceleration, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Acceleration, and Balance.
+- Style traits point toward Two Footed, Skill Moves, and Direct in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Volleys | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Volleys | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Awareness | ██████████ 10/10 |
-| Carries | ██████████ 10/10 |
-| Intensity | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **counter_attack_threat** (tactical) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **direct** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **patient** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -69,3 +87,23 @@ Gnabry's technical ability and acceleration make him a dangerous Inside Forward,
 - **Pressure (JP)**: 38
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Counter Attack Threat** (tactical) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Direct** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Patient** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Jérémie Bela
 category: players
 tags: [AM, Clermont Foot, Angola, Striker]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at Clermont Foot. Archetype: Striker.
@@ -26,29 +26,51 @@ backlinks: [striker, clermont-foot]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 An attacking midfielder or left-winger who offers real technical quality in possession and has good press resistance through his low centre of gravity and agility. He can operate in half-spaces effectively and understands when to carry the ball versus when to shift play quickly. His weaknesses are his physicality—easily bullied off the ball by athletic defenders—and an inconsistency in decision-making under pressure that suggests he performs best in structured, patient phases rather than chaotic stretches.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Trequartista`.
+- Primary archetype leans toward `Striker` behaviour from a `AM` base.
+- Most bankable strengths show up in Physical, Jumping, and Reactions.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Reactions.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Reactions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Acceleration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ██████████████ 14/10 |
-| Jumping | ███████████ 11/10 |
-| Reactions | █████████░ 9/10 |
-| Tactical | ███████░░░ 7/10 |
-| Acceleration | ██████░░░░ 6/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Mental | █████░░░░░ 5/10 |
-| Awareness | ████░░░░░░ 4/10 |
-| Carries | ████░░░░░░ 4/10 |
-| Creativity | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Pace | ████░░░░░░ 4/10 |
-| Stamina | ████░░░░░░ 4/10 |
-| Through Balls | ████░░░░░░ 4/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +80,11 @@ An attacking midfielder or left-winger who offers real technical quality in poss
 - **Pressure (JP)**: 47
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

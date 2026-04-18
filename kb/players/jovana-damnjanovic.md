@@ -1,0 +1,68 @@
+---
+title: Jovana Damnjanović
+category: players
+tags: [CF, Bayern Munich Women, Serbia]
+updated: 2026-04-18
+source: compiled
+confidence: low
+summary: CF at Bayern Munich Women. Archetype: None.
+person_id: 13114
+backlinks: [bayern-munich-women]
+---
+
+# Jovana Damnjanović
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CF |
+| **Club** | Bayern Munich Women |
+| **Nation** | Serbia |
+| **Age** | 31 |
+| **Archetype** | [[—]] None |
+| **Level** | 77 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+Serbian forward whose physicality and positioning sense make her a constant menace in the box, with the kind of instinct for where the ball is going to be that defines proper number nines. She's better as a target-man finisher than a creator—hold-up play is where she thrives—and she's not the most elegant mover, which occasionally gets exposed against the very best defences. Still, at 31 and in form, she's a key player for a side chasing titles.
+
+## Role Fit
+
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 30
+- **Social (TF)**: 60
+- **Pressure (JP)**: 56
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

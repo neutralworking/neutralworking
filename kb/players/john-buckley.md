@@ -2,7 +2,7 @@
 title: John Buckley
 category: players
 tags: [CM, Blackburn Rovers F.C., England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Blackburn Rovers F.C.. Archetype: Powerhouse.
@@ -26,38 +26,54 @@ backlinks: [powerhouse, blackburn-rovers-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 John Buckley is an impressive Powerhouse, boasting elite shielding, stamina, acceleration, and balance, making him a formidable presence in the midfield when protecting the ball or driving forward. His aggression ensures he’s always involved, covering significant ground across the pitch. Yet, he's significantly hampered by a profound lack of creativity and guile, meaning he struggles to unlock opposition defences or produce incisive passes, and his surprising weakness in duels often sees him bypassed in critical moments.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `78`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Acceleration, Balance, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Shielding.
+- Style traits point toward Flamboyant, Two Footed, and Work Rate in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Physical | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Penalties | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 8/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Work Rate** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -67,3 +83,21 @@ John Buckley is an impressive Powerhouse, boasting elite shielding, stamina, acc
 - **Pressure (JP)**: 46
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 8/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Work Rate** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Yang Haoyu
 category: players
 tags: [WM, Shanghai Shenhua, Powerhouse-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Shanghai Shenhua. Archetype: Powerhouse-Creator.
@@ -26,29 +26,54 @@ backlinks: [powerhouse, shanghai-shenhua]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Yang Haoyu projects primarily as a WM with a `Powerhouse-Creator` lean. The strongest database support comes from Shielding, Stamina, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `71`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `WM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Shielding, Stamina, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Stamina, and Acceleration.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| First Touch | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Marking | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Physical | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Acceleration | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| First Touch | ██████████ 10/10 |
-| Marking | ██████████ 10/10 |
-| Physical | ██████████ 10/10 |
-| Reactions | ██████████ 10/10 |
-| Crossing | █████████░ 9/10 |
-| Movement | █████████░ 9/10 |
-| Close Range | ████████░░ 8/10 |
-| Heading | ████████░░ 8/10 |
-| Jumping | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -58,3 +83,15 @@ backlinks: [powerhouse, shanghai-shenhua]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -1,13 +1,13 @@
 ---
 title: Alexandre Oukidja
 category: players
-tags: [GK, Metz, Algeria, GK]
-updated: 2026-04-14
+tags: [GK, IMT Novi Beograd, Algeria, GK]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: GK at Metz. Archetype: GK.
+summary: GK at IMT Novi Beograd. Archetype: GK.
 person_id: 8181
-backlinks: [gk, metz]
+backlinks: [gk, imt-novi-beograd]
 ---
 
 # Alexandre Oukidja
@@ -17,43 +17,65 @@ backlinks: [gk, metz]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | Metz |
+| **Club** | IMT Novi Beograd |
 | **Nation** | Algeria |
 | **Age** | 37 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 77 |
-| **Overall** | 71.0 |
+| **Overall** | 70.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Veteran goalkeeper at 37 with decent shot-stopping reflexes and positioning earned through long service. His distribution is pedestrian, and modern demands for sweeping and possession-based play—increasingly critical even at mid-table Ligue 1—expose his limitations. A capable backup or caretaker, but no more than that.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Positioning.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Jumping, and Positioning.
+- Style traits point toward Cross Claimer and Far Throw in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Positioning | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Close Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pass Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Physical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Positioning | ████████████ 12/10 |
-| Close Range | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | █████████░ 9/10 |
-| Physical | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Mental | ██████░░░░ 6/10 |
-| Stamina | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Awareness | ██░░░░░░░░ 2/10 |
-| Intensity | ██░░░░░░░░ 2/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Cross Claimer** (style) — severity 5/10
-- **Far Throw** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +85,17 @@ Veteran goalkeeper at 37 with decent shot-stopping reflexes and positioning earn
 - **Pressure (JP)**: 58
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Cross Claimer** (style) — severity 5/10
+- **Far Throw** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

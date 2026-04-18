@@ -2,7 +2,7 @@
 title: N'Golo Kante
 category: players
 tags: [CM, Al-Ittihad, France, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Al-Ittihad. Archetype: Cover.
@@ -26,35 +26,54 @@ backlinks: [cover, al-ittihad]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 By the end of the season, Kanté had managed 175 tackles (31 more than any other player) and 157 interceptions (15 more than any other player), topping the defensive stats at the end of the 2015–16 Premier League season.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Shielding, Interceptions, and Tackling.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Interceptions, and Tackling.
+- Style traits point toward Defensive Awareness, Press Proven, and Work Rate in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Interceptions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Tackling | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Aggression | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Marking | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ███████████████████ 19/10 |
-| Interceptions | ██████████████████ 18/10 |
-| Tackling | ██████████████████ 18/10 |
-| Aggression | █████████████████ 17/10 |
-| Marking | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Defensive Awareness** (style) — severity 8/10
-- **Press Proven** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,6 +83,22 @@ By the end of the season, Kanté had managed 175 tackles (31 more than any other
 - **Pressure (JP)**: 54
 - **Competitiveness**: 7/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Defensive Awareness** (style) — severity 8/10
+- **Press Proven** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

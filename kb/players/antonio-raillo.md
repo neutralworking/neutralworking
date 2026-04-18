@@ -2,7 +2,7 @@
 title: Antonio Raillo
 category: players
 tags: [CD, Mallorca, Spain, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Mallorca. Archetype: Destroyer.
@@ -26,37 +26,58 @@ backlinks: [destroyer, mallorca]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A Spanish centre-back operating in the autumn of his career, still reading the game with intelligence and positioning himself well on the ball to start moves from deep. His distributional range has kept him relevant at La Liga level despite diminishing physical capacity. However, he's no longer the athlete he was—modern full-backs will exploit his lateral recovery speed, and he's not commanding enough in the air to be your primary set-piece defender.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Stamina, Reactions, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Reactions, and Jumping.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Durability, and Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Long Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Movement | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ██████████████████ 18/10 |
-| Reactions | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Long Range | ███████████ 11/10 |
-| Movement | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
-| Acceleration | ████████░░ 8/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **aerial_threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -66,3 +87,20 @@ A Spanish centre-back operating in the autumn of his career, still reading the g
 - **Pressure (JP)**: 62
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

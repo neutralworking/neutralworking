@@ -2,7 +2,7 @@
 title: Jason Steele
 category: players
 tags: [GK, Brighton, England, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Brighton. Archetype: GK.
@@ -26,35 +26,60 @@ backlinks: [gk, brighton]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 At 35, Steele is a reliable backup goalkeeper with decent distribution and the experience to manage a game competently in cup competitions. He reads the game simply and effectively. However, he lacks the sweeper abilities and spatial command that top modern goalkeepers possess, and he's never been more than a solid number two.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Close Range, Jumping, and Pass Range.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Jumping, and Pass Range.
+- Style traits point toward Footwork in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Positioning | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Mental | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Positioning | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Acceleration | ████████░░ 8/10 |
-| Aggression | ████████░░ 8/10 |
-| Mental | ███████░░░ 7/10 |
-| Pace | ███████░░░ 7/10 |
-| Physical | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Stamina | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Awareness | █████░░░░░ 5/10 |
-| Intensity | ████░░░░░░ 4/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Footwork** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +89,18 @@ At 35, Steele is a reliable backup goalkeeper with decent distribution and the e
 - **Pressure (JP)**: 63
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Footwork** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

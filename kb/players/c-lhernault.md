@@ -2,7 +2,7 @@
 title: C. Lhernault
 category: players
 tags: [WM, Destroyer-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at None. Archetype: Destroyer-Creator.
@@ -26,25 +26,51 @@ backlinks: [destroyer]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+C. Lhernault projects primarily as a WM with a `Destroyer-Creator` lean. The strongest database support comes from Through Balls, Creativity, and Vision.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `60`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
+- Most bankable strengths show up in Through Balls, Creativity, and Vision.
+
+## In Possession
+
+- Ball-value indicators lean on Through Balls, Creativity, and Vision.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Blocking | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pass Accuracy | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Through Balls | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Awareness | ███████░░░ 7/10 |
-| Blocking | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Composure | ██████░░░░ 6/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Pressing | ██████░░░░ 6/10 |
-| Tackling | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Discipline | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +80,10 @@ backlinks: [destroyer]
 - **Pressure (JP)**: 42
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

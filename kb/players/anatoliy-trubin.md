@@ -2,7 +2,7 @@
 title: Anatoliy Trubin
 category: players
 tags: [GK, Benfica, Ukraine, GK]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Benfica. Archetype: GK.
@@ -26,33 +26,54 @@ backlinks: [gk, benfica]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A composed shot-stopper with excellent distribution for building from the back and clean footwork through the thirds. His positioning on crosses is occasionally sloppy—he doesn't command the six-yard box with the authority of the truly elite keepers. Fine reflexes, good concentration, but not yet the commanding presence you'd want in a Champions League quarter-final.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Physical, Reactions, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Reactions, and Jumping.
+- Style traits point toward Footwork in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Concentration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Decisions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | ████████░░ 8/10 |
-| Composure | ███████░░░ 7/10 |
-| Concentration | ███████░░░ 7/10 |
-| Decisions | ███████░░░ 7/10 |
-| Stamina | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Tempo | ██████░░░░ 6/10 |
-| Anticipation | █████░░░░░ 5/10 |
-| Communication | █████░░░░░ 5/10 |
-| Intensity | █████░░░░░ 5/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Footwork** (style) — severity 5/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +83,16 @@ A composed shot-stopper with excellent distribution for building from the back a
 - **Pressure (JP)**: 25
 - **Competitiveness**: 3/10
 - **Coachability**: 7/10
+
+## Trait Ledger
+
+- **Footwork** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

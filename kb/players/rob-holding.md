@@ -2,7 +2,7 @@
 title: Rob Holding
 category: players
 tags: [CD, Colorado Rapids, England, Cover-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Colorado Rapids. Archetype: Cover-Dribbler.
@@ -26,37 +26,58 @@ backlinks: [cover, colorado-rapids]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 After more than seven years at the Emirates Stadium, Holding quietly left for south London on deadline day. The centre-back was only a real first-team regular during the turbulent 2020-21 season, but still clocked up more than 150 appearances as a reliable squad player. A signing from Bolton late in the Arsène Wenger era, Holding bridged the gap between eras but struggled to keep his place as Mikel Arteta demanded more ball-playing skills from his defenders. Still only 27, the player once used by Wenger to justify reduced spending still looks seriously underpriced.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `80`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Heading, Jumping, and Reactions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Jumping, and Reactions.
+- Style traits point toward Aerial Ability, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Reactions | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Take Ons | ████████████ 12/10 |
-| Shielding | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Balance | ██████████ 10/10 |
-| Crossing | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
-| Stamina | ██████████ 10/10 |
-| Pace | █████████░ 9/10 |
-| Movement | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,6 +87,24 @@ After more than seven years at the Emirates Stadium, Holding quietly left for so
 - **Pressure (JP)**: 35
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Harry Arter
 category: players
 tags: [CM, Nottingham Forest, Ireland, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Nottingham Forest. Archetype: Sprinter.
@@ -26,29 +26,54 @@ backlinks: [sprinter, nottingham-forest]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A veteran squad midfielder with decent technical ability and a combative approach to the game, but at 36 he's approaching the twilight of his career and offers little more than occasional depth and dressing-room experience. He won't be a regular starter.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Most bankable strengths show up in Acceleration, Pace, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Pass Accuracy.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Interceptions | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Marking | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Skills | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Interceptions | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Skills | ███████████ 11/10 |
-| Tackling | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
-| Aerial Duels | ██████████ 10/10 |
-| Heading | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
-| Mid Range | ██████████ 10/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +83,11 @@ A veteran squad midfielder with decent technical ability and a combative approac
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

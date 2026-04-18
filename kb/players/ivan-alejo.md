@@ -2,7 +2,7 @@
 title: Iván Alejo
 category: players
 tags: [WF, Cadiz, Spain, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Cadiz. Archetype: Sprinter.
@@ -26,35 +26,50 @@ backlinks: [sprinter, cadiz]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A Spanish winger-forward whose profile remains opaque without clear senior La Liga exposure; he's likely a prospect struggling to break through or a journeyman finding minutes in the lower reaches. His technical foundation appears sound—he can receive and turn—but he lacks the explosiveness or decision-making to consistently beat defenders or create chances. Still developing, with an uncertain ceiling.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Acceleration, Balance, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Pace.
+- Style traits point toward Skill Moves, Technical Ability, and Crossing Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Long Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Pace | ████████████████ 16/10 |
-| Aggression | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +79,18 @@ A Spanish winger-forward whose profile remains opaque without clear senior La Li
 - **Pressure (JP)**: 38
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

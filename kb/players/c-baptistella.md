@@ -2,7 +2,7 @@
 title: C. Baptistella
 category: players
 tags: [CF, Cruzeiro, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Cruzeiro. Archetype: Striker-Creator.
@@ -26,31 +26,56 @@ backlinks: [striker, cruzeiro]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+C. Baptistella projects primarily as a CF with a `Striker-Creator` lean. The strongest database support comes from Carries, Take Ons, and Threat.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `49`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Set Piece Specialist.
+- Most bankable strengths show up in Carries, Take Ons, and Threat.
+
+## In Possession
+
+- Ball-value indicators lean on Carries, Take Ons, and Threat.
+- Style traits point toward Direct in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Set Piece Specialist.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Crossing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Discipline | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Through Balls | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Carries | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Creativity | ███████░░░ 7/10 |
-| Crossing | ███████░░░ 7/10 |
-| Discipline | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Through Balls | ██████░░░░ 6/10 |
-| Vision | ██████░░░░ 6/10 |
-| Drive | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Skills | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Close Range | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 9/10
-- **set_piece_specialist** (tactical) — severity 5/10
-- **big_game_player** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -60,3 +85,17 @@ backlinks: [striker, cruzeiro]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 9/10
+- **Set Piece Specialist** (tactical) — severity 5/10
+- **Big Game Player** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

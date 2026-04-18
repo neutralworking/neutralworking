@@ -2,7 +2,7 @@
 title: S. Mráz
 category: players
 tags: [CF, Servette, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Servette. Archetype: Sprinter-Dribbler.
@@ -26,30 +26,52 @@ backlinks: [sprinter, servette]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+S. Mráz projects primarily as a CF with a `Sprinter-Dribbler` lean. The strongest database support comes from Pace, Acceleration, and Jumping.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Pace, Acceleration, and Jumping.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Acceleration, and Jumping.
+- Style traits point toward Direct and Finishing in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| First Touch | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Crossing | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 7/10
-- **Finishing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -59,3 +81,16 @@ backlinks: [sprinter, servette]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 7/10
+- **Finishing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

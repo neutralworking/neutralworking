@@ -2,7 +2,7 @@
 title: Jeroen Zoet
 category: players
 tags: [GK, AZ, Netherlands, GK]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at AZ. Archetype: GK.
@@ -26,31 +26,61 @@ backlinks: [gk, az]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Jeroen Zoet projects primarily as a GK with a `GK` lean. The strongest database support comes from Jumping, Reactions, and Close Range.
+
+## Role Fit
+
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Jumping, Reactions, and Close Range.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Reactions, and Close Range.
+- Style traits point toward Two Footed in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Close Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Positioning | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████ 14/10 |
-| Reactions | █████████████ 13/10 |
-| Close Range | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Positioning | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Pace | █████████░ 9/10 |
-| Stamina | ████████░░ 8/10 |
-| Physical | ███████░░░ 7/10 |
-| Mental | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Awareness | █░░░░░░░░░ 1/10 |
-| Carries | █░░░░░░░░░ 1/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +90,17 @@ backlinks: [gk, az]
 - **Pressure (JP)**: 55
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

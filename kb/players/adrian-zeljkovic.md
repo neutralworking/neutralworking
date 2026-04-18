@@ -2,7 +2,7 @@
 title: Adrian Zeljković
 category: players
 tags: [CM, IFK Värnamo, Slovenia, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at IFK Värnamo. Archetype: Sprinter.
@@ -26,34 +26,55 @@ backlinks: [sprinter, ifk-varnamo]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Zeljković, a Sprinter archetype designated as a Metodista, exhibits strong tactical and mental pillars, complemented by exceptional physical attributes like pace, acceleration, and jumping at 192cm. His moderate technical skills are effective in passing, but he struggles with defensive blocking, lacks creative guile, and offers limited offensive imagination. This type of towering yet mobile central midfielder, focused on efficient ball distribution and direct play, aligns with traditional box-to-box roles adapted to cover ground defensively and launch quick transitions. At 23, he offers significant value as a robust, athletic presence in central midfield for a club prioritizing defensive stability and direct progression, though his lack of creativity means he won't be a primary attacking force.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `79`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Pace, and Acceleration.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Pace, and Acceleration.
+- Style traits point toward Technical Ability and Direct in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Reactions | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Discipline | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Technical Ability** (style) — severity 5/10
-- **direct** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +84,17 @@ Zeljković, a Sprinter archetype designated as a Metodista, exhibits strong tact
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Technical Ability** (style) — severity 5/10
+- **Direct** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

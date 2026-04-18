@@ -1,13 +1,13 @@
 ---
 title: Dane Scarlett
 category: players
-tags: [WM, Hibernian, Sprinter-Dribbler]
-updated: 2026-04-14
+tags: [WM, Tottenham Hotspur, Sprinter-Dribbler]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WM at Hibernian. Archetype: Sprinter-Dribbler.
+summary: WM at Tottenham Hotspur. Archetype: Sprinter-Dribbler.
 person_id: 19366
-backlinks: [sprinter, hibernian]
+backlinks: [sprinter, tottenham-hotspur]
 ---
 
 # Dane Scarlett
@@ -17,7 +17,7 @@ backlinks: [sprinter, hibernian]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | Hibernian |
+| **Club** | Tottenham Hotspur |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
@@ -26,36 +26,55 @@ backlinks: [sprinter, hibernian]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Promising young striker with natural finishing instincts but struggles to consistently find space in tight Premier League defenses. Loan moves suggest Spurs see potential but need him to develop physicality and game intelligence before committing resources.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tornante`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
+- Most bankable strengths show up in Acceleration, Balance, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Jumping.
+- Style traits point toward Two Footed and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Close Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Shielding | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
-| Composure | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +84,19 @@ Promising young striker with natural finishing instincts but struggles to consis
 - **Pressure (JP)**: 39
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

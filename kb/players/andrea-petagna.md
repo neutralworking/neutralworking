@@ -2,7 +2,7 @@
 title: Andrea Petagna
 category: players
 tags: [CF, Monza, Italy, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Monza. Archetype: Striker.
@@ -26,37 +26,54 @@ backlinks: [striker, monza]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Aging centre-forward who can still be effective in a more structured, counterattacking setup where his physical presence counts, but he's lost the mobility to play in a high press or create space for himself in tight areas. A functional Plan B, nothing more; his best years are well behind him.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Long Range, Penalties, and Close Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Long Range, Penalties, and Close Range.
+- Style traits point toward Aerial Ability, Finishing, and Close Control in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Penalties | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | ████████████████ 16/10 |
-| Penalties | ████████████████ 16/10 |
-| Close Range | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Reactions | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Aggression | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Aerial Ability** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Aging centre-forward who can still be effective in a more structured, counteratt
 - **Pressure (JP)**: 60
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Ability** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

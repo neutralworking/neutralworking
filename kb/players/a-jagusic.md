@@ -2,7 +2,7 @@
 title: A. Jagusic
 category: players
 tags: [CF, Panathinaikos, Creator-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Panathinaikos. Archetype: Creator-Striker.
@@ -26,34 +26,53 @@ backlinks: [creator, panathinaikos]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A. Jagusic projects as a Virtuoso Complete Forward, possessing strong technical skills, exceptional guile, and creativity, making him a potent threat in direct attacking play and a notable big-game player. His ability to execute take-ons and score from long range offers flair, but his limited tactical and physical pillars, along with weaknesses in composure, mid-range shooting, and pass accuracy, indicate a player who can be erratic despite flashes of brilliance. He is a high-risk, high-reward investment, best suited for a team that can accommodate a free-roaming attacker and doesn't rely on his consistent link-up play, recalling mercurial forwards who deliver moments of magic.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `69`.
+- Primary archetype leans toward `Creator` behaviour from a `CF` base.
+- Most bankable strengths show up in Carries, Creativity, and Discipline.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Carries, Creativity, and Discipline.
+- Style traits point toward Direct in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Carries | ████████░░ 8/10 |
-| Creativity | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Skills | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Close Range | ██████░░░░ 6/10 |
-| Composure | ██████░░░░ 6/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 6/10
-- **big_game_player** (behavioral) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -63,3 +82,17 @@ A. Jagusic projects as a Virtuoso Complete Forward, possessing strong technical 
 - **Pressure (JP)**: 42
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 6/10
+- **Big Game Player** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

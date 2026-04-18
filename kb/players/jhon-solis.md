@@ -2,7 +2,7 @@
 title: Jhon Solís
 category: players
 tags: [CM, Girona, Colombia, Cover-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Girona. Archetype: Cover-Dribbler.
@@ -26,38 +26,58 @@ backlinks: [cover, girona]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Colombian midfielder with energy and a willingness to cover ground; he's useful in transitions and can break up play with some intensity. His technical security is average and he's prone to loose passes under pressure, which limits his effectiveness in sustained possession phases. Decent rotation option with athleticism to offer, but not a player you want controlling matches.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `79`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
+- Most bankable strengths show up in Stamina, Jumping, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Jumping, and First Touch.
+- Style traits point toward Positioning and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier and Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Shielding | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **progressive_carrier** (tactical) — severity 8/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Positioning** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,3 +87,21 @@ Colombian midfielder with energy and a willingness to cover ground; he's useful 
 - **Pressure (JP)**: 55
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Progressive Carrier** (tactical) — severity 8/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Positioning** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: K. Koulierakis
 category: players
 tags: [CM, Wolfsburg, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Wolfsburg. Archetype: Destroyer-Powerhouse.
@@ -26,34 +26,54 @@ backlinks: [destroyer, wolfsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 K. Koulierakis fits the Connector archetype as a Holding Midfielder, a Tuttocampista whose strong technical base is applied through aggressive, active defending, highlighted by his jumping, reactions, tackling, awareness, and aggression. However, his limited tactical and mental pillars manifest in poor discipline, a lack of creativity, and limited guile, making him more of a destructive force than a constructive one. He aligns with the classic midfield enforcer, a player whose primary role is to break up play and win possession through sheer force and effort, fitting into systems that need a robust, confrontational presence in the middle. Wolfsburg leverages his combative style, but a buying club must accept his disciplinary liabilities and creative shortcomings, pairing him with more composed and inventive midfielders to balance the squad.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `73`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Jumping, Reactions, and Acceleration.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Reactions, and Acceleration.
+- Style traits point toward Aerial Ability and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Shielding | ████████████ 12/10 |
-| Balance | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ K. Koulierakis fits the Connector archetype as a Holding Midfielder, a Tuttocamp
 - **Pressure (JP)**: 62
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Guilherme Madruga
 category: players
 tags: [CM, Striker-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: Striker-Destroyer.
@@ -26,34 +26,54 @@ backlinks: [striker]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Guilherme Madruga operates as a Marshal archetype, ideally suited to a Tuttocampista role, boasting a strong physical pillar alongside solid technical ability. He excels defensively with robust tackling, interceptions, and awareness, complemented by accurate finishing from both close and long range. Despite a flamboyant style and high-press trait, his game is hindered by limited vision, creativity, and occasional discipline issues. He fits well in structured systems needing a competitive, box-to-box midfielder who can win the ball and contribute offensively, rather than a deep-lying playmaker.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `75`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Aggression, Tackling, and Awareness.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Tackling, and Awareness.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Intensity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Interceptions | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Blocking | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Intensity | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Close Range | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Long Range | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 7/10
-- **high_press** (tactical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ Guilherme Madruga operates as a Marshal archetype, ideally suited to a Tuttocamp
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 7/10
+- **High Press** (tactical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

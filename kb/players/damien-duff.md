@@ -2,7 +2,7 @@
 title: Damien Duff
 category: players
 tags: [WF, Melbourne City FC, Ireland, Dribbler]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Melbourne City FC. Archetype: Dribbler.
@@ -26,36 +26,51 @@ backlinks: [dribbler, melbourne-city-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 WF		Creator	Wizard		IRL	B	79.0			"He began his professional career with Blackburn Rovers, with whom he won the Football League Cup, and in 2003 was signed for £17 million by Chelsea, where he won two Premier League titles and another League Cup. After four seasons at Stamford Bridge, he left for Newcastle United where he won the 2006 UEFA Intertoto Cup, and then moved on to Fulham, with whom he played in the 2010 UEFA Europa League Final. He ended his career with brief spells in the A-League with Melbourne City and the League of Ireland with Shamrock Rovers before retiring in December 2015.
  Duff played international football for the Republic of Ireland for 14 years, winning 100 caps between 1998 and 2012. He played at the 2002 FIFA World Cup and captained the country at UEFA Euro 2012."
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
+- Most bankable strengths show up in First Touch, Skills, and Take Ons.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Skills, and Take Ons.
+- Style traits point toward Playmaker, Dribbler, and Ball Progressor in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Skills | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Take Ons | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Mid Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | █████████████████ 17/10 |
-| Skills | █████████████████ 17/10 |
-| Take Ons | █████████████████ 17/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Acceleration | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Mid Range | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Aerial Duels | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Playmaker** (style) — severity 7/10
-- **Dribbler** (style) — severity 7/10
-- **Ball Progressor** (style) — severity 7/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,6 +80,22 @@ WF		Creator	Wizard		IRL	B	79.0			"He began his professional career with Blackbur
 - **Pressure (JP)**: 27
 - **Competitiveness**: 6/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Playmaker** (style) — severity 7/10
+- **Dribbler** (style) — severity 7/10
+- **Ball Progressor** (style) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

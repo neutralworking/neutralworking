@@ -2,7 +2,7 @@
 title: Andrea Raggi
 category: players
 tags: [CD, Monaco, Italy, Sprinter-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Monaco. Archetype: Sprinter-Destroyer.
@@ -26,25 +26,55 @@ backlinks: [sprinter, monaco]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Andrea Raggi projects primarily as a CD with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, Aerial Duels, and Heading.
+
+## Role Fit
+
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
+- Most bankable strengths show up in Acceleration, Aerial Duels, and Heading.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Aerial Duels, and Heading.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Aerial Duels | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Skills | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
-| Long Range | ██████████ 10/10 |
-| Mid Range | ██████████ 10/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +84,10 @@ backlinks: [sprinter, monaco]
 - **Pressure (JP)**: 64
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

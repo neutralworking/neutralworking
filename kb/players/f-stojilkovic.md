@@ -1,13 +1,13 @@
 ---
 title: F. Stojilković
 category: players
-tags: [CF, Cracovia Kraków, Sprinter-Dribbler]
-updated: 2026-04-14
+tags: [CF, Pisa, Sprinter-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Cracovia Kraków. Archetype: Sprinter-Dribbler.
+summary: CF at Pisa. Archetype: Sprinter-Dribbler.
 person_id: 21578
-backlinks: [sprinter, cracovia-krakow]
+backlinks: [sprinter, pisa]
 ---
 
 # F. Stojilković
@@ -17,7 +17,7 @@ backlinks: [sprinter, cracovia-krakow]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Cracovia Kraków |
+| **Club** | Pisa |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
@@ -26,31 +26,52 @@ backlinks: [sprinter, cracovia-krakow]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+F. Stojilković projects primarily as a CF with a `Sprinter-Dribbler` lean. The strongest database support comes from Jumping, Balance, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Balance, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Balance, and First Touch.
+- Style traits point toward Two Footed, Acceleration, and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Acceleration | ████████░░ 8/10 |
-| Crossing | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Pass Range | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +81,17 @@ backlinks: [sprinter, cracovia-krakow]
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: K. Hajrizi
 category: players
 tags: [DM, FC Sion, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at FC Sion. Archetype: Destroyer-Powerhouse.
@@ -26,36 +26,54 @@ backlinks: [destroyer, fc-sion]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Hajrizi is a prototypical Sentinel Anchor, providing a robust physical presence, immense stamina, and aggression in the defensive midfield, ideal for a high-pressing system. He embodies the traditional destructive midfielder whose primary task is to break up play rather than orchestrate it. From a squad-building perspective, a Director of Football would see him as a dedicated ball-winner to shield the defense, but his lack of creativity and mid-range passing suggest he's best for teams prioritizing defensive solidity, with his discipline being a notable concern.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Anchor` with model support score `75`.
+- Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Jumping, Pace, and Physical.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Physical.
+- Style traits point toward Two Footed, Work Rate, and Tackling Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Balance | ███████████ 11/10 |
-| Shielding | ███████████ 11/10 |
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Crossing | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Work Rate** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -65,3 +83,19 @@ Hajrizi is a prototypical Sentinel Anchor, providing a robust physical presence,
 - **Pressure (JP)**: 67
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Work Rate** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

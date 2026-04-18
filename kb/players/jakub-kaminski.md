@@ -2,7 +2,7 @@
 title: Jakub Kamiński
 category: players
 tags: [WF, Wolfsburg, Poland, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Wolfsburg. Archetype: Creator.
@@ -26,35 +26,54 @@ backlinks: [creator, wolfsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A left-winger with genuine pace and directness; he'll take on a defender and isn't afraid of the half-space, showing the kind of aggression in possession that can unlock a side. His final product—crossing and finishing—is inconsistent, and he can be lazy off the ball defensively; promising talent, but not yet elite.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `70`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Acceleration, Balance, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Pace.
+- Style traits point toward Pace in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Pace | ████████████████ 16/10 |
-| First Touch | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
-| Composure | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Pace** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ A left-winger with genuine pace and directness; he'll take on a defender and isn
 - **Pressure (JP)**: 42
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Pace** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

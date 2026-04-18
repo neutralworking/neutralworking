@@ -2,7 +2,7 @@
 title: Jaminton Campaz
 category: players
 tags: [WF, Rosario Central, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Rosario Central. Archetype: Sprinter-Dribbler.
@@ -26,7 +26,7 @@ backlinks: [sprinter, rosario-central]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 CountryColombia
@@ -58,29 +58,48 @@ The nimble and tricky winger scored on his professional debut this year when rif
 **September 2022 update** Could not prevent Brazilian giants Gremio sliding into the second division despite playing his part in a bold great-escape attempt. Has been ever-present in the Gremio first team as they fight for promotion this year and is still floating around the Colombian national team.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Acceleration, Pace, and Shielding.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Shielding.
+- Style traits point toward Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Pace | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Jumping | ████████████ 12/10 |
-| Volleys | ███████████ 11/10 |
-| Heading | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Interceptions | ██████░░░░ 6/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -90,6 +109,20 @@ The nimble and tricky winger scored on his professional debut this year when rif
 - **Pressure (JP)**: 40
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

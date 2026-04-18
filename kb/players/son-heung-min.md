@@ -2,7 +2,7 @@
 title: Son Heung-min
 category: players
 tags: [WF, LAFC, South Korea, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at LAFC. Archetype: Striker-Creator.
@@ -26,42 +26,54 @@ backlinks: [striker, lafc]
 | **Pursuit** | Pass |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Korean legend. Still deadly — both feet, movement, finishing. The complete forward who can play across the front line.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger` with model support score `61`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
+- Most bankable strengths show up in Reactions, Stamina, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Stamina, and Acceleration.
+- Style traits point toward Flamboyant, Direct, and Finishing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat and Progressive Carrier.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Volleys | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ██████████████████ 18/10 |
-| Reactions | ██████████████████ 18/10 |
-| Stamina | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| Crossing | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Volleys | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Shielding | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Carries | █████████░ 9/10 |
-| Awareness | ████████░░ 8/10 |
-| Intensity | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 10/10
-- **flamboyant** (style) — severity 10/10
-- **direct** (style) — severity 7/10
-- **progressive_carrier** (tactical) — severity 7/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
-- **big_game_player** (behavioral) — severity 4/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -71,6 +83,29 @@ Korean legend. Still deadly — both feet, movement, finishing. The complete for
 - **Pressure (JP)**: 37
 - **Competitiveness**: 4/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 10/10
+- **Flamboyant** (style) — severity 10/10
+- **Direct** (style) — severity 7/10
+- **Progressive Carrier** (tactical) — severity 7/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+- **Big Game Player** (behavioral) — severity 4/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

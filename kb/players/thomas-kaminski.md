@@ -2,7 +2,7 @@
 title: Thomas Kaminski
 category: players
 tags: [GK, Luton Town, Belgium, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Luton Town. Archetype: GK.
@@ -26,35 +26,56 @@ backlinks: [gk, luton-town]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A composed, intelligent goalkeeper with excellent distribution and positioning for a side attempting to play out from the back, but whose reflexes and reaction saves have dulled marginally with age and whose handling of crosses remains occasionally uncertain. He's a strong cup keeper and his reading of the game is excellent, yet he's not the shot-stopper you'd want in a relegation dogfight. Reliable for a mid-table side; potentially exposed at the highest level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Close Range, Reactions, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Reactions, and Jumping.
+- Style traits point toward Shot Stopping, Footwork, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Positioning | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Positioning | █████████████ 13/10 |
-| Physical | ████████████ 12/10 |
-| Acceleration | █████████░ 9/10 |
-| Pace | █████████░ 9/10 |
-| Pass Range | ████████░░ 8/10 |
-| Mental | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Stamina | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Awareness | ██░░░░░░░░ 2/10 |
-| Intensity | ██░░░░░░░░ 2/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Shot Stopping** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +85,18 @@ A composed, intelligent goalkeeper with excellent distribution and positioning f
 - **Pressure (JP)**: 58
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Shot Stopping** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

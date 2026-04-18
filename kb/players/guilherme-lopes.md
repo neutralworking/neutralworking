@@ -2,7 +2,7 @@
 title: Guilherme Lopes
 category: players
 tags: [WM, Braga, Destroyer-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Braga. Archetype: Destroyer-Striker.
@@ -26,29 +26,49 @@ backlinks: [destroyer, braga]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Guilherme Lopes, as a Marshal, is distinguished by his technical strength and ability to win duels, which are crucial assets for a midfielder. His best role as a False Winger would be in a system that values discipline and the ability to track back, where his blocking, vision, and tackling can be fully utilized. However, his limitations in long-range shooting, guile, and interceptions may restrict his impact in more advanced roles or systems that require significant creativity. A team seeking a reliable, defensive-minded midfielder who can also contribute to the build-up phase could appreciate Lopes's skills, though his overall influence may be more subtle than spectacular.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
+- Most bankable strengths show up in Blocking, Close Range, and Duels.
+
+## In Possession
+
+- Ball-value indicators lean on Blocking, Close Range, and Duels.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Blocking | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Discipline | ███████░░░ 7/10 |
-| Long Range | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
-| Physical | ███████░░░ 7/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +78,11 @@ Guilherme Lopes, as a Marshal, is distinguished by his technical strength and ab
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

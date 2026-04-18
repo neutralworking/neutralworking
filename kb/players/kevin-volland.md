@@ -2,7 +2,7 @@
 title: Kevin Volland
 category: players
 tags: [CF, Union Berlin, Germany, Creator]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Union Berlin. Archetype: Creator.
@@ -26,37 +26,54 @@ backlinks: [creator, union-berlin]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A persistent, intelligent forward who's found a second wind at Union Berlin after his wanderings through Monaco and Roma. He's not quick enough to play the modern high-press game as a starter anymore—his burst is gone—but he's learned to operate in the half-spaces with real cunning, finding pockets between the lines where his reading of the game and link-up play become assets rather than luxuries. His movement off the ball is excellent; he knows how to create space for others and himself through positioning rather than acceleration. The problem is obvious: he cannot carry a team on his shoulders or transform games through individual brilliance, and in transition he's a liability on the press. For Union, in a functional 1. FC setup playing pragmatic football, he remains a useful squad piece and occasional starter, but he's a very good role player now, not a primary weapon.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta`.
+- Primary archetype leans toward `Creator` behaviour from a `CF` base.
+- Most bankable strengths show up in Long Range, Aggression, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Long Range, Aggression, and First Touch.
+- Style traits point toward Two Footed, Long Range Shooting, and Trivela in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Long Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aggression | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | █████████████████ 17/10 |
-| Aggression | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Close Range | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Long Range Shooting** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,6 +83,24 @@ A persistent, intelligent forward who's found a second wind at Union Berlin afte
 - **Pressure (JP)**: 59
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Long Range Shooting** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Christian Makoun
 category: players
 tags: [CM, Levski Sofia, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Levski Sofia. Archetype: Striker.
@@ -26,7 +26,7 @@ backlinks: [striker, levski-sofia]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 CountryVenezuela
@@ -63,32 +63,51 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
 
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `71`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Close Range, Discipline, and Flair.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Discipline, and Flair.
+- Style traits point toward Elegant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Positioning | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Take Ons | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Mid Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pass Accuracy | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ███████░░░ 7/10 |
-| Discipline | ███████░░░ 7/10 |
-| Flair | ███████░░░ 7/10 |
-| Positioning | ███████░░░ 7/10 |
-| Take Ons | ███████░░░ 7/10 |
-| Mid Range | ██████░░░░ 6/10 |
-| Pass Accuracy | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Composure | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| First Touch | █████░░░░░ 5/10 |
-| Interceptions | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **elegant** (style) — severity 9/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **press_resistant** (tactical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -98,6 +117,23 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
 - **Pressure (JP)**: 43
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Elegant** (style) — severity 9/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Resistant** (tactical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Hugo Sotelo
 category: players
 tags: [CM, Celta Vigo, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Celta Vigo. Archetype: Creator-Dribbler.
@@ -26,35 +26,54 @@ backlinks: [creator, celta-vigo]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Hugo Sotelo is a dynamic Tuttocampista, characterized by his Connector archetype and Ball Winner blueprint, showcasing impressive pace, acceleration, and quick reactions that enable effective interceptions and ball progression through take-ons. Despite a strong overall technical foundation and being press-resistant, his general lack of guile and occasional lapses in discipline, combined with a limited tactical pillar, suggests he's more functional than nuanced. He fits the mold of a high-energy box-to-box midfielder, valuable in transitional systems needing rapid movement and individual effort to break lines. With strengths in ball progression and winning possession, he offers a tenacious presence for dynamic midfields, but his limited physical and tactical pillars could challenge him against highly organized opponents.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
+- Most bankable strengths show up in Reactions, Acceleration, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Acceleration, and First Touch.
+- Style traits point toward Patient in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Press Resistant.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Physical | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Jumping | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Penalties | ██████████ 10/10 |
-| Through Balls | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **patient** (style) — severity 5/10
-- **press_resistant** (tactical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Hugo Sotelo is a dynamic Tuttocampista, characterized by his Connector archetype
 - **Pressure (JP)**: 47
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Patient** (style) — severity 5/10
+- **Press Resistant** (tactical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

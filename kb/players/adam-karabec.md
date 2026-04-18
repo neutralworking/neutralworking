@@ -2,7 +2,7 @@
 title: Adam Karabec
 category: players
 tags: [AM, Lyon, Czech Republic, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Lyon. Archetype: Creator.
@@ -26,34 +26,50 @@ backlinks: [creator, lyon]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Athletic attacking midfielder with sharp vertical passing and the capacity to manipulate space in the half-spaces through intelligent positioning. Tends to operate in bursts rather than sustaining tempo, and his press resistance isn't elite—gets hurried when teams close him quickly. Useful rotational option at a competitive Ligue 1 side but lacks the consistency or range to anchor a midfield.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Trequartista` with model support score `74`.
+- Primary archetype leans toward `Creator` behaviour from a `AM` base.
+- Most bankable strengths show up in Balance, Acceleration, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Acceleration, and Pace.
+- Style traits point toward Technical Ability and Flamboyant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Heading | ██████████ 10/10 |
-| Flair | █████████░ 9/10 |
-| Marking | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Technical Ability** (style) — severity 5/10
-- **flamboyant** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,6 +79,21 @@ Athletic attacking midfielder with sharp vertical passing and the capacity to ma
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Technical Ability** (style) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

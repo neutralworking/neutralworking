@@ -2,7 +2,7 @@
 title: Bobby Wood
 category: players
 tags: [CF, New England Revolution, United States, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at New England Revolution. Archetype: Striker.
@@ -26,29 +26,50 @@ backlinks: [striker, new-england-revolution]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A poacher's poacher who still understands the geometry of the box—quick feet, intelligent positioning, and a ruthless finishing touch when chances arrive. He's lost a yard of pace and can't carry the ball through congested space anymore, which limits him to a pure penalty-area role. At 33, he's a useful depth piece or rotation option in MLS, exactly the kind of veteran striker who'll nick you 8-10 goals off the bench, but he can't be your primary focal point in attack if you want progressive build-play.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Acceleration, and Balance.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and Balance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Long Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Volleys | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Penalties | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Aggression | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +79,11 @@ A poacher's poacher who still understands the geometry of the box—quick feet, 
 - **Pressure (JP)**: 46
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

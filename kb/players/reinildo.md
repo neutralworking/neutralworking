@@ -2,7 +2,7 @@
 title: Reinildo
 category: players
 tags: [CM, Sunderland, Destroyer-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sunderland. Archetype: Destroyer-Creator.
@@ -26,38 +26,54 @@ backlinks: [destroyer, sunderland]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Reinildo, a Connector Tuttocampista from the Ball Winner blueprint, offers a composed and combative central presence, excelling in interceptions, duels, and awareness, while also contributing to build-up play with strong pass accuracy. Historically, players of his ilk serve as vital links in midfield, recycling possession and breaking up opposition attacks, fitting well into systems that demand an all-round contribution. Despite his valuable technical and physical traits, his limited mental attributes, inconsistent discipline, and occasional flamboyance present a risk for a Director of Football, suggesting he thrives best in a well-organized team structure that can absorb his unpredictable moments.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Interceptions, Aggression, and Awareness.
+
+## In Possession
+
+- Ball-value indicators lean on Interceptions, Aggression, and Awareness.
+- Style traits point toward Positioning, Strength, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Interceptions | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Flair | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Skills | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Interceptions | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Flair | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
-| Positioning | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Shielding | ████████░░ 8/10 |
-| Intensity | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 6/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **flamboyant** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -67,3 +83,21 @@ Reinildo, a Connector Tuttocampista from the Ball Winner blueprint, offers a com
 - **Pressure (JP)**: 63
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 6/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

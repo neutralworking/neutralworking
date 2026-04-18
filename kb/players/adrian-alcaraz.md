@@ -2,7 +2,7 @@
 title: Adrián Alcaraz
 category: players
 tags: [CF, Paraguay]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at None. Archetype: None.
@@ -25,26 +25,58 @@ person_id: 28216
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Adrián Alcaraz projects primarily as a CF with a `None` lean. The strongest database support comes from Duels, Long Range, and Creativity.
+
+## Role Fit
+
+- Best-fit role is `Seconda Punta` with model support score `60`.
+- Most bankable strengths show up in Duels, Long Range, and Creativity.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Duels, Long Range, and Creativity.
+- Style traits point toward Two Footed in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Long Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Drive | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Duels | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Drive | ██████░░░░ 6/10 |
-| Flair | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Physical | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Take Ons | ██████░░░░ 6/10 |
-| Through Balls | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Composure | █████░░░░░ 5/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
 
 - **Two Footed** (style) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

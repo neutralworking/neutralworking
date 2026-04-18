@@ -2,7 +2,7 @@
 title: Joel Voelkerling Persson
 category: players
 tags: [CF, Sirius, Sweden, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Sirius. Archetype: Creator.
@@ -26,34 +26,54 @@ backlinks: [creator, sirius]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A Swedish defender who brings competence and commitment to Lecce's backline, comfortable at full-back or in a back three. However, his athleticism is moderate rather than elite, and he can get exposed against genuinely explosive wingers or when forced to cover significant ground in open play.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `61`.
+- Primary archetype leans toward `Creator` behaviour from a `CF` base.
+- Most bankable strengths show up in Aggression, Composure, and Creativity.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Composure, and Creativity.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Composure | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Discipline | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Duels | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Flair | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Long Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ██████░░░░ 6/10 |
-| Composure | █████░░░░░ 5/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Discipline | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Take Ons | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Through Balls | █████░░░░░ 5/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ A Swedish defender who brings competence and commitment to Lecce's backline, com
 - **Pressure (JP)**: 64
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

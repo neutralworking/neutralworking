@@ -2,7 +2,7 @@
 title: Duje Čop
 category: players
 tags: [CF, HNK Rijeka, Croatia, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at HNK Rijeka. Archetype: Striker.
@@ -26,30 +26,57 @@ backlinks: [striker, hnk-rijeka]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Duje Čop projects primarily as a CF with a `Striker` lean. The strongest database support comes from Carries, Long Range, and Awareness.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `70`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier.
+- Most bankable strengths show up in Carries, Long Range, and Awareness.
+
+## In Possession
+
+- Ball-value indicators lean on Carries, Long Range, and Awareness.
+- Style traits point toward Direct in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Carries | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Long Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Carries | ██████░░░░ 6/10 |
-| Long Range | ██████░░░░ 6/10 |
-| Awareness | █████░░░░░ 5/10 |
-| Intensity | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Physical | ████░░░░░░ 4/10 |
-| Skills | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Threat | ████░░░░░░ 4/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **progressive_carrier** (tactical) — severity 7/10
-- **direct** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -59,3 +86,16 @@ backlinks: [striker, hnk-rijeka]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Progressive Carrier** (tactical) — severity 7/10
+- **Direct** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

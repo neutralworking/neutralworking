@@ -2,7 +2,7 @@
 title: Joe Scally
 category: players
 tags: [WD, Borussia Mönchengladbach, United States, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Borussia Mönchengladbach. Archetype: Destroyer.
@@ -26,35 +26,58 @@ backlinks: [destroyer, borussia-monchengladbach]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 An American right-back of considerable technical quality who combines tireless running with surprisingly refined ball-playing skills—he'll carry the ball vertically with purpose and pick out switches from deep. His defending is solid rather than spectacular; he relies on positioning and shape rather than individual brilliance, and can be caught out by explosive wide players. At 23, he's already a very good Bundesliga regular and could develop into something truly special if his decision-making in advanced areas sharpens.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, Jumping, and Balance.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Balance.
+- Style traits point toward Anticipation in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Close Range | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Anticipation** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +87,18 @@ An American right-back of considerable technical quality who combines tireless r
 - **Pressure (JP)**: 31
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Anticipation** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

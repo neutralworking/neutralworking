@@ -2,7 +2,7 @@
 title: Erick Cabaco
 category: players
 tags: [CD, Estoril, Uruguay, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Estoril. Archetype: Destroyer.
@@ -26,31 +26,59 @@ backlinks: [destroyer, estoril]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Erick Cabaco projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Heading, Interceptions, and Jumping.
+
+## Role Fit
+
+- Best-fit role is `Stopper`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Heading, Interceptions, and Jumping.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Interceptions, and Jumping.
+- Style traits point toward Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Long Range | ██████████ 10/10 |
-| Acceleration | █████████░ 9/10 |
-| Pace | █████████░ 9/10 |
-| Shielding | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Tackling Ability** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +88,17 @@ backlinks: [destroyer, estoril]
 - **Pressure (JP)**: 59
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Tackling Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

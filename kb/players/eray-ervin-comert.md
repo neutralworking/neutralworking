@@ -2,7 +2,7 @@
 title: Eray Ervin Cömert
 category: players
 tags: [CM, Valencia, Powerhouse-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Valencia. Archetype: Powerhouse-Destroyer.
@@ -26,37 +26,54 @@ backlinks: [powerhouse, valencia]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A defensive-minded metodista at 28 whose strengths cluster around ball-winning—jumping, tackling, physical aggression, and positioning awareness—rather than technical distribution or creative responsibility. Cömert's intuitive, empathetic temperament is unusual for a box-focused midfielder, yet his tactical strength and build-up contribution suggest he's comfortable in structured pressing and possession recycling. Carries and creativity are weak entries; he does not progress play, he secures it. At this age with moderate physical pillars, his value concentrates in leagues or systems where relentless defensive work and positional discipline are scarce; elite possession sides would find his lack of technical carry limiting.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `75`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Jumping, Heading, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Heading, and Stamina.
+- Style traits point toward Two Footed, Defensive Awareness, and Tackling Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Heading | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Penalties | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **positional_discipline** (tactical) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -66,3 +83,20 @@ A defensive-minded metodista at 28 whose strengths cluster around ball-winning�
 - **Pressure (JP)**: 60
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Positional Discipline** (tactical) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

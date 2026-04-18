@@ -2,7 +2,7 @@
 title: Xabi Alonso
 category: players
 tags: [DM, Bayern Munich, Spain, Passer-Controller]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Bayern Munich. Archetype: Passer-Controller.
@@ -26,7 +26,7 @@ backlinks: [passer, bayern-munich]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 —-
 position: CM	
@@ -62,31 +62,50 @@ Following Spain's failure to progress out of the group stages at the 2014 World 
 
 His 114 caps make him the fifth-most capped player in the nation's history."
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Regista` with model support score `92`.
+- Primary archetype leans toward `Passer` behaviour from a `DM` base.
+- Most bankable strengths show up in Pass Accuracy, Interceptions, and Long Range.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Interceptions, and Long Range.
+- Style traits point toward Tempo Controller, Through Ball King, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | █████████████████ 17/10 |
-| Pass Range | █████████████████ 17/10 |
-| Interceptions | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Marking | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Aerial Duels | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Skills | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Acceleration | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **tempo_controller** (style) — severity 7/10
-- **through_ball_king** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -96,6 +115,22 @@ His 114 caps make him the fifth-most capped player in the nation's history."
 - **Pressure (JP)**: 58
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Tempo Controller** (style) — severity 7/10
+- **Through Ball King** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

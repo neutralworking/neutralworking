@@ -2,7 +2,7 @@
 title: Jordi Altena
 category: players
 tags: [CM, Hearts, Netherlands, Creator-Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Hearts. Archetype: Creator-Cover.
@@ -26,26 +26,55 @@ backlinks: [creator, hearts]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Altena's Creator-Cover archetype suggests a player who excels at reading the game and making interceptions, but may struggle with the physical demands of the role. His strong technical ability and vision make him a valuable asset in build-up play, but his limited physicality may be exposed in more intense, high-pressing systems. A team that values possession football and clever movement could be a good fit, but may need to provide him with protection and support in defensive phases.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Ball Winner`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in Concentration, Skills, and Communication.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Concentration, Skills, and Communication.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Concentration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Communication | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Drive | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Leadership | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Concentration | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Communication | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Leadership | ██████░░░░ 6/10 |
-| Mental | ██████░░░░ 6/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Aggression | ███░░░░░░░ 3/10 |
-| Tactical | ███░░░░░░░ 3/10 |
-| Physical | ██░░░░░░░░ 2/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -55,3 +84,11 @@ Altena's Creator-Cover archetype suggests a player who excels at reading the gam
 - **Pressure (JP)**: 44
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

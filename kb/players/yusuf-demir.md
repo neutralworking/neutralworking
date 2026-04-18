@@ -2,7 +2,7 @@
 title: Yusuf Demir
 category: players
 tags: [CM, Fenerbahçe, Dribbler-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Fenerbahçe. Archetype: Dribbler-Powerhouse.
@@ -26,7 +26,7 @@ backlinks: [dribbler, fenerbahce]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubRapid Vienna
@@ -45,34 +45,55 @@ They say he could be the "Austrian Messi" and although such comparisons are extr
 **October 2023 update** Failed to get playing time at Galatasaray in the beginning of 2023 and was loaned out to Basel in the summer. The Swiss side are going through a turbulent time at the moment but Demir hopes to shine through the chaos and put his career back on track. There have been reports that Roma have an option to sign him from Galatasaray as part of the Nicolò Zaniolo deal.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `65`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Skill Moves and Technical Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Movement | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Pace | ███████████████ 15/10 |
-| Crossing | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Jumping | ██████████ 10/10 |
-| Stamina | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Heading | █████████░ 9/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **durability** (physical) — severity 6/10
-- **high_press** (tactical) — severity 6/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -82,6 +103,25 @@ They say he could be the "Austrian Messi" and although such comparisons are extr
 - **Pressure (JP)**: 42
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Durability** (physical) — severity 6/10
+- **High Press** (tactical) — severity 6/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

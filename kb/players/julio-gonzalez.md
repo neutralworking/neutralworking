@@ -2,7 +2,7 @@
 title: Julio Gonzalez
 category: players
 tags: [CD, Paraguay]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at None. Archetype: None.
@@ -25,26 +25,62 @@ person_id: 31448
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Julio Gonzalez projects primarily as a CD with a `None` lean. The strongest database support comes from Awareness, Blocking, and Duels.
+
+## Role Fit
+
+- Best-fit role is `Stopper` with model support score `68`.
+- Most bankable strengths show up in Awareness, Blocking, and Duels.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Awareness, Blocking, and Duels.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Marking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Marking | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Pass Accuracy | ████████░░ 8/10 |
-| Tackling | ████████░░ 8/10 |
-| Aerial Duels | ███████░░░ 7/10 |
-| Heading | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
 
 - **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

@@ -2,7 +2,7 @@
 title: Rayan Cherki
 category: players
 tags: [WF, Manchester City, France, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Manchester City. Archetype: Creator-Dribbler.
@@ -26,44 +26,58 @@ backlinks: [creator, manchester-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Prodigiously talented French playmaker. Can do anything with the ball but consistency and off-ball work have held him back from stardom.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `84`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Set Piece Specialist.
+- Most bankable strengths show up in Composure, Creativity, and Pass Accuracy.
+
+## In Possession
+
+- Ball-value indicators lean on Composure, Creativity, and Pass Accuracy.
+- Style traits point toward Two Footed, Skill Moves, and Trickery in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Set Piece Specialist.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Composure | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Creativity | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Through Balls | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Vision | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Carries | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Flair | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Composure | ████████████████ 16/10 |
-| Creativity | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Through Balls | ████████████████ 16/10 |
-| Vision | ████████████████ 16/10 |
-| Carries | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Flair | ███████████████ 15/10 |
-| Penalties | ███████████████ 15/10 |
-| Skills | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Aggression | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Close Range | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 9/10
-- **Skill Moves** (style) — severity 9/10
-- **Trickery** (style) — severity 8/10
-- **set_piece_specialist** (tactical) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Close Control** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **patient** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -73,6 +87,31 @@ Prodigiously talented French playmaker. Can do anything with the ball but consis
 - **Pressure (JP)**: 37
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 9/10
+- **Skill Moves** (style) — severity 9/10
+- **Trickery** (style) — severity 8/10
+- **Set Piece Specialist** (tactical) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Close Control** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **Patient** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

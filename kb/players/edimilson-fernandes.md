@@ -2,7 +2,7 @@
 title: Edimilson Fernandes
 category: players
 tags: [CM, BSC Young Boys, Switzerland, Destroyer-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at BSC Young Boys. Archetype: Destroyer-Passer.
@@ -19,49 +19,65 @@ backlinks: [destroyer, bsc-young-boys]
 | **Position** | CM |
 | **Club** | BSC Young Boys |
 | **Nation** | Switzerland |
-| **Age** | 29 |
+| **Age** | 30 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
 | **Level** | 85 |
 | **Overall** | 64.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A Swiss midfielder of genuine utility but limited ceiling—the sort of player who makes a team function without ever making it sing. Fernandes operates as a ball-progressor in deeper midfield zones, comfortable carrying into the half-spaces and releasing others with simple, accurate passing; his positioning is sound and he rarely loses the ball in transition. What he isn't, however, is a creative fulcrum or a destroyer—he lacks the technical range to open a defense or the athletic intensity to suffocate an opponent's rhythm. At 29, he's precisely what Young Boys need for competitive balance in the Swiss Super League, but he's a rotation-level performer at any genuinely ambitious European club.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `59`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Set Piece Specialist.
+- Most bankable strengths show up in First Touch, Jumping, and Marking.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Jumping, and Marking.
+- Style traits point toward Two Footed, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Set Piece Specialist.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Movement | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
-- **hot_headed** (behavioral) — severity 4/10
-- **patient** (style) — severity 4/10
-- **set_piece_specialist** (tactical) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -71,3 +87,25 @@ A Swiss midfielder of genuine utility but limited ceiling—the sort of player w
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Patient** (style) — severity 4/10
+- **Set Piece Specialist** (tactical) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

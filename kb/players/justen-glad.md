@@ -2,7 +2,7 @@
 title: Justen Glad
 category: players
 tags: [CD, Real Salt Lake, United States, Cover-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Real Salt Lake. Archetype: Cover-Powerhouse.
@@ -26,31 +26,60 @@ backlinks: [cover, real-salt-lake]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Justen Glad projects primarily as a CD with a `Cover-Powerhouse` lean. The strongest database support comes from Jumping, Stamina, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Colossus` with model support score `77`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Stamina, and Acceleration.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Acceleration.
+- Style traits point toward Aerial Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| First Touch | ███████████ 11/10 |
-| Balance | ██████████ 10/10 |
-| Long Range | █████████░ 9/10 |
-| Movement | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **endurance** (physical) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +89,17 @@ backlinks: [cover, real-salt-lake]
 - **Pressure (JP)**: 35
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Endurance** (physical) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

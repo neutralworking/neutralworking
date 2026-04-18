@@ -2,7 +2,7 @@
 title: D. Gorosito
 category: players
 tags: [WM, Gent, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Gent. Archetype: Destroyer-Powerhouse.
@@ -26,25 +26,50 @@ backlinks: [destroyer, gent]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+D. Gorosito projects primarily as a WM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Shielding, Tackling, and Marking.
+
+## Role Fit
+
+- Best-fit role is `Tornante`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
+- Most bankable strengths show up in Shielding, Tackling, and Marking.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Tackling, and Marking.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ████████████████ 16/10 |
-| Tackling | ██████████████ 14/10 |
-| Marking | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Aggression | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Balance | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| First Touch | █████████░ 9/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +79,10 @@ backlinks: [destroyer, gent]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

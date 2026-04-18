@@ -2,7 +2,7 @@
 title: Christoph Leitgeb
 category: players
 tags: [CM, Austria, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: Sprinter-Dribbler.
@@ -26,31 +26,55 @@ backlinks: [sprinter]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Christoph Leitgeb projects primarily as a CM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, First Touch, and Pass Accuracy.
+
+## Role Fit
+
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Most bankable strengths show up in Acceleration, First Touch, and Pass Accuracy.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Pass Accuracy.
+- Style traits point toward Dribbler, Pace, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Vision | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Mid Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Vision | ██████████████ 14/10 |
-| Interceptions | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Aerial Duels | ██████████ 10/10 |
-| Heading | ██████████ 10/10 |
-| Skills | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Pace | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Dribbler** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [sprinter]
 - **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Dribbler** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

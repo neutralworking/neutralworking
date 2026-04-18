@@ -1,13 +1,13 @@
 ---
 title: Arnaud Kalimuendo
 category: players
-tags: [CF, Eintracht Frankfurt, France, Striker-Creator]
-updated: 2026-04-14
+tags: [CF, Nottingham Forest, France, Striker-Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Eintracht Frankfurt. Archetype: Striker-Creator.
+summary: CF at Nottingham Forest. Archetype: Striker-Creator.
 person_id: 8707
-backlinks: [striker, eintracht-frankfurt]
+backlinks: [striker, nottingham-forest]
 ---
 
 # Arnaud Kalimuendo
@@ -17,7 +17,7 @@ backlinks: [striker, eintracht-frankfurt]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Eintracht Frankfurt |
+| **Club** | Nottingham Forest |
 | **Nation** | France |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker-Creator |
@@ -26,42 +26,58 @@ backlinks: [striker, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A rangy, direct centre-forward who thrives on the shoulder and in transitions, pressing high with genuine intensity and a nasty habit of forcing defenders into mistakes. He's a willing runner in behind and offers real mobility for a no. 9, but he's not a target-man type and won't consistently hold up play or create space for runners with his back to goal.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
+- Most bankable strengths show up in Jumping, Shielding, and Movement.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Shielding, and Movement.
+- Style traits point toward Flamboyant, Trickery, and Close Control in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier and Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Movement | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| Crossing | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Carries | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 6/10
-- **progressive_carrier** (tactical) — severity 6/10
-- **counter_attack_threat** (tactical) — severity 6/10
-- **Trickery** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
-- **hot_headed** (behavioral) — severity 4/10
-- **Pace** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -71,3 +87,25 @@ A rangy, direct centre-forward who thrives on the shoulder and in transitions, p
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 6/10
+- **Progressive Carrier** (tactical) — severity 6/10
+- **Counter Attack Threat** (tactical) — severity 6/10
+- **Trickery** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Pace** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

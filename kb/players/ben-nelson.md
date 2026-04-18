@@ -2,7 +2,7 @@
 title: Ben Nelson
 category: players
 tags: [CD, Leicester City, England, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Leicester City. Archetype: Destroyer.
@@ -26,35 +26,58 @@ backlinks: [destroyer, leicester-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Central defender still working out the technical and positional fundamentals required at Premier League level; he's a willing learner with physical tools—decent height, okay recovery pace—but he gets caught in moments of daydreaming on the ball and isn't yet reliable as a press trigger. He's academy-developed stock with potential to grow, but right now he's a reserve earning occasional cameos.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `57`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Positional Discipline.
+- Most bankable strengths show up in Jumping, Pace, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Acceleration.
+- Style traits point toward Two Footed in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Long Range | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Take Ons | █████████░ 9/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Blocking | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **aerial_threat** (physical) — severity 6/10
-- **positional_discipline** (tactical) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +87,18 @@ Central defender still working out the technical and positional fundamentals req
 - **Pressure (JP)**: 60
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Positional Discipline** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

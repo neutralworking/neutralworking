@@ -2,7 +2,7 @@
 title: Joe Willock
 category: players
 tags: [AM, Newcastle United, England, Dribbler-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Newcastle United. Archetype: Dribbler-Destroyer.
@@ -26,37 +26,54 @@ backlinks: [dribbler, newcastle-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 English midfielder. Arrives in the box, scores goals. Lacks the craft to control games but his energy and goal threat are valuable.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Trequartista` with model support score `80`.
+- Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
+- Most bankable strengths show up in Balance, First Touch, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, First Touch, and Pace.
+- Style traits point toward Finishing and Press Proven in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Interceptions | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Finishing** (style) — severity 5/10
-- **Press Proven** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +83,20 @@ English midfielder. Arrives in the box, scores goals. Lacks the craft to control
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Finishing** (style) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

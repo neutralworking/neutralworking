@@ -2,7 +2,7 @@
 title: Kike García
 category: players
 tags: [CF, Espanyol, Spain, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Espanyol. Archetype: Striker.
@@ -26,38 +26,58 @@ backlinks: [striker, espanyol]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Physical centre-forward with the aerial presence and hold-up play you'd want from a target man, capable of bringing others into play with intelligent flicks and lay-offs in and around the box. His movement off the ball is limited, however—he often drifts into congested areas rather than making sharp runs into space—and his finishing from open play lacks clinical precision. A useful squad option for a mid-table side, but not a starting talent at a competitive club.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `71`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Jumping, Movement, and Physical.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Movement, and Physical.
+- Style traits point toward Direct, Two Footed, and Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| First Touch | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Balance | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Interceptions | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
-| Duels | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **direct** (style) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **counter_attack_threat** (tactical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -67,3 +87,21 @@ Physical centre-forward with the aerial presence and hold-up play you'd want fro
 - **Pressure (JP)**: 55
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Direct** (style) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Counter Attack Threat** (tactical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

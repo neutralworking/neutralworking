@@ -2,7 +2,7 @@
 title: Guyon Fernandez
 category: players
 tags: [CF, Cruz Azul, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Cruz Azul. Archetype: Sprinter.
@@ -26,33 +26,60 @@ backlinks: [sprinter, cruz-azul]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Guyon Fernandez projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Acceleration, Pace, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and First Touch.
+- Style traits point toward Direct, Pace, and Acceleration in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Tackling | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████████ 18/10 |
-| Pace | ██████████████████ 18/10 |
-| First Touch | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Pass Range | ██████████ 10/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Carries | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
-| Threat | ███████░░░ 7/10 |
-| Close Range | ██████░░░░ 6/10 |
-| Mental | ██████░░░░ 6/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **counter_attack_threat** (tactical) — severity 8/10
-- **direct** (style) — severity 6/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -62,3 +89,19 @@ backlinks: [sprinter, cruz-azul]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Counter Attack Threat** (tactical) — severity 8/10
+- **Direct** (style) — severity 6/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

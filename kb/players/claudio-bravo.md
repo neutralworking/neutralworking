@@ -1,13 +1,13 @@
 ---
 title: Claudio Bravo
 category: players
-tags: [CD, Argentina, Powerhouse]
-updated: 2026-04-14
+tags: [GK, Chile, GK]
+updated: 2026-04-17
 source: compiled
-confidence: high
-summary: CD at None. Archetype: Powerhouse.
-person_id: 9665
-backlinks: [powerhouse]
+confidence: low
+summary: GK at None. Archetype: GK.
+person_id: 9666
+backlinks: [gk]
 ---
 
 # Claudio Bravo
@@ -16,52 +16,52 @@ backlinks: [powerhouse]
 
 | Field | Value |
 |---|---|
-| **Position** | CD |
+| **Position** | GK |
 | **Club** | None |
-| **Nation** | Argentina |
+| **Nation** | Chile |
 | **Age** | 29 |
-| **Archetype** | [[powerhouse]] Powerhouse |
-| **Level** | 80 |
-| **Overall** | 77.0 |
+| **Archetype** | [[gk]] GK |
+| **Level** | 84 |
+| **Overall** | None |
 | **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 GK		Playmaker				B	0.0
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Aggression | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Positioning | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Interceptions | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Awareness | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
 
-## Personality
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 42
-- **Social (TF)**: 34
-- **Pressure (JP)**: 55
-- **Competitiveness**: 8/10
-- **Coachability**: 4/10
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

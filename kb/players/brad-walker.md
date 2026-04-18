@@ -2,7 +2,7 @@
 title: Brad Walker
 category: players
 tags: [CM, Port Vale, England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Port Vale. Archetype: Powerhouse.
@@ -26,33 +26,55 @@ backlinks: [powerhouse, port-vale]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Journeyman midfielder with good work rate and leadership qualities, but technically limited in possession. More valuable as a dressing-room presence and rotation option than as a starting midfielder in a competitive division.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Aggression, Balance, and Physical.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Balance, and Physical.
+- Style traits point toward Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Stamina | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,3 +84,16 @@ Journeyman midfielder with good work rate and leadership qualities, but technica
 - **Pressure (JP)**: 53
 - **Competitiveness**: 7/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Justin Janssen
 category: players
 tags: [CM, Nordsjaelland, Destroyer-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Nordsjaelland. Archetype: Destroyer-Striker.
@@ -26,35 +26,53 @@ backlinks: [destroyer, nordsjaelland]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Janssen's Marshal archetype suggests a player with strong technical ability and vision, but his limited creativity and guile are concerns, and he would thrive in a possession-based system that values discipline and build-up play, where his build_up_contributor trait can be leveraged, and a club looking to develop a young, technically-gifted midfielder would be a good fit, although his lack of physicality and athleticism pose risks, and a team requiring a more dynamic, box-to-box midfielder may not be the best match, but his hot-headed trait may lead to disciplinary issues, and his high_press trait suggests he can excel in a high-intensity system.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Through Balls, Close Range, and Intensity.
+
+## In Possession
+
+- Ball-value indicators lean on Through Balls, Close Range, and Intensity.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Intensity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Through Balls | █████████░ 9/10 |
-| Close Range | ████████░░ 8/10 |
-| Intensity | ████████░░ 8/10 |
-| Pass Accuracy | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Awareness | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Take Ons | ███████░░░ 7/10 |
-| Technical | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 7/10
-- **high_press** (tactical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +82,18 @@ Janssen's Marshal archetype suggests a player with strong technical ability and 
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 7/10
+- **High Press** (tactical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

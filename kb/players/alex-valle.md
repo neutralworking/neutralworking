@@ -2,7 +2,7 @@
 title: Álex Valle
 category: players
 tags: [CM, Como, Powerhouse-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Como. Archetype: Powerhouse-Dribbler.
@@ -26,34 +26,53 @@ backlinks: [powerhouse, como]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Valle, a Connector archetype best suited as a Tuttocampista, brings impressive physical attributes, pace, and stamina to the holding midfield role, serving as a crucial build-up contributor in high-press schemes. His first touch is solid, but a moderate technical foundation limits his overall creative output and guile, suggesting he thrives more as a facilitator than an innovator. Clubs looking for a physically imposing, press-resistant presence in the middle, capable of linking play but not dictating it, would find value, though his limited mental pillar poses a risk for consistency in high-pressure environments.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `71`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in First Touch, Stamina, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Stamina, and Acceleration.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -63,3 +82,17 @@ Valle, a Connector archetype best suited as a Tuttocampista, brings impressive p
 - **Pressure (JP)**: 53
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

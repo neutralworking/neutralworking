@@ -2,7 +2,7 @@
 title: Adam Hlozek
 category: players
 tags: [CF, 1899 Hoffenheim, Czechia, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker-Creator.
@@ -26,39 +26,54 @@ backlinks: [striker, 1899-hoffenheim]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Intelligent, press-resistant forward with good link-up play and work rate, but inconsistent finishing and decision-making in the final third limits his ceiling at this level. Decent Bundesliga starter with Europa-level potential if he tightens his conversion.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `78`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Physical, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and First Touch.
+- Style traits point toward Two Footed, Finishing, and Close Control in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Physical | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Close Range | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Mid Range | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,3 +83,22 @@ Intelligent, press-resistant forward with good link-up play and work rate, but i
 - **Pressure (JP)**: 60
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

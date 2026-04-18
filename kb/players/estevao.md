@@ -2,7 +2,7 @@
 title: Estêvão
 category: players
 tags: [WF, Chelsea, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Chelsea. Archetype: Creator.
@@ -26,29 +26,52 @@ backlinks: [creator, chelsea]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Estêvão projects primarily as a WF with a `Creator` lean. The strongest database support comes from Physical, Jumping, and Penalties.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `75`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Physical, Jumping, and Penalties.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Penalties.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Penalties | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Skills | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Take Ons | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████ 11/10 |
-| Penalties | ██████████ 10/10 |
-| Creativity | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Reactions | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +81,15 @@ backlinks: [creator, chelsea]
 - **Pressure (JP)**: 40
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

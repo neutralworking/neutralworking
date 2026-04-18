@@ -2,7 +2,7 @@
 title: Deco
 category: players
 tags: [CM, Portugal, Creator-Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: Creator-Engine.
@@ -26,35 +26,54 @@ backlinks: [creator]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 CM	Crafty	Playmaker	Maestro	Port, Barcelona	POR	A	85.5	Deco was a versatile, tactically intelligent, and creative midfielder, with excellent vision and technical ability. A generous team-player, he was capable of playing in several midfield positions; he was initially deployed as a central midfielder under manager José Mourinho, during his time with Porto, although he was also capable of playing as an attacking midfielder, as a deep-lying playmaker, or as a winger on either flank. Although he lacked pace and stamina, as well as notable physical, defensive, and athletic attributes, he possessed excellent ball control, dribbling, Press Resistant, and crossing ability, which allowed him to beat players, find space, and create chances for team-mates. As he lost his acceleration, agility, and mobility in later years, he also underwent a physical development, along with his balance, enabled him to protect the ball against larger opponents. In addition to his creative duties, Deco was also capable of contributing offensively with occasional goals, due to his accurate shooting ability, and his adeptness at free-kicks. Despite his talent, Deco was also known to be injury-prone and inconsistent at times; furthermore, his work-rate and fitness were often brought into question. Deco was also notorious for his tendency to commit tactical fouls, and he was accused of diving throughout his career.	Deco is one of the few players to have won the UEFA Champions League with two clubs – FC Porto in 2004 and FC Barcelona in 2006. He was named UEFA Club Footballer of the Year and UEFA Best Midfielder in Porto's Champions League-winning season and was named Man of the Match in the 2003–04 Champions League final. Deco was the first player to win the UEFA Best Midfielder Award with two clubs, Porto and Barcelona. He was awarded the 2006 FIFA Club World Cup Golden Ball and the Man of the Match award in the final despite losing to Internacional. Born and raised in Brazil, Deco received Portuguese citizenship in 2002 having completed five years of Portuguese residence, and subsequently opted to play internationally for the Portugal national football team. He earned 75 caps for them, playing at two European Championships and two World Cups.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Mezzala` with model support score `91`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in First Touch, Pass Accuracy, and Take Ons.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on First Touch, Pass Accuracy, and Take Ons.
+- Style traits point toward Dribbler, Ball Progressor, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Vision | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Mid Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Volleys | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Skills | ████████████████ 16/10 |
-| Vision | ████████████████ 16/10 |
-| Long Range | ██████████████ 14/10 |
-| Mid Range | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Aerial Duels | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Interceptions | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Tackling | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Dribbler** (style) — severity 7/10
-- **Ball Progressor** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,6 +83,22 @@ CM	Crafty	Playmaker	Maestro	Port, Barcelona	POR	A	85.5	Deco was a versatile, tac
 - **Pressure (JP)**: 32
 - **Competitiveness**: 6/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Dribbler** (style) — severity 7/10
+- **Ball Progressor** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

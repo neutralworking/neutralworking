@@ -2,7 +2,7 @@
 title: Antonio Nusa
 category: players
 tags: [WF, RB Leipzig, Norway, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at RB Leipzig. Archetype: Creator-Dribbler.
@@ -19,47 +19,61 @@ backlinks: [creator, rb-leipzig]
 | **Position** | WF |
 | **Club** | RB Leipzig |
 | **Nation** | Norway |
-| **Age** | 20 |
+| **Age** | 21 |
 | **Archetype** | [[creator]] Creator-Dribbler |
 | **Level** | 87 |
 | **Overall** | 77.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Young Norwegian winger with electric pace and direct running style, but inconsistent final product and decision-making suggest he's still several seasons away from elite consistency; high ceiling if he improves efficiency.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger` with model support score `82`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Pace, and Shielding.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Pace, and Shielding.
+- Style traits point toward Flamboyant, Two Footed, and Skill Moves in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Jumping | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Movement | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Marking | ███████████ 11/10 |
-| Duels | ██████████ 10/10 |
-| Flair | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -69,3 +83,23 @@ Young Norwegian winger with electric pace and direct running style, but inconsis
 - **Pressure (JP)**: 45
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

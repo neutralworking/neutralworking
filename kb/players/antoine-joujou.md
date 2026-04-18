@@ -2,7 +2,7 @@
 title: Antoine Joujou
 category: players
 tags: [WF, Famalicão, France, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Famalicão. Archetype: Creator.
@@ -26,37 +26,58 @@ backlinks: [creator, famalicao]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A French winger operating in Liga Portugal's mid-table ecosystem who offers directness and athleticism on the left flank, with a natural lean toward cutting inside or driving at fullbacks in half-spaces. He's quick enough to be a threat in transition and has the physical tools to impose himself in Portuguese football's tempo, but technical execution—particularly final-ball accuracy and composure in the box—remains inconsistent for someone approaching his mid-twenties. There's a hardness to his game that suits pressing systems, but he lacks the spatial awareness and off-ball positioning to operate effectively at a higher level where defenses don't gift him time in possession.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `72`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Acceleration, First Touch, and Movement.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Movement.
+- Style traits point toward Direct and Finishing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Heading | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Pass Range | ██████████ 10/10 |
-| Pressing | █████████░ 9/10 |
-| Close Range | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **direct** (style) — severity 6/10
-- **counter_attack_threat** (tactical) — severity 6/10
-- **Finishing** (style) — severity 4/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -66,3 +87,20 @@ A French winger operating in Liga Portugal's mid-table ecosystem who offers dire
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Direct** (style) — severity 6/10
+- **Counter Attack Threat** (tactical) — severity 6/10
+- **Finishing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

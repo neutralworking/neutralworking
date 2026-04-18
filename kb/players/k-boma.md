@@ -2,7 +2,7 @@
 title: K. Boma
 category: players
 tags: [CM, Estoril, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Estoril. Archetype: Destroyer-Powerhouse.
@@ -26,30 +26,55 @@ backlinks: [destroyer, estoril]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+K. Boma projects primarily as a CM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Heading, Jumping, and Marking.
+
+## Role Fit
+
+- Best-fit role is `Tuttocampista` with model support score `73`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Heading, Jumping, and Marking.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Jumping, and Marking.
+- Style traits point toward Aerial Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Shielding | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ███████████████ 15/10 |
-| Heading | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Shielding | ██████████ 10/10 |
-| Blocking | █████████░ 9/10 |
-| Acceleration | ████████░░ 8/10 |
-| Awareness | ████████░░ 8/10 |
-| Crossing | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Interceptions | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [destroyer, estoril]
 - **Pressure (JP)**: 66
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

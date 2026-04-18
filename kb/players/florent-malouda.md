@@ -2,7 +2,7 @@
 title: Florent Malouda
 category: players
 tags: [WM, FC Differdange 03, France, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at FC Differdange 03. Archetype: Creator.
@@ -26,33 +26,50 @@ backlinks: [creator, fc-differdange-03]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 WF		Winger		Chelsea	FRA	B	0.0
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Winger`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Skills, Acceleration, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Skills, Acceleration, and First Touch.
+- Style traits point toward Speed Merchant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Aerial Duels | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Composure | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Skills | █████████████████ 17/10 |
-| Acceleration | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Aerial Duels | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Close Range | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Speed Merchant** (style) — severity 7/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,6 +79,20 @@ WF		Winger		Chelsea	FRA	B	0.0
 - **Pressure (JP)**: 32
 - **Competitiveness**: 3/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Speed Merchant** (style) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

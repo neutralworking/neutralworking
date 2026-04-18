@@ -2,7 +2,7 @@
 title: Bernardo Silva
 category: players
 tags: [WM, Manchester City, Portugal, Controller-Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Manchester City. Archetype: Controller-Engine.
@@ -26,44 +26,53 @@ backlinks: [controller, manchester-city]
 | **Pursuit** | Interested |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 One of the most intelligent players in football. Pressing triggers, spatial awareness, and ball retention are elite. Can play CM, RW, or as a false 9. Guardiola's most trusted player. Portugal regular. Has wanted to leave City for Barcelona — could become available.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `False Winger` with model support score `86`.
+- Primary archetype leans toward `Controller` behaviour from a `WM` base.
+- Most bankable strengths show up in Reactions, Awareness, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Awareness, and First Touch.
+- Style traits point toward Technical Ability, Skill Moves, and Patient in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat, Availability, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Awareness | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pressing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Carries | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Discipline | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Intensity | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████████ 18/10 |
-| Awareness | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Pressing | ████████████████ 16/10 |
-| Carries | ███████████████ 15/10 |
-| Discipline | ███████████████ 15/10 |
-| Intensity | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Versatility | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Positioning | ██████████████ 14/10 |
-| Skills | ██████████████ 14/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **availability** (physical) — severity 10/10
-- **Technical Ability** (style) — severity 8/10
-- **durability** (physical) — severity 6/10
-- **Skill Moves** (style) — severity 6/10
-- **patient** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **Ball Retention** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -73,3 +82,27 @@ One of the most intelligent players in football. Pressing triggers, spatial awar
 - **Pressure (JP)**: 42
 - **Competitiveness**: 7/10
 - **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Availability** (physical) — severity 10/10
+- **Technical Ability** (style) — severity 8/10
+- **Durability** (physical) — severity 6/10
+- **Skill Moves** (style) — severity 6/10
+- **Patient** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Ball Retention** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

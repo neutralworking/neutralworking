@@ -2,7 +2,7 @@
 title: Josh Wilson-Esbrand
 category: players
 tags: [WD, Radomiak Radom, England, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Radomiak Radom. Archetype: Sprinter.
@@ -26,31 +26,59 @@ backlinks: [sprinter, radomiak-radom]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Josh Wilson-Esbrand projects primarily as a WD with a `Sprinter` lean. The strongest database support comes from Shielding, Acceleration, and Pace.
+
+## Role Fit
+
+- Best-fit role is `Corner Back` with model support score `72`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
+- Most bankable strengths show up in Shielding, Acceleration, and Pace.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Acceleration, and Pace.
+- Style traits point toward Pace in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Take Ons | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Movement | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Long Range | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Through Balls | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +88,17 @@ backlinks: [sprinter, radomiak-radom]
 - **Pressure (JP)**: 47
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: Aymen Hussein
 category: players
 tags: [CF, Al-Jawiya, Iraq, Powerhouse-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Al-Jawiya. Archetype: Powerhouse-Dribbler.
@@ -26,34 +26,50 @@ backlinks: [powerhouse, al-jawiya]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Aymen Hussein is a physical presence up front, using his balance and shielding to hold up the ball and bring others into play, but his lack of technical and tactical acumen means he often struggles to create chances for himself or others in tight half-spaces. His acceleration and pace make him a threat on the counter, but he can be predictable in his movements, relying too heavily on his power rather than guile. Ultimately, his limitations mean he's best suited to a poacher role, where he can focus on finishing chances rather than creating them.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Work Rate and Trickery in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Acceleration | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Aggression | █████████████ 13/10 |
-| Awareness | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Work Rate** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +79,17 @@ Aymen Hussein is a physical presence up front, using his balance and shielding t
 - **Pressure (JP)**: 42
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Work Rate** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

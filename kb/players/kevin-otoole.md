@@ -2,7 +2,7 @@
 title: Kevin O'Toole
 category: players
 tags: [CD, New York City FC, United States, Sprinter-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at New York City FC. Archetype: Sprinter-Destroyer.
@@ -26,25 +26,56 @@ backlinks: [sprinter, new-york-city-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Kevin O'Toole projects primarily as a CD with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, Stamina, and Take Ons.
+
+## Role Fit
+
+- Best-fit role is `Centrale` with model support score `72`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
+- Most bankable strengths show up in Acceleration, Stamina, and Take Ons.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Stamina, and Take Ons.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Close Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Movement | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Close Range | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Jumping | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Penalties | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +85,10 @@ backlinks: [sprinter, new-york-city-fc]
 - **Pressure (JP)**: 46
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

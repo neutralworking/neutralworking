@@ -2,7 +2,7 @@
 title: Aschraf El Mahdioui
 category: players
 tags: [CM, Al Taawon, Morocco, Powerhouse-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Al Taawon. Archetype: Powerhouse-Dribbler.
@@ -26,37 +26,54 @@ backlinks: [powerhouse, al-taawon]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Experienced campaigner in the Derde Divisie with the physicality and positioning nous you'd expect from a 29-year-old defender. Reads the game reasonably well and is comfortable on the ball for his age and level. Mobility is starting to go and he'll struggle if asked to cover space laterally against younger, sharper attackers.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `77`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Stamina, First Touch, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, First Touch, and Reactions.
+- Style traits point toward Two Footed, Defensive Awareness, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ██████████████████ 18/10 |
-| First Touch | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Penalties | ████████████ 12/10 |
-| Jumping | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Heading | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -66,3 +83,20 @@ Experienced campaigner in the Derde Divisie with the physicality and positioning
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

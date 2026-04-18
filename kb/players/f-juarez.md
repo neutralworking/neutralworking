@@ -2,7 +2,7 @@
 title: F. Juárez
 category: players
 tags: [CD, Platense, Dribbler-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Platense. Archetype: Dribbler-Sprinter.
@@ -26,32 +26,55 @@ backlinks: [dribbler, platense]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+F. Juárez projects primarily as a CD with a `Dribbler-Sprinter` lean. The strongest database support comes from Shielding, Pass Range, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Distributor` with model support score `69`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Shielding, Pass Range, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Pass Range, and First Touch.
+- Style traits point toward Tackling Ability and Passing Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Vision | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ███████████████ 15/10 |
-| Pass Range | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Vision | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Jumping | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| Movement | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 6/10
-- **Tackling Ability** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -61,3 +84,18 @@ backlinks: [dribbler, platense]
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 6/10
+- **Tackling Ability** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

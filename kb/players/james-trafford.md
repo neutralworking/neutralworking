@@ -2,7 +2,7 @@
 title: James Trafford
 category: players
 tags: [GK, Manchester City, England, GK]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Manchester City. Archetype: GK.
@@ -26,35 +26,56 @@ backlinks: [gk, manchester-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 English goalkeeper prospect. Needs a loan to develop — not ready for City's first team.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Physical.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Jumping, and Physical.
+- Style traits point toward Cross Claimer, Far Throw, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████ 14/10 |
-| Jumping | ████████████ 12/10 |
-| Physical | ████████████ 12/10 |
-| Acceleration | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Pass Range | ████████░░ 8/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Mental | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Stamina | ███░░░░░░░ 3/10 |
-| Awareness | ██░░░░░░░░ 2/10 |
-| Intensity | ██░░░░░░░░ 2/10 |
-| Carries | █░░░░░░░░░ 1/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Cross Claimer** (style) — severity 5/10
-- **Far Throw** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +85,18 @@ English goalkeeper prospect. Needs a loan to develop — not ready for City's fi
 - **Pressure (JP)**: 57
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Cross Claimer** (style) — severity 5/10
+- **Far Throw** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 17 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

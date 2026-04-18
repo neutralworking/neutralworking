@@ -2,7 +2,7 @@
 title: Hasan Ali Kaldırım
 category: players
 tags: [WD, Turkey, Powerhouse-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at None. Archetype: Powerhouse-Cover.
@@ -26,30 +26,55 @@ backlinks: [powerhouse]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Hasan Ali Kaldırım projects primarily as a WD with a `Powerhouse-Cover` lean. The strongest database support comes from Shielding, Through Balls, and Composure.
+
+## Role Fit
+
+- Best-fit role is `Corner Back`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
+- Most bankable strengths show up in Shielding, Through Balls, and Composure.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Through Balls, and Composure.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Through Balls | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ███████████████ 15/10 |
-| Through Balls | ███████████████ 15/10 |
-| Aggression | ██████████████ 14/10 |
-| Awareness | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [powerhouse]
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

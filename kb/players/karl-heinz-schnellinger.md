@@ -1,0 +1,75 @@
+---
+title: Karl-Heinz Schnellinger
+category: players
+tags: [CD, Germany]
+updated: 2026-04-18
+source: compiled
+confidence: low
+summary: CD at None. Archetype: None.
+person_id: 13330
+---
+
+# Karl-Heinz Schnellinger
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | CD |
+| **Club** | None |
+| **Nation** | Germany |
+| **Age** | 87 |
+| **Archetype** | [[—]] None |
+| **Level** | 44 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+WD		Athlete	Volkswagen		GER	B	0.0	The tall Schnellinger became one of the best German defenders renowned for his physical presence, pace and winning mentality, he impressed already at an early age, playing his first World Cup aged 19 in 1958. When he signed for Köln in 1959 coming from Düren 99, he was often playing as a half back but soon settled as a left back. In this position, he reached the absolute top level in international football the following years, impressing with his good overview, Positioning, pace and aerial ability. Equipped with a very good touch, Schnellinger was adept at build up with his good passing skills but also an uncompromising tackler who was hard to beat in one-on-one situations. A hard-boiled nature, Schnellinger was hard to ruffle and with his stoic calmness he was very influential on his teammates. By 1960, Schnellinger was rated as Germany’s no. 1 full back and after his impressive display at the 1962 World Cup, where he easily was Germany’s best-performing player, he was also considered one of the best full backs worldwide. Soon after the ’62 World Cup, Schnellinger left Germany to play in Italy and he is now mostly associated with being the defensive pillar of the star-studded AC Milan side of the 1960s and early-1970s. In his first four years at Milan, Schnellinger adopted the sweeper role and became one of the best sweepers of that tournament.		Having represented West Germany in four World Cups between 1958 and 1970, left-back Karl-Heinz Schnellinger is remembered as one of his country's longest serving and most reliable defenders. After starting his professional career with 1. FC Köln, he went on to spend many successful years in Italy where he won a number of major trophies with AC Milan during the late 1960s and early 1970s. Schnellinger was born in the town of Düren, near Cologne, on 31 March 1939. At the age of 10 he joined hometown team SG Düren 99, growing into a strong-tackling and powerful defender who would later earn the nickname 'Volkswagen' due to his consistency of performance. Although primarily a left sided player, his intelligent reading of the game allowed him to make an impact in a variety of defensive positions, including as a sweeper. Schnellinger is the greatest defender ever to come from Germany. He was not only rated in 4.5 world-class seasons in Bundesliga and World Cup tournaments from kicker ranking but also a consistency world-class defender in Italian series A for years and becoming the best defender of the world during decade of 1960s alongside Bobby Moore. Schnellinger mainly played as left-back in 4-4-2 system but he sometimes was used as sweeper for Germany which he was still rated in world-class in world cup 1970. He was noted for his superlatively positional play, tackling ability, physical power pace and his winning mentality. Moreover, Schnellinger also did offensively duty well especially his long passing. His best year was 1962 which was the only year he won 2 major individual awards.
+
+## Role Fit
+
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+---
+{}
+---
+
+WD		Athlete	Volkswagen		GER	B	0.0	The tall Schnellinger became one of the best German defenders renowned for his physical presence, pace and winning mentality, he impressed already at an early age, playing his first World Cup aged 19 in 1958. When he signed for Köln in 1959 coming from Düren 99, he was often playing as a half back but soon settled as a left back. In this position, he reached the absolute top level in international football the following years, impressing with his good overview, Positioning, pace and aerial ability. Equipped with a very good touch, Schnellinger was adept at build up with his good passing skills but also an uncompromising tackler who was hard to beat in one-on-one situations. A hard-boiled nature, Schnellinger was hard to ruffle and with his stoic calmness he was very influential on his teammates. By 1960, Schnellinger was rated as Germany’s no. 1 full back and after his impressive display at the 1962 World Cup, where he easily was Germany’s best-performing player, he was also considered one of the best full backs worldwide. Soon after the ’62 World Cup, Schnellinger left Germany to play in Italy and he is now mostly associated with being the defensive pillar of the star-studded AC Milan side of the 1960s and early-1970s. In his first four years at Milan, Schnellinger adopted the sweeper role and became one of the best sweepers of that tournament.		Having represented West Germany in four World Cups between 1958 and 1970, left-back Karl-Heinz Schnellinger is remembered as one of his country's longest serving and most reliable defenders. After starting his professional career with 1. FC Köln, he went on to spend many successful years in Italy where he won a number of major trophies with AC Milan during the late 1960s and early 1970s. Schnellinger was born in the town of Düren, near Cologne, on 31 March 1939. At the age of 10 he joined hometown team SG Düren 99, growing into a strong-tackling and powerful defender who would l...
+
+</details>

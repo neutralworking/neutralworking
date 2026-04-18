@@ -3,7 +3,7 @@ title: Gonçalo Inácio
 category: players
 tags: [CD, Sporting CP
 , Portugal, Sprinter-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Sporting CP
@@ -29,39 +29,54 @@ backlinks: [sprinter, sporting-cp]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A left-footed sweeper with rare technical strength for his archetype, combining pass range and heading ability with press resistance and disciplined positioning; his aggression occasionally bleeds into recklessness, and his tactical ceiling remains constrained. His left-sided platform and build-up profile fit progressive clubs seeking inverted centre-back play, provided coaching can refine his tactical reading. For sides expecting systematic pressing and half-space interceptions, he remains a step behind elite distributors, but his technical foundation justifies investment in development.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor` with model support score `82`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Jumping, Pass Range, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pass Range, and Acceleration.
+- Style traits point toward Passing Ability, Aerial Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Pass Range | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Vision | ███████████████ 15/10 |
-| Take Ons | ██████████████ 14/10 |
-| Long Range | █████████████ 13/10 |
-| Shielding | ███████████ 11/10 |
-| Volleys | █████████░ 9/10 |
-| Pass Accuracy | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 9/10
-- **positional_discipline** (tactical) — severity 6/10
-- **press_resistant** (tactical) — severity 6/10
-- **Passing Ability** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -71,3 +86,22 @@ A left-footed sweeper with rare technical strength for his archetype, combining 
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Resistant** (tactical) — severity 6/10
+- **Passing Ability** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

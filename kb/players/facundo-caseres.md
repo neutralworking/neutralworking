@@ -2,7 +2,7 @@
 title: Facundo Cáseres
 category: players
 tags: [CM, Gil Vicente, Argentina, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Gil Vicente. Archetype: Powerhouse.
@@ -26,34 +26,55 @@ backlinks: [powerhouse, gil-vicente]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Facundo Cáseres projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Physical, Stamina, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `71`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Physical, Stamina, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Stamina, and Acceleration.
+- Style traits point toward Strength, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ████████████████ 16/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Penalties | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
-| Tackling | █████████░ 9/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +84,20 @@ backlinks: [powerhouse, gil-vicente]
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

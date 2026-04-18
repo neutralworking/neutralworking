@@ -2,7 +2,7 @@
 title: Fede San Emeterio
 category: players
 tags: [CM, Cadiz, Spain, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Cadiz. Archetype: Powerhouse.
@@ -26,36 +26,58 @@ backlinks: [powerhouse, cadiz]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A Spanish midfielder without sufficient senior minutes to establish a clear profile; if he's appearing for Cádiz, he's likely a technically competent academy graduate or young prospect finding his way. His passing range and movement suggest some tactical education, but he hasn't yet demonstrated the physical or mental resilience to impose himself at this level. Promising, perhaps, but currently peripheral.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Aggression, Shielding, and Stamina.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Shielding, and Stamina.
+- Style traits point toward Anticipation and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Vision | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Interceptions | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Tackling | ███████████████ 15/10 |
-| Vision | ███████████████ 15/10 |
-| Awareness | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Mid Range | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +87,19 @@ A Spanish midfielder without sufficient senior minutes to establish a clear prof
 - **Pressure (JP)**: 56
 - **Competitiveness**: 8/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

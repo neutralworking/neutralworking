@@ -1,13 +1,13 @@
 ---
 title: Adrien Rabiot
 category: players
-tags: [CM, AC Milan, France, Creator-Passer]
-updated: 2026-04-14
+tags: [CM, Marseille, France, Creator-Passer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at AC Milan. Archetype: Creator-Passer.
+summary: CM at Marseille. Archetype: Creator-Passer.
 person_id: 7907
-backlinks: [creator, ac-milan]
+backlinks: [creator, marseille]
 ---
 
 # Adrien Rabiot
@@ -17,44 +17,66 @@ backlinks: [creator, ac-milan]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | AC Milan |
+| **Club** | Marseille |
 | **Nation** | France |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator-Passer |
 | **Level** | 87 |
-| **Overall** | 77.0 |
+| **Overall** | 76.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Rabiot, a Connector operating as a Tuttocampista, offers strong technical and mental attributes, blending composure with intensity. His ability to contribute to build-up, block passing lanes, and distribute from close or long range makes him a versatile central presence. However, his tactical understanding is limited, and he struggles with incisive through-balls and consistent clearances, alongside occasional disciplinary issues. This profile suggests a player who excels as a midfield engine in systems that require a strong, physical presence capable of covering ground and winning duels, fitting the classic box-to-box midfielder but with a more defined role in buildup. Currently declining at 30, Rabiot still offers a club significant experience, build-up contribution, and durability, particularly for teams needing a robust central midfielder who can manage games, provided they can accommodate his tactical shortcomings and potential disciplinary risks.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Mezzala` with model support score `79`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Duels, Close Range, and Composure.
+
+## In Possession
+
+- Ball-value indicators lean on Duels, Close Range, and Composure.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Duels | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Intensity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Long Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Duels | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| Creativity | █████████░ 9/10 |
-| Intensity | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Stamina | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Threat | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Aggression | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,6 +86,22 @@ Rabiot, a Connector operating as a Tuttocampista, offers strong technical and me
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Joshua Kimmich
 category: players
 tags: [DM, Bayern Munich, Germany, Engine-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Bayern Munich. Archetype: Engine-Dribbler.
@@ -26,48 +26,58 @@ backlinks: [engine, bayern-munich]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 An elite defensive midfielder who combines intelligent positioning, pressing discipline, and the ability to dictate tempo through possession retention. His range of passing—both short and progressively long—is excellent, and he rarely turns the ball over in dangerous areas. At 31, his explosiveness in transition has declined marginally, and he's not the box-to-box athlete he was at 26, but he remains indispensable to Bayern's control.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Regista` with model support score `89`.
+- Primary archetype leans toward `Engine` behaviour from a `DM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
+- Most bankable strengths show up in Reactions, Balance, and Crossing.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Balance, and Crossing.
+- Style traits point toward Long Range Passing, Two Footed, and Patient in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, Progressive Carrier, and Press Resistant.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Marking | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Accuracy | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Through Balls | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████████ 18/10 |
-| Balance | █████████████████ 17/10 |
-| Crossing | █████████████████ 17/10 |
-| Marking | █████████████████ 17/10 |
-| Pass Accuracy | █████████████████ 17/10 |
-| Pass Range | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Through Balls | █████████████████ 17/10 |
-| Anticipation | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| Decisions | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Tempo | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **progressive_carrier** (tactical) — severity 8/10
-- **Long Range Passing** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **patient** (style) — severity 7/10
-- **press_resistant** (tactical) — severity 6/10
-- **positional_discipline** (tactical) — severity 6/10
-- **Press Proven** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **Anticipation** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **big_game_player** (behavioral) — severity 4/10
-- **set_piece_specialist** (tactical) — severity 4/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -77,6 +87,31 @@ An elite defensive midfielder who combines intelligent positioning, pressing dis
 - **Pressure (JP)**: 46
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Progressive Carrier** (tactical) — severity 8/10
+- **Long Range Passing** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Patient** (style) — severity 7/10
+- **Press Resistant** (tactical) — severity 6/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Proven** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Anticipation** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 16 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

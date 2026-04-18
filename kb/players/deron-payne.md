@@ -2,7 +2,7 @@
 title: Déron Payne
 category: players
 tags: [CM, Volendam, Netherlands, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Volendam. Archetype: Destroyer.
@@ -26,33 +26,53 @@ backlinks: [destroyer, volendam]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 This Warrior Ball Winner, operating as a Tuttocampista, features strong mental attributes and excellent defensive contributions through tackling, duels, and blocking. He personifies the modern box-to-box ball-winning midfielder, relentlessly disrupting opposition play and thriving in high-pressing systems that demand constant energy. While physically moderate, his offensive shortcomings in vision and shooting range are distinct. A robust and competitive asset for any team aiming to dominate the midfield physically and tactically, he offers reliability, making him a solid investment for a club seeking a dependable, energetic presence.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `73`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Blocking, Tackling, and Aggression.
+
+## In Possession
+
+- Ball-value indicators lean on Blocking, Tackling, and Aggression.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Blocking | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Awareness | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -62,3 +82,16 @@ This Warrior Ball Winner, operating as a Tuttocampista, features strong mental a
 - **Pressure (JP)**: 66
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

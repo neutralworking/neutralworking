@@ -1,66 +1,82 @@
 ---
-title: Ameen Al Dakhil
+title: Ameen Al-Dakhil
 category: players
-tags: [CM, Stuttgart, Destroyer-Powerhouse]
-updated: 2026-04-14
+tags: [CD, Stuttgart, Belgium]
+updated: 2026-04-17
 source: compiled
-confidence: high
-summary: CM at Stuttgart. Archetype: Destroyer-Powerhouse.
-person_id: 19382
-backlinks: [destroyer, stuttgart]
+confidence: low
+summary: CD at Stuttgart. Archetype: None.
+person_id: 8343
+backlinks: [stuttgart]
 ---
 
-# Ameen Al Dakhil
+# Ameen Al-Dakhil
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
+| **Position** | CD |
 | **Club** | Stuttgart |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Level** | 79 |
-| **Overall** | 71.0 |
+| **Nation** | Belgium |
+| **Age** | 24 |
+| **Archetype** | [[—]] None |
+| **Level** | 75 |
+| **Overall** | None |
 | **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
-Al Dakhil's Connector archetype and Metodista role suit his physical and aggressive playing style, but his limited tactical awareness and lack of guile on the ball can hinder his team's ability to control the tempo of the game, making him a better fit for a direct, counter-attacking side that can utilize his jumping and tackling abilities to win the ball back quickly.
+A left-footed centre-back with decent reading of the game and the ability to step out and initiate play from deep. He's composed in possession but physically ordinary—not commanding in the air, and prone to being overrun by genuinely quick, aggressive forwards. A useful squad option in the Bundesliga, but lacking the athleticism or technical dominance to anchor a top-four defence.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Tackling | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 59
+- **Game Reading (EI)**: 56
 - **Motivation (SN)**: 47
-- **Social (TF)**: 45
-- **Pressure (JP)**: 35
-- **Competitiveness**: 6/10
-- **Coachability**: 4/10
+- **Social (TF)**: 57
+- **Pressure (JP)**: 54
+- **Competitiveness**: 7/10
+- **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

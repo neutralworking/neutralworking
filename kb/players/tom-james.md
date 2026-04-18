@@ -2,7 +2,7 @@
 title: Tom James
 category: players
 tags: [CD, Leyton Orient, Wales, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Leyton Orient. Archetype: Powerhouse.
@@ -26,36 +26,54 @@ backlinks: [powerhouse, leyton-orient]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Veteran full-back at 37 with extensive experience and sound positional habits, but physically diminished and unable to match the pace of modern Premier League wingers. His crossing and passing range remain steady, and his experience in set-piece positioning has value. He's an emergency option or cup-competition starter only.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
+- Most bankable strengths show up in Stamina, Aggression, and Jumping.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Aggression, and Jumping.
+- Style traits point toward Two Footed, Long Range Passing, and Long Throws in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | █████████████████ 17/10 |
-| Aggression | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Pace | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
-| Crossing | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 5/10
-- **Long Throws** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +83,19 @@ Veteran full-back at 37 with extensive experience and sound positional habits, b
 - **Pressure (JP)**: 54
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 5/10
+- **Long Throws** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

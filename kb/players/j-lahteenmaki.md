@@ -2,7 +2,7 @@
 title: J. LÃ¤hteenmÃ¤ki
 category: players
 tags: [CM, Nordsjaelland, Cover-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Nordsjaelland. Archetype: Cover-Creator.
@@ -26,30 +26,55 @@ backlinks: [cover, nordsjaelland]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+J. LÃ¤hteenmÃ¤ki projects primarily as a CM with a `Cover-Creator` lean. The strongest database support comes from Discipline, Creativity, and Pressing.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
+- Most bankable strengths show up in Discipline, Creativity, and Pressing.
+
+## In Possession
+
+- Ball-value indicators lean on Discipline, Creativity, and Pressing.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Composure | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pass Accuracy | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Discipline | ████████░░ 8/10 |
-| Creativity | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Composure | ██████░░░░ 6/10 |
-| Flair | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Pass Accuracy | ██████░░░░ 6/10 |
-| Positioning | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Take Ons | ██████░░░░ 6/10 |
-| Vision | ██████░░░░ 6/10 |
-| Awareness | █████░░░░░ 5/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Close Range | █████░░░░░ 5/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **positional_discipline** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [cover, nordsjaelland]
 - **Pressure (JP)**: 46
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Positional Discipline** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

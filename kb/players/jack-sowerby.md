@@ -2,7 +2,7 @@
 title: Jack Sowerby
 category: players
 tags: [CF, Fleetwood Town, England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Fleetwood Town. Archetype: Powerhouse.
@@ -26,34 +26,50 @@ backlinks: [powerhouse, fleetwood-town]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Experienced defender, likely a centre-back or left-back, who knows his job and executes it competently without frills. Reading of the game is solid, concentration is reliable, but he's not going to dazzle you technically or athletically. A journeyman at 30 who's exactly the sort of player you need as backup at this level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Target Forward`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Shielding, and Stamina.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Stamina.
+- Style traits point toward Anticipation and Tackling Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Physical | ███████████████ 15/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Crossing | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +79,17 @@ Experienced defender, likely a centre-back or left-back, who knows his job and e
 - **Pressure (JP)**: 56
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

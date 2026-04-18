@@ -2,7 +2,7 @@
 title: Benjamin Lecomte
 category: players
 tags: [GK, Fulham, France, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Fulham. Archetype: GK.
@@ -26,36 +26,60 @@ backlinks: [gk, fulham]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A veteran goalkeeper of the Europa League brigade rather than the Champions League; solid enough with his feet, decent command of the box, but operating now as a backup option at a club with ambitions higher than his ceiling. He's a reliable depth option who won't lose you a match, which is precisely the problem—he won't win you one either.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Physical, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Physical, and Jumping.
+- Style traits point toward Far Throw and Footwork in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Stamina | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Mental | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ███████████████ 15/10 |
-| Physical | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Acceleration | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Stamina | ███████░░░ 7/10 |
-| Mental | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Awareness | ███░░░░░░░ 3/10 |
-| Carries | ██░░░░░░░░ 2/10 |
-| Intensity | ██░░░░░░░░ 2/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
-| Through Balls | █░░░░░░░░░ 1/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Far Throw** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +89,19 @@ A veteran goalkeeper of the Europa League brigade rather than the Champions Leag
 - **Pressure (JP)**: 57
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Far Throw** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

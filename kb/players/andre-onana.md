@@ -1,88 +1,91 @@
 ---
-title: Andre Onana
+title: André Onana
 category: players
-tags: [GK, Trabzonspor, Cameroon, GK]
-updated: 2026-04-14
+tags: [GK, Manchester United, Cameroon, GK]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: GK at Trabzonspor. Archetype: GK.
-person_id: 8428
-backlinks: [gk, trabzonspor]
+summary: GK at Manchester United. Archetype: GK.
+person_id: 20186
+backlinks: [gk, manchester-united]
 ---
 
-# Andre Onana
+# André Onana
 
 ## Overview
 
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | Trabzonspor |
+| **Club** | Manchester United |
 | **Nation** | Cameroon |
 | **Age** | 30 |
 | **Archetype** | [[gk]] GK |
-| **Level** | 86 |
-| **Overall** | 79.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 4 |
+| **Level** | 83 |
+| **Overall** | None |
+| **Pursuit** | Monitor |
+| **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
-A year out of the game for a drugs ban was tough for Andre Onana but he's quickly established himself ahead of Samir Handanovic at Inter.  
-  
-The former Ajax stopper brings the ball out of his box regularly, aiding his side's build-up play with terrific distribution while making important saves between the sticks.  
-  
-There's a very good reason why Man Utd spent a boatload to sign him.
+Cameroonian keeper with elite distribution. Plays out from the back fearlessly. Shot-stopping solid but occasional sweeper-keeper errors.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Physical.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Jumping, and Physical.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Communication | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Concentration | ████████░░ 8/10 |
-| Anticipation | ███████░░░ 7/10 |
-| Decisions | ███████░░░ 7/10 |
-| Leadership | ███████░░░ 7/10 |
-| Mental | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Drive | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Stamina | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Versatility | ██████░░░░ 6/10 |
-| Tempo | █████░░░░░ 5/10 |
-| Awareness | ████░░░░░░ 4/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **One On One Specialist** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 58
-- **Motivation (SN)**: 68
-- **Social (TF)**: 33
-- **Pressure (JP)**: 78
-- **Competitiveness**: 2/10
-- **Coachability**: 1/10
+- **Game Reading (EI)**: 59
+- **Motivation (SN)**: 34
+- **Social (TF)**: 34
+- **Pressure (JP)**: 34
+- **Competitiveness**: 4/10
+- **Coachability**: 7/10
 
-## Research Notes
+## Evidence Ledger
 
-<details>
-<summary>Raw scouting narrative</summary>
-
----
-class: goalkeeper
-subclass: distributor
----
-
-
-A year out of the game for a drugs ban was tough for Andre Onana but he's quickly established himself ahead of Samir Handanovic at Inter.  
-  
-The former Ajax stopper brings the ball out of his box regularly, aiding his side's build-up play with terrific distribution while making important saves between the sticks.  
-  
-There's a very good reason why Man Utd spent a boatload to sign him.
-
-</details>
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

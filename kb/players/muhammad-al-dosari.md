@@ -2,7 +2,7 @@
 title: Muhammad Al Dosari
 category: players
 tags: [CM, Al Taawon, Cover-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Al Taawon. Archetype: Cover-Striker.
@@ -26,31 +26,56 @@ backlinks: [cover, al-taawon]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Muhammad Al Dosari projects primarily as a CM with a `Cover-Striker` lean. The strongest database support comes from Discipline, Positioning, and Blocking.
+
+## Role Fit
+
+- Best-fit role is `Tuttocampista` with model support score `70`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
+- Most bankable strengths show up in Discipline, Positioning, and Blocking.
+
+## In Possession
+
+- Ball-value indicators lean on Discipline, Positioning, and Blocking.
+- Style traits point toward Elegant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Positioning | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Blocking | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Close Range | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Discipline | ████████░░ 8/10 |
-| Positioning | ████████░░ 8/10 |
-| Blocking | ████░░░░░░ 4/10 |
-| Close Range | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Pressing | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Awareness | ███░░░░░░░ 3/10 |
-| Composure | ███░░░░░░░ 3/10 |
-| Flair | ███░░░░░░░ 3/10 |
-| Interceptions | ███░░░░░░░ 3/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **positional_discipline** (tactical) — severity 8/10
-- **elegant** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -60,3 +85,17 @@ backlinks: [cover, al-taawon]
 - **Pressure (JP)**: 45
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Positional Discipline** (tactical) — severity 8/10
+- **Elegant** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

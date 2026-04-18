@@ -2,7 +2,7 @@
 title: Frankie Kent
 category: players
 tags: [CD, Hearts, England, Cover-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Hearts. Archetype: Cover-Powerhouse.
@@ -26,33 +26,58 @@ backlinks: [cover, hearts]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Frankie Kent projects primarily as a CD with a `Cover-Powerhouse` lean. The strongest database support comes from Jumping, Stamina, and Heading.
+
+## Role Fit
+
+- Best-fit role is `Colossus` with model support score `72`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Stamina, and Heading.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Heading.
+- Style traits point toward Aerial Ability, Tackling Ability, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Heading | ███████████████ 15/10 |
-| Reactions | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Take Ons | ███████████ 11/10 |
-| Vision | █████████░ 9/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
-| Pass Range | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **aerial_threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
 
 ## Personality
 
@@ -62,3 +87,19 @@ backlinks: [cover, hearts]
 - **Pressure (JP)**: 61
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -1,13 +1,13 @@
 ---
 title: J. Jeno
 category: players
-tags: [WM, Creator-Cover]
-updated: 2026-04-14
+tags: [WM, Unirea Slobozia FC, Creator-Cover]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WM at None. Archetype: Creator-Cover.
+summary: WM at Unirea Slobozia FC. Archetype: Creator-Cover.
 person_id: 26141
-backlinks: [creator]
+backlinks: [creator, unirea-slobozia-fc]
 ---
 
 # J. Jeno
@@ -17,7 +17,7 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | Unirea Slobozia FC |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[creator]] Creator-Cover |
@@ -26,29 +26,49 @@ backlinks: [creator]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Jeno operates as a Creator-Cover Tornante, a physically aggressive midfielder strong in tackling, jumping, and winning duels, possessing a decent first touch. His profile aligns with a more direct, industrious style of play, capable of disrupting opposition attacks and making aggressive transitions. However, his overall technical inconsistencies, limited mental resilience, and struggles with blocking restrict his effectiveness in more possession-oriented or nuanced systems. He's a lower-market option for clubs seeking pure tenacity and physicality in midfield, but his developmental challenges indicate he would require a specific tactical setup to thrive.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tornante`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Aggression, First Touch, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, First Touch, and Jumping.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Awareness | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Stamina | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +78,11 @@ Jeno operates as a Creator-Cover Tornante, a physically aggressive midfielder st
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

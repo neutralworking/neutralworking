@@ -2,7 +2,7 @@
 title: Muhammet Taha Şahin
 category: players
 tags: [CM, Rizespor, Turkey, Creator-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Rizespor. Archetype: Creator-Powerhouse.
@@ -26,32 +26,55 @@ backlinks: [creator, rizespor]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Muhammet Taha Şahin projects primarily as a CM with a `Creator-Powerhouse` lean. The strongest database support comes from Acceleration, Pace, and Shielding.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Positional Discipline.
+- Most bankable strengths show up in Acceleration, Pace, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Shielding.
+- Style traits point toward Flamboyant, Defensive Awareness, and Crossing Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Positional Discipline.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Reactions | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Stamina | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Balance | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Jumping | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Heading | █████████░ 9/10 |
-| Movement | █████████░ 9/10 |
-| Physical | █████████░ 9/10 |
-| Crossing | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 5/10
-- **positional_discipline** (tactical) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -61,3 +84,18 @@ backlinks: [creator, rizespor]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 5/10
+- **Positional Discipline** (tactical) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

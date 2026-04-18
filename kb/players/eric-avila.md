@@ -2,7 +2,7 @@
 title: Eric Avila
 category: players
 tags: [AM, Real Betis, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at Real Betis. Archetype: Sprinter.
@@ -26,27 +26,63 @@ backlinks: [sprinter, real-betis]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Eric Avila projects primarily as a AM with a `Sprinter` lean. The strongest database support comes from Aggression, Jumping, and Physical.
+
+## Role Fit
+
+- Best-fit role is `Incursore`.
+- Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
+- Most bankable strengths show up in Aggression, Jumping, and Physical.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Jumping, and Physical.
+- Style traits point toward Two Footed, Aerial Threat, and Dribbler in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ██████████████████ 18/10 |
-| Jumping | ██████████████████ 18/10 |
-| Physical | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Close Range | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Mid Range | ███████████████ 15/10 |
-| Penalties | ███████████████ 15/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 37
+- **Motivation (SN)**: 56
+- **Social (TF)**: 78
+- **Pressure (JP)**: 43
+- **Competitiveness**: 6/10
+- **Coachability**: 2/10
+
+## Trait Ledger
 
 - **Two Footed** (style) — severity 9/10
 - **Aerial Threat** (style) — severity 7/10
@@ -57,11 +93,10 @@ backlinks: [sprinter, real-betis]
 - **Work Rate** (style) — severity 5/10
 - **Acrobatic** (style) — severity 5/10
 
-## Personality
+## Evidence Ledger
 
-- **Game Reading (EI)**: 37
-- **Motivation (SN)**: 56
-- **Social (TF)**: 78
-- **Pressure (JP)**: 43
-- **Competitiveness**: 6/10
-- **Coachability**: 2/10
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

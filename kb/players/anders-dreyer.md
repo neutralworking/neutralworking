@@ -2,7 +2,7 @@
 title: Anders Dreyer
 category: players
 tags: [WF, Anderlecht, Denmark, Striker-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Anderlecht. Archetype: Striker-Destroyer.
@@ -26,37 +26,54 @@ backlinks: [striker, anderlecht]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A willing, high-intensity wide forward who compensates for modest technical ceiling with excellent pressing triggers and aggressive positioning in the half-spaces. He's quick enough to threaten in transition and reasonably clinical in the box, but lacks the dribbling range or creative awareness to unlock a stubborn defence—he's a finisher first, a creator nowhere near last. At 27, playing in the Belgian top flight, he's a reliable source of goals and energy without being the sort of winger who fundamentally changes how an attack moves.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `81`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat and Set Piece Specialist.
+- Most bankable strengths show up in Acceleration, Balance, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Shielding.
+- Style traits point toward Direct and Finishing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat and Set Piece Specialist.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Stamina | ████████████████ 16/10 |
-| First Touch | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Jumping | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
-| Physical | ████████████ 12/10 |
-| Heading | ██████████ 10/10 |
-| Interceptions | ████████░░ 8/10 |
-| Marking | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 7/10
-- **direct** (style) — severity 6/10
-- **set_piece_specialist** (tactical) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **big_game_player** (behavioral) — severity 4/10
+## Risk Flags
+
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -66,3 +83,20 @@ A willing, high-intensity wide forward who compensates for modest technical ceil
 - **Pressure (JP)**: 38
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 7/10
+- **Direct** (style) — severity 6/10
+- **Set Piece Specialist** (tactical) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **Big Game Player** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

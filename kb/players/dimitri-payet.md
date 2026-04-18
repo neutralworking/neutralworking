@@ -2,7 +2,7 @@
 title: Dimitri Payet
 category: players
 tags: [CM, Vasco da Gama, France, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Vasco da Gama. Archetype: Creator.
@@ -26,36 +26,58 @@ backlinks: [creator, vasco-da-gama]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A diminished version of the mercurial midfielder who once terrorised defences from set pieces and the left half-space, now a squad depth option surviving on experience and occasional flashes of that low centre of gravity magic. He's too slow to press modern fullbacks effectively and his passing has lost its incision, but in dead-ball situations and against deep blocks, he remains useful—just no longer indispensable.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in Acceleration, First Touch, and Long Range.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, First Touch, and Long Range.
+- Style traits point toward Pace and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Skills | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Skills | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Volleys | ████████████████ 16/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Aerial Duels | ████████████ 12/10 |
-| Heading | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Creativity | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +87,19 @@ A diminished version of the mercurial midfielder who once terrorised defences fr
 - **Pressure (JP)**: 46
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

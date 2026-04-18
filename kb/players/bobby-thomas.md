@@ -2,7 +2,7 @@
 title: Bobby Thomas
 category: players
 tags: [CD, Coventry City, England, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Coventry City. Archetype: Destroyer.
@@ -26,37 +26,55 @@ backlinks: [destroyer, coventry-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A left-sided center-back who reads the game with real intelligence and has good carry ability from defense, but he's not quick enough to cover for sloppy positioning and can be exposed by direct play from wide areas. Comfortable in possession and uses his body well, yet there's a nagging sense he's ceiling'd at this level unless his recovery pace improves markedly.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Physical, Jumping, and Heading.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Heading.
+- Style traits point toward Aerial Ability, Positioning, and Strength in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Vision | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | █████████████████ 17/10 |
-| Jumping | ███████████████ 15/10 |
-| Heading | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Reactions | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
-| Balance | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
-| Blocking | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Long Throws** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +84,20 @@ A left-sided center-back who reads the game with real intelligence and has good 
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Long Throws** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

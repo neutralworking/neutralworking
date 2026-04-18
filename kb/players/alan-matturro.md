@@ -2,7 +2,7 @@
 title: Alan Matturro
 category: players
 tags: [CD, Levante, Uruguay, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Levante. Archetype: Powerhouse.
@@ -26,38 +26,58 @@ backlinks: [powerhouse, levante]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A composed, left-footed centre-back who reads space well and isn't prone to panic in possession, but at 21 playing in a relegation fight, he's still building the physical dominance and aerial authority you need at this level. His distribution from the back is tidy rather than progressive, and he'll need another 18-24 months of regular football before you can say he's anything more than a prospect with decent fundamentals.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus` with model support score `60`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Jumping, Heading, and Pace.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Heading, and Pace.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
-| Movement | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
-| Shielding | █████████░ 9/10 |
-| Aerial Duels | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **aerial_threat** (physical) — severity 6/10
-- **high_press** (tactical) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -67,3 +87,21 @@ A composed, left-footed centre-back who reads space well and isn't prone to pani
 - **Pressure (JP)**: 60
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Aerial Threat** (physical) — severity 6/10
+- **High Press** (tactical) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Cameron Devlin
 category: players
 tags: [CM, Hearts, Australia, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Hearts. Archetype: Powerhouse.
@@ -26,38 +26,54 @@ backlinks: [powerhouse, hearts]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A genuinely complete midfielder whose technical, tactical, and physical attributes sit at the elite end of the domestic spectrum, with particular excellence in the shield-and-build archetype. His stamina and composure under pressure make him invaluable in transition, though his lack of creative spark and occasional tactical discipline lapses suggest he functions best as a methodical two-man midfield partner rather than as the pivot anchoring a single-six system. The flamboyance in his personality hints at occasional moments of unnecessary risk-taking that could expose a lighter frame in top-tier midfields. Clubs seeking a technically refined warrior who can press, recycle possession, and maintain balance without needing him to unlock defenses will find significant value here; he represents strong resale value for an ambitious A-League side.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `75`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Shielding, Balance, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Acceleration.
+- Style traits point toward Flamboyant, Tackling Ability, and Press Proven in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ██████████████████ 18/10 |
-| Balance | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Crossing | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Volleys | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **flamboyant** (style) — severity 6/10
-- **Tackling Ability** (style) — severity 5/10
-- **Press Proven** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,3 +83,21 @@ A genuinely complete midfielder whose technical, tactical, and physical attribut
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Flamboyant** (style) — severity 6/10
+- **Tackling Ability** (style) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

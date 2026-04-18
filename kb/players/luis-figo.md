@@ -2,7 +2,7 @@
 title: Luis Figo
 category: players
 tags: [WM, Portugal, Dribbler-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at None. Archetype: Dribbler-Creator.
@@ -26,7 +26,7 @@ backlinks: [dribbler]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Craque
 
@@ -56,20 +56,61 @@ I want that weird old kit with Figo on it.
 
   
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Fantasista` with model support score `93`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WM` base.
+- Tactical fit is strongest when the game asks for Set Piece Specialist.
+- Most bankable strengths show up in Crossing, Skills, and Take Ons.
+
+## In Possession
+
+- Ball-value indicators lean on Crossing, Skills, and Take Ons.
+- Style traits point toward Dribble Artist in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Set Piece Specialist.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Crossing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Crossing | ████████░░ 8/10 |
-| Skills | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Technical | ██████░░░░ 6/10 |
-| Mental | ████░░░░░░ 4/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **dribble_artist** (style) — severity 7/10
-- **set_piece_specialist** (tactical) — severity 7/10
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+
+## Trait Ledger
+
+- **Dribble Artist** (style) — severity 7/10
+- **Set Piece Specialist** (tactical) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 5 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

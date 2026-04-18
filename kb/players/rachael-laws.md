@@ -2,7 +2,7 @@
 title: Rachael Laws
 category: players
 tags: [GK, OM, England, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at OM. Archetype: GK.
@@ -26,34 +26,54 @@ backlinks: [gk, om]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Scottish goalkeeper at 35 with decades of experience and proven consistency at top level. Age has eroded reflexes noticeably, making her suitable for cup matches or rotation rather than regular first-team duty.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Jumping, Acceleration, and Aggression.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and Aggression.
+- Style traits point toward Anticipation and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Aggression | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Aggression | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Shielding | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ Scottish goalkeeper at 35 with decades of experience and proven consistency at t
 - **Pressure (JP)**: 59
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Diego Lainez
 category: players
 tags: [WF, Tigres UANL, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Tigres UANL. Archetype: Creator.
@@ -26,7 +26,7 @@ backlinks: [creator, tigres-uanl]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 CountryMexico
@@ -58,31 +58,52 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
 **September 2022 update** The wise words that Pellegrini gave Lainez about being more mature were not adopted by the Mexican midfielder and he barely featured again at Real Betis last season. SC Braga gave Lainez a way out this summer, but he has not started the new season in the best of form. “He doesn’t have enough muscle mass for a physical league like Portugal,” the Braga manager, Artur Jorge, moaned when asked why the Mexican had barely featured. Lainez is still part of the Mexico national team and will almost certainly make the cut for Qatar, but he may no longer be first choice in their midfield any more.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `69`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Creativity, Through Balls, and Flair.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Creativity, Through Balls, and Flair.
+- Style traits point toward Flamboyant in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Take Ons | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Vision | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Creativity | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Flair | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Take Ons | ██████░░░░ 6/10 |
-| Vision | ██████░░░░ 6/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Close Range | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Duels | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Physical | ████░░░░░░ 4/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **flamboyant** (style) — severity 10/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -92,6 +113,22 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
 - **Pressure (JP)**: 42
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Flamboyant** (style) — severity 10/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

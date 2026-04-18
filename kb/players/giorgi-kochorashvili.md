@@ -3,7 +3,7 @@ title: Giorgi Kochorashvili
 category: players
 tags: [CM, Sporting CP
 , Georgia, Powerhouse-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sporting CP
@@ -29,37 +29,54 @@ backlinks: [powerhouse, sporting-cp]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Kochorashvili epitomizes the Tuttocampista, a Powerhouse-Creator whose strong physical and mental pillars enable relentless shielding, stamina, and high-press duties, making him an impactful build-up contributor. Despite good long-range passing and accuracy, his overall technical output and creativity are limited, compounded by a restricted tactical understanding. At his peak at Sporting CP, his robust market value appeals to clubs prioritizing energetic midfielders for high-intensity systems, provided they have the structure to compensate for his tactical and creative deficiencies.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `65`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Shielding, Stamina, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Stamina, and Acceleration.
+- Style traits point toward Tackling Ability, Defensive Awareness, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Volleys | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Aerial Duels | ██████████ 10/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 9/10
-- **high_press** (tactical) — severity 5/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -69,3 +86,20 @@ Kochorashvili epitomizes the Tuttocampista, a Powerhouse-Creator whose strong ph
 - **Pressure (JP)**: 53
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 9/10
+- **High Press** (tactical) — severity 5/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

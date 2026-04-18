@@ -1,13 +1,13 @@
 ---
 title: Fabian Rieder
 category: players
-tags: [CM, Augsburg, Switzerland, Engine-Passer]
-updated: 2026-04-14
+tags: [CM, Rennes, Switzerland, Engine-Passer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Augsburg. Archetype: Engine-Passer.
+summary: CM at Rennes. Archetype: Engine-Passer.
 person_id: 10866
-backlinks: [engine, augsburg]
+backlinks: [engine, rennes]
 ---
 
 # Fabian Rieder
@@ -17,7 +17,7 @@ backlinks: [engine, augsburg]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Augsburg |
+| **Club** | Rennes |
 | **Nation** | Switzerland |
 | **Age** | 24 |
 | **Archetype** | [[engine]] Engine-Passer |
@@ -26,41 +26,58 @@ backlinks: [engine, augsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A Swiss midfielder with excellent work-rate and the ball-carrying intelligence to progress play through congested central areas, dribbling past a press with low centre of gravity. His passing is accurate but safe, rarely unlocking in one stroke, and he'll never be the standout creative force a top side needs, though he's a genuine asset in transition.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `77`.
+- Primary archetype leans toward `Engine` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Shielding, and Stamina.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Stamina.
+- Style traits point toward Two Footed, Close Control, and Passing Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Acceleration | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Marking | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
-| Close Range | █████████░ 9/10 |
-| Creativity | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Close Control** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -70,3 +87,24 @@ A Swiss midfielder with excellent work-rate and the ball-carrying intelligence t
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Close Control** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

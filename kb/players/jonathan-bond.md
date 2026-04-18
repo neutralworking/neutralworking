@@ -1,0 +1,97 @@
+---
+title: Jonathan Bond
+category: players
+tags: [GK, Houston Dynamo FC, Sprinter]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: GK at Houston Dynamo FC. Archetype: Sprinter.
+person_id: 19058
+backlinks: [sprinter, houston-dynamo-fc]
+---
+
+# Jonathan Bond
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | GK |
+| **Club** | Houston Dynamo FC |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[sprinter]] Sprinter |
+| **Level** | 75 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+Jonathan Bond projects primarily as a GK with a `Sprinter` lean. The strongest database support comes from Jumping, Physical, and Reactions.
+
+## Role Fit
+
+- Primary archetype leans toward `Sprinter` behaviour from a `GK` base.
+- Most bankable strengths show up in Jumping, Physical, and Reactions.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Reactions.
+- Style traits point toward Footwork in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 65
+- **Motivation (SN)**: 21
+- **Social (TF)**: 56
+- **Pressure (JP)**: 30
+- **Competitiveness**: 4/10
+- **Coachability**: 7/10
+
+## Trait Ledger
+
+- **Footwork** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

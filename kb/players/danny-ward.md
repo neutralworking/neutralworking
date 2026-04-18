@@ -2,7 +2,7 @@
 title: Danny Ward
 category: players
 tags: [GK, Wrexham, Wales, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Wrexham. Archetype: Powerhouse.
@@ -26,35 +26,59 @@ backlinks: [powerhouse, wrexham]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A Welsh goalkeeper who's had decent spells in the Championship but has never quite established himself as a top-flight starter, suggesting a ceiling of competence rather than excellence. Distribution is his strongest suit—he'll play out from the back and isn't a hindrance in possession—but shot-stopping under pressure and command of his box lack the authority you'd want from an elite shot-stopper. At 32, he's a solid option for Wrexham where consistency and experience matter; don't expect miracles.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Comandante` with model support score `78`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `GK` base.
+- Most bankable strengths show up in Balance, Jumping, and Long Range.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Jumping, and Long Range.
+- Style traits point toward Two Footed in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Skills | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████ 14/10 |
-| Jumping | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Skills | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Close Range | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +88,18 @@ A Welsh goalkeeper who's had decent spells in the Championship but has never qui
 - **Pressure (JP)**: 43
 - **Competitiveness**: 3/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

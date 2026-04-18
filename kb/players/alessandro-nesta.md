@@ -2,7 +2,7 @@
 title: Alessandro Nesta
 category: players
 tags: [CD, Italy, Cover-Controller]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at None. Archetype: Cover-Controller.
@@ -26,7 +26,7 @@ backlinks: [cover]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Nesta was a complete and dominant defender, who was influential both at club and international level, and who is regarded by pundits as being one of the greatest and most talented defenders both of his generation, and of all time. 
 
@@ -36,29 +36,50 @@ Nesta was also excellent in the air, and was also unusually quick for a centreba
 
 Despite his talent, Nesta's career suffered from the many injuries he encountered, Nesta was out of action for the whole 2008-2009 season in Series A. The fact of matter, Nesta won 5th European footballer of the year in 2000, was the best defender in Italian Series A in early 2000s which he won defender of the year almost every seasons. He was known for his talent to manage with opponent attacker, Outstanding agility, Intelligent
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `91`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Interceptions, Marking, and Tackling.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Interceptions, Marking, and Tackling.
+- Style traits point toward Aerial Threat in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Interceptions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Marking | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Tackling | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Vision | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Interceptions | █████████████████ 17/10 |
-| Marking | █████████████████ 17/10 |
-| Tackling | █████████████████ 17/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Vision | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Skills | ███████████ 11/10 |
-| Take Ons | ███████████ 11/10 |
-| Aerial Duels | ████████░░ 8/10 |
-| Heading | ████████░░ 8/10 |
-| Long Range | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Threat** (style) — severity 7/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,6 +89,20 @@ Despite his talent, Nesta's career suffered from the many injuries he encountere
 - **Pressure (JP)**: 68
 - **Competitiveness**: 8/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Threat** (style) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

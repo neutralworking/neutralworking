@@ -1,13 +1,13 @@
 ---
 title: Samu
 category: players
-tags: [CF, Vitória Guimarães, Portugal, Sprinter-Dribbler]
-updated: 2026-04-14
+tags: [CF, FC Porto, Portugal, Sprinter-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Vitória Guimarães. Archetype: Sprinter-Dribbler.
+summary: CF at FC Porto. Archetype: Sprinter-Dribbler.
 person_id: 17114
-backlinks: [sprinter, vitoria-guimaraes]
+backlinks: [sprinter, fc-porto]
 ---
 
 # Samu
@@ -17,7 +17,7 @@ backlinks: [sprinter, vitoria-guimaraes]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Vitória Guimarães |
+| **Club** | FC Porto |
 | **Nation** | Portugal |
 | **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
@@ -26,36 +26,55 @@ backlinks: [sprinter, vitoria-guimaraes]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Samu projects primarily as a CF with a `Sprinter-Dribbler` lean. The strongest database support comes from Balance, Jumping, and Shielding.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `72`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Balance, Jumping, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Jumping, and Shielding.
+- Style traits point toward Direct, Trickery, and Passing Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pass Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Interceptions | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Awareness | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Carries | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 9/10
-- **direct** (style) — severity 7/10
-- **Trickery** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Close Control** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -65,3 +84,22 @@ backlinks: [sprinter, vitoria-guimaraes]
 - **Pressure (JP)**: 61
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 9/10
+- **Direct** (style) — severity 7/10
+- **Trickery** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Close Control** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

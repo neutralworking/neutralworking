@@ -2,7 +2,7 @@
 title: J. Bartolo
 category: players
 tags: [WF, Asteras Tripolis, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Asteras Tripolis. Archetype: Striker-Creator.
@@ -26,29 +26,53 @@ backlinks: [striker, asteras-tripolis]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+J. Bartolo projects primarily as a WF with a `Striker-Creator` lean. The strongest database support comes from Flair, Take Ons, and Close Range.
+
+## Role Fit
+
+- Best-fit role is `Inverted Winger` with model support score `69`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Flair, Take Ons, and Close Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Flair, Take Ons, and Close Range.
+- Style traits point toward Flamboyant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Close Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mid Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Penalties | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Flair | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Close Range | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Creativity | ██████░░░░ 6/10 |
-| Mid Range | ██████░░░░ 6/10 |
-| Penalties | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Composure | █████░░░░░ 5/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 10/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +82,15 @@ backlinks: [striker, asteras-tripolis]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 10/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

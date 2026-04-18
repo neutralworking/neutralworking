@@ -2,7 +2,7 @@
 title: Jonas Wind
 category: players
 tags: [CF, Wolfsburg, Denmark, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Wolfsburg. Archetype: Striker-Creator.
@@ -26,38 +26,55 @@ backlinks: [striker, wolfsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Physical, hold-up striker with underrated technical ability and good movement in the box, though he lacks elite finishing sharpness. Reliable outlet for mid-table sides but doesn't have the predatory instinct for a bigger stage.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Close Range, and First Touch.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Close Range, and First Touch.
+- Style traits point toward Skill Moves, Trickery, and Passing Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Close Range | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Composure | ███████████████ 15/10 |
-| Penalties | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Skill Moves** (style) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Press Proven** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,3 +84,21 @@ Physical, hold-up striker with underrated technical ability and good movement in
 - **Pressure (JP)**: 64
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Skill Moves** (style) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Nikola Iliev
 category: players
 tags: [WM, Botev Plovdiv, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Botev Plovdiv. Archetype: Creator.
@@ -26,7 +26,7 @@ backlinks: [creator, botev-plovdiv]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubInter
@@ -42,30 +42,47 @@ A tremendously gifted player with great technique, he made his Bulgarian top-fli
 **October 2023 update** Great progress for the attacking midfielder who made his debut for Bulgaria in 2022 and already has eight caps for the national team. At club level he has joined Bulgarian top-flight side CSKA 1948 on loan from Inter’s Primavera hoping to make a triumphant return to the Nerazzurri next summer.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `70`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Flair, Take Ons, and Creativity.
+
+## In Possession
+
+- Ball-value indicators lean on Flair, Take Ons, and Creativity.
+- Style traits point toward Flamboyant in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Flair | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Take Ons | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Threat | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Flair | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Creativity | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Mental | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Through Balls | █████░░░░░ 5/10 |
-| Vision | █████░░░░░ 5/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Duels | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Long Range | ████░░░░░░ 4/10 |
-| Mid Range | ████░░░░░░ 4/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -75,6 +92,21 @@ A tremendously gifted player with great technique, he made his Bulgarian top-fli
 - **Pressure (JP)**: 36
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

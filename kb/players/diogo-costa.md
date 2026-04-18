@@ -2,7 +2,7 @@
 title: Diogo Costa
 category: players
 tags: [GK, FC Porto, Portugal, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at FC Porto. Archetype: GK.
@@ -26,37 +26,57 @@ backlinks: [gk, fc-porto]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Still just 23 years old, Diogo Costa has been one of the most talked about goalkeepers in Europe for quite a while - and for good reason too.  
   
 Costa's the archetypal modern day goalkeeper, and will surely be the number one for one of the biggest clubs in Europe very, very soon.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Comandante`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Physical, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Physical, and Jumping.
+- Style traits point toward One On One Specialist, Far Throw, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Anticipation | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Drive | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Technical | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | █████████████████ 17/10 |
-| Physical | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Anticipation | ████████░░ 8/10 |
-| Drive | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Pass Range | ████████░░ 8/10 |
-| Technical | ████████░░ 8/10 |
-| Acceleration | ███████░░░ 7/10 |
-| Communication | ███████░░░ 7/10 |
-| Composure | ███████░░░ 7/10 |
-| Concentration | ███████░░░ 7/10 |
-| Decisions | ███████░░░ 7/10 |
-| Mental | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **One On One Specialist** (style) — severity 5/10
-- **Far Throw** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,6 +86,22 @@ Costa's the archetypal modern day goalkeeper, and will surely be the number one 
 - **Pressure (JP)**: 20
 - **Competitiveness**: 3/10
 - **Coachability**: 7/10
+
+## Trait Ledger
+
+- **One On One Specialist** (style) — severity 5/10
+- **Far Throw** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

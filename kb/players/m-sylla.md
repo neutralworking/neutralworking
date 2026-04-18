@@ -2,7 +2,7 @@
 title: M. Sylla
 category: players
 tags: [CD, Livingston FC, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Livingston FC. Archetype: Destroyer.
@@ -26,29 +26,56 @@ backlinks: [destroyer, livingston-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+M. Sylla projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Carries, Skills, and Technical.
+
+## Role Fit
+
+- Best-fit role is `Centrale` with model support score `72`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Carries, Skills, and Technical.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Carries, Skills, and Technical.
+- Style traits point toward Direct in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Carries | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Communication | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Leadership | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Long Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Carries | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Leadership | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Mental | █████░░░░░ 5/10 |
-| Creativity | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Aggression | ██░░░░░░░░ 2/10 |
-| Discipline | ██░░░░░░░░ 2/10 |
-| Tactical | ██░░░░░░░░ 2/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +85,15 @@ backlinks: [destroyer, livingston-fc]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

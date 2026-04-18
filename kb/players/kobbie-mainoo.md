@@ -2,7 +2,7 @@
 title: Kobbie Mainoo
 category: players
 tags: [CM, Manchester United, England, Cover-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Manchester United. Archetype: Cover-Sprinter.
@@ -26,40 +26,58 @@ backlinks: [cover, manchester-united]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Kobbie Mainoo, a burgeoning Connector and Metodista from a Holding Midfielder blueprint, displays exceptional composure and first touch, enabling him to shield the ball and contribute to build-up with precise passing and positional discipline. His ability to execute take-ons under pressure and his patient approach mark him as a future deep-lying playmaker, akin to traditional defensive midfielders who control tempo. Despite his overall strong technical pillar, specific 'technical' weaknesses are noted, along with struggles in pressing and clearances. As a one-club talent, he is a long-term investment for a club prioritising ball retention and progressive play from a C side market, offering significant potential if his few defensive shortcomings are addressed.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `74`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Shielding, Balance, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and First Touch.
+- Style traits point toward Press Proven, Finishing, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ██████████████████ 18/10 |
-| Balance | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Penalties | ███████████ 11/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **Press Proven** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **patient** (style) — severity 4/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -69,6 +87,27 @@ Kobbie Mainoo, a burgeoning Connector and Metodista from a Holding Midfielder bl
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Proven** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Patient** (style) — severity 4/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

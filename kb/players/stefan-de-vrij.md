@@ -1,13 +1,13 @@
 ---
 title: Stefan de Vrij
 category: players
-tags: [CD, Inter Milan, Netherlands, Destroyer-Powerhouse]
-updated: 2026-04-14
+tags: [CD, Inter Milan, Cover]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Inter Milan. Archetype: Destroyer-Powerhouse.
-person_id: 17578
-backlinks: [destroyer, inter-milan]
+summary: CD at Inter Milan. Archetype: Cover.
+person_id: 6828
+backlinks: [cover, inter-milan]
 ---
 
 # Stefan de Vrij
@@ -18,43 +18,82 @@ backlinks: [destroyer, inter-milan]
 |---|---|
 | **Position** | CD |
 | **Club** | Inter Milan |
-| **Nation** | Netherlands |
+| **Nation** | None |
 | **Age** | 34 |
-| **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Level** | 82 |
-| **Overall** | 77.0 |
+| **Archetype** | [[cover]] Cover |
+| **Level** | 78 |
+| **Overall** | 71.0 |
 | **Pursuit** | None |
-| **Market Value Tier** | 3 |
+| **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
-Dutch centre-back. Experienced, composed, distributes well from the back. Not the quickest but smart and reliable.
+Stefan de Vrij projects primarily as a CD with a `Cover` lean. The strongest database support comes from Awareness, Composure, and Interceptions.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Awareness, Composure, and Interceptions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Awareness, Composure, and Interceptions.
+- Style traits point toward Aerial Ability and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Awareness | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Composure | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Interceptions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Awareness | ██████████ 10/10 |
-| Duels | ██████████ 10/10 |
-| Tackling | ██████████ 10/10 |
-| Clearances | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Carries | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Blocking | ███████░░░ 7/10 |
-| Concentration | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Technical | ███████░░░ 7/10 |
-| Communication | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Intensity | ██████░░░░ 6/10 |
-| Leadership | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 60
-- **Motivation (SN)**: 57
-- **Social (TF)**: 42
-- **Pressure (JP)**: 53
-- **Competitiveness**: 4/10
-- **Coachability**: 3/10
+- **Game Reading (EI)**: 64
+- **Motivation (SN)**: 35
+- **Social (TF)**: 21
+- **Pressure (JP)**: 55
+- **Competitiveness**: 8/10
+- **Coachability**: 6/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

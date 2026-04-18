@@ -2,7 +2,7 @@
 title: Gao Tianyi
 category: players
 tags: [AM, Shanghai Shenhua, Creator-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Shanghai Shenhua. Archetype: Creator-Sprinter.
@@ -26,33 +26,55 @@ backlinks: [creator, shanghai-shenhua]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Gao Tianyi projects primarily as a AM with a `Creator-Sprinter` lean. The strongest database support comes from Balance, Pace, and Physical.
+
+## Role Fit
+
+- Best-fit role is `Trequartista` with model support score `73`.
+- Primary archetype leans toward `Creator` behaviour from a `AM` base.
+- Tactical fit is strongest when the game asks for Set Piece Specialist and High Press.
+- Most bankable strengths show up in Balance, Pace, and Physical.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Pace, and Physical.
+- Style traits point toward Flamboyant and Passing Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Set Piece Specialist and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Pace | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Interceptions | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Through Balls | ██████████ 10/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 9/10
-- **set_piece_specialist** (tactical) — severity 7/10
-- **high_press** (tactical) — severity 5/10
-- **big_game_player** (behavioral) — severity 4/10
-- **Passing Ability** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -62,3 +84,19 @@ backlinks: [creator, shanghai-shenhua]
 - **Pressure (JP)**: 41
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 9/10
+- **Set Piece Specialist** (tactical) — severity 7/10
+- **High Press** (tactical) — severity 5/10
+- **Big Game Player** (behavioral) — severity 4/10
+- **Passing Ability** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

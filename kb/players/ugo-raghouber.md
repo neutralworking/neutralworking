@@ -1,13 +1,13 @@
 ---
 title: Ugo Raghouber
 category: players
-tags: [CM, Levante, France, Cover]
-updated: 2026-04-14
+tags: [CM, Lille, France, Cover]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at Levante. Archetype: Cover.
+summary: CM at Lille. Archetype: Cover.
 person_id: 18243
-backlinks: [cover, levante]
+backlinks: [cover, lille]
 ---
 
 # Ugo Raghouber
@@ -17,7 +17,7 @@ backlinks: [cover, levante]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Levante |
+| **Club** | Lille |
 | **Nation** | France |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover |
@@ -26,31 +26,57 @@ backlinks: [cover, levante]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A French midfielder at 22 appearing to be a development prospect or reserve option without sufficient senior minutes at this level; likely an academy graduate getting exposure rather than a ready-made player. Potential present, but largely untested in competitive Ligue 1 football.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Ball Winner`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Drive, Concentration, and Skills.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Drive, Concentration, and Skills.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Drive | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Concentration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Communication | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Leadership | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Physical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Drive | ████████░░ 8/10 |
-| Concentration | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Communication | ██████░░░░ 6/10 |
-| Leadership | ██████░░░░ 6/10 |
-| Pressing | ██████░░░░ 6/10 |
-| Intensity | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Tactical | ████░░░░░░ 4/10 |
-| Mental | ██░░░░░░░░ 2/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +86,17 @@ A French midfielder at 22 appearing to be a development prospect or reserve opti
 - **Pressure (JP)**: 65
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Farès Chaïbi
 category: players
 tags: [AM, Eintracht Frankfurt, Algeria, Engine-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Eintracht Frankfurt. Archetype: Engine-Passer.
@@ -26,37 +26,54 @@ backlinks: [engine, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 An attacking midfielder who enjoys operating in the half-spaces and can unlock a defence with a genuine moment of invention, showing decent dribbling ability and press resistance. His consistency is a concern, however, and he can disappear in games without the ball in dangerous areas. Streaky talent, frustrating and intermittently brilliant.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Incursore` with model support score `81`.
+- Primary archetype leans toward `Engine` behaviour from a `AM` base.
+- Most bankable strengths show up in Stamina, Acceleration, and Crossing.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Acceleration, and Crossing.
+- Style traits point toward Skill Moves, Finishing, and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Skill Moves** (style) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +83,20 @@ An attacking midfielder who enjoys operating in the half-spaces and can unlock a
 - **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Skill Moves** (style) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

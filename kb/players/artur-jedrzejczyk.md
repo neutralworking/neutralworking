@@ -1,13 +1,13 @@
 ---
 title: Artur Jędrzejczyk
 category: players
-tags: [CM, Legia Warszawa, Powerhouse]
-updated: 2026-04-14
+tags: [WD, Legia Warszawa, Poland]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at Legia Warszawa. Archetype: Powerhouse.
-person_id: 8745
-backlinks: [powerhouse, legia-warszawa]
+summary: WD at Legia Warszawa. Archetype: None.
+person_id: 8744
+backlinks: [legia-warszawa]
 ---
 
 # Artur Jędrzejczyk
@@ -16,49 +16,67 @@ backlinks: [powerhouse, legia-warszawa]
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
+| **Position** | WD |
 | **Club** | Legia Warszawa |
-| **Nation** | None |
+| **Nation** | Poland |
 | **Age** | 38 |
-| **Archetype** | [[powerhouse]] Powerhouse |
-| **Level** | 80 |
-| **Overall** | 70.0 |
+| **Archetype** | [[—]] None |
+| **Level** | 48 |
+| **Overall** | None |
 | **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
-An aging terrier whose aggression and aerial dominance mask a deepening tactical simplicity; at 38, his limited discipline and inconsistent tactical awareness make him a liability in possession or when pressing structure matters. His long-range striking ability and composure under pressure remain genuine assets, but they're increasingly outweighed by mobility loss and a tendency toward recklessness that undermines team shape. Useful only as a depth option or set-piece specialist in sides willing to absorb his chaos—not a midfielder for coaches demanding tactical obedience.
+Artur Jędrzejczyk projects primarily as a WD with a `None` lean. The strongest database support comes from Shielding and Duels.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Most bankable strengths show up in Shielding and Duels.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding and Duels.
+- Style traits point toward Strength and Long Throws in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Long Range | ██████████████ 14/10 |
-| Aerial Duels | █████████████ 13/10 |
-| Composure | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Interceptions | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
-| Crossing | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Strength** (style) — severity 4/10
+## Risk Flags
 
-## Personality
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
-- **Game Reading (EI)**: 57
-- **Motivation (SN)**: 38
-- **Social (TF)**: 43
-- **Pressure (JP)**: 55
-- **Competitiveness**: 5/10
-- **Coachability**: 3/10
+## Trait Ledger
+
+- **Strength** (style) — severity 5/10
+- **Long Throws** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 2 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |

@@ -2,7 +2,7 @@
 title: Cristian Romero
 category: players
 tags: [CD, Tottenham Hotspur, Argentina, Destroyer-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Tottenham Hotspur. Archetype: Destroyer-Dribbler.
@@ -26,42 +26,58 @@ backlinks: [destroyer, tottenham-hotspur]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Argentine centre-back. Aggressive to the point of reckless — wins everything, tackles ferociously. World-class on his day.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Stopper` with model support score `87`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Aggression, Duels, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Duels, and Jumping.
+- Style traits point toward Tackling Ability, Aerial Ability, and Strength in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Duels | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Blocking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Clearances | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | █████████████████ 17/10 |
-| Duels | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Blocking | ████████████████ 16/10 |
-| Clearances | ████████████████ 16/10 |
-| Marking | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| First Touch | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Balance | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 6/10
-- **aerial_threat** (physical) — severity 6/10
-- **high_press** (tactical) — severity 6/10
-- **Tackling Ability** (style) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -71,6 +87,29 @@ Argentine centre-back. Aggressive to the point of reckless — wins everything, 
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 6/10
+- **Aerial Threat** (physical) — severity 6/10
+- **High Press** (tactical) — severity 6/10
+- **Tackling Ability** (style) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

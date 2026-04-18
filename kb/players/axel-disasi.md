@@ -2,7 +2,7 @@
 title: Axel Disasi
 category: players
 tags: [CD, West Ham United, France, Cover-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at West Ham United. Archetype: Cover-Dribbler.
@@ -26,41 +26,58 @@ backlinks: [cover, west-ham-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 French centre-back who can also cover right-back. Physically strong, aggressive. Positional errors creep in under sustained pressure.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `81`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Physical, Jumping, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Reactions.
+- Style traits point toward Aerial Ability, Positioning, and Strength in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Durability, and Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ██████████████████ 18/10 |
-| Jumping | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Long Range | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Take Ons | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Crossing | ██████████ 10/10 |
-| Balance | █████████░ 9/10 |
-| Close Range | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **durability** (physical) — severity 6/10
-- **aerial_threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -70,3 +87,24 @@ French centre-back who can also cover right-back. Physically strong, aggressive.
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Durability** (physical) — severity 6/10
+- **Aerial Threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

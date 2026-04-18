@@ -2,7 +2,7 @@
 title: David Alaba
 category: players
 tags: [CD, Real Madrid, Austria, Cover-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Real Madrid. Archetype: Cover-Dribbler.
@@ -26,38 +26,58 @@ backlinks: [cover, real-madrid]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Austrian defender recovering from a long-term ACL injury. When fit, world-class: left-footed, composed, reads the game perfectly. Fitness is the question.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `80`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Pass Accuracy, Reactions, and Composure.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Reactions, and Composure.
+- Style traits point toward Two Footed, Anticipation, and Set Piece Threat in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Composure | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Crossing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Interceptions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Marking | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | ██████████████████ 18/10 |
-| Reactions | ██████████████████ 18/10 |
-| Composure | █████████████████ 17/10 |
-| Crossing | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Interceptions | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Marking | █████████████████ 17/10 |
-| Tackling | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Penalties | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Anticipation** (style) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,6 +87,25 @@ Austrian defender recovering from a long-term ACL injury. When fit, world-class:
 - **Pressure (JP)**: 31
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Anticipation** (style) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

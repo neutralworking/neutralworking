@@ -2,7 +2,7 @@
 title: Alex McCarthy
 category: players
 tags: [GK, Kaizer Chiefs, England, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Kaizer Chiefs. Archetype: GK.
@@ -26,34 +26,59 @@ backlinks: [gk, kaizer-chiefs]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Solid, reliable shot-stopper with good positioning for a mid-table keeper; distribution is serviceable rather than dynamic. At 36, still performing his role competently but not the type to elevate a struggling defense—adequate for Premier League survival.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Close Range, Reactions, and Jumping.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Reactions, and Jumping.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Positioning | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pace | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Physical | █████████████ 13/10 |
-| Positioning | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Acceleration | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
-| Aggression | ███████░░░ 7/10 |
-| Stamina | ███████░░░ 7/10 |
-| Mental | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Awareness | ██░░░░░░░░ 2/10 |
-| Carries | ██░░░░░░░░ 2/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +88,17 @@ Solid, reliable shot-stopper with good positioning for a mid-table keeper; distr
 - **Pressure (JP)**: 59
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

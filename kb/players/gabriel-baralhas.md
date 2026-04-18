@@ -2,7 +2,7 @@
 title: Gabriel Baralhas
 category: players
 tags: [CM, Vitória, Destroyer-Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Vitória. Archetype: Destroyer-Striker.
@@ -26,34 +26,55 @@ backlinks: [destroyer, vitoria]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Gabriel Baralhas is a tenacious, physical midfielder with a strong technical foundation, exceling in composure, interceptions, and tackling. As a Terrier archetype, he is well-suited for the Tuttocampista role, where his aggression and awareness can be leveraged to win the ball back. However, his limited vision and creativity, combined with weaknesses in discipline, may limit his effectiveness in more refined systems. A team seeking a destructive, athletic midfielder could benefit from his services, but his lack of technical refinement and tactical awareness may hinder his overall impact.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `75`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Pass Accuracy, Aggression, and Awareness.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Aggression, and Awareness.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Long Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Skills | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | ██████████ 10/10 |
-| Aggression | █████████░ 9/10 |
-| Awareness | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Long Range | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Blocking | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Flair | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Close Range | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 6/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +84,17 @@ Gabriel Baralhas is a tenacious, physical midfielder with a strong technical fou
 - **Pressure (JP)**: 56
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 6/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

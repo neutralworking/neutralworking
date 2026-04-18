@@ -1,13 +1,13 @@
 ---
 title: Jaime Báez
 category: players
-tags: [WF, Junior, Uruguay, Creator]
-updated: 2026-04-14
+tags: [WF, Sportivo Luqueño, Uruguay, Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WF at Junior. Archetype: Creator.
+summary: WF at Sportivo Luqueño. Archetype: Creator.
 person_id: 12219
-backlinks: [creator, junior]
+backlinks: [creator, sportivo-luqueno]
 ---
 
 # Jaime Báez
@@ -17,7 +17,7 @@ backlinks: [creator, junior]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Junior |
+| **Club** | Sportivo Luqueño |
 | **Nation** | Uruguay |
 | **Age** | 30 |
 | **Archetype** | [[creator]] Creator |
@@ -26,29 +26,51 @@ backlinks: [creator, junior]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Aging Uruguayan winger well past his prime with limited pace and inconsistent technical execution. Still has moments where experience shines through in his positioning, but he can't beat a full-back on the dribble anymore and his crossing is unreliable. A fringe option for a struggling side.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger` with model support score `75`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Tactical, Communication, and Concentration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Tactical, Communication, and Concentration.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Communication | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Leadership | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Discipline | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Tactical | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Leadership | █████░░░░░ 5/10 |
-| Pressing | █████░░░░░ 5/10 |
-| Discipline | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Technical | ███░░░░░░░ 3/10 |
-| Aggression | █░░░░░░░░░ 1/10 |
-| Close Range | █░░░░░░░░░ 1/10 |
-| Composure | █░░░░░░░░░ 1/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
-| Duels | █░░░░░░░░░ 1/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +80,11 @@ Aging Uruguayan winger well past his prime with limited pace and inconsistent te
 - **Pressure (JP)**: 59
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

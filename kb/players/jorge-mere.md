@@ -2,7 +2,7 @@
 title: Jorge Meré
 category: players
 tags: [CD, Cadiz, Spain, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Cadiz. Archetype: Striker.
@@ -19,35 +19,66 @@ backlinks: [striker, cadiz]
 | **Position** | CD |
 | **Club** | Cadiz |
 | **Nation** | Spain |
-| **Age** | 28 |
+| **Age** | 29 |
 | **Archetype** | [[striker]] Striker |
 | **Level** | 84 |
 | **Overall** | 76.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A centre-back at 28 with the technical tools to play out from the back and reasonable positioning sense, but he's susceptible to pace and lateral movement—especially from quick, intelligent strikers operating in half-spaces. His ball-playing ability suggests he's been tried higher up the food chain, but a lack of athleticism or commanding presence has rendered him a permanent lower-league resident. He's solid rather than special.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper`.
+- Primary archetype leans toward `Striker` behaviour from a `CD` base.
+- Most bankable strengths show up in Tactical, Technical, and Mental.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Tactical, Technical, and Mental.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Awareness | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Carries | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Intensity | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Creativity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Through Balls | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Tactical | ███████░░░ 7/10 |
-| Technical | ██████░░░░ 6/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Awareness | ███░░░░░░░ 3/10 |
-| Carries | ███░░░░░░░ 3/10 |
-| Intensity | ███░░░░░░░ 3/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
-| Through Balls | █░░░░░░░░░ 1/10 |
-| Vision | █░░░░░░░░░ 1/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -57,3 +88,17 @@ A centre-back at 28 with the technical tools to play out from the back and reaso
 - **Pressure (JP)**: 75
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

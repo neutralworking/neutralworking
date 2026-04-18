@@ -2,7 +2,7 @@
 title: Branden Horton
 category: players
 tags: [WD, Doncaster Rovers, England, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Doncaster Rovers. Archetype: Sprinter.
@@ -26,29 +26,55 @@ backlinks: [sprinter, doncaster-rovers]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Branden Horton projects primarily as a WD with a `Sprinter` lean. The strongest database support comes from Physical, Acceleration, and Pace.
+
+## Role Fit
+
+- Best-fit role is `Corner Back`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
+- Most bankable strengths show up in Physical, Acceleration, and Pace.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Acceleration, and Pace.
+- Style traits point toward Anticipation in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Composure | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Aggression | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Anticipation** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +84,15 @@ backlinks: [sprinter, doncaster-rovers]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Anticipation** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

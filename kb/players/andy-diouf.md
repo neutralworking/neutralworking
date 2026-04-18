@@ -1,13 +1,13 @@
 ---
 title: Andy Diouf
 category: players
-tags: [CM, Inter Milan, France, Engine-Creator]
-updated: 2026-04-14
+tags: [CM, Lens, France, Engine-Creator]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at Inter Milan. Archetype: Engine-Creator.
+summary: CM at Lens. Archetype: Engine-Creator.
 person_id: 8521
-backlinks: [engine, inter-milan]
+backlinks: [engine, lens]
 ---
 
 # Andy Diouf
@@ -17,43 +17,64 @@ backlinks: [engine, inter-milan]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Inter Milan |
+| **Club** | Lens |
 | **Nation** | France |
 | **Age** | 22 |
 | **Archetype** | [[engine]] Engine-Creator |
 | **Level** | 79 |
-| **Overall** | 74.0 |
+| **Overall** | 73.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A young midfielder trying to find his footing at a massive club, capable of carrying the ball forward and showing reasonable technical security in transitions. He's got the athletic profile to develop into something, but he's not yet imposing himself on games with consistency or showing the tactical nous that Inzaghi demands. Essentially a prospect getting blooded rather than a finished article.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Engine` behaviour from a `CM` base.
+- Most bankable strengths show up in Aggression, Balance, and Composure.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Balance, and Composure.
+- Style traits point toward Trickery and Pace in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Long Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Mid Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Mid Range | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Interceptions | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Trickery** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +84,17 @@ A young midfielder trying to find his footing at a massive club, capable of carr
 - **Pressure (JP)**: 45
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Trickery** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

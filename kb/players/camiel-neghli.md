@@ -2,7 +2,7 @@
 title: Camiel Neghli
 category: players
 tags: [CM, Millwall, Algeria, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Millwall. Archetype: Sprinter.
@@ -26,31 +26,59 @@ backlinks: [sprinter, millwall]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Camiel Neghli projects primarily as a CM with a `Sprinter` lean. The strongest database support comes from Stamina, Pace, and Acceleration.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `70`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
+- Most bankable strengths show up in Stamina, Pace, and Acceleration.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Pace, and Acceleration.
+- Style traits point toward Flamboyant and Set Piece Threat in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Penalties | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Penalties | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Reactions | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
-| Heading | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 7/10
-- **endurance** (physical) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +88,17 @@ backlinks: [sprinter, millwall]
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 7/10
+- **Endurance** (physical) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

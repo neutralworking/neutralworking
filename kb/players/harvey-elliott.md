@@ -1,13 +1,13 @@
 ---
 title: Harvey Elliott
 category: players
-tags: [CF, Aston Villa, United Kingdom, Engine-Dribbler]
-updated: 2026-04-14
+tags: [CF, Liverpool, United Kingdom, Engine-Dribbler]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Aston Villa. Archetype: Engine-Dribbler.
+summary: CF at Liverpool. Archetype: Engine-Dribbler.
 person_id: 19362
-backlinks: [engine, aston-villa]
+backlinks: [engine, liverpool]
 ---
 
 # Harvey Elliott
@@ -17,7 +17,7 @@ backlinks: [engine, aston-villa]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Aston Villa |
+| **Club** | Liverpool |
 | **Nation** | United Kingdom |
 | **Age** | 23 |
 | **Archetype** | [[engine]] Engine-Dribbler |
@@ -26,38 +26,54 @@ backlinks: [engine, aston-villa]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A creative midfielder/winger still piecing together a senior career at Liverpool. Elliott is technically gifted but has struggled with consistency and injury; he's not yet at the level where he's genuinely threatening on a weekly basis in elite company.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta`.
+- Primary archetype leans toward `Engine` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Skill Moves, Finishing, and Trickery in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Composure | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | ██████████████████ 18/10 |
-| Acceleration | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Mid Range | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Pass Range | ██████████████ 14/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Skill Moves** (style) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,3 +83,21 @@ A creative midfielder/winger still piecing together a senior career at Liverpool
 - **Pressure (JP)**: 39
 - **Competitiveness**: 4/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Skill Moves** (style) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

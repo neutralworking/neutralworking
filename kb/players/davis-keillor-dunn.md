@@ -2,7 +2,7 @@
 title: Davis Keillor-Dunn
 category: players
 tags: [CF, Wrexham, England, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Wrexham. Archetype: Striker-Creator.
@@ -26,36 +26,50 @@ backlinks: [striker, wrexham]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Championship striker with intelligent movement and creative link play. Good first touch and awareness for a forward at this level. Contributing to Wrexham's rise through the leagues. Ceiling likely Championship/lower PL. HG-qualified. Monitor — interesting archetype for squad depth at value price.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Spearhead` with model support score `57`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Close Range, Long Range, and Mid Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Long Range, and Mid Range.
+- Style traits point toward Two Footed, Trickery, and Work Rate in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Mid Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Penalties | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Positioning | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Vision | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Penalties | █████████████ 13/10 |
-| Positioning | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Vision | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Awareness | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Composure | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Intensity | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
+| Floor | EUR 4.0m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Two Footed** (style) — severity 7/10
-- **Trickery** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,6 +79,23 @@ Championship striker with intelligent movement and creative link play. Good firs
 - **Pressure (JP)**: 55
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Two Footed** (style) — severity 7/10
+- **Trickery** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

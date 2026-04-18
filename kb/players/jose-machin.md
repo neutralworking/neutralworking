@@ -2,7 +2,7 @@
 title: José Machín
 category: players
 tags: [CM, Monza, Equatorial Guinea, Dribbler-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Monza. Archetype: Dribbler-Destroyer.
@@ -26,35 +26,54 @@ backlinks: [dribbler, monza]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Central midfielder with reasonable work rate and the ability to break up play, but he's a pure destroyer without the technical skill to progress possession or dictate tempo. Functional enough to shield a defence, but he's a passenger in possession and doesn't elevate Monza's midfield quality.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Most bankable strengths show up in Movement, Take Ons, and Vision.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Movement, Take Ons, and Vision.
+- Style traits point toward Close Control, Passing Ability, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Vision | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Movement | ███████████████ 15/10 |
-| Pass Accuracy | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Vision | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Composure | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Aggression | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Awareness | ████████████ 12/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Close Control** (style) — severity 4/10
-- **Passing Ability** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ Central midfielder with reasonable work rate and the ability to break up play, b
 - **Pressure (JP)**: 45
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Close Control** (style) — severity 4/10
+- **Passing Ability** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

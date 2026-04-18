@@ -2,7 +2,7 @@
 title: Federico Santacruz Rodas Jordan
 category: players
 tags: [CM, Bolivia]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: None.
@@ -25,22 +25,56 @@ person_id: 29001
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Federico Santacruz Rodas Jordan projects primarily as a CM with a `None` lean. The strongest database support comes from Tackling, Through Balls, and Vision.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `49`.
+- Most bankable strengths show up in Tackling, Through Balls, and Vision.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Tackling, Through Balls, and Vision.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Duels | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Tackling | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Creativity | ██████░░░░ 6/10 |
-| Duels | ██████░░░░ 6/10 |
-| Awareness | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
-| Intensity | █████░░░░░ 5/10 |
-| Pass Accuracy | █████░░░░░ 5/10 |
-| Skills | █████░░░░░ 5/10 |
-| Take Ons | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Blocking | ████░░░░░░ 4/10 |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |

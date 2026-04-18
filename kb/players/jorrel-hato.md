@@ -2,7 +2,7 @@
 title: Jorrel Hato
 category: players
 tags: [CD, Chelsea, Netherlands, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Chelsea. Archetype: Sprinter-Dribbler.
@@ -26,38 +26,54 @@ backlinks: [sprinter, chelsea]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Dutch teenager with extraordinary composure. Left-footed, versatile, already looks at home at the top level. One of Europe's most exciting defensive prospects.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Stopper` with model support score `69`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Jumping, Pace, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Pace, and Balance.
+- Style traits point toward Defensive Awareness, Tackling Ability, and Acceleration in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Pace | ██████████████████ 18/10 |
-| Balance | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Physical | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Take Ons | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Vision | █████████████ 13/10 |
-| Crossing | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Through Balls | ███████████ 11/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 7/10
-- **high_press** (tactical) — severity 6/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,3 +83,21 @@ Dutch teenager with extraordinary composure. Left-footed, versatile, already loo
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 7/10
+- **High Press** (tactical) — severity 6/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

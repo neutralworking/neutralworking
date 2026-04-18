@@ -2,7 +2,7 @@
 title: Diego Godín
 category: players
 tags: [CD, Vélez Sarsfield, Uruguay, Commander-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Vélez Sarsfield. Archetype: Commander-Cover.
@@ -26,34 +26,58 @@ backlinks: [commander, velez-sarsfield]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 CD					URU	B	0.0	Godin has terrific strength in the air, is dominant and aggressive at attacking danger before a shot can be gotten away cleanly. He organises and directs his team-mates well—potentially an issue in changing league and language, of course—and although he can play simple at times, is very much a defend-first player. He will clear his lines, agriculturally if necessary, before worrying about aesthetics, a counter-attack or the target on the halfway line.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Zagueiro` with model support score `90`.
+- Primary archetype leans toward `Commander` behaviour from a `CD` base.
+- Most bankable strengths show up in Aerial Duels, Heading, and Interceptions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Aerial Duels, Heading, and Interceptions.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aerial Duels | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aerial Duels | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Interceptions | ████████████████ 16/10 |
-| Marking | ████████████████ 16/10 |
-| Tackling | ████████████████ 16/10 |
-| Acceleration | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| First Touch | ████████████ 12/10 |
-| Skills | ████████████ 12/10 |
-| Take Ons | ████████████ 12/10 |
-| Long Range | ██████████ 10/10 |
-| Mid Range | ██████████ 10/10 |
-| Volleys | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,6 +87,21 @@ CD					URU	B	0.0	Godin has terrific strength in the air, is dominant and aggress
 - **Pressure (JP)**: 65
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

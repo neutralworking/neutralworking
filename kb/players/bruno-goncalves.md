@@ -2,7 +2,7 @@
 title: Bruno Gonçalves
 category: players
 tags: [CM, Dender EH, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Dender EH. Archetype: Cover.
@@ -26,7 +26,7 @@ backlinks: [cover, dender-eh]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 ClubRed Bull Bragantino
 
@@ -44,32 +44,51 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
 **October 2023 update** Having had few chances to impress in 2022, Gonçalves sadly failed when he was given an opportunity to shine this year. RB Bragantino are having a tremendous campaign in the Brasileirão, being involved in the title fight, but Gonçalves has not been used as much as expected.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Physical, Jumping, and Acceleration.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Physical, Jumping, and Acceleration.
+- Style traits point toward Work Rate, Strength, and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Physical | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Crossing | ██████████ 10/10 |
-| Interceptions | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Work Rate** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -79,6 +98,23 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
 - **Pressure (JP)**: 58
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Work Rate** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

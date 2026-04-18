@@ -1,13 +1,13 @@
 ---
 title: David Datro Fofana
 category: players
-tags: [CF, Fatih Karagümrük, Côte d’Ivoire, Striker]
-updated: 2026-04-14
+tags: [CF, Strasbourg, Côte d’Ivoire, Striker]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Fatih Karagümrük. Archetype: Striker.
+summary: CF at Strasbourg. Archetype: Striker.
 person_id: 10073
-backlinks: [striker, fatih-karagumruk]
+backlinks: [striker, strasbourg]
 ---
 
 # David Datro Fofana
@@ -17,7 +17,7 @@ backlinks: [striker, fatih-karagumruk]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Fatih Karagümrük |
+| **Club** | Strasbourg |
 | **Nation** | Côte d’Ivoire |
 | **Age** | 23 |
 | **Archetype** | [[striker]] Striker |
@@ -26,38 +26,58 @@ backlinks: [striker, fatih-karagumruk]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A raw, physically dominant centre-forward with genuine pace and athleticism who operates best in transition, where his directness and willingness to run beyond the last line become genuine threats. His positioning in the box remains elementary—he's as likely to drift into congestion as he is to find space—and his technical security under pressure is inconsistent, which limits his effectiveness in possession-based systems. He's a project rather than a polished product, the kind of player who might thrive under a coach willing to build a system around his running and physicality, but he's not yet the consistent, intelligent finisher you'd expect from a player leading the line at an ambitious club.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `74`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Acceleration, Jumping, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Balance.
+- Style traits point toward Two Footed, Trickery, and Technical Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Pass Range | ██████████ 10/10 |
-| Close Range | ████████░░ 8/10 |
-| Movement | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| First Touch | ███████░░░ 7/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **counter_attack_threat** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -67,3 +87,21 @@ A raw, physically dominant centre-forward with genuine pace and athleticism who 
 - **Pressure (JP)**: 44
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Counter Attack Threat** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Andreas Schjelderup
 category: players
 tags: [WF, Benfica, Norway, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Benfica. Archetype: Creator-Dribbler.
@@ -26,7 +26,7 @@ backlinks: [creator, benfica]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubNordsjælland
@@ -43,32 +43,50 @@ Born in Bodø, north of the Arctic circle, Schjelderup attracted enormous intere
 **October 2023 update** Joined Benfica in January 2023 for £9m, the Portuguese club recognising the talent the young forward possesses. Now, he may not have got many minutes - two, in fact – but by the end of the 2022-23 he had featured in both the Portuguese top-flight and the Champions League. Has rejoined Nordsjælland on loan for the 2023-24 season.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `82`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Acceleration, Balance, and Shielding.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Shielding.
+- Style traits point toward Finishing, Trickery, and Technical Ability in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| Shielding | █████████████████ 17/10 |
-| First Touch | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Crossing | ████████████ 12/10 |
-| Jumping | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Physical | ██████████ 10/10 |
-| Creativity | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **counter_attack_threat** (tactical) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -78,6 +96,23 @@ Born in Bodø, north of the Arctic circle, Schjelderup attracted enormous intere
 - **Pressure (JP)**: 39
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Counter Attack Threat** (tactical) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

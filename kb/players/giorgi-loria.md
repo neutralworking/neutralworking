@@ -2,7 +2,7 @@
 title: Giorgi Loria
 category: players
 tags: [GK, Dinamo Tbilisi, Georgia, GK]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Dinamo Tbilisi. Archetype: GK.
@@ -26,23 +26,55 @@ backlinks: [gk, dinamo-tbilisi]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A veteran Georgian goalkeeper now in his 40th year, Loria remains a functional presence between the sticks for Dinamo Tbilisi—steady enough for domestic competition but without the reflexes or footwork required at a serious European level. His game is built on positioning and experience rather than athleticism; he reads the play early and rarely makes catastrophic errors, which matters in the Georgian Premier League's measured tempo. At this age, however, he's a step slow to his near post, struggles with modern pressing demands that require distribution into midfield, and represents a genuine weakness if Dinamo ever genuinely compete in European group stages.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper Keeper`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Mental, Tactical, and Technical.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Mental, Tactical, and Technical.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Awareness | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Carries | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Creativity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Intensity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+| Through Balls | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Mental | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Awareness | █░░░░░░░░░ 1/10 |
-| Carries | █░░░░░░░░░ 1/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
-| Intensity | █░░░░░░░░░ 1/10 |
-| Through Balls | █░░░░░░░░░ 1/10 |
-| Vision | █░░░░░░░░░ 1/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -52,3 +84,11 @@ A veteran Georgian goalkeeper now in his 40th year, Loria remains a functional p
 - **Pressure (JP)**: 72
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

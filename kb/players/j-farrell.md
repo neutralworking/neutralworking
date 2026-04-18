@@ -1,13 +1,13 @@
 ---
 title: J. Farrell
 category: players
-tags: [CM, Western Sydney Wanderers, Cover-Creator]
-updated: 2026-04-14
+tags: [CM, Portsmouth, Cover-Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Western Sydney Wanderers. Archetype: Cover-Creator.
+summary: CM at Portsmouth. Archetype: Cover-Creator.
 person_id: 27276
-backlinks: [cover, western-sydney-wanderers]
+backlinks: [cover, portsmouth]
 ---
 
 # J. Farrell
@@ -17,7 +17,7 @@ backlinks: [cover, western-sydney-wanderers]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Western Sydney Wanderers |
+| **Club** | Portsmouth |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[cover]] Cover-Creator |
@@ -26,31 +26,55 @@ backlinks: [cover, western-sydney-wanderers]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+J. Farrell projects primarily as a CM with a `Cover-Creator` lean. The strongest database support comes from Interceptions, Awareness, and Flair.
+
+## Role Fit
+
+- Best-fit role is `Ball Winner` with model support score `71`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Interceptions, Awareness, and Flair.
+
+## In Possession
+
+- Ball-value indicators lean on Interceptions, Awareness, and Flair.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Flair | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Take Ons | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Blocking | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Interceptions | ██████░░░░ 6/10 |
-| Awareness | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
-| Take Ons | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Blocking | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Creativity | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Leadership | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Physical | ████░░░░░░ 4/10 |
-| Pressing | ████░░░░░░ 4/10 |
-| Skills | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 8/10
-- **high_press** (tactical) — severity 6/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [cover, western-sydney-wanderers]
 - **Pressure (JP)**: 58
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 8/10
+- **High Press** (tactical) — severity 6/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: Gianluca Prestianni
 category: players
 tags: [WF, Benfica, Argentina, Creator-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Benfica. Archetype: Creator-Sprinter.
@@ -26,38 +26,51 @@ backlinks: [creator, benfica]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Gianluca Prestianni is an exciting Creator-Sprinter, capable of electrifying performances as a Direct Winger or Extremo, using his phenomenal acceleration, pace, and balance to devastating effect in one-on-one situations. His exceptional shielding and take-ons make him extremely difficult to dispossess once he gets going. However, his single-digit discipline is a glaring flaw, suggesting a player who frequently puts himself or the team in avoidable trouble, hindering his overall consistency.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `79`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Shielding, Balance, and Pace.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Shielding, Balance, and Pace.
+- Style traits point toward Flamboyant, Skill Moves, and Trickery in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Shielding | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Movement | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Shielding | ███████████████████ 19/10 |
-| Balance | ██████████████████ 18/10 |
-| Pace | █████████████████ 17/10 |
-| First Touch | ██████████████ 14/10 |
-| Stamina | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Interceptions | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
-| Volleys | ██████████ 10/10 |
-| Creativity | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Flair | █████████░ 9/10 |
-| Jumping | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 10/10
-- **hot_headed** (behavioral) — severity 8/10
-- **Skill Moves** (style) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,3 +80,21 @@ Gianluca Prestianni is an exciting Creator-Sprinter, capable of electrifying per
 - **Pressure (JP)**: 40
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 10/10
+- **Hot Headed** (behavioral) — severity 8/10
+- **Skill Moves** (style) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

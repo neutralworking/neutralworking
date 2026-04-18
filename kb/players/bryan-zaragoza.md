@@ -1,13 +1,13 @@
 ---
 title: Bryan Zaragoza
 category: players
-tags: [WF, Celta Vigo, Spain, Creator]
-updated: 2026-04-14
+tags: [WF, AS Roma, Spain, Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WF at Celta Vigo. Archetype: Creator.
+summary: WF at AS Roma. Archetype: Creator.
 person_id: 9262
-backlinks: [creator, celta-vigo]
+backlinks: [creator, as-roma]
 ---
 
 # Bryan Zaragoza
@@ -17,7 +17,7 @@ backlinks: [creator, celta-vigo]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Celta Vigo |
+| **Club** | AS Roma |
 | **Nation** | Spain |
 | **Age** | 24 |
 | **Archetype** | [[creator]] Creator |
@@ -26,39 +26,55 @@ backlinks: [creator, celta-vigo]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Quick-footed right winger with genuine directness — prefers to drive infield and shoot rather than cross, which gives Celta unpredictability on the break. Lovely accelerator over ten yards, and his decision-making in the final third has improved noticeably this season. The weakness is consistency; too many nights where he fades into invisibility, and his defensive positioning is occasionally negligent.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Primary archetype leans toward `Creator` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Two Footed, Skill Moves, and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Volleys | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Crossing | ███████████████ 15/10 |
-| Movement | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | ████████████ 12/10 |
-| Jumping | ██████████ 10/10 |
-| Discipline | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **durability** (physical) — severity 2/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -68,3 +84,22 @@ Quick-footed right winger with genuine directness — prefers to drive infield a
 - **Pressure (JP)**: 39
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Durability** (physical) — severity 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

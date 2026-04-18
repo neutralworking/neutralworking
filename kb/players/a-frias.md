@@ -1,13 +1,13 @@
 ---
 title: A. Frías
 category: players
-tags: [CM, Santos, Destroyer]
-updated: 2026-04-14
+tags: [CM, Alianza FC, Destroyer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Santos. Archetype: Destroyer.
+summary: CM at Alianza FC. Archetype: Destroyer.
 person_id: 25441
-backlinks: [destroyer, santos]
+backlinks: [destroyer, alianza-fc]
 ---
 
 # A. Frías
@@ -17,7 +17,7 @@ backlinks: [destroyer, santos]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Santos |
+| **Club** | Alianza FC |
 | **Nation** | None |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer |
@@ -26,29 +26,55 @@ backlinks: [destroyer, santos]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Frías is a defensive midfielder reduced to his basest function—blocking, physical dueling, and long-range distribution—without the technical or tactical language to orchestrate play or adapt to pressing triggers, making him a blunt instrument best used in structured, low-block systems. His limited pass accuracy in the mid-range and weak creativity mean he's essentially a break-glass option for shoring up defensive volume rather than a midfielder who controls tempo or space. At 28, he's unlikely to develop meaningful creative range, so his utility hinges entirely on defensive-minded clubs with minimal possession ambition; in progressive systems, he's a liability.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `74`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Pass Accuracy, Awareness, and Blocking.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Awareness, and Blocking.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Blocking | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Blocking | █████████░ 9/10 |
-| Composure | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Duels | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
-| Discipline | ███████░░░ 7/10 |
-| Mid Range | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Physical | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +84,11 @@ Frías is a defensive midfielder reduced to his basest function—blocking, phys
 - **Pressure (JP)**: 57
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Samuel Souprayen
 category: players
 tags: [CM, Melbourne City FC, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Melbourne City FC. Archetype: Powerhouse.
@@ -26,32 +26,59 @@ backlinks: [powerhouse, melbourne-city-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Samuel Souprayen projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Jumping, Physical, and Stamina.
+
+## Role Fit
+
+- Best-fit role is `Metodista` with model support score `73`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Physical, and Stamina.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Stamina.
+- Style traits point toward Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Aerial Threat.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Aerial Duels | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Shielding | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Aerial Duels | ████████████ 12/10 |
-| First Touch | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Crossing | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
-| Penalties | █████████░ 9/10 |
-| Volleys | █████████░ 9/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **aerial_threat** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **hot_headed** (behavioral) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -61,3 +88,18 @@ backlinks: [powerhouse, melbourne-city-fc]
 - **Pressure (JP)**: 31
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Aerial Threat** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

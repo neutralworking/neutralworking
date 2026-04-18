@@ -1,6 +1,6 @@
 # Concepts Index
 
-> 1 articles | 891 words | Last rebuilt: 2026-04-17
+> 1 articles | 891 words | Last rebuilt: 2026-04-18
 
 ## Articles
 

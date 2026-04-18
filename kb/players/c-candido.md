@@ -2,7 +2,7 @@
 title: C. Cándido
 category: players
 tags: [CM, Atlético Nacional, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Atlético Nacional. Archetype: Creator.
@@ -26,30 +26,60 @@ backlinks: [creator, atletico-nacional]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+C. Cándido projects primarily as a CM with a `Creator` lean. The strongest database support comes from Stamina, Through Balls, and Creativity.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `69`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Most bankable strengths show up in Stamina, Through Balls, and Creativity.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Through Balls, and Creativity.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Vision | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Threat | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████░░ 8/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Vision | █████░░░░░ 5/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Threat | ████░░░░░░ 4/10 |
-| Communication | ███░░░░░░░ 3/10 |
-| Concentration | ███░░░░░░░ 3/10 |
-| Drive | ███░░░░░░░ 3/10 |
-| Leadership | ███░░░░░░░ 3/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Pressing | ███░░░░░░░ 3/10 |
-| Awareness | ██░░░░░░░░ 2/10 |
-| Close Range | ██░░░░░░░░ 2/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **endurance** (physical) — severity 6/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -59,3 +89,16 @@ backlinks: [creator, atletico-nacional]
 - **Pressure (JP)**: 38
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Endurance** (physical) — severity 6/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

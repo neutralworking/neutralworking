@@ -2,7 +2,7 @@
 title: Omar El Hilali
 category: players
 tags: [WD, Espanyol, Spain, Destroyer-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Espanyol. Archetype: Destroyer-Sprinter.
@@ -26,34 +26,54 @@ backlinks: [destroyer, espanyol]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Left-back with some ability in the final third—he can deliver a decent cross and shows willingness to support offensive moves—but his defensive awareness is loose and he lacks the pace to recover when caught out of position. His game is built more on optimism than structure, making him vulnerable to the sort of coordinated wide attacks that define modern football. A prospect still assembling the fundamentals, rather than a finished defender.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `79`.
+- Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Acceleration, Jumping, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Balance.
+- Style traits point toward Pace in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████████ 17/10 |
-| Jumping | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Physical | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Pass Range | ████████████ 12/10 |
-| Long Range | ███████████ 11/10 |
-| Movement | ██████████ 10/10 |
-| Tackling | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ Left-back with some ability in the final third—he can deliver a decent cross a
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

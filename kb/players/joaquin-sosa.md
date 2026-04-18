@@ -2,7 +2,7 @@
 title: Joaquín Sosa
 category: players
 tags: [CD, CF Montréal, Uruguay, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at CF Montréal. Archetype: Destroyer.
@@ -26,31 +26,59 @@ backlinks: [destroyer, cf-montreal]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Joaquín Sosa projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Jumping, Reactions, and Take Ons.
+
+## Role Fit
+
+- Best-fit role is `Distributor` with model support score `68`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Reactions, and Take Ons.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Reactions, and Take Ons.
+- Style traits point toward Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Heading | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Long Range | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Heading | ███████████ 11/10 |
-| Long Range | ███████████ 11/10 |
-| Vision | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Balance | ██████████ 10/10 |
-| Penalties | █████████░ 9/10 |
-| Pass Range | ████████░░ 8/10 |
-| Pace | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 6/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +88,17 @@ backlinks: [destroyer, cf-montreal]
 - **Pressure (JP)**: 30
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 6/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

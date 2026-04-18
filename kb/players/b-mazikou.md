@@ -2,7 +2,7 @@
 title: B. Mazikou
 category: players
 tags: [CM, Servette, Powerhouse-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Servette. Archetype: Powerhouse-Destroyer.
@@ -26,34 +26,55 @@ backlinks: [powerhouse, servette]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+B. Mazikou projects primarily as a CM with a `Powerhouse-Destroyer` lean. The strongest database support comes from Acceleration, Pace, and Balance.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Acceleration, Pace, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Balance.
+- Style traits point toward Flamboyant, Tackling Ability, and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Crossing | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Physical | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Penalties | ████████░░ 8/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **hot_headed** (behavioral) — severity 5/10
-- **flamboyant** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +84,20 @@ backlinks: [powerhouse, servette]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Hot Headed** (behavioral) — severity 5/10
+- **Flamboyant** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

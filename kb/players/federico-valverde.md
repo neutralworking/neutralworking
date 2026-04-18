@@ -2,7 +2,7 @@
 title: Federico Valverde
 category: players
 tags: [CM, Real Madrid, Uruguay, Dribbler-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Real Madrid. Archetype: Dribbler-Powerhouse.
@@ -26,46 +26,58 @@ backlinks: [dribbler, real-madrid]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Uruguayan box-to-box machine. Covers every blade of grass, scores thunderbolts, defends with intensity. The modern complete midfielder.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `77`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Reactions, Awareness, and Composure.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Awareness, and Composure.
+- Style traits point toward Long Range Shooting, Two Footed, and Work Rate in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Awareness | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Composure | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Intensity | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Through Balls | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Vision | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ██████████████████ 18/10 |
-| Awareness | ████████████████ 16/10 |
-| Composure | ████████████████ 16/10 |
-| Intensity | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Through Balls | ████████████████ 16/10 |
-| Vision | ████████████████ 16/10 |
-| Anticipation | ███████████████ 15/10 |
-| Carries | ███████████████ 15/10 |
-| Creativity | ███████████████ 15/10 |
-| Decisions | ███████████████ 15/10 |
-| Skills | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Threat | ███████████████ 15/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Long Range Shooting** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **press_resistant** (tactical) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **flamboyant** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **patient** (style) — severity 4/10
-- **elegant** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -75,3 +87,27 @@ Uruguayan box-to-box machine. Covers every blade of grass, scores thunderbolts, 
 - **Pressure (JP)**: 50
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Long Range Shooting** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Press Resistant** (tactical) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **Flamboyant** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Patient** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

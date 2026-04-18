@@ -2,7 +2,7 @@
 title: Christoph Kramer
 category: players
 tags: [DM, Borussia Mönchengladbach, Germany, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Borussia Mönchengladbach. Archetype: Cover.
@@ -26,34 +26,58 @@ backlinks: [cover, borussia-monchengladbach]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A reliable deep-lying midfielder whose reading of the game remains sharp, but whose legs have visibly slowed in the final third of his career. He positions himself well and distributes from deep with admirable accuracy, yet he's no longer the press-resistant operator who once thrived at Borussia Mönchengladbach in their pomp. At 35, he's a useful squad option for cup competitions and league matches where the tempo is manageable, but wouldn't survive sustained intensity at the highest level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Anchor`.
+- Primary archetype leans toward `Cover` behaviour from a `DM` base.
+- Most bankable strengths show up in Acceleration, Pace, and Interceptions.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Interceptions.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Interceptions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Tackling | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Aerial Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Interceptions | ████████████ 12/10 |
-| Marking | ████████████ 12/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Aerial Duels | █████████░ 9/10 |
-| First Touch | █████████░ 9/10 |
-| Heading | █████████░ 9/10 |
-| Skills | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Long Range | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Volleys | ████████░░ 8/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +87,17 @@ A reliable deep-lying midfielder whose reading of the game remains sharp, but wh
 - **Pressure (JP)**: 60
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

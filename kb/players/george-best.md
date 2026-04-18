@@ -2,7 +2,7 @@
 title: George Best
 category: players
 tags: [WF, Northern Ireland, Dribbler-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at None. Archetype: Dribbler-Creator.
@@ -26,24 +26,62 @@ backlinks: [dribbler]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 WM		Creator	Wizard	Man Utd	NIR	B	79.1	George Best was a left-winger who was tremendously skilled an innovative footballer. Unsurpassed on dribble and penetration, would often pass off the score after rather than take the goal himself. He was one of few players with virtually ambidextrous ball control with both feet.		George Best is one of the most talented footballers of all-time. If consider only his prime, He would be the greatest player in history of British football without any hesitation but he was known for his unprofessional behavior as an alcoholism effected his career not consistency. Best scored 185 goals in 465 matched for Manchester United. In his native Northern Ireland the admiration for him is summed up by the local saying: "Maradona good; Pelé better; George Best. He was one of the world legends never participated in World Cup. He was voted 8th,12th and 16th World player of the century by World Soccer, France Football and IFFHS’s poll, respectively.
 Ronaldinho	WF	Inventive	Creator	Craque	Barcelona	BRA	A	81.8	Ronaldinho is regarded as one of the greatest and most skilful players of his generation. Due to his ability to score and create goals, he is capable of playing in several offensive positions, on either wing or in a central position. Throughout his career, he has been deployed as a forward, a winger, although he usually plays as a classic number 10 in an attacking midfield role. Despite primarily being a creative player, he is an accurate finisher with either foot, both from inside and outside the penalty area, and is also a free-kick and penalty kick specialist. Throughout his career, Ronaldinho has been praised in particular for his technical skills and creativity; due to his pace, Acceleration, agility, balance, ball control, and dribbling ability, he is capable of beating players when undertaking individual runs, often using feints in one on one situations. Among his repertoire of moves, "Ronaldinho is one of the best exponents of the ""Elastico""", a move he learned by watching videos of one of his idols, "the 1970s Brazilian star Rivelino. ESPN has described Ronaldinho as being ""skillful by nature", "his tricks are unparalleled and he is wonderful with the ball at his feet. One of the coolest players in pressure situations"" and a ""fast", brash, skilful, tricky, "an uninhibited playmaker"" who provides ""a mix of goals", assists, "skills and a large repertoire of crafty moves."" The former Portugal midfield playmaker", Rui Costa, "has said of his vision and passing ability: ""There are not many players who can offer goalscoring passes like he can. He is just marvellous. He is a rare case of an assist man who can provide the ball from anywhere."
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger` with model support score `94`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
+- Most bankable strengths show up in Skills, Take Ons, and Technical.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Skills, Take Ons, and Technical.
+- Style traits point toward Dribble Artist in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Skills | ████████░░ 8/10 |
-| Take Ons | ████████░░ 8/10 |
-| Technical | ██████░░░░ 6/10 |
-| Mental | ████░░░░░░ 4/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **dribble_artist** (style) — severity 7/10
-- **big_game_player** (behavioral) — severity 7/10
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Trait Ledger
+
+- **Dribble Artist** (style) — severity 7/10
+- **Big Game Player** (behavioral) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

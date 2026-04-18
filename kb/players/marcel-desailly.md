@@ -2,7 +2,7 @@
 title: Marcel Desailly
 category: players
 tags: [CD, France, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at None. Archetype: Destroyer-Powerhouse.
@@ -26,7 +26,7 @@ backlinks: [destroyer]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 #winner
 
@@ -38,18 +38,58 @@ He had firstly done it with Olympique Marseile before going on his career in AC 
 
 He was a world-class deep-lying defensive midfielder in front of back-line.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Zagueiro` with model support score `93`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Hard Man and Brick Wall.
+- Most bankable strengths show up in Aggression, Duels, and Physical.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Duels, and Physical.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Hard Man and Brick Wall.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Physical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ████████░░ 8/10 |
-| Duels | ████████░░ 8/10 |
-| Physical | ██████░░░░ 6/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hard_man** (tactical) — severity 7/10
-- **brick_wall** (tactical) — severity 7/10
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+
+## Trait Ledger
+
+- **Hard Man** (tactical) — severity 7/10
+- **Brick Wall** (tactical) — severity 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 3 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

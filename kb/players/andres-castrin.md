@@ -2,7 +2,7 @@
 title: Andrés Castrín
 category: players
 tags: [CM, Sevilla, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sevilla. Archetype: Destroyer.
@@ -26,35 +26,53 @@ backlinks: [destroyer, sevilla]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A composed connector who thrives in high-press systems where his blocking and awareness create structure from the midfield's base. His pass accuracy and build-up contributions make him a reliable ball-winner for teams needing defensive solidity, though his creativity and close-range execution limit his ceiling in possession-dominant setups. The hot-headedness is a real friction point—competitive instinct will tip into discipline issues if not managed carefully. Best suited to a tuttocampista role in a structured, defensive-minded club where his tactical awareness can compensate for moderate physical tools.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `73`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Blocking, Pass Accuracy, and Awareness.
+
+## In Possession
+
+- Ball-value indicators lean on Blocking, Pass Accuracy, and Awareness.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Blocking | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pressing | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Blocking | ██████████ 10/10 |
-| Pass Accuracy | ██████████ 10/10 |
-| Awareness | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Interceptions | █████████░ 9/10 |
-| Pressing | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Aggression | ████████░░ 8/10 |
-| Composure | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Discipline | ███████░░░ 7/10 |
-| Physical | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Close Range | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -64,3 +82,18 @@ A composed connector who thrives in high-press systems where his blocking and aw
 - **Pressure (JP)**: 68
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

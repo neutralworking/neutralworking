@@ -2,7 +2,7 @@
 title: Carlos Augusto
 category: players
 tags: [WD, Inter Milan, Brazil, Engine-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Inter Milan. Archetype: Engine-Dribbler.
@@ -26,35 +26,58 @@ backlinks: [engine, inter-milan]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A left-winger of genuine technical quality who inverts into the half-space with real intelligence and can play as a fullback or midfield shuttler depending on shape. He's direct, press-resistant, and capable of both stretching play wide and driving through the middle. His limitation is that his end product can be wasteful, and he's not the kind of player who'll terrorise you one-on-one at top speed—he's subtler than that.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wing-back` with model support score `81`.
+- Primary archetype leans toward `Engine` behaviour from a `WD` base.
+- Most bankable strengths show up in Jumping, Stamina, and Acceleration.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Acceleration.
+- Style traits point toward Work Rate in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Stamina | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Balance | ████████████████ 16/10 |
-| Crossing | ████████████████ 16/10 |
-| First Touch | ████████████████ 16/10 |
-| Long Range | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pace | ████████████████ 16/10 |
-| Physical | ████████████████ 16/10 |
-| Take Ons | ████████████████ 16/10 |
-| Mid Range | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Work Rate** (style) — severity 5/10
-- **durability** (physical) — severity 3/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +87,18 @@ A left-winger of genuine technical quality who inverts into the half-space with 
 - **Pressure (JP)**: 33
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Work Rate** (style) — severity 5/10
+- **Durability** (physical) — severity 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

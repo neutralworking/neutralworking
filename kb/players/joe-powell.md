@@ -2,7 +2,7 @@
 title: Joe Powell
 category: players
 tags: [CM, Burton Albion, England, Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Burton Albion. Archetype: Powerhouse.
@@ -26,34 +26,54 @@ backlinks: [powerhouse, burton-albion]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Powell is a tidy midfielder who is comfortable on the ball and has a good range of passing, but he can be guilty of being too safe at times, often opting for the easy pass rather than trying to pick out a more creative option. He has a good work rate and is willing to press opponents, but he can struggle to make an impact in the final third, often failing to deliver a quality final ball. He is a solid squad player, but he lacks the quality to be a regular starter at a top-level club.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Pace, and Stamina.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Pace, and Stamina.
+- Style traits point toward Set Piece Threat and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Close Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Aggression | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Close Range | █████████████ 13/10 |
-| Composure | █████████████ 13/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Set Piece Threat** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -63,3 +83,17 @@ Powell is a tidy midfielder who is comfortable on the ball and has a good range 
 - **Pressure (JP)**: 42
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Set Piece Threat** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

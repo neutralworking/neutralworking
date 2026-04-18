@@ -2,7 +2,7 @@
 title: Adrián Lapeña
 category: players
 tags: [CM, CSKA, Destroyer-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at CSKA. Archetype: Destroyer-Sprinter.
@@ -26,30 +26,54 @@ backlinks: [destroyer, cska]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Adrián Lapeña projects primarily as a CM with a `Destroyer-Sprinter` lean. The strongest database support comes from Jumping, Acceleration, and First Touch.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `69`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Acceleration, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Acceleration, and First Touch.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Shielding | █████████████ 13/10 |
-| Crossing | █████████░ 9/10 |
-| Pass Range | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
-| Flair | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **hot_headed** (behavioral) — severity 6/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -59,3 +83,16 @@ backlinks: [destroyer, cska]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Hot Headed** (behavioral) — severity 6/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

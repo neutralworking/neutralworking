@@ -2,7 +2,7 @@
 title: Eric Garcia
 category: players
 tags: [CD, Barcelona, Spain, Engine-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Barcelona. Archetype: Engine-Dribbler.
@@ -26,40 +26,58 @@ backlinks: [engine, barcelona]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Technically excellent centre-back. Reads the game well, plays out beautifully. Pace and physicality are genuine weaknesses.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Sweeper` with model support score `81`.
+- Primary archetype leans toward `Engine` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Pass Range, Reactions, and Heading.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Range, Reactions, and Heading.
+- Style traits point toward Anticipation and Patient in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor, High Press, and Press Resistant.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Range | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Heading | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Balance | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Take Ons | █████████████ 13/10 |
-| Acceleration | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| Shielding | ███████████ 11/10 |
-| Intensity | ██████████ 10/10 |
-| Long Range | ██████████ 10/10 |
-| Anticipation | █████████░ 9/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **quiet_leader** (behavioral) — severity 7/10
-- **high_press** (tactical) — severity 6/10
-- **Anticipation** (style) — severity 5/10
-- **patient** (style) — severity 5/10
-- **press_resistant** (tactical) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -69,3 +87,23 @@ Technically excellent centre-back. Reads the game well, plays out beautifully. P
 - **Pressure (JP)**: 33
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Quiet Leader** (behavioral) — severity 7/10
+- **High Press** (tactical) — severity 6/10
+- **Anticipation** (style) — severity 5/10
+- **Patient** (style) — severity 5/10
+- **Press Resistant** (tactical) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

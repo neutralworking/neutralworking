@@ -2,7 +2,7 @@
 title: Hugo Guillamón
 category: players
 tags: [CM, HNK Hajduk Split, Spain, Destroyer-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at HNK Hajduk Split. Archetype: Destroyer-Passer.
@@ -26,35 +26,54 @@ backlinks: [destroyer, hnk-hajduk-split]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A compact, positionally intelligent centre-midfielder who reads the game well and rarely gets caught in transition; his press is organized rather than aggressive, and he'll win the ball back through anticipation more than physicality. He's a capable ball-carrier in short, safe sequences and understands when to shift play laterally, but he lacks the range or creativity to truly dominate possession in the half-spaces or drive through lines with authority. At 26, having spent his peak years at Valencia in La Liga, a move to the Croatian league suggests a player managing expectations rather than ascending—solid, reliable, but not the type to unlock a midfield or impose himself on better opposition.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `80`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Jumping, Marking, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Marking, and First Touch.
+- Style traits point toward Two Footed and Long Range Passing in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Heading | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Shielding | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Balance | ████████████ 12/10 |
-| Crossing | ████████████ 12/10 |
-| Pace | ███████████ 11/10 |
-| Volleys | █████████░ 9/10 |
-| Pass Range | ████████░░ 8/10 |
-| Aggression | ███████░░░ 7/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -64,3 +83,18 @@ A compact, positionally intelligent centre-midfielder who reads the game well an
 - **Pressure (JP)**: 58
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

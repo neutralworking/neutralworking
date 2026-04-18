@@ -2,7 +2,7 @@
 title: Hammam Al-Hammami
 category: players
 tags: [CM, Al Shabab, Saudi Arabia, Striker-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Al Shabab. Archetype: Striker-Destroyer.
@@ -26,33 +26,54 @@ backlinks: [striker, al-shabab]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 A young midfielder with some technical facility but a tendency to be careless in possession when the game quickens around him. His positioning awareness is still developing, and he's prone to dwelling on the ball in areas where immediacy is required. He's a prospect for the Saudi domestic sphere, but nothing here—his age notwithstanding—suggests elite European potential.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Mezzala` with model support score `63`.
+- Primary archetype leans toward `Striker` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Take Ons, Aggression, and Creativity.
+
+## In Possession
+
+- Ball-value indicators lean on Take Ons, Aggression, and Creativity.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Take Ons | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Threat | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Flair | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Long Range | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Take Ons | ██████░░░░ 6/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Creativity | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Concentration | ████░░░░░░ 4/10 |
-| Drive | ████░░░░░░ 4/10 |
-| Flair | ████░░░░░░ 4/10 |
-| Long Range | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Tackling | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Close Range | ███░░░░░░░ 3/10 |
-| Communication | ███░░░░░░░ 3/10 |
-| Intensity | ███░░░░░░░ 3/10 |
-| Leadership | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -62,3 +83,16 @@ A young midfielder with some technical facility but a tendency to be careless in
 - **Pressure (JP)**: 44
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
