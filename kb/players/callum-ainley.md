@@ -22,13 +22,20 @@ backlinks: [sprinter, crewe-alexandra]
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Functional midfielder with decent work rate and positional discipline, but lacks the technical range to dictate play in open areas. Suits a structured, defensive setup where his job is simply to shield and recycle; he's the sort you pick for the away fixture in a hostile environment, not the sort who'll turn a game on its head. His passing is lateral and safe to the point of anonymity.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +69,13 @@ Functional midfielder with decent work rate and positional discipline, but lacks
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

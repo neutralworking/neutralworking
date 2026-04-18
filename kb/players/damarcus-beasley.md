@@ -5,7 +5,7 @@ tags: [WF, United States, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Sprinter.
+summary: WF at —. Archetype: Sprinter.
 person_id: 1461
 backlinks: [sprinter]
 ---
@@ -17,18 +17,25 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | United States |
 | **Age** | 43 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 50 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 DaMarcus Beasley projects primarily as a WF with a `Sprinter` lean. The strongest database support comes from Acceleration, First Touch, and Skills.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -61,10 +68,11 @@ DaMarcus Beasley projects primarily as a WF with a `Sprinter` lean. The stronges
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

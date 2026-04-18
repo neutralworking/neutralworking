@@ -5,7 +5,7 @@ tags: [CM, Al Hilal, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Al Hilal. Archetype: None.
+summary: CM at Al Hilal. Archetype: —.
 person_id: 7739
 backlinks: [al-hilal]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-hilal]
 | **Club** | Al Hilal |
 | **Nation** | Saudi Arabia |
 | **Age** | 33 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 At 33, Al-Qahtani represents the trajectory of a player coasting on previous reputation rather than current output. He possesses game intelligence and knows how to position himself in midfield, but his legs have visibly slowed, making him vulnerable to pressing and transition moments. Useful as a veteran presence in a rotation squad, but not a cornerstone of genuine title-contention football.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,10 @@ At 33, Al-Qahtani represents the trajectory of a player coasting on previous rep
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

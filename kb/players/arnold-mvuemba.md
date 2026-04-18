@@ -5,7 +5,7 @@ tags: [CM, Cover-Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Cover-Sprinter.
+summary: CM at —. Archetype: Cover-Sprinter.
 person_id: 634
 backlinks: [cover]
 ---
@@ -17,18 +17,25 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 41 |
 | **Archetype** | [[cover]] Cover-Sprinter |
 | **Level** | 62 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Arnold Mvuemba projects primarily as a CM with a `Cover-Sprinter` lean. The strongest database support comes from Acceleration, Pace, and Pass Accuracy.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +70,13 @@ Arnold Mvuemba projects primarily as a CM with a `Cover-Sprinter` lean. The stro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

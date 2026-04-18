@@ -22,13 +22,20 @@ backlinks: [sprinter, clermont]
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A direct, aggressive left winger who thrives on transition and loves the space in behind a backline; he's got decent acceleration and isn't afraid to run at tired defenders in the final twenty minutes. The technical ceiling is modest—his first touch can be heavy and he'll rarely find a killer pass from a congested half-space—but he's functional in a counter-attacking setup where his job is simply to get to the byline and whip something across. At 31, his best years are clearly behind him, and he's better suited to Ligue 1's mid-table rhythm than any step up.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -58,13 +65,14 @@ A direct, aggressive left winger who thrives on transition and loves the space i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

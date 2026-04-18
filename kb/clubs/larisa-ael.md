@@ -1,8 +1,8 @@
 ---
 title: Larisa Ael
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Larisa Ael. 24 players in database.
@@ -10,9 +10,23 @@ summary: Larisa Ael. 24 players in database.
 
 # Larisa Ael
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 24
+
+## Identity
+
+- Database coverage is deepest in CM (7), WM (4), and CF (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (9), Striker (6), and Creator (3) across the current squad.
+- Average available overall grade sits at 58.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -30,15 +44,15 @@ summary: Larisa Ael. 24 players in database.
 | [[p-bagalianis]] P. Bagalianis | CM | Striker-Destroyer | 33.0 |
 | [[p-staikos]] P. Staikos | CM | Destroyer-Creator | 62.0 |
 | [[s-chakla]] S. Chakla | CM | Destroyer | 63.0 |
-| [[a-anagnostopoulos]] A. Anagnostopoulos | GK | GK | None |
-| [[n-melissas]] N. Melissas | GK | GK | None |
+| [[a-anagnostopoulos]] A. Anagnostopoulos | GK | GK | — |
+| [[n-melissas]] N. Melissas | GK | GK | — |
 | [[p-deligiannidis]] P. Deligiannidis | WD | Cover | 68.0 |
 | [[c-giousis]] C. Giousis | WM | Creator-Destroyer | 36.0 |
 | [[s-mourgos]] S. Mourgos | WM | Creator | 64.0 |
 | [[y-macon]] Y. Maçon | WM | Sprinter-Dribbler | 62.0 |
 | [[z-chatzistravos]] Z. Chatzistravos | WM | Striker-Creator | 65.0 |
-| [[e-pantelakis]] E. Pantelakis | None | Creator-Destroyer | None |
-| [[f-perez]] F. Pérez | None | Striker-Creator | None |
-| [[k-apostolakis]] K. Apostolakis | None | Destroyer | None |
-| [[t-iliadis]] T. Iliadis | None | Destroyer-Creator | None |
-| [[t-papageorgiou]] T. Papageorgiou | None | Destroyer-Creator | None |
+| E. Pantelakis | — | Creator-Destroyer | — |
+| F. Pérez | — | Striker-Creator | — |
+| K. Apostolakis | — | Destroyer | — |
+| T. Iliadis | — | Destroyer-Creator | — |
+| T. Papageorgiou | — | Destroyer-Creator | — |

@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Blackburn Rovers. Archetype: Creator-Sprinter.
 person_id: 12807
-backlinks: [creator, blackburn-rovers]
+backlinks: [creator, playmaker, blackburn-rovers]
 ---
 
 # John Fleck
@@ -21,18 +21,26 @@ backlinks: [creator, blackburn-rovers]
 | **Nation** | Scotland |
 | **Age** | 34 |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 74 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Experienced midfield engine with excellent positional sense, a workmanlike commitment to pressing, and the technical security to recycle possession safely. Age is catching up with his recovery pace and he's increasingly vulnerable to athletic midfielders in transition. Still useful in a system that doesn't ask him to cover excessive ground.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Pace, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -69,10 +77,11 @@ Experienced midfield engine with excellent positional sense, a workmanlike commi
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

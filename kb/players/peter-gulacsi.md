@@ -2,7 +2,7 @@
 title: Péter Gulácsi
 category: players
 tags: [GK, RB Leipzig, Hungary, GK]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at RB Leipzig. Archetype: GK.
@@ -26,59 +26,34 @@ backlinks: [gk, rb-leipzig]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 Still-commanding goalkeeper at 35 with excellent shot-stopping reflexes and command of his box; age is beginning to show in distribution consistency, but remains a top-tier performer for Leipzig's system.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Comandante` with model support score `80`.
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Reactions, Jumping, and Close Range.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Jumping, and Close Range.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Close Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Positioning | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Reactions | ████████████████ 16/10 |
+| Jumping | ██████████████ 14/10 |
+| Close Range | █████████████ 13/10 |
+| Positioning | █████████████ 13/10 |
+| Pass Range | ████████████ 12/10 |
+| Pace | █████████░ 9/10 |
+| Acceleration | ████████░░ 8/10 |
+| Composure | ████████░░ 8/10 |
+| Decisions | ████████░░ 8/10 |
+| Anticipation | ███████░░░ 7/10 |
+| Stamina | ███████░░░ 7/10 |
+| Aerial Duels | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Technical | ██████░░░░ 6/10 |
+| Communication | █████░░░░░ 5/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -88,17 +63,3 @@ Still-commanding goalkeeper at 35 with excellent shot-stopping reflexes and comm
 - **Pressure (JP)**: 46
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

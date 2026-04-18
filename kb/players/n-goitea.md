@@ -2,7 +2,7 @@
 title: N. Goitea
 category: players
 tags: [CM, Huracán, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Huracán. Archetype: Cover-Dribbler.
@@ -26,55 +26,30 @@ backlinks: [cover, huracan]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-N. Goitea projects primarily as a CM with a `Cover-Dribbler` lean. The strongest database support comes from Awareness, Heading, and Interceptions.
-
-## Role Fit
-
-- Best-fit role is `Tuttocampista`.
-- Primary archetype leans toward `Cover` behaviour from a `CM` base.
-- Most bankable strengths show up in Awareness, Heading, and Interceptions.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Awareness, Heading, and Interceptions.
-- Style traits point toward Tackling Ability and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Awareness | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Interceptions | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Physical | █████████████ 13/10 |
+| Tackling | █████████████ 13/10 |
+| Acceleration | ████████████ 12/10 |
+| Aggression | ████████████ 12/10 |
+| Composure | ████████████ 12/10 |
+| First Touch | ████████████ 12/10 |
+| Pass Accuracy | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Pace | ███████████ 11/10 |
+| Reactions | ███████████ 11/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
 
 ## Personality
 
@@ -84,16 +59,3 @@ N. Goitea projects primarily as a CM with a `Cover-Dribbler` lean. The strongest
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

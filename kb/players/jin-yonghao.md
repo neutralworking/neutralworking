@@ -2,12 +2,12 @@
 title: Jin Yonghao
 category: players
 tags: [WM, Qingdao Jonoon, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at Qingdao Jonoon. Archetype: Striker-Creator.
 person_id: 22381
-backlinks: [striker, qingdao-jonoon]
+backlinks: [striker, wide-playmaker, qingdao-jonoon]
 ---
 
 # Jin Yonghao
@@ -18,21 +18,30 @@ backlinks: [striker, qingdao-jonoon]
 |---|---|
 | **Position** | WM |
 | **Club** | Qingdao Jonoon |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jin Yonghao projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Aggression, Creativity, and Take Ons.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `72`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `72`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Aggression, Creativity, and Take Ons.
 
@@ -58,13 +67,14 @@ Jin Yonghao projects primarily as a WM with a `Striker-Creator` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,6 +100,6 @@ Jin Yonghao projects primarily as a WM with a `Striker-Creator` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

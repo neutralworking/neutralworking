@@ -2,7 +2,7 @@
 title: Zhong Yihao
 category: players
 tags: [WD, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WD at None. Archetype: Sprinter-Creator.
@@ -26,56 +26,29 @@ backlinks: [sprinter]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Zhong Yihao projects primarily as a WD with a `Sprinter-Creator` lean. The strongest database support comes from Balance, Jumping, and Pace.
-
-## Role Fit
-
-- Best-fit role is `Wing-back` with model support score `72`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
-- Most bankable strengths show up in Balance, Jumping, and Pace.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Jumping, and Pace.
-- Style traits point toward Tackling Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Close Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Balance | █████████████████ 17/10 |
+| Jumping | ████████████████ 16/10 |
+| Pace | ████████████████ 16/10 |
+| Physical | ████████████████ 16/10 |
+| Shielding | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Close Range | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| First Touch | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Mid Range | ████████████ 12/10 |
+| Movement | ████████████ 12/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Tackling Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -85,15 +58,3 @@ Zhong Yihao projects primarily as a WD with a `Sprinter-Creator` lean. The stron
 - **Pressure (JP)**: 47
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Tackling Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

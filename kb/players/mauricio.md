@@ -2,7 +2,7 @@
 title: Maurício
 category: players
 tags: [AM, Palmeiras, Creator-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: AM at Palmeiras. Archetype: Creator-Sprinter.
@@ -26,55 +26,36 @@ backlinks: [creator, palmeiras]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-Maurício projects primarily as a AM with a `Creator-Sprinter` lean. The strongest database support comes from Pace, Balance, and Crossing.
-
-## Role Fit
-
-- Best-fit role is `Incursore` with model support score `77`.
-- Primary archetype leans toward `Creator` behaviour from a `AM` base.
-- Most bankable strengths show up in Pace, Balance, and Crossing.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Pace, Balance, and Crossing.
-- Style traits point toward Pace, Strength, and Finishing in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Pace | █████████████████ 17/10 |
+| Balance | ████████████████ 16/10 |
+| Crossing | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Interceptions | ██████████████ 14/10 |
+| Heading | █████████████ 13/10 |
+| Tackling | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Marking | ████████████ 12/10 |
+| Composure | █████████░ 9/10 |
+| Discipline | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **aerial_threat** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **Close Control** (style) — severity 4/10
+- **Passing Ability** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
 
 ## Personality
 
@@ -84,22 +65,3 @@ Maurício projects primarily as a AM with a `Creator-Sprinter` lean. The stronge
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
-- **Passing Ability** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

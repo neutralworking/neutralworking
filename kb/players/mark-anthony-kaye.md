@@ -2,7 +2,7 @@
 title: Mark-Anthony Kaye
 category: players
 tags: [CF, Toronto FC, Canada, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Toronto FC. Archetype: Destroyer.
@@ -26,51 +26,30 @@ backlinks: [destroyer, toronto-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Mark-Anthony Kaye projects primarily as a CF with a `Destroyer` lean. The strongest database support comes from Stamina, Jumping, and Pass Accuracy.
-
-## Role Fit
-
-- Best-fit role is `Target Forward`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CF` base.
-- Most bankable strengths show up in Stamina, Jumping, and Pass Accuracy.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Jumping, and Pass Accuracy.
-- Style traits point toward Tackling Ability and Technical Ability in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Stamina | ████████████████ 16/10 |
+| Jumping | ███████████████ 15/10 |
+| Pass Accuracy | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Awareness | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Marking | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Tackling | ██████████████ 14/10 |
+| Composure | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Interceptions | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Tackling Ability** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -80,16 +59,3 @@ Mark-Anthony Kaye projects primarily as a CF with a `Destroyer` lean. The strong
 - **Pressure (JP)**: 54
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Tackling Ability** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

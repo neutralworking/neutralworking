@@ -2,7 +2,7 @@
 title: Luis Hernández
 category: players
 tags: [CD, Cadiz, Spain, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Cadiz. Archetype: Destroyer-Powerhouse.
@@ -26,58 +26,39 @@ backlinks: [destroyer, cadiz]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A centre-back at 28 with decent positional sense and an ability to read the game, yet he lacks the athleticism or technical composure to genuinely shine even at this level. He's competent in one-on-one situations against plodding opponents but will be tested against mobile, intelligent forwards. His career trajectory suggests he's found his level as a La Liga squad defender without the tools to progress further.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Colossus`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Most bankable strengths show up in Interceptions, Jumping, and Composure.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Interceptions, Jumping, and Composure.
-- Style traits point toward Two Footed, Defensive Awareness, and Aerial Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Interceptions | ████████████████ 16/10 |
+| Jumping | ████████████████ 16/10 |
+| Composure | ███████████████ 15/10 |
+| Marking | ███████████████ 15/10 |
+| Pass Accuracy | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Long Range | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Tackling | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| Crossing | █████████████ 13/10 |
+| Acceleration | ████████████ 12/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **durability** (physical) — severity 6/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
 
 ## Personality
 
@@ -87,26 +68,6 @@ A centre-back at 28 with decent positional sense and an ability to read the game
 - **Pressure (JP)**: 32
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Durability** (physical) — severity 6/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

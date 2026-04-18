@@ -2,7 +2,7 @@
 title: N. Oriola
 category: players
 tags: [CF, Brighton, Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Brighton. Archetype: Creator.
@@ -26,49 +26,16 @@ backlinks: [creator, brighton]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-N. Oriola projects primarily as a CF with a `Creator` lean. The strongest database support comes from Communication, Leadership, and Mental.
-
-## Role Fit
-
-- Primary archetype leans toward `Creator` behaviour from a `CF` base.
-- Most bankable strengths show up in Communication, Leadership, and Mental.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Communication, Leadership, and Mental.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Communication | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Leadership | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Skills | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Technical | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Metric coverage is shallow relative to a full dossier standard.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Communication | ██████░░░░ 6/10 |
+| Leadership | ██████░░░░ 6/10 |
+| Mental | █████░░░░░ 5/10 |
+| Skills | █████░░░░░ 5/10 |
+| Drive | ████░░░░░░ 4/10 |
+| Technical | ███░░░░░░░ 3/10 |
 
 ## Personality
 
@@ -78,10 +45,3 @@ N. Oriola projects primarily as a CF with a `Creator` lean. The strongest databa
 - **Pressure (JP)**: 80
 - **Competitiveness**: 7/10
 - **Coachability**: 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

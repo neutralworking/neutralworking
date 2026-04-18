@@ -2,10 +2,10 @@
 title: Edwin van der Sar
 category: players
 tags: [GK, Netherlands, GK-Controller]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at None. Archetype: GK-Controller.
+summary: GK at —. Archetype: GK-Controller.
 person_id: 10507
 backlinks: [gk]
 ---
@@ -17,18 +17,25 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 55 |
 | **Archetype** | [[gk]] GK-Controller |
 | **Level** | 47 |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwork	Edwin Van Der Sar is widely regarded by many as the greatest Dutch goalkeeper ever. He started well-known when he showed high performance helping Ajax Amsterdam won UEFA Champion League. On the other hand, His career began tending down after he was transferred from Juventus to Fulham where he stayed for 4 years. He could return his great with Manchester United. Aside from reaching 2 UEFA Champion League Final, He set the World all-time record for 13 games and 1,311 minutes consecutive clean sheets in league games in the 2008 - 2009 season. Van Der Sar is also an all-time Holland’s most capped player with 1930 and total concede only 89 goals. He holds the record with other five players most EURO tournaments play with 4. He is also one of the greatest-oldest goalkeepers of all-time. He was selected in PFA team of the year three times and also finished between 4th and 5th place IFFHS world best goalkeeper four times. In 1995, he was also named by UEFA Magazine as the best goalkeeper in Europe.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,10 +68,11 @@ GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwo
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,10 +87,10 @@ GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 4 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -93,7 +101,6 @@ GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwo
 {}
 ---
 
-GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwork	Edwin Van Der Sar is widely regarded by many as the greatest Dutch goalkeeper ever. He started well-known when he showed high performance helping Ajax Amsterdam won UEFA Champion League. On the other hand, His career began tending down after he was transferred from Juventus to Fulham where he stayed for 4 years. He could return his great with Manchester United. Aside from reaching 2 UEFA Champion League Final, He set the World all-time record for 13 games and 1,311 minutes consecutive clean sheets in league games in the 2008 - 2009 season. Van Der Sar is also an all-time Holland’s most capped player with 1930 and total concede only 89 goals. He holds the record with other five players most EURO tournaments play with 4. He is also one of the greatest-oldest goalkeepers of all-time. He was selected in PFA team of the year three times and also finished between 4th and 5th place IFFHS world best goalkeeper four times. In 1995, he was also named by UEFA Magazine as the best goalkeeper in Europe.	
-
+GK	Total	Sweeper Keeper	Total Keeper	Ajax, Man Utd	NED	S	86.7	Goalkeeping Footwork	Edwin Van Der Sar is widely regarded by many as the greatest Dutch goalkeeper ever. He started well-known when he showed high performance helping Ajax Amsterdam won UEFA Champion League. On the other hand, His career began tending down after he was transferred from Juventus to Fulham where he stayed for 4 years. He could return his great with Manchester United. Aside from reaching 2 UEFA Champion League Final, He set the World all-time record for 13 games and 1,311 minutes consecutive clean sheets in league games in the 2008 - 2009 season. Van Der Sar is also an all-time Holland’s most capped player with 1930 and total concede only 89 goals. He holds the record with other five players most EURO tournaments play with 4. He is also one of the greatest-oldest goalkeepers of all-time. He was selected in PFA team of the year three times and also finished between 4th and 5th place IFFHS world best goalkeeper four times. In 1995, he was also named by UEFA Magazine as the best goalkeeper in Europe.
 
 </details>

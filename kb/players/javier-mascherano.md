@@ -2,12 +2,12 @@
 title: Javier Mascherano
 category: players
 tags: [DM, Argentina, Destroyer-Commander]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: DM at None. Archetype: Destroyer-Commander.
+summary: DM at —. Archetype: Destroyer-Commander.
 person_id: 12457
-backlinks: [destroyer]
+backlinks: [destroyer, anchor]
 ---
 
 # Javier Mascherano
@@ -17,13 +17,15 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Argentina |
 | **Age** | 41 |
 | **Archetype** | [[destroyer]] Destroyer-Commander |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 91 |
 | **Level** | 58 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -33,9 +35,16 @@ CM		Guardian	Destroyer	Barcelona, Liverpool	ARG	A	0.0	He is known for his excell
  Mascherano has made over 100 appearances for the Argentina national football team, making him the second-most capped player in the country's history, after Javier Zanetti. He has represented the nation at the Copa América in 2004, 2007, 2011 and 2015, the FIFA World Cup in 2006, 2010 and 2014, and the Olympic Games in 2004 and 2008, winning both Olympic tournaments, becoming the first male footballer to win two gold medals since 1968, and reaching the 2014 FIFA World Cup Final. Between 2008 and 2011, Mascherano served as the captain of Argentina.
  Mascherano's two most used nicknames (in Argentina) are Masche and El Jefecito (The little chief – from his comparison to River Plate's midfielder Leonardo Astrada nicknamed 'El Jefe'). Mascherano also holds an Italian passport, which makes him eligible as an EU player"
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `91`.
+- Best-fit role is [[anchor]] Anchor with model support score `91`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Most bankable strengths show up in Interceptions, Marking, and Tackling.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ CM		Guardian	Destroyer	Barcelona, Liverpool	ARG	A	0.0	He is known for his excell
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +106,11 @@ CM		Guardian	Destroyer	Barcelona, Liverpool	ARG	A	0.0	He is known for his excell
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 20 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 title: Connor Barron
 category: players
 tags: [CM, Rangers, Scotland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Rangers. Archetype: Powerhouse.
@@ -23,12 +23,19 @@ backlinks: [powerhouse, rangers]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 73 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Connor Barron is a dynamic connector who excels at carrying the ball forward and picking out through balls. His strong technical and tactical foundation, combined with his aggression and stamina, make him a valuable asset in a midfield duo. However, his lack of guile and discipline can lead to reckless decisions, and his blocking abilities are a weakness that opponents may look to exploit. As a tuttocampista, he is best suited to a system that emphasizes progressive carries and high-intensity pressing, where his energy and vision can be maximized. A club with a strong midfield partner could help bring out the best in him, but may need to work on his defensive responsibilities.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Connor Barron is a dynamic connector who excels at carrying the ball forward and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +106,7 @@ Connor Barron is a dynamic connector who excels at carrying the ball forward and
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

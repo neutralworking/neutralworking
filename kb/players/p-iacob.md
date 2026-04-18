@@ -2,7 +2,7 @@
 title: P. Iacob
 category: players
 tags: [CM, Oţelul Galaţi, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Oţelul Galaţi. Archetype: Destroyer-Striker.
@@ -26,55 +26,30 @@ backlinks: [destroyer, otelul-galati]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-P. Iacob projects primarily as a CM with a `Destroyer-Striker` lean. The strongest database support comes from Blocking, Awareness, and Interceptions.
-
-## Role Fit
-
-- Best-fit role is `Tuttocampista` with model support score `70`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Blocking, Awareness, and Interceptions.
-
-## In Possession
-
-- Ball-value indicators lean on Blocking, Awareness, and Interceptions.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Blocking | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Long Range | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Pass Accuracy | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Pressing | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Blocking | ███████░░░ 7/10 |
+| Awareness | ██████░░░░ 6/10 |
+| Interceptions | ██████░░░░ 6/10 |
+| Long Range | ██████░░░░ 6/10 |
+| Pass Accuracy | ██████░░░░ 6/10 |
+| Pressing | █████░░░░░ 5/10 |
+| Technical | █████░░░░░ 5/10 |
+| Aggression | ████░░░░░░ 4/10 |
+| Close Range | ████░░░░░░ 4/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Composure | ████░░░░░░ 4/10 |
+| Concentration | ████░░░░░░ 4/10 |
+| Drive | ████░░░░░░ 4/10 |
+| Duels | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- **build_up_contributor** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 4/10
 
 ## Personality
 
@@ -84,16 +59,3 @@ P. Iacob projects primarily as a CM with a `Destroyer-Striker` lean. The stronge
 - **Pressure (JP)**: 56
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Hot Headed** (behavioral) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

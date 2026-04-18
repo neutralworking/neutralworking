@@ -2,7 +2,7 @@
 title: Allan Arigoni
 category: players
 tags: [WD, Grasshoppers, Switzerland, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Grasshoppers. Archetype: Sprinter.
@@ -23,12 +23,18 @@ backlinks: [sprinter, grasshoppers]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Allan Arigoni projects primarily as a WD with a `Sprinter` lean. The strongest database support comes from Acceleration, Pace, and Balance.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +69,13 @@ Allan Arigoni projects primarily as a WD with a `Sprinter` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -94,6 +100,6 @@ Allan Arigoni projects primarily as a WD with a `Sprinter` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

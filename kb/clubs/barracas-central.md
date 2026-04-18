@@ -1,8 +1,8 @@
 ---
 title: Barracas Central
 category: clubs
-tags: [Argentine Primera División, None]
-updated: 2026-04-14
+tags: [Argentine Primera División]
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Barracas Central. 10 players in database.
@@ -11,8 +11,22 @@ summary: Barracas Central. 10 players in database.
 # Barracas Central
 
 **League**: Argentine Primera División  
-**Nation**: None  
+**Nation**: —  
 **Players in DB**: 10
+
+## Identity
+
+- Database coverage is deepest in CM (3), CD (2), and CF (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (3), Sprinter (3), and Cover (1) across the current squad.
+- Average available overall grade sits at 60.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -27,4 +41,4 @@ summary: Barracas Central. 10 players in database.
 | [[s-rosane]] S. Rosané | CM | Destroyer-Sprinter | 59.0 |
 | [[k-jappert]] K. Jappert | WD | Cover | 64.0 |
 | [[m-duarte]] M. Duarte | WM | Sprinter-Dribbler | 57.0 |
-| [[r-insua]] R. Insúa | None | Sprinter-Dribbler | None |
+| R. Insúa | — | Sprinter-Dribbler | — |

@@ -2,7 +2,7 @@
 title: Kim Dong-Hyun
 category: players
 tags: [CM, Gangwon FC, Creator-Cover]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Gangwon FC. Archetype: Creator-Cover.
@@ -18,17 +18,24 @@ backlinks: [creator, gangwon-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Gangwon FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Cover |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 25.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kim Dong-Hyun projects primarily as a CM with a `Creator-Cover` lean. The strongest database support comes from Skills, Communication, and Concentration.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +69,13 @@ Kim Dong-Hyun projects primarily as a CM with a `Creator-Cover` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -90,5 +97,5 @@ Kim Dong-Hyun projects primarily as a CM with a `Creator-Cover` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

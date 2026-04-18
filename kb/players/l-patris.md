@@ -2,7 +2,7 @@
 title: L. Patris
 category: players
 tags: [DM, Sint-Truiden, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: DM at Sint-Truiden. Archetype: Cover-Powerhouse.
@@ -26,54 +26,36 @@ backlinks: [cover, sint-truiden]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Patris's Cover archetype is characterized by his exceptional physicality and tactical awareness, making him a solid fit for an Anchor role where he can utilize his pace and aggression to break up opposition attacks. His strengths in jumping, tackling, and physicality make him a reliable defensive presence, but his limited mental pillar and weaknesses in blocking and guile may hinder his ability to create scoring opportunities. A team that values defensive solidity and has a strong defensive unit could benefit from Patris's skills, but may need to adapt their system to accommodate his limitations.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Anchor` with model support score `75`.
-- Primary archetype leans toward `Cover` behaviour from a `DM` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Pace, Acceleration, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Pace, Acceleration, and Jumping.
-- Style traits point toward Positioning, Strength, and Crossing Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Pace | ████████████████ 16/10 |
+| Acceleration | ██████████████ 14/10 |
+| Jumping | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Stamina | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| First Touch | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Movement | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 8/10
+- **Positioning** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -83,19 +65,3 @@ Patris's Cover archetype is characterized by his exceptional physicality and tac
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 8/10
-- **Positioning** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

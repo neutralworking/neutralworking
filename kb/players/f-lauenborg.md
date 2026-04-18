@@ -18,17 +18,24 @@ backlinks: [creator, randers-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Randers FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Cover |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 42.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Lauenborg, suited for a Tuttocampista role, presents a concerning profile with limited ratings across all four pillars: technical, tactical, mental, and physical. Despite these universal limitations, he does show some strengths in general physicality, reactions, shielding, and aggression, but is noted for specific mental and technical weaknesses, as well as poor defensive blocking. This type of player, relying purely on raw physical attributes and aggression with limited refinement, harks back to an earlier era of football where brute force could compensate for a lack of sophistication in certain roles. Acquiring Lauenborg would represent a significant risk due to his widespread limitations, even if he offers a strong physical presence and aggression, necessitating a very clear, niche role.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Lauenborg, suited for a Tuttocampista role, presents a concerning profile with l
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

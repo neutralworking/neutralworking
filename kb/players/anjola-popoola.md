@@ -5,7 +5,7 @@ tags: [CF, Accrington Stanley, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Accrington Stanley. Archetype: None.
+summary: CF at Accrington Stanley. Archetype: —.
 person_id: 8565
 backlinks: [accrington-stanley]
 ---
@@ -20,15 +20,22 @@ backlinks: [accrington-stanley]
 | **Club** | Accrington Stanley |
 | **Nation** | England |
 | **Age** | 19 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 55 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Teenage centre-forward with an interesting profile—good movement in the box and capable of linking play, but still raw in his understanding of when to press versus drop. At 19, he's a prospect rather than a current contributor, needing time to develop aerial dominance and consistency.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -41,10 +48,11 @@ Teenage centre-forward with an interesting profile—good movement in the box an
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [CF, Real Madrid Femenino, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Real Madrid Femenino. Archetype: None.
+summary: CF at Real Madrid Femenino. Archetype: —.
 person_id: 8021
 backlinks: [real-madrid-femenino]
 ---
@@ -20,11 +20,22 @@ backlinks: [real-madrid-femenino]
 | **Club** | Real Madrid Femenino |
 | **Nation** | Spain |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 84 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
+
+## Snapshot
+
+Alba Redondo is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -34,13 +45,14 @@ backlinks: [real-madrid-femenino]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 29.8m |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: Jan Ziółkowski
 category: players
 tags: [DM, AS Roma, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: DM at AS Roma. Archetype: Destroyer.
 person_id: 12392
-backlinks: [destroyer, as-roma]
+backlinks: [destroyer, anchor, as-roma]
 ---
 
 # Jan Ziółkowski
@@ -18,21 +18,30 @@ backlinks: [destroyer, as-roma]
 |---|---|
 | **Position** | DM |
 | **Club** | AS Roma |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 72 |
 | **Level** | 62 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young Polish defender currently operating in Roma's development structures without regular senior football; he shows positional intelligence and reasonable ball-playing ability for a centre-back. Entirely developmental at this stage, with promise but no meaningful data point yet at competitive level.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `72`.
+- Best-fit role is [[anchor]] Anchor with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Pace, and Acceleration.
@@ -62,13 +71,14 @@ Young Polish defender currently operating in Roma's development structures witho
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Young Polish defender currently operating in Roma's development structures witho
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

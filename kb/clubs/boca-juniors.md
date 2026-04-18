@@ -1,8 +1,8 @@
 ---
 title: Boca Juniors
 category: clubs
-tags: [Liga de Voleibol Argentina – Serie A1, None]
-updated: 2026-04-14
+tags: [Liga de Voleibol Argentina – Serie A1]
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Boca Juniors. 23 players in database.
@@ -11,8 +11,22 @@ summary: Boca Juniors. 23 players in database.
 # Boca Juniors
 
 **League**: Liga de Voleibol Argentina – Serie A1  
-**Nation**: None  
+**Nation**: —  
 **Players in DB**: 23
+
+## Identity
+
+- Database coverage is deepest in CM (12), WF (3), and DM (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (7), Dribbler (4), and Destroyer (3) across the current squad.
+- Average available overall grade sits at 58.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -24,7 +38,6 @@ summary: Boca Juniors. 23 players in database.
 | [[agustin-martegani]] Agustín Martegani | CM | Dribbler-Sprinter | 74.0 |
 | [[alberto-costa]] Alberto Costa | CM | Dribbler-Destroyer | 69.0 |
 | [[c-rey]] C. Rey | CM | Cover | 33.0 |
-| [[cesar-palacios]] Cesar Palacios | CM | Creator | 55.0 |
 | [[ignacio-miramon]] Ignacio Miramón | CM | Powerhouse | 62.0 |
 | [[j-barinaga]] J. Barinaga | CM | Sprinter-Passer | 59.0 |
 | [[l-advincula]] L. Advíncula | CM | Sprinter-Dribbler | 54.0 |
@@ -36,8 +49,9 @@ summary: Boca Juniors. 23 players in database.
 | [[t-belmonte]] T. Belmonte | CM | Target-Dribbler | 58.0 |
 | [[ander-herrera]] Ander Herrera | DM | Cover | 60.0 |
 | [[leandro-paredes]] Leandro Paredes | DM | Creator-Passer | 61.0 |
-| [[a-marchesin]] A. Marchesín | GK | GK | None |
+| [[a-marchesin]] A. Marchesín | GK | GK | — |
 | [[alan-velasco]] Alan Velasco | WF | Sprinter | 60.0 |
+| [[brian-aguirre]] Brian Aguirre | WF | Dribbler-Sprinter | 69.0 |
 | [[e-zeballos]] E. Zeballos | WF | Sprinter-Dribbler | 61.0 |
 | [[l-blanco]] L. Blanco | WM | Sprinter-Dribbler | 58.0 |
 | [[m-merentiel]] M. Merentiel | WM | Dribbler-Sprinter | 54.0 |

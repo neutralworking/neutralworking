@@ -2,7 +2,7 @@
 title: Andres Guardado
 category: players
 tags: [WM, Real Betis, Mexico, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at Real Betis. Archetype: Sprinter.
@@ -19,16 +19,23 @@ backlinks: [sprinter, real-betis]
 | **Position** | WM |
 | **Club** | Real Betis |
 | **Nation** | Mexico |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Mexican midfielder in the twilight of his career who brings professionalism and defensive discipline but is now more of a squad rotator than a regular starter. Still functional in transition and set-piece situations.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ Mexican midfielder in the twilight of his career who brings professionalism and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +101,7 @@ Mexican midfielder in the twilight of his career who brings professionalism and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

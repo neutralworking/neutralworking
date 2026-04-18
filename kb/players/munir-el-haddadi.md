@@ -2,7 +2,7 @@
 title: Munir El Haddadi
 category: players
 tags: [WF, Esteghlal, Morocco]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WF at Esteghlal. Archetype: None.
@@ -26,49 +26,25 @@ backlinks: [esteghlal]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-Munir El Haddadi projects primarily as a WF with a `None` lean. The strongest database support comes from Carries, Tactical, and Awareness.
-
-## Role Fit
-
-- Best-fit role is `Winger` with model support score `77`.
-- Most bankable strengths show up in Carries, Tactical, and Awareness.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Carries, Tactical, and Awareness.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Carries | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Awareness | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Flair | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Intensity | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Pressing | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Carries | █████░░░░░ 5/10 |
+| Tactical | █████░░░░░ 5/10 |
+| Awareness | ████░░░░░░ 4/10 |
+| Flair | ████░░░░░░ 4/10 |
+| Intensity | ████░░░░░░ 4/10 |
+| Mental | ████░░░░░░ 4/10 |
+| Pressing | ████░░░░░░ 4/10 |
+| Technical | ████░░░░░░ 4/10 |
+| Aggression | ███░░░░░░░ 3/10 |
+| Communication | ███░░░░░░░ 3/10 |
+| Concentration | ███░░░░░░░ 3/10 |
+| Creativity | ███░░░░░░░ 3/10 |
+| Drive | ███░░░░░░░ 3/10 |
+| Leadership | ███░░░░░░░ 3/10 |
+| Physical | ███░░░░░░░ 3/10 |
 
 ## Personality
 
@@ -78,10 +54,3 @@ Munir El Haddadi projects primarily as a WF with a `None` lean. The strongest da
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

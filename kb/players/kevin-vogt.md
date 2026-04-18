@@ -2,7 +2,7 @@
 title: Kevin Vogt
 category: players
 tags: [CD, VfL Bochum, Germany, Cover]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at VfL Bochum. Archetype: Cover.
@@ -23,12 +23,18 @@ backlinks: [cover, vfl-bochum]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Kevin Vogt projects primarily as a CD with a `Cover` lean. The strongest database support comes from Interceptions, Pass Range, and Composure.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,13 +73,13 @@ Kevin Vogt projects primarily as a CD with a `Cover` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
+| Floor | EUR 0.4m |
 | Mid | EUR 3.0m |
 | Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -99,6 +105,6 @@ Kevin Vogt projects primarily as a CD with a `Cover` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

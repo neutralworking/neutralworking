@@ -5,7 +5,7 @@ tags: [CD, Al Ahly, Egypt]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Al Ahly. Archetype: None.
+summary: CD at Al Ahly. Archetype: —.
 person_id: 7942
 backlinks: [al-ahly]
 ---
@@ -20,15 +20,21 @@ backlinks: [al-ahly]
 | **Club** | Al Ahly |
 | **Nation** | Egypt |
 | **Age** | 35 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran centre-half at 35 with the kind of positional awareness that only comes from a decade and a half of professional football; he reads the game two moves ahead and rarely gets beaten to a loose ball. His range of passing is functional but unremarkable, and at this stage of his career, he's relying entirely on smarts rather than recovery pace. Against a front line pressing aggressively or running the channels with real intensity, he'll struggle to keep up, so pairing him with a quicker partner isn't optional—it's structural necessity.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +48,13 @@ A veteran centre-half at 35 with the kind of positional awareness that only come
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

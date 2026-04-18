@@ -5,7 +5,7 @@ tags: [CD, Al Sadd, Qatar]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Al Sadd. Archetype: None.
+summary: CD at Al Sadd. Archetype: —.
 person_id: 28223
 backlinks: [al-sadd]
 ---
@@ -20,11 +20,21 @@ backlinks: [al-sadd]
 | **Club** | Al Sadd |
 | **Nation** | Qatar |
 | **Age** | 35 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
+
+## Snapshot
+
+Boualem Khoukhi is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -43,11 +53,17 @@ backlinks: [al-sadd]
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Compile baseline | Chief Scout KB | 2026-04-18 | Low | Only roster-level identity fields were available in the existing article. |

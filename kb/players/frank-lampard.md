@@ -2,7 +2,7 @@
 title: Frank Lampard
 category: players
 tags: [CM, New York City FC, England, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at New York City FC. Archetype: Striker-Engine.
@@ -23,12 +23,19 @@ backlinks: [striker, new-york-city-fc]
 | **Archetype** | [[striker]] Striker-Engine |
 | **Level** | 53 |
 | **Overall** | 53.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Prolific	Playmaker	Virtuoso	Chelsea	ENG	A	87.3	Widely regarded by pundits, managers, and team mates as one of the greatest midfielders of his generation, Lampard is an all-round and versatile box-to-box player, who is capable of playing anywhere in midfield; he has been deployed as a central midfielder, as an attacking midfielder, as a defensive midfielder, and even as a supporting striker on occasion. A hard-working player with stamina and an ability to read the game, Lampard is also capable of functioning creatively, due to his technique, Vision, and passing range. In addition to his creative and defensive midfield roles, Lampard also possesses a keen eye for goal, due to his ability to make attacking runs, Accuracy, powerful shot from distance. These attributes enabled him to maintain a prolific goalscoring record throughout his career, the most in club history for a midfielder, and is the highest goal-scoring midfielder in Premier League history with 111 league goals in total, he is also 2nd in the all-time Premier League assists table with 71. He has a good opportunity to score reaching 200 goals in the near future. Johan Cruijff ever give his sentence about him that “Lampard is the best midfielder in Europe”. In 2005, He won many individual awards and became the only player in history of Chelsea club to win award in European Footballer Of The Year.		20/6/1978
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -66,10 +73,11 @@ CM	Prolific	Playmaker	Virtuoso	Chelsea	ENG	A	87.3	Widely regarded by pundits, ma
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,11 +103,11 @@ CM	Prolific	Playmaker	Virtuoso	Chelsea	ENG	A	87.3	Widely regarded by pundits, ma
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

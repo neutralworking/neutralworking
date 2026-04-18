@@ -2,12 +2,12 @@
 title: J. Björkengren
 category: players
 tags: [CM, Randers FC, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Randers FC. Archetype: Destroyer-Powerhouse.
 person_id: 23548
-backlinks: [destroyer, randers-fc]
+backlinks: [destroyer, tuttocampista, randers-fc]
 ---
 
 # J. Björkengren
@@ -18,21 +18,30 @@ backlinks: [destroyer, randers-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Randers FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Björkengren is a high-pressing connector whose acceleration and stamina assets are diluted by modest technical ability and poor discipline—he presses with abandon but lacks the guile to recover from poor positioning. His awareness is sharp, but his inconsistent technical execution in build-up phases limits his utility in possession; he's most dangerous as a pressing trigger rather than a playmaker. At 27 with a strong physical base, he fits aggressive, lower-tempo systems where his high-press traits and build-up contributions are structured around simplicity.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Jumping, Balance, and First Touch.
@@ -63,13 +72,14 @@ Björkengren is a high-pressing connector whose acceleration and stamina assets 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Björkengren is a high-pressing connector whose acceleration and stamina assets 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

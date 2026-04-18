@@ -2,7 +2,7 @@
 title: A. Bakasetas
 category: players
 tags: [AM, Panathinaikos, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at Panathinaikos. Archetype: Creator-Striker.
@@ -18,17 +18,24 @@ backlinks: [creator, panathinaikos]
 |---|---|
 | **Position** | AM |
 | **Club** | Panathinaikos |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A. Bakasetas is a technically gifted attacking midfielder with a strong vision for the game, but his limited tactical understanding and weakness in guile may make it difficult for him to create chances for his team, instead relying on his mid-range and long-range shooting ability to make an impact, and his introverted personality may make him a quiet and composed presence on the pitch, but his flamboyant trait suggests he may be prone to taking risks and trying to beat opponents with his skill, and his best fit would be a club that values his technical ability and can provide him with the freedom to express himself on the pitch.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -59,13 +66,14 @@ A. Bakasetas is a technically gifted attacking midfielder with a strong vision f
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +100,7 @@ A. Bakasetas is a technically gifted attacking midfielder with a strong vision f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

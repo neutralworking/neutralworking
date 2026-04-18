@@ -2,7 +2,7 @@
 title: Cata Coll
 category: players
 tags: [GK, Barcelona Femení, Spain, GK]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Barcelona Femení. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, barcelona-femeni]
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Cata Coll is a dynamic sweeper keeper, leveraging her impressive acceleration and pace to cover a lot of ground and make crucial interventions, but her inability to effectively distribute the ball over mid and long range is a significant concern, often forcing her team to rely on short passes and limiting their ability to switch the point of attack quickly. Her athleticism allows her to make spectacular saves, but she can be exposed by shots from distance. Despite her weaknesses, Coll's agility and jumping ability make her a formidable presence in one-on-one situations.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ Cata Coll is a dynamic sweeper keeper, leveraging her impressive acceleration an
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,6 +94,6 @@ Cata Coll is a dynamic sweeper keeper, leveraging her impressive acceleration an
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

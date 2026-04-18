@@ -2,12 +2,12 @@
 title: Karl-Heinz Rummenigge
 category: players
 tags: [CF, Germany, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at None. Archetype: Striker-Sprinter.
+summary: CF at —. Archetype: Striker-Sprinter.
 person_id: 13329
-backlinks: [striker]
+backlinks: [striker, prima-punta]
 ---
 
 # Karl-Heinz Rummenigge
@@ -17,18 +17,20 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 70 |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 92 |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-CF	Cerebral	Creator	Flea	Bayern Munich	GER	A	86.4	as central forward, as outside left and outside right. That’s how versatile he is. Playing for Bayern, he has all liberties in the offensive half of the game and hardly any defensive duties. Jupp Derwall also allowed Rummenigge this freedom in the national team and it was a wise decision. Rummenigge is not a center forward of old, like [[dev/main/men/Uwe Seeler]] and [[dev/main/men/Gerd Müller]] or today [[dev/main/men/Klaus Fischer]], [[Dieter Müller]] or [[dev/main/men/Horst Hrubesch]]. He is a wizard of dribbling, someone who can stick the ball at his feet, who can shield the ball in a cunning way and he is at his best when he can attack coming from a deep position, at his most dangerous when the ball is passed to him so that he can pierce the gaps in a defense. In his club he has the ideal partner in Paul Breitner, two players with a blind understanding, be it in 1-2s or when addressing passes. Breitner knows about Rummenigge’s moves even before Rummenigge starts to move. Understandable that Rummenigge regrets Breitner’s decision not to play for Germany. 
+CF	Cerebral	Creator	Flea	Bayern Munich	GER	A	86.4	as central forward, as outside left and outside right. That’s how versatile he is. Playing for Bayern, he has all liberties in the offensive half of the game and hardly any defensive duties. Jupp Derwall also allowed Rummenigge this freedom in the national team and it was a wise decision. Rummenigge is not a center forward of old, like dev/main/men/Uwe Seeler and dev/main/men/Gerd Müller or today dev/main/men/Klaus Fischer, Dieter Müller or dev/main/men/Horst Hrubesch. He is a wizard of dribbling, someone who can stick the ball at his feet, who can shield the ball in a cunning way and he is at his best when he can attack coming from a deep position, at his most dangerous when the ball is passed to him so that he can pierce the gaps in a defense. In his club he has the ideal partner in Paul Breitner, two players with a blind understanding, be it in 1-2s or when addressing passes. Breitner knows about Rummenigge’s moves even before Rummenigge starts to move. Understandable that Rummenigge regrets Breitner’s decision not to play for Germany. 
 
 What Rummenigge lacked in the previous season was cold-bloodedness in front of the goal. He has eradicated this only weakness that he had because he analysed his mistakes in a self-critical way and worked on that weakness. To the 11 goals he scored in the first half of the season he now added 15 goals in the second half and became top scorer for the first time with 26 goals scored. It is this title that he enjoys almost as much as winning the German championship for the first time this year. December 1980 World Class Introduction … of course in every ranking that we published the interest focused mostly on the ‘world class’ category. In our last ranking we only rated two players in that category: Karl-Heinz Rummenigge and Paul Breitner. We rated both of them ‘world class’ in our newest ranking, as well but also added Toni Schumacher, Hans-Peter Briegel and Bruno Pezzey while Manfred Kaltz and Hansi Müller are very close to it. 
 
@@ -38,9 +40,16 @@ Because of Rummenigge’s drive and zeal his manager Dettmar Cramer soon gave hi
 
 His great technical skillset and supreme close control allowed Rummenigge to process any service in a spectacular yet efficient mode. Be it volleying, picking the ball up in tight space and lifting it over his opponents, dribbling past a number of defenders coming from the wings or the midfield, heading, with bycicle kicks, diving headers, hard-hit shots … you name it. Karl-Heinz Rummenigge probably was the most complete striker that ever played in the Bundesliga. There was no position on the pitch from where he could not somehow have scored a goal or could have created something dangerous.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `92`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `92`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -51,10 +60,11 @@ His great technical skillset and supreme close control allowed Rummenigge to pro
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -65,8 +75,8 @@ His great technical skillset and supreme close control allowed Rummenigge to pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -77,7 +87,7 @@ His great technical skillset and supreme close control allowed Rummenigge to pro
 class: attacker
 subclass: maestro
 ---
-CF	Cerebral	Creator	Flea	Bayern Munich	GER	A	86.4	as central forward, as outside left and outside right. That’s how versatile he is. Playing for Bayern, he has all liberties in the offensive half of the game and hardly any defensive duties. Jupp Derwall also allowed Rummenigge this freedom in the national team and it was a wise decision. Rummenigge is not a center forward of old, like [[dev/main/men/Uwe Seeler]] and [[dev/main/men/Gerd Müller]] or today [[dev/main/men/Klaus Fischer]], [[Dieter Müller]] or [[dev/main/men/Horst Hrubesch]]. He is a wizard of dribbling, someone who can stick the ball at his feet, who can shield the ball in a cunning way and he is at his best when he can attack coming from a deep position, at his most dangerous when the ball is passed to him so that he can pierce the gaps in a defense. In his club he has the ideal partner in Paul Breitner, two players with a blind understanding, be it in 1-2s or when addressing passes. Breitner knows about Rummenigge’s moves even before Rummenigge starts to move. Understandable that Rummenigge regrets Breitner’s decision not to play for Germany. 
+CF	Cerebral	Creator	Flea	Bayern Munich	GER	A	86.4	as central forward, as outside left and outside right. That’s how versatile he is. Playing for Bayern, he has all liberties in the offensive half of the game and hardly any defensive duties. Jupp Derwall also allowed Rummenigge this freedom in the national team and it was a wise decision. Rummenigge is not a center forward of old, like dev/main/men/Uwe Seeler and dev/main/men/Gerd Müller or today dev/main/men/Klaus Fischer, Dieter Müller or dev/main/men/Horst Hrubesch. He is a wizard of dribbling, someone who can stick the ball at his feet, who can shield the ball in a cunning way and he is at his best when he can attack coming from a deep position, at his most dangerous when the ball is passed to him so that he can pierce the gaps in a defense. In his club he has the ideal partner in Paul Breitner, two players with a blind understanding, be it in 1-2s or when addressing passes. Breitner knows about Rummenigge’s moves even before Rummenigge starts to move. Understandable that Rummenigge regrets Breitner’s decision not to play for Germany. 
 
 What Rummenigge lacked in the previous season was cold-bloodedness in front of the goal. He has eradicated this only weakness that he had because he analysed his mistakes in a self-critical way and worked on that weakness. To the 11 goals he scored in the first half of the season he now added 15 goals in the second half and became top scorer for the first time with 26 goals scored. It is this title that he enjoys almost as much as winning the German championship for the first time this year. December 1980 World Class Introduction … of course in every ranking that we published the interest focused mostly on the ‘world class’ category. In our last ranking we only rated two players in that category: Karl-Heinz Rummenigge and Paul Breitner. We rated both of them ‘world class’ in our newest ranking, as well but also added To...
 

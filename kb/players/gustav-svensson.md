@@ -2,7 +2,7 @@
 title: Gustav Svensson
 category: players
 tags: [CM, IFK Göteborg, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at IFK Göteborg. Archetype: Destroyer-Powerhouse.
@@ -18,17 +18,24 @@ backlinks: [destroyer, ifk-goteborg]
 |---|---|
 | **Position** | CM |
 | **Club** | IFK Göteborg |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
 | **Level** | 79 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gustav Svensson is a physically imposing midfielder who excels at winning the ball back and distributing it simply, but his lack of tactical awareness and creativity limits his ability to control the tempo of the game. As a Warrior archetype, he is well-suited to a Tuttocampista role where he can utilize his aggression and stamina to break up opposition attacks. Historically, his style of play is similar to that of traditional destroyers who prioritize winning the ball back over creating scoring opportunities, and he would be a good fit for a team that employs a direct, counter-attacking approach. From a squad-building perspective, Svensson's market position is relatively high due to his physical attributes, making him a target for top-tier clubs looking to add steel to their midfield, but his limited technical ability may be a risk factor for teams that dominate possession.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Gustav Svensson is a physically imposing midfielder who excels at winning the ba
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +101,7 @@ Gustav Svensson is a physically imposing midfielder who excels at winning the ba
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

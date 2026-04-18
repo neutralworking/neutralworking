@@ -5,7 +5,7 @@ tags: [CM, Atalanta, Italy]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Atalanta. Archetype: None.
+summary: CM at Atalanta. Archetype: —.
 person_id: 8034
 backlinks: [atalanta]
 ---
@@ -20,15 +20,22 @@ backlinks: [atalanta]
 | **Club** | Atalanta |
 | **Nation** | Italy |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 61 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young central midfielder still finding his level at Atalanta's academy. Manzoni has decent press resistance and can carry the ball through traffic, but he's struggling with the positional discipline and intensity required at Serie A tempo. At 20, he's not ready for consistent senior minutes, and without a loan to a lower division, his trajectory remains uncertain.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,10 @@ A young central midfielder still finding his level at Atalanta's academy. Manzon
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

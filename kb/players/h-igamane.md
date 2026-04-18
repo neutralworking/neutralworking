@@ -18,17 +18,24 @@ backlinks: [striker, lille]
 |---|---|
 | **Position** | CF |
 | **Club** | Lille |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 37.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Igamane is a clinical finisher who excels at scoring goals from close range, but his limited tactical awareness and lack of guile mean he can struggle to create chances for himself or others. As a poacher, he is well-suited to a system that provides him with plenty of scoring opportunities, but his lack of discipline and tendency to drift out of games pose a risk. A team that values a traditional center-forward who can finish chances would find Igamane to be a useful asset, but his limitations mean he may not be the best fit for a side that relies on intricate passing sequences or high-pressing.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -61,10 +68,11 @@ Igamane is a clinical finisher who excels at scoring goals from close range, but
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

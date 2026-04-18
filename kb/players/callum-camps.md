@@ -5,7 +5,7 @@ tags: [CM, United Kingdom, Powerhouse]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Powerhouse.
+summary: CM at —. Archetype: Powerhouse.
 person_id: 9294
 backlinks: [powerhouse]
 ---
@@ -17,18 +17,25 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | United Kingdom |
 | **Age** | 30 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 79 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Callum Camps projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Shielding, Stamina, and Acceleration.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +69,13 @@ Callum Camps projects primarily as a CM with a `Powerhouse` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

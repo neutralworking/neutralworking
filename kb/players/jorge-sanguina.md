@@ -2,12 +2,12 @@
 title: Jorge Sanguina
 category: players
 tags: [CF, Sportivo Ameliano, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Sportivo Ameliano. Archetype: None.
+summary: CF at Sportivo Ameliano. Archetype: —.
 person_id: 31123
-backlinks: [sportivo-ameliano]
+backlinks: [target-forward, sportivo-ameliano]
 ---
 
 # Jorge Sanguina
@@ -20,19 +20,28 @@ backlinks: [sportivo-ameliano]
 | **Club** | Sportivo Ameliano |
 | **Nation** | Paraguay |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 35 |
+| **Level** | — |
 | **Overall** | 28.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Jorge Sanguina projects primarily as a CF with a `None` lean. The strongest database support comes from Aggression, Close Range, and Communication.
+Jorge Sanguina projects primarily as a CF with a `—` lean. The strongest database support comes from Aggression, Close Range, and Communication.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `35`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `35`.
 - Most bankable strengths show up in Aggression, Close Range, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -62,8 +71,9 @@ Jorge Sanguina projects primarily as a CF with a `None` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +84,4 @@ Jorge Sanguina projects primarily as a CF with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |

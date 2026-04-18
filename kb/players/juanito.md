@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Asteras Tripolis. Archetype: Striker.
 person_id: 13144
-backlinks: [striker, asteras-tripolis]
+backlinks: [striker, distributor, asteras-tripolis]
 ---
 
 # Juanito
@@ -21,18 +21,26 @@ backlinks: [striker, asteras-tripolis]
 | **Nation** | Spain |
 | **Age** | 40 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 67 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF					ESP	C	0.0	A player with tremendous dribbling ability whose career was overshadowed by a fierce character		He was best known for his Real Madrid years. He died in a road accident at only 37. Growing up he supported Real Zaragoza, but as he approached his adulthood he began supporting Real Madrid. Upon his presentation in 1977, he said: "Playing for Real Madrid is like touching the sky, Real Madrid has always been my first choice as a team and Madrid has always been my favorite as a city". Over the course of 13 seasons, he amassed La Liga totals of 350 games and 99 goals. Juanito gained more than 30 caps for Spain, representing the nation in two World Cups and one European Championship.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Striker` behaviour from a `CD` base.
 - Most bankable strengths show up in Aerial Duels, Heading, and Interceptions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ CF					ESP	C	0.0	A player with tremendous dribbling ability whose career was ove
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

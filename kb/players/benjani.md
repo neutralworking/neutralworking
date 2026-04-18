@@ -5,7 +5,7 @@ tags: [CF, Zimbabwe, Target]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Target.
+summary: CF at —. Archetype: Target.
 person_id: 789
 backlinks: [target]
 ---
@@ -17,18 +17,25 @@ backlinks: [target]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Zimbabwe |
 | **Age** | 47 |
 | **Archetype** | [[target]] Target |
 | **Level** | 41 |
 | **Overall** | 44.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Benjani projects primarily as a CF with a `Target` lean. The strongest database support comes from Heading, Acceleration, and First Touch.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -62,10 +69,11 @@ Benjani projects primarily as a CF with a `Target` lean. The strongest database 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

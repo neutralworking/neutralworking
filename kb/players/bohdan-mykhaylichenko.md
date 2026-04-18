@@ -5,7 +5,7 @@ tags: [WD, Polissya Zhytomyr, Ukraine]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at Polissya Zhytomyr. Archetype: None.
+summary: WD at Polissya Zhytomyr. Archetype: —.
 person_id: 9103
 backlinks: [polissya-zhytomyr]
 ---
@@ -20,11 +20,21 @@ backlinks: [polissya-zhytomyr]
 | **Club** | Polissya Zhytomyr |
 | **Nation** | Ukraine |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
+
+## Snapshot
+
+Bohdan Mykhaylichenko is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -38,13 +48,13 @@ backlinks: [polissya-zhytomyr]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 34.9m |
+| Mid | EUR 41.0m |
+| Ceiling | EUR 49.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

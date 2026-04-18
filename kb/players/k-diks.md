@@ -2,12 +2,12 @@
 title: K. Diks
 category: players
 tags: [CM, Borussia Mönchengladbach, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Borussia Mönchengladbach. Archetype: Powerhouse-Destroyer.
 person_id: 20612
-backlinks: [powerhouse, borussia-monchengladbach]
+backlinks: [powerhouse, tuttocampista, borussia-monchengladbach]
 ---
 
 # K. Diks
@@ -18,21 +18,30 @@ backlinks: [powerhouse, borussia-monchengladbach]
 |---|---|
 | **Position** | CM |
 | **Club** | Borussia Mönchengladbach |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 K. Diks is a technically gifted midfielder who excels at making progressive carries and winning the ball back, but his limited tactical awareness and lack of creativity may hinder his ability to control the tempo of the game. As a Connector archetype, he is well-suited to a Metodista role where he can utilize his technical skills to dictate the tempo of the game. Historically, his style of play is reminiscent of traditional midfield controllers who prioritize maintaining possession over creating scoring opportunities, and he would thrive in a system that allows him to make inverted runs and exploit half-spaces. From a squad-building perspective, Diks' market position is relatively high due to his technical ability, making him a target for top-tier clubs looking to add control to their midfield, but his limited tactical awareness may be a risk factor for teams that rely on a strong defensive structure.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Jumping, Acceleration, and Balance.
@@ -63,13 +72,14 @@ K. Diks is a technically gifted midfielder who excels at making progressive carr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ K. Diks is a technically gifted midfielder who excels at making progressive carr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

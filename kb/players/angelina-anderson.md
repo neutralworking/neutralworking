@@ -18,17 +18,23 @@ backlinks: [gk, angel-city]
 |---|---|
 | **Position** | GK |
 | **Club** | Angel City |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 65 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A capable goalkeeper operating in the NWSL with decent shot-stopping reflexes and a reasonable distribution range, but lacking the elite footwork or sweeping instincts that separate the very best modern keepers from the rest. She's a solid rotation option or a starter for a mid-table side—serviceable rather than special, and you wouldn't trust her to bail out a high-press system that demands constant ball-playing intervention. At 24, there's some runway left, but the foundation suggests a ceiling of reliable competence rather than the commanding presence you'd want anchoring a title challenge.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -46,10 +52,10 @@ A capable goalkeeper operating in the NWSL with decent shot-stopping reflexes an
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

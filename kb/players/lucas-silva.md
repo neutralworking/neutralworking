@@ -2,7 +2,7 @@
 title: Lucas Silva
 category: players
 tags: [WM, Cruzeiro, Sprinter-Cover]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Cruzeiro. Archetype: Sprinter-Cover.
@@ -26,55 +26,29 @@ backlinks: [sprinter, cruzeiro]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Lucas Silva projects primarily as a WM with a `Sprinter-Cover` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
-
-## Role Fit
-
-- Best-fit role is `Wide Playmaker` with model support score `72`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
-- Most bankable strengths show up in Acceleration, Pace, and First Touch.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Pace, and First Touch.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Volleys | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Aerial Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Pass Range | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+| Marking | ██████████ 10/10 |
+| Aerial Duels | ████████░░ 8/10 |
+| Threat | ████████░░ 8/10 |
+| Creativity | ███████░░░ 7/10 |
+| Close Range | ██████░░░░ 6/10 |
+| Long Range | ██████░░░░ 6/10 |
+| Mental | ██████░░░░ 6/10 |
+| Composure | █████░░░░░ 5/10 |
+| Discipline | █████░░░░░ 5/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **aerial_threat** (physical) — severity 10/10
 
 ## Personality
 
@@ -84,15 +58,3 @@ Lucas Silva projects primarily as a WM with a `Sprinter-Cover` lean. The stronge
 - **Pressure (JP)**: 43
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -5,7 +5,7 @@ tags: [CD, Bayern Munich Women, Colombia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Bayern Munich Women. Archetype: None.
+summary: CD at Bayern Munich Women. Archetype: —.
 person_id: 8375
 backlinks: [bayern-munich-women]
 ---
@@ -20,15 +20,21 @@ backlinks: [bayern-munich-women]
 | **Club** | Bayern Munich Women |
 | **Nation** | Colombia |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Colombian winger with genuine directness and a willingness to take defenders on in the half-spaces, but she's still very much a prospect rather than a finished product. Her decision-making in the final third remains raw—lots of effort, occasional brilliant runs, but also plenty of moments where she kills a move with a poor touch or overhits a cross. At 20, she's got the athletic foundation and the hunger, but she'll need a season or two of consistent senior minutes to turn promise into consistency.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +51,10 @@ Colombian winger with genuine directness and a willingness to take defenders on 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

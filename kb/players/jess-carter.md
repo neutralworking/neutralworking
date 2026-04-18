@@ -5,7 +5,7 @@ tags: [WD, Chelsea WFC, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at Chelsea WFC. Archetype: None.
+summary: WD at Chelsea WFC. Archetype: —.
 person_id: 12593
 backlinks: [chelsea-wfc]
 ---
@@ -20,15 +20,22 @@ backlinks: [chelsea-wfc]
 | **Club** | Chelsea WFC |
 | **Nation** | England |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An inverted fullback operating from the right who's comfortable receiving between the lines and carrying the ball forward with genuine technical security—her progressive carries and ability to switch play with accuracy give Chelsea a different dimension in possession. Defensively she's sound rather than spectacular, and on her weak foot she can be predictable in her decision-making; but as an attacking outlet from fullback, she's one of the more dangerous options in the division.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ An inverted fullback operating from the right who's comfortable receiving betwee
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 36.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,6 +87,6 @@ An inverted fullback operating from the right who's comfortable receiving betwee
 
 27 October 1997 (age 25)	23	1	England Chelsea
 
-Composed. 
+Composed.
 
 </details>

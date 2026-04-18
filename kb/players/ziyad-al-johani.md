@@ -1,16 +1,16 @@
 ---
-title: Ziyad Al-Johani
+title: Ziyad Al Johani
 category: players
-tags: [CM, Al-Ahli, Saudi Arabia]
-updated: 2026-04-17
+tags: [CM, Al-Ahli, Dribbler-Sprinter]
+updated: 2026-04-14
 source: compiled
-confidence: low
-summary: CM at Al-Ahli. Archetype: None.
-person_id: 18791
-backlinks: [al-ahli]
+confidence: high
+summary: CM at Al-Ahli. Archetype: Dribbler-Sprinter.
+person_id: 24156
+backlinks: [dribbler, al-ahli]
 ---
 
-# Ziyad Al-Johani
+# Ziyad Al Johani
 
 ## Overview
 
@@ -18,55 +18,45 @@ backlinks: [al-ahli]
 |---|---|
 | **Position** | CM |
 | **Club** | Al-Ahli |
-| **Nation** | Saudi Arabia |
-| **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | 74 |
-| **Overall** | None |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Level** | 75 |
+| **Overall** | 59.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Young (24) attacking midfielder showing promise in possession with some willingness to carry the ball into dangerous areas, though his end product remains raw. Decision-making in the final third is erratic, and his defensive positioning suggests he needs significant education; he's an academy graduate still learning the demands of senior football. Prospect with potential, but not yet a contributor.
-
-## Role Fit
-
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Shielding | ███████████████ 15/10 |
+| Acceleration | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Jumping | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Balance | ███████████ 11/10 |
+| Crossing | ███████████ 11/10 |
+| Marking | ███████████ 11/10 |
+| Movement | ███████████ 11/10 |
+| Heading | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Volleys | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Metric coverage is shallow relative to a full dossier standard.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Two Footed** (style) — severity 7/10
+- **build_up_contributor** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 5/10
 
 ## Personality
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 30
-- **Social (TF)**: 55
-- **Pressure (JP)**: 56
-- **Competitiveness**: 5/10
-- **Coachability**: 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+- **Game Reading (EI)**: 43
+- **Motivation (SN)**: 47
+- **Social (TF)**: 59
+- **Pressure (JP)**: 43
+- **Competitiveness**: 4/10
+- **Coachability**: 3/10

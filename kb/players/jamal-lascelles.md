@@ -19,16 +19,23 @@ backlinks: [cover, newcastle-united]
 | **Position** | CD |
 | **Club** | Newcastle United |
 | **Nation** | England |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
 | **Level** | 77 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The captain has become a squad player rather than an undisputed starter, which says something about Newcastle's defensive evolution. He's still a capable centre-back with decent leadership and positioning, though he's lost a yard of pace that limits his ability to cover recovery ground. He remains a useful option in specific circumstances but is no longer the cornerstone of the defence.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ The captain has become a squad player rather than an undisputed starter, which s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

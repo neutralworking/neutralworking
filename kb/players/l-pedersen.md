@@ -2,7 +2,7 @@
 title: L. Pedersen
 category: players
 tags: [CM, Randers FC, Dribbler-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Randers FC. Archetype: Dribbler-Destroyer.
@@ -26,54 +26,31 @@ backlinks: [dribbler, randers-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-L. Pedersen projects primarily as a CM with a `Dribbler-Destroyer` lean. The strongest database support comes from Pace, Acceleration, and First Touch.
-
-## Role Fit
-
-- Best-fit role is `Ball Winner` with model support score `72`.
-- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
-- Most bankable strengths show up in Pace, Acceleration, and First Touch.
-
-## In Possession
-
-- Ball-value indicators lean on Pace, Acceleration, and First Touch.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Pace | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Balance | ████████████ 12/10 |
+| Jumping | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Physical | ████████████ 12/10 |
+| Reactions | ███████████ 11/10 |
+| Shielding | ███████████ 11/10 |
+| Crossing | ██████████ 10/10 |
+| Marking | ██████████ 10/10 |
+| Aggression | █████████░ 9/10 |
+| Heading | █████████░ 9/10 |
+| Penalties | █████████░ 9/10 |
+| Stamina | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 7/10
+- **build_up_contributor** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 5/10
 
 ## Personality
 
@@ -83,17 +60,3 @@ L. Pedersen projects primarily as a CM with a `Dribbler-Destroyer` lean. The str
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 7/10
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Hot Headed** (behavioral) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

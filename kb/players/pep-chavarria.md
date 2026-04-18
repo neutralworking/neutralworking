@@ -2,7 +2,7 @@
 title: Pep Chavarría
 category: players
 tags: [WD, Rayo Vallecano, Spain, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WD at Rayo Vallecano. Archetype: Sprinter.
@@ -26,54 +26,36 @@ backlinks: [sprinter, rayo-vallecano]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Spanish defender with modest athleticism and positioning for La Liga level. Limited technical ability and pace; squad depth option without genuine starter quality.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Corner Back` with model support score `68`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
-- Most bankable strengths show up in Physical, Balance, and Jumping.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Balance, and Jumping.
-- Style traits point toward Two Footed, Acceleration, and Pace in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Physical | ████████████████ 16/10 |
+| Balance | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Crossing | ██████████████ 14/10 |
+| Long Range | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Penalties | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Close Range | ████████████ 12/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Two Footed** (style) — severity 7/10
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
 
 ## Personality
 
@@ -83,19 +65,3 @@ Spanish defender with modest athleticism and positioning for La Liga level. Limi
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

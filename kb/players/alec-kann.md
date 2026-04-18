@@ -2,7 +2,7 @@
 title: Alec Kann
 category: players
 tags: [GK, Sporting Kansas City, United States, GK]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Sporting Kansas City. Archetype: GK.
@@ -22,13 +22,19 @@ backlinks: [gk, sporting-kansas-city]
 | **Age** | 35 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A journeyman goalkeeper now in his mid-thirties who has settled into a reliable backup role at Sporting Kansas City. Kann is a decent shot-stopper with reasonable distribution for MLS standards, though he lacks the athleticism or positional sophistication you'd want in a modern top-flight keeper. His game hasn't aged particularly well — he's neither commanding enough in the air nor progressive enough with the ball to be a meaningful asset in contemporary possession-based systems. At this stage of his career, he's a serviceable depth option, the kind of manager's friend who won't embarrass you in league cup fixtures, but he's essentially capped out as a fringe MLS starter rather than anyone approaching genuine developmental interest.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +67,13 @@ A journeyman goalkeeper now in his mid-thirties who has settled into a reliable 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -91,7 +97,7 @@ A journeyman goalkeeper now in his mid-thirties who has settled into a reliable 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

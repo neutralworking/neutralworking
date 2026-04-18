@@ -2,12 +2,12 @@
 title: Jørgen Strand Larsen
 category: players
 tags: [CF, Crystal Palace, Norway, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Crystal Palace. Archetype: Striker-Target.
 person_id: 12969
-backlinks: [striker, crystal-palace]
+backlinks: [striker, target-forward, crystal-palace]
 ---
 
 # Jørgen Strand Larsen
@@ -21,6 +21,8 @@ backlinks: [striker, crystal-palace]
 | **Nation** | Norway |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 74 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
 | **Pursuit** | Scout Further |
@@ -30,9 +32,16 @@ backlinks: [striker, crystal-palace]
 
 6ft 4in target forward with surprising technical quality for his frame. Prolific at Celta Vigo — 13 goals in 2023-24 La Liga. Excellent aerial presence and hold-up play. Work rate is outstanding — presses from the front relentlessly. First touch is better than expected. PL adaptation still being assessed at Crystal Palace. Scout further — could be a genuine PL No.9 if adaptation goes well.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `74`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `74`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Aerial Duels, Close Range, and Composure.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ backlinks: [striker, crystal-palace]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 42.8m |
+| Mid | EUR 73.0m |
+| Ceiling | EUR 87.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ backlinks: [striker, crystal-palace]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

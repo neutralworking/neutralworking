@@ -2,10 +2,10 @@
 title: Alessandro Nesta
 category: players
 tags: [CD, Italy, Cover-Controller]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at None. Archetype: Cover-Controller.
+summary: CD at —. Archetype: Cover-Controller.
 person_id: 8091
 backlinks: [cover]
 ---
@@ -17,13 +17,13 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Italy |
 | **Age** | 50 |
 | **Archetype** | [[cover]] Cover-Controller |
 | **Level** | 49 |
 | **Overall** | 50.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -35,6 +35,13 @@ Despite being a strong and imposing defensive, athletic and physical presence, h
 Nesta was also excellent in the air, and was also unusually quick for a centreback. In addition to his technical and physical ability, Nesta also possessed an excellent positional sense and an acute tactical ability to read the game, and he excelled at tightly marking opposing players, and at preventing and anticipating attacking plays. He was also an accurate and tenacious tackler. 
 
 Despite his talent, Nesta's career suffered from the many injuries he encountered, Nesta was out of action for the whole 2008-2009 season in Series A. The fact of matter, Nesta won 5th European footballer of the year in 2000, was the best defender in Italian Series A in early 2000s which he won defender of the year almost every seasons. He was known for his talent to manage with opponent attacker, Outstanding agility, Intelligent
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,10 +79,11 @@ Despite his talent, Nesta's career suffered from the many injuries he encountere
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,11 +106,11 @@ Despite his talent, Nesta's career suffered from the many injuries he encountere
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -125,6 +133,6 @@ Despite being a strong and imposing defensive, athletic and physical presence, h
 
 Nesta was also excellent in the air, and was also unusually quick for a centreback. In addition to his technical and physical ability, Nesta also possessed an excellent positional sense and an acute tactical ability to read the game, and he excelled at tightly marking opposing players, and at preventing and anticipating attacking plays. He was also an accurate and tenacious tackler. 
 
-Despite his talent, Nesta's career suffered from the many injuries he encountered, Nesta was out of action for the whole 2008-2009 season in Series A. The fact of matter, Nesta won 5th European footballer of the year in 2000, was the best defender in Italian Series A in early 2000s which he won defender of the year almost every seasons. He was known for his talent to manage with opponent attacker, Outstanding agility, Intelligent		
+Despite his talent, Nesta's career suffered from the many injuries he encountered, Nesta was out of action for the whole 2008-2009 season in Series A. The fact of matter, Nesta won 5th European footballer of the year in 2000, was the best defender in Italian Series A in early 2000s which he won defender of the year almost every seasons. He was known for his talent to manage with opponent attacker, Outstanding agility, Intelligent
 
 </details>

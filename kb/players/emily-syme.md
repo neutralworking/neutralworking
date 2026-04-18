@@ -5,7 +5,7 @@ tags: [CM, Brighton WFC, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Brighton WFC. Archetype: None.
+summary: CM at Brighton WFC. Archetype: —.
 person_id: 10641
 backlinks: [brighton-wfc]
 ---
@@ -20,15 +20,22 @@ backlinks: [brighton-wfc]
 | **Club** | Brighton WFC |
 | **Nation** | England |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 81 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left-back who combines physical robustness with decent technical ability on the ball, capable of playing out from the back without panic. Her weakness is genuine pace in recovery—she compensates with positioning and intelligence, but a winger with real separation speed will trouble her. Dependable rather than dynamic, a solid squad option at Premier League level.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A left-back who combines physical robustness with decent technical ability on th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 20.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

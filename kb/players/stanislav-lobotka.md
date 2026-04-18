@@ -2,7 +2,7 @@
 title: Stanislav Lobotka
 category: players
 tags: [CM, Napoli, Slovakia, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Napoli. Archetype: Engine-Passer.
@@ -26,58 +26,42 @@ backlinks: [engine, napoli]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 Slovak metronome. Controls tempo, rarely loses the ball, reads the game from the base of midfield. One of Serie A's best deep-lying playmakers.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Metodista` with model support score `74`.
-- Primary archetype leans toward `Engine` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
-- Most bankable strengths show up in Pass Range, Shielding, and Reactions.
-
-## In Possession
-
-- Ball-value indicators lean on Pass Range, Shielding, and Reactions.
-- Style traits point toward Two Footed, Elegant, and Anticipation in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor, Progressive Carrier, and Positional Discipline.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pass Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Pass Range | █████████████████ 17/10 |
+| Shielding | █████████████████ 17/10 |
+| Reactions | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Balance | ███████████████ 15/10 |
+| Crossing | ███████████████ 15/10 |
+| Marking | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Pace | ██████████████ 14/10 |
+| Jumping | █████████████ 13/10 |
+| Penalties | ███████████ 11/10 |
+| Pass Accuracy | ██████████ 10/10 |
+| Composure | █████████░ 9/10 |
+| Discipline | █████████░ 9/10 |
+| Heading | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 9/10
+- **progressive_carrier** (tactical) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **elegant** (style) — severity 7/10
+- **positional_discipline** (tactical) — severity 6/10
+- **Anticipation** (style) — severity 5/10
+- **Close Control** (style) — severity 5/10
+- **Work Rate** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -87,25 +71,3 @@ Slovak metronome. Controls tempo, rarely loses the ball, reads the game from the
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 9/10
-- **Progressive Carrier** (tactical) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Elegant** (style) — severity 7/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Anticipation** (style) — severity 5/10
-- **Close Control** (style) — severity 5/10
-- **Work Rate** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

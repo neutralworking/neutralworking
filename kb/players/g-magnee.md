@@ -2,7 +2,7 @@
 title: G. Magnée
 category: players
 tags: [CM, Cercle Brugge, Cover-Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Cercle Brugge. Archetype: Cover-Creator.
@@ -18,17 +18,24 @@ backlinks: [cover, cercle-brugge]
 |---|---|
 | **Position** | CM |
 | **Club** | Cercle Brugge |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Creator |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 G. Magnée functions as an Artisan Holding Midfielder in a Tuttocampista role, excelling in interceptions, possessing strong vision, awareness, and creativity, alongside good close-range finishing and impressive endurance for a high press. His moderate physical attributes are complemented by strong mental fortitude, though his effectiveness in duels, overall guile, and pass accuracy can be inconsistent. Magnée embodies a modern deep-lying playmaker, a 'Holding Midfielder' who actively breaks up play but also initiates attacks with vision and creativity, rather than solely shielding the defense, suited for possession-based teams demanding intelligence and work rate in midfield. For clubs seeking an intelligent, high-pressing central midfielder who can both win the ball and initiate attacks, Magnée offers strong market value due to his robust mental pillar and technical strengths, making him a solid addition for a progressive mid-table or upper-mid-table side. His weaknesses in duels and pass accuracy suggest he needs a stable tactical environment that doesn't over-rely on his physical dominance in isolated situations.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -66,13 +73,14 @@ G. Magnée functions as an Artisan Holding Midfielder in a Tuttocampista role, e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +104,7 @@ G. Magnée functions as an Artisan Holding Midfielder in a Tuttocampista role, e
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

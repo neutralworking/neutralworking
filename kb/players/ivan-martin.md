@@ -2,12 +2,12 @@
 title: Iván Martín
 category: players
 tags: [CM, Girona, Spain, Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Girona. Archetype: Engine.
 person_id: 12068
-backlinks: [engine, girona]
+backlinks: [engine, ball-winner, girona]
 ---
 
 # Iván Martín
@@ -21,18 +21,27 @@ backlinks: [engine, girona]
 | **Nation** | Spain |
 | **Age** | 31 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced midfielder who anchors the center of the park with positional discipline and reasonable distribution; he's the type who does his job without drawing attention to himself. He lacks dynamism in either direction—not a presser, not a ball-carrier—and his passing is functional rather than progressive. A reliable, understated operator for a side wanting stability, but he won't change a game.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `79`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `79`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
 - Most bankable strengths show up in Balance, Crossing, and Movement.
@@ -67,13 +76,14 @@ Experienced midfielder who anchors the center of the park with positional discip
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Experienced midfielder who anchors the center of the park with positional discip
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

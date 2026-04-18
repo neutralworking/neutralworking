@@ -2,7 +2,7 @@
 title: Lee Tae-Seok
 category: players
 tags: [WM, Austria Vienna, Creator]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Austria Vienna. Archetype: Creator.
@@ -26,50 +26,29 @@ backlinks: [creator, austria-vienna]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 A creative, technically assured winger whose vision and one-on-one dynamism compensate for moderate tactical understanding and a lighter physical frame—his spontaneity and take-on quality suit him to free-form attacking roles where individual invention is prized. However, his guile deficiency and duel vulnerability expose him in defensive transitions or against aggressive full-backs, making him better suited to teams that defend by shape rather than individual tenacity. At 23 with introverted tendencies, he may struggle in high-tempo, compact pressing systems but could flourish in possession-dominant attacks where his technical creativity is the primary output.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Awareness, Interceptions, and Tackling.
-
-## In Possession
-
-- Ball-value indicators lean on Awareness, Interceptions, and Tackling.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Awareness | █████████░ 9/10 |
+| Interceptions | █████████░ 9/10 |
+| Tackling | █████████░ 9/10 |
+| Vision | █████████░ 9/10 |
+| Aggression | ████████░░ 8/10 |
+| Close Range | ████████░░ 8/10 |
+| Creativity | ████████░░ 8/10 |
+| Duels | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
+| Mid Range | ████████░░ 8/10 |
+| Pressing | ████████░░ 8/10 |
+| Skills | ████████░░ 8/10 |
+| Threat | ████████░░ 8/10 |
+| Through Balls | ████████░░ 8/10 |
+| Blocking | ███████░░░ 7/10 |
 
 ## Personality
 
@@ -79,11 +58,3 @@ A creative, technically assured winger whose vision and one-on-one dynamism comp
 - **Pressure (JP)**: 36
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

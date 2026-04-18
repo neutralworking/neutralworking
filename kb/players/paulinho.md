@@ -1,13 +1,12 @@
 ---
 title: Paulinho
 category: players
-tags: [CF, FC Midtjylland, Portugal, Sprinter]
-updated: 2026-04-17
+tags: [CM, Brazil]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CF at FC Midtjylland. Archetype: Sprinter.
-person_id: 16189
-backlinks: [sprinter, fc-midtjylland]
+summary: CM at None. Archetype: None.
+person_id: 5813
 ---
 
 # Paulinho
@@ -16,17 +15,17 @@ backlinks: [sprinter, fc-midtjylland]
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | FC Midtjylland |
-| **Nation** | Portugal |
-| **Age** | None |
-| **Archetype** | [[sprinter]] Sprinter |
-| **Level** | 76 |
-| **Overall** | 64.0 |
+| **Position** | CM |
+| **Club** | None |
+| **Nation** | Brazil |
+| **Age** | 25 |
+| **Archetype** | [[—]] None |
+| **Level** | 87 |
+| **Overall** | 76.0 |
 | **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 
 CountryBrazil
@@ -50,82 +49,25 @@ No one could imagine how fast Paulinho’s development would be. After an amazin
 **September 2022 update** Had his best season since arriving in Germany, making 31 appearances in all competitions and scoring four goals, but is currently out of the team after a move away this summer broke down. Is out of contract next summer.
 
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Shadow Striker` with model support score `71`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Counter Attack Threat.
-- Most bankable strengths show up in Balance, Stamina, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Stamina, and Jumping.
-- Style traits point toward Direct, Pace, and Acceleration in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Counter Attack Threat.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Output may be more transition-dependent than possession-dominant environments want.
-
-## Personality
-
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 37
-- **Social (TF)**: 61
-- **Pressure (JP)**: 30
-- **Competitiveness**: 6/10
-- **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-- **Counter Attack Threat** (tactical) — severity 10/10
-- **Direct** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Physical | ████████░░ 8/10 |
+| Drive | ███████░░░ 7/10 |
+| Anticipation | ██████░░░░ 6/10 |
+| Intensity | ██████░░░░ 6/10 |
+| Pressing | ██████░░░░ 6/10 |
+| Stamina | ██████░░░░ 6/10 |
+| Tempo | ██████░░░░ 6/10 |
+| Composure | █████░░░░░ 5/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Decisions | █████░░░░░ 5/10 |
+| Mental | █████░░░░░ 5/10 |
+| Tactical | █████░░░░░ 5/10 |
+| Versatility | █████░░░░░ 5/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
 
 ## Research Notes
 

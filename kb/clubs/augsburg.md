@@ -2,17 +2,31 @@
 title: Augsburg
 category: clubs
 tags: [Bundesliga, Germany]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Augsburg. 33 players in database.
+summary: Augsburg. 32 players in database.
 ---
 
 # Augsburg
 
 **League**: Bundesliga  
 **Nation**: Germany  
-**Players in DB**: 33
+**Players in DB**: 32
+
+## Identity
+
+- Database coverage is deepest in CD (7), WD (5), and CM (5), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (8), Creator (5), and Striker (4) across the current squad.
+- Average available overall grade sits at 70.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -32,9 +46,7 @@ summary: Augsburg. 33 players in database.
 | [[samuel-essende]] Samuel Essende | CF | Striker | 70.0 |
 | [[sven-michel]] Sven Michel | CF | Striker | 62.0 |
 | [[arne-maier]] Arne Maier | CM | Creator | 79.0 |
-| [[fabian-rieder]] Fabian Rieder | CM | Engine-Passer | 71.0 |
 | [[han-noah-massengo]] Han-Noah Massengo | CM | Cover | 67.0 |
-| [[ismael-gharbi]] Ismaël Gharbi | CM | Dribbler-Sprinter | 55.0 |
 | [[kristijan-jakic]] Kristijan Jakić | CM | Engine-Powerhouse | 72.0 |
 | [[noahkai-kai-daniel-banks]] Noahkai Kai Daniel Banks | CM | Destroyer-Striker | 70.0 |
 | [[r-fellhauer]] R. Fellhauer | CM | Powerhouse-Cover | 71.0 |
@@ -43,11 +55,12 @@ summary: Augsburg. 33 players in database.
 | [[nediljko-labrovic]] Nediljko Labrović | GK | GK | 71.0 |
 | [[dimitris-giannoulis]] Dimitris Giannoulis | WD | Creator | 71.0 |
 | [[iago]] Iago | WD | Creator | 67.0 |
-| [[mads-valentin]] Mads Valentin | WD | None | None |
+| [[mads-valentin]] Mads Valentin | WD | — | — |
 | [[marius-wolf]] Marius Wolf | WD | Creator | 70.0 |
 | [[raphael-framberger]] Raphael Framberger | WD | Creator | 74.0 |
 | [[alexis-claude-maurice]] Alexis Claude-Maurice | WF | Passer | 77.0 |
 | [[a-kade]] A. Kade | WM | Sprinter-Dribbler | 68.0 |
 | [[e-saad]] E. Saad | WM | Destroyer-Creator | 69.0 |
-| [[m-pedersen]] M. Pedersen | None | Cover | None |
-| [[patric-pfeiffer]] Patric Pfeiffer | None | None | None |
+| [[u-ogundu]] U. Ogundu | WM | Striker-Creator | 64.0 |
+| M. Pedersen | — | Cover | — |
+| [[patric-pfeiffer]] Patric Pfeiffer | — | — | — |

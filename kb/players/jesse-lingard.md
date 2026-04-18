@@ -2,12 +2,12 @@
 title: Jesse Lingard
 category: players
 tags: [CF, FC Seoul, Engine-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at FC Seoul. Archetype: Engine-Striker.
 person_id: 19830
-backlinks: [engine, fc-seoul]
+backlinks: [engine, shadow-striker, fc-seoul]
 ---
 
 # Jesse Lingard
@@ -18,21 +18,30 @@ backlinks: [engine, fc-seoul]
 |---|---|
 | **Position** | CF |
 | **Club** | FC Seoul |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[engine]] Engine-Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 49 |
 | **Level** | 76 |
 | **Overall** | 55.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lingard's best role as a Spearhead is somewhat at odds with his moderate technical and limited tactical abilities, but his strong mental pillar and acceleration make him a threat on counter-attacks. His shielding and pass accuracy are notable strengths, but guile and aerial duels are areas where he falls short. A team that emphasizes direct, quick transitions could find value in Lingard's skills, particularly if they can provide the necessary support to mask his weaknesses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `49`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `49`.
 - Primary archetype leans toward `Engine` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -67,13 +76,14 @@ Lingard's best role as a Spearhead is somewhat at odds with his moderate technic
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.1m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Lingard's best role as a Spearhead is somewhat at odds with his moderate technic
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

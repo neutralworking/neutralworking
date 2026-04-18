@@ -5,7 +5,7 @@ tags: [CM, Al-Ahli, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Al-Ahli. Archetype: None.
+summary: CM at Al-Ahli. Archetype: —.
 person_id: 7720
 backlinks: [al-ahli]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-ahli]
 | **Club** | Al-Ahli |
 | **Nation** | Saudi Arabia |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Left-back with a decade of Saudi football experience and a handful of international caps, comfortable in possession and willing to advance into the half-space on the overlap. His athleticism has weathered reasonably well at 31, though he lacks the explosive change of direction to consistently beat a winger in transition. Decent enough on the ball to progress it simply, but not someone you'd trust to unlock a defence with a creative pass.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,13 @@ Left-back with a decade of Saudi football experience and a handful of internatio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

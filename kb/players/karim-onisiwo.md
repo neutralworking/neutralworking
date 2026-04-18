@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CF at Red Bull Salzburg. Archetype: Creator.
 person_id: 13322
-backlinks: [creator, red-bull-salzburg]
+backlinks: [creator, target-forward, red-bull-salzburg]
 ---
 
 # Karim Onisiwo
@@ -21,18 +21,26 @@ backlinks: [creator, red-bull-salzburg]
 | **Nation** | Austria |
 | **Age** | 34 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 74 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 The Mainz long-distance runner doesn't use all the chances that come his way, collected - just like his strike partner Ludovic Ajorque - a strong nine scorer points and, as always, shone as a tireless fighter. With his goal to make it 2-0 in the meantime, Onisiwo also spit in the face of runners-up Dortmund.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Aggression, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ The Mainz long-distance runner doesn't use all the chances that come his way, co
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

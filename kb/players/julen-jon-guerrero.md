@@ -5,7 +5,7 @@ tags: [CM, Alavés, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Alavés. Archetype: None.
+summary: CM at Alavés. Archetype: —.
 person_id: 13157
 backlinks: [alaves]
 ---
@@ -20,15 +20,22 @@ backlinks: [alaves]
 | **Club** | Alavés |
 | **Nation** | Spain |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 67 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young midfielder at an early stage of development, showing some energy and box-to-box willingness but still raw in his technical execution and decision-making. Not yet ready for consistent senior football at this level.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ Young midfielder at an early stage of development, showing some energy and box-t
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -77,18 +85,11 @@ Young midfielder at an early stage of development, showing some energy and box-t
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 ClubReal Madrid
 
 PositionAttacking midfielder
 
 Born14 April 2004
-
-
-
-
-
-
 
 ********
 
@@ -97,6 +98,5 @@ As if the kids on this list didn’t make you feel old already. Not so long ago,
 **September 2022 update** Guerrero extended his contract with Real Madrid until 2025, but it is far from clear whether he’ll see out that deal. At the end of last season Guerrero was rumoured to be joining Real Madrid Castilla, and was invited to play for Raúl’s side in pre-season. Yet he has since returned to the youth team where he’s only played 20 minutes off the bench. Athletic Bilbao, the club where his father spent his entire career, is not giving up hope of trying to sign the elegant midfielder, who has preferred to remain tight-lipped about where he would rather play.  
   
 **October 2023 update** José Mourinho swooped to sign the attacking midfielder on loan at the start of the season after the unsettled prospect fell out with Real youth coach Raul in Madrid and fancied a fresh challenge. Roma can make the transfer permanent, with Real retaining a 50% sell-on clause. Has teamed up with the Under-19 side in Rome.
-
 
 </details>

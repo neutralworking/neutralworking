@@ -1,18 +1,32 @@
 ---
 title: IFK Värnamo
 category: clubs
-tags: [Allsvenskan, None]
-updated: 2026-04-14
+tags: [Allsvenskan]
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: IFK Värnamo. 23 players in database.
+summary: IFK Värnamo. 22 players in database.
 ---
 
 # IFK Värnamo
 
 **League**: Allsvenskan  
-**Nation**: None  
-**Players in DB**: 23
+**Nation**: —  
+**Players in DB**: 22
+
+## Identity
+
+- Database coverage is deepest in CM (9), WM (4), and WF (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (5), Destroyer (5), and Creator (5) across the current squad.
+- Average available overall grade sits at 65.7, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -28,16 +42,15 @@ summary: IFK Värnamo. 23 players in database.
 | [[souleymane-coulibaly]] Souleymane Coulibaly | CM | Destroyer | 64.0 |
 | [[v-larsson]] V. Larsson | CM | Destroyer-Powerhouse | 65.0 |
 | [[wenderson]] Wenderson | CM | Sprinter-Dribbler | 63.0 |
-| [[h-keto]] H. Keto | GK | GK | None |
+| [[h-keto]] H. Keto | GK | GK | — |
 | [[k-antonsen]] K. Antonsen | WD | Sprinter-Cover | 69.0 |
 | [[j-kalu]] J. Kalu | WF | Dribbler-Target | 64.0 |
-| [[k-bilalovic]] K. Bilalovic | WF | Striker | 63.0 |
 | [[m-alsalkhadi]] M. Alsalkhadi | WF | Creator-Sprinter | 66.0 |
 | [[otso-liimatta]] Otso Liimatta | WF | Dribbler | 67.0 |
 | [[c-johansson]] C. Johansson | WM | Creator-Sprinter | 68.0 |
 | [[k-meriluoto]] K. Meriluoto | WM | Creator-Sprinter | 68.0 |
 | [[n-shamoun]] N. Shamoun | WM | Dribbler-Sprinter | 68.0 |
 | [[s-thern]] S. Thern | WM | Creator-Sprinter | 65.0 |
-| [[a-lohikangas]] A. Lohikangas | None | Sprinter-Creator | None |
-| [[i-abdulrazak]] I. Abdulrazak | None | Sprinter-Destroyer | None |
-| [[p-cibicki]] P. Cibicki | None | Striker-Creator | None |
+| A. Lohikangas | — | Sprinter-Creator | — |
+| I. Abdulrazak | — | Sprinter-Destroyer | — |
+| P. Cibicki | — | Striker-Creator | — |

@@ -2,10 +2,10 @@
 title: Alejandro Samudio
 category: players
 tags: [CF, Sportivo Ameliano, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Sportivo Ameliano. Archetype: None.
+summary: CF at Sportivo Ameliano. Archetype: —.
 person_id: 30412
 backlinks: [sportivo-ameliano]
 ---
@@ -20,15 +20,22 @@ backlinks: [sportivo-ameliano]
 | **Club** | Sportivo Ameliano |
 | **Nation** | Paraguay |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 20.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Alejandro Samudio projects primarily as a CF with a `None` lean. The strongest database support comes from Communication, Drive, and Leadership.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -62,8 +69,9 @@ Alejandro Samudio projects primarily as a CF with a `None` lean. The strongest d
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +82,4 @@ Alejandro Samudio projects primarily as a CF with a `None` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |

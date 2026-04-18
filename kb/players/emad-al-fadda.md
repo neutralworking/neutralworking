@@ -19,16 +19,23 @@ backlinks: [gk, al-ahli]
 | **Position** | GK |
 | **Club** | Al-Ahli |
 | **Nation** | Saudi Arabia |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Saudi goalkeeper whose fundamentals are serviceable but uninspiring—he makes routine saves without much conviction and his distribution lacks any real vision or purpose. Positioning is sometimes uncertain and he can be indecisive about when to come off his line, suggesting a goalkeeper who reacts rather than anticipates. Adequate for a domestic squad but limited in scope.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -46,10 +53,11 @@ Saudi goalkeeper whose fundamentals are serviceable but uninspiring—he makes r
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Rafa Marín
 category: players
 tags: [CD, Villarreal, Spain, Cover]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Villarreal. Archetype: Cover.
@@ -26,58 +26,39 @@ backlinks: [cover, villarreal]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Young centre-back with solid defensive fundamentals and decent positioning, but lacks the physical dominance or aerial command for immediate La Liga starts. Developmental prospect with potential if athleticism improves.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Sweeper` with model support score `80`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Jumping, Stamina, and First Touch.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Stamina, and First Touch.
-- Style traits point toward Tackling Ability and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Stamina | ███████████████ 15/10 |
+| Heading | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Balance | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Shielding | █████████████ 13/10 |
+| Movement | ███████████ 11/10 |
+| Pass Range | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Composure | █████████░ 9/10 |
+| Crossing | █████████░ 9/10 |
+| Discipline | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 9/10
+- **positional_discipline** (tactical) — severity 6/10
+- **press_resistant** (tactical) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -87,22 +68,3 @@ Young centre-back with solid defensive fundamentals and decent positioning, but 
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 9/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Press Resistant** (tactical) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

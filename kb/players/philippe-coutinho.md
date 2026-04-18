@@ -2,7 +2,7 @@
 title: Philippe Coutinho
 category: players
 tags: [WF, Vasco da Gama, Brazil, Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WF at Vasco da Gama. Archetype: Creator.
@@ -26,54 +26,36 @@ backlinks: [creator, vasco-da-gama]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A silky left-footer with genuine invention in the final third—he'll still find a dribble and still has the technical range to pick a lock from an inside-right or left channel. The issue is consistency and intensity; he drifts in and out of matches, rarely covers ground or fights for possession, and his decision-making has become increasingly loose with age. For a well-funded, patient side in a slower league willing to give him space, he's capable of moments of brilliance, but he's not the creator he was in his prime.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Inverted Winger` with model support score `79`.
-- Primary archetype leans toward `Creator` behaviour from a `WF` base.
-- Most bankable strengths show up in First Touch, Pass Range, and Volleys.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on First Touch, Pass Range, and Volleys.
-- Style traits point toward Pace in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Penalties | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Skills | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Aerial Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| First Touch | ████████████████ 16/10 |
+| Pass Range | ██████████████ 14/10 |
+| Volleys | █████████████ 13/10 |
+| Penalties | ██████████ 10/10 |
+| Skills | █████████░ 9/10 |
+| Aerial Duels | ████████░░ 8/10 |
+| Awareness | ████████░░ 8/10 |
+| Carries | ████████░░ 8/10 |
+| Creativity | ████████░░ 8/10 |
+| Discipline | ████████░░ 8/10 |
+| Flair | ████████░░ 8/10 |
+| Heading | ████████░░ 8/10 |
+| Intensity | ████████░░ 8/10 |
+| Interceptions | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **aerial_threat** (physical) — severity 9/10
+- **Pace** (style) — severity 4/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -83,19 +65,3 @@ A silky left-footer with genuine invention in the final third—he'll still find
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Aerial Threat** (physical) — severity 9/10
-- **Pace** (style) — severity 4/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

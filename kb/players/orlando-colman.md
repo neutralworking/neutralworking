@@ -2,7 +2,7 @@
 title: Orlando Colman
 category: players
 tags: [CF, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at None. Archetype: None.
@@ -25,52 +25,22 @@ person_id: 31544
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Snapshot
+## Attribute Grades
 
-Orlando Colman projects primarily as a CF with a `None` lean. The strongest database support comes from Aggression, Through Balls, and Pass Accuracy.
-
-## Role Fit
-
-- Best-fit role is `Target Forward` with model support score `33`.
-- Most bankable strengths show up in Aggression, Through Balls, and Pass Accuracy.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Aggression, Through Balls, and Pass Accuracy.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Pass Accuracy | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Threat | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Composure | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Aggression | ███████░░░ 7/10 |
+| Through Balls | ███████░░░ 7/10 |
+| Pass Accuracy | ██████░░░░ 6/10 |
+| Skills | ██████░░░░ 6/10 |
+| Creativity | █████░░░░░ 5/10 |
+| Threat | █████░░░░░ 5/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Composure | ████░░░░░░ 4/10 |
+| Concentration | ████░░░░░░ 4/10 |
+| Discipline | ████░░░░░░ 4/10 |
+| Drive | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
+| Long Range | ████░░░░░░ 4/10 |
+| Pressing | ████░░░░░░ 4/10 |
+| Vision | ████░░░░░░ 4/10 |

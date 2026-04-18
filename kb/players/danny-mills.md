@@ -5,7 +5,7 @@ tags: [WD, England, Sprinter-Dribbler]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WD at None. Archetype: Sprinter-Dribbler.
+summary: WD at —. Archetype: Sprinter-Dribbler.
 person_id: 9998
 backlinks: [sprinter]
 ---
@@ -17,18 +17,25 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | England |
 | **Age** | 34 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 79 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Danny Mills projects primarily as a WD with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Aerial Duels, and First Touch.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -64,10 +71,11 @@ Danny Mills projects primarily as a WD with a `Sprinter-Dribbler` lean. The stro
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

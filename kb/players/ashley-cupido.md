@@ -2,10 +2,10 @@
 title: Ashley Cupido
 category: players
 tags: [CF, Stellenbosch FC, South Africa]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Stellenbosch FC. Archetype: None.
+summary: CF at Stellenbosch FC. Archetype: —.
 person_id: 28623
 backlinks: [stellenbosch-fc]
 ---
@@ -20,15 +20,22 @@ backlinks: [stellenbosch-fc]
 | **Club** | Stellenbosch FC |
 | **Nation** | South Africa |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 12.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Ashley Cupido projects primarily as a CF with a `None` lean. The strongest database support comes from Communication, Leadership, and Concentration.
+Ashley Cupido projects primarily as a CF with a `—` lean. The strongest database support comes from Communication, Leadership, and Concentration.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -62,8 +69,9 @@ Ashley Cupido projects primarily as a CF with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +82,4 @@ Ashley Cupido projects primarily as a CF with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |

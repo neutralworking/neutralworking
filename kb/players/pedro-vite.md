@@ -2,7 +2,7 @@
 title: Pedro Vite
 category: players
 tags: [CM, Vancouver Whitecaps, Ecuador, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Vancouver Whitecaps. Archetype: Sprinter.
@@ -26,54 +26,35 @@ backlinks: [sprinter, vancouver-whitecaps]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Vite's Connector archetype suggests a player who excels at linking play and controlling the tempo of the game. His strong technical ability, balance, and pass accuracy make him a valuable asset in build-up play, but his limited physicality may be exposed in more intense, high-pressing systems. A team that values possession football and clever movement could be a good fit, but may need to provide him with protection and support in defensive phases.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `73`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Shielding, Acceleration, and Balance.
-
-## In Possession
-
-- Ball-value indicators lean on Shielding, Acceleration, and Balance.
-- Style traits point toward Trickery and Patient in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Shielding | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| Balance | ███████████████ 15/10 |
+| Reactions | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Movement | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+| Jumping | ███████████ 11/10 |
+| Heading | ██████████ 10/10 |
+| Marking | ██████████ 10/10 |
+| Physical | █████████░ 9/10 |
+| Crossing | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **build_up_contributor** (tactical) — severity 7/10
+- **Trickery** (style) — severity 5/10
+- **patient** (style) — severity 4/10
 
 ## Personality
 
@@ -83,18 +64,3 @@ Vite's Connector archetype suggests a player who excels at linking play and cont
 - **Pressure (JP)**: 40
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Trickery** (style) — severity 5/10
-- **Patient** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

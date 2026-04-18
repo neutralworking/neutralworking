@@ -2,7 +2,7 @@
 title: Livano Comenencia
 category: players
 tags: [CM, FC Zürich, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at FC Zürich. Archetype: Destroyer.
@@ -26,7 +26,7 @@ backlinks: [destroyer, fc-zurich]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 
 ClubPSV Eindhoven
@@ -42,50 +42,29 @@ Captain of the Dutch under-18 team, he scored the opening goal against Italy in 
 **October 2023 update** Was on the first-team bench twice during the 2022-23 season and looked set to be given more opportunities this season when Juventus swooped and paid €3m for him in August. Life in Italy could hardly have started better with Comenencia scoring 44 seconds into his first start in the Next Gen team, who play in Serie C.
 
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Aggression, Interceptions, and Awareness.
-
-## In Possession
-
-- Ball-value indicators lean on Aggression, Interceptions, and Awareness.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Interceptions | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Take Ons | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Aggression | ████████░░ 8/10 |
+| Interceptions | ████████░░ 8/10 |
+| Awareness | ███████░░░ 7/10 |
+| Pressing | ███████░░░ 7/10 |
+| Tackling | ███████░░░ 7/10 |
+| Blocking | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Take Ons | ██████░░░░ 6/10 |
+| Communication | █████░░░░░ 5/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Drive | █████░░░░░ 5/10 |
+| Duels | █████░░░░░ 5/10 |
+| Flair | █████░░░░░ 5/10 |
+| Long Range | █████░░░░░ 5/10 |
+| Physical | █████░░░░░ 5/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- **high_press** (tactical) — severity 6/10
 
 ## Personality
 
@@ -95,20 +74,6 @@ Captain of the Dutch under-18 team, he scored the opening goal against Italy in 
 - **Pressure (JP)**: 55
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 6/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

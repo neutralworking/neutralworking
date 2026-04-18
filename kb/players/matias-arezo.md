@@ -2,7 +2,7 @@
 title: Matías Arezo
 category: players
 tags: [CF, Grêmio, Uruguay, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Grêmio. Archetype: Striker-Creator.
@@ -26,54 +26,30 @@ backlinks: [striker, gremio]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Young Uruguayan forward with decent positioning and a hunger to work the channels, though his finishing remains inconsistent and he lacks the elite athleticism or close control needed to operate at a significantly higher level. He's a prospect in a mid-table team, not an immediate solution.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Spearhead`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Skills, Technical, and Physical.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Skills, Technical, and Physical.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Technical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Physical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Skills | ███████░░░ 7/10 |
+| Technical | ███████░░░ 7/10 |
+| Physical | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Drive | █████░░░░░ 5/10 |
+| Aggression | ████░░░░░░ 4/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Intensity | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
+| Mental | ███░░░░░░░ 3/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 6/10
 
 ## Personality
 
@@ -83,17 +59,3 @@ Young Uruguayan forward with decent positioning and a hunger to work the channel
 - **Pressure (JP)**: 46
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 6/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

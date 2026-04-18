@@ -2,7 +2,7 @@
 title: Mike Maignan
 category: players
 tags: [GK, AC Milan, France, Target]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at AC Milan. Archetype: Target.
@@ -26,60 +26,39 @@ backlinks: [target, ac-milan]
 | **Pursuit** | Monitor |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 A genuinely elite goalkeeper whose shot-stopping is world-class, but more crucially, his distribution and sweeper positioning have redefined what you can ask of a modern Milan goalkeeper — he's almost a libero in gloves. His range is exceptional and his nerve under pressure is unflappable. The only caveat is that his aggressive positioning occasionally leaves him exposed on long balls over the top if the backline loses shape. Among the five best goalkeepers in Europe.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Comandante` with model support score `80`.
-- Primary archetype leans toward `Target` behaviour from a `GK` base.
-- Most bankable strengths show up in Physical, Reactions, and Jumping.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Reactions, and Jumping.
-- Style traits point toward Shot Stopping, Two Footed, and Cross Claimer in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Aerial Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Anticipation | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Physical | █████████████████ 17/10 |
+| Reactions | █████████████████ 17/10 |
+| Jumping | ████████████████ 16/10 |
+| Acceleration | █████████████ 13/10 |
+| Pace | ████████████ 12/10 |
+| Aerial Duels | █████████░ 9/10 |
+| Composure | █████████░ 9/10 |
+| Anticipation | ████████░░ 8/10 |
+| Concentration | ████████░░ 8/10 |
+| Decisions | ████████░░ 8/10 |
+| Drive | ████████░░ 8/10 |
+| Mental | ███████░░░ 7/10 |
+| Stamina | ███████░░░ 7/10 |
+| Tempo | ███████░░░ 7/10 |
+| Versatility | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **quiet_leader** (behavioral) — severity 9/10
+- **Shot Stopping** (style) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **Cross Claimer** (style) — severity 5/10
+- **Far Throw** (style) — severity 5/10
+- **durability** (physical) — severity 4/10
 
 ## Personality
 
@@ -89,26 +68,6 @@ A genuinely elite goalkeeper whose shot-stopping is world-class, but more crucia
 - **Pressure (JP)**: 42
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Quiet Leader** (behavioral) — severity 9/10
-- **Shot Stopping** (style) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Cross Claimer** (style) — severity 5/10
-- **Far Throw** (style) — severity 5/10
-- **Durability** (physical) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

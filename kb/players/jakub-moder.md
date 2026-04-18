@@ -2,12 +2,12 @@
 title: Jakub Moder
 category: players
 tags: [CM, Feyenoord, Poland, Passer-Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Feyenoord. Archetype: Passer-Creator.
 person_id: 12263
-backlinks: [passer, feyenoord]
+backlinks: [passer, playmaker, feyenoord]
 ---
 
 # Jakub Moder
@@ -21,18 +21,27 @@ backlinks: [passer, feyenoord]
 | **Nation** | Poland |
 | **Age** | 27 |
 | **Archetype** | [[passer]] Passer-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 63 |
 | **Level** | 85 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A ball-progressing midfielder with tidy technique and positional discipline who understands how to thread passes into the final third from deep, but operates without the intensity or box-to-box dynamism that separates good from excellent at this level. He's the kind of player who will have a 7/10 game where he was sensible in possession and broke lines once or twice, yet you'll forget he played within an hour of the final whistle. Functional rather than transformative.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `63`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `63`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Pass Range, and Physical.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A ball-progressing midfielder with tidy technique and positional discipline who 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A ball-progressing midfielder with tidy technique and positional discipline who 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

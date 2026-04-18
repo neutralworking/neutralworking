@@ -2,10 +2,10 @@
 title: Bobby Charlton
 category: players
 tags: [CM, England, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Striker-Engine.
+summary: CM at —. Archetype: Striker-Engine.
 person_id: 9086
 backlinks: [striker]
 ---
@@ -17,18 +17,25 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | England |
 | **Age** | 88 |
 | **Archetype** | [[striker]] Striker-Engine |
 | **Level** | 41 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Enthusiastic	Creator	Virtuoso	Man Utd	ENG	A	84.5	He went on to spend some 20 years with Manchester United, initially being used as a speedy left-winger or inside-left. Throughout his career he appeared in a variety of forward positions and later as an attacking midfielder. In more central roles, he was able to make use of his remarkable range of passing to form the centrepiece of his team's attacks		Regarded as one of the greatest midfielders of all time, and an essential member of the England team who won the World Cup in 1966, the year he also won the Ballon d'Or. He played almost all of his club football at Manchester United. He was cautioned only twice in his career; once against Argentina in the 1966 World Cup, and once in a league match against Chelsea.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -62,10 +69,11 @@ CM	Enthusiastic	Creator	Virtuoso	Man Utd	ENG	A	84.5	He went on to spend some 20 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -80,10 +88,10 @@ CM	Enthusiastic	Creator	Virtuoso	Man Utd	ENG	A	84.5	He went on to spend some 20 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 5 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 5 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

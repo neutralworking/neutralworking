@@ -1,18 +1,32 @@
 ---
 title: Vasco da Gama
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Vasco da Gama. 36 players in database.
+summary: Vasco da Gama. 35 players in database.
 ---
 
 # Vasco da Gama
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 36
+**League**: —  
+**Nation**: —  
+**Players in DB**: 35
+
+## Identity
+
+- Database coverage is deepest in CM (21), CF (5), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Cover (10), Creator (8), and Destroyer (6) across the current squad.
+- Average available overall grade sits at 52.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -26,7 +40,6 @@ summary: Vasco da Gama. 36 players in database.
 | [[lukas-zuccarello]] Lukas Zuccarello | CF | Creator-Striker | 31.0 |
 | [[p-vegetti]] P. Vegetti | CF | Striker | 67.0 |
 | [[avellar]] Avellar | CM | Creator-Striker | 31.0 |
-| [[benjamin-garre]] Benjamín Garre | CM | Striker-Creator | 41.0 |
 | [[breno-vereza]] Breno Vereza | CM | Creator-Striker | 24.0 |
 | [[c-cuesta]] C. Cuesta | CM | Destroyer-Striker | 69.0 |
 | [[cauan-barros]] Cauan Barros | CM | Destroyer-Striker | 76.0 |
@@ -35,6 +48,7 @@ summary: Vasco da Gama. 36 players in database.
 | [[hugo-moura]] Hugo Moura | CM | Destroyer | 67.0 |
 | [[joao-victor]] João Victor | CM | Cover | 64.0 |
 | [[juan-sforza]] Juan Sforza | CM | Cover-Creator | 70.0 |
+| [[loide-augusto]] Loide Augusto | CM | Sprinter | 69.0 |
 | [[lucas-freitas]] Lucas Freitas | CM | Cover-Striker | 69.0 |
 | [[lucas-oliveira]] Lucas Oliveira | CM | Cover | 37.0 |
 | [[lucas-piton]] Lucas Piton | CM | Cover-Creator | 68.0 |
@@ -46,11 +60,10 @@ summary: Vasco da Gama. 36 players in database.
 | [[tche-tche]] Tchê Tchê | CM | Striker-Creator | 70.0 |
 | [[thiago-mendes]] Thiago Mendes | CM | Creator-Cover | 37.0 |
 | [[victor-luis]] Victor Luís | CM | Cover-Creator | 36.0 |
-| [[daniel-fuzato]] Daniel Fuzato | GK | GK | None |
-| [[leo-jardim]] Léo Jardim | GK | GK | None |
+| [[daniel-fuzato]] Daniel Fuzato | GK | GK | — |
+| [[leo-jardim]] Léo Jardim | GK | GK | — |
 | [[david]] David | WF | Creator-Striker | 60.0 |
 | [[philippe-coutinho]] Philippe Coutinho | WF | Creator | 77.0 |
-| [[rayan]] Rayan | WF | Sprinter-Destroyer | 75.0 |
 | [[adson]] Adson | WM | Creator-Striker | 35.0 |
-| [[andrey-fernandes]] Andrey Fernandes | None | Destroyer-Striker | None |
-| [[phillipe-oliveira]] Phillipe Oliveira | None | Cover-Striker | None |
+| Andrey Fernandes | — | Destroyer-Striker | — |
+| Phillipe Oliveira | — | Cover-Striker | — |

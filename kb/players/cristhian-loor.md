@@ -5,7 +5,7 @@ tags: [GK, Ecuador]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 28130
 ---
 
@@ -16,18 +16,24 @@ person_id: 28130
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ecuador |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Cristhian Loor projects primarily as a GK with a `None` lean. The strongest database support comes from the current evidence set.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,13 +51,13 @@ Cristhian Loor projects primarily as a GK with a `None` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.3m |
+| Mid | EUR 0.3m |
+| Ceiling | EUR 0.5m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
 
 ## Risk Flags
 

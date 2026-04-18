@@ -5,7 +5,7 @@ tags: [WF, Belarus, Dribbler]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Dribbler.
+summary: WF at —. Archetype: Dribbler.
 person_id: 8262
 backlinks: [dribbler]
 ---
@@ -17,18 +17,25 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Belarus |
 | **Age** | 44 |
 | **Archetype** | [[dribbler]] Dribbler |
 | **Level** | 44 |
 | **Overall** | 50.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Aliaksandr Hleb projects primarily as a WF with a `Dribbler` lean. The strongest database support comes from First Touch, Pass Accuracy, and Pass Range.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -62,10 +69,11 @@ Aliaksandr Hleb projects primarily as a WF with a `Dribbler` lean. The strongest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

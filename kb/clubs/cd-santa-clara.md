@@ -1,24 +1,40 @@
 ---
 title: CD Santa Clara
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: CD Santa Clara. 22 players in database.
+summary: CD Santa Clara. 26 players in database.
 ---
 
 # CD Santa Clara
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 22
+**League**: —  
+**Nation**: —  
+**Players in DB**: 26
+
+## Identity
+
+- Database coverage is deepest in CM (8), WM (5), and WF (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (8), Destroyer (4), and Striker (4) across the current squad.
+- Average available overall grade sits at 64.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[welinton-torrao]] Welinton Torrão | AM | Creator | 38.0 |
+| [[elias-manoel]] Elias Manoel | CF | Sprinter | 71.0 |
+| [[goncalo-paciencia]] Gonçalo Paciência | CF | Striker | 73.0 |
 | [[luquinhas]] Luquinhas | CF | Sprinter-Dribbler | 63.0 |
 | [[frederico-venancio]] Frederico Venâncio | CM | Destroyer-Powerhouse | 67.0 |
 | [[guilherme-romao]] Guilherme Romão | CM | Cover-Creator | 50.0 |
@@ -28,15 +44,17 @@ summary: CD Santa Clara. 22 players in database.
 | [[luiz-adriano]] Luiz Adriano | CM | Striker | 63.0 |
 | [[pedro-ferreira]] Pedro Ferreira | CM | Powerhouse-Dribbler | 65.0 |
 | [[sidney-lima]] Sidney Lima | CM | Destroyer | 67.0 |
-| [[gabriel-batista]] Gabriel Batista | GK | GK | None |
+| [[gabriel-batista]] Gabriel Batista | GK | GK | — |
 | [[gabriel-silva]] Gabriel Silva | WF | Sprinter | 64.0 |
 | [[joao-costa]] João Costa | WF | Creator | 80.0 |
 | [[luis-fernando-santos-oliveira]] Luis Fernando Santos Oliveira | WF | Striker-Creator | 36.0 |
 | [[vinicius-lopes]] Vinícius Lopes | WF | Creator-Striker | 70.0 |
 | [[brenner-lucas-goncalves-santos]] Brenner Lucas Gonçalves Santos | WM | Creator-Striker | 66.0 |
+| [[darlan]] Darlan | WM | Powerhouse-Cover | 67.0 |
 | [[diogo-calila]] Diogo Calila | WM | Creator-Destroyer | 66.0 |
 | [[klismahn]] Klismahn | WM | Creator-Powerhouse | 71.0 |
-| [[a-carter]] A. Carter | None | Creator | None |
-| [[lucas-soares]] Lucas Soares | None | Sprinter-Dribbler | None |
-| [[paulo-victor]] Paulo Victor | None | None | None |
-| [[wendel]] Wendel | None | Striker-Creator | None |
+| [[matheus-pereira]] Matheus Pereira | WM | Creator | 66.0 |
+| A. Carter | — | Creator | — |
+| Lucas Soares | — | Sprinter-Dribbler | — |
+| [[paulo-victor]] Paulo Victor | — | — | — |
+| Wendel | — | Striker-Creator | — |

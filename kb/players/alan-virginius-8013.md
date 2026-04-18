@@ -5,7 +5,7 @@ tags: [WF, Clermont Foot]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at Clermont Foot. Archetype: None.
+summary: WF at Clermont Foot. Archetype: —.
 person_id: 8013
 backlinks: [clermont-foot]
 ---
@@ -18,17 +18,24 @@ backlinks: [clermont-foot]
 |---|---|
 | **Position** | WF |
 | **Club** | Clermont Foot |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 74 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A winger with decent athleticism and willingness to press high, but his decision-making in the final third remains crude—too often taking an extra touch or choosing the wrong passing lane when space opens. He has the frame and pace to trouble defenders down the flank, yet lacks the technical security or footballing intelligence to be consistently dangerous at a higher level. Currently a useful squad option for Clermont, but ceiling-limited by ball retention issues and a tendency to drift out of meaningful positions.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A winger with decent athleticism and willingness to press high, but his decision
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

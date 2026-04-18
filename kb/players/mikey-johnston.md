@@ -1,13 +1,13 @@
 ---
 title: Mikey Johnston
 category: players
-tags: [WF, Sturm Graz, Ireland, Striker]
-updated: 2026-04-17
+tags: [WF, West Bromwich Albion, Ireland, Striker]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: WF at Sturm Graz. Archetype: Striker.
+summary: WF at West Bromwich Albion. Archetype: Striker.
 person_id: 15202
-backlinks: [striker, sturm-graz]
+backlinks: [striker, west-bromwich-albion]
 ---
 
 # Mikey Johnston
@@ -17,7 +17,7 @@ backlinks: [striker, sturm-graz]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | Sturm Graz |
+| **Club** | West Bromwich Albion |
 | **Nation** | Ireland |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker |
@@ -26,50 +26,29 @@ backlinks: [striker, sturm-graz]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Tricky left winger with decent dribbling ability and decent first touch, but lacks consistency, defensive discipline, and end product; potentially useful as an impact substitute but not reliable enough for regular starting duties.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Inverted Winger` with model support score `76`.
-- Primary archetype leans toward `Striker` behaviour from a `WF` base.
-- Most bankable strengths show up in Discipline, Pressing, and Tactical.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Discipline, Pressing, and Tactical.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Composure | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Concentration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Drive | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Penalties | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Discipline | ████████░░ 8/10 |
+| Pressing | ███████░░░ 7/10 |
+| Tactical | ███████░░░ 7/10 |
+| Composure | ██████░░░░ 6/10 |
+| Concentration | ██████░░░░ 6/10 |
+| Drive | ██████░░░░ 6/10 |
+| Intensity | ██████░░░░ 6/10 |
+| Penalties | ██████░░░░ 6/10 |
+| Communication | █████░░░░░ 5/10 |
+| Leadership | █████░░░░░ 5/10 |
+| Mental | ████░░░░░░ 4/10 |
+| Pass Accuracy | ████░░░░░░ 4/10 |
+| Physical | ████░░░░░░ 4/10 |
+| Technical | ████░░░░░░ 4/10 |
+| Aggression | ███░░░░░░░ 3/10 |
 
 ## Personality
 
@@ -79,11 +58,3 @@ Tricky left winger with decent dribbling ability and decent first touch, but lac
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -1,12 +1,13 @@
 ---
 title: Rafinha
 category: players
-tags: [CM, Bolivia]
-updated: 2026-04-17
+tags: [WD, Petrolul Ploieşti, Brazil, Creator-Cover]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CM at None. Archetype: None.
-person_id: 28812
+summary: WD at Petrolul Ploieşti. Archetype: Creator-Cover.
+person_id: 6013
+backlinks: [creator, petrolul-ploiesti]
 ---
 
 # Rafinha
@@ -15,66 +16,48 @@ person_id: 28812
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | None |
-| **Nation** | Bolivia |
-| **Age** | 34 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | 46.0 |
+| **Position** | WD |
+| **Club** | Petrolul Ploieşti |
+| **Nation** | Brazil |
+| **Age** | 28 |
+| **Archetype** | [[creator]] Creator-Cover |
+| **Level** | 81 |
+| **Overall** | 77.0 |
 | **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Rafinha projects primarily as a CM with a `None` lean. The strongest database support comes from Threat, Vision, and Close Range.
-
-## Role Fit
-
-- Best-fit role is `Playmaker` with model support score `70`.
-- Most bankable strengths show up in Threat, Vision, and Close Range.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Threat, Vision, and Close Range.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Threat | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Vision | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| First Touch | ████████████████ 16/10 |
+| Skills | ████████████████ 16/10 |
+| Take Ons | ████████████████ 16/10 |
+| Long Range | ██████████████ 14/10 |
+| Mid Range | ██████████████ 14/10 |
+| Pass Accuracy | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Volleys | ██████████████ 14/10 |
+| Aerial Duels | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Interceptions | ███████████ 11/10 |
+| Marking | ███████████ 11/10 |
+| Tackling | ███████████ 11/10 |
+| Awareness | ███████░░░ 7/10 |
+| Creativity | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
+- **availability** (physical) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
+- **durability** (physical) — severity 1/10
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+## Personality
 
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+- **Game Reading (EI)**: 45
+- **Motivation (SN)**: 61
+- **Social (TF)**: 58
+- **Pressure (JP)**: 47
+- **Competitiveness**: 4/10
+- **Coachability**: 3/10

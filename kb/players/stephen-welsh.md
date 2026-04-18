@@ -2,7 +2,7 @@
 title: Stephen Welsh
 category: players
 tags: [CD, Motherwell, Scotland, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Motherwell. Archetype: Powerhouse-Cover.
@@ -26,54 +26,34 @@ backlinks: [powerhouse, motherwell]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Stephen Welsh projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Jumping, Acceleration, and Heading.
-
-## Role Fit
-
-- Best-fit role is `Distributor` with model support score `75`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Jumping, Acceleration, and Heading.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Acceleration, and Heading.
-- Style traits point toward Tackling Ability, Defensive Awareness, and Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor, Positional Discipline, and Press Resistant.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Acceleration | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Long Range | ████████████ 12/10 |
+| Vision | ████████████ 12/10 |
+| Movement | ███████████ 11/10 |
+| Stamina | ███████████ 11/10 |
+| Take Ons | ███████████ 11/10 |
+| Discipline | ████████░░ 8/10 |
+| Crossing | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- **build_up_contributor** (tactical) — severity 9/10
+- **positional_discipline** (tactical) — severity 6/10
+- **press_resistant** (tactical) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
 
 ## Personality
 
@@ -83,20 +63,3 @@ Stephen Welsh projects primarily as a CD with a `Powerhouse-Cover` lean. The str
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 9/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Press Resistant** (tactical) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: T. Nikitscher
 category: players
 tags: [DM, Rio Ave, Cover-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: DM at Rio Ave. Archetype: Cover-Creator.
@@ -26,53 +26,34 @@ backlinks: [cover, rio-ave]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Nikitscher is a classic Terrier Anchor, whose strong mental fortitude and excellent defensive instincts in awareness, tackling, and guile make him an effective ball-winner and build-up contributor in a high-pressing setup. He fits the mold of a diligent holding midfielder from a system focused on quickly winning possession and initiating attacks from deep, reminiscent of energetic anchors. A Director of Football would value his reliability and positional intelligence, though his limited creativity and restricted close and mid-range passing suggest he's best suited for a team where creative impetus comes from other midfield areas.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Anchor` with model support score `73`.
-- Primary archetype leans toward `Cover` behaviour from a `DM` base.
-- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
-- Most bankable strengths show up in Aggression, Awareness, and Duels.
-
-## In Possession
-
-- Ball-value indicators lean on Aggression, Awareness, and Duels.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Aggression | █████████░ 9/10 |
+| Awareness | █████████░ 9/10 |
+| Duels | █████████░ 9/10 |
+| Interceptions | █████████░ 9/10 |
+| Tackling | █████████░ 9/10 |
+| Blocking | ████████░░ 8/10 |
+| Flair | ████████░░ 8/10 |
+| Pass Accuracy | ████████░░ 8/10 |
+| Composure | ███████░░░ 7/10 |
+| Long Range | ███████░░░ 7/10 |
+| Physical | ███████░░░ 7/10 |
+| Pressing | ███████░░░ 7/10 |
+| Skills | ███████░░░ 7/10 |
+| Tactical | ███████░░░ 7/10 |
+| Take Ons | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 8/10
+- **build_up_contributor** (tactical) — severity 5/10
 
 ## Personality
 
@@ -82,17 +63,3 @@ Nikitscher is a classic Terrier Anchor, whose strong mental fortitude and excell
 - **Pressure (JP)**: 61
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 8/10
-- **Build Up Contributor** (tactical) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

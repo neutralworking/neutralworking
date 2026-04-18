@@ -5,7 +5,7 @@ tags: [WM, Sweden, Sprinter-Dribbler]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WM at None. Archetype: Sprinter-Dribbler.
+summary: WM at —. Archetype: Sprinter-Dribbler.
 person_id: 11177
 backlinks: [sprinter]
 ---
@@ -17,18 +17,25 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Sweden |
 | **Age** | 49 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WM		Playmaker		Arsenal	SWE	B	0.0	He was most comfortable on either wing in midfield, which were unfounded. It transpired that he was suffering from blood poisoning caused by his large tattoos.		He began his career at Halmstads BK and went on to spend most of his career at Arsenal, where he won honours including two Premier League titles and three FA Cups, scoring in two finals including the victory in 2002. After leaving Arsenal in 2007, he had short spells at a number of clubs in England, Scotland, the United States, Japan and India. An international for a full decade, Ljungberg earned 75 caps and was captain of the Swedish national team until he announced his international retirement after UEFA Euro 2008.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -59,10 +66,11 @@ WM		Playmaker		Arsenal	SWE	B	0.0	He was most comfortable on either wing in midfi
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

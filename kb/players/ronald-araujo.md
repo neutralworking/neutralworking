@@ -2,7 +2,7 @@
 title: Ronald Araujo
 category: players
 tags: [CD, Barcelona, Uruguay, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Barcelona. Archetype: Destroyer-Powerhouse.
@@ -26,58 +26,41 @@ backlinks: [destroyer, barcelona]
 | **Pursuit** | Interested |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Physically dominant CB. Raw pace, aerial power, and aggression in duels make him a nightmare for strikers. On-ball game improving under Xavi/Flick. Injury record a concern — long-term hamstring issues. Versatile enough to play RB in emergencies. Uruguay captain material.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Stopper` with model support score `74`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Reactions, Aerial Duels, and Aggression.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Aerial Duels, and Aggression.
-- Style traits point toward Positioning, Aerial Ability, and Acrobatic in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Aerial Duels | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Clearances | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Duels | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Tackling | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Reactions | █████████████████ 17/10 |
+| Aerial Duels | ███████████████ 15/10 |
+| Aggression | ███████████████ 15/10 |
+| Clearances | ███████████████ 15/10 |
+| Duels | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Tackling | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Awareness | ██████████████ 14/10 |
+| Blocking | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Intensity | ██████████████ 14/10 |
+| Interceptions | ██████████████ 14/10 |
+| Long Range | ██████████████ 14/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **availability** (physical) — severity 10/10
+- **aerial_threat** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 9/10
+- **Positioning** (style) — severity 8/10
+- **Aerial Ability** (style) — severity 5/10
+- **Acrobatic** (style) — severity 5/10
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -87,28 +70,6 @@ Physically dominant CB. Raw pace, aerial power, and aggression in duels make him
 - **Pressure (JP)**: 67
 - **Competitiveness**: 7/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Aerial Threat** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 9/10
-- **Positioning** (style) — severity 8/10
-- **Aerial Ability** (style) — severity 5/10
-- **Acrobatic** (style) — severity 5/10
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

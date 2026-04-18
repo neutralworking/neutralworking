@@ -2,7 +2,7 @@
 title: Wilfried Gnonto
 category: players
 tags: [WF, Leeds United, Italy, Creator]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WF at Leeds United. Archetype: Creator.
@@ -26,52 +26,35 @@ backlinks: [creator, leeds-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Italian winger with electric pace and the ability to shift defenders with sharp footwork in tight spaces, showing genuine technical security on the ball. He's a valuable attacking outlet with strong pressing intensity, but his final ball remains inconsistent and he can be isolated when the team loses midfield control—he's very good playing on the break but less effective as a primary creative outlet.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker`.
-- Primary archetype leans toward `Creator` behaviour from a `WF` base.
-- Most bankable strengths show up in Acceleration, Balance, and Shielding.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Balance, and Shielding.
-- Style traits point toward Two Footed, Acceleration, and Pace in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Acceleration | █████████████████ 17/10 |
+| Balance | █████████████████ 17/10 |
+| Shielding | █████████████████ 17/10 |
+| Jumping | ████████████████ 16/10 |
+| Long Range | ████████████████ 16/10 |
+| Take Ons | ████████████████ 16/10 |
+| Composure | ███████████████ 15/10 |
+| First Touch | ███████████████ 15/10 |
+| Close Range | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Pass Accuracy | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Mid Range | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Two Footed** (style) — severity 7/10
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
 
 ## Personality
 
@@ -81,22 +64,6 @@ Italian winger with electric pace and the ability to shift defenders with sharp 
 - **Pressure (JP)**: 38
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -22,13 +22,19 @@ backlinks: [gk, al-ittihad]
 | **Age** | 39 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 At 39, he's well past his prime, and while goalkeepers age better than outfield players, there's only so much experience can compensate for when reflexes have genuinely dulled. He'll make the saves he expects to make—his positioning is sound—but the ones that require genuine athleticism now find the net. He's a squad number for a club that views the position as settled; any meaningful playing time is a red flag.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -46,10 +52,10 @@ At 39, he's well past his prime, and while goalkeepers age better than outfield 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

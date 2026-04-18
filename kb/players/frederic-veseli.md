@@ -23,14 +23,19 @@ backlinks: [creator, fatih-karagumruk]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 66 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Frédéric Veseli, also known as Freddie Veseli, is a professional footballer who plays as a defender for Süper Lig club Fatih Karagümrük and the Albania national team. His main position is center back, but he can also play at right-back and left-back. Veseli began his youth career with FC Renens and later joined Manchester City and Manchester United. He has also played for clubs such as Ipswich Town, Bury, Port Vale, Lugano, Empoli, Le Mans, Salernitana, and Benevento. Veseli represented Switzerland at various youth levels before accepting an invitation from the Albania national team in 2015. He was named in the squad for UEFA Euro 2016. [^1]
+Frédéric Veseli, also known as Freddie Veseli, is a professional footballer who plays as a defender for Süper Lig club Fatih Karagümrük and the Albania national team. His main position is center back, but he can also play at right-back and left-back. Veseli began his youth career with FC Renens and later joined Manchester City and Manchester United. He has also played for clubs such as Ipswich Town, Bury, Port Vale, Lugano, Empoli, Le Mans, Salernitana, and Benevento. Veseli represented Switzerland at various youth levels before accepting an invitation from the Albania national team in 2015. He was named in the squad for UEFA Euro 2016.
 
-[^1]: https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Veseli
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -68,13 +73,14 @@ Frédéric Veseli, also known as Freddie Veseli, is a professional footballer wh
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -111,8 +117,6 @@ Frédéric Veseli, also known as Freddie Veseli, is a professional footballer wh
 <details>
 <summary>Raw scouting narrative</summary>
 
-Frédéric Veseli, also known as Freddie Veseli, is a professional footballer who plays as a defender for Süper Lig club Fatih Karagümrük and the Albania national team. His main position is center back, but he can also play at right-back and left-back. Veseli began his youth career with FC Renens and later joined Manchester City and Manchester United. He has also played for clubs such as Ipswich Town, Bury, Port Vale, Lugano, Empoli, Le Mans, Salernitana, and Benevento. Veseli represented Switzerland at various youth levels before accepting an invitation from the Albania national team in 2015. He was named in the squad for UEFA Euro 2016. [^1]
-
-[^1]: https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Veseli
+Frédéric Veseli, also known as Freddie Veseli, is a professional footballer who plays as a defender for Süper Lig club Fatih Karagümrük and the Albania national team. His main position is center back, but he can also play at right-back and left-back. Veseli began his youth career with FC Renens and later joined Manchester City and Manchester United. He has also played for clubs such as Ipswich Town, Bury, Port Vale, Lugano, Empoli, Le Mans, Salernitana, and Benevento. Veseli represented Switzerland at various youth levels before accepting an invitation from the Albania national team in 2015. He was named in the squad for UEFA Euro 2016.
 
 </details>

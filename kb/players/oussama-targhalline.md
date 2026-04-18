@@ -2,7 +2,7 @@
 title: Oussama Targhalline
 category: players
 tags: [CM, Feyenoord, Morocco, Dribbler-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Feyenoord. Archetype: Dribbler-Powerhouse.
@@ -26,58 +26,40 @@ backlinks: [dribbler, feyenoord]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Oussama Targhalline, a Warrior archetype playing as a Technical Midfielder, is best suited as a Tuttocampista, displaying a robust physical and mental profile alongside strong technical attributes like pass range, accuracy, composure, and first touch. He is an effective build-up contributor with good take-ons, excelling in ball progression and high-pressing scenarios. This player's profile aligns with the modern engine room midfielder, combining technical prowess with physical presence, capable of influencing both phases of play from deep, a role that has evolved from the traditional box-to-box type. At 23, Targhalline represents a high-value asset for clubs seeking a durable central midfielder who can anchor the build-up and contribute to pressing schemes, though his limited creativity and discipline are risk factors that would require careful management.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `80`.
-- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
-- Most bankable strengths show up in Balance, Reactions, and Marking.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Reactions, and Marking.
-- Style traits point toward Close Control, Long Range Passing, and Tackling Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Crossing | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Balance | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Marking | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Stamina | █████████████ 13/10 |
+| Heading | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Jumping | ███████████ 11/10 |
+| Penalties | ███████████ 11/10 |
+| Volleys | ███████████ 11/10 |
+| Acceleration | ██████████ 10/10 |
+| Pace | ██████████ 10/10 |
+| Aggression | █████████░ 9/10 |
+| Awareness | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **availability** (physical) — severity 10/10
+- **high_press** (tactical) — severity 7/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **Close Control** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -87,23 +69,3 @@ Oussama Targhalline, a Warrior archetype playing as a Technical Midfielder, is b
 - **Pressure (JP)**: 34
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **High Press** (tactical) — severity 7/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Close Control** (style) — severity 4/10
-- **Long Range Passing** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

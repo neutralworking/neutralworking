@@ -2,17 +2,31 @@
 title: Getafe
 category: clubs
 tags: [La Liga, Spain]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Getafe. 27 players in database.
+summary: Getafe. 29 players in database.
 ---
 
 # Getafe
 
 **League**: La Liga  
 **Nation**: Spain  
-**Players in DB**: 27
+**Players in DB**: 29
+
+## Identity
+
+- Database coverage is deepest in CM (7), WD (6), and CD (5), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (6), Striker (5), and Creator (4) across the current squad.
+- Average available overall grade sits at 63.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -25,10 +39,11 @@ summary: Getafe. 27 players in database.
 | [[zaid-romero]] Zaid Romero | CD | Powerhouse | 71.0 |
 | [[borja-mayoral]] Borja Mayoral | CF | Striker-Cover | 72.0 |
 | [[jaime-mata]] Jaime Mata | CF | Striker | 55.0 |
-| [[martin-satriano]] Martín Satriano | CF | Striker-Destroyer | 74.0 |
+| [[luis-vazquez]] Luis Vázquez | CF | Striker-Target | 67.0 |
 | [[a-nyom]] A. Nyom | CM | Creator-Destroyer | 28.0 |
 | [[abdoulaye-kamara]] Abdoulaye Kamara | CM | Sprinter | 59.0 |
 | [[davinchi]] Davinchi | CM | Destroyer | 43.0 |
+| [[javi-munoz]] Javi Muñoz | CM | Engine-Sprinter | 54.0 |
 | [[luis-milla]] Luis Milla | CM | Creator | 71.0 |
 | [[mario-martin]] Mario Martín | CM | Sprinter-Dribbler | 61.0 |
 | [[mauro-arambarri]] Mauro Arambarri | CM | Striker-Destroyer | 72.0 |
@@ -40,8 +55,9 @@ summary: Getafe. 27 players in database.
 | [[juan-iglesias]] Juan Iglesias | WD | Sprinter | 75.0 |
 | [[kiko-femenia]] Kiko Femenía | WD | Destroyer | 60.0 |
 | [[juanmi]] Juanmi | WF | Striker | 71.0 |
+| [[veljko-birmancevic]] Veljko Birmančević | WF | Sprinter-Dribbler | 73.0 |
 | [[coba]] Coba | WM | Cover | 31.0 |
-| [[adrian-liso]] Adrian Liso | None | Cover | None |
-| [[alex-sancris]] Alex Sancris | None | Creator-Dribbler | None |
-| [[d-dakonam]] D. Dakonam | None | Destroyer | None |
-| [[y-neyou]] Y. Neyou | None | Dribbler-Destroyer | None |
+| Adrian Liso | — | Cover | — |
+| Alex Sancris | — | Creator-Dribbler | — |
+| D. Dakonam | — | Destroyer | — |
+| Y. Neyou | — | Dribbler-Destroyer | — |

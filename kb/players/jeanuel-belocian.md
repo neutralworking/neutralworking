@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Bayer Leverkusen. Archetype: Cover-Dribbler.
 person_id: 12513
-backlinks: [cover, bayer-leverkusen]
+backlinks: [cover, sweeper, bayer-leverkusen]
 ---
 
 # Jeanuël Belocian
@@ -21,18 +21,26 @@ backlinks: [cover, bayer-leverkusen]
 | **Nation** | France |
 | **Age** | 21 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A promising French left-back with athletic tools and decent crossing ability; he's capable of contributing in build-up play and isn't a liability defensively. At 21, he's still in the learning phase and will be inconsistent against elite wingers—he's a prospect, not yet a finished article.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
+- Best-fit role is [[sweeper]] Sweeper.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Aggression, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A promising French left-back with athletic tools and decent crossing ability; he
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 11.4m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

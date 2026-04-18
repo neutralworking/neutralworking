@@ -2,7 +2,7 @@
 title: Daniel Edelman
 category: players
 tags: [CM, New York Red Bulls, United States, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at New York Red Bulls. Archetype: Powerhouse.
@@ -23,12 +23,19 @@ backlinks: [powerhouse, new-york-red-bulls]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 71 |
 | **Overall** | 55.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Edelman's Terrier archetype and Tuttocampista role indicate a player with strong aggression and stamina, but his limited technical ability and discipline are weaknesses, and he would be well-suited to a high-intensity, counter-pressing system, where his extraverted and structured personality can shine, and a club seeking a young, energetic midfielder would appreciate his skills, although his lack of tactical nuance and composure under pressure pose risks, and a team requiring a more refined, possession-based approach may not be the best fit, but his strong physicality and heading ability make him a valuable asset, and his one-club career suggests he may require time to adapt to a new environment.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Edelman's Terrier archetype and Tuttocampista role indicate a player with strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +102,7 @@ Edelman's Terrier archetype and Tuttocampista role indicate a player with strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

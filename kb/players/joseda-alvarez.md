@@ -2,10 +2,10 @@
 title: Joseda Álvarez
 category: players
 tags: [WD, Alavés, Spain]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at Alavés. Archetype: None.
+summary: WD at Alavés. Archetype: —.
 person_id: 13009
 backlinks: [alaves]
 ---
@@ -20,15 +20,22 @@ backlinks: [alaves]
 | **Club** | Alavés |
 | **Nation** | Spain |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left winger with genuine pace and directness who thrives on the transition, particularly when Alaves are breaking at speed down the flank. His low centre of gravity and explosive first step allow him to create separation from full-backs in the half-space, and he's capable of both the driven cutback and the occasional incisive through-ball. The significant limitation is his top-speed decision-making—he can hurry his final pass under pressure and doesn't yet possess the spatial awareness to consistently pick out runners in congested areas. For a La Liga side operating in the lower half, he's a functional, occasionally dangerous winger, but he'll need to mature his end-product to graduate to European-level consistency.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A left winger with genuine pace and directness who thrives on the transition, pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A left winger with genuine pace and directness who thrives on the transition, pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

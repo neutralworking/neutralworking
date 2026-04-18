@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Barnsley. Archetype: Powerhouse.
 person_id: 13071
-backlinks: [powerhouse, barnsley]
+backlinks: [powerhouse, tuttocampista, barnsley]
 ---
 
 # Josh Scowen
@@ -21,18 +21,26 @@ backlinks: [powerhouse, barnsley]
 | **Nation** | England |
 | **Age** | 33 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Josh Scowen, a veteran 'Powerhouse' Relayeur, epitomizes relentless work rate and combativeness in midfield, boasting exceptional stamina, aggression, and aerial prowess. While he's a fantastic ball-winner and shielder, his dire tactical, mental, and technical shortcomings severely hinder his ability to read the game, make intelligent decisions, or contribute meaningfully in possession, often reducing him to a mere disruptive presence.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Balance, and Jumping.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Josh Scowen, a veteran 'Powerhouse' Relayeur, epitomizes relentless work rate an
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

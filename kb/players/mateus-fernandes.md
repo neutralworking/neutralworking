@@ -2,7 +2,7 @@
 title: Mateus Fernandes
 category: players
 tags: [CM, West Ham United, Portugal, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at West Ham United. Archetype: Sprinter-Dribbler.
@@ -26,54 +26,40 @@ backlinks: [sprinter, west-ham-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 A young Warrior archetype suited as a Relayeur, Fernandes offers moderate technical and physical attributes with a limited tactical understanding. His ability to progress the ball through carries and accurate passing from deep, combined with good first touch and shielding, points to a player capable of linking play, though his performance in duels and defensive blocking is a clear area for development. His flamboyant style means he enjoys being on the ball and contributing to build-up. This profile hints at a midfielder who could thrive in a high-intensity system that values transitions and progressive movement, providing energy in central areas. At 21, Fernandes represents a developmental asset, currently best suited for a club looking to invest in a build-up contributor with room to grow tactically and defensively, despite risks associated with his discipline and lack of defensive solidity.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `85`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
-- Most bankable strengths show up in Balance, Creativity, and First Touch.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Creativity, and First Touch.
-- Style traits point toward Flamboyant, Two Footed, and Skill Moves in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor, Progressive Carrier, and High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Creativity | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Flair | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Threat | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Vision | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Balance | █████████████████ 17/10 |
+| Creativity | ████████████████ 16/10 |
+| First Touch | ████████████████ 16/10 |
+| Flair | ████████████████ 16/10 |
+| Shielding | ████████████████ 16/10 |
+| Threat | ████████████████ 16/10 |
+| Vision | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Crossing | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Pass Accuracy | ███████████████ 15/10 |
+| Pass Range | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| Through Balls | ███████████████ 15/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **build_up_contributor** (tactical) — severity 7/10
+- **flamboyant** (style) — severity 7/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **progressive_carrier** (tactical) — severity 6/10
+- **high_press** (tactical) — severity 6/10
+- **Press Proven** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
 
 ## Personality
 
@@ -83,23 +69,3 @@ A young Warrior archetype suited as a Relayeur, Fernandes offers moderate techni
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Flamboyant** (style) — severity 7/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Progressive Carrier** (tactical) — severity 6/10
-- **High Press** (tactical) — severity 6/10
-- **Press Proven** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

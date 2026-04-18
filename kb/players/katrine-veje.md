@@ -5,7 +5,7 @@ tags: [CM, Montpellier, Denmark]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Montpellier. Archetype: None.
+summary: CM at Montpellier. Archetype: —.
 person_id: 13372
 backlinks: [montpellier]
 ---
@@ -20,15 +20,22 @@ backlinks: [montpellier]
 | **Club** | Montpellier |
 | **Nation** | Denmark |
 | **Age** | 34 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A 34-year-old centre-back in the women's game who is clearly experienced and provides leadership, but her physical capabilities have diminished and she's now largely a positional, reading-based defender. She won't be winning many athletic duels at this stage of her career. She's a seasoned pro providing depth and mentorship in a lower-tier European women's league.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A 34-year-old centre-back in the women's game who is clearly experienced and pro
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

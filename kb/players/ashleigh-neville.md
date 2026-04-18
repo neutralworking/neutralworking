@@ -5,7 +5,7 @@ tags: [WD, OM, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at OM. Archetype: None.
+summary: WD at OM. Archetype: —.
 person_id: 8758
 backlinks: [om]
 ---
@@ -20,15 +20,21 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | England |
 | **Age** | 32 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 71 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Reliable defensive midfielder offering energy and workrate, but not particularly creative or technically gifted. At 32, she's serviceable rotation but unlikely to elevate a side's quality significantly.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +51,10 @@ Reliable defensive midfielder offering energy and workrate, but not particularly
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

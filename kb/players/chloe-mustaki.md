@@ -2,10 +2,10 @@
 title: Chloe Mustaki
 category: players
 tags: [CD, Bristol City]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Bristol City. Archetype: None.
+summary: CD at Bristol City. Archetype: —.
 person_id: 9540
 backlinks: [bristol-city]
 ---
@@ -18,17 +18,23 @@ backlinks: [bristol-city]
 |---|---|
 | **Position** | CD |
 | **Club** | Bristol City |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A women's footballer operating in the WSL with reasonable athleticism but limited technical range and occasional awareness gaps in defensive positioning. She's a depth player competing at this level without standing out; consistent, unremarkable.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +51,10 @@ A women's footballer operating in the WSL with reasonable athleticism but limite
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -68,5 +74,5 @@ A women's footballer operating in the WSL with reasonable athleticism but limite
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -1,18 +1,32 @@
 ---
 title: Monterrey
 category: clubs
-tags: [None, Mexico]
-updated: 2026-04-14
+tags: [Mexico]
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Monterrey. 18 players in database.
+summary: Monterrey. 17 players in database.
 ---
 
 # Monterrey
 
-**League**: None  
+**League**: —  
 **Nation**: Mexico  
-**Players in DB**: 18
+**Players in DB**: 17
+
+## Identity
+
+- Database coverage is deepest in CM (6), CF (3), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Striker (6), Creator (4), and Gk (2) across the current squad.
+- Average available overall grade sits at 60.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -29,10 +43,9 @@ summary: Monterrey. 18 players in database.
 | [[l-reyes]] L. Reyes | CM | Creator | 60.0 |
 | [[r-chavez]] R. Chávez | CM | Destroyer-Creator | 63.0 |
 | [[sergio-canales]] Sergio Canales | CM | Dribbler | 66.0 |
-| [[v-guzman]] V. Guzmán | CM | Cover | 64.0 |
-| [[l-cardenas]] L. Cárdenas | GK | GK | None |
-| [[jesus-corona]] Jesus Corona | WF | Creator | 71.0 |
+| [[l-cardenas]] L. Cárdenas | GK | GK | — |
+| [[s-mele]] S. Mele | GK | GK | — |
 | [[luca-orellano]] Luca Orellano | WF | Sprinter-Passer | 71.0 |
 | [[lucas-ocampos]] Lucas Ocampos | WF | Striker | 65.0 |
-| [[c-ramos]] C. Ramos | None | Striker-Cover | None |
-| [[joaquin-alejandro-moxica-chapa]] Joaquin Alejandro Moxica Chapa | None | Striker | None |
+| C. Ramos | — | Striker-Cover | — |
+| Joaquin Alejandro Moxica Chapa | — | Striker | — |

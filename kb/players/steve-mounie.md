@@ -2,7 +2,7 @@
 title: Steve Mounié
 category: players
 tags: [CF, Alanyaspor, Benin, Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Alanyaspor. Archetype: Striker.
@@ -26,59 +26,38 @@ backlinks: [striker, alanyaspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 A powerful, physical centre-forward who uses his frame to shield possession and hold play up in the final third, allowing teammates to advance around him—he's genuinely effective at this holding role and understands how to receive on the half-turn. His limitations are significant: he's not a goal scorer in any real sense (his finishing is unreliable), he lacks the movement to create space in the box, and his technical ability is limited, meaning he can't operate in more fluid, possession-based systems. At 31, he's a battering ram at this level—useful if you want a target man, but nothing approaching elite.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Target Forward` with model support score `75`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Counter Attack Threat.
-- Most bankable strengths show up in Jumping, Physical, and Movement.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Physical, and Movement.
-- Style traits point toward Direct and Aerial Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Counter Attack Threat.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Volleys | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Heading | █████████████████ 17/10 |
+| Jumping | █████████████████ 17/10 |
+| Physical | █████████████████ 17/10 |
+| First Touch | ███████████████ 15/10 |
+| Reactions | ██████████████ 14/10 |
+| Volleys | ██████████████ 14/10 |
+| Stamina | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Acceleration | ███████████ 11/10 |
+| Balance | ███████████ 11/10 |
+| Shielding | ██████████ 10/10 |
+| Aggression | ████████░░ 8/10 |
+| Interceptions | ████████░░ 8/10 |
+| Tackling | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Output may be more transition-dependent than possession-dominant environments want.
+- **availability** (physical) — severity 10/10
+- **direct** (style) — severity 5/10
+- **counter_attack_threat** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 5/10
+- **Aerial Ability** (style) — severity 5/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -88,21 +67,3 @@ A powerful, physical centre-forward who uses his frame to shield possession and 
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Direct** (style) — severity 5/10
-- **Counter Attack Threat** (tactical) — severity 5/10
-- **Hot Headed** (behavioral) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

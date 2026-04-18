@@ -2,7 +2,7 @@
 title: Younes Namli
 category: players
 tags: [CM, Le Havre, Denmark, Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Le Havre. Archetype: Striker.
@@ -26,54 +26,33 @@ backlinks: [striker, le-havre]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Veteran midfielder whose experience and understanding of space occasionally sparkle, though he has clearly lost the intensity and press resistance that likely made him useful at a higher level. Limited athleticism and declining effectiveness; a squad depth option rather than a meaningful contributor.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `75`.
-- Primary archetype leans toward `Striker` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Set Piece Specialist.
-- Most bankable strengths show up in Threat, Vision, and Close Range.
-
-## In Possession
-
-- Ball-value indicators lean on Threat, Vision, and Close Range.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Set Piece Specialist.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Threat | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Vision | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Take Ons | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Threat | ██████████ 10/10 |
+| Vision | ██████████ 10/10 |
+| Close Range | █████████░ 9/10 |
+| Creativity | █████████░ 9/10 |
+| Mid Range | █████████░ 9/10 |
+| Composure | ████████░░ 8/10 |
+| Skills | ████████░░ 8/10 |
+| Take Ons | ████████░░ 8/10 |
+| Through Balls | ████████░░ 8/10 |
+| Aggression | ███████░░░ 7/10 |
+| Crossing | ███████░░░ 7/10 |
+| Discipline | ███████░░░ 7/10 |
+| Duels | ███████░░░ 7/10 |
+| Flair | ███████░░░ 7/10 |
+| Long Range | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- **set_piece_specialist** (tactical) — severity 5/10
 
 ## Personality
 
@@ -83,16 +62,3 @@ Veteran midfielder whose experience and understanding of space occasionally spar
 - **Pressure (JP)**: 37
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Set Piece Specialist** (tactical) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

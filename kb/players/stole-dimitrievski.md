@@ -2,7 +2,7 @@
 title: Stole Dimitrievski
 category: players
 tags: [GK, Valencia, North Macedonia, GK]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at Valencia. Archetype: GK.
@@ -26,56 +26,34 @@ backlinks: [gk, valencia]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Experienced goalkeeper with solid distribution and organizational skills, making him more functional than many backups. However, at 32 his reflexes are declining and he's not capable of stabilizing an underperforming defense.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Sweeper Keeper`.
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Reactions, Physical, and Jumping.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Physical, and Jumping.
-- Style traits point toward Far Throw and Footwork in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Acceleration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Mental | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Reactions | ███████████████ 15/10 |
+| Physical | ██████████████ 14/10 |
+| Jumping | █████████████ 13/10 |
+| Pace | ████████░░ 8/10 |
+| Stamina | ████████░░ 8/10 |
+| Acceleration | ███████░░░ 7/10 |
+| Mental | ███████░░░ 7/10 |
+| Tactical | ███████░░░ 7/10 |
+| Technical | ██████░░░░ 6/10 |
+| Aggression | ███░░░░░░░ 3/10 |
+| Awareness | ██░░░░░░░░ 2/10 |
+| Intensity | ██░░░░░░░░ 2/10 |
+| Carries | █░░░░░░░░░ 1/10 |
+| Creativity | █░░░░░░░░░ 1/10 |
+| Through Balls | █░░░░░░░░░ 1/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Far Throw** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
 
 ## Personality
 
@@ -85,17 +63,3 @@ Experienced goalkeeper with solid distribution and organizational skills, making
 - **Pressure (JP)**: 56
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Far Throw** (style) — severity 5/10
-- **Footwork** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -1,12 +1,12 @@
 ---
 title: Simon Mignolet
 category: players
-tags: [GK, Club Brugge, GK]
-updated: 2026-04-17
+tags: [GK, Club Brugge, Belgium, GK]
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at Club Brugge. Archetype: GK.
-person_id: 17459
+person_id: 6744
 backlinks: [gk, club-brugge]
 ---
 
@@ -18,75 +18,42 @@ backlinks: [gk, club-brugge]
 |---|---|
 | **Position** | GK |
 | **Club** | Club Brugge |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | Belgium |
+| **Age** | 38 |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
+| **Level** | 78 |
+| **Overall** | 76.0 |
 | **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Simon Mignolet projects primarily as a GK with a `GK` lean. The strongest database support comes from Reactions, Jumping, and Physical.
-
-## Role Fit
-
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Reactions, Jumping, and Physical.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Jumping, and Physical.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Pace | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Stamina | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Close Range | ████████████████ 16/10 |
+| Reactions | ███████████████ 15/10 |
+| Jumping | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Positioning | ███████████ 11/10 |
+| Acceleration | ██████████ 10/10 |
+| Pace | ██████████ 10/10 |
+| Pass Range | ████████░░ 8/10 |
+| Aggression | ███████░░░ 7/10 |
+| Technical | ███████░░░ 7/10 |
+| Through Balls | ███████░░░ 7/10 |
+| Stamina | ██████░░░░ 6/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Metric coverage is shallow relative to a full dossier standard.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Cross Claimer** (style) — severity 5/10
+- **Footwork** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
 
 ## Personality
 
-- **Game Reading (EI)**: 69
-- **Motivation (SN)**: 20
+- **Game Reading (EI)**: 58
+- **Motivation (SN)**: 29
 - **Social (TF)**: 34
 - **Pressure (JP)**: 26
 - **Competitiveness**: 3/10
-- **Coachability**: 7/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+- **Coachability**: 4/10

@@ -2,12 +2,12 @@
 title: Joel Roman
 category: players
 tags: [CF, Sportivo Trinidense, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Sportivo Trinidense. Archetype: None.
+summary: CF at Sportivo Trinidense. Archetype: —.
 person_id: 30224
-backlinks: [sportivo-trinidense]
+backlinks: [seconda-punta, sportivo-trinidense]
 ---
 
 # Joel Roman
@@ -20,19 +20,28 @@ backlinks: [sportivo-trinidense]
 | **Club** | Sportivo Trinidense |
 | **Nation** | Paraguay |
 | **Age** | 36 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 28 |
+| **Level** | — |
 | **Overall** | 26.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Joel Roman projects primarily as a CF with a `None` lean. The strongest database support comes from Communication, Concentration, and Drive.
+Joel Roman projects primarily as a CF with a `—` lean. The strongest database support comes from Communication, Concentration, and Drive.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `28`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `28`.
 - Most bankable strengths show up in Communication, Concentration, and Drive.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -62,8 +71,9 @@ Joel Roman projects primarily as a CF with a `None` lean. The strongest database
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +84,4 @@ Joel Roman projects primarily as a CF with a `None` lean. The strongest database
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |

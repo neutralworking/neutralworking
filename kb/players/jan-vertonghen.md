@@ -2,12 +2,12 @@
 title: Jan Vertonghen
 category: players
 tags: [CD, Anderlecht, Belgium, Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Anderlecht. Archetype: Engine.
 person_id: 12391
-backlinks: [engine, anderlecht]
+backlinks: [engine, stopper, anderlecht]
 ---
 
 # Jan Vertonghen
@@ -21,18 +21,27 @@ backlinks: [engine, anderlecht]
 | **Nation** | Belgium |
 | **Age** | 38 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 57 |
 | **Level** | 63 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fossil in the best sense: still positionally excellent and left-footed progressive from the back, with an almost preternatural reading of space that age has only sharpened. His aerobic capacity and explosive power have evaporated, which means he cannot recover against quick, direct attackers and looks increasingly vulnerable on the turn. At 38, playing for Anderlecht, he remains a useful footballer—intelligent, ball-playing, capable of steering a match from deep—but he's no longer a centre-back you'd trust in a genuinely athletic contest.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `57`.
+- Best-fit role is [[stopper]] Stopper with model support score `57`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Composure, and Marking.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -66,10 +75,11 @@ A fossil in the best sense: still positionally excellent and left-footed progres
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A fossil in the best sense: still positionally excellent and left-footed progres
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

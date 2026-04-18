@@ -23,12 +23,19 @@ backlinks: [cover, borussia-monchengladbach]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 55 |
 | **Overall** | 49.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-sided centre-back with genuine technical quality and composure in possession—he'll progress the ball into the half-space with conviction and isn't afraid of the ball at his feet. At 20, he's still learning the positional discipline required to defend transitions cleanly, and his physical profile (a touch lean) occasionally shows when dealing with direct, aggressive forward play. He's a prospect with real upside, but not yet a finished article at Bundesliga level.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,11 +72,12 @@ A left-sided centre-back with genuine technical quality and composure in possess
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.3m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

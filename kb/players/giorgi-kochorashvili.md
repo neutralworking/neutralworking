@@ -1,13 +1,11 @@
 ---
 title: Giorgi Kochorashvili
 category: players
-tags: [CM, Sporting CP
-, Georgia, Powerhouse-Creator]
-updated: 2026-04-17
+tags: [CM, Sporting CP, Georgia, Powerhouse-Creator]
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at Sporting CP
-. Archetype: Powerhouse-Creator.
+summary: CM at Sporting CP. Archetype: Powerhouse-Creator.
 person_id: 11422
 backlinks: [powerhouse, sporting-cp]
 ---
@@ -19,19 +17,25 @@ backlinks: [powerhouse, sporting-cp]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Sporting CP
- |
+| **Club** | Sporting CP |
 | **Nation** | Georgia |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse-Creator |
 | **Level** | 84 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Kochorashvili epitomizes the Tuttocampista, a Powerhouse-Creator whose strong physical and mental pillars enable relentless shielding, stamina, and high-press duties, making him an impactful build-up contributor. Despite good long-range passing and accuracy, his overall technical output and creativity are limited, compounded by a restricted tactical understanding. At his peak at Sporting CP, his robust market value appeals to clubs prioritizing energetic midfielders for high-intensity systems, provided they have the structure to compensate for his tactical and creative deficiencies.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -66,13 +70,14 @@ Kochorashvili epitomizes the Tuttocampista, a Powerhouse-Creator whose strong ph
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +104,7 @@ Kochorashvili epitomizes the Tuttocampista, a Powerhouse-Creator whose strong ph
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

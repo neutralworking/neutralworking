@@ -1,8 +1,8 @@
 ---
 title: Dynamo Kyiv
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Dynamo Kyiv. 22 players in database.
@@ -10,9 +10,23 @@ summary: Dynamo Kyiv. 22 players in database.
 
 # Dynamo Kyiv
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 22
+
+## Identity
+
+- Database coverage is deepest in CM (7), CD (4), and WD (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (6), Destroyer (2), and Powerhouse (2) across the current squad.
+- Average available overall grade sits at 71.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -23,20 +37,20 @@ summary: Dynamo Kyiv. 22 players in database.
 | [[taras-mykhavko]] Taras Mykhavko | CD | Cover | 74.0 |
 | [[vladyslav-dubinchak]] Vladyslav Dubinchak | CD | Powerhouse | 72.0 |
 | [[matviy-ponomarenko]] Matviy Ponomarenko | CF | Sprinter-Striker | 68.0 |
-| [[vladyslav-kabayev]] Vladyslav Kabayev | CF | None | None |
-| [[eduardo-guerrero]] Eduardo Guerrero | CM | None | None |
+| [[vladyslav-kabayev]] Vladyslav Kabayev | CF | — | — |
+| [[eduardo-guerrero]] Eduardo Guerrero | CM | — | — |
 | [[mykola-shaparenko]] Mykola Shaparenko | CM | Dribbler-Powerhouse | 77.0 |
-| [[nazar-voloshyn]] Nazar Voloshyn | CM | Sprinter | None |
-| [[oleksandr-karavayev]] Oleksandr Karavayev | CM | None | None |
+| [[nazar-voloshyn]] Nazar Voloshyn | CM | Sprinter | — |
+| [[oleksandr-karavayev]] Oleksandr Karavayev | CM | — | — |
 | [[oleksandr-pikhalyonok]] Oleksandr Pikhalyonok | CM | Dribbler | 77.0 |
 | [[vitaliy-buyalskyi]] Vitaliy Buyalskyi | CM | Sprinter-Dribbler | 73.0 |
 | [[volodymyr-brazhko]] Volodymyr Brazhko | CM | Powerhouse-Cover | 75.0 |
-| [[ruslan-neshcheret]] Ruslan Neshcheret | GK | GK | None |
-| [[navin-malysh]] Navin Malysh | WD | Sprinter-Destroyer | None |
-| [[oleksandr-tymchyk]] Oleksandr Tymchyk | WD | Sprinter-Cover | None |
+| [[ruslan-neshcheret]] Ruslan Neshcheret | GK | GK | — |
+| [[navin-malysh]] Navin Malysh | WD | Sprinter-Destroyer | — |
+| [[oleksandr-tymchyk]] Oleksandr Tymchyk | WD | Sprinter-Cover | — |
 | [[andriy-yarmolenko]] Andriy Yarmolenko | WF | Creator | 60.0 |
-| [[kristian-bilovar]] Kristian Bilovar | None | Destroyer | None |
-| [[mykola-mykhaylenko]] Mykola Mykhaylenko | None | None | None |
-| [[oleksandr-shovkovskyi]] Oleksandr Shovkovskyi | None | None | None |
-| [[valentyn-morhun]] Valentyn Morhun | None | None | None |
-| [[valentyn-rubchynskyi]] Valentyn Rubchynskyi | None | None | None |
+| Kristian Bilovar | — | Destroyer | — |
+| Mykola Mykhaylenko | — | — | — |
+| Oleksandr Shovkovskyi | — | — | — |
+| Valentyn Morhun | — | — | — |
+| Valentyn Rubchynskyi | — | — | — |

@@ -2,10 +2,10 @@
 title: Billy Bremner
 category: players
 tags: [CM, Scotland]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 9062
 ---
 
@@ -16,18 +16,25 @@ person_id: 9062
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Scotland |
 | **Age** | 83 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM					SCO	C	0.0	Billy Bremner was chosen by The Times as the greatest player in history of Leeds United club. and has a statue outside the South East corner of Elland Road. Sir Alex Ferguson. Ever said there are more skilled players in this list, but nobody better epitomized the bloody-minded brilliance of prime-time Leeds. By the time debuted his career for Leeds United, Bremner quickly established himself as an uncompromising player, and had an extraordinary ability to score crucial goals in the biggest games. Bremner played 772 matched for Leeds United that is almost the record of his club just only to Jacky Charlton one game and scored 115 Goals. In 1973, Bremner was best honoured in international level, was voted 5th in Ballan’ Dor.  Billy Bremner was one of Britain's most fiery, skilful and industrious footballers of the post-war years. An essential cog in the pragmatic, often over-robust yet frequently wonderfully entertaining Leeds United team of the Sixties and Seventies, he was also the red-haired dynamo in Scotland's international side, winning 54 caps	A midfielder, he played for Leeds United from 1959 to 1976, and captained the side during this time, which was the most successful period of the club's history. With the club he won the First Division (1968–69 and 1973–74), Second Division (1963–64), Inter-Cities Fairs Cup (1968 and 1971), FA Cup (1972), League Cup (1968), and Charity Shield (1969). The club also finished second in numerous competitions, doing so in the league five times and ending as runners-up in seven cup finals, including the 1975 European Cup. He was also named as the FWA Footballer of the Year in 1970 and was listed on the PFA Team of the Year in 1973–74. He has since been voted Leeds United's greatest player of all time and has a statue outside the South East corner of Elland Road. He has also been included in the Football League 100 Legends and is a member of both the English Football Hall of Fame and Scottish Football Hall of Fame. He spent 1976 to 1978 at Hull City, before being appointed player-manager at Doncaster Rovers in November 1978. He spent 1976 to 1978 at Hull City, before being appointed player-manager at Doncaster Rovers in November 1978.	9/12/1942
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -44,10 +51,10 @@ CM					SCO	C	0.0	Billy Bremner was chosen by The Times as the greatest player in
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -58,8 +65,8 @@ CM					SCO	C	0.0	Billy Bremner was chosen by The Times as the greatest player in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

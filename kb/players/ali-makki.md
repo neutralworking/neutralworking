@@ -23,12 +23,18 @@ backlinks: [powerhouse, al-shabab]
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
 | **Level** | 75 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Energetic midfielder who works hard and retains the ball reasonably well in congested areas, though he lacks the vision or ball-progression skills to break lines from deep. Useful as a pressing trigger and transition option but doesn't have the technical sophistication for consistent elite performance. A depth piece who shows promise without quite delivering on it.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +69,13 @@ Energetic midfielder who works hard and retains the ball reasonably well in cong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [GK, Zimbabwe, GK]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at None. Archetype: GK.
+summary: GK at —. Archetype: GK.
 person_id: 9227
 backlinks: [gk]
 ---
@@ -17,14 +17,24 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Zimbabwe |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
+
+## Snapshot
+
+Bruce Grobblear is currently a roster-level GK entry in the KB with a `GK` lean. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -39,16 +49,22 @@ backlinks: [gk]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Compile baseline | Chief Scout KB | 2026-04-18 | Low | Only roster-level identity fields were available in the existing article. |

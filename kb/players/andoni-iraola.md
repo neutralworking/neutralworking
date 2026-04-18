@@ -5,7 +5,7 @@ tags: [WD, New York City FC]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at New York City FC. Archetype: None.
+summary: WD at New York City FC. Archetype: —.
 person_id: 3015
 backlinks: [new-york-city-fc]
 ---
@@ -18,13 +18,23 @@ backlinks: [new-york-city-fc]
 |---|---|
 | **Position** | WD |
 | **Club** | New York City FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 43 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 61 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Andoni Iraola is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -40,14 +50,20 @@ backlinks: [new-york-city-fc]
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Compile baseline | Chief Scout KB | 2026-04-18 | Low | Only roster-level identity fields were available in the existing article. |

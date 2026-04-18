@@ -2,7 +2,7 @@
 title: S. Milić
 category: players
 tags: [CM, FK Partizan, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at FK Partizan. Archetype: Destroyer.
@@ -26,54 +26,34 @@ backlinks: [destroyer, fk-partizan]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 As a Connector, Milić excels in a Tuttocampista role, utilizing his moderate technical and tactical abilities to control the tempo of the game. His strengths in blocking and interceptions make him a valuable asset in breaking up opposition attacks, but his limited vision and discipline can lead to reckless decisions. A team that values a destroyer-type midfielder with a strong work rate would benefit from his services.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `72`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Awareness, Blocking, and Interceptions.
-
-## In Possession
-
-- Ball-value indicators lean on Awareness, Blocking, and Interceptions.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Blocking | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Pass Accuracy | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Tackling | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Awareness | ███████░░░ 7/10 |
+| Blocking | ███████░░░ 7/10 |
+| Interceptions | ███████░░░ 7/10 |
+| Pass Accuracy | ███████░░░ 7/10 |
+| Skills | ███████░░░ 7/10 |
+| Aggression | ██████░░░░ 6/10 |
+| Flair | ██████░░░░ 6/10 |
+| Tackling | ██████░░░░ 6/10 |
+| Take Ons | ██████░░░░ 6/10 |
+| Composure | █████░░░░░ 5/10 |
+| Drive | █████░░░░░ 5/10 |
+| Duels | █████░░░░░ 5/10 |
+| Physical | █████░░░░░ 5/10 |
+| Pressing | █████░░░░░ 5/10 |
+| Tactical | █████░░░░░ 5/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- **build_up_contributor** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 4/10
 
 ## Personality
 
@@ -83,17 +63,3 @@ As a Connector, Milić excels in a Tuttocampista role, utilizing his moderate te
 - **Pressure (JP)**: 54
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Hot Headed** (behavioral) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

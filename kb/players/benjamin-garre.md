@@ -2,7 +2,7 @@
 title: Benjamín Garre
 category: players
 tags: [CM, Aris Thessaloniki FC, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Aris Thessaloniki FC. Archetype: Striker-Creator.
@@ -18,16 +18,15 @@ backlinks: [striker, aris-thessaloniki-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Aris Thessaloniki FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 41.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 CountryArgentina
 
@@ -49,6 +48,12 @@ Oscar Garré, who was part of the Argentina side who won the World Cup at Mexico
   
 **September 2022 update** The year 2022 was a breakthrough one for Garré. He left Racing to join Huracán in June and the move has proven to be just what he needed. At Racing he was on the edge of a breakthrough for years, but never quite succeeded. But, now revitalised at Huracán, Garré has been in the starting XI for every single game since making his debut. A key part in Huracán’s strong league form that has turned the team into an outside chance for the Argentinian title,the manager, Diego Dabove, has lavished praise on the youngster. “Apart from being a great player and the quality he has been showing here, we’ve also signed a great person.”
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -84,11 +89,11 @@ Oscar Garré, who was part of the Argentina side who won the World Cup at Mexico
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -109,16 +114,15 @@ Oscar Garré, who was part of the Argentina side who won the World Cup at Mexico
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 17 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryArgentina
 

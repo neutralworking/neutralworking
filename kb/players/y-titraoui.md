@@ -2,7 +2,7 @@
 title: Y. Titraoui
 category: players
 tags: [CM, Sporting Charleroi, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Sporting Charleroi. Archetype: Dribbler-Creator.
@@ -26,54 +26,34 @@ backlinks: [dribbler, sporting-charleroi]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Titraoui is a skilled, flamboyant Terrier with strong technical skills and a tendency to make elegant, progressive runs. His shielding, first touch, and pass accuracy make him a valuable asset in build-up play, but his blocking and discipline are areas for improvement. A team that values a competitive, spontaneous approach could benefit from his skills, particularly in a system that emphasizes possession football and creative freedom.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `73`.
-- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Positional Discipline.
-- Most bankable strengths show up in Shielding, Acceleration, and First Touch.
-
-## In Possession
-
-- Ball-value indicators lean on Shielding, Acceleration, and First Touch.
-- Style traits point toward Flamboyant in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Positional Discipline.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Shielding | █████████████████ 17/10 |
+| Acceleration | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Marking | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Jumping | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Awareness | ████████░░ 8/10 |
+| Close Range | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **flamboyant** (style) — severity 7/10
+- **positional_discipline** (tactical) — severity 5/10
 
 ## Personality
 
@@ -83,17 +63,3 @@ Titraoui is a skilled, flamboyant Terrier with strong technical skills and a ten
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 7/10
-- **Positional Discipline** (tactical) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

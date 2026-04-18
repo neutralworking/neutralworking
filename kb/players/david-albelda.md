@@ -5,7 +5,7 @@ tags: [DM, Valencia, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: DM at Valencia. Archetype: None.
+summary: DM at Valencia. Archetype: —.
 person_id: 10058
 backlinks: [valencia]
 ---
@@ -20,10 +20,10 @@ backlinks: [valencia]
 | **Club** | Valencia |
 | **Nation** | Spain |
 | **Age** | 48 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -33,6 +33,13 @@ CM		Playmaker		Valencia	ESP	B	0.0			"Born in La Pobla Llarga, Valencian Communit
  In late April 2008, however, with Koeman's sacking, all three were reinstated by new manager Voro in a squad seriously threatened with relegation, with five remaining rounds. He returned to action in the second half of the 0–6 away loss against FC Barcelona on 4 May, and received his first post-reinstatement start in a 5–1 success in the derby away at Levante UD in the following week, as Valencia mathematically retained top flight status. For 2008–09 Albelda remained a regular fixture, alongside longtime central midfield teammate Rubén Baraja. On 10 January 2009 he delivered an outstanding performance at right back, replacing suspended Miguel in a 3–3 home derby against Villarreal. Albelda was played intermittently by Valencia from 2010 to 2013, also suffering several injury problems.[9][10][11] On 10 June 2013, it was announced that the 35-year-old would not renew his contract with the club, leaving as a free agent;[12] he announced his retirement two months later. A Spanish international since 5 September 2001, in 2–0 away win against Liechtenstein for the 2002 FIFA World Cup qualifiers, Albelda was part of the Spanish squad in the 2002 and 2006 FIFA World Cups. He also played in UEFA Euro 2004.
  After having been ousted from the Valencia squad, Albelda would still be called by national team boss Luis Aragonés to a 6 February 2008 friendly with France,[14] but would eventually not make the final cut for Euro 2008 as Spain emerged victorious.
  In addition, he also won a silver medal at the 2000 Summer Olympics in Sydney, and represented his nation in 1997 FIFA World Youth Championship."
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -46,13 +53,14 @@ CM		Playmaker		Valencia	ESP	B	0.0			"Born in La Pobla Llarga, Valencian Communit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

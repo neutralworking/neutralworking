@@ -2,7 +2,7 @@
 title: Mërgim Berisha
 category: players
 tags: [CF, 1899 Hoffenheim, Germany, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker-Creator.
@@ -26,54 +26,35 @@ backlinks: [striker, 1899-hoffenheim]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 Because he missed several games due to an ankle injury, Augsburg slipped deep into the bottom of the table again. Without Berisha's goals in the 1-0 victories against Leverkusen and Gladbach, FCA would now probably be in the second division. Hansi Flick watched his brace in the Allianz Arena (3: 5) - and shortly afterwards nominated him for the senior national team for the first time . The Augsburgers will draw the purchase option for four million euros - and then possibly sell Berisha directly for a multiple.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Seconda Punta` with model support score `80`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Jumping, Long Range, and Close Range.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Long Range, and Close Range.
-- Style traits point toward Finishing in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Long Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Jumping | █████████████████ 17/10 |
+| Long Range | █████████████████ 17/10 |
+| Close Range | ████████████████ 16/10 |
+| First Touch | ████████████████ 16/10 |
+| Movement | ████████████████ 16/10 |
+| Reactions | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Heading | ███████████████ 15/10 |
+| Pass Accuracy | ███████████████ 15/10 |
+| Penalties | ███████████████ 15/10 |
+| Physical | ███████████████ 15/10 |
+| Take Ons | ███████████████ 15/10 |
+| Volleys | ███████████████ 15/10 |
+| Balance | ██████████████ 14/10 |
+| Crossing | ██████████████ 14/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **Finishing** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -83,18 +64,3 @@ Because he missed several games due to an ankle injury, Augsburg slipped deep in
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Finishing** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

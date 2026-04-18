@@ -2,12 +2,12 @@
 title: J. Adjetey
 category: players
 tags: [CM, Wolfsburg, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Wolfsburg. Archetype: Destroyer-Powerhouse.
 person_id: 25152
-backlinks: [destroyer, wolfsburg]
+backlinks: [destroyer, tuttocampista, wolfsburg]
 ---
 
 # J. Adjetey
@@ -18,21 +18,30 @@ backlinks: [destroyer, wolfsburg]
 |---|---|
 | **Position** | CM |
 | **Club** | Wolfsburg |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 J. Adjetey is a physically imposing midfielder who excels at winning the ball back and making progressive carries, but his limited technical ability and lack of creativity may hinder his ability to control the tempo of the game. As a Connector archetype, he is well-suited to a Tuttocampista role where he can utilize his physicality and aggression to break up opposition attacks. Historically, his style of play is similar to that of traditional box-to-box midfielders who prioritize energy and work rate over technical skill, and he would be a good fit for a team that employs a direct, counter-attacking approach. From a squad-building perspective, Adjetey's market position is relatively low due to his limited technical ability, making him an attractive option for smaller clubs looking to add physicality to their midfield, but his lack of creativity may be a risk factor for teams that dominate possession.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
@@ -63,13 +72,14 @@ J. Adjetey is a physically imposing midfielder who excels at winning the ball ba
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ J. Adjetey is a physically imposing midfielder who excels at winning the ball ba
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -1,8 +1,8 @@
 ---
 title: Tottenham Hotspur WFC
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Tottenham Hotspur WFC. 5 players in database.
@@ -10,16 +10,26 @@ summary: Tottenham Hotspur WFC. 5 players in database.
 
 # Tottenham Hotspur WFC
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 5
+
+## Identity
+
+- Database coverage is deepest in CM (2) and CF (1), which shapes the visible squad picture.
+- This article is currently a roster-structure snapshot from database coverage rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[kit-graham]] Kit Graham | CF | None | None |
-| [[olga-ahtinen]] Olga Ahtinen | CM | None | None |
-| [[rosella-ayane]] Rosella Ayane | CM | None | None |
-| [[celin-bizet-ildhusy]] Celin Bizet Ildhusøy | None | None | None |
-| [[charlotte-grant]] Charlotte Grant | None | None | None |
+| [[kit-graham]] Kit Graham | CF | — | — |
+| [[olga-ahtinen]] Olga Ahtinen | CM | — | — |
+| [[rosella-ayane]] Rosella Ayane | CM | — | — |
+| Celin Bizet Ildhusøy | — | — | — |
+| Charlotte Grant | — | — | — |

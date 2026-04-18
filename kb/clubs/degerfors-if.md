@@ -1,18 +1,32 @@
 ---
 title: Degerfors IF
 category: clubs
-tags: [Allsvenskan, None]
-updated: 2026-04-14
+tags: [Allsvenskan]
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Degerfors IF. 21 players in database.
+summary: Degerfors IF. 22 players in database.
 ---
 
 # Degerfors IF
 
 **League**: Allsvenskan  
-**Nation**: None  
-**Players in DB**: 21
+**Nation**: —  
+**Players in DB**: 22
+
+## Identity
+
+- Database coverage is deepest in CM (7), WM (5), and GK (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (7), Creator (5), and Striker (5) across the current squad.
+- Average available overall grade sits at 58.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -29,13 +43,14 @@ summary: Degerfors IF. 21 players in database.
 | [[l-hien]] L. Hien | CM | Destroyer-Creator | 69.0 |
 | [[n-girmai-netabay]] N. Girmai Netabay | CM | Destroyer-Creator | 66.0 |
 | [[sven-owe-ohlsson]] Sven Owe Ohlsson | CM | Destroyer-Powerhouse | 65.0 |
-| [[m-igonen]] M. Igonen | GK | GK | None |
-| [[r-forsell]] R. Forsell | GK | GK | None |
-| [[richie-omorowa]] Richie Omorowa | GK | GK | None |
+| [[m-igonen]] M. Igonen | GK | GK | — |
+| [[r-forsell]] R. Forsell | GK | GK | — |
+| [[richie-omorowa]] Richie Omorowa | GK | GK | — |
 | [[p-ndinga-ossibadjouo]] P. Ndinga Ossibadjouo | WD | Destroyer | 72.0 |
 | [[e-pihlstrom]] E. Pihlström | WF | Striker | 66.0 |
 | [[arman-taranis]] Arman Taranis | WM | Striker-Creator | 64.0 |
 | [[e-barsoum]] E. Barsoum | WM | Creator-Striker | 65.0 |
 | [[i-lundgren]] I. Lundgren | WM | Creator | 34.0 |
+| [[m-diaby]] M. Diaby | WM | Creator-Striker | 59.0 |
 | [[z-salifu]] Z. Salifu | WM | Striker-Creator | 29.0 |
-| [[a-fisic]] A. Fisic | None | Creator-Striker | None |
+| A. Fisic | — | Creator-Striker | — |

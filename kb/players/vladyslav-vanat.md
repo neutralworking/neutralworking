@@ -2,7 +2,7 @@
 title: Vladyslav Vanat
 category: players
 tags: [CF, Girona, Ukraine, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Girona. Archetype: Striker-Sprinter.
@@ -26,54 +26,37 @@ backlinks: [striker, girona]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Young Ukrainian forward with decent athleticism and a willingness to run in behind; he's useful as a direct, energetic option upfront. His technical ability is developing and he's not yet a refined finisher—he can miss simple chances and he's inefficient in the box. Project player showing promise with speed and intent, but he's not yet a polished senior striker.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Shadow Striker` with model support score `80`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Counter Attack Threat.
-- Most bankable strengths show up in Movement, Reactions, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Movement, Reactions, and Jumping.
-- Style traits point toward Two Footed, Flamboyant, and Pace in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Counter Attack Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Movement | ████████████████ 16/10 |
+| Reactions | ████████████████ 16/10 |
+| Jumping | ███████████████ 15/10 |
+| Balance | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Stamina | █████████████ 13/10 |
+| Heading | ████████████ 12/10 |
+| Physical | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+| Pass Range | ██████████ 10/10 |
+| Close Range | █████████░ 9/10 |
+| Crossing | █████████░ 9/10 |
+| Penalties | █████████░ 9/10 |
+| Composure | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **Two Footed** (style) — severity 7/10
+- **flamboyant** (style) — severity 6/10
+- **counter_attack_threat** (tactical) — severity 6/10
+- **Pace** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
 
 ## Personality
 
@@ -83,20 +66,3 @@ Young Ukrainian forward with decent athleticism and a willingness to run in behi
 - **Pressure (JP)**: 53
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Flamboyant** (style) — severity 6/10
-- **Counter Attack Threat** (tactical) — severity 6/10
-- **Pace** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

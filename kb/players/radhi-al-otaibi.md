@@ -1,72 +1,62 @@
 ---
-title: Radhi Al-Otaibi
+title: Radhi Al Otaibi
 category: players
-tags: [CD, Al Wehda, Saudi Arabia]
-updated: 2026-04-17
+tags: [WD, Al-Ettifaq, Sprinter-Dribbler]
+updated: 2026-04-14
 source: compiled
-confidence: low
-summary: CD at Al Wehda. Archetype: None.
-person_id: 16403
-backlinks: [al-wehda]
+confidence: high
+summary: WD at Al-Ettifaq. Archetype: Sprinter-Dribbler.
+person_id: 23680
+backlinks: [sprinter, al-ettifaq]
 ---
 
-# Radhi Al-Otaibi
+# Radhi Al Otaibi
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CD |
-| **Club** | Al Wehda |
-| **Nation** | Saudi Arabia |
-| **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Position** | WD |
+| **Club** | Al-Ettifaq |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 75 |
-| **Overall** | None |
+| **Overall** | 63.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Young defender showing encouraging discipline and an understanding of shape, with enough pace to cover ground effectively, though his positioning still needs refinement and he can be caught in poor angles by intelligent movement. Set-piece defending is reliable but open-play reading remains inconsistent. Prospect with a realistic pathway if properly developed.
-
-## Role Fit
-
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ██████████████████ 18/10 |
+| Stamina | █████████████████ 17/10 |
+| Balance | ████████████████ 16/10 |
+| Shielding | ████████████████ 16/10 |
+| First Touch | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Movement | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Physical | ███████████ 11/10 |
+| Vision | ███████████ 11/10 |
+| Long Range | ██████████ 10/10 |
+| Heading | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Metric coverage is shallow relative to a full dossier standard.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **inconsistent** (behavioral) — severity 4/10
+- **Pace** (style) — severity 4/10
+- **Acceleration** (style) — severity 4/10
 
 ## Personality
 
 - **Game Reading (EI)**: 56
-- **Motivation (SN)**: 56
-- **Social (TF)**: 55
-- **Pressure (JP)**: 56
-- **Competitiveness**: 5/10
+- **Motivation (SN)**: 57
+- **Social (TF)**: 53
+- **Pressure (JP)**: 45
+- **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

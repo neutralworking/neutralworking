@@ -2,7 +2,7 @@
 title: Scot Bennett
 category: players
 tags: [CD, Newport County, England, Cover-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Newport County. Archetype: Cover-Powerhouse.
@@ -26,55 +26,31 @@ backlinks: [cover, newport-county]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Scot Bennett projects primarily as a CD with a `Cover-Powerhouse` lean. The strongest database support comes from Stamina, Interceptions, and Jumping.
-
-## Role Fit
-
-- Best-fit role is `Colossus`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Most bankable strengths show up in Stamina, Interceptions, and Jumping.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Interceptions, and Jumping.
-- Style traits point toward Aerial Ability, Defensive Awareness, and Tackling Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Awareness | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Tackling | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Stamina | ██████████████ 14/10 |
+| Interceptions | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Awareness | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Marking | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Tackling | ████████████ 12/10 |
+| Composure | ███████████ 11/10 |
+| First Touch | ███████████ 11/10 |
+| Long Range | ███████████ 11/10 |
+| Mid Range | ███████████ 11/10 |
+| Pass Accuracy | ███████████ 11/10 |
+| Pass Range | ███████████ 11/10 |
+| Close Range | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Aerial Ability** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -84,17 +60,3 @@ Scot Bennett projects primarily as a CD with a `Cover-Powerhouse` lean. The stro
 - **Pressure (JP)**: 58
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Ability** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

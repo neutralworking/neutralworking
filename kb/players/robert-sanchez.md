@@ -2,7 +2,7 @@
 title: Robert Sánchez
 category: players
 tags: [GK, Chelsea, Spain, GK]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at Chelsea. Archetype: GK.
@@ -26,60 +26,36 @@ backlinks: [gk, chelsea]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 Commanding keeper with good distribution. Prone to occasional errors that undermine his otherwise solid shot-stopping.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Sweeper Keeper`.
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Reactions, Jumping, and Physical.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Jumping, and Physical.
-- Style traits point toward Two Footed and Cross Claimer in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Mental | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Stamina | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Reactions | ████████████████ 16/10 |
+| Jumping | ███████████████ 15/10 |
+| Physical | ███████████████ 15/10 |
+| Pace | █████████████ 13/10 |
+| Acceleration | ███████████ 11/10 |
+| Mental | ███████░░░ 7/10 |
+| Stamina | ███████░░░ 7/10 |
+| Tactical | ███████░░░ 7/10 |
+| Aggression | ██████░░░░ 6/10 |
+| Technical | ██████░░░░ 6/10 |
+| Awareness | ████░░░░░░ 4/10 |
+| Intensity | ████░░░░░░ 4/10 |
+| Carries | ███░░░░░░░ 3/10 |
+| Creativity | █░░░░░░░░░ 1/10 |
+| Through Balls | █░░░░░░░░░ 1/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Cross Claimer** (style) — severity 5/10
+- **durability** (physical) — severity 4/10
 
 ## Personality
 
@@ -89,19 +65,3 @@ Commanding keeper with good distribution. Prone to occasional errors that underm
 - **Pressure (JP)**: 61
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Cross Claimer** (style) — severity 5/10
-- **Durability** (physical) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

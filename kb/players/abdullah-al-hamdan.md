@@ -5,7 +5,7 @@ tags: [CF, Al-Nassr, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Al-Nassr. Archetype: None.
+summary: CF at Al-Nassr. Archetype: —.
 person_id: 7750
 backlinks: [al-nassr]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-nassr]
 | **Club** | Al-Nassr |
 | **Nation** | Saudi Arabia |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A midfielder with decent movement in tight spaces and reasonable ball retention, Al-Hamdan operates best in a structured system where he can receive the ball and recycle possession. His limitation is creative ambition—he rarely drives forward with purpose or splits defences with vision. At 26, he should be entering his prime, but his profile suggests a rotation piece at best.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A midfielder with decent movement in tight spaces and reasonable ball retention,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

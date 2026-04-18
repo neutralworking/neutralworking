@@ -5,7 +5,7 @@ tags: [DM, Germany]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: DM at None. Archetype: None.
+summary: DM at —. Archetype: —.
 person_id: 10306
 ---
 
@@ -16,14 +16,25 @@ person_id: 10306
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 52 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Dietmar Hamann is currently a roster-level DM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -40,10 +51,11 @@ person_id: 10306
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -71,7 +83,5 @@ clubs: Liverpool
 nation: GER
 tier: C
 ```
-
-
 
 </details>

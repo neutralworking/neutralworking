@@ -2,7 +2,7 @@
 title: Giorgi Chakvetadze
 category: players
 tags: [AM, Watford, Georgia, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at Watford. Archetype: Dribbler-Sprinter.
@@ -23,12 +23,19 @@ backlinks: [dribbler, watford]
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 85 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Glider. Floats through midfield with the ball at feet and lays off. Plays a little deeper than you’d expect, I thought he wouldn’t help defensively but he works hard. Exciting player. Good eye for a pass also. 
+Glider. Floats through midfield with the ball at feet and lays off. Plays a little deeper than you’d expect, I thought he wouldn’t help defensively but he works hard. Exciting player. Good eye for a pass also.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -59,13 +66,14 @@ Glider. Floats through midfield with the ball at feet and lays off. Plays a litt
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.1m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,17 +100,17 @@ Glider. Floats through midfield with the ball at feet and lays off. Plays a litt
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Glider. Floats through midfield with the ball at feet and lays off. Plays a little deeper than you’d expect, I thought he wouldn’t help defensively but he works hard. Exciting player. Good eye for a pass also. 
+Glider. Floats through midfield with the ball at feet and lays off. Plays a little deeper than you’d expect, I thought he wouldn’t help defensively but he works hard. Exciting player. Good eye for a pass also.
 
 </details>

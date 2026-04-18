@@ -2,7 +2,7 @@
 title: Raphael Veiga
 category: players
 tags: [AM, Palmeiras, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: AM at Palmeiras. Archetype: Creator-Striker.
@@ -26,54 +26,33 @@ backlinks: [creator, palmeiras]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 A 30-year-old enganche whose creative arsenal—vision, guile, and technical range across both long and short distances—marks him as a schemer in decline but still functional in the half-spaces and set-piece design. Pass accuracy and take-on weakness expose limitations in dribbling consistency and final precision; he is a creator for others, not a ball-carrier, and works best in fluid systems where his spontaneity and spatial sense find cutting passes rather than driving runs. His discipline issues and limited pressing output suggest he suits possession-centric clubs that can shield him defensively and unlock his tactical role as a static playmaker.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Enganche` with model support score `74`.
-- Primary archetype leans toward `Creator` behaviour from a `AM` base.
-- Tactical fit is strongest when the game asks for Set Piece Specialist.
-- Most bankable strengths show up in Through Balls, Threat, and Vision.
-
-## In Possession
-
-- Ball-value indicators lean on Through Balls, Threat, and Vision.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Set Piece Specialist.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Threat | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Crossing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Communication | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Through Balls | ████████░░ 8/10 |
+| Threat | ███████░░░ 7/10 |
+| Vision | ███████░░░ 7/10 |
+| Creativity | ██████░░░░ 6/10 |
+| Crossing | ██████░░░░ 6/10 |
+| Intensity | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Communication | █████░░░░░ 5/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Drive | █████░░░░░ 5/10 |
+| Leadership | █████░░░░░ 5/10 |
+| Mental | █████░░░░░ 5/10 |
+| Pass Accuracy | █████░░░░░ 5/10 |
+| Close Range | ████░░░░░░ 4/10 |
+| Long Range | ████░░░░░░ 4/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- **set_piece_specialist** (tactical) — severity 4/10
 
 ## Personality
 
@@ -83,16 +62,3 @@ A 30-year-old enganche whose creative arsenal—vision, guile, and technical ran
 - **Pressure (JP)**: 43
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Set Piece Specialist** (tactical) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

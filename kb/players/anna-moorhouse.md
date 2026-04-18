@@ -2,7 +2,7 @@
 title: Anna Moorhouse
 category: players
 tags: [GK, Doncaster Rovers, England, GK]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
 summary: GK at Doncaster Rovers. Archetype: GK.
@@ -22,13 +22,19 @@ backlinks: [gk, doncaster-rovers]
 | **Age** | 31 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A composed shot-stopper with reliable handling in the Women's Super League, Moorhouse operates with a calm temperament and good positioning for routine saves. She reads the game sensibly and distributes adequately from the back, though she lacks the sweeping instincts or distribution range that separates the elite keepers—don't expect her to consistently play as a tenth outfield player. At 30, she's a dependable squad option for a mid-table side, but her limitations in one-v-ones and her occasionally sluggish decision-making on crosses mean she'll rarely be the answer at a club with genuine European ambitions.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -43,13 +49,13 @@ A composed shot-stopper with reliable handling in the Women's Super League, Moor
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -69,5 +75,5 @@ A composed shot-stopper with reliable handling in the Women's Super League, Moor
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

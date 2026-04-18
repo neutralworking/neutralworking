@@ -2,7 +2,7 @@
 title: Ben Wilson
 category: players
 tags: [GK, Coventry City, England, GK]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Coventry City. Archetype: GK.
@@ -22,13 +22,19 @@ backlinks: [gk, coventry-city]
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 71 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young keeper with the physical tools—height, decent footwork—but he's still very much in the learning phase at 24 with limited senior exposure at Championship level. Has the air of someone who might become a solid depth option but hasn't yet proven he can handle the intensity of weekly top-flight football. Distribution is improving but remains a work in progress.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -60,13 +66,13 @@ A young keeper with the physical tools—height, decent footwork—but he's stil
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -87,6 +93,6 @@ A young keeper with the physical tools—height, decent footwork—but he's stil
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

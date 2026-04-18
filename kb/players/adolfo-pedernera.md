@@ -2,10 +2,10 @@
 title: Adolfo Pedernera
 category: players
 tags: [WF, Argentina, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at None. Archetype: Creator-Dribbler.
+summary: WF at —. Archetype: Creator-Dribbler.
 person_id: 7882
 backlinks: [creator]
 ---
@@ -17,18 +17,25 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Argentina |
 | **Age** | 107 |
 | **Archetype** | [[creator]] Creator-Dribbler |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF					ARG	B	0.0	Highly Intelligent, Great Skill On The Ball, Defence Splitting Passes. Fast On His Feet, Skilful, Fearless Dribbler, Strikes Ball With Either Foot. Dominates Flank (Left), Exceptional Pass Selection, Omniscient	Versatility, OTBM, Talent/Genius, La Máquina	It was at the Monumental that Pedernera acquired legendary status and became the scheming mastermind of La Máquina, a revolutionary, star-studded team that featured five forwards capable of swapping positions and popping up in places where the opposition least expected them. Maquinista (driver of the machine). Early form of False 9, drifiting back into midfield from the advanced forward position. Although he was most at home at inside-left, Pedernera could play in any of the five forward positions.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -43,10 +50,11 @@ CF					ARG	B	0.0	Highly Intelligent, Great Skill On The Ball, Defence Splitting 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -57,8 +65,8 @@ CF					ARG	B	0.0	Highly Intelligent, Great Skill On The Ball, Defence Splitting 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

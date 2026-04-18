@@ -2,7 +2,7 @@
 title: Edimilson Fernandes
 category: players
 tags: [CM, BSC Young Boys, Switzerland, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at BSC Young Boys. Archetype: Destroyer-Passer.
@@ -23,12 +23,19 @@ backlinks: [destroyer, bsc-young-boys]
 | **Archetype** | [[destroyer]] Destroyer-Passer |
 | **Level** | 85 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Swiss midfielder of genuine utility but limited ceiling—the sort of player who makes a team function without ever making it sing. Fernandes operates as a ball-progressor in deeper midfield zones, comfortable carrying into the half-spaces and releasing others with simple, accurate passing; his positioning is sound and he rarely loses the ball in transition. What he isn't, however, is a creative fulcrum or a destroyer—he lacks the technical range to open a defense or the athletic intensity to suffocate an opponent's rhythm. At 29, he's precisely what Young Boys need for competitive balance in the Swiss Super League, but he's a rotation-level performer at any genuinely ambitious European club.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -68,12 +75,13 @@ A Swiss midfielder of genuine utility but limited ceiling—the sort of player w
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +113,7 @@ A Swiss midfielder of genuine utility but limited ceiling—the sort of player w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Leighton Baines
 category: players
 tags: [WD, Everton, England, Creator]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WD at Everton. Archetype: Creator.
@@ -26,54 +26,35 @@ backlinks: [creator, everton]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 WD		Director	Provider	Everton, Reading	ENG	C	0.0
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wing-back`.
-- Primary archetype leans toward `Creator` behaviour from a `WD` base.
-- Most bankable strengths show up in Acceleration, First Touch, and Pace.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, First Touch, and Pace.
-- Style traits point toward Dribbler, Ball Progressor, and Pace in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Skills | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ████████████████ 16/10 |
+| First Touch | ████████████████ 16/10 |
+| Pass Accuracy | ████████████████ 16/10 |
+| Pass Range | ████████████████ 16/10 |
+| Skills | ████████████████ 16/10 |
+| Interceptions | ███████████████ 15/10 |
+| Long Range | ███████████████ 15/10 |
+| Marking | ███████████████ 15/10 |
+| Mid Range | ███████████████ 15/10 |
+| Tackling | ███████████████ 15/10 |
+| Volleys | ███████████████ 15/10 |
+| Aerial Duels | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Take Ons | ████████░░ 8/10 |
+| Creativity | ██████░░░░ 6/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Dribbler** (style) — severity 7/10
+- **Ball Progressor** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
 
 ## Personality
 
@@ -83,22 +64,6 @@ WD		Director	Provider	Everton, Reading	ENG	C	0.0
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Dribbler** (style) — severity 7/10
-- **Ball Progressor** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

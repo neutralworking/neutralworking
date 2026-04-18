@@ -2,7 +2,7 @@
 title: Tanguy Nianzou
 category: players
 tags: [CD, Sevilla, France, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Sevilla. Archetype: Destroyer.
@@ -26,58 +26,38 @@ backlinks: [destroyer, sevilla]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Physically imposing center-back with strong aerial dominance and recovery pace, though his positioning can be erratic and he occasionally gets caught in transition; developing into a reliable La Liga starter but needs sharper decision-making to reach elite level.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Stopper` with model support score `68`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Heading, Jumping, and Physical.
-
-## In Possession
-
-- Ball-value indicators lean on Heading, Jumping, and Physical.
-- Style traits point toward Anticipation and Tackling Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Heading | ████████████████ 16/10 |
+| Jumping | ████████████████ 16/10 |
+| Physical | ████████████████ 16/10 |
+| Stamina | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Shielding | ████████████ 12/10 |
+| Acceleration | ███████████ 11/10 |
+| Balance | ███████████ 11/10 |
+| Long Range | ███████████ 11/10 |
+| Vision | ███████████ 11/10 |
+| Aggression | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **hot_headed** (behavioral) — severity 8/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -87,21 +67,3 @@ Physically imposing center-back with strong aerial dominance and recovery pace, 
 - **Pressure (JP)**: 62
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Hot Headed** (behavioral) — severity 8/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

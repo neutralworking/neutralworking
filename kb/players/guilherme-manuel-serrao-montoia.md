@@ -18,17 +18,24 @@ backlinks: [cover, estrela-da-amadora]
 |---|---|
 | **Position** | WM |
 | **Club** | Estrela da Amadora |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Creator |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 38.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Montóia is a hard-working winger who excels at using his vision to pick out passes and his discipline to track back and defend, but his technical and tactical limitations restrict his ability to beat opponents and create scoring opportunities. As a tornante, he is well-suited to a system that values width and direct running, but his lack of guile and limited mental attributes mean he can struggle to adapt to different situations. A team that prioritizes defensive solidity and quick transitions could find Montóia to be a valuable addition, but his limitations mean he may not be the best fit for a side that dominates possession.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -57,13 +64,14 @@ Montóia is a hard-working winger who excels at using his vision to pick out pas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

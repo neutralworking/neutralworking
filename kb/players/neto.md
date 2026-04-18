@@ -2,7 +2,7 @@
 title: Neto
 category: players
 tags: [GK, Botafogo, Brazil, GK]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at Botafogo. Archetype: GK.
@@ -26,60 +26,35 @@ backlinks: [gk, botafogo]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Brazilian shot-stopper with decent reflexes and a tidy distribution range for a goalkeeper operating at Portuguese second-tier level. Positioning is the real issue—he drifts too much off his line and struggles with the geometry of crosses, which leaves him vulnerable to set-piece chaos. At 23, he has the athleticism to develop into a solid lower-division keeper, but there's nothing here that suggests top-flight ambition without meaningful technical refinement.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Sweeper Keeper`.
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Reactions, Close Range, and Positioning.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Reactions, Close Range, and Positioning.
-- Style traits point toward Cross Claimer in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Positioning | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Pace | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Reactions | ████████████████ 16/10 |
+| Close Range | ███████████████ 15/10 |
+| Positioning | ███████████████ 15/10 |
+| Jumping | ██████████████ 14/10 |
+| Pass Range | ████████████ 12/10 |
+| Acceleration | ███████████ 11/10 |
+| Pace | ██████████ 10/10 |
+| Aggression | ████████░░ 8/10 |
+| Stamina | ████████░░ 8/10 |
+| Mental | ██████░░░░ 6/10 |
+| Physical | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Technical | █████░░░░░ 5/10 |
+| Awareness | ███░░░░░░░ 3/10 |
+| Intensity | ███░░░░░░░ 3/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 5/10
+- **Cross Claimer** (style) — severity 5/10
 
 ## Personality
 
@@ -89,18 +64,3 @@ Brazilian shot-stopper with decent reflexes and a tidy distribution range for a 
 - **Pressure (JP)**: 63
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 5/10
-- **Cross Claimer** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

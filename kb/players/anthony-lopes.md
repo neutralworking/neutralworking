@@ -2,7 +2,7 @@
 title: Anthony Lopes
 category: players
 tags: [GK, Nantes, Portugal, GK]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: GK at Nantes. Archetype: GK.
@@ -19,16 +19,22 @@ backlinks: [gk, nantes]
 | **Position** | GK |
 | **Club** | Nantes |
 | **Nation** | Portugal |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A shot-stopper of genuine reflex quality who has aged into a more cerebral goalkeeper; his distribution remains clunky and his sweeping range is limited for modern football. At 31, he's still capable of crucial saves in a compact defensive system, but he'll never be the progressive anchor a top-six side demands. Reliable in a holding shape, pedestrian in open play.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +72,13 @@ A shot-stopper of genuine reflex quality who has aged into a more cerebral goalk
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -98,7 +104,7 @@ A shot-stopper of genuine reflex quality who has aged into a more cerebral goalk
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

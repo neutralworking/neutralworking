@@ -1,8 +1,8 @@
 ---
 title: Dender EH
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Dender EH. 25 players in database.
@@ -10,9 +10,23 @@ summary: Dender EH. 25 players in database.
 
 # Dender EH
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 25
+
+## Identity
+
+- Database coverage is deepest in CM (10), CF (4), and GK (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (5), Cover (4), and Sprinter (4) across the current squad.
+- Average available overall grade sits at 64.6, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -33,13 +47,13 @@ summary: Dender EH. 25 players in database.
 | [[noah-mbamba]] Noah Mbamba | CM | Powerhouse-Dribbler | 63.0 |
 | [[roman-kvet]] Roman Květ | CM | Striker-Sprinter | 67.0 |
 | [[gauthier-gallon]] Gauthier Gallon | GK | GK | 76.0 |
-| [[guillaume-dietsch]] Guillaume Dietsch | GK | GK | None |
-| [[michael-verrips]] Michael Verrips | GK | GK | None |
+| [[guillaume-dietsch]] Guillaume Dietsch | GK | GK | — |
+| [[michael-verrips]] Michael Verrips | GK | GK | — |
 | [[alireza-jahanbakhsh]] Alireza Jahanbakhsh | WF | Dribbler | 59.0 |
 | [[f-ferraro]] F. Ferraro | WM | Sprinter-Dribbler | 66.0 |
-| [[d-acquah]] D. Acquah | None | Sprinter-Dribbler | None |
-| [[d-hrncar]] D. Hrnčár | None | Cover-Sprinter | None |
-| [[k-koton]] K. Koton | None | Destroyer | None |
-| [[m-berte]] M. Berte | None | Creator-Sprinter | None |
-| [[moise-sahi]] Moïse Sahi | None | Dribbler-Sprinter | None |
-| [[n-moutha-sebtaoui]] N. Moutha-Sebtaoui | None | Creator-Cover | None |
+| D. Acquah | — | Sprinter-Dribbler | — |
+| D. Hrnčár | — | Cover-Sprinter | — |
+| K. Koton | — | Destroyer | — |
+| M. Berte | — | Creator-Sprinter | — |
+| Moïse Sahi | — | Dribbler-Sprinter | — |
+| N. Moutha-Sebtaoui | — | Creator-Cover | — |

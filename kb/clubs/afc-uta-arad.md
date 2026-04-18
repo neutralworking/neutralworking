@@ -1,18 +1,32 @@
 ---
 title: AFC UTA Arad
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: AFC UTA Arad. 20 players in database.
+summary: AFC UTA Arad. 21 players in database.
 ---
 
 # AFC UTA Arad
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 20
+**League**: —  
+**Nation**: —  
+**Players in DB**: 21
+
+## Identity
+
+- Database coverage is deepest in CM (10), WM (4), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (7), Creator (5), and Gk (2) across the current squad.
+- Average available overall grade sits at 61.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -31,10 +45,11 @@ summary: AFC UTA Arad. 20 players in database.
 | [[ovidiu-popescu]] Ovidiu Popescu | CM | Powerhouse-Passer | 60.0 |
 | [[r-odada]] R. Odada | CM | Dribbler-Powerhouse | 65.0 |
 | [[s-mino]] S. Mino | CM | Destroyer-Creator | 64.0 |
-| [[a-gorcea]] A. Gorcea | GK | GK | None |
-| [[d-iliev]] D. Iliev | GK | GK | None |
+| [[a-gorcea]] A. Gorcea | GK | GK | — |
+| [[d-iliev]] D. Iliev | GK | GK | — |
+| [[a-roman]] A. Román | WF | Creator | 57.0 |
 | [[a-padula]] A. Padula | WM | Destroyer | 63.0 |
 | [[denis-taroi]] Denis Taroi | WM | Creator-Striker | 34.0 |
 | [[m-coman]] M. Coman | WM | Striker-Creator | 63.0 |
 | [[s-alomerovi]] S. Alomeroviс | WM | Creator-Cover | 67.0 |
-| [[d-zsori]] D. Zsóri | None | Striker-Destroyer | None |
+| D. Zsóri | — | Striker-Destroyer | — |

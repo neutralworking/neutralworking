@@ -2,12 +2,12 @@
 title: Jamie Allen
 category: players
 tags: [CM, Coventry City, England, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Coventry City. Archetype: Sprinter.
 person_id: 12339
-backlinks: [sprinter, coventry-city]
+backlinks: [sprinter, tuttocampista, coventry-city]
 ---
 
 # Jamie Allen
@@ -21,18 +21,27 @@ backlinks: [sprinter, coventry-city]
 | **Nation** | England |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A hardworking box-to-box midfielder whose physicality and work-rate mask a lack of genuine technical quality or creative spark. Reliable in his positioning and committed to the grind, but at 30 he's essentially a steady pair of hands rather than someone who elevates the midfield. Useful squad player with a clear, limited ceiling.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `80`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `80`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -63,13 +72,14 @@ A hardworking box-to-box midfielder whose physicality and work-rate mask a lack 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ A hardworking box-to-box midfielder whose physicality and work-rate mask a lack 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

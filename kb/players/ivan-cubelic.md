@@ -2,12 +2,12 @@
 title: Ivan Cubelic
 category: players
 tags: [CM, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Destroyer-Striker.
+summary: CM at —. Archetype: Destroyer-Striker.
 person_id: 19030
-backlinks: [destroyer]
+backlinks: [destroyer, mezzala]
 ---
 
 # Ivan Cubelic
@@ -17,17 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubHajduk Split
 
@@ -43,10 +44,16 @@ A very intelligent, complete midfielder who has been a staple of the Croatia Und
   
 **October 2023 update** Failed to impress at Varazdin and returned to Hajduk in January, getting occasional cameo appearances off the bench and scoring his debut goal for the club in May. Now a fringe player with dual registration, he’s able to get some playing time with NK Solin in the second division.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `71`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Intensity, and Long Range.
@@ -77,13 +84,14 @@ A very intelligent, complete midfielder who has been a staple of the Croatia Und
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,17 +115,16 @@ A very intelligent, complete midfielder who has been a staple of the Croatia Und
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubHajduk Split
 
@@ -132,6 +139,5 @@ A very intelligent, complete midfielder who has been a staple of the Croatia Und
 **September 2022 update** Did well on loan to Dugopolje in the second division and returned to Hajduk. But, after three short cameo appearances, they decided to send him on another loan, this time to Varazdin in the top tier.  
   
 **October 2023 update** Failed to impress at Varazdin and returned to Hajduk in January, getting occasional cameo appearances off the bench and scoring his debut goal for the club in May. Now a fringe player with dual registration, he’s able to get some playing time with NK Solin in the second division.
-
 
 </details>

@@ -5,7 +5,7 @@ tags: [CF, Abha]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Abha. Archetype: None.
+summary: CF at Abha. Archetype: —.
 person_id: 7926
 backlinks: [abha]
 ---
@@ -18,17 +18,24 @@ backlinks: [abha]
 |---|---|
 | **Position** | CF |
 | **Club** | Abha |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 75 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A 30-year-old midfielder or forward offering some technical quality in possession but struggling with consistent end-product. His pressing is half-hearted and he rarely wins the ball back in transition. A squad depth option who can keep possession ticking but doesn't create or finish decisively enough for a starting role.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A 30-year-old midfielder or forward offering some technical quality in possessio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

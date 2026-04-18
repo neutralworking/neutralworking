@@ -23,12 +23,19 @@ backlinks: [dribbler, bari]
 | **Archetype** | [[dribbler]] Dribbler |
 | **Level** | 84 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A technically sound central midfielder who thrives in possession-dominant systems, comfortable receiving on the half-turn and threading passes into the final third with genuine precision. He's a willing presser and reasonably mobile for his profile, but the athleticism has dimmed with age and he lacks the bite required to shield a backline against aggressive pressing—you'd be exposing him in a midfield two against any serious top-six side. At Bari, he's the conductor of a lower-table orchestra; the ability is there, but he's become more of a squad sophisticate than a game-changer.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ A technically sound central midfielder who thrives in possession-dominant system
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -111,6 +119,6 @@ A technically sound central midfielder who thrives in possession-dominant system
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Italy	CM	17 February 1997 (age 26)	Italy Bari	2017	2024	105	11	
+Italy	CM	17 February 1997 (age 26)	Italy Bari	2017	2024	105	11
 
 </details>

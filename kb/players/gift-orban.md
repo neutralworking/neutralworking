@@ -2,7 +2,7 @@
 title: Gift Orban
 category: players
 tags: [CF, 1899 Hoffenheim, Nigeria, Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker.
@@ -23,7 +23,7 @@ backlinks: [striker, 1899-hoffenheim]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 79 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -31,6 +31,13 @@ backlinks: [striker, 1899-hoffenheim]
 Squat, explosive Nigerian striker, who has not stopped breathing fire since arriving in Flanders from Norwegian side Stabaek early this year. Averaging a goal a game in his first 20 outings for Gent last season, he clearly likes to find the net in clusters, notably scoring seven times in the space of three days last March: four goals in a league victory at Zulte Waregem and a three-minute hat-trick
 
 in a Conference League win over Istanbul Basaksehir. Reportedly came close to leaving Gent this summer, with Tottenham among the interested parties. Rated in the €30m bracket, he is currently part of a gifted generation of Super Eagles forwards alongside the likes of Victor Osimhen, Taiwo Awoniyi, Victor Boniface, Kelechi Iheanacho, Moses Simon, Samuel Chukwueze and Terem Moffi.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -69,13 +76,14 @@ in a Conference League win over Istanbul Basaksehir. Reportedly came close to le
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,11 +113,11 @@ in a Conference League win over Istanbul Basaksehir. Reportedly came close to le
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

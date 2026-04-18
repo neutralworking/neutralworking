@@ -2,10 +2,10 @@
 title: Alfredo Aguilar
 category: players
 tags: [GK, Sportivo Luqueño, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at Sportivo Luqueño. Archetype: None.
+summary: GK at Sportivo Luqueño. Archetype: —.
 person_id: 30559
 backlinks: [sportivo-luqueno]
 ---
@@ -20,15 +20,21 @@ backlinks: [sportivo-luqueno]
 | **Club** | Sportivo Luqueño |
 | **Nation** | Paraguay |
 | **Age** | 37 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Alfredo Aguilar projects primarily as a GK with a `None` lean. The strongest database support comes from the current evidence set.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -51,8 +57,8 @@ Alfredo Aguilar projects primarily as a GK with a `None` lean. The strongest dat
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
 
 ## Risk Flags
 
@@ -68,4 +74,4 @@ Alfredo Aguilar projects primarily as a GK with a `None` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |

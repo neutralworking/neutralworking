@@ -2,12 +2,12 @@
 title: J. Quiñones
 category: players
 tags: [CF, Mushuc Runa SC]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Mushuc Runa SC. Archetype: None.
+summary: CF at Mushuc Runa SC. Archetype: —.
 person_id: 23153
-backlinks: [mushuc-runa-sc]
+backlinks: [shadow-striker, mushuc-runa-sc]
 ---
 
 # J. Quiñones
@@ -18,21 +18,30 @@ backlinks: [mushuc-runa-sc]
 |---|---|
 | **Position** | CF |
 | **Club** | Mushuc Runa SC |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Nation** | — |
+| **Age** | — |
+| **Archetype** | — |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-J. Quiñones projects primarily as a CF with a `None` lean. The strongest database support comes from Carries, Tactical, and Pressing.
+J. Quiñones projects primarily as a CF with a `—` lean. The strongest database support comes from Carries, Tactical, and Pressing.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `69`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `69`.
 - Most bankable strengths show up in Carries, Tactical, and Pressing.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -58,13 +67,14 @@ J. Quiñones projects primarily as a CF with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,6 +101,6 @@ J. Quiñones projects primarily as a CF with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

@@ -5,7 +5,7 @@ tags: [CD, OM, Netherlands]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at OM. Archetype: None.
+summary: CD at OM. Archetype: —.
 person_id: 8561
 backlinks: [om]
 ---
@@ -20,15 +20,21 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | Netherlands |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Cultured center-back with excellent ball-playing ability and tactical maturity; reads the game several moves ahead. Limited for pace recovery, but compensates through positioning and passing range—solid Ligue 1 starter at 27.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +48,13 @@ Cultured center-back with excellent ball-playing ability and tactical maturity; 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

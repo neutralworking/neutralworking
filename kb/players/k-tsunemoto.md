@@ -2,12 +2,12 @@
 title: K. Tsunemoto
 category: players
 tags: [CM, FC Basel 1893, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at FC Basel 1893. Archetype: Destroyer-Powerhouse.
 person_id: 24641
-backlinks: [destroyer, fc-basel-1893]
+backlinks: [destroyer, tuttocampista, fc-basel-1893]
 ---
 
 # K. Tsunemoto
@@ -18,21 +18,30 @@ backlinks: [destroyer, fc-basel-1893]
 |---|---|
 | **Position** | CM |
 | **Club** | FC Basel 1893 |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Tsunemoto's Terrier archetype is defined by his impressive balance, acceleration, and stamina, allowing him to cover a significant amount of ground and provide defensive solidity, but his technical and mental limitations may hinder his ability to contribute to the team's build-up play and maintain possession in high-pressure situations, making him a suitable fit for a team that prioritizes destructive capabilities and counter-attacking flair.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `76`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `76`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Positional Discipline.
 - Most bankable strengths show up in Acceleration, Balance, and Stamina.
@@ -63,13 +72,14 @@ Tsunemoto's Terrier archetype is defined by his impressive balance, acceleration
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 20.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Tsunemoto's Terrier archetype is defined by his impressive balance, acceleration
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

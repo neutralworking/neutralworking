@@ -2,7 +2,7 @@
 title: Carles Puyol
 category: players
 tags: [CD, Barcelona, Spain, Destroyer-Commander]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
 summary: CD at Barcelona. Archetype: Destroyer-Commander.
@@ -22,13 +22,20 @@ backlinks: [destroyer, barcelona]
 | **Age** | 48 |
 | **Archetype** | [[destroyer]] Destroyer-Commander |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CD	Enthusiastic	Defender	Titan	Barcelona	ESP	B	85.5	Puyol was known for his commanding presence in the air, his composure on the ball and his intense commitment and ruggedness. According to Barcelona's head doctor, "he was ""the strongest", who has the quickest reactions, "and who has the most explosive strength."" Club fans referred to him as ""The Wall"". Miguel Ángel Nadal", who played with him for a short period of time, said, """Carles plays with maturity, has great positional sense, and above all, has pride in his shirt."""	Commanding presence, aerial ability, speed of thought, committment, bravery, professionalism, strength, positioning, maturity, pride	Regarded as one of the best defenders of his generation.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -47,10 +54,11 @@ CD	Enthusiastic	Defender	Titan	Barcelona	ESP	B	85.5	Puyol was known for his comm
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +69,8 @@ CD	Enthusiastic	Defender	Titan	Barcelona	ESP	B	85.5	Puyol was known for his comm
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

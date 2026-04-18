@@ -2,7 +2,7 @@
 title: Robin Lod
 category: players
 tags: [AM, Minnesota United FC, Finland, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: AM at Minnesota United FC. Archetype: Sprinter-Dribbler.
@@ -19,62 +19,40 @@ backlinks: [sprinter, minnesota-united-fc]
 | **Position** | AM |
 | **Club** | Minnesota United FC |
 | **Nation** | Finland |
-| **Age** | 33 |
+| **Age** | 32 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 80 |
 | **Overall** | 62.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Robin Lod projects primarily as a AM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Balance, and First Touch.
-
-## Role Fit
-
-- Best-fit role is `Incursore` with model support score `75`.
-- Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
-- Most bankable strengths show up in Acceleration, Balance, and First Touch.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Balance, and First Touch.
-- Style traits point toward Flamboyant, Two Footed, and Press Proven in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Endurance.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Acceleration | ███████████████ 15/10 |
+| Balance | ███████████████ 15/10 |
+| First Touch | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Jumping | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Awareness | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Heading | ████████████ 12/10 |
+| Interceptions | ███████████ 11/10 |
+| Tackling | ███████████ 11/10 |
+| Marking | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **flamboyant** (style) — severity 9/10
+- **Two Footed** (style) — severity 7/10
+- **endurance** (physical) — severity 5/10
+- **Press Proven** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -84,19 +62,3 @@ Robin Lod projects primarily as a AM with a `Sprinter-Dribbler` lean. The strong
 - **Pressure (JP)**: 44
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 9/10
-- **Two Footed** (style) — severity 7/10
-- **Endurance** (physical) — severity 5/10
-- **Press Proven** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

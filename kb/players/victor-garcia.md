@@ -2,7 +2,7 @@
 title: Víctor García
 category: players
 tags: [WM, Levante, Creator-Cover]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Levante. Archetype: Creator-Cover.
@@ -26,49 +26,34 @@ backlinks: [creator, levante]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 As an Outlet Wide Playmaker operating as a Tornante, Víctor García relies on blistering pace, high stamina, and impressive take-ons to drive play from the left flank, coupled with decent shielding. His overall defensive contribution is hindered by poor blocking, and his tactical and general technical foundations are notably limited, indicating a reliance on athletic qualities. García represents the archetype of a traditional wide player focused on direct dribbling and running the channels, a Wide Playmaker who brings width and carries rather than intricate passing, making him suitable for counter-attacking teams or those that need direct flank penetration. For clubs seeking an impactful wide player who can offer verticality and beat a man with pace and take-ons, García's market value is tied to his physical attributes, but his limited tactical and technical ceiling, coupled with poor defensive blocking, makes him a specific signing for a team willing to accommodate his weaknesses or deploy him in a more advanced, less defensively demanding role.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `False Winger` with model support score `71`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Pace, Stamina, and Acceleration.
-
-## In Possession
-
-- Ball-value indicators lean on Pace, Stamina, and Acceleration.
-- Style traits point toward Skill Moves and Technical Ability in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Pace | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Crossing | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Jumping | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Penalties | ████████████ 12/10 |
+| Physical | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -78,17 +63,3 @@ As an Outlet Wide Playmaker operating as a Tornante, Víctor García relies on b
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

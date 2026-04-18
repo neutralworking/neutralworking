@@ -5,7 +5,7 @@ tags: [CD, Universitario, Peru]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Universitario. Archetype: None.
+summary: CD at Universitario. Archetype: —.
 person_id: 28071
 backlinks: [universitario]
 ---
@@ -20,15 +20,21 @@ backlinks: [universitario]
 | **Club** | Universitario |
 | **Nation** | Peru |
 | **Age** | 34 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 17.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Anderson Santamaría projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Blocking, and Communication.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,8 +72,8 @@ Anderson Santamaría projects primarily as a CD with a `None` lean. The stronges
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
 
 ## Risk Flags
 

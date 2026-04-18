@@ -23,12 +23,19 @@ backlinks: [sprinter, as-saint-etienne]
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left-sided defender operating in Ligue 2, Ferreira is a functional, physical presence with decent recovery pace and the athleticism to cover ground quickly when Saint-Étienne transition. He's capable enough in a back four at this level — solid enough positioning, willing to engage — but he's not a footballer in the modern sense; his passing is lateral and safe, his decision-making in the half-space is pedestrian, and he struggles to progress play from deep with any real range or intelligence. The sort of defender who gets exposed against good wide forwards with technical demands because he relies on recovery rather than anticipation or reading space. At 24, with limited top-division experience, he's a squad player with a ceiling that's unlikely to extend far beyond Ligue 2 mid-table.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ A left-sided defender operating in Ligue 2, Ferreira is a functional, physical p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

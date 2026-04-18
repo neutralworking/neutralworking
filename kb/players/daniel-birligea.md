@@ -2,7 +2,7 @@
 title: Daniel Bîrligea
 category: players
 tags: [CF, FCSB, Romania, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at FCSB. Archetype: Sprinter-Dribbler.
@@ -23,12 +23,19 @@ backlinks: [sprinter, fcsb]
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Daniel Bîrligea profiles as a Sprinter-Dribbler Complete Forward, boasting strong physical attributes like acceleration, pace, stamina, and jumping, which make him a clear counter-attack threat. While his technical pillar is moderate, strong tactical and mental pillars suggest a player who understands his role well despite struggles in duels and occasional lapses in guile and awareness. Historically, he fits the modern direct attacker, thriving in systems that leverage his runner blueprint in transitional play, rather than intricate build-up. For a director, Bîrligea represents a rising talent for clubs needing an athletic, direct striker, though his underdeveloped dueling ability and awareness could be risk factors against highly organized defenses.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Daniel Bîrligea profiles as a Sprinter-Dribbler Complete Forward, boasting stro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.3m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +104,7 @@ Daniel Bîrligea profiles as a Sprinter-Dribbler Complete Forward, boasting stro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

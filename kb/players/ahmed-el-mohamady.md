@@ -5,7 +5,7 @@ tags: [WD, Egypt, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WD at None. Archetype: Sprinter.
+summary: WD at —. Archetype: Sprinter.
 person_id: 126
 backlinks: [sprinter]
 ---
@@ -17,18 +17,24 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Egypt |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ahmed El Mohamady projects primarily as a WD with a `Sprinter` lean. The strongest database support comes from Acceleration, Aerial Duels, and First Touch.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +72,13 @@ Ahmed El Mohamady projects primarily as a WD with a `Sprinter` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 15.3m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

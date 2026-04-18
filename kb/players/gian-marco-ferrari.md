@@ -2,10 +2,10 @@
 title: Gian Marco Ferrari
 category: players
 tags: [CD, Sassuolo, Italy]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Sassuolo. Archetype: None.
+summary: CD at Sassuolo. Archetype: —.
 person_id: 11387
 backlinks: [sassuolo]
 ---
@@ -20,15 +20,22 @@ backlinks: [sassuolo]
 | **Club** | Sassuolo |
 | **Nation** | Italy |
 | **Age** | 34 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 82 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Reliable center-back with excellent positioning and aerial dominance; slightly limited in pace recovery but consistently steady performer who provides Sassuolo defensive solidity in Serie A.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -46,13 +53,14 @@ Reliable center-back with excellent positioning and aerial dominance; slightly l
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
+| Floor | EUR 1.3m |
 | Mid | EUR 3.0m |
 | Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -77,6 +85,6 @@ Reliable center-back with excellent positioning and aerial dominance; slightly l
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: S. Colombatto
 category: players
 tags: [CM, Real Oviedo, Powerhouse-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Real Oviedo. Archetype: Powerhouse-Creator.
@@ -26,54 +26,32 @@ backlinks: [powerhouse, real-oviedo]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-S. Colombatto projects primarily as a CM with a `Powerhouse-Creator` lean. The strongest database support comes from Stamina, Shielding, and Acceleration.
-
-## Role Fit
-
-- Best-fit role is `Playmaker` with model support score `72`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Stamina, Shielding, and Acceleration.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Shielding, and Acceleration.
-- Style traits point toward Set Piece Threat, Passing Ability, and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Stamina | █████████████████ 17/10 |
+| Shielding | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Balance | ███████████████ 15/10 |
+| First Touch | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Pass Range | ███████████████ 15/10 |
+| Penalties | ███████████████ 15/10 |
+| Marking | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Heading | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+| Aggression | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- **build_up_contributor** (tactical) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
 
 ## Personality
 
@@ -83,18 +61,3 @@ S. Colombatto projects primarily as a CM with a `Powerhouse-Creator` lean. The s
 - **Pressure (JP)**: 31
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

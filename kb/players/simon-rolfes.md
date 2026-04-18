@@ -2,7 +2,7 @@
 title: Simon Rolfes
 category: players
 tags: [CM, Bayer Leverkusen, Germany, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Bayer Leverkusen. Archetype: Creator-Passer.
@@ -26,54 +26,35 @@ backlinks: [creator, bayer-leverkusen]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 CM				Bayer 04	GER	C	0.0			Rolfes started his career at Werder Bremen after progressing through their academy. During the 2000–01 season, he scored five goals in 26 league appearances for the reserve team.[2] He scored against Dresdner SC, Fortuna Düsseldorf, Lüneburger SK, Erzgebirge Aue, and Fortuna Köln.[2] He also made an appearances in the DFB-Pokal.[3] He would score seven goals in 31 league appearances[4] and a goal in two DFB-Pokal[5] during the 2001–02 season and two goals in 17 league appearances[6] and an appearance during the DFB-Pokal[7] during the 2002–03 season. He also made a UEFA Cup appearance for the first team during the 2002–03 season.[7] The match was an 8–0 against Metalurh Donetsk on 3 October 2002.[8] He came on in the 68th minute during for Krisztián Lisztes.[8] He then was loaned for the remainder of the season with SSV Reutlingen 05[9] where he made 13 appearances.[10] In his final season with the reserve team, he scored four goals in 26 league appearances.[11] He made exactly 100 league appearances[12] and four DFB-Pokal appearances for the reserve team and managed to notch 19 goals (one in the DFB-Pokal) from his defensive midfield position. Despite his good form, SV Werder Bremen manager Thomas Schaaf did not feature him as a regular, so in 2004 he moved to Alemannia Aachen and scored three goals in 28 league appearances in his one season there.[13] He also made two appearances in the DFB-Pokal and seven appearances in the UEFA Cup. Year 2005 came out to be a crucial year for Rolfes, with Bayer Leverkusen signing him and since then he has become a fan favorite, quickly winning a regular spot and not much after, captaincy in the full squad. He appeared in 37 matches in the 2005–06 season,[7] 49 in the 2006–07 season,[7] 47 in the 2007–08 season,[14] and 39 in the 2008–09 season.[15] Rolfes suffered a serious knee injury on 2 July 2009. During the 2009–10 season, Rolfes missed matchdays 10 to 17 and made his final appearance on matchday 19 against 1899 Hoffenheim.[17] He made only 13 appearances in all competitions during the season.[17] He missed out on the 2010 FIFA World Cup in South Africa. He returned to fitness the following season. He appeared in 36 matches in all competitions.[18] He continued to be a regular late into his career. He made 40 appearances in the 2011–12[1] and 2012–13[19] seasons, 43 in 2013–14 season,[20] and 33 in the 2014–15 season.[21] On 7 December 2014, he announced his decision to retire from football after the 2014–15 season. Rolfes and Bastian Schweinsteiger in a match against South Africa Rolfes made his international debut for Germany in a friendly against Denmark on 28 March 2007 in Duisburg. He was part of the German team that finished as runners-up at Euro 2008. Rolfes started in the quarter-finals against Portugal in Basel, which Germany won 3–2, and started the semi-finals against Turkey, also in Basel, which they also won 3–2. Rolfes scored his first goal on 6 September 2008 in a 2010 World Cup qualifier, a 6–0 win against Liechtenstein. Rolfes was set to be called up to German squad for the 2010 FIFA World Cup, but he got injured and missed the competition and more than ten first games of the 2010–11 season for the "Werkself".
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Most bankable strengths show up in Interceptions, Marking, and Pass Accuracy.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Interceptions, Marking, and Pass Accuracy.
-- Style traits point toward Ball Progressor, Aerial Threat, and Long Range Passing in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Aerial Duels | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Skills | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Interceptions | ████████████████ 16/10 |
+| Marking | ████████████████ 16/10 |
+| Pass Accuracy | ████████████████ 16/10 |
+| Pass Range | ████████████████ 16/10 |
+| Tackling | ████████████████ 16/10 |
+| Aerial Duels | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Skills | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Mid Range | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Heading | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Ball Progressor** (style) — severity 7/10
+- **Aerial Threat** (style) — severity 7/10
+- **Long Range Passing** (style) — severity 4/10
 
 ## Personality
 
@@ -83,22 +64,6 @@ CM				Bayer 04	GER	C	0.0			Rolfes started his career at Werder Bremen after prog
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Ball Progressor** (style) — severity 7/10
-- **Aerial Threat** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

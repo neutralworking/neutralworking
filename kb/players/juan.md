@@ -2,12 +2,12 @@
 title: Juan
 category: players
 tags: [WF, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Striker-Sprinter.
+summary: WF at —. Archetype: Striker-Sprinter.
 person_id: 3654
-backlinks: [striker]
+backlinks: [striker, wide-target-forward]
 ---
 
 # Juan
@@ -17,22 +17,31 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[wide-target-forward]] Wide Target Forward |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Juan projects primarily as a WF with a `Striker-Sprinter` lean. The strongest database support comes from Physical, Shielding, and Stamina.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Target Forward` with model support score `73`.
+- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `73`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Physical, Shielding, and Stamina.
@@ -67,13 +76,14 @@ Juan projects primarily as a WF with a `Striker-Sprinter` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,6 +114,6 @@ Juan projects primarily as a WF with a `Striker-Sprinter` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

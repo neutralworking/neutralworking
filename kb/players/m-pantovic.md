@@ -1,13 +1,13 @@
 ---
 title: M. Pantović
 category: players
-tags: [CM, Panathinaikos, Cover-Striker]
-updated: 2026-04-17
+tags: [CM, OFK Beograd, Cover-Striker]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CM at Panathinaikos. Archetype: Cover-Striker.
+summary: CM at OFK Beograd. Archetype: Cover-Striker.
 person_id: 24940
-backlinks: [cover, panathinaikos]
+backlinks: [cover, ofk-beograd]
 ---
 
 # M. Pantović
@@ -17,7 +17,7 @@ backlinks: [cover, panathinaikos]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Panathinaikos |
+| **Club** | OFK Beograd |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[cover]] Cover-Striker |
@@ -26,54 +26,30 @@ backlinks: [cover, panathinaikos]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-M. Pantović projects primarily as a CM with a `Cover-Striker` lean. The strongest database support comes from Aggression, Tackling, and Awareness.
-
-## Role Fit
-
-- Best-fit role is `Ball Winner` with model support score `71`.
-- Primary archetype leans toward `Cover` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Aggression, Tackling, and Awareness.
-
-## In Possession
-
-- Ball-value indicators lean on Aggression, Tackling, and Awareness.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Tackling | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Duels | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Physical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Aggression | █████████░ 9/10 |
+| Tackling | ████████░░ 8/10 |
+| Awareness | ██████░░░░ 6/10 |
+| Duels | ██████░░░░ 6/10 |
+| Interceptions | ██████░░░░ 6/10 |
+| Physical | ██████░░░░ 6/10 |
+| Pressing | ██████░░░░ 6/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Flair | █████░░░░░ 5/10 |
+| Long Range | █████░░░░░ 5/10 |
+| Pass Accuracy | █████░░░░░ 5/10 |
+| Tactical | █████░░░░░ 5/10 |
+| Technical | █████░░░░░ 5/10 |
+| Blocking | ████░░░░░░ 4/10 |
+| Communication | ████░░░░░░ 4/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 5/10
+- **hot_headed** (behavioral) — severity 5/10
 
 ## Personality
 
@@ -83,16 +59,3 @@ M. Pantović projects primarily as a CM with a `Cover-Striker` lean. The stronge
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 5/10
-- **Hot Headed** (behavioral) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

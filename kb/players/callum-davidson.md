@@ -18,17 +18,23 @@ backlinks: [destroyer, st-johnstone]
 |---|---|
 | **Position** | WD |
 | **Club** | St Johnstone |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 49 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
 | **Level** | 47 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Callum Davidson projects primarily as a WD with a `Destroyer-Dribbler` lean. The strongest database support comes from Aerial Duels, First Touch, and Heading.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +67,13 @@ Callum Davidson projects primarily as a WD with a `Destroyer-Dribbler` lean. The
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.1m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

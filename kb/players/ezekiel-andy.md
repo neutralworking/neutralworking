@@ -2,10 +2,10 @@
 title: Ezekiel Andy
 category: players
 tags: [GK, Nigeria]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 32177
 ---
 
@@ -16,18 +16,25 @@ person_id: 32177
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Nigeria |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 45.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Ezekiel Andy projects primarily as a GK with a `None` lean. The strongest database support comes from Shielding, Duels, and Pressing.
+Ezekiel Andy projects primarily as a GK with a `—` lean. The strongest database support comes from Shielding, Duels, and Pressing.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -65,8 +72,9 @@ Ezekiel Andy projects primarily as a GK with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,5 +90,5 @@ Ezekiel Andy projects primarily as a GK with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 8 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 8 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |

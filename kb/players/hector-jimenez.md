@@ -18,17 +18,24 @@ backlinks: [passer, austin-fc]
 |---|---|
 | **Position** | WD |
 | **Club** | Austin FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 37 |
 | **Archetype** | [[passer]] Passer-Powerhouse |
 | **Level** | 58 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jiménez, despite his advanced years, shows glimpses of a Passer-Powerhouse with decent crossing and through-ball ability, suited for an Invertido role. Yet, his overall mental, technical, and tactical shortcomings mean he frequently misreads play and can be caught out defensively, undermining his otherwise solid distribution.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -65,10 +72,11 @@ Jiménez, despite his advanced years, shows glimpses of a Passer-Powerhouse with
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

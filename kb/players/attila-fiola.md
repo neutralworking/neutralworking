@@ -5,7 +5,7 @@ tags: [CD, Hungary, Powerhouse-Destroyer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at None. Archetype: Powerhouse-Destroyer.
+summary: CD at —. Archetype: Powerhouse-Destroyer.
 person_id: 8791
 backlinks: [powerhouse]
 ---
@@ -17,18 +17,25 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Hungary |
 | **Age** | 36 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Fiola is a Stopper who excels in defensive situations, using his aggression and tackling ability to win the ball back. However, his limited physicality and lack of interceptions hold him back from being a more dominant defender. His experience and competitive personality make him a leader on the pitch, but his limited carries and lack of progressive passing range restrict his team's ability to build attacks from the back.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,10 +72,11 @@ Fiola is a Stopper who excels in defensive situations, using his aggression and 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

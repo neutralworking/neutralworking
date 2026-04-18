@@ -2,7 +2,7 @@
 title: Diego Lainez
 category: players
 tags: [WF, Tigres UANL, Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Tigres UANL. Archetype: Creator.
@@ -18,16 +18,15 @@ backlinks: [creator, tigres-uanl]
 |---|---|
 | **Position** | WF |
 | **Club** | Tigres UANL |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[creator]] Creator |
 | **Level** | 75 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 CountryMexico
 
@@ -36,12 +35,6 @@ ClubClub América
 PositionWinger
 
 Born9 June 2000
-
-
-
-
-
-
 
 ****
 
@@ -57,6 +50,12 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
  
 **September 2022 update** The wise words that Pellegrini gave Lainez about being more mature were not adopted by the Mexican midfielder and he barely featured again at Real Betis last season. SC Braga gave Lainez a way out this summer, but he has not started the new season in the best of form. “He doesn’t have enough muscle mass for a physical league like Portugal,” the Braga manager, Artur Jorge, moaned when asked why the Mexican had barely featured. Lainez is still part of the Mexico national team and will almost certainly make the cut for Qatar, but he may no longer be first choice in their midfield any more.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -91,13 +90,14 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -124,17 +124,16 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryMexico
 
@@ -143,12 +142,6 @@ ClubClub América
 PositionWinger
 
 Born9 June 2000
-
-
-
-
-
-
 
 ****
 
@@ -160,6 +153,6 @@ A diminutive, left-footed forward with a sharp burst of pace who likes to entert
  
 **October 2020 update** The intermittent flashes of brilliance are still there when Lainez plays for Real Betis and he does look to have physically bulked up, but the starts and playing time simply haven’t come to the degree he would’ve hoped.
  
-**October 2021 ...
+**October 2021 update*...
 
 </details>

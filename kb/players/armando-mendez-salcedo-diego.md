@@ -2,10 +2,10 @@
 title: Armando Mendez Salcedo Diego
 category: players
 tags: [GK, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 28863
 ---
 
@@ -16,18 +16,25 @@ person_id: 28863
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Bolivia |
 | **Age** | 35 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 54.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Armando Mendez Salcedo Diego projects primarily as a GK with a `None` lean. The strongest database support comes from Flair, Pass Range, and Positioning.
+Armando Mendez Salcedo Diego projects primarily as a GK with a `—` lean. The strongest database support comes from Flair, Pass Range, and Positioning.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,8 +73,9 @@ Armando Mendez Salcedo Diego projects primarily as a GK with a `None` lean. The 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,5 +101,5 @@ Armando Mendez Salcedo Diego projects primarily as a GK with a `None` lean. The 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 20 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 12 tagged traits linked to style or tactical behaviour. |

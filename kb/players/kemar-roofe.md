@@ -5,7 +5,7 @@ tags: [CF, Rangers FC, Jamaica]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Rangers FC. Archetype: None.
+summary: CF at Rangers FC. Archetype: —.
 person_id: 13417
 backlinks: [rangers-fc]
 ---
@@ -20,11 +20,22 @@ backlinks: [rangers-fc]
 | **Club** | Rangers FC |
 | **Nation** | Jamaica |
 | **Age** | 33 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Kemar Roofe is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -37,10 +48,11 @@ backlinks: [rangers-fc]
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

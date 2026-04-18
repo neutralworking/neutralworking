@@ -2,7 +2,7 @@
 title: Morgan Rogers
 category: players
 tags: [AM, Aston Villa, United Kingdom, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: AM at Aston Villa. Archetype: Creator-Passer.
@@ -26,54 +26,37 @@ backlinks: [creator, aston-villa]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 English attacking midfielder. Physical, direct, explosive. Breakthrough season showed genuine top-level potential.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Enganche` with model support score `84`.
-- Primary archetype leans toward `Creator` behaviour from a `AM` base.
-- Most bankable strengths show up in Creativity, Composure, and Pass Accuracy.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Creativity, Composure, and Pass Accuracy.
-- Style traits point toward Two Footed, Trickery, and Technical Ability in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Creativity | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Composure | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Through Balls | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Vision | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Anticipation | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Carries | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Flair | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Creativity | █████████████████ 17/10 |
+| Composure | ████████████████ 16/10 |
+| Pass Accuracy | ████████████████ 16/10 |
+| Through Balls | ████████████████ 16/10 |
+| Vision | ████████████████ 16/10 |
+| Anticipation | ███████████████ 15/10 |
+| Carries | ███████████████ 15/10 |
+| Flair | ███████████████ 15/10 |
+| Penalties | ███████████████ 15/10 |
+| Physical | ███████████████ 15/10 |
+| Skills | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Awareness | ██████████████ 14/10 |
+| Close Range | ██████████████ 14/10 |
+| Intensity | ██████████████ 14/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **durability** (physical) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -83,24 +66,6 @@ English attacking midfielder. Physical, direct, explosive. Breakthrough season s
 - **Pressure (JP)**: 45
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Durability** (physical) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

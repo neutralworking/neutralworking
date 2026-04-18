@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Legia Warszawa. Archetype: Creator.
 person_id: 13266
-backlinks: [creator, legia-warszawa]
+backlinks: [creator, playmaker, legia-warszawa]
 ---
 
 # Kacper Urbański
@@ -21,13 +21,13 @@ backlinks: [creator, legia-warszawa]
 | **Nation** | Poland |
 | **Age** | 21 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 59 |
 | **Overall** | 57.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubBologna
 
@@ -41,10 +41,16 @@ At the age of 15 Urbanski became the second youngest player to make his debut in
   
 **October 2023 update** Huge progress. Finished the 2022-23 season with nine goals to his name for Bologna's Primavera team. Promoted to the first squad in the summer and has made two substitute appearances in Serie A already, contributing to the 2-1 win over Cagliari. Very highly rated by the coach Thiago Motta.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -79,13 +85,14 @@ At the age of 15 Urbanski became the second youngest player to make his debut in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

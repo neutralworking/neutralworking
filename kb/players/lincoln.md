@@ -2,7 +2,7 @@
 title: Lincoln
 category: players
 tags: [AM, Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: AM at None. Archetype: Creator.
@@ -26,7 +26,7 @@ backlinks: [creator]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 CountryBrazil
 
@@ -49,52 +49,32 @@ Born16 December 2000
 **September 2022 update** The forward did not have the best of times in 2022 so far, making only eight J1 League appearances before being loaned to Cruzeiro, Ronaldo’s club, in Série B.
 
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Trequartista` with model support score `72`.
-- Primary archetype leans toward `Creator` behaviour from a `AM` base.
-- Most bankable strengths show up in Jumping, Acceleration, and Balance.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Acceleration, and Balance.
-- Style traits point toward Trickery, Technical Ability, and Flamboyant in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Balance | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| Heading | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Shielding | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| Stamina | ███████████ 11/10 |
+| Pass Range | ██████████ 10/10 |
+| Aerial Duels | ████████░░ 8/10 |
+| Aggression | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **aerial_threat** (physical) — severity 10/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **flamboyant** (style) — severity 4/10
 
 ## Personality
 
@@ -104,23 +84,6 @@ Born16 December 2000
 - **Pressure (JP)**: 40
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Flamboyant** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -5,7 +5,7 @@ tags: [CD, Darmstadt, Germany]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Darmstadt. Archetype: None.
+summary: CD at Darmstadt. Archetype: —.
 person_id: 12407
 backlinks: [darmstadt]
 ---
@@ -20,15 +20,22 @@ backlinks: [darmstadt]
 | **Club** | Darmstadt |
 | **Nation** | Germany |
 | **Age** | 32 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A 32-year-old centre-back who's a reliable squad option but nothing more—he understands Bundesliga positioning and rarely catastrophes, though he lacks any real speed or technical range. He's the definition of experienced depth, effective in specific matchups but not a player you'd build around. Career backup.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ A 32-year-old centre-back who's a reliable squad option but nothing more—he un
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

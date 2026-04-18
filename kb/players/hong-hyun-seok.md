@@ -1,89 +1,70 @@
 ---
-title: Hong Hyun-Seok
+title: Hong Hyun-seok
 category: players
-tags: [WM, Nantes, Striker-Cover]
+tags: [CM, South Korea]
 updated: 2026-04-18
 source: compiled
-confidence: high
-summary: WM at Nantes. Archetype: Striker-Cover.
-person_id: 21410
-backlinks: [striker, nantes]
+confidence: low
+summary: CM at —. Archetype: —.
+person_id: 27948
 ---
 
-# Hong Hyun-Seok
+# Hong Hyun-seok
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | WM |
-| **Club** | Nantes |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[striker]] Striker-Cover |
-| **Level** | None |
-| **Overall** | 46.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | CM |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 26 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Hong Hyun-Seok projects primarily as a WM with a `Striker-Cover` lean. The strongest database support comes from Discipline, Close Range, and Composure.
+Hong Hyun-seok is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `False Winger` with model support score `57`.
-- Primary archetype leans toward `Striker` behaviour from a `WM` base.
-- Most bankable strengths show up in Discipline, Close Range, and Composure.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on Discipline, Close Range, and Composure.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Drive | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Long Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 47
-- **Motivation (SN)**: 60
-- **Social (TF)**: 66
-- **Pressure (JP)**: 56
-- **Competitiveness**: 3/10
-- **Coachability**: 3/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-18 | Low | Only roster-level identity fields were available at compile time. |

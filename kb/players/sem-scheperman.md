@@ -2,7 +2,7 @@
 title: Sem Scheperman
 category: players
 tags: [CM, Heracles, Netherlands, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Heracles. Archetype: Powerhouse-Destroyer.
@@ -26,53 +26,34 @@ backlinks: [powerhouse, heracles]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Sem Scheperman is a physically imposing midfielder who excels at making progressive carries and winning the ball back, but his limited technical ability and lack of creativity may hinder his ability to control the tempo of the game. As a Colossus archetype, he is well-suited to a Metodista role where he can utilize his physicality and aggression to dictate the tempo of the game. Historically, his style of play is reminiscent of traditional midfield controllers who prioritize maintaining possession over creating scoring opportunities, and he would thrive in a system that allows him to make inverted runs and exploit half-spaces. From a squad-building perspective, Scheperman's market position is relatively high due to his physical attributes, making him a target for top-tier clubs looking to add control to their midfield, but his limited technical ability may be a risk factor for teams that rely on a strong defensive structure.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
-- Most bankable strengths show up in Stamina, Acceleration, and Balance.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Acceleration, and Balance.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Stamina | ████████████████ 16/10 |
+| Acceleration | █████████████ 13/10 |
+| Balance | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Heading | ███████████ 11/10 |
+| Marking | ███████████ 11/10 |
+| Blocking | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Aggression | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **build_up_contributor** (tactical) — severity 7/10
+- **high_press** (tactical) — severity 6/10
 
 ## Personality
 
@@ -82,17 +63,3 @@ Sem Scheperman is a physically imposing midfielder who excels at making progress
 - **Pressure (JP)**: 59
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **High Press** (tactical) — severity 6/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -22,13 +22,20 @@ backlinks: [powerhouse, barnsley]
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
 | **Level** | 79 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Josh Benson, a 'Powerhouse-Dribbler' Mezzala, excels at carrying the ball through the half-spaces with impressive balance and shielding, coupled with good acceleration and passing range. Despite these bursts of individual quality, his woefully low mental, tactical, and technical attributes suggest a player who struggles profoundly with game intelligence, positional discipline, and basic ball manipulation under pressure, significantly limiting his impact beyond direct surges.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ Josh Benson, a 'Powerhouse-Dribbler' Mezzala, excels at carrying the ball throug
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Chaves. Archetype: Sprinter-Dribbler.
 person_id: 13220
-backlinks: [sprinter, chaves]
+backlinks: [sprinter, sweeper, chaves]
 ---
 
 # Junior Pius
@@ -21,18 +21,26 @@ backlinks: [sprinter, chaves]
 | **Nation** | Nigeria |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Junior Pius projects primarily as a CD with a `Sprinter-Dribbler` lean. The strongest database support comes from Stamina, Acceleration, and Pace.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
+- Best-fit role is [[sweeper]] Sweeper.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Junior Pius projects primarily as a CD with a `Sprinter-Dribbler` lean. The stro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

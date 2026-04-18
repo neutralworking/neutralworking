@@ -2,7 +2,7 @@
 title: Scott McKenna
 category: players
 tags: [CD, Dinamo Zagreb, Scotland, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Dinamo Zagreb. Archetype: Destroyer-Powerhouse.
@@ -26,58 +26,38 @@ backlinks: [destroyer, dinamo-zagreb]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A composed, left-footed centre-back who reads the game intelligently and carries the ball out from the back with genuine conviction—unusual for a player of his profile in a modest European league. His positioning is sound and he's reliable in one-on-one duels, but he lacks the athleticism to recover quickly against rapid attackers and can be exposed by direct play over the top. A dependable, understated defender operating at the level of a solid mid-table Premier League starter or a Europa League regular; nothing more.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Colossus` with model support score `80`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Physical, Jumping, and Heading.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Jumping, and Heading.
-- Style traits point toward Aerial Ability and Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Shielding | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Physical | █████████████████ 17/10 |
+| Jumping | ████████████████ 16/10 |
+| Heading | ██████████████ 14/10 |
+| Reactions | █████████████ 13/10 |
+| Stamina | █████████████ 13/10 |
+| First Touch | ████████████ 12/10 |
+| Long Range | ████████████ 12/10 |
+| Shielding | ███████████ 11/10 |
+| Acceleration | ██████████ 10/10 |
+| Pace | ██████████ 10/10 |
+| Balance | ████████░░ 8/10 |
+| Crossing | ████████░░ 8/10 |
+| Pass Range | ████████░░ 8/10 |
+| Aerial Duels | ███████░░░ 7/10 |
+| Clearances | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **aerial_threat** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **durability** (physical) — severity 4/10
 
 ## Personality
 
@@ -87,21 +67,3 @@ A composed, left-footed centre-back who reads the game intelligently and carries
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Aerial Threat** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Durability** (physical) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

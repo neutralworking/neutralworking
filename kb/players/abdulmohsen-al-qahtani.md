@@ -5,7 +5,7 @@ tags: [CM, Al Qadsia, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Al Qadsia. Archetype: None.
+summary: CM at Al Qadsia. Archetype: —.
 person_id: 7776
 backlinks: [al-qadsia]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-qadsia]
 | **Club** | Al Qadsia |
 | **Nation** | Saudi Arabia |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A functional wide player who covers ground enthusiastically and can deliver a decent cross from deep positions, though his decision-making in the final third remains pedestrian. He's useful in a direct, high-intensity system but lacks the progressive carry or creative spark you'd want in a genuinely attacking side. At 26, he's likely peaked as a squad rotation option in the Saudi Pro League.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,13 @@ A functional wide player who covers ground enthusiastically and can deliver a de
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

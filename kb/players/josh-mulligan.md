@@ -2,12 +2,12 @@
 title: Josh Mulligan
 category: players
 tags: [WM, Hibernian, Scotland, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at Hibernian. Archetype: Sprinter.
 person_id: 13064
-backlinks: [sprinter, hibernian]
+backlinks: [sprinter, wide-playmaker, hibernian]
 ---
 
 # Josh Mulligan
@@ -21,18 +21,27 @@ backlinks: [sprinter, hibernian]
 | **Nation** | Scotland |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A right-side runner with the technical composure and tactical intelligence to function as a tornante in modern pressing systems. His pace and acceleration create natural separation, while his balance and shielding make him difficult to dispossess in transitional moments. The weakness is structural: at 175cm, blocking and physical dueling are genuine liabilities against press-resistant defenders, and his discipline issues suggest he'll need careful positioning to avoid needless fouls. Best suited to clubs that build width through pressing triggers rather than static wing play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `75`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `75`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
 
@@ -58,13 +67,14 @@ A right-side runner with the technical composure and tactical intelligence to fu
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,7 +98,7 @@ A right-side runner with the technical composure and tactical intelligence to fu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

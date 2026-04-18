@@ -2,7 +2,7 @@
 title: Nnamdi Collins
 category: players
 tags: [CD, Eintracht Frankfurt, Germany, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Eintracht Frankfurt. Archetype: Engine-Dribbler.
@@ -26,57 +26,35 @@ backlinks: [engine, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A left-sided centre-back with decent progressive range and the physical profile to handle Bundesliga forwards, but his reading of space is inconsistent and he'll get caught ball-watching in transition. He's comfortable in possession and can step into midfield, which is valuable in Frankfurt's build, but lacks the positioning intelligence to be genuinely dominant at this level. Still developing; functional now, but ceiling depends on whether he sharpens his anticipation.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Stopper` with model support score `79`.
-- Primary archetype leans toward `Engine` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
-- Most bankable strengths show up in Jumping, Pace, and Acceleration.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Pace, and Acceleration.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Shielding | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Jumping | █████████████████ 17/10 |
+| Pace | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| Physical | ████████████████ 16/10 |
+| Balance | █████████████ 13/10 |
+| Reactions | ████████████ 12/10 |
+| First Touch | ███████████ 11/10 |
+| Shielding | ███████████ 11/10 |
+| Stamina | ███████████ 11/10 |
+| Aggression | █████████░ 9/10 |
+| Crossing | █████████░ 9/10 |
+| Marking | █████████░ 9/10 |
+| Pass Range | █████████░ 9/10 |
+| Tackling | █████████░ 9/10 |
+| Take Ons | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **build_up_contributor** (tactical) — severity 7/10
+- **aerial_threat** (physical) — severity 6/10
+- **high_press** (tactical) — severity 6/10
 
 ## Personality
 
@@ -86,18 +64,3 @@ A left-sided centre-back with decent progressive range and the physical profile 
 - **Pressure (JP)**: 55
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Aerial Threat** (physical) — severity 6/10
-- **High Press** (tactical) — severity 6/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

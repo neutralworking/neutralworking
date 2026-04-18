@@ -22,13 +22,19 @@ backlinks: [gk, lecce]
 | **Age** | 26 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 74 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The German goalkeeper arrived at Lecce as a prospect with some pedigree from his Bayern background, but he hasn't seized the opportunity to establish himself as a first-choice option in Serie A. He's competent enough—solid reflexes, decent footwork—but there's a sense that he's been overtaken and relegated to squad depth rather than positioning himself as a genuine contender for the number-one shirt.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +67,13 @@ The German goalkeeper arrived at Lecce as a prospect with some pedigree from his
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -104,7 +110,6 @@ The German goalkeeper arrived at Lecce as a prospect with some pedigree from his
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 CountryGermany
 
 ClubBayern Munich
@@ -112,12 +117,6 @@ ClubBayern Munich
 PositionGoalkeeper
 
 Born28 January 2000
-
-
-
-
-
-
 
 ****
 

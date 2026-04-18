@@ -1,13 +1,13 @@
 ---
 title: Odsonne Edouard
 category: players
-tags: [CF, Crystal Palace, France, Striker]
-updated: 2026-04-17
+tags: [CF, Lens, France, Striker]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CF at Crystal Palace. Archetype: Striker.
+summary: CF at Lens. Archetype: Striker.
 person_id: 15829
-backlinks: [striker, crystal-palace]
+backlinks: [striker, lens]
 ---
 
 # Odsonne Edouard
@@ -17,7 +17,7 @@ backlinks: [striker, crystal-palace]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Crystal Palace |
+| **Club** | Lens |
 | **Nation** | France |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker |
@@ -26,54 +26,38 @@ backlinks: [striker, crystal-palace]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Centre-forward with intelligent movement off the ball and some finishing quality, capable of playing in a structured attack where service is consistent. Decent physical profile and positional intelligence for a 30-year-old, but pace is no longer a feature, and he's increasingly isolated in transition or when Lens struggles to build up from the back. Better in a settled system than a chaotic one.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Seconda Punta` with model support score `76`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Counter Attack Threat.
-- Most bankable strengths show up in First Touch, Jumping, and Movement.
-
-## In Possession
-
-- Ball-value indicators lean on First Touch, Jumping, and Movement.
-- Style traits point toward Two Footed, Direct, and Skill Moves in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Counter Attack Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| First Touch | ████████████████ 16/10 |
+| Jumping | ████████████████ 16/10 |
+| Movement | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Physical | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Balance | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Shielding | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Close Range | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Output may be more transition-dependent than possession-dominant environments want.
+- **counter_attack_threat** (tactical) — severity 8/10
+- **Two Footed** (style) — severity 7/10
+- **direct** (style) — severity 6/10
+- **Skill Moves** (style) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
 
 ## Personality
 
@@ -83,21 +67,3 @@ Centre-forward with intelligent movement off the ball and some finishing quality
 - **Pressure (JP)**: 44
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Counter Attack Threat** (tactical) — severity 8/10
-- **Two Footed** (style) — severity 7/10
-- **Direct** (style) — severity 6/10
-- **Skill Moves** (style) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

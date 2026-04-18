@@ -2,10 +2,10 @@
 title: A. Todoroski
 category: players
 tags: [AM, Creator-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: AM at None. Archetype: Creator-Powerhouse.
+summary: AM at —. Archetype: Creator-Powerhouse.
 person_id: 23239
 backlinks: [creator]
 ---
@@ -17,18 +17,25 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Powerhouse |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Todoroski, an Outlet Trequartista, brings explosive acceleration, pace, and stamina combined with aggression and good shielding to drive play centrally. While technically strong overall, his effectiveness is hampered by persistent discipline issues, poor volley technique, and struggles with close-range finishing, indicating a player who thrives in transit but lacks refinement in the final third. This profile leans towards a dynamic, forward-running Trequartista who emphasizes breaking lines and carrying the ball, rather than the more traditional creative passer, fitting systems that value directness and verticality in their attacking midfield. Todoroski's strong physical and technical base makes him an interesting option for clubs seeking a high-energy, central attacking presence, particularly those that can accommodate his moderate tactical understanding. However, his discipline and finishing weaknesses present significant risks, suggesting he'd best suit a development-focused club willing to invest in refining his end product and managing his temperament.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -58,13 +65,14 @@ A. Todoroski, an Outlet Trequartista, brings explosive acceleration, pace, and s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,6 +92,6 @@ A. Todoroski, an Outlet Trequartista, brings explosive acceleration, pace, and s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

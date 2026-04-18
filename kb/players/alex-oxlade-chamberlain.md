@@ -23,12 +23,19 @@ backlinks: [creator, celtic]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 82 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A ball-carrier with genuine rhythm in tight spaces, Oxlade-Chamberlain offers Celtic energy and press resistance in the Number 8 role—think of him as a metronome rather than an innovator. The issue is durability; he's played 24 games this season and looks fresher than the previous five years, but his ceiling remains a reliable rotation piece rather than the 87-rated midfielder Celtic need when things get tight in Europe. He's a functional, match-fit option for domestic grinding, not a creative lynchpin.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +70,13 @@ A ball-carrier with genuine rhythm in tight spaces, Oxlade-Chamberlain offers Ce
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

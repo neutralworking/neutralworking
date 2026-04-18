@@ -2,12 +2,12 @@
 title: Junya Itō
 category: players
 tags: [WF, Genk, Japan, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Genk. Archetype: Creator-Engine.
 person_id: 13226
-backlinks: [creator, genk]
+backlinks: [creator, wide-playmaker, genk]
 ---
 
 # Junya Itō
@@ -21,18 +21,27 @@ backlinks: [creator, genk]
 | **Nation** | Japan |
 | **Age** | 33 |
 | **Archetype** | [[creator]] Creator-Engine |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A wide forward who still carries genuine threat in transition despite his age, with the sort of explosive first step and directness that keeps defenders honest. He's at his best attacking space on the shoulder in half-spaces, where he can use his low centre of gravity to manipulate defenders and either cut inside or whip a dangerous cross—his delivery remains a genuine asset. The problem is his consistency has become fragile; he can disappear for long stretches in a game, and he'll never have the pressing intensity or defensive transition work you'd want from a modern fullback-area winger at a genuinely ambitious club. For Genk, he's a perfectly respectable depth option or a starter in a team that doesn't demand defensive rigour, but he's not moving the needle at the elite level anymore.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `78`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Balance, Pace, and Stamina.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A wide forward who still carries genuine threat in transition despite his age, w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ A wide forward who still carries genuine threat in transition despite his age, w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

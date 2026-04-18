@@ -1,17 +1,45 @@
 ---
 title: Lothar Matthäus
 category: players
-tags: [CM, Germany, Commander-Engine]
+tags: [CM, Germany, Commander-Engine, hall-of-fame]
 updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: Commander-Engine.
 person_id: 14024
 backlinks: [commander]
+is_hof: true
+hof_tier: 3
+best_role: Tuttocampista
 ---
 
 # Lothar Matthäus
 
+<!-- hof-enrichment:start -->
+
+## Hall of Fame
+
+> **Hall of Fame** — curated reference player.
+
+| Field | Value |
+|---|---|
+| **Archetype** | [[commander]] Commander-Engine |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Best Role Score** | 93 |
+| **HoF Tier** | 3 |
+| **Nominated By** | curator |
+
+### Playing Style
+
+The ultimate all-action midfielder — could tackle, shoot, pass, and lead with equal authority. Dominated World Cups as both a midfielder and a sweeper with relentless energy and drive.
+
+### Signature Traits
+
+- **Captain Leader**
+- **Long Range Threat**
+- **Hard Man**
+
+<!-- hof-enrichment:end -->
 ## Overview
 
 | Field | Value |
@@ -26,7 +54,7 @@ backlinks: [commander]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 
 Lothar Matthäus debuted in the Bundesliga as an 18-year old in 1979 and immediately became a starter for Mönchengladbach.
@@ -46,50 +74,33 @@ After captaining West Germany to victory in the 1990 FIFA World Cup, he was name
 Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess that's enough to define him", in his book Yo soy el Diego (I am the Diego)		
 
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Tuttocampista` with model support score `93`.
-- Primary archetype leans toward `Commander` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Captain Leader and Long Range Threat.
-- Most bankable strengths show up in Shielding, Balance, and Acceleration.
-
-## In Possession
-
-- Ball-value indicators lean on Shielding, Balance, and Acceleration.
-- Style traits point toward Work Rate and Trickery in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Captain Leader, Long Range Threat, and Hard Man.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Shielding | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Vision | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Shielding | ██████████████████ 18/10 |
+| Balance | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| Pace | ███████████████ 15/10 |
+| Take Ons | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Vision | ██████████████ 14/10 |
+| Composure | █████████████ 13/10 |
+| Interceptions | █████████████ 13/10 |
+| Mid Range | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pass Accuracy | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Tackling | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **captain_leader** (tactical) — severity 7/10
+- **long_range_threat** (tactical) — severity 7/10
+- **hard_man** (tactical) — severity 7/10
+- **Work Rate** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
 
 ## Personality
 
@@ -99,24 +110,6 @@ Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess t
 - **Pressure (JP)**: 47
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Captain Leader** (tactical) — severity 7/10
-- **Long Range Threat** (tactical) — severity 7/10
-- **Hard Man** (tactical) — severity 7/10
-- **Work Rate** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

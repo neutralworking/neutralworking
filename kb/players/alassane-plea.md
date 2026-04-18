@@ -23,12 +23,19 @@ backlinks: [creator, psv]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 74 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A predator in the box with the kind of movement that makes defenders feel stupid—sharp timing on his runs, lethal when he gets half a yard in the area, and a genuinely clever player at link-up. The issue is he's 33 and no longer the athlete who could drag defenders around the pitch for 90 minutes; he's increasingly a finisher reliant on service rather than creation, and his pressing intensity has visibly dipped. Still a proper number nine for this level, but he's working narrower margins now.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -65,11 +72,12 @@ A predator in the box with the kind of movement that makes defenders feel stupid
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.3m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

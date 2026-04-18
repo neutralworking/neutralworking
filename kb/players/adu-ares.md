@@ -19,16 +19,23 @@ backlinks: [sprinter, athletic-bilbao]
 | **Position** | WF |
 | **Club** | Athletic Bilbao |
 | **Nation** | Spain |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 68 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Promising young winger still finding his feet at senior level, with decent pace and willingness to take defenders on in the wide channels. Raw in his decision-making and tends to overhit crosses when he should be cutting back; lacks the consistency and game-reading to be trusted in a competitive XI right now.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Promising young winger still finding his feet at senior level, with decent pace 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

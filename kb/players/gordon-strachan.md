@@ -2,10 +2,10 @@
 title: Gordon Strachan
 category: players
 tags: [CM, Scotland]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 11501
 ---
 
@@ -16,18 +16,25 @@ person_id: 11501
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Scotland |
 | **Age** | 69 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 43 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He played as a right-side midfielder in his early career which was his best position as he was able to reach his prime.  Lately, His speed was down caused he became a central midfielder instead.		Strachan had a fruitful International career. He appeared in two FIFA World Cups and it was in the latter that he scored his most famous International goal, a cross shot against West Germany in Scotland's second match of the tournament in Queretaro, Mexico. His celebration was unique and comical too, as he attempted to vault the advertising hoarding, his relatively small height made it difficult if not impossible, so he merely rested his right leg on it as his team-mates joined him in celebrating. This goal gave Scotland a surprise lead against one of the world's top national sides, but they ultimately lost the game 2-1 and failure to beat Uruguay in the final game of the group stages ended their hopes of reaching the last 16. In 1983, He was voted 4th place in Ballon d'Or.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -44,10 +51,11 @@ WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He pl
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -58,8 +66,8 @@ WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He pl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -70,6 +78,6 @@ WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He pl
 {}
 ---
 
-WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He played as a right-side midfielder in his early career which was his best position as he was able to reach his prime.  Lately, His speed was down caused he became a central midfielder instead.		Strachan had a fruitful International career. He appeared in two FIFA World Cups and it was in the latter that he scored his most famous International goal, a cross shot against West Germany in Scotland's second match of the tournament in Queretaro, Mexico. His celebration was unique and comical too, as he attempted to vault the advertising hoarding, his relatively small height made it difficult if not impossible, so he merely rested his right leg on it as his team-mates joined him in celebrating. This goal gave Scotland a surprise lead against one of the world's top national sides, but they ultimately lost the game 2-1 and failure to beat Uruguay in the final game of the group stages ended their hopes of reaching the last 16. In 1983, He was voted 4th place in Ballon d'Or. 
+WD					SCO	C	0.0	Gordon Strachan was an aggressive and skilful midfielder. He played as a right-side midfielder in his early career which was his best position as he was able to reach his prime.  Lately, His speed was down caused he became a central midfielder instead.		Strachan had a fruitful International career. He appeared in two FIFA World Cups and it was in the latter that he scored his most famous International goal, a cross shot against West Germany in Scotland's second match of the tournament in Queretaro, Mexico. His celebration was unique and comical too, as he attempted to vault the advertising hoarding, his relatively small height made it difficult if not impossible, so he merely rested his right leg on it as his team-mates joined him in celebrating. This goal gave Scotland a surprise lead against one of the world's top national sides, but they ultimately lost the game 2-1 and failure to beat Uruguay in the final game of the group stages ended their hopes of reaching the last 16. In 1983, He was voted 4th place in Ballon d'Or.
 
 </details>

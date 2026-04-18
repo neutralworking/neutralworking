@@ -2,17 +2,31 @@
 title: Independiente
 category: clubs
 tags: [Argentine Primera División, Argentina]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Independiente. 23 players in database.
+summary: Independiente. 35 players in database.
 ---
 
 # Independiente
 
 **League**: Argentine Primera División  
 **Nation**: Argentina  
-**Players in DB**: 23
+**Players in DB**: 35
+
+## Identity
+
+- Database coverage is deepest in CM (7), AM (3), and GK (1), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (5), Destroyer (4), and Sprinter (3) across the current squad.
+- Average available overall grade sits at 54.5, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -24,20 +38,32 @@ summary: Independiente. 23 players in database.
 | [[nicolas-freire]] Nicolás Freire | CD | Destroyer | 64.0 |
 | [[g-avalos]] G. Ávalos | CF | Target-Dribbler | 57.0 |
 | [[a-sporle]] A. Spörle | CM | Sprinter-Dribbler | 59.0 |
-| [[eduard-atuesta]] Eduard Atuesta | CM | Powerhouse-Dribbler | None |
-| [[f-vera]] F. Vera | CM | Creator-Cover | 68.0 |
+| [[eduard-atuesta]] Eduard Atuesta | CM | Powerhouse-Dribbler | — |
 | [[f-zabala]] F. Zabala | CM | Creator-Destroyer | 59.0 |
-| [[favian-loyola]] Favian Loyola | CM | Sprinter-Destroyer | 52.0 |
 | [[i-marcone]] I. Marcone | CM | Passer-Destroyer | 57.0 |
 | [[j-de-irastorza]] J. De Irastorza | CM | Striker-Creator | 23.0 |
 | [[k-lomonaco]] K. Lomónaco | CM | Destroyer-Creator | 57.0 |
 | [[p-galdames]] P. Galdames | CM | Creator-Striker | 59.0 |
-| [[r-rey]] R. Rey | GK | GK | None |
-| [[jesus-manuel-corona-ruiz]] Jesús Manuel Corona Ruíz | WM | Striker | 61.0 |
+| [[r-rey]] R. Rey | GK | GK | — |
 | [[l-cabral]] L. Cabral | WM | Creator-Striker | 59.0 |
-| [[d-tarzia]] D. Tarzia | None | Creator | None |
-| [[i-maestro-puch]] I. Maestro Puch | None | Sprinter-Striker | None |
-| [[i-pussetto]] I. Pussetto | None | Striker-Creator | None |
-| [[m-valenzuela]] M. Valenzuela | None | Destroyer | None |
-| [[s-ortiz]] S. Ortíz | None | Destroyer | None |
-| [[sebastian-pedroza]] Sebastián Pedroza | None | None | None |
+| Alex Renato Ibarra Mina | — | — | — |
+| Andy René Velasco García | — | — | — |
+| Claudio Paul Spinelli | — | — | — |
+| D. Tarzia | — | Creator | — |
+| Emerson Ivan Pata Rodríguez | — | — | — |
+| Gustavo Orlando Cortéz Quiñónez | — | — | — |
+| I. Maestro Puch | — | Sprinter-Striker | — |
+| I. Pussetto | — | Striker-Creator | — |
+| Jean Pierre Arroyo | — | — | — |
+| Jeison Medina Escobar | — | — | — |
+| Juan Ramón Cazares Sevillano | — | — | — |
+| Júnior Nazareno Sornoza Moreira | — | — | — |
+| Luis Felipe Zárate Cardozo | — | — | — |
+| M. Valenzuela | — | Destroyer | — |
+| Mateo Carabajal | — | — | — |
+| Michael Ryan Hoyos | — | — | — |
+| Oscar Esteban Quiñonez Mendoza | — | — | — |
+| Richard Hernán Schunke | — | — | — |
+| Romario Andrés Ibarra Mina | — | — | — |
+| S. Ortíz | — | Destroyer | — |
+| Sebastián Pedroza | — | — | — |

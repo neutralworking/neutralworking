@@ -2,7 +2,7 @@
 title: T. Tekie
 category: players
 tags: [CM, Hammarby, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Hammarby. Archetype: Sprinter-Creator.
@@ -26,54 +26,38 @@ backlinks: [sprinter, hammarby]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Tekie is a high-energy Tuttocampista with strong technical skills and a tendency to make high-pressing runs. His balance, shielding, and stamina allow him to win the ball back and start counter-attacks, but his discipline and heading ability are areas for improvement. A team that values a competitive, structured approach could benefit from his skills, particularly in a system that emphasizes quick transitions and high-intensity pressing.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `73`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Balance, Shielding, and Stamina.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Shielding, and Stamina.
-- Style traits point toward Finishing, Trickery, and Passing Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Volleys | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Balance | ██████████████████ 18/10 |
+| Shielding | ████████████████ 16/10 |
+| Stamina | ████████████████ 16/10 |
+| Acceleration | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Pass Range | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Volleys | ███████████ 11/10 |
+| Movement | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Marking | █████████░ 9/10 |
+| Physical | █████████░ 9/10 |
+| Creativity | ████████░░ 8/10 |
+| Intensity | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 6/10
+- **Finishing** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -83,21 +67,3 @@ Tekie is a high-energy Tuttocampista with strong technical skills and a tendency
 - **Pressure (JP)**: 46
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 6/10
-- **Finishing** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

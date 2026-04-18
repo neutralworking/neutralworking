@@ -2,7 +2,7 @@
 title: Matias Vera
 category: players
 tags: [GK, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at None. Archetype: None.
@@ -25,58 +25,14 @@ person_id: 29811
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Snapshot
+## Attribute Grades
 
-Matias Vera projects primarily as a GK with a `None` lean. The strongest database support comes from Pass Range, Through Balls, and Technical.
-
-## Role Fit
-
-- Best-fit role is `Distributor`.
-- Most bankable strengths show up in Pass Range, Through Balls, and Technical.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Pass Range, Through Balls, and Technical.
-- Style traits point toward Long Range Passing in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Pass Range | ████████░░ 8/10 |
+| Through Balls | ███████░░░ 7/10 |
+| Technical | ██████░░░░ 6/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Metric coverage is shallow relative to a full dossier standard.
-- System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Trait Ledger
+## Traits
 
 - **Long Range Passing** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 3 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

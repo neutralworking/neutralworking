@@ -2,12 +2,12 @@
 title: J. Livolant
 category: players
 tags: [WM, Casa Pia AC, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at Casa Pia AC. Archetype: Creator-Striker.
 person_id: 20424
-backlinks: [creator, casa-pia-ac]
+backlinks: [creator, false-winger, casa-pia-ac]
 ---
 
 # J. Livolant
@@ -18,21 +18,30 @@ backlinks: [creator, casa-pia-ac]
 |---|---|
 | **Position** | WM |
 | **Club** | Casa Pia AC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[false-winger]] False Winger |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 J. Livolant projects primarily as a WM with a `Creator-Striker` lean. The strongest database support comes from Creativity, Discipline, and Duels.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `False Winger` with model support score `70`.
+- Best-fit role is [[false-winger]] False Winger with model support score `70`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Most bankable strengths show up in Creativity, Discipline, and Duels.
 
@@ -57,13 +66,14 @@ J. Livolant projects primarily as a WM with a `Creator-Striker` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,5 +94,5 @@ J. Livolant projects primarily as a WM with a `Creator-Striker` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

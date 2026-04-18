@@ -2,7 +2,7 @@
 title: Sprinter
 category: archetypes
 tags: [Physical, Sprinter]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: Physical archetype. Core attributes: acceleration, balance, movement, pace.
@@ -15,6 +15,43 @@ summary: Physical archetype. Core attributes: acceleration, balance, movement, p
 
 > Pure speed — acceleration, top speed, and the ability to exploit space behind defensive lines. Changes games with explosive runs.
 
+## Tactical Habitat
+
+Sprinters are amplified in teams that create:
+
+- open grass after [Verticality](/Users/solid-snake/Documents/chief-scout/kb/concepts/verticality.md)
+- transition races
+- recovery-defense demands in big spaces
+- wide isolation or depth-running structures
+
+## What They Solve
+
+A sprinter gives the team:
+
+- separation over distance
+- recovery range in defensive transitions
+- depth threat that stretches the line
+- access to spaces slower profiles cannot attack or protect
+
+## Scouting Indicators
+
+- reaches separation quickly, not just in top speed
+- times runs to exploit depth
+- can use pace in service of structure rather than random chaos
+- recovers large spaces defensively when needed
+
+## Common Limitations
+
+- pace can mask weak decision quality
+- some sprinters need too much space to matter against compact blocks
+- speed without timing often produces low-value actions
+
+## Related Concepts
+
+- [Verticality](/Users/solid-snake/Documents/chief-scout/kb/concepts/verticality.md)
+- [Blind-Side Run](/Users/solid-snake/Documents/chief-scout/kb/concepts/blind-side-run.md)
+- [Counterpressing Recovery](/Users/solid-snake/Documents/chief-scout/kb/concepts/counterpressing-recovery.md)
+
 ## Top Exemplars
 
 | Player | Position | Club | Overall |
@@ -22,13 +59,13 @@ summary: Physical archetype. Core attributes: acceleration, balance, movement, p
 | [[daniel-kofi-kyereh]] Daniel-Kofi Kyereh | CM | Freiburg | 83.0 |
 | [[saviour-godwin]] Saviour Godwin | WF | Al-Okhdood | 82.0 |
 | [[moritz-kwarteng]] Moritz Kwarteng | CM | VfL Bochum | 81.0 |
-| [[ben-woodburn]] Ben Woodburn | AM | Preston North End | 81.0 |
 | [[manuel-benson]] Manuel Benson | WF | Burnley | 81.0 |
-| [[pejino]] Pejiño | WF | Las Palmas | 81.0 |
+| [[ben-woodburn]] Ben Woodburn | AM | Preston North End | 81.0 |
 | [[roony-bardghji]] Roony Bardghji | WF | Barcelona | 81.0 |
+| [[pejino]] Pejiño | WF | Las Palmas | 81.0 |
 | [[florent-muslija]] Florent Muslija | CM | Fortuna Düsseldorf | 81.0 |
-| [[carlos-coronel]] Carlos Coronel | GK | New York Red Bulls | 80.0 |
-| [[claudio-echeverri]] Claudio Echeverri | AM | Girona | 80.0 |
+| [[giuseppe-caso]] Giuseppe Caso | WF | Frosinone | 80.0 |
+| [[brian-ocampo]] Brian Ocampo | WF | Cadiz | 80.0 |
 
 ## Compound Archetypes
 

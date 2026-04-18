@@ -5,7 +5,7 @@ tags: [CM, Brighton WFC, Australia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Brighton WFC. Archetype: None.
+summary: CM at Brighton WFC. Archetype: —.
 person_id: 9506
 backlinks: [brighton-wfc]
 ---
@@ -20,15 +20,22 @@ backlinks: [brighton-wfc]
 | **Club** | Brighton WFC |
 | **Nation** | Australia |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 79 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An attacking midfielder or secondary striker with real quality in the final third—her timing on inverted runs is excellent and she finds pockets of space others miss. However, she's not a consistent creator from deeper positions and her workrate in transition can be patchy, meaning she requires the right tactical setup to thrive. Effective in the right system, but not the conductor you'd build a midfield around.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,13 @@ An attacking midfielder or secondary striker with real quality in the final thir
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

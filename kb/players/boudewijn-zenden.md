@@ -5,7 +5,7 @@ tags: [CM, Netherlands]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 9127
 ---
 
@@ -16,18 +16,25 @@ person_id: 9127
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 49 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Playmaker			NED	B	77.0	His raw pace and acceleration down the flank, then added his own name to the scoresheet with a thunderous volley from Ronald de Boer's corner, before nearly putting the gloss on the finish when he left the entire German defence for dead with his raw pace, beat the goalkeeper with his shot, only for it to rebound off the upright.		Named the 1997 Dutch Football Talent of the Year, he played for four teams in the Premier League, totalling 180 games and 19 goals in England's top division. He also played in the highest leagues in the Netherlands, Spain and France, for PSV Eindhoven, Barcelona and Marseille respectively. Internationally, Zenden earned 54 caps and scored seven goals for the Netherlands, whom he represented at two European Championships and the 1998 FIFA World Cup.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -44,10 +51,10 @@ WF		Playmaker			NED	B	77.0	His raw pace and acceleration down the flank, then ad
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

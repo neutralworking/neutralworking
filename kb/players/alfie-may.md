@@ -5,7 +5,7 @@ tags: [CF, England, Powerhouse]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Powerhouse.
+summary: CF at —. Archetype: Powerhouse.
 person_id: 8214
 backlinks: [powerhouse]
 ---
@@ -17,18 +17,25 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 75 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Alfie May projects primarily as a CF with a `Powerhouse` lean. The strongest database support comes from Stamina, Balance, and Pace.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -59,13 +66,14 @@ Alfie May projects primarily as a CF with a `Powerhouse` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -2,10 +2,10 @@
 title: Deco
 category: players
 tags: [CM, Portugal, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Creator-Engine.
+summary: CM at —. Archetype: Creator-Engine.
 person_id: 10176
 backlinks: [creator]
 ---
@@ -17,18 +17,25 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Portugal |
 | **Age** | 48 |
 | **Archetype** | [[creator]] Creator-Engine |
 | **Level** | 46 |
 | **Overall** | 47.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Crafty	Playmaker	Maestro	Port, Barcelona	POR	A	85.5	Deco was a versatile, tactically intelligent, and creative midfielder, with excellent vision and technical ability. A generous team-player, he was capable of playing in several midfield positions; he was initially deployed as a central midfielder under manager José Mourinho, during his time with Porto, although he was also capable of playing as an attacking midfielder, as a deep-lying playmaker, or as a winger on either flank. Although he lacked pace and stamina, as well as notable physical, defensive, and athletic attributes, he possessed excellent ball control, dribbling, Press Resistant, and crossing ability, which allowed him to beat players, find space, and create chances for team-mates. As he lost his acceleration, agility, and mobility in later years, he also underwent a physical development, along with his balance, enabled him to protect the ball against larger opponents. In addition to his creative duties, Deco was also capable of contributing offensively with occasional goals, due to his accurate shooting ability, and his adeptness at free-kicks. Despite his talent, Deco was also known to be injury-prone and inconsistent at times; furthermore, his work-rate and fitness were often brought into question. Deco was also notorious for his tendency to commit tactical fouls, and he was accused of diving throughout his career.	Deco is one of the few players to have won the UEFA Champions League with two clubs – FC Porto in 2004 and FC Barcelona in 2006. He was named UEFA Club Footballer of the Year and UEFA Best Midfielder in Porto's Champions League-winning season and was named Man of the Match in the 2003–04 Champions League final. Deco was the first player to win the UEFA Best Midfielder Award with two clubs, Porto and Barcelona. He was awarded the 2006 FIFA Club World Cup Golden Ball and the Man of the Match award in the final despite losing to Internacional. Born and raised in Brazil, Deco received Portuguese citizenship in 2002 having completed five years of Portuguese residence, and subsequently opted to play internationally for the Portugal national football team. He earned 75 caps for them, playing at two European Championships and two World Cups.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -66,10 +73,11 @@ CM	Crafty	Playmaker	Maestro	Port, Barcelona	POR	A	85.5	Deco was a versatile, tac
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,11 +102,11 @@ CM	Crafty	Playmaker	Maestro	Port, Barcelona	POR	A	85.5	Deco was a versatile, tac
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

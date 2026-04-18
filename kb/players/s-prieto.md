@@ -2,7 +2,7 @@
 title: S. Prieto
 category: players
 tags: [WM, Gent, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Gent. Archetype: Dribbler-Sprinter.
@@ -26,50 +26,25 @@ backlinks: [dribbler, gent]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-S. Prieto projects primarily as a WM with a `Dribbler-Sprinter` lean. The strongest database support comes from Acceleration, Jumping, and Stamina.
-
-## Role Fit
-
-- Best-fit role is `Wide Playmaker` with model support score `69`.
-- Primary archetype leans toward `Dribbler` behaviour from a `WM` base.
-- Most bankable strengths show up in Acceleration, Jumping, and Stamina.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Jumping, and Stamina.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Penalties | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Acceleration | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Marking | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| Penalties | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Balance | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Volleys | ███████░░░ 7/10 |
 
 ## Personality
 
@@ -79,10 +54,3 @@ S. Prieto projects primarily as a WM with a `Dribbler-Sprinter` lean. The strong
 - **Pressure (JP)**: 56
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

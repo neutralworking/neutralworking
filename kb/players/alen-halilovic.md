@@ -23,12 +23,19 @@ backlinks: [dribbler, fortuna-sittard]
 | **Archetype** | [[dribbler]] Dribbler |
 | **Level** | 84 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Halilović, a Dribbler and Technical Midfielder archetype, excels as a Mezzala due to his strong vision, first touch, and ability to deliver incisive through balls and mid-range passes. His robust physical and mental attributes provide a solid foundation, yet his surprising weakness in tactical understanding, combined with poor blocking and heading, limits his all-around midfield contribution despite his flair. As a left-footed Mezzala with excellent vision, he represents a tradition of creative central midfielders who operate in the half-spaces, orchestrating attacks and unlocking defenses with intricate passing. At 29, his "journeyman" status suggests he's a proven talent capable of contributing immediately for a club seeking a technically gifted central midfielder to enhance creative output, provided defensive cover.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +70,13 @@ Halilović, a Dribbler and Technical Midfielder archetype, excels as a Mezzala d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 29.0m |
+| Ceiling | EUR 34.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [WD, Brazil, Engine]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WD at None. Archetype: Engine.
+summary: WD at —. Archetype: Engine.
 person_id: 7804
 backlinks: [engine]
 ---
@@ -17,18 +17,24 @@ backlinks: [engine]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
 | **Age** | 25 |
 | **Archetype** | [[engine]] Engine |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Abner Vinicius projects primarily as a WD with a `Engine` lean. The strongest database support comes from Pace, Acceleration, and Balance.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +69,13 @@ Abner Vinicius projects primarily as a WD with a `Engine` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 31.0m |
+| Ceiling | EUR 37.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

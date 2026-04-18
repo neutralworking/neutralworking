@@ -2,7 +2,7 @@
 title: N. Ngoy
 category: players
 tags: [CM, Lille, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Lille. Archetype: Destroyer-Striker.
@@ -26,54 +26,31 @@ backlinks: [destroyer, lille]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-N. Ngoy projects primarily as a CM with a `Destroyer-Striker` lean. The strongest database support comes from Interceptions, Pass Accuracy, and Awareness.
-
-## Role Fit
-
-- Best-fit role is `Tuttocampista` with model support score `73`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Interceptions, Pass Accuracy, and Awareness.
-
-## In Possession
-
-- Ball-value indicators lean on Interceptions, Pass Accuracy, and Awareness.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Awareness | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Interceptions | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Awareness | ████████░░ 8/10 |
+| Blocking | ████████░░ 8/10 |
+| Pressing | ████████░░ 8/10 |
+| Skills | ████████░░ 8/10 |
+| Close Range | ███████░░░ 7/10 |
+| Composure | ███████░░░ 7/10 |
+| Duels | ███████░░░ 7/10 |
+| Long Range | ███████░░░ 7/10 |
+| Mid Range | ███████░░░ 7/10 |
+| Positioning | ███████░░░ 7/10 |
+| Tackling | ███████░░░ 7/10 |
+| Technical | ███████░░░ 7/10 |
+| Communication | ██████░░░░ 6/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **build_up_contributor** (tactical) — severity 7/10
+- **positional_discipline** (tactical) — severity 6/10
+- **hot_headed** (behavioral) — severity 4/10
 
 ## Personality
 
@@ -83,17 +60,3 @@ N. Ngoy projects primarily as a CM with a `Destroyer-Striker` lean. The stronges
 - **Pressure (JP)**: 60
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Hot Headed** (behavioral) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

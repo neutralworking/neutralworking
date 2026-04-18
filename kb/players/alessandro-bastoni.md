@@ -2,7 +2,7 @@
 title: Alessandro Bastoni
 category: players
 tags: [CD, Inter Milan, Italy, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Inter Milan. Archetype: Cover-Passer.
@@ -29,6 +29,13 @@ backlinks: [cover, inter-milan]
 ## Snapshot
 
 Left-footed ball-playing CB — rare profile. Progressive passing from deep is elite. Comfortable stepping into midfield with the ball. Key to Inter's three-at-the-back system. Italy regular. Underrated internationally due to Serie A visibility bias.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ Left-footed ball-playing CB — rare profile. Progressive passing from deep is e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 66.5m |
+| Mid | EUR 84.0m |
+| Ceiling | EUR 101m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,11 +114,11 @@ Left-footed ball-playing CB — rare profile. Progressive passing from deep is e
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -120,7 +128,7 @@ Left-footed ball-playing CB — rare profile. Progressive passing from deep is e
 ---
 class: defender
 ---
-![[Pasted image 20240115012348.png]]
+!Pasted image 20240115012348.png
 
 Alessandro Bastoni is an established presence in Inter's defence and enjoyed a brilliant 2020/21 campaign in their Serie A-title winning season.  
   

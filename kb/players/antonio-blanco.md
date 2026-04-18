@@ -2,7 +2,7 @@
 title: Antonio Blanco
 category: players
 tags: [CM, Alavés, Spain, Cover]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Alavés. Archetype: Cover.
@@ -23,12 +23,19 @@ backlinks: [cover, alaves]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 82 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Box-to-box midfielder who covers ground effectively and offers some ballcarrying through the lines, but his decision-making in possession lacks refinement. He's a worker rather than a technician, useful in a scrappy midfield but exposed against sides that press intelligently.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ Box-to-box midfielder who covers ground effectively and offers some ballcarrying
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,17 +111,16 @@ Box-to-box midfielder who covers ground effectively and offers some ballcarrying
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountrySpain
 
@@ -122,12 +129,6 @@ ClubReal Madrid
 PositionMidfielder
 
 Born23 July 2000
-
-
-
-
-
-
 
 ****
 
@@ -139,6 +140,6 @@ Joined from Séneca, the Córdoba-based club that has a convenio with Real Madri
  
 **October 2020 update** AS reported in September that Zinedine Zidane had been “surprised by the progress” made by Blanco, who had been training with the first team during pre-season after an outstanding campaign under Raul at Real Madrid Castilla in 2019-20. This is likely to be a key season for the midfielder, who is seen as a potential long-term successor to Casemiro in Real’s midfield, given that his current contract expires in 2021.
  
-**October 2021 update** “Be relaxed and just go out and enjoy playing” were Carlo Ancelotti’s words of advice when Blanco earned his first minutes this season against Mallorca in front of a home crowd at the Bernabéu. Blanc...
+**October 2021 update** “Be relaxed and just go out and enjoy playing” were Carlo Ancelotti’s words of advice when Blanco earned his first minutes this season against Mallorca in front of a home crowd at the Bernabéu. Blanco is be...
 
 </details>

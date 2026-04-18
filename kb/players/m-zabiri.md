@@ -1,13 +1,13 @@
 ---
 title: M. Zabiri
 category: players
-tags: [CF, Rennes, Striker]
-updated: 2026-04-17
+tags: [CF, Famalicão, Striker]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CF at Rennes. Archetype: Striker.
+summary: CF at Famalicão. Archetype: Striker.
 person_id: 21232
-backlinks: [striker, rennes]
+backlinks: [striker, famalicao]
 ---
 
 # M. Zabiri
@@ -17,7 +17,7 @@ backlinks: [striker, rennes]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Rennes |
+| **Club** | Famalicão |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[striker]] Striker |
@@ -26,53 +26,29 @@ backlinks: [striker, rennes]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-M. Zabiri projects primarily as a CF with a `Striker` lean. The strongest database support comes from Carries, Close Range, and Mid Range.
-
-## Role Fit
-
-- Best-fit role is `Shadow Striker` with model support score `69`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Carries, Close Range, and Mid Range.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Carries, Close Range, and Mid Range.
-- Style traits point toward Direct in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Mid Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Long Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Penalties | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Carries | ████████░░ 8/10 |
+| Close Range | ████████░░ 8/10 |
+| Mid Range | ████████░░ 8/10 |
+| Skills | ████████░░ 8/10 |
+| Threat | ████████░░ 8/10 |
+| Aggression | ███████░░░ 7/10 |
+| Long Range | ███████░░░ 7/10 |
+| Penalties | ███████░░░ 7/10 |
+| Composure | ██████░░░░ 6/10 |
+| Flair | ██████░░░░ 6/10 |
+| Pressing | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Take Ons | ██████░░░░ 6/10 |
+| Technical | ██████░░░░ 6/10 |
+| Concentration | █████░░░░░ 5/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **direct** (style) — severity 8/10
 
 ## Personality
 
@@ -82,15 +58,3 @@ M. Zabiri projects primarily as a CF with a `Striker` lean. The strongest databa
 - **Pressure (JP)**: 55
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Direct** (style) — severity 8/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

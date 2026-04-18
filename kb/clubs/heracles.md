@@ -1,18 +1,32 @@
 ---
 title: Heracles
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Heracles. 20 players in database.
+summary: Heracles. 21 players in database.
 ---
 
 # Heracles
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 20
+**League**: —  
+**Nation**: —  
+**Players in DB**: 21
+
+## Identity
+
+- Database coverage is deepest in CM (9), CD (4), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (7), Destroyer (3), and Striker (3) across the current squad.
+- Average available overall grade sits at 68.4, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -20,6 +34,7 @@ summary: Heracles. 20 players in database.
 |---|---|---|---|
 | [[damon-mirani]] Damon Mirani | CD | Destroyer | 71.0 |
 | [[mimeirhel-benita]] Mimeirhel Benita | CD | Sprinter | 72.0 |
+| [[r-bozinovski]] R. Bozinovski | CD | Sprinter-Dribbler | 62.0 |
 | [[sava-arangel-cestic]] Sava-Arangel Čestić | CD | Destroyer | 66.0 |
 | [[jizz-hornkamp]] Jizz Hornkamp | CF | Powerhouse-Striker | 70.0 |
 | [[l-kulenovic]] L. Kulenović | CF | Striker-Creator | 67.0 |
@@ -32,9 +47,9 @@ summary: Heracles. 20 players in database.
 | [[sem-scheperman]] Sem Scheperman | CM | Powerhouse-Destroyer | 72.0 |
 | [[thomas-bruns]] Thomas Bruns | CM | Passer-Sprinter | 69.0 |
 | [[yvandro-borges-sanches]] Yvandro Borges Sanches | CM | Sprinter | 68.0 |
-| [[fabian-de-keijzer]] Fabian de Keijzer | GK | GK | None |
-| [[timo-jansink]] Timo Jansink | GK | GK | None |
+| [[fabian-de-keijzer]] Fabian de Keijzer | GK | GK | — |
+| [[timo-jansink]] Timo Jansink | GK | GK | — |
 | [[djevencio-van-der-kust]] Djevencio van der Kust | WD | Sprinter-Cover | 72.0 |
 | [[e-ahlstrand]] E. Ahlstrand | WD | Creator-Sprinter | 67.0 |
 | [[w-ould-chikh]] W. Ould-Chikh | WM | Creator-Cover | 72.0 |
-| [[t-van-gilst]] T. van Gilst | None | Striker | None |
+| T. van Gilst | — | Striker | — |

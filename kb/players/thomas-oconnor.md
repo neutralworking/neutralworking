@@ -2,7 +2,7 @@
 title: Thomas O'Connor
 category: players
 tags: [CD, Rosario Central, Ireland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Rosario Central. Archetype: Powerhouse.
@@ -26,53 +26,34 @@ backlinks: [powerhouse, rosario-central]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Physical fullback prospect with work rate and some defensive intensity; technical quality limited and decision-making unreliable in possession. Developing squad option, likely needs loan spell to gain consistent game time at appropriate level.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Centrale` with model support score `74`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Jumping, Stamina, and Pace.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Stamina, and Pace.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Mid Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Stamina | ███████████████ 15/10 |
+| Pace | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Mid Range | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Through Balls | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| First Touch | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Take Ons | ████████████ 12/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **high_press** (tactical) — severity 4/10
+- **hot_headed** (behavioral) — severity 4/10
 
 ## Personality
 
@@ -82,17 +63,3 @@ Physical fullback prospect with work rate and some defensive intensity; technica
 - **Pressure (JP)**: 47
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **High Press** (tactical) — severity 4/10
-- **Hot Headed** (behavioral) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

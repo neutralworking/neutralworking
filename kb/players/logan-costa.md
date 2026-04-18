@@ -2,7 +2,7 @@
 title: Logan Costa
 category: players
 tags: [CD, Villarreal, Cape Verde, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Villarreal. Archetype: Destroyer-Dribbler.
@@ -26,55 +26,36 @@ backlinks: [destroyer, villarreal]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Developing centre-back with physical tools and decent positioning instincts, but consistency and concentration remain concerns. Young prospect needing consistent minutes to evaluate ceiling.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Colossus` with model support score `80`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Most bankable strengths show up in Physical, Heading, and Jumping.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Heading, and Jumping.
-- Style traits point toward Strength, Aerial Ability, and Tackling Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Physical | ████████████████ 16/10 |
+| Heading | ███████████████ 15/10 |
+| Jumping | ███████████████ 15/10 |
+| Reactions | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Stamina | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Long Range | ███████████ 11/10 |
+| Acceleration | ██████████ 10/10 |
+| Crossing | ██████████ 10/10 |
+| Pace | █████████░ 9/10 |
+| Close Range | ████████░░ 8/10 |
+| Penalties | ████████░░ 8/10 |
+| Balance | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
 
 ## Personality
 
@@ -84,19 +65,3 @@ Developing centre-back with physical tools and decent positioning instincts, but
 - **Pressure (JP)**: 35
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

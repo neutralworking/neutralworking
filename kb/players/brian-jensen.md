@@ -5,7 +5,7 @@ tags: [GK, Denmark, GK]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at None. Archetype: GK.
+summary: GK at —. Archetype: GK.
 person_id: 9209
 backlinks: [gk]
 ---
@@ -17,18 +17,24 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Denmark |
 | **Age** | 50 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Brian Jensen projects primarily as a GK with a `GK` lean. The strongest database support comes from Close Range, Positioning, and Reactions.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,10 +67,10 @@ Brian Jensen projects primarily as a GK with a `GK` lean. The strongest database
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

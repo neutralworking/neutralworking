@@ -2,10 +2,10 @@
 title: Camilo Saiz
 category: players
 tags: [CD, 2 de Mayo, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at 2 de Mayo. Archetype: None.
+summary: CD at 2 de Mayo. Archetype: —.
 person_id: 30702
 backlinks: [2-de-mayo]
 ---
@@ -20,15 +20,22 @@ backlinks: [2-de-mayo]
 | **Club** | 2 de Mayo |
 | **Nation** | Paraguay |
 | **Age** | 34 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 30.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Camilo Saiz projects primarily as a CD with a `None` lean. The strongest database support comes from Flair, First Touch, and Skills.
+Camilo Saiz projects primarily as a CD with a `—` lean. The strongest database support comes from Flair, First Touch, and Skills.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,8 +74,9 @@ Camilo Saiz projects primarily as a CD with a `None` lean. The strongest databas
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +94,5 @@ Camilo Saiz projects primarily as a CD with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 24 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |

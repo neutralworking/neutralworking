@@ -2,12 +2,12 @@
 title: Junior Firpo
 category: players
 tags: [WD, Real Betis, Dominican Republic, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WD at Real Betis. Archetype: Destroyer-Dribbler.
 person_id: 13212
-backlinks: [destroyer, real-betis]
+backlinks: [destroyer, corner-back, real-betis]
 ---
 
 # Junior Firpo
@@ -21,19 +21,27 @@ backlinks: [destroyer, real-betis]
 | **Nation** | Dominican Republic |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Firpo should be a lot better than he is. When was his peak? Why did he play for Barcelona? Ah he can't really defend he's like a Ruan. He's just done a disgusting challenge as well, he can't tackle. OMG he's just given away a penalty for handball as well. Fucking liability. Get him out of the box. He's fallen over for the first penalty. Jesus he's now been sent off for treading on the foot of the last man running through on goal.
-						
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Crossing, and Movement.
@@ -68,13 +76,14 @@ Firpo should be a lot better than he is. When was his peak? Why did he play for 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +110,11 @@ Firpo should be a lot better than he is. When was his peak? Why did he play for 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -113,6 +122,5 @@ Firpo should be a lot better than he is. When was his peak? Why did he play for 
 <summary>Raw scouting narrative</summary>
 
 Firpo should be a lot better than he is. When was his peak? Why did he play for Barcelona? Ah he can't really defend he's like a Ruan. He's just done a disgusting challenge as well, he can't tackle. OMG he's just given away a penalty for handball as well. Fucking liability. Get him out of the box. He's fallen over for the first penalty. Jesus he's now been sent off for treading on the foot of the last man running through on goal.
-						
 
 </details>

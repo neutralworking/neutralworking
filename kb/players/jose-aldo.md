@@ -2,12 +2,12 @@
 title: José Aldo
 category: players
 tags: [WM, OL, Creator-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WM at OL. Archetype: Creator-Powerhouse.
 person_id: 22108
-backlinks: [creator, ol]
+backlinks: [creator, wide-playmaker, ol]
 ---
 
 # José Aldo
@@ -18,21 +18,30 @@ backlinks: [creator, ol]
 |---|---|
 | **Position** | WM |
 | **Club** | OL |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Powerhouse |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 José Aldo is a Creator-Powerhouse Tornante, a physically robust and aggressive central midfielder excelling in shielding, marking, interceptions, and overall balance. His 'high_press' and 'hot_headed' traits align him with a combative, destructive midfield role, reminiscent of traditional enforcers. However, his limited tactical awareness, occasional lack of discipline, and absence of creative guile mean he is best suited for a specialist role in a direct, confrontational team. He represents an option for clubs seeking tenacity and physical domination in midfield, likely at a moderate cost due to his specific profile.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `73`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Shielding, Balance, and Marking.
@@ -62,13 +71,14 @@ José Aldo is a Creator-Powerhouse Tornante, a physically robust and aggressive 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 1.4m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ José Aldo is a Creator-Powerhouse Tornante, a physically robust and aggressive 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

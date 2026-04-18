@@ -1,8 +1,8 @@
 ---
 title: AGF Aarhus
 category: clubs
-tags: [None, Denmark]
-updated: 2026-04-14
+tags: [Denmark]
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: AGF Aarhus. 14 players in database.
@@ -10,9 +10,23 @@ summary: AGF Aarhus. 14 players in database.
 
 # AGF Aarhus
 
-**League**: None  
+**League**: —  
 **Nation**: Denmark  
 **Players in DB**: 14
+
+## Identity
+
+- Database coverage is deepest in CM (7), WF (2), and CF (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (4), Sprinter (3), and Striker (3) across the current squad.
+- Average available overall grade sits at 58.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+- [[pressing-trigger]] Pressing Trigger: the squad balance is partly explained by who can activate or support pressure at the right moment.
+- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -30,5 +44,5 @@ summary: AGF Aarhus. 14 players in database.
 | [[n-poulsen]] N. Poulsen | CM | Creator-Cover | 66.0 |
 | [[frederik-emmery]] Frederik Emmery | WF | Creator-Striker | 36.0 |
 | [[kevin-yakob]] Kevin Yakob | WF | Sprinter-Dribbler | 66.0 |
-| [[j-serra]] J. Serra | None | Creator-Target | None |
-| [[s-tchamche]] S. Tchamche | None | Striker | None |
+| J. Serra | — | Creator-Target | — |
+| S. Tchamche | — | Striker | — |

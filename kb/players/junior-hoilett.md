@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WF at Hibernian. Archetype: Striker.
 person_id: 13214
-backlinks: [striker, hibernian]
+backlinks: [striker, wide-playmaker, hibernian]
 ---
 
 # Junior Hoilett
@@ -21,18 +21,26 @@ backlinks: [striker, hibernian]
 | **Nation** | Canada |
 | **Age** | 35 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 67 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A winger-forward who's accumulated caps for Canada but has become a journeyman late in his career, operating as a depth option rather than a driver of matches. He's still capable of the odd fleet-footed run and can find pockets in the half-space, but at 35 his legs have visibly gone and he lacks the explosive acceleration or decision-making to consistently trouble modern defenders. This is a player whose best years are clearly behind him and who's now essentially a squad filler and dressing-room presence for a Hibernian side not competing for honours.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Skills, Drive, and Concentration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ A winger-forward who's accumulated caps for Canada but has become a journeyman l
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.0m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

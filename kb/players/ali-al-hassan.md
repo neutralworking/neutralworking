@@ -18,17 +18,24 @@ backlinks: [dribbler, al-nassr]
 |---|---|
 | **Position** | WM |
 | **Club** | Al-Nassr |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 29 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A winger with genuine pace and pressing intensity, Al Hassan compensates for moderate technical polish with relentless stamina and sharp passing accuracy—the kind of player who harries defenders into mistakes rather than beats them with craft. His marking diligence marks him as tactically engaged, but he lacks the dueling physicality and discipline required for consistent inverted-wing work at the highest level, making him better suited to lateral attacking roles in structured pressing systems. At 29 with a strong mentality anchoring a limited physical profile, he's a useful squad piece for mid-table clubs needing tireless wing support, though his lack of duel dominance and occasional recklessness limit his ceiling as a creative hub.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -57,13 +64,14 @@ A winger with genuine pace and pressing intensity, Al Hassan compensates for mod
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

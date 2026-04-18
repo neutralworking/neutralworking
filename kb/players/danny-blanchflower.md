@@ -5,7 +5,7 @@ tags: [CM, Northern Ireland]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 9985
 ---
 
@@ -16,21 +16,27 @@ person_id: 9985
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Northern Ireland |
 | **Age** | 100 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM					ENG	B	0.0	He played as a central midfielder and was known for his accurate passing and ability to dictate the tempo of the game	Northern Ireland international footballer and football manager, and journalist who captained Tottenham Hotspur F.C. during its double-winning season of 1961. He was ranked as the greatest player in Spurs history by The Times in 2009.[1] He is perhaps best known for his quote: "The game is about glory. It’s about doing things in style, with a flourish, about going out and beating the other lot, not waiting for them to die of boredom."
 
-
 CM					NIR	B	0.0	Club management disapproved of his tendency to change tactics during the game, with once such incident causing him to be dropped, but his motivational ability and massive influence over his team-mates was clear for all to see.  As a player, Blanchflower was not the quickest but was incredibly intelligent, able to use speed of thought to slip past opponents and generate space.  From half-back he was able to break down opposing attacks and utilise his superb range of passing to dictate the pace of the game and generate numerous chances for his forwards.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -47,10 +53,11 @@ CM					NIR	B	0.0	Club management disapproved of his tendency to change tactics d
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -75,7 +82,6 @@ CM					NIR	B	0.0	Club management disapproved of his tendency to change tactics d
 
 CM					ENG	B	0.0	He played as a central midfielder and was known for his accurate passing and ability to dictate the tempo of the game	Northern Ireland international footballer and football manager, and journalist who captained Tottenham Hotspur F.C. during its double-winning season of 1961. He was ranked as the greatest player in Spurs history by The Times in 2009.[1] He is perhaps best known for his quote: "The game is about glory. It’s about doing things in style, with a flourish, about going out and beating the other lot, not waiting for them to die of boredom."
 
-
-CM					NIR	B	0.0	Club management disapproved of his tendency to change tactics during the game, with once such incident causing him to be dropped, but his motivational ability and massive influence over his team-mates was clear for all to see.  As a player, Blanchflower was not the quickest but was incredibly intelligent, able to use speed of thought to slip past opponents and generate space.  From half-back he was able to break down opposing attacks and utilise his superb range of passing to dictate the pace of the game and generate numerous chances for his forwards.	
+CM					NIR	B	0.0	Club management disapproved of his tendency to change tactics during the game, with once such incident causing him to be dropped, but his motivational ability and massive influence over his team-mates was clear for all to see.  As a player, Blanchflower was not the quickest but was incredibly intelligent, able to use speed of thought to slip past opponents and generate space.  From half-back he was able to break down opposing attacks and utilise his superb range of passing to dictate the pace of the game and generate numerous chances for his forwards.
 
 </details>

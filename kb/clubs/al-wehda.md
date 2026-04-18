@@ -1,8 +1,8 @@
 ---
 title: Al Wehda
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Al Wehda. 25 players in database.
@@ -10,36 +10,50 @@ summary: Al Wehda. 25 players in database.
 
 # Al Wehda
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 25
+
+## Identity
+
+- Database coverage is deepest in GK (6), CM (3), and CD (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Gk (6), Cover (1), and Sprinter (1) across the current squad.
+- Average available overall grade sits at 61.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[abdullah-al-hafith]] Abdullah Al-Hafith | CD | None | None |
-| [[radhi-al-otaibi]] Radhi Al-Otaibi | CD | None | None |
-| [[jaber-asiri]] Jaber Asiri | CF | None | None |
-| [[ali-al-zaqaan]] Ali Al-Zaqaan | CM | None | None |
-| [[fawaz-al-sqoor]] Fawaz Al-Sqoor | CM | None | None |
-| [[hussain-al-eisa]] Hussain Al-Eisa | CM | None | None |
-| [[abdullah-al-jadaani]] Abdullah Al-Jadaani | GK | GK | None |
-| [[ahmed-al-ghamdi]] Ahmed Al-Ghamdi | GK | GK | None |
-| [[ahmed-al-rashidi]] Ahmed Al-Rashidi | GK | GK | None |
-| [[ayman-al-hussaini]] Ayman Al-Hussaini | GK | GK | None |
-| [[mohammed-makbashi]] Mohammed Makbashi | GK | GK | None |
-| [[munir-mohamedi]] Munir Mohamedi | GK | GK | None |
+| [[abdullah-al-hafith]] Abdullah Al-Hafith | CD | — | — |
+| [[radhi-al-otaibi]] Radhi Al-Otaibi | CD | — | — |
+| [[jaber-asiri]] Jaber Asiri | CF | — | — |
+| [[ali-al-zaqaan]] Ali Al-Zaqaan | CM | — | — |
+| [[fawaz-al-sqoor]] Fawaz Al-Sqoor | CM | — | — |
+| [[hussain-al-eisa]] Hussain Al-Eisa | CM | — | — |
+| [[abdullah-al-jadaani]] Abdullah Al-Jadaani | GK | GK | — |
+| [[ahmed-al-ghamdi]] Ahmed Al-Ghamdi | GK | GK | — |
+| [[ahmed-al-rashidi]] Ahmed Al-Rashidi | GK | GK | — |
+| [[ayman-al-hussaini]] Ayman Al-Hussaini | GK | GK | — |
+| [[mohammed-makbashi]] Mohammed Makbashi | GK | GK | — |
+| [[munir-mohamedi]] Munir Mohamedi | GK | GK | — |
 | [[islam-hawsawi]] Islam Hawsawi | WD | Cover | 61.0 |
-| [[abdulaziz-noor]] Abdulaziz Noor | None | Sprinter | None |
-| [[abdulelah-bukhari]] Abdulelah Bukhari | None | None | None |
-| [[abdulrahman-al-hajri]] Abdulrahman Al-Hajri | None | None | None |
-| [[alaa-al-hejji]] Alaa Al-Hejji | None | None | None |
-| [[azzam-al-bishi]] Azzam Al-Bishi | None | None | None |
-| [[hazzaa-al-ghamdi]] Hazzaa Al-Ghamdi | None | None | None |
-| [[nawaf-al-azizi]] Nawaf Al-Azizi | None | None | None |
-| [[saeed-al-muwallad]] Saeed Al-Muwallad | None | None | None |
-| [[sultan-al-akouz]] Sultan Al-Akouz | None | None | None |
-| [[thamer-al-ali]] Thamer Al-Ali | None | None | None |
-| [[wadhah-malik]] Wadhah Malik | None | None | None |
-| [[yahya-al-najei]] Yahya Al-Najei | None | None | None |
+| Abdulaziz Noor | — | Sprinter | — |
+| Abdulelah Bukhari | — | — | — |
+| Abdulrahman Al-Hajri | — | — | — |
+| Alaa Al-Hejji | — | — | — |
+| Azzam Al-Bishi | — | — | — |
+| Hazzaa Al-Ghamdi | — | — | — |
+| Nawaf Al-Azizi | — | — | — |
+| Saeed Al-Muwallad | — | — | — |
+| Sultan Al-Akouz | — | — | — |
+| Thamer Al-Ali | — | — | — |
+| Wadhah Malik | — | — | — |
+| Yahya Al-Najei | — | — | — |

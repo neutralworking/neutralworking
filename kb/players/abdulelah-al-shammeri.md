@@ -5,7 +5,7 @@ tags: [CM, Abha, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Abha. Archetype: None.
+summary: CM at Abha. Archetype: —.
 person_id: 7729
 backlinks: [abha]
 ---
@@ -20,15 +20,22 @@ backlinks: [abha]
 | **Club** | Abha |
 | **Nation** | Saudi Arabia |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A functional right-back with decent athleticism and positional sense for Saudi First Division level. His crosses lack precision and his 1v1 defending is inconsistent—you'll catch him ball-watching in transition. Serviceable squad option but not a player who'll progress you significantly in Asia.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,13 @@ A functional right-back with decent athleticism and positional sense for Saudi F
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

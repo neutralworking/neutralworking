@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -175,8 +57,22 @@ article strong { color: #fff; font-weight: 500; }
 <article>
 <h1 id="om">OM</h1>
 <p><strong>League</strong>: Ligue 1<br />
-<strong>Nation</strong>: None<br />
+<strong>Nation</strong>: —<br />
 <strong>Players in DB</strong>: 113</p>
+<h2 id="identity">Identity</h2>
+<ul>
+<li>Database coverage is deepest in CM (40), CF (18), and GK (15), which shapes the visible squad picture.</li>
+<li>The tracked archetype mix leans toward Gk (15), Creator (11), and Destroyer (10) across the current squad.</li>
+<li>Average available overall grade sits at 63.7, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.</li>
+</ul>
+<h2 id="canon-context">Canon Context</h2>
+<ul>
+<li><a href="../concepts/build-up.html">build-up</a> Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.</li>
+<li><a href="../concepts/rest-defense.html">rest-defense</a> Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.</li>
+<li><a href="../concepts/half-space.html">half-space</a> Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.</li>
+<li><a href="../concepts/occupation-of-five-lanes.html">occupation-of-five-lanes</a> Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.</li>
+<li><a href="../concepts/gegenpressing.html">gegenpressing</a> Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.</li>
+</ul>
 <h2 id="squad">Squad</h2>
 <table>
 <thead>
@@ -195,88 +91,88 @@ article strong { color: #fff; font-weight: 500; }
 <td>64.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">addisyn-merrick</span> Addisyn Merrick</td>
+<td><a href="../players/addisyn-merrick.html">addisyn-merrick</a> Addisyn Merrick</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">aniek-nouwen</span> Aniek Nouwen</td>
+<td><a href="../players/aniek-nouwen.html">aniek-nouwen</a> Aniek Nouwen</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">danielle-turner</span> Danielle Turner</td>
+<td><a href="../players/danielle-turner.html">danielle-turner</a> Danielle Turner</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">grace-fisk</span> Grace Fisk</td>
+<td><a href="../players/grace-fisk.html">grace-fisk</a> Grace Fisk</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">kaleigh-riehl</span> Kaleigh Riehl</td>
+<td><a href="../players/kaleigh-riehl.html">kaleigh-riehl</a> Kaleigh Riehl</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">kiki-pickett</span> Kiki Pickett</td>
+<td><a href="../players/kiki-pickett.html">kiki-pickett</a> Kiki Pickett</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">luana-buhler</span> Luana Bühler</td>
+<td><a href="../players/luana-buhler.html">luana-buhler</a> Luana Bühler</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">meaghan-nally</span> Meaghan Nally</td>
+<td><a href="../players/meaghan-nally.html">meaghan-nally</a> Meaghan Nally</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">millie-bright</span> Millie Bright</td>
+<td><a href="../players/millie-bright.html">millie-bright</a> Millie Bright</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">natalie-jacobs</span> Natalie Jacobs</td>
+<td><a href="../players/natalie-jacobs.html">natalie-jacobs</a> Natalie Jacobs</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">nicole-payne</span> Nicole Payne</td>
+<td><a href="../players/nicole-payne.html">nicole-payne</a> Nicole Payne</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">rarmani-edmonds-green</span> Rarmani Edmonds-Green</td>
+<td><a href="../players/rarmani-edmonds-green.html">rarmani-edmonds-green</a> Rarmani Edmonds-Green</td>
 <td>CD</td>
 <td>Powerhouse</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">shelina-zadorsky</span> Shelina Zadorsky</td>
+<td><a href="../players/shelina-zadorsky.html">shelina-zadorsky</a> Shelina Zadorsky</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">tuva-hansen</span> Tuva Hansen</td>
+<td><a href="../players/tuva-hansen.html">tuva-hansen</a> Tuva Hansen</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/vanessa-gilles.html">vanessa-gilles</a> Vanessa Gilles</td>
@@ -291,34 +187,34 @@ article strong { color: #fff; font-weight: 500; }
 <td>68.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">ashleigh-weerden</span> Ashleigh Weerden</td>
+<td><a href="../players/ashleigh-weerden.html">ashleigh-weerden</a> Ashleigh Weerden</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">ella-powell</span> Ella Powell</td>
+<td><a href="../players/ella-powell.html">ella-powell</a> Ella Powell</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">enzo-sternal</span> Enzo Sternal</td>
+<td><a href="../players/enzo-sternal.html">enzo-sternal</a> Enzo Sternal</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">karolina-krivska</span> Karolína Křivská</td>
+<td><a href="../players/karolina-krivska.html">karolina-krivska</a> Karolína Křivská</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">katerina-svitkova</span> Kateřina Svitková</td>
+<td><a href="../players/katerina-svitkova.html">katerina-svitkova</a> Kateřina Svitková</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/louis-dennis.html">louis-dennis</a> Louis Dennis</td>
@@ -327,22 +223,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>75.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">maika-hamano</span> Maika Hamano</td>
+<td><a href="../players/maika-hamano.html">maika-hamano</a> Maika Hamano</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">martha-thomas</span> Martha Thomas</td>
+<td><a href="../players/martha-thomas.html">martha-thomas</a> Martha Thomas</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mia-fishel</span> Mia Fishel</td>
+<td><a href="../players/mia-fishel.html">mia-fishel</a> Mia Fishel</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/michael-cheek.html">michael-cheek</a> Michael Cheek</td>
@@ -351,34 +247,34 @@ article strong { color: #fff; font-weight: 500; }
 <td>73.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">nichelle-prince</span> Nichelle Prince</td>
+<td><a href="../players/nichelle-prince.html">nichelle-prince</a> Nichelle Prince</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">ramona-bachmann</span> Ramona Bachmann</td>
+<td><a href="../players/ramona-bachmann.html">ramona-bachmann</a> Ramona Bachmann</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">sam-kerr</span> Sam Kerr</td>
+<td><a href="../players/sam-kerr.html">sam-kerr</a> Sam Kerr</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">simone-magill</span> Simone Magill</td>
+<td><a href="../players/simone-magill.html">simone-magill</a> Simone Magill</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">tereza-szewieczkova</span> Tereza Szewieczková</td>
+<td><a href="../players/tereza-szewieczkova.html">tereza-szewieczkova</a> Tereza Szewieczková</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/v-erlien.html">v-erlien</a> V. Erlien</td>
@@ -387,10 +283,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>64.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">viviane-asseyi</span> Viviane Asseyi</td>
+<td><a href="../players/viviane-asseyi.html">viviane-asseyi</a> Viviane Asseyi</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/a-jenssen.html">a-jenssen</a> A. Jenssen</td>
@@ -405,10 +301,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>66.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abbey-leigh-stringer</span> Abbey-Leigh Stringer</td>
+<td><a href="../players/abbey-leigh-stringer.html">abbey-leigh-stringer</a> Abbey-Leigh Stringer</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/abdulmalik-al-oyayari.html">abdulmalik-al-oyayari</a> Abdulmalik Al Oyayari</td>
@@ -417,10 +313,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>59.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">aileen-whelan</span> Aileen Whelan</td>
+<td><a href="../players/aileen-whelan.html">aileen-whelan</a> Aileen Whelan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/ala-al-hajji.html">ala-al-hajji</a> Ala Al Hajji</td>
@@ -435,34 +331,34 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">andressa-alves</span> Andressa Alves</td>
+<td><a href="../players/andressa-alves.html">andressa-alves</a> Andressa Alves</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">aurora-galli</span> Aurora Galli</td>
+<td><a href="../players/aurora-galli.html">aurora-galli</a> Aurora Galli</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">brianna-pinto</span> Brianna Pinto</td>
+<td><a href="../players/brianna-pinto.html">brianna-pinto</a> Brianna Pinto</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">claire-emslie</span> Claire Emslie</td>
+<td><a href="../players/claire-emslie.html">claire-emslie</a> Claire Emslie</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">clare-wheeler</span> Clare Wheeler</td>
+<td><a href="../players/clare-wheeler.html">clare-wheeler</a> Clare Wheeler</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/d-edvardsson.html">d-edvardsson</a> D. Edvardsson</td>
@@ -471,22 +367,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>68.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">deanne-rose</span> Deanne Rose</td>
+<td><a href="../players/deanne-rose.html">deanne-rose</a> Deanne Rose</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">desiree-scott</span> Desiree Scott</td>
+<td><a href="../players/desiree-scott.html">desiree-scott</a> Desiree Scott</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">erin-cuthbert</span> Erin Cuthbert</td>
+<td><a href="../players/erin-cuthbert.html">erin-cuthbert</a> Erin Cuthbert</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/f-abdi.html">f-abdi</a> F. Abdi</td>
@@ -501,22 +397,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>68.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">gael-lafont</span> Gael Lafont</td>
+<td><a href="../players/gael-lafont.html">gael-lafont</a> Gael Lafont</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">grace-clinton</span> Grace Clinton</td>
+<td><a href="../players/grace-clinton.html">grace-clinton</a> Grace Clinton</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">hannah-cain</span> Hannah Cain</td>
+<td><a href="../players/hannah-cain.html">hannah-cain</a> Hannah Cain</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/i-vadebu.html">i-vadebu</a> I. Vådebu</td>
@@ -525,10 +421,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>66.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">irene-guerrero</span> Irene Guerrero</td>
+<td><a href="../players/irene-guerrero.html">irene-guerrero</a> Irene Guerrero</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/j-taaje.html">j-taaje</a> J. Taaje</td>
@@ -537,16 +433,16 @@ article strong { color: #fff; font-weight: 500; }
 <td>67.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">jessie-fleming</span> Jessie Fleming</td>
+<td><a href="../players/jessie-fleming.html">jessie-fleming</a> Jessie Fleming</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">julie-ertz</span> Julie Ertz</td>
+<td><a href="../players/julie-ertz.html">julie-ertz</a> Julie Ertz</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/k-krasniqi.html">k-krasniqi</a> K. Krasniqi</td>
@@ -567,28 +463,28 @@ article strong { color: #fff; font-weight: 500; }
 <td>68.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">lucy-staniforth</span> Lucy Staniforth</td>
+<td><a href="../players/lucy-staniforth.html">lucy-staniforth</a> Lucy Staniforth</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mateus-castro</span> Mateus Castro</td>
+<td><a href="../players/mateus-castro.html">mateus-castro</a> Mateus Castro</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">matilda-vinberg</span> Matilda Vinberg</td>
+<td><a href="../players/matilda-vinberg.html">matilda-vinberg</a> Matilda Vinberg</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">megan-finnigan</span> Megan Finnigan</td>
+<td><a href="../players/megan-finnigan.html">megan-finnigan</a> Megan Finnigan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/n-zeze.html">n-zeze</a> N. Zézé</td>
@@ -597,34 +493,34 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">olaya-enrique</span> Olaya Enrique</td>
+<td><a href="../players/olaya-enrique.html">olaya-enrique</a> Olaya Enrique</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">pernille-harder</span> Pernille Harder</td>
+<td><a href="../players/pernille-harder.html">pernille-harder</a> Pernille Harder</td>
 <td>CM</td>
 <td>Sprinter</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">poppy-pattinson</span> Poppy Pattinson</td>
+<td><a href="../players/poppy-pattinson.html">poppy-pattinson</a> Poppy Pattinson</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/salman-al-faraj.html">salman-al-faraj</a> Salman Al-Faraj</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">toni-duggan</span> Toni Duggan</td>
+<td><a href="../players/toni-duggan.html">toni-duggan</a> Toni Duggan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/v-skjrvik.html">v-skjrvik</a> V. Skjærvik</td>
@@ -633,40 +529,40 @@ article strong { color: #fff; font-weight: 500; }
 <td>66.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">casey-murphy</span> Casey Murphy</td>
+<td><a href="../players/casey-murphy.html">casey-murphy</a> Casey Murphy</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">courtney-brosnan</span> Courtney Brosnan</td>
+<td><a href="../players/courtney-brosnan.html">courtney-brosnan</a> Courtney Brosnan</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">emily-alvarado</span> Emily Alvarado</td>
+<td><a href="../players/emily-alvarado.html">emily-alvarado</a> Emily Alvarado</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-haugaard</span> J. Haugaard</td>
+<td><a href="../players/j-haugaard.html">j-haugaard</a> J. Haugaard</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">kailen-sheridan</span> Kailen Sheridan</td>
+<td><a href="../players/kailen-sheridan.html">kailen-sheridan</a> Kailen Sheridan</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">lize-kop</span> Lize Kop</td>
+<td><a href="../players/lize-kop.html">lize-kop</a> Lize Kop</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/luis-maximiano.html">luis-maximiano</a> Luís Maximiano</td>
@@ -675,22 +571,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>69.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">marcin-buka</span> Marcin Bułka</td>
+<td><a href="../players/marcin-buka.html">marcin-buka</a> Marcin Bułka</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">olivia-sekany</span> Olivia Sekany</td>
+<td><a href="../players/olivia-sekany.html">olivia-sekany</a> Olivia Sekany</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">olivie-lukasova</span> Olivie Lukášová</td>
+<td><a href="../players/olivie-lukasova.html">olivie-lukasova</a> Olivie Lukášová</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/rachael-laws.html">rachael-laws</a> Rachael Laws</td>
@@ -699,46 +595,46 @@ article strong { color: #fff; font-weight: 500; }
 <td>65.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">sabrina-dangelo</span> Sabrina D'Angelo</td>
+<td><a href="../players/sabrina-dangelo.html">sabrina-dangelo</a> Sabrina D'Angelo</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">saleh-al-ohaymid</span> Saleh Al-Ohaymid</td>
+<td><a href="../players/saleh-al-ohaymid.html">saleh-al-ohaymid</a> Saleh Al-Ohaymid</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">sandy-maciver</span> Sandy MacIver</td>
+<td><a href="../players/sandy-maciver.html">sandy-maciver</a> Sandy MacIver</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">zecira-musovic</span> Zećira Mušović</td>
+<td><a href="../players/zecira-musovic.html">zecira-musovic</a> Zećira Mušović</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">ali-riley</span> Ali Riley</td>
+<td><a href="../players/ali-riley.html">ali-riley</a> Ali Riley</td>
 <td>WD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">ashleigh-neville</span> Ashleigh Neville</td>
+<td><a href="../players/ashleigh-neville.html">ashleigh-neville</a> Ashleigh Neville</td>
 <td>WD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">jayde-riviere</span> Jayde Riviere</td>
+<td><a href="../players/jayde-riviere.html">jayde-riviere</a> Jayde Riviere</td>
 <td>WD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/l-cornic.html">l-cornic</a> L. Cornic</td>
@@ -747,22 +643,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>67.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">niamh-charles</span> Niamh Charles</td>
+<td><a href="../players/niamh-charles.html">niamh-charles</a> Niamh Charles</td>
 <td>WD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">athenea-del-castillo</span> Athenea del Castillo</td>
+<td><a href="../players/athenea-del-castillo.html">athenea-del-castillo</a> Athenea del Castillo</td>
 <td>WF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">hayley-raso</span> Hayley Raso</td>
+<td><a href="../players/hayley-raso.html">hayley-raso</a> Hayley Raso</td>
 <td>WF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/m-farji.html">m-farji</a> M. Farji</td>
@@ -771,10 +667,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>66.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mallory-swanson</span> Mallory Swanson</td>
+<td><a href="../players/mallory-swanson.html">mallory-swanson</a> Mallory Swanson</td>
 <td>WF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/o-enersen.html">o-enersen</a> O. Enersen</td>
@@ -837,34 +733,34 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">isabella-hobson</span> Isabella Hobson</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Isabella Hobson</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-ampofo</span> J. Ampofo</td>
-<td>None</td>
+<td>J. Ampofo</td>
+<td>—</td>
 <td>Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-bakke</span> J. Bakke</td>
-<td>None</td>
+<td>J. Bakke</td>
+<td>—</td>
 <td>Destroyer-Sprinter</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">princess-ademiluyi</span> Princess Ademiluyi</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Princess Ademiluyi</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">y-paintsil</span> Y. Paintsil</td>
-<td>None</td>
+<td>Y. Paintsil</td>
+<td>—</td>
 <td>Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>

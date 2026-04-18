@@ -2,7 +2,7 @@
 title: Rick van Drongelen
 category: players
 tags: [CD, Samsunspor, Netherlands, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Samsunspor. Archetype: Destroyer.
@@ -26,59 +26,35 @@ backlinks: [destroyer, samsunspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Rick van Drongelen projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Jumping, Heading, and Pace.
-
-## Role Fit
-
-- Best-fit role is `Distributor` with model support score `71`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Jumping, Heading, and Pace.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Heading, and Pace.
-- Style traits point toward Two Footed, Positioning, and Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Acceleration | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Heading | ███████████████ 15/10 |
+| Pace | █████████████ 13/10 |
+| First Touch | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Acceleration | ███████████ 11/10 |
+| Balance | ███████████ 11/10 |
+| Stamina | ███████████ 11/10 |
+| Penalties | ██████████ 10/10 |
+| Crossing | █████████░ 9/10 |
+| Take Ons | █████████░ 9/10 |
+| Pass Range | ████████░░ 8/10 |
+| Positioning | ████████░░ 8/10 |
+| Volleys | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **Positioning** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -88,21 +64,3 @@ Rick van Drongelen projects primarily as a CD with a `Destroyer` lean. The stron
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Positioning** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

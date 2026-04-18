@@ -19,16 +19,23 @@ backlinks: [sprinter, cadiz]
 | **Position** | WF |
 | **Club** | Cadiz |
 | **Nation** | Spain |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 70 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A Spanish winger-forward whose profile remains opaque without clear senior La Liga exposure; he's likely a prospect struggling to break through or a journeyman finding minutes in the lower reaches. His technical foundation appears sound—he can receive and turn—but he lacks the explosiveness or decision-making to consistently beat defenders or create chances. Still developing, with an uncertain ceiling.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -59,13 +66,14 @@ A Spanish winger-forward whose profile remains opaque without clear senior La Li
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

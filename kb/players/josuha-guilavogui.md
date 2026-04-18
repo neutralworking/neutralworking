@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Mainz 05. Archetype: Striker.
 person_id: 13106
-backlinks: [striker, mainz-05]
+backlinks: [striker, tuttocampista, mainz-05]
 ---
 
 # Josuha Guilavogui
@@ -21,18 +21,26 @@ backlinks: [striker, mainz-05]
 | **Nation** | France |
 | **Age** | 35 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 74 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 French midfielder at 35 who's become a squad option rather than a starter, retaining some positional smarts but lacking legs and urgency. His reading of the game is still sound, but he can't enforce his will on a match anymore and shouldn't be relied upon.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Tactical, Technical, and Awareness.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +74,14 @@ French midfielder at 35 who's become a squad option rather than a starter, retai
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.7m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

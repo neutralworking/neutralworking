@@ -2,7 +2,7 @@
 title: Sikou Niakaté
 category: players
 tags: [CD, Braga, Mali, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Braga. Archetype: Cover-Powerhouse.
@@ -26,58 +26,35 @@ backlinks: [cover, braga]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Attribute Grades
 
-Sikou Niakaté projects primarily as a CD with a `Cover-Powerhouse` lean. The strongest database support comes from Jumping, Physical, and Stamina.
-
-## Role Fit
-
-- Best-fit role is `Colossus` with model support score `76`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Jumping, Physical, and Stamina.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Physical, and Stamina.
-- Style traits point toward Aerial Ability, Positioning, and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Jumping | █████████████████ 17/10 |
+| Stamina | ████████████████ 16/10 |
+| Heading | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Balance | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Take Ons | ████████████ 12/10 |
+| Pass Range | ██████████ 10/10 |
+| Crossing | █████████░ 9/10 |
+| Penalties | █████████░ 9/10 |
+| Aerial Duels | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **aerial_threat** (physical) — severity 6/10
+- **durability** (physical) — severity 6/10
+- **Aerial Ability** (style) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Defensive Awareness** (style) — severity 5/10
 
 ## Personality
 
@@ -87,21 +64,3 @@ Sikou Niakaté projects primarily as a CD with a `Cover-Powerhouse` lean. The st
 - **Pressure (JP)**: 59
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Aerial Threat** (physical) — severity 6/10
-- **Durability** (physical) — severity 6/10
-- **Aerial Ability** (style) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Defensive Awareness** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

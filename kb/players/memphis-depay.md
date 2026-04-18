@@ -2,7 +2,7 @@
 title: Memphis Depay
 category: players
 tags: [CF, Corinthians, Netherlands, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Corinthians. Archetype: Creator-Striker.
@@ -26,57 +26,35 @@ backlinks: [creator, corinthians]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 A veteran forward with lingering technical quality and the ability to play multiple positions, but at 32, his athleticism is noticeably diminished and his inconsistency is chronic. He can still produce moments of clever dribbling or a clever pass, but he's no longer a consistent finisher or a threat in behind; he's a squad option with experience rather than a cornerstone contributor.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Seconda Punta` with model support score `73`.
-- Primary archetype leans toward `Creator` behaviour from a `CF` base.
-- Most bankable strengths show up in Aerial Duels, Pass Accuracy, and Threat.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Aerial Duels, Pass Accuracy, and Threat.
-- Style traits point toward Direct in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aerial Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Threat | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Aerial Duels | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Threat | █████████░ 9/10 |
+| Through Balls | █████████░ 9/10 |
+| Vision | █████████░ 9/10 |
+| Carries | ████████░░ 8/10 |
+| Close Range | ████████░░ 8/10 |
+| Composure | ████████░░ 8/10 |
+| Creativity | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
+| Mid Range | ████████░░ 8/10 |
+| Awareness | ███████░░░ 7/10 |
+| Discipline | ███████░░░ 7/10 |
+| Intensity | ███████░░░ 7/10 |
+| Mental | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
-- Output may be more transition-dependent than possession-dominant environments want.
+- **availability** (physical) — severity 10/10
+- **direct** (style) — severity 4/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -86,22 +64,6 @@ A veteran forward with lingering technical quality and the ability to play multi
 - **Pressure (JP)**: 38
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Direct** (style) — severity 4/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

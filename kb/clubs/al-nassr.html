@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -175,8 +57,22 @@ article strong { color: #fff; font-weight: 500; }
 <article>
 <h1 id="al-nassr">Al-Nassr</h1>
 <p><strong>League</strong>: Saudi Pro League<br />
-<strong>Nation</strong>: None<br />
-<strong>Players in DB</strong>: 54</p>
+<strong>Nation</strong>: —<br />
+<strong>Players in DB</strong>: 53</p>
+<h2 id="identity">Identity</h2>
+<ul>
+<li>Database coverage is deepest in GK (10), CM (10), and CD (7), which shapes the visible squad picture.</li>
+<li>The tracked archetype mix leans toward Gk (10), Sprinter (5), and Cover (3) across the current squad.</li>
+<li>Average available overall grade sits at 62.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.</li>
+</ul>
+<h2 id="canon-context">Canon Context</h2>
+<ul>
+<li><a href="../concepts/build-up.html">build-up</a> Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.</li>
+<li><a href="../concepts/rest-defense.html">rest-defense</a> Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.</li>
+<li><a href="../concepts/half-space.html">half-space</a> Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.</li>
+<li><a href="../concepts/occupation-of-five-lanes.html">occupation-of-five-lanes</a> Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.</li>
+<li><a href="../concepts/gegenpressing.html">gegenpressing</a> Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.</li>
+</ul>
 <h2 id="squad">Squad</h2>
 <table>
 <thead>
@@ -191,8 +87,8 @@ article strong { color: #fff; font-weight: 500; }
 <tr>
 <td><a href="../players/abdulelah-al-amri.html">abdulelah-al-amri</a> Abdulelah Al-Amri</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/ali-lajami.html">ali-lajami</a> Ali Lajami</td>
@@ -201,10 +97,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>65.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">fahad-al-hamad</span> Fahad Al-Hamad</td>
+<td><a href="../players/fahad-al-hamad.html">fahad-al-hamad</a> Fahad Al-Hamad</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/inigo-martinez.html">inigo-martinez</a> Iñigo Martínez</td>
@@ -219,22 +115,22 @@ article strong { color: #fff; font-weight: 500; }
 <td>64.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mohammed-al-fatil</span> Mohammed Al-Fatil</td>
+<td><a href="../players/mohammed-al-fatil.html">mohammed-al-fatil</a> Mohammed Al-Fatil</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/sultan-al-ghannam.html">sultan-al-ghannam</a> Sultan Al-Ghannam</td>
 <td>CD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abdullah-al-hamdan</span> Abdullah Al-Hamdan</td>
+<td><a href="../players/abdullah-al-hamdan.html">abdullah-al-hamdan</a> Abdullah Al-Hamdan</td>
 <td>CF</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/cristiano-ronaldo.html">cristiano-ronaldo</a> Cristiano Ronaldo</td>
@@ -263,14 +159,14 @@ article strong { color: #fff; font-weight: 500; }
 <tr>
 <td><a href="../players/abdullah-al-khaibari.html">abdullah-al-khaibari</a> Abdullah Al-Khaibari</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/ali-al-hassan.html">ali-al-hassan</a> Ali Al-Hassan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/marcelo-brozovic.html">marcelo-brozovic</a> Marcelo Brozovic</td>
@@ -279,10 +175,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>54.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">rakan-al-shamlan</span> Rakan Al-Shamlan</td>
+<td><a href="../players/rakan-al-shamlan.html">rakan-al-shamlan</a> Rakan Al-Shamlan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/saad-al-nasser.html">saad-al-nasser</a> Saad Al Nasser</td>
@@ -291,82 +187,82 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">sami-al-najei</span> Sami Al-Najei</td>
+<td><a href="../players/sami-al-najei.html">sami-al-najei</a> Sami Al-Najei</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">saud-zidan</span> Saud Zidan</td>
+<td><a href="../players/saud-zidan.html">saud-zidan</a> Saud Zidan</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">yahya-al-shehri</span> Yahya Al-Shehri</td>
+<td><a href="../players/yahya-al-shehri.html">yahya-al-shehri</a> Yahya Al-Shehri</td>
 <td>CM</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abdulrahman-al-shammari</span> Abdulrahman Al-Shammari</td>
+<td><a href="../players/abdulrahman-al-shammari.html">abdulrahman-al-shammari</a> Abdulrahman Al-Shammari</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">awad-aman</span> Awad Aman</td>
+<td><a href="../players/awad-aman.html">awad-aman</a> Awad Aman</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">bento</span> Bento</td>
+<td><a href="../players/bento.html">bento</a> Bento</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">faris-afandy</span> Faris Afandy</td>
+<td><a href="../players/faris-afandy.html">faris-afandy</a> Faris Afandy</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mohammed-al-otaibi</span> Mohammed Al-Otaibi</td>
+<td><a href="../players/mohammed-al-otaibi.html">mohammed-al-otaibi</a> Mohammed Al-Otaibi</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">nawaf-al-aqidi</span> Nawaf Al Aqidi</td>
+<td><a href="../players/nawaf-al-aqidi.html">nawaf-al-aqidi</a> Nawaf Al Aqidi</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">nawaf-al-aqidi</span> Nawaf Al-Aqidi</td>
+<td><a href="../players/nawaf-al-aqidi.html">nawaf-al-aqidi</a> Nawaf Al-Aqidi</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">raghed-al-najjar</span> Raghed Al-Najjar</td>
+<td><a href="../players/raghed-al-najjar.html">raghed-al-najjar</a> Raghed Al-Najjar</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">waleed-abdullah</span> Waleed Abdullah</td>
+<td><a href="../players/waleed-abdullah.html">waleed-abdullah</a> Waleed Abdullah</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">waleed-al-enezi</span> Waleed Al-Enezi</td>
+<td><a href="../players/waleed-al-enezi.html">waleed-al-enezi</a> Waleed Al-Enezi</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/nawaf-boushal.html">nawaf-boushal</a> Nawaf Boushal</td>
@@ -375,10 +271,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>66.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">salem-al-najdi</span> Salem Al-Najdi</td>
+<td><a href="../players/salem-al-najdi.html">salem-al-najdi</a> Salem Al-Najdi</td>
 <td>WD</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/abdulrahman-ghareeb.html">abdulrahman-ghareeb</a> Abdulrahman Ghareeb</td>
@@ -411,12 +307,6 @@ article strong { color: #fff; font-weight: 500; }
 <td>67.0</td>
 </tr>
 <tr>
-<td><a href="../players/wesley-gassova.html">wesley-gassova</a> Wesley Gassova</td>
-<td>WF</td>
-<td>Creator</td>
-<td>32.0</td>
-</tr>
-<tr>
 <td><a href="../players/ali-al-hassan.html">ali-al-hassan</a> Ali Al Hassan</td>
 <td>WM</td>
 <td>Dribbler-Sprinter</td>
@@ -429,88 +319,88 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abdulaziz-al-aliwa</span> Abdulaziz Al-Aliwa</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Abdulaziz Al-Aliwa</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abdulaziz-al-faraj</span> Abdulaziz Al-Faraj</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Abdulaziz Al-Faraj</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">abdulmajeed-al-sulaiheem</span> Abdulmajeed Al-Sulaiheem</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Abdulmajeed Al-Sulaiheem</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/basil-al-sayyali.html">basil-al-sayyali</a> Basil Al-Sayyali</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">fahad-al-taleb</span> Fahad Al-Taleb</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Fahad Al-Taleb</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">khaled-al-hamoush</span> Khaled Al-Hamoush</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Khaled Al-Hamoush</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">marzouq-tambakti</span> Marzouq Tambakti</td>
-<td>None</td>
+<td>Marzouq Tambakti</td>
+<td>—</td>
 <td>Destroyer-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">meshari-al-nemer</span> Meshari Al-Nemer</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Meshari Al-Nemer</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mohammed-maran</span> Mohammed Maran</td>
-<td>None</td>
+<td>Mohammed Maran</td>
+<td>—</td>
 <td>Creator-Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mohammed-sahlouli</span> Mohammed Sahlouli</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Mohammed Sahlouli</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">nader-al-sharari</span> Nader Al Sharari</td>
-<td>None</td>
+<td><a href="../players/nader-al-sharari.html">nader-al-sharari</a> Nader Al Sharari</td>
+<td>—</td>
 <td>Cover-Powerhouse</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">saad-haqawi</span> Saad Haqawi</td>
-<td>None</td>
+<td>Saad Haqawi</td>
+<td>—</td>
 <td>Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">salem-al-najdi</span> Salem Al Najdi</td>
-<td>None</td>
+<td><a href="../players/salem-al-najdi.html">salem-al-najdi</a> Salem Al Najdi</td>
+<td>—</td>
 <td>Destroyer-Powerhouse</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">waleed-hibah</span> Waleed Hibah</td>
-<td>None</td>
-<td>None</td>
-<td>None</td>
+<td>Waleed Hibah</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>

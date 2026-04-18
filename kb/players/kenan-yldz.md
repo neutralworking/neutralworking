@@ -2,12 +2,12 @@
 title: Kenan Yıldız
 category: players
 tags: [WF, Juventus, Turkey, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Juventus. Archetype: Creator-Dribbler.
 person_id: 13420
-backlinks: [creator, juventus]
+backlinks: [creator, wide-playmaker, juventus]
 ---
 
 # Kenan Yıldız
@@ -21,6 +21,8 @@ backlinks: [creator, juventus]
 | **Nation** | Turkey |
 | **Age** | 20 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 78 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [creator, juventus]
 
 Juventus #10. Architecturally a No.10 deployed wide-left. Ceiling attributes: Spatial Awareness 8, Guile 8, First Touch 8, Long Range 8. Weak Foot 5/5 confirmed. Set Pieces 7. Clinical 6 — conversion trails finishing quality. 2025-26: 9G 7A in 31 apps, FotMob 7.53. Derby della Mole solo goal, Derby d'Italia brace. One of the top three creative AM talents in Europe at his age. Benchmark — contract to 2029, not acquirable. Chief Scout Value: EUR120-150m.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `78`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Awareness, First Touch, and Acceleration.
@@ -67,13 +76,14 @@ Juventus #10. Architecturally a No.10 deployed wide-left. Ceiling attributes: Sp
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 101m |
+| Mid | EUR 74.0m |
+| Ceiling | EUR 102m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,17 +116,17 @@ Juventus #10. Architecturally a No.10 deployed wide-left. Ceiling attributes: Sp
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Turkey	AM	4 May 2005 (age 18)	2023	2025	Italy Youth Sector	N/A	0	0
+Turkey	AM	4 May 2005 (age 18)	2023	2025	Italy Youth Sector	N/A	0	0
 
 </details>

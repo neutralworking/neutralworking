@@ -2,7 +2,7 @@
 title: S. Dahl
 category: players
 tags: [CM, Benfica, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Benfica. Archetype: Creator-Destroyer.
@@ -26,54 +26,36 @@ backlinks: [creator, benfica]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Dahl's Connector archetype and Metodista role are a natural fit, as he excels in a deep-lying playmaking position, using his creativity and pass accuracy to dictate the tempo of the game. His awareness and tackling ability also make him a solid presence in midfield, but his limited mental pillar and lack of blocking ability can make it difficult for him to adapt to changing circumstances. A team with a strong, structured approach could help him thrive, particularly in a possession-based system.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `68`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Positional Discipline and High Press.
-- Most bankable strengths show up in Discipline, Composure, and Duels.
-
-## In Possession
-
-- Ball-value indicators lean on Discipline, Composure, and Duels.
-- Style traits point toward Flamboyant in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Positional Discipline, High Press, and Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Tackling | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Concentration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Discipline | █████████░ 9/10 |
+| Composure | ████████░░ 8/10 |
+| Duels | ████████░░ 8/10 |
+| Pass Accuracy | ████████░░ 8/10 |
+| Tackling | ████████░░ 8/10 |
+| Through Balls | ████████░░ 8/10 |
+| Close Range | ███████░░░ 7/10 |
+| Concentration | ███████░░░ 7/10 |
+| Creativity | ███████░░░ 7/10 |
+| Flair | ███████░░░ 7/10 |
+| Mid Range | ███████░░░ 7/10 |
+| Pressing | ███████░░░ 7/10 |
+| Skills | ███████░░░ 7/10 |
+| Take Ons | ███████░░░ 7/10 |
+| Vision | ███████░░░ 7/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **flamboyant** (style) — severity 5/10
+- **positional_discipline** (tactical) — severity 5/10
+- **high_press** (tactical) — severity 5/10
+- **build_up_contributor** (tactical) — severity 5/10
 
 ## Personality
 
@@ -83,19 +65,3 @@ Dahl's Connector archetype and Metodista role are a natural fit, as he excels in
 - **Pressure (JP)**: 53
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 5/10
-- **Positional Discipline** (tactical) — severity 5/10
-- **High Press** (tactical) — severity 5/10
-- **Build Up Contributor** (tactical) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

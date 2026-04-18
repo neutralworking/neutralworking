@@ -2,7 +2,7 @@
 title: Matt Simon
 category: players
 tags: [WM, Paris FC, Sprinter-Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Paris FC. Archetype: Sprinter-Striker.
@@ -26,54 +26,29 @@ backlinks: [sprinter, paris-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Matt Simon projects primarily as a WM with a `Sprinter-Striker` lean. The strongest database support comes from Acceleration, Aerial Duels, and Pace.
-
-## Role Fit
-
-- Best-fit role is `False Winger` with model support score `66`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
-- Most bankable strengths show up in Acceleration, Aerial Duels, and Pace.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Aerial Duels, and Pace.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Volleys | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ██████████████ 14/10 |
+| Aerial Duels | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| Marking | █████████████ 13/10 |
+| Volleys | ████████████ 12/10 |
+| First Touch | ███████████ 11/10 |
+| Close Range | █████████░ 9/10 |
+| Composure | █████████░ 9/10 |
+| Creativity | █████████░ 9/10 |
+| Discipline | █████████░ 9/10 |
+| Threat | █████████░ 9/10 |
+| Vision | █████████░ 9/10 |
+| Heading | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
+| Mid Range | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **aerial_threat** (physical) — severity 10/10
 
 ## Personality
 
@@ -83,15 +58,3 @@ Matt Simon projects primarily as a WM with a `Sprinter-Striker` lean. The strong
 - **Pressure (JP)**: 68
 - **Competitiveness**: 6/10
 - **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -5,7 +5,7 @@ tags: [CD, Zamalek, Egypt]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Zamalek. Archetype: None.
+summary: CD at Zamalek. Archetype: —.
 person_id: 28141
 backlinks: [zamalek]
 ---
@@ -20,15 +20,22 @@ backlinks: [zamalek]
 | **Club** | Zamalek |
 | **Nation** | Egypt |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Hossam Abdelmaguid projects primarily as a CD with a `None` lean. The strongest database support comes from Composure, Duels, and Pass Accuracy.
+Hossam Abdelmaguid projects primarily as a CD with a `—` lean. The strongest database support comes from Composure, Duels, and Pass Accuracy.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,8 +73,9 @@ Hossam Abdelmaguid projects primarily as a CD with a `None` lean. The strongest 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

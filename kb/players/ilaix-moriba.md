@@ -2,12 +2,12 @@
 title: Ilaix Moriba
 category: players
 tags: [CM, Celta Vigo, Guinea, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Celta Vigo. Archetype: Creator-Dribbler.
 person_id: 11948
-backlinks: [creator, celta-vigo]
+backlinks: [creator, ball-winner, celta-vigo]
 ---
 
 # Ilaix Moriba
@@ -21,18 +21,27 @@ backlinks: [creator, celta-vigo]
 | **Nation** | Guinea |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Athletic midfielder with ball-carrying ability that stands out in La Liga's lower half, and he'll drive forward with real purpose when space opens. His touch is clean enough, and he's comfortable receiving on the half-turn. The glaring weakness is decision-making — he overcomplicates far too often, and his passing under pressure remains erratic for a player at his age.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `71`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `71`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Jumping, Pace, and Pass Range.
@@ -67,13 +76,14 @@ Athletic midfielder with ball-carrying ability that stands out in La Liga's lowe
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 11.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,17 +112,16 @@ Athletic midfielder with ball-carrying ability that stands out in La Liga's lowe
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubBarcelona
 
@@ -128,6 +137,5 @@ It is not always easy to stand out at La Masia, but “Ilaix” Moriba Kourouma 
 **September 2022 update** Last season was a mixed bag for Ilaix. His salary demands forced him out of Barcelona and to Leipzig where the box-to-box midfielder was touted as a Marcel Sabitzer replacement. After failing to establish himself in East Germany, Kourouma was loaned to Valencia where he played sporadically. He is back there on loan again for the upcoming season.  
   
 **October 2023 update** Made 28 appearances for Valencia on a second consecutive loan spell to the club. Has now returned to Leipzig, but, at the time of writing, is yet to play this season for the Bundesliga club (but he has been included in some matchday squads).
-
 
 </details>

@@ -1,56 +1,69 @@
 ---
 title: Ross County
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Ross County. 36 players in database.
+summary: Ross County. 35 players in database.
 ---
 
 # Ross County
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 36
+**League**: —  
+**Nation**: —  
+**Players in DB**: 35
+
+## Identity
+
+- Database coverage is deepest in CM (11), CD (5), and WD (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (8), Powerhouse (7), and Destroyer (3) across the current squad.
+- Average available overall grade sits at 74.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[alex-iacovitti]] Alex Iacovitti | CD | Cover | None |
+| [[alex-iacovitti]] Alex Iacovitti | CD | Cover | — |
 | [[declan-gallagher]] Declan Gallagher | CD | Cover | 69.0 |
-| [[jack-baldwin]] Jack Baldwin | CD | Destroyer-Powerhouse | None |
-| [[ricki-lamie]] Ricki Lamie | CD | Powerhouse-Cover | None |
-| [[ross-docherty]] Ross Docherty | CD | Powerhouse-Cover | None |
-| [[james-scott]] James Scott | CF | Dribbler-Target | None |
+| [[jack-baldwin]] Jack Baldwin | CD | Destroyer-Powerhouse | — |
+| [[ricki-lamie]] Ricki Lamie | CD | Powerhouse-Cover | — |
+| [[ross-docherty]] Ross Docherty | CD | Powerhouse-Cover | — |
+| [[james-scott]] James Scott | CF | Dribbler-Target | — |
 | [[jordan-white]] Jordan White | CF | Target-Striker | 72.0 |
 | [[akil-wright]] Akil Wright | CM | Powerhouse | 73.0 |
-| [[brandon-khela]] Brandon Khela | CM | Sprinter | None |
-| [[dylan-smith]] Dylan Smith | CM | Destroyer-Powerhouse | None |
+| [[brandon-khela]] Brandon Khela | CM | Sprinter | — |
+| [[dylan-smith]] Dylan Smith | CM | Destroyer-Powerhouse | — |
 | [[gwion-edwards]] Gwion Edwards | CM | Sprinter | 76.0 |
-| [[jay-henderson]] Jay Henderson | CM | None | None |
-| [[josh-sims]] Josh Sims | CM | None | None |
-| [[kyle-turner]] Kyle Turner | CM | None | None |
-| [[max-sheaf]] Max Sheaf | CM | Sprinter | None |
+| [[jay-henderson]] Jay Henderson | CM | — | — |
+| [[josh-sims]] Josh Sims | CM | — | — |
+| [[kyle-turner]] Kyle Turner | CM | — | — |
+| [[max-sheaf]] Max Sheaf | CM | Sprinter | — |
 | [[noah-chilvers]] Noah Chilvers | CM | Powerhouse | 78.0 |
-| [[ross-callachan]] Ross Callachan | CM | Powerhouse | None |
-| [[scott-fraser]] Scott Fraser | CM | None | None |
-| [[ross-laidlaw]] Ross Laidlaw | GK | GK | None |
+| [[ross-callachan]] Ross Callachan | CM | Powerhouse | — |
+| [[scott-fraser]] Scott Fraser | CM | — | — |
+| [[ross-laidlaw]] Ross Laidlaw | GK | GK | — |
 | [[connor-randall]] Connor Randall | WD | Destroyer-Dribbler | 76.0 |
-| [[michee-efete]] Michee Efete | WD | Sprinter | None |
-| [[gary-mackay-steven]] Gary Mackay-Steven | WF | Sprinter | None |
-| [[adam-mackinnon]] Adam Mackinnon | None | None | None |
-| [[andrew-macleod]] Andrew Macleod | None | None | None |
-| [[connall-ewan]] Connall Ewan | None | Sprinter | None |
-| [[george-robesten]] George Robesten | None | None | None |
-| [[james-brown]] James Brown | None | Powerhouse | None |
-| [[jamie-williamson]] Jamie Williamson | None | None | None |
-| [[josh-reid]] Josh Reid | None | Powerhouse | None |
-| [[josh-stones]] Josh Stones | None | Sprinter | None |
-| [[matthew-wright]] Matthew Wright | None | None | None |
-| [[miller-thomson]] Miller Thomson | None | Sprinter | None |
-| [[owura-edwards]] Owura Edwards | None | Sprinter | None |
-| [[ryan-duncan]] Ryan Duncan | None | None | None |
-| [[ryan-leak]] Ryan Leak | None | Cover | None |
-| [[zach-macphee]] Zach MacPhee | None | None | None |
+| [[michee-efete]] Michee Efete | WD | Sprinter | — |
+| [[gary-mackay-steven]] Gary Mackay-Steven | WF | Sprinter | — |
+| Adam Mackinnon | — | — | — |
+| Andrew Macleod | — | — | — |
+| Connall Ewan | — | Sprinter | — |
+| George Robesten | — | — | — |
+| [[james-brown]] James Brown | — | Powerhouse | — |
+| Jamie Williamson | — | — | — |
+| Josh Reid | — | Powerhouse | — |
+| Josh Stones | — | Sprinter | — |
+| Matthew Wright | — | — | — |
+| Owura Edwards | — | Sprinter | — |
+| Ryan Duncan | — | — | — |
+| Ryan Leak | — | Cover | — |
+| Zach MacPhee | — | — | — |

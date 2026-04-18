@@ -18,17 +18,24 @@ backlinks: [striker, philadelphia-union]
 |---|---|
 | **Position** | CM |
 | **Club** | Philadelphia Union |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 16 |
 | **Archetype** | [[striker]] Striker-Creator |
 | **Level** | 83 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Sullivan is a promising young midfielder who boasts a strong technical foundation and impressive tackling ability, but his lack of experience and physical development can hinder his ability to impose himself on the game. Tactically, he has the potential to develop into a complete midfielder who can control the game and make an impact in both phases. From a squad-building perspective, he would be a valuable asset for a team that is willing to invest time and resources into his development.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ Sullivan is a promising young midfielder who boasts a strong technical foundatio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 23.0m |
+| Ceiling | EUR 27.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

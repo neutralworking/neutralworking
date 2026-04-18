@@ -2,7 +2,7 @@
 title: Mattia Destro
 category: players
 tags: [CF, Empoli FC, Italy, Striker]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Empoli FC. Archetype: Striker.
@@ -26,54 +26,34 @@ backlinks: [striker, empoli-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 A centre-forward whose career has been a study in the diminishing returns of a player who built his game on athleticism and directness rather than craft. He can still finish with authority when the service is service is clean, and his pressing intensity remains genuine, but he's immobile against modern, quick-footed defenders, struggles to operate in tighter spaces, and offers very little in build-up play—essentially a pure nine in an era when that's become almost anachronistic.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Spearhead`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Acceleration, Pace, and First Touch.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Pace, and First Touch.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Skills | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Take Ons | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Skills | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Aerial Duels | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Mid Range | █████████████ 13/10 |
+| Volleys | █████████████ 13/10 |
+| Pass Accuracy | ███████████ 11/10 |
+| Pass Range | ███████████ 11/10 |
+| Interceptions | ██████████ 10/10 |
+| Marking | ██████████ 10/10 |
+| Tackling | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 4/10
 
 ## Personality
 
@@ -83,17 +63,3 @@ A centre-forward whose career has been a study in the diminishing returns of a p
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -1,13 +1,13 @@
 ---
 title: Simon Ferry
 category: players
-tags: [CD, Dundee United, Sprinter]
-updated: 2026-04-18
+tags: [CD, Dundee, Sprinter]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CD at Dundee United. Archetype: Sprinter.
+summary: CD at Dundee. Archetype: Sprinter.
 person_id: 6732
-backlinks: [sprinter, dundee-united]
+backlinks: [sprinter, dundee]
 ---
 
 # Simon Ferry
@@ -17,7 +17,7 @@ backlinks: [sprinter, dundee-united]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | Dundee United |
+| **Club** | Dundee |
 | **Nation** | None |
 | **Age** | 38 |
 | **Archetype** | [[sprinter]] Sprinter |
@@ -26,58 +26,31 @@ backlinks: [sprinter, dundee-united]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Simon Ferry projects primarily as a CD with a `Sprinter` lean. The strongest database support comes from Acceleration, Balance, and Shielding.
-
-## Role Fit
-
-- Best-fit role is `Colossus`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Acceleration, Balance, and Shielding.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Balance, and Shielding.
-- Style traits point toward Flamboyant in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in High Press.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Aerial Duels | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Acceleration | ████████████████ 16/10 |
+| Balance | ████████████████ 16/10 |
+| Shielding | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Pace | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| Movement | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Skills | ████████████ 12/10 |
+| Through Balls | ████████████ 12/10 |
+| Vision | ████████████ 12/10 |
+| Close Range | ███████████ 11/10 |
+| Jumping | ███████████ 11/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- **aerial_threat** (physical) — severity 10/10
+- **flamboyant** (style) — severity 6/10
+- **high_press** (tactical) — severity 5/10
 
 ## Personality
 
@@ -87,17 +60,3 @@ Simon Ferry projects primarily as a CD with a `Sprinter` lean. The strongest dat
 - **Pressure (JP)**: 42
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-- **Flamboyant** (style) — severity 6/10
-- **High Press** (tactical) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

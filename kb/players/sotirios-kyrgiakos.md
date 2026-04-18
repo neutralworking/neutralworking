@@ -2,7 +2,7 @@
 title: Sotirios Kyrgiakos
 category: players
 tags: [CD, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at None. Archetype: Destroyer.
@@ -26,56 +26,29 @@ backlinks: [destroyer]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Sotirios Kyrgiakos projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Interceptions, and Marking.
-
-## Role Fit
-
-- Best-fit role is `Colossus`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Most bankable strengths show up in Aerial Duels, Interceptions, and Marking.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Aerial Duels, Interceptions, and Marking.
-- Style traits point toward Aerial Threat in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Aerial Duels | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Pass Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Aerial Duels | ████████████████ 16/10 |
+| Interceptions | ████████████████ 16/10 |
+| Marking | ████████████████ 16/10 |
+| Tackling | ████████████████ 16/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Pass Range | █████████░ 9/10 |
+| Vision | █████████░ 9/10 |
+| Acceleration | ████████░░ 8/10 |
+| First Touch | ████████░░ 8/10 |
+| Heading | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
+| Mid Range | ████████░░ 8/10 |
+| Pace | ████████░░ 8/10 |
+| Skills | ████████░░ 8/10 |
+| Take Ons | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Aerial Threat** (style) — severity 7/10
 
 ## Personality
 
@@ -85,15 +58,3 @@ Sotirios Kyrgiakos projects primarily as a CD with a `Destroyer` lean. The stron
 - **Pressure (JP)**: 81
 - **Competitiveness**: 8/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Aerial Threat** (style) — severity 7/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

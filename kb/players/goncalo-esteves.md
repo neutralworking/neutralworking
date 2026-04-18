@@ -2,7 +2,7 @@
 title: Gonçalo Esteves
 category: players
 tags: [CD, AZ, Portugal, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at AZ. Archetype: Powerhouse.
@@ -23,11 +23,10 @@ backlinks: [powerhouse, az]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 69 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubSporting CP
 
@@ -41,6 +40,12 @@ A right-back like his older brother Tomás, who played for Reading last season a
   
 **October 2023 update** The loan move to Estoril did not go quite to plan as he found himself behind to the new revelation Tiago Santos (who is now at Lille) so Esteves returned to the Lions midway through the season. He is still not playing regularly for the first team but went to the Under-19 Euros, where he helped Portugal reach the final.**
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +79,14 @@ A right-back like his older brother Tomás, who played for Reading last season a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,16 +106,15 @@ A right-back like his older brother Tomás, who played for Reading last season a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubSporting CP
 
@@ -122,6 +127,5 @@ A right-back like his older brother Tomás, who played for Reading last season a
 **September 2022 update** Played 10 games for Sporting last season and has now been loaned to neighbours Estoril to get more playing time in the Portuguese top-flight.  
   
 **October 2023 update** The loan move to Estoril did not go quite to plan as he found himself behind to the new revelation Tiago Santos (who is now at Lille) so Esteves returned to the Lions midway through the season. He is still not playing regularly for the first team but went to the Under-19 Euros, where he helped Portugal reach the final.**
-
 
 </details>

@@ -2,7 +2,7 @@
 title: Miguel Torren
 category: players
 tags: [CD, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at None. Archetype: None.
@@ -25,56 +25,22 @@ person_id: 28874
 | **Pursuit** | None |
 | **Market Value Tier** | None |
 
-## Snapshot
+## Attribute Grades
 
-Miguel Torren projects primarily as a CD with a `None` lean. The strongest database support comes from Pass Accuracy, Composure, and Skills.
-
-## Role Fit
-
-- Best-fit role is `Distributor`.
-- Most bankable strengths show up in Pass Accuracy, Composure, and Skills.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Pass Accuracy, Composure, and Skills.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Awareness | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Blocking | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Pass Accuracy | █████████░ 9/10 |
+| Composure | ██████░░░░ 6/10 |
+| Skills | ██████░░░░ 6/10 |
+| Drive | █████░░░░░ 5/10 |
+| Aggression | ████░░░░░░ 4/10 |
+| Awareness | ████░░░░░░ 4/10 |
+| Blocking | ████░░░░░░ 4/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Concentration | ████░░░░░░ 4/10 |
+| Discipline | ████░░░░░░ 4/10 |
+| Duels | ████░░░░░░ 4/10 |
+| Interceptions | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
+| Marking | ████░░░░░░ 4/10 |
+| Tackling | ████░░░░░░ 4/10 |

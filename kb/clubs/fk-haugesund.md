@@ -1,8 +1,8 @@
 ---
 title: FK Haugesund
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: FK Haugesund. 15 players in database.
@@ -10,9 +10,23 @@ summary: FK Haugesund. 15 players in database.
 
 # FK Haugesund
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 15
+
+## Identity
+
+- Database coverage is deepest in CM (6), GK (2), and WM (1), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Cover (4), Striker (3), and Gk (2) across the current squad.
+- Average available overall grade sits at 56.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -25,11 +39,11 @@ summary: FK Haugesund. 15 players in database.
 | [[n-hamalainen]] N. Hämäläinen | CM | Striker-Cover | 64.0 |
 | [[p-bizoza]] P. Bizoza | CM | Cover-Powerhouse | 63.0 |
 | [[p-hannola]] P. Hannola | CM | Creator-Striker | 64.0 |
-| [[a-wichne]] A. Wichne | GK | GK | None |
-| [[e-fauskanger]] E. Fauskanger | GK | GK | None |
+| [[a-wichne]] A. Wichne | GK | GK | — |
+| [[e-fauskanger]] E. Fauskanger | GK | GK | — |
 | [[j-eskesen]] J. Eskesen | WM | Creator-Sprinter | 66.0 |
-| [[e-schlichting]] E. Schlichting | None | Striker | None |
-| [[f-a-jakobsen]] F. A. Jakobsen | None | Destroyer-Creator | None |
-| [[m-samuelsen]] M. Samuelsen | None | Dribbler-Sprinter | None |
-| [[s-innvr]] S. Innvær | None | Sprinter-Creator | None |
-| [[v-solheim]] V. Solheim | None | Cover | None |
+| E. Schlichting | — | Striker | — |
+| F. A. Jakobsen | — | Destroyer-Creator | — |
+| M. Samuelsen | — | Dribbler-Sprinter | — |
+| S. Innvær | — | Sprinter-Creator | — |
+| V. Solheim | — | Cover | — |

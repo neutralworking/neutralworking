@@ -1,94 +1,80 @@
 ---
-title: Faisal Al Ghamdi
+title: Faisal Al-Ghamdi
 category: players
-tags: [CF, Al-Ittihad, Cover-Dribbler]
-updated: 2026-04-17
+tags: [CM, Al Ittihad, Saudi Arabia]
+updated: 2026-04-18
 source: compiled
-confidence: high
-summary: CF at Al-Ittihad. Archetype: Cover-Dribbler.
-person_id: 26741
-backlinks: [cover, al-ittihad]
+confidence: low
+summary: CM at Al Ittihad. Archetype: —.
+person_id: 10921
+backlinks: [al-ittihad]
 ---
 
-# Faisal Al Ghamdi
+# Faisal Al-Ghamdi
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | Al-Ittihad |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[cover]] Cover-Dribbler |
-| **Level** | None |
-| **Overall** | 27.0 |
-| **Pursuit** | None |
+| **Position** | CM |
+| **Club** | Al Ittihad |
+| **Nation** | Saudi Arabia |
+| **Age** | 24 |
+| **Archetype** | — |
+| **Level** | 72 |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Faisal Al Ghamdi projects primarily as a CF with a `Cover-Dribbler` lean. The strongest database support comes from Stamina, Composure, and Acceleration.
+A young fullback still developing his decision-making in the attacking third, where he occasionally shows a willing crosser's instinct but more often opts for the safe pass. Defensively he's reasonable without being imposing; he'll track runners and hold his line but lacks the pace to recover consistently when beaten. At 24 he has time to improve, but there's nothing here that screams elite potential yet.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
-- Primary archetype leans toward `Cover` behaviour from a `CF` base.
-- Most bankable strengths show up in Stamina, Composure, and Acceleration.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on Stamina, Composure, and Acceleration.
-- Style traits point toward Two Footed in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 1.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 59
-- **Motivation (SN)**: 43
-- **Social (TF)**: 39
-- **Pressure (JP)**: 43
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 56
+- **Social (TF)**: 55
+- **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

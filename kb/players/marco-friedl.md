@@ -2,7 +2,7 @@
 title: Marco Friedl
 category: players
 tags: [CD, Werder Bremen, Austria, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Werder Bremen. Archetype: Powerhouse-Destroyer.
@@ -26,58 +26,39 @@ backlinks: [powerhouse, werder-bremen]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Austrian left-back with excellent reading of the game and consistent defensive discipline; limited pace means he's vulnerable to direct runners, but positioning largely compensates.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Distributor` with model support score `80`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Jumping, Pace, and Physical.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Pace, and Physical.
-- Style traits point toward Tackling Ability and Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability, Aerial Threat, and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Jumping | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Physical | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Balance | █████████████ 13/10 |
+| Crossing | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Shielding | ████████████ 12/10 |
+| Movement | ███████████ 11/10 |
+| Long Range | ██████████ 10/10 |
+| Mid Range | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **positional_discipline** (tactical) — severity 6/10
+- **aerial_threat** (physical) — severity 6/10
+- **Tackling Ability** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -87,22 +68,3 @@ Austrian left-back with excellent reading of the game and consistent defensive d
 - **Pressure (JP)**: 35
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Aerial Threat** (physical) — severity 6/10
-- **Tackling Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: M. Rakneberg
 category: players
 tags: [CM, Kristiansund BK, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Kristiansund BK. Archetype: Creator-Sprinter.
@@ -26,55 +26,29 @@ backlinks: [creator, kristiansund-bk]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-M. Rakneberg projects primarily as a CM with a `Creator-Sprinter` lean. The strongest database support comes from Balance, Pace, and Acceleration.
-
-## Role Fit
-
-- Best-fit role is `Playmaker` with model support score `73`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Most bankable strengths show up in Balance, Pace, and Acceleration.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Pace, and Acceleration.
-- Style traits point toward Flamboyant in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Crossing | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Balance | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Jumping | █████████████ 13/10 |
+| Crossing | ████████████ 12/10 |
+| First Touch | ████████████ 12/10 |
+| Marking | ████████████ 12/10 |
+| Physical | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Heading | ███████████ 11/10 |
+| Movement | ███████████ 11/10 |
+| Pass Range | ███████████ 11/10 |
+| Penalties | ███████████ 11/10 |
+| Reactions | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **flamboyant** (style) — severity 4/10
 
 ## Personality
 
@@ -84,15 +58,3 @@ M. Rakneberg projects primarily as a CM with a `Creator-Sprinter` lean. The stro
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

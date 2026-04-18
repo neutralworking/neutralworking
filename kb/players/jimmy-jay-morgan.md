@@ -5,7 +5,7 @@ tags: [CF, Chelsea, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Chelsea. Archetype: None.
+summary: CF at Chelsea. Archetype: —.
 person_id: 12643
 backlinks: [chelsea]
 ---
@@ -20,15 +20,22 @@ backlinks: [chelsea]
 | **Club** | Chelsea |
 | **Nation** | England |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 53 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An English prospect with decent athleticism and the kind of profile that suggests he could potentially develop into a serviceable forward, but he's operating at an age and experience level where it's genuinely difficult to rate. No meaningful senior football yet, so all assessment is speculative on trajectory rather than current ability.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -41,10 +48,11 @@ An English prospect with decent athleticism and the kind of profile that suggest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [CM, Bristol City, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Bristol City. Archetype: None.
+summary: CM at Bristol City. Archetype: —.
 person_id: 13367
 backlinks: [bristol-city]
 ---
@@ -20,15 +20,22 @@ backlinks: [bristol-city]
 | **Club** | Bristol City |
 | **Nation** | England |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A midfielder in the women's game with some technical capability and reasonable work rate, though her creativity is limited and her ability to dictate play is inconsistent. She's a squad rotation option — capable but unremarkable, without the standout qualities needed to elevate performances.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A midfielder in the women's game with some technical capability and reasonable w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

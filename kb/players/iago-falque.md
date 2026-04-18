@@ -5,7 +5,7 @@ tags: [WF, Spain, Creator-Striker]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Creator-Striker.
+summary: WF at —. Archetype: Creator-Striker.
 person_id: 2954
 backlinks: [creator]
 ---
@@ -17,18 +17,25 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 36 |
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 76 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Iago Falqué projects primarily as a WF with a `Creator-Striker` lean. The strongest database support comes from First Touch, Skills, and Take Ons.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Iago Falqué projects primarily as a WF with a `Creator-Striker` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

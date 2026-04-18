@@ -2,7 +2,7 @@
 title: Warren O'Hora
 category: players
 tags: [CM, Hibernian, Ireland, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Hibernian. Archetype: Cover-Powerhouse.
@@ -26,54 +26,36 @@ backlinks: [cover, hibernian]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Warren O'Hora is a physically imposing, defensive-minded midfielder who can operate as a Tuttocampista, using his exceptional physicality, stamina, and jumping ability to win the ball back and distribute it effectively. While he lacks technical nuance, guile, and creativity, his build-up contributing trait and positional discipline make him a solid, if unspectacular, presence in the midfield. A team that values a strong, athletic midfielder who can provide a solid foundation for their team's shape and is willing to work around his limitations could find him to be a useful squad player.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
-- Primary archetype leans toward `Cover` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Stamina, Jumping, and Heading.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Jumping, and Heading.
-- Style traits point toward Positioning and Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Heading | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Acceleration | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Stamina | ████████████████ 16/10 |
+| Jumping | ███████████████ 15/10 |
+| Heading | ████████████ 12/10 |
+| Marking | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| First Touch | ███████████ 11/10 |
+| Pace | ███████████ 11/10 |
+| Acceleration | ██████████ 10/10 |
+| Discipline | █████████░ 9/10 |
+| Shielding | █████████░ 9/10 |
+| Balance | ████████░░ 8/10 |
+| Blocking | ████████░░ 8/10 |
+| Crossing | ████████░░ 8/10 |
+| Duels | ████████░░ 8/10 |
+| Movement | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **build_up_contributor** (tactical) — severity 7/10
+- **positional_discipline** (tactical) — severity 5/10
+- **Positioning** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
 
 ## Personality
 
@@ -83,19 +65,3 @@ Warren O'Hora is a physically imposing, defensive-minded midfielder who can oper
 - **Pressure (JP)**: 63
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Positional Discipline** (tactical) — severity 5/10
-- **Positioning** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

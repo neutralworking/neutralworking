@@ -2,7 +2,7 @@
 title: S. Hart
 category: players
 tags: [DM, Falkirk, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: DM at Falkirk. Archetype: Destroyer.
@@ -26,55 +26,22 @@ backlinks: [destroyer, falkirk]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-S. Hart projects primarily as a DM with a `Destroyer` lean. The strongest database support comes from Drive, Pressing, and Skills.
-
-## Role Fit
-
-- Best-fit role is `Segundo Volante`.
-- Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
-- Most bankable strengths show up in Drive, Pressing, and Skills.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Drive, Pressing, and Skills.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Drive | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Concentration | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Drive | ██████░░░░ 6/10 |
+| Pressing | ██████░░░░ 6/10 |
+| Skills | ██████░░░░ 6/10 |
+| Aggression | █████░░░░░ 5/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Intensity | █████░░░░░ 5/10 |
+| Communication | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
+| Mental | ████░░░░░░ 4/10 |
+| Tactical | ████░░░░░░ 4/10 |
+| Technical | ████░░░░░░ 4/10 |
+| Physical | ███░░░░░░░ 3/10 |
 
 ## Personality
 
@@ -84,10 +51,3 @@ S. Hart projects primarily as a DM with a `Destroyer` lean. The strongest databa
 - **Pressure (JP)**: 69
 - **Competitiveness**: 5/10
 - **Coachability**: 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

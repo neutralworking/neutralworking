@@ -23,12 +23,19 @@ backlinks: [dribbler, kayserispor]
 | **Archetype** | [[dribbler]] Dribbler |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ali Karimi is a Metodista with a strong technical foundation, possessing strengths in vision, heading, and take-ons, but his lack of guile and blocking ability is a notable weakness. As a central midfielder, he fits into a system that values possession and intricate passing. His moderate technical and tactical abilities make him a suitable fit for a team that prioritizes creativity over destruction. A club looking for a midfielder who can control the tempo of the game could benefit from his services, but his limitations in defensive phases are a risk factor to consider.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +70,13 @@ Ali Karimi is a Metodista with a strong technical foundation, possessing strengt
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

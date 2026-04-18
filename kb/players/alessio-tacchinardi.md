@@ -5,7 +5,7 @@ tags: [DM, Italy]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: DM at None. Archetype: None.
+summary: DM at —. Archetype: —.
 person_id: 8101
 ---
 
@@ -16,18 +16,25 @@ person_id: 8101
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Italy |
 | **Age** | 50 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM					ITA	C	0.0	During his time with the club, Tacchinardi was also noted for his long range shooting skills and striking ability from volleys, scoring several goals from distance during his time with Juventus. A hard-working and tenacious player, he was predominantly known for his excellent positional sense, anticipation, and his tactical intelligence, as well as his technique, Vision, and passing range, in addition his tackling ability as a defensive midfielder, making effective both offensively and defensively.		During the carrer he played as defensive midfielder and spent the vast majority of his career playing for Juventus FC, winning 17 official trophies with the club. Tacchinardi is one of Juventus 50 Legends whose names are written inside the club's new stadium, the Juventus Stadium.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -44,10 +51,11 @@ CM					ITA	C	0.0	During his time with the club, Tacchinardi was also noted for h
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -18,17 +18,23 @@ backlinks: [powerhouse, bodglimt]
 |---|---|
 | **Position** | CD |
 | **Club** | Bodø/Glimt |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 34 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Brede Moe, a traditional Vorstopper and Powerhouse-Cover, still offers considerable physical presence, strong in aerial duels and disciplined in marking and interceptions. However, his significant lack of technical refinement and mental attributes means he struggles with ball progression and high-pressure situations, limiting his utility in a modern backline.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,13 +69,13 @@ Brede Moe, a traditional Vorstopper and Powerhouse-Cover, still offers considera
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 1.7m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

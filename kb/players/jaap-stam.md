@@ -2,12 +2,12 @@
 title: Jaap Stam
 category: players
 tags: [CD, Netherlands, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at None. Archetype: Destroyer-Powerhouse.
+summary: CD at —. Archetype: Destroyer-Powerhouse.
 person_id: 12098
-backlinks: [destroyer]
+backlinks: [destroyer, zagueiro]
 ---
 
 # Jaap Stam
@@ -17,22 +17,31 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 53 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[zagueiro]] Zagueiro |
+| **Role Score** | 92 |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the team to survive from conceding goals with his high speed, physical body and positioning. Stam was also outstanding in the air and possessed decent dribbling technique, a good passing range and a powerful long-shot.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Zagueiro` with model support score `92`.
+- Best-fit role is [[zagueiro]] Zagueiro with model support score `92`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -47,10 +56,11 @@ CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the tea
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +71,8 @@ CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the tea
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -73,6 +83,6 @@ CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the tea
 {}
 ---
 
-CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the team to survive from conceding goals with his high speed, physical body and positioning. Stam was also outstanding in the air and possessed decent dribbling technique, a good passing range and a powerful long-shot.	
+CD	Assertive	Defender	Titan	Man Utd	NED	B	87.3	Stam several times helped the team to survive from conceding goals with his high speed, physical body and positioning. Stam was also outstanding in the air and possessed decent dribbling technique, a good passing range and a powerful long-shot.
 
 </details>

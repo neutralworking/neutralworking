@@ -5,7 +5,7 @@ tags: [GK, Ecuador]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 28106
 ---
 
@@ -16,18 +16,25 @@ person_id: 28106
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ecuador |
 | **Age** | 39 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Hernán Galíndez projects primarily as a GK with a `None` lean. The strongest database support comes from the current evidence set.
+Hernán Galíndez projects primarily as a GK with a `—` lean. The strongest database support comes from the current evidence set.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,13 +52,14 @@ Hernán Galíndez projects primarily as a GK with a `None` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.3m |
+| Mid | EUR 0.3m |
+| Ceiling | EUR 0.8m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

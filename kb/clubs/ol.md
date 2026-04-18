@@ -1,18 +1,32 @@
 ---
 title: OL
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: OL. 109 players in database.
+summary: OL. 132 players in database.
 ---
 
 # OL
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 109
+**League**: —  
+**Nation**: —  
+**Players in DB**: 132
+
+## Identity
+
+- Database coverage is deepest in CM (42), WM (10), and GK (9), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (29), Destroyer (26), and Striker (16) across the current squad.
+- Average available overall grade sits at 59.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -21,14 +35,11 @@ summary: OL. 109 players in database.
 | [[daniel-podence]] Daniel Podence | AM | Sprinter-Dribbler | 68.0 |
 | [[guilherme-marques]] Guilherme Marques | AM | Creator-Striker | 71.0 |
 | [[j-anor]] J. Añor | AM | Creator-Striker | 67.0 |
-| [[mateo-silvetti]] Mateo Silvetti | AM | Creator | 62.0 |
 | [[a-montero]] A. Montero | CD | Destroyer | 62.0 |
 | [[j-assehnoun]] J. Assehnoun | CD | Destroyer | 26.0 |
 | [[j-spacil]] J. Spáčil | CD | Cover | 35.0 |
-| [[a-arroyo]] A. Arroyo | CF | Creator-Striker | 61.0 |
 | [[d-sturm]] D. Šturm | CF | Striker-Creator | 68.0 |
 | [[g-lencina]] G. Lencina | CF | Creator-Striker | 60.0 |
-| [[j-fuentes]] J. Fuentes | CF | Cover-Striker | 20.0 |
 | [[j-kliment]] J. Kliment | CF | Striker | 27.0 |
 | [[n-villarreal]] N. Villarreal | CF | Striker-Creator | 61.0 |
 | [[a-angulo]] A. Angulo | CM | Destroyer-Creator | 60.0 |
@@ -74,15 +85,15 @@ summary: OL. 109 players in database.
 | [[y-hurtado]] Y. Hurtado | CM | Creator-Striker | 58.0 |
 | [[yago-felipe]] Yago Felipe | CM | Destroyer-Creator | 73.0 |
 | [[hassan-al-asmari]] Hassan Al Asmari | DM | Destroyer | 25.0 |
-| [[alex-muralha]] Alex Muralha | GK | GK | None |
-| [[c-fiermarin]] C. Fiermarín | GK | GK | None |
-| [[f-mosquera]] F. Mosquera | GK | GK | None |
-| [[jan-koutny]] Jan Koutný | GK | GK | None |
-| [[k-tzolakis]] K. Tzolakis | GK | GK | None |
-| [[m-siampanis]] M. Siampanis | GK | GK | None |
-| [[mohamed-yasser]] Mohamed Yasser | GK | Sprinter-Dribbler | None |
-| [[neto-volpi]] Neto Volpi | GK | GK | None |
-| [[w-cuesta]] W. Cuesta | GK | GK | None |
+| [[alex-muralha]] Alex Muralha | GK | GK | — |
+| [[c-fiermarin]] C. Fiermarín | GK | GK | — |
+| [[f-mosquera]] F. Mosquera | GK | GK | — |
+| [[jan-koutny]] Jan Koutný | GK | GK | — |
+| [[k-tzolakis]] K. Tzolakis | GK | GK | — |
+| [[m-siampanis]] M. Siampanis | GK | GK | — |
+| [[mohamed-yasser]] Mohamed Yasser | GK | Sprinter-Dribbler | — |
+| [[neto-volpi]] Neto Volpi | GK | GK | — |
+| [[w-cuesta]] W. Cuesta | GK | GK | — |
 | [[a-tabares]] A. Tabares | WD | Destroyer | 63.0 |
 | [[v-cuesta]] V. Cuesta | WD | Destroyer | 64.0 |
 | [[valentino-andres-acuna]] Valentino Andres Acuña | WD | Cover | 62.0 |
@@ -103,27 +114,53 @@ summary: OL. 109 players in database.
 | [[muhammad-sawan]] Muhammad Sawan | WM | Creator-Destroyer | 59.0 |
 | [[oscar-pinchi]] Óscar Pinchi | WM | Creator | 63.0 |
 | [[rodinei]] Rodinei | WM | Dribbler-Sprinter | 70.0 |
-| [[a-dolznikov]] A. Dolžnikov | None | Striker-Creator | None |
-| [[a-rusek]] A. Růsek | None | Creator-Powerhouse | None |
-| [[antonio-zarzana]] Antonio Zarzana | None | Creator | None |
-| [[b-larregui]] B. Larregui | None | Creator-Striker | None |
-| [[emilio-aristizabal-chavarriaga]] Emilio Aristizábal Chavarriaga | None | Striker-Creator | None |
-| [[fabricio-daniel]] Fabrício Daniel | None | Cover-Powerhouse | None |
-| [[g-chiaverano]] G. Chiaverano | None | Striker-Creator | None |
-| [[g-migas]] G. Migas | None | Creator-Destroyer | None |
-| [[i-mendez]] I. Méndez | None | Destroyer | None |
-| [[iury-castilho]] Iury Castilho | None | Striker-Creator | None |
-| [[j-jezierski]] J. Jezierski | None | Creator-Destroyer | None |
-| [[j-mattar]] J. Mattar | None | Striker | None |
-| [[j-navratil]] J. Navrátil | None | Creator-Cover | None |
-| [[l-miranda]] L. Miranda | None | Striker-Cover | None |
-| [[luiz-otavio]] Luiz Otávio | None | Destroyer | None |
-| [[m-hadas]] M. Hadaš | None | Creator | None |
-| [[m-mikulenka]] M. Mikulenka | None | Creator-Striker | None |
-| [[m-tijani]] M. Tijani | None | Striker | None |
-| [[matheus-bianqui]] Matheus Bianqui | None | Striker-Destroyer | None |
-| [[n-makni]] N. Makni | None | Creator-Striker | None |
-| [[renato-marques]] Renato Marques | None | Creator-Cover | None |
-| [[s-langer]] Š. Langer | None | Striker-Cover | None |
-| [[t-kostadinov]] T. Kostadinov | None | Destroyer-Creator | None |
-| [[t-tsokanis]] T. Tsokanis | None | Destroyer-Creator | None |
+| A. Dolžnikov | — | Striker-Creator | — |
+| A. Růsek | — | Creator-Powerhouse | — |
+| Amethyst Bradley Ralani | — | — | — |
+| Antonio Zarzana | — | Creator | — |
+| Atisang Israel Batsi | — | — | — |
+| Ayanda Lukhele | — | — | — |
+| B. Larregui | — | Creator-Striker | — |
+| Christian Martín Flores Córdova | — | — | — |
+| Cristhian Andrés Tizón Correa | — | — | — |
+| Emiliano Agustín Villar Vidal | — | — | — |
+| Emilio Aristizábal Chavarriaga | — | Striker-Creator | — |
+| Fabrício Daniel | — | Cover-Powerhouse | — |
+| Fabrizio Fernando Roca Reyes | — | — | — |
+| G. Chiaverano | — | Striker-Creator | — |
+| G. Migas | — | Creator-Destroyer | — |
+| Given Thibedi | — | — | — |
+| Gustavo Ezequiel Machado Ferrando | — | — | — |
+| Gustavo Romario Aliaga Romero | — | — | — |
+| I. Méndez | — | Destroyer | — |
+| Iury Castilho | — | Striker-Creator | — |
+| Iván Diego Santillán Atoche | — | — | — |
+| J. Jezierski | — | Creator-Destroyer | — |
+| J. Mattar | — | Striker | — |
+| J. Navrátil | — | Creator-Cover | — |
+| Jack Kevin Durán Abán | — | — | — |
+| Jorge Jair Toledo Bravo | — | — | — |
+| Katlego Mkhabela | — | — | — |
+| L. Miranda | — | Striker-Cover | — |
+| Lebogang Lesako | — | — | — |
+| Luiz Otávio | — | Destroyer | — |
+| M. Hadaš | — | Creator | — |
+| M. Mikulenka | — | Creator-Striker | — |
+| M. Tijani | — | Striker | — |
+| Matheus Bianqui | — | Striker-Destroyer | — |
+| Mauricio Affonso Prieto | — | — | — |
+| Monnapule Kenneth Saleng | — | — | — |
+| N. Makni | — | Creator-Striker | — |
+| Nahuel Jeremy Rodríguez Meneses | — | — | — |
+| Olaoleng Mokgosi | — | — | — |
+| Ramahlwe Mphahlele | — | — | — |
+| Realeboga Junior Potsana | — | — | — |
+| Renato Marques | — | Creator-Cover | — |
+| Renzo José Ignacio Alfani | — | — | — |
+| Š. Langer | — | Striker-Cover | — |
+| Sekhoane Benedict Moerane | — | — | — |
+| T. Kostadinov | — | Destroyer-Creator | — |
+| T. Tsokanis | — | Destroyer-Creator | — |
+| Thuso Edgar Moleleki | — | — | — |
+| Tiago Cantoro Armentano | — | — | — |
+| Tshepo Brian Matsemela | — | — | — |

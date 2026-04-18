@@ -3,7 +3,7 @@ title: Youssoufa Moukoko
 category: players
 tags: [CF, FC Copenhagen
 , Germany, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at FC Copenhagen
@@ -29,7 +29,7 @@ backlinks: [striker, fc-copenhagen]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 
 ClubBorussia Dortmund
@@ -46,54 +46,41 @@ The youngest to play in the Bundesliga at 16 years and one day, youngest player 
 **October 2023 update** It feels preposterous to say that Moukoko's career has stagnated when he has 60 Bundesliga games and 12 goals at the age of 18, but such was his early impact that unreasonable expectations were heaped upon him. At the moment he is mainly an impact sub at Dortmund and, having made his Germany debut a week before the World Cup in Qatar, he played only a minute of the tournament itself as the team failed to get out of their group.
 
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Shadow Striker` with model support score `80`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
-- Most bankable strengths show up in Balance, Movement, and Shielding.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Movement, and Shielding.
-- Style traits point toward Flamboyant, Two Footed, and Skill Moves in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Progressive Carrier and Counter Attack Threat.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Movement | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Volleys | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Balance | █████████████████ 17/10 |
+| Movement | █████████████████ 17/10 |
+| Shielding | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| First Touch | ████████████████ 16/10 |
+| Jumping | ████████████████ 16/10 |
+| Volleys | ████████████████ 16/10 |
+| Reactions | ███████████████ 15/10 |
+| Heading | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Pass Range | ██████████ 10/10 |
+| Carries | █████████░ 9/10 |
+| Crossing | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **flamboyant** (style) — severity 10/10
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **progressive_carrier** (tactical) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Trivela** (style) — severity 5/10
+- **Acrobatic** (style) — severity 5/10
+- **counter_attack_threat** (tactical) — severity 5/10
+- **Close Control** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **direct** (style) — severity 4/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -103,31 +90,6 @@ The youngest to play in the Bundesliga at 16 years and one day, youngest player 
 - **Pressure (JP)**: 44
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 10/10
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Progressive Carrier** (tactical) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Trivela** (style) — severity 5/10
-- **Acrobatic** (style) — severity 5/10
-- **Counter Attack Threat** (tactical) — severity 5/10
-- **Close Control** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Direct** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

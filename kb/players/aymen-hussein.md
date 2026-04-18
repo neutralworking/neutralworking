@@ -23,12 +23,19 @@ backlinks: [powerhouse, al-jawiya]
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Aymen Hussein is a physical presence up front, using his balance and shielding to hold up the ball and bring others into play, but his lack of technical and tactical acumen means he often struggles to create chances for himself or others in tight half-spaces. His acceleration and pace make him a threat on the counter, but he can be predictable in his movements, relying too heavily on his power rather than guile. Ultimately, his limitations mean he's best suited to a poacher role, where he can focus on finishing chances rather than creating them.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -59,13 +66,14 @@ Aymen Hussein is a physical presence up front, using his balance and shielding t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 24.6m |
+| Mid | EUR 29.0m |
+| Ceiling | EUR 34.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

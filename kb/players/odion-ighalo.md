@@ -2,7 +2,7 @@
 title: Odion Ighalo
 category: players
 tags: [CF, Al-Hilal, Nigeria, Striker]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CF at Al-Hilal. Archetype: Striker.
@@ -26,50 +26,38 @@ backlinks: [striker, al-hilal]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Odion Ighalo is a physical, old-school centre-forward, with excellent stamina and jumping ability, but his lack of intensity and creativity means he can be a passenger in games, relying on others to create chances for him. He has a good heading ability and can be a threat from set pieces, but his long-range shooting is not a significant threat, and he rarely looks to drop deep and link play. His playing style is that of a traditional target man, but he lacks the technical ability to bring others into play, and his age means he is no longer the force he once was.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Target Forward`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Jumping, Physical, and Close Range.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Physical, and Close Range.
-- Style traits point toward Two Footed, Skill Moves, and Work Rate in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Jumping | █████████████████ 17/10 |
+| Physical | █████████████████ 17/10 |
+| Close Range | ████████████████ 16/10 |
+| Long Range | ████████████████ 16/10 |
+| Aggression | ███████████████ 15/10 |
+| Composure | ███████████████ 15/10 |
+| First Touch | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| Skills | ███████████████ 15/10 |
+| Volleys | ███████████████ 15/10 |
+| Pass Accuracy | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Penalties | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Work Rate** (style) — severity 4/10
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
 
 ## Personality
 
@@ -79,21 +67,3 @@ Odion Ighalo is a physical, old-school centre-forward, with excellent stamina an
 - **Pressure (JP)**: 55
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Work Rate** (style) — severity 4/10
-- **Strength** (style) — severity 4/10
-- **Aerial Ability** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

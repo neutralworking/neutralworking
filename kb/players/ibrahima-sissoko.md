@@ -2,12 +2,12 @@
 title: Ibrahima Sissoko
 category: players
 tags: [CM, Nantes, Mali, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Nantes. Archetype: Engine-Passer.
 person_id: 11915
-backlinks: [engine, nantes]
+backlinks: [engine, metodista, nantes]
 ---
 
 # Ibrahima Sissoko
@@ -21,18 +21,27 @@ backlinks: [engine, nantes]
 | **Nation** | Mali |
 | **Age** | 28 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A box-to-box midfielder with commendable physical presence and the ability to make things simple in possession. He's not a playmaker or a progressive carrier—his range is limited and he can be pedestrian in transition—but he provides solidity and work-rate for a well-organized second-tier team. Reliable rather than exciting.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `81`.
+- Best-fit role is [[metodista]] Metodista with model support score `81`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Composure, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A box-to-box midfielder with commendable physical presence and the ability to ma
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A box-to-box midfielder with commendable physical presence and the ability to ma
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

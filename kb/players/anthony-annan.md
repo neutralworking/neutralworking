@@ -5,7 +5,7 @@ tags: [DM, Ghana, Destroyer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: DM at None. Archetype: Destroyer.
+summary: DM at —. Archetype: Destroyer.
 person_id: 530
 backlinks: [destroyer]
 ---
@@ -17,18 +17,25 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ghana |
 | **Age** | 39 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 61 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Anthony Annan projects primarily as a DM with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ Anthony Annan projects primarily as a DM with a `Destroyer` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.0m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

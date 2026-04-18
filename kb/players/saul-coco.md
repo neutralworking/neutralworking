@@ -2,7 +2,7 @@
 title: Saúl Coco
 category: players
 tags: [CD, Torino, Equatorial Guinea, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Torino. Archetype: Destroyer-Dribbler.
@@ -26,58 +26,38 @@ backlinks: [destroyer, torino]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Experienced Equatorial Guinean defender with solid positional discipline and headers; lacks pace and athleticism to press effectively, but his consistency and professionalism make him a reliable rotational option for a mid-table Serie A side.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Stopper` with model support score `79`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Pace, Jumping, and Long Range.
-
-## In Possession
-
-- Ball-value indicators lean on Pace, Jumping, and Long Range.
-- Style traits point toward Elegant, Anticipation, and Tackling Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
-| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Long Range | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Mid Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Pace | ██████████████████ 18/10 |
+| Jumping | █████████████████ 17/10 |
+| Long Range | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| Balance | ████████████████ 16/10 |
+| Mid Range | ████████████████ 16/10 |
+| Crossing | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Heading | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Volleys | ██████████████ 14/10 |
+| Close Range | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **availability** (physical) — severity 10/10
+- **build_up_contributor** (tactical) — severity 7/10
+- **elegant** (style) — severity 5/10
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -87,21 +67,3 @@ Experienced Equatorial Guinean defender with solid positional discipline and hea
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Elegant** (style) — severity 5/10
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

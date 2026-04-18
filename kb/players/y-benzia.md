@@ -2,7 +2,7 @@
 title: Y. Benzia
 category: players
 tags: [CM, Al-Fayha, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Al-Fayha. Archetype: Dribbler-Creator.
@@ -26,55 +26,37 @@ backlinks: [dribbler, al-fayha]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Y. Benzia projects primarily as a CM with a `Dribbler-Creator` lean. The strongest database support comes from Balance, Penalties, and Acceleration.
-
-## Role Fit
-
-- Best-fit role is `Playmaker` with model support score `71`.
-- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Balance, Penalties, and Acceleration.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Penalties, and Acceleration.
-- Style traits point toward Two Footed, Skill Moves, and Flamboyant in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Penalties | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Volleys | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Balance | ███████████████ 15/10 |
+| Penalties | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Movement | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Volleys | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Heading | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Physical | ███████████ 11/10 |
+| Marking | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **flamboyant** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Finishing** (style) — severity 5/10
+- **build_up_contributor** (tactical) — severity 5/10
+- **elegant** (style) — severity 4/10
+- **patient** (style) — severity 4/10
 
 ## Personality
 
@@ -84,23 +66,3 @@ Y. Benzia projects primarily as a CM with a `Dribbler-Creator` lean. The stronge
 - **Pressure (JP)**: 41
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Flamboyant** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Finishing** (style) — severity 5/10
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Elegant** (style) — severity 4/10
-- **Patient** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

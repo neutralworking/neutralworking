@@ -1,18 +1,32 @@
 ---
 title: Elche
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Elche. 22 players in database.
+summary: Elche. 25 players in database.
 ---
 
 # Elche
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 22
+**League**: —  
+**Nation**: —  
+**Players in DB**: 25
+
+## Identity
+
+- Database coverage is deepest in CM (8), WM (4), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (7), Destroyer (6), and Powerhouse (3) across the current squad.
+- Average available overall grade sits at 67.7, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -31,12 +45,15 @@ summary: Elche. 22 players in database.
 | [[john-nwankwo]] John Nwankwo | CM | Striker-Destroyer | 68.0 |
 | [[l-petrot]] L. Pétrot | CM | Destroyer-Powerhouse | 70.0 |
 | [[marc-aguado]] Marc Aguado | CM | Destroyer-Powerhouse | 68.0 |
+| [[federico-redondo]] Federico Redondo | DM | Powerhouse-Dribbler | 54.0 |
 | [[m-dituro]] M. Dituro | GK | GK | 80.0 |
-| [[yago-alonso]] Yago Alonso | GK | GK | None |
+| [[yago-alonso]] Yago Alonso | GK | GK | — |
 | [[hector-fort]] Hector Fort | WD | Powerhouse-Dribbler | 79.0 |
 | [[grady-diangana]] Grady Diangana | WF | Sprinter | 69.0 |
 | [[german-valera]] Germán Valera | WM | Creator-Striker | 73.0 |
 | [[josan]] Josan | WM | Creator-Sprinter | 67.0 |
 | [[l-cepeda]] L. Cepeda | WM | Creator-Sprinter | 41.0 |
 | [[rodrigo-mendoza]] Rodrigo Mendoza | WM | Creator-Cover | 67.0 |
-| [[adam-boayar]] Adam Boayar | None | Striker | None |
+| Aboubacar Sangaré Traoré | — | — | — |
+| Adam Boayar | — | Striker | — |
+| Mourad | — | Creator-Powerhouse | — |

@@ -2,10 +2,10 @@
 title: Alexsander
 category: players
 tags: [DM, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
-summary: DM at None. Archetype: Cover-Striker.
+summary: DM at —. Archetype: Cover-Striker.
 person_id: 25398
 backlinks: [cover]
 ---
@@ -17,18 +17,25 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover-Striker |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A composed, tactically aware defensive midfielder with strong short-range accuracy and interception timing, operating as a high-pressing pivote despite modest blocking capability and inconsistent vision. His guile in possession—unusual for a terrier archetype—suggests subtlety in ball-winning and transition setup, though his discipline and blocking weaknesses prevent him from being an uncompromising defensive anchor. Best positioned in structured pressing systems where his awareness and tackling intensity drive defensive intensity without requiring him to absorb excessive defensive burden alone.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ A composed, tactically aware defensive midfielder with strong short-range accura
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 5.7m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +99,7 @@ A composed, tactically aware defensive midfielder with strong short-range accura
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

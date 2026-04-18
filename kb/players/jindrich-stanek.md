@@ -22,13 +22,20 @@ backlinks: [gk, viktoria-plzen]
 | **Age** | 29 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Czech stopper with genuine shot-stopping credentials and the kind of positional intelligence that suggests someone has watched a lot of football tape. He reads the game well, stands tall in his box, and makes the routine saves look routine—which is actually the highest praise you can give a goalkeeper. The trouble is what happens when the ball's at his feet; his distribution is functional rather than commanding, and he won't progress play through short passing the way modern football demands. For a side competing in the Europa League or Czech first division, he's a reliable, experienced presence. For any club harbouring top-division ambitions, the limited ability on the ball becomes a genuine liability.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ A Czech stopper with genuine shot-stopping credentials and the kind of positiona
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.7m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 26.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

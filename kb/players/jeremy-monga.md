@@ -2,12 +2,12 @@
 title: Jeremy Monga
 category: players
 tags: [WF, Leicester City, England, Creator]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Leicester City. Archetype: Creator.
 person_id: 12570
-backlinks: [creator, leicester-city]
+backlinks: [creator, inverted-winger, leicester-city]
 ---
 
 # Jeremy Monga
@@ -21,18 +21,27 @@ backlinks: [creator, leicester-city]
 | **Nation** | England |
 | **Age** | 16 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Sixteen-year-old winger in the academy pathway with athletic tools and encouraging directness when he receives the ball. At this stage, rating him is necessarily speculative; he's got the physical template and technical foundation, but has barely featured in competitive football. Youth potential is evident, but the jump to senior football—let alone Premier League—remains a significant unknown.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `76`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `76`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Take Ons, Aggression, and Flair.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ Sixteen-year-old winger in the academy pathway with athletic tools and encouragi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +95,6 @@ Sixteen-year-old winger in the academy pathway with athletic tools and encouragi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

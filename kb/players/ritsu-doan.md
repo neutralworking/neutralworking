@@ -2,7 +2,7 @@
 title: Ritsu Dōan
 category: players
 tags: [WF, Eintracht Frankfurt, Japan, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WF at Eintracht Frankfurt. Archetype: Dribbler-Creator.
@@ -26,54 +26,38 @@ backlinks: [dribbler, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 A right-winger whose understanding of half-space positioning and ability to find pockets of space between the lines is above-average for the position. He's a willing presser and his left foot carries genuine technical security, but he drifts laterally too much and loses effectiveness when forced to generate his own chances without service. Smart player who works within a system; Frankfurt's pressing structure clearly suits him, but don't expect creativity or directness if the midfield isn't functioning.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Winger` with model support score `81`.
-- Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
-- Most bankable strengths show up in Shielding, Balance, and Acceleration.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Shielding, Balance, and Acceleration.
-- Style traits point toward Skill Moves, Close Control, and Technical Ability in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Shielding | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
-| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
-| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Shielding | ███████████████████ 19/10 |
+| Balance | ██████████████████ 18/10 |
+| Acceleration | █████████████████ 17/10 |
+| Crossing | ███████████████ 15/10 |
+| Movement | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Reactions | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Pass Range | ██████████████ 14/10 |
+| Jumping | █████████████ 13/10 |
+| Volleys | ████████████ 12/10 |
+| Heading | ██████████ 10/10 |
+| Interceptions | █████████░ 9/10 |
+| Pressing | █████████░ 9/10 |
+| Composure | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **Skill Moves** (style) — severity 6/10
+- **Close Control** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -83,21 +67,3 @@ A right-winger whose understanding of half-space positioning and ability to find
 - **Pressure (JP)**: 40
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Skill Moves** (style) — severity 6/10
-- **Close Control** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

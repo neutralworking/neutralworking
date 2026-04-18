@@ -19,16 +19,23 @@ backlinks: [sprinter, aok-kerkyra]
 | **Position** | CF |
 | **Club** | AOK Kerkyra |
 | **Nation** | Portugal |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 72 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A Portuguese centre-forward operating in the Greek Super League, Tavares is a willing runner with decent off-the-ball intelligence and a physical presence that allows him to compete in aerial duels and hold play up adequately. His issue, though, is a lack of technical subtlety — he's not the type to find space in the half-spaces or thread progressive passes through tight midfields, and his finishing, while not catastrophically poor, lacks the clinical edge you'd want from someone leading the line at a genuinely ambitious club. He's functional squad depth at this level, capable of contributing goals in patches, but there's little evidence of the craft or intelligence that separates competent strikers from proper centre-forwards.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -58,13 +65,14 @@ A Portuguese centre-forward operating in the Greek Super League, Tavares is a wi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

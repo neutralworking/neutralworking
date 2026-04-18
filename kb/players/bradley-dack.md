@@ -5,7 +5,7 @@ tags: [CM, Gillingham, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Gillingham. Archetype: None.
+summary: CM at Gillingham. Archetype: —.
 person_id: 9145
 backlinks: [gillingham]
 ---
@@ -20,15 +20,22 @@ backlinks: [gillingham]
 | **Club** | Gillingham |
 | **Nation** | England |
 | **Age** | 32 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Experienced midfielder who understands angles and can recycle possession with low risk, but his legs have gone in terms of intensity and he's no longer a dominant physical presence in the middle third. Useful squad depth for a team happy to play controlled, lower-tempo football. Limited upside at this stage.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,13 @@ Experienced midfielder who understands angles and can recycle possession with lo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

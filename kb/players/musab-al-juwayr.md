@@ -1,72 +1,60 @@
 ---
-title: Musab Al-Juwayr
+title: Musab Al Juwayr
 category: players
-tags: [CM, Al Qadsia, Saudi Arabia]
-updated: 2026-04-17
+tags: [AM, Creator]
+updated: 2026-04-14
 source: compiled
-confidence: low
-summary: CM at Al Qadsia. Archetype: None.
-person_id: 15447
-backlinks: [al-qadsia]
+confidence: high
+summary: AM at None. Archetype: Creator.
+person_id: 23156
+backlinks: [creator]
 ---
 
-# Musab Al-Juwayr
+# Musab Al Juwayr
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | Al Qadsia |
-| **Nation** | Saudi Arabia |
-| **Age** | 22 |
-| **Archetype** | [[—]] None |
-| **Level** | 68 |
-| **Overall** | None |
+| **Position** | AM |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[creator]] Creator |
+| **Level** | 75 |
+| **Overall** | 62.0 |
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-A young midfielder still finding his level in senior football, showing decent technical foundation and the physical ability to cover ground, but lacking consistency or any genuine creative signature. His decision-making remains raw, and he's equally likely to retain possession sensibly or gift it away carelessly. At 22, he's a prospect in development rather than a finished product.
-
-## Role Fit
-
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Through Balls | ████████░░ 8/10 |
+| Crossing | ███████░░░ 7/10 |
+| Discipline | ██████░░░░ 6/10 |
+| Tactical | ██████░░░░ 6/10 |
+| Vision | ██████░░░░ 6/10 |
+| Communication | █████░░░░░ 5/10 |
+| Concentration | █████░░░░░ 5/10 |
+| Creativity | █████░░░░░ 5/10 |
+| Leadership | █████░░░░░ 5/10 |
+| Pressing | █████░░░░░ 5/10 |
+| Drive | ████░░░░░░ 4/10 |
+| Mental | ████░░░░░░ 4/10 |
+| Pass Accuracy | ████░░░░░░ 4/10 |
+| Technical | ████░░░░░░ 4/10 |
+| Composure | ███░░░░░░░ 3/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Metric coverage is shallow relative to a full dossier standard.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **set_piece_specialist** (tactical) — severity 5/10
 
 ## Personality
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 56
-- **Social (TF)**: 55
-- **Pressure (JP)**: 56
-- **Competitiveness**: 5/10
-- **Coachability**: 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+- **Game Reading (EI)**: 54
+- **Motivation (SN)**: 53
+- **Social (TF)**: 47
+- **Pressure (JP)**: 39
+- **Competitiveness**: 1/10
+- **Coachability**: 1/10

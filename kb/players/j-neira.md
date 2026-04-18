@@ -18,17 +18,24 @@ backlinks: [creator, akademik-sofia]
 |---|---|
 | **Position** | WF |
 | **Club** | Akademik Sofia |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 34.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 An Inventor archetype, Neira is a Creator-Striker whose game is built on individual brilliance, showcasing excellent vision, guile, take-ons, and clinical close-range and mid-range finishing. His limited tactical understanding, mental fortitude, and disciplinary issues, however, suggest he would be an inconsistent luxury player best afforded immense creative freedom. This profile makes him a high-risk, high-reward prospect, suitable for clubs with robust tactical frameworks that can accommodate a maverick forward and maximize his exceptional attacking attributes while mitigating his significant off-ball frailties.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -58,13 +65,14 @@ An Inventor archetype, Neira is a Creator-Striker whose game is built on individ
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: K. Vaesen
 category: players
 tags: [AM, KVC Westerlo, Creator-Target]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at KVC Westerlo. Archetype: Creator-Target.
 person_id: 20856
-backlinks: [creator, kvc-westerlo]
+backlinks: [creator, trequartista, kvc-westerlo]
 ---
 
 # K. Vaesen
@@ -18,21 +18,29 @@ backlinks: [creator, kvc-westerlo]
 |---|---|
 | **Position** | AM |
 | **Club** | KVC Westerlo |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Target |
-| **Level** | None |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Level** | — |
 | **Overall** | 31.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 K. Vaesen projects primarily as a AM with a `Creator-Target` lean. The strongest database support comes from Jumping, First Touch, and Heading.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -61,10 +69,11 @@ K. Vaesen projects primarily as a AM with a `Creator-Target` lean. The strongest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,5 +94,5 @@ K. Vaesen projects primarily as a AM with a `Creator-Target` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

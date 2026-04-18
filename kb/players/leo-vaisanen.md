@@ -2,7 +2,7 @@
 title: Leo Väisänen
 category: players
 tags: [CD, BK Häcken, Finland, Cover-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at BK Häcken. Archetype: Cover-Dribbler.
@@ -26,54 +26,35 @@ backlinks: [cover, bk-hacken]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 Väisänen operates as a robust Vorstopper, a Modern CB who excels in aerial duels and physical contests with impressive tackling and awareness. While a commanding presence, his poor movement means he can be easily turned by agile forwards, and his limited ability to strike the ball cleanly from range reduces his offensive contribution.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Colossus`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Most bankable strengths show up in Jumping, Physical, and Stamina.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Physical, and Stamina.
-- Style traits point toward Aerial Ability, Tackling Ability, and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Jumping | ████████████████ 16/10 |
+| Physical | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Aggression | ██████████████ 14/10 |
+| Interceptions | ██████████████ 14/10 |
+| Pace | ██████████████ 14/10 |
+| First Touch | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Pass Accuracy | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Composure | ████████████ 12/10 |
+| Crossing | ████████████ 12/10 |
+| Balance | ███████████ 11/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
 
 ## Personality
 
@@ -83,18 +64,3 @@ Väisänen operates as a robust Vorstopper, a Modern CB who excels in aerial due
 - **Pressure (JP)**: 60
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Ability** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: Fernando Morientes
 category: players
 tags: [CF, Spain]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 11003
 ---
 
@@ -16,18 +16,25 @@ person_id: 11003
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 50 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker	Power Forward	Real Madrid	ESP	B	0.0	Morientes was one of the top strikers of his generation, forming a notable and highly successful partnership with Raúl at Real Madrid. A quick, creative and hard-working player, he excelled in the air, and was an accurate finisher with his head and with his feet, both inside and outside the area; he was also an accurate free kick taker, and was capable of playing off another striker. In his later career, as he lost his pace, Morientes often played in a supporting role, using his strength and control to hold up the ball for teammates.		He played for a number of clubs during his career, including Real Madrid, Monaco, Liverpool and Valencia. In La Liga, he scored 124 goals in 337 games over the course of 15 seasons. He earned 11 major honours with the first club, including three Champions League trophies. Morientes played 47 times for the Spanish national team, representing the country in two World Cups (totalling five goals) and one European Championship.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -40,10 +47,11 @@ CF		Striker	Power Forward	Real Madrid	ESP	B	0.0	Morientes was one of the top str
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,8 +62,8 @@ CF		Striker	Power Forward	Real Madrid	ESP	B	0.0	Morientes was one of the top str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

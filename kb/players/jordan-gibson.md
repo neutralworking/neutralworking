@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Rangers. Archetype: Sprinter.
 person_id: 12906
-backlinks: [sprinter, rangers]
+backlinks: [sprinter, mezzala, rangers]
 ---
 
 # Jordan Gibson
@@ -21,18 +21,26 @@ backlinks: [sprinter, rangers]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[mezzala]] Mezzala |
 | **Level** | 80 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An English defender, likely a fullback or centre-back, who operates with the expected professionalism but without any distinction. Gibson is positionally sound and rarely makes egregious errors, but he's not progressing the ball, he's not winning aerial duels with any consistency, and he lacks the pace to recover. He's a squad depth option, the sort of player who appears in EFL or lower-table contexts.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala`.
+- Best-fit role is [[mezzala]] Mezzala.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Pace, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ An English defender, likely a fullback or centre-back, who operates with the exp
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -1,13 +1,13 @@
 ---
 title: M. de los Santos
 category: players
-tags: [CM, Cuniburo FC, Destroyer-Target]
-updated: 2026-04-17
+tags: [CM, Atlético Tucumán, Destroyer-Target]
+updated: 2026-04-14
 source: compiled
 confidence: high
-summary: CM at Cuniburo FC. Archetype: Destroyer-Target.
+summary: CM at Atlético Tucumán. Archetype: Destroyer-Target.
 person_id: 26191
-backlinks: [destroyer, cuniburo-fc]
+backlinks: [destroyer, atletico-tucuman]
 ---
 
 # M. de los Santos
@@ -17,7 +17,7 @@ backlinks: [destroyer, cuniburo-fc]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Cuniburo FC |
+| **Club** | Atlético Tucumán |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Target |
@@ -26,56 +26,29 @@ backlinks: [destroyer, cuniburo-fc]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-M. de los Santos projects primarily as a CM with a `Destroyer-Target` lean. The strongest database support comes from Physical, Jumping, and Heading.
-
-## Role Fit
-
-- Best-fit role is `Tuttocampista` with model support score `71`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Most bankable strengths show up in Physical, Jumping, and Heading.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Jumping, and Heading.
-- Style traits point toward Tackling Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Penalties | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Physical | █████████████████ 17/10 |
+| Jumping | ████████████████ 16/10 |
+| Heading | ██████████████ 14/10 |
+| Marking | █████████████ 13/10 |
+| Penalties | █████████████ 13/10 |
+| Pass Range | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Acceleration | ███████████ 11/10 |
+| First Touch | ███████████ 11/10 |
+| Pace | ███████████ 11/10 |
+| Shielding | ███████████ 11/10 |
+| Balance | ██████████ 10/10 |
+| Crossing | █████████░ 9/10 |
+| Movement | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Tackling Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -85,15 +58,3 @@ M. de los Santos projects primarily as a CM with a `Destroyer-Target` lean. The 
 - **Pressure (JP)**: 54
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Tackling Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

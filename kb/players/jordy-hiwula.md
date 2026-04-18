@@ -5,7 +5,7 @@ tags: [CF, Morecambe, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Morecambe. Archetype: None.
+summary: CF at Morecambe. Archetype: —.
 person_id: 12948
 backlinks: [morecambe]
 ---
@@ -20,15 +20,22 @@ backlinks: [morecambe]
 | **Club** | Morecambe |
 | **Nation** | England |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 75 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Striker who's found a home in the lower divisions scoring goals with intelligence and persistence rather than flair. His movement in the box is genuinely sharp, and he positions himself to convert half-chances, but his lack of pace limits his ability to operate against defending that's reasonably organized. A poacher, effective at League Two level, redundant above it.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ Striker who's found a home in the lower divisions scoring goals with intelligenc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

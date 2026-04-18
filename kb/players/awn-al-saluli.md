@@ -5,7 +5,7 @@ tags: [CD, Al Ittihad, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Al Ittihad. Archetype: None.
+summary: CD at Al Ittihad. Archetype: —.
 person_id: 8812
 backlinks: [al-ittihad]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-ittihad]
 | **Club** | Al Ittihad |
 | **Nation** | Saudi Arabia |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 74 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A midfielder with reasonable positional discipline who can sit and screen, though his passing range is limited and his ability to escape pressure in tight spaces is suspect. He's the sort of player who looks competent when the game is played at a manageable pace but fades when the tempo rises. For a Saudi league side seeking midfield stability he'll do; for anything more demanding, he's a liability.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A midfielder with reasonable positional discipline who can sit and screen, thoug
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

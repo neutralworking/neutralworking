@@ -2,7 +2,7 @@
 title: Wouter Goes
 category: players
 tags: [CM, AZ, Netherlands, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at AZ. Archetype: Destroyer-Powerhouse.
@@ -26,54 +26,37 @@ backlinks: [destroyer, az]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A centre-back with good reading of the game and the kind of positional intelligence that prevents him bleeding space unnecessarily, Goes is calm on the ball and comfortable playing from the back in the modern Dutch way. His weakness is in the air and under genuine physical duress—he can be bullied by genuinely strong number nines—and his recovery pace isn't exceptional, which means he can't afford the kind of positional gambles a ball-playing centre-back sometimes gets away with. At 21, he's a prospect worth monitoring, but he's playing meaningful senior football, so rate what you see: a decent young defender, nothing more yet.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Tuttocampista` with model support score `79`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Acceleration, Balance, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Balance, and Jumping.
-- Style traits point toward Anticipation and Tackling Ability in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Shielding | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Acceleration | ██████████████ 14/10 |
+| Balance | ██████████████ 14/10 |
+| Jumping | ██████████████ 14/10 |
+| Marking | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Shielding | ██████████████ 14/10 |
+| Heading | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Stamina | █████████████ 13/10 |
+| First Touch | ████████████ 12/10 |
+| Blocking | █████████░ 9/10 |
+| Crossing | █████████░ 9/10 |
+| Interceptions | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Awareness | ████████░░ 8/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **build_up_contributor** (tactical) — severity 7/10
+- **positional_discipline** (tactical) — severity 6/10
+- **Anticipation** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **hot_headed** (behavioral) — severity 4/10
 
 ## Personality
 
@@ -83,20 +66,3 @@ A centre-back with good reading of the game and the kind of positional intellige
 - **Pressure (JP)**: 57
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Positional Discipline** (tactical) — severity 6/10
-- **Anticipation** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **Hot Headed** (behavioral) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

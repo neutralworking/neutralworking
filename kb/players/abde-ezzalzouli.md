@@ -2,7 +2,7 @@
 title: Abde Ezzalzouli
 category: players
 tags: [WF, Real Betis, Morocco, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Real Betis. Archetype: Creator-Striker.
@@ -23,7 +23,7 @@ backlinks: [creator, real-betis]
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 86 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
@@ -33,6 +33,13 @@ backlinks: [creator, real-betis]
 Outside of Saudi Arabia, the key theme this summer has been the rising cost of youth players. Barcelona give youth a chance more often than most and if youngsters do leave, it tends to be temporary.
 
 One notable exception is Ezzalzouli, the Moroccan winger who Xavi believed was ready for the Barça first team. After a late flurry of incomings, an apparent need to balance the books led to his deadline-day departure. Barcelona have secured a buy-back clause to get Ezzalzouli for just €20m, while Betis have a young talent ready to make an immediate impact.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ One notable exception is Ezzalzouli, the Moroccan winger who Xavi believed was r
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 28.5m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,11 +108,11 @@ One notable exception is Ezzalzouli, the Moroccan winger who Xavi believed was r
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -114,7 +122,6 @@ One notable exception is Ezzalzouli, the Moroccan winger who Xavi believed was r
 ---
 class: attacker
 ---
-
 
 ## Abde Ezzalzouli (Barcelona to Betis, £6.4m)
 

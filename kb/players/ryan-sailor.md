@@ -2,7 +2,7 @@
 title: Ryan Sailor
 category: players
 tags: [CD, Inter Miami CF, United States, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Inter Miami CF. Archetype: Destroyer.
@@ -26,55 +26,25 @@ backlinks: [destroyer, inter-miami-cf]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Ryan Sailor projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Physical, Jumping, and Heading.
-
-## Role Fit
-
-- Best-fit role is `Centrale`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Most bankable strengths show up in Physical, Jumping, and Heading.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Physical, Jumping, and Heading.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Physical | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Interceptions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Tackling | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Jumping | ███████████████ 15/10 |
+| Heading | █████████████ 13/10 |
+| Interceptions | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Tackling | █████████████ 13/10 |
+| Acceleration | ████████████ 12/10 |
+| Awareness | ████████████ 12/10 |
+| Stamina | ████████████ 12/10 |
+| Reactions | ███████████ 11/10 |
+| Composure | ██████████ 10/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Shielding | █████████░ 9/10 |
+| Balance | ████████░░ 8/10 |
+| First Touch | ████████░░ 8/10 |
 
 ## Personality
 
@@ -84,10 +54,3 @@ Ryan Sailor projects primarily as a CD with a `Destroyer` lean. The strongest da
 - **Pressure (JP)**: 60
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

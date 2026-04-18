@@ -19,16 +19,23 @@ backlinks: [cover, lazio]
 | **Position** | WD |
 | **Club** | Lazio |
 | **Nation** | Albania |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A full-back designed for a counter-attacking system where his pace and simplicity are assets rather than liabilities. On the ball, he's often uncomfortable, preferring to recycle sideways rather than drive forward or execute switches of play with conviction. Against structured defences that compress space, his limitations become apparent; functional in a back-five or against bottom-half opposition, but not a starter for an ambitious European contender.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ A full-back designed for a counter-attacking system where his pace and simplicit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -110,9 +118,6 @@ A full-back designed for a counter-attacking system where his pace and simplicit
 <details>
 <summary>Raw scouting narrative</summary>
 
-Elseid Hysaj is an Albanian professional footballer who plays as a full-back for Serie A club Lazio and captains the Albania national team. He is known for his versatility and ability to play as a right-back, left-back, and wing-back. Hysaj is recognized for his defensive skills, including solid positioning, good tackling, and interception abilities. He prefers to play short passes and contribute to the team's build-up play. [^1] [Source](https://www.whoscored.com/Players/108345/Show/Elseid-Hysaj)
-
-[^1]: https://en.wikipedia.org/wiki/Elseid_Hysaj
-[^2]: https://en.wikipedia.org/wiki/Elseid_Hysaj
+Elseid Hysaj is an Albanian professional footballer who plays as a full-back for Serie A club Lazio and captains the Albania national team. He is known for his versatility and ability to play as a right-back, left-back, and wing-back. Hysaj is recognized for his defensive skills, including solid positioning, good tackling, and interception abilities. He prefers to play short passes and contribute to the team's build-up play.  [Source](https://www.whoscored.com/Players/108345/Show/Elseid-Hysaj)
 
 </details>

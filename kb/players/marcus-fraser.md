@@ -2,7 +2,7 @@
 title: Marcus Fraser
 category: players
 tags: [CD, St Mirren, Scotland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at St Mirren. Archetype: Powerhouse.
@@ -26,56 +26,31 @@ backlinks: [powerhouse, st-mirren]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Attribute Grades
 
-Marcus Fraser projects primarily as a CD with a `Powerhouse` lean. The strongest database support comes from Stamina, Jumping, and Pace.
-
-## Role Fit
-
-- Best-fit role is `Sweeper` with model support score `72`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
-- Most bankable strengths show up in Stamina, Jumping, and Pace.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Jumping, and Pace.
-- Style traits point toward Work Rate, Tackling Ability, and Defensive Awareness in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Stamina | █████████████████ 17/10 |
+| Jumping | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Balance | ██████████████ 14/10 |
+| Heading | █████████████ 13/10 |
+| Shielding | █████████████ 13/10 |
+| First Touch | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Movement | ███████████ 11/10 |
+| Pass Range | ███████████ 11/10 |
+| Take Ons | ███████████ 11/10 |
+| Vision | ██████████ 10/10 |
+| Long Range | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Work Rate** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
 
 ## Personality
 
@@ -85,17 +60,3 @@ Marcus Fraser projects primarily as a CD with a `Powerhouse` lean. The strongest
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Work Rate** (style) — severity 4/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

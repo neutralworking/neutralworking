@@ -2,7 +2,7 @@
 title: Pape Amadou Diallo
 category: players
 tags: [WM, Norwich City, Senegal, Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Norwich City. Archetype: Creator.
@@ -26,49 +26,29 @@ backlinks: [creator, norwich-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Limited information available on current form and role, but based on Metz's squad depth profile, likely a developing academy graduate or fringe rotation option. Without sustained senior appearances or competitive exposure, rating sits in the raw-to-developing band; any higher would require confirmation of consistent playing time.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker` with model support score `66`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Creativity, Vision, and Discipline.
-
-## In Possession
-
-- Ball-value indicators lean on Creativity, Vision, and Discipline.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Long Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Creativity | █████████░ 9/10 |
+| Vision | █████████░ 9/10 |
+| Discipline | ████████░░ 8/10 |
+| Threat | ████████░░ 8/10 |
+| Composure | ███████░░░ 7/10 |
+| Duels | ███████░░░ 7/10 |
+| Long Range | ███████░░░ 7/10 |
+| Pressing | ███████░░░ 7/10 |
+| Take Ons | ███████░░░ 7/10 |
+| Through Balls | ███████░░░ 7/10 |
+| Concentration | ██████░░░░ 6/10 |
+| Drive | ██████░░░░ 6/10 |
+| Intensity | ██████░░░░ 6/10 |
+| Mental | ██████░░░░ 6/10 |
+| Skills | ██████░░░░ 6/10 |
 
 ## Personality
 
@@ -78,11 +58,3 @@ Limited information available on current form and role, but based on Metz's squa
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

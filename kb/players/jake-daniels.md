@@ -5,7 +5,7 @@ tags: [CF, Blackpool, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Blackpool. Archetype: None.
+summary: CF at Blackpool. Archetype: —.
 person_id: 12233
 backlinks: [blackpool]
 ---
@@ -20,15 +20,22 @@ backlinks: [blackpool]
 | **Club** | Blackpool |
 | **Nation** | England |
 | **Age** | 21 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 66 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young striker with the movement patterns of a top-tier poacher and genuine instinct in the box, but his overall play is limited and he struggles when he has to come deep or contribute outside the 18-yard box. He's a specialist, and a useful one for a Championship side. At 21, he could develop into something more if given the right coaching.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -41,10 +48,11 @@ Young striker with the movement patterns of a top-tier poacher and genuine insti
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

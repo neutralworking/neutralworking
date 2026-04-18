@@ -2,7 +2,7 @@
 title: T. Jabol-Folcarelli
 category: players
 tags: [WM, Trabzonspor, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Trabzonspor. Archetype: Creator-Dribbler.
@@ -26,49 +26,34 @@ backlinks: [creator, trabzonspor]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 T. Jabol-Folcarelli is a technically gifted winger who excels at delivering crosses and making progressive carries, but his limited tactical awareness and lack of blocking ability may hinder his ability to cope with intense pressure. As a Colossus archetype, he is well-suited to a Winger role where he can utilize his technical skills to create scoring opportunities. Historically, his style of play is reminiscent of traditional wingers who rely on pace and trickery to beat opponents, and he would thrive in a system that allows him to make inverted runs and exploit half-spaces. From a squad-building perspective, Jabol-Folcarelli's market position is relatively high due to his technical ability, making him a target for top-tier clubs looking to add width and creativity to their attack, but his limited tactical awareness may be a risk factor for teams that rely on a strong defensive structure.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Stamina, First Touch, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, First Touch, and Jumping.
-- Style traits point toward Flamboyant and Elegant in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Physical | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Movement | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Stamina | ████████████████ 16/10 |
+| First Touch | ██████████████ 14/10 |
+| Jumping | ██████████████ 14/10 |
+| Pass Range | ██████████████ 14/10 |
+| Physical | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Balance | ████████████ 12/10 |
+| Heading | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Shielding | ███████████ 11/10 |
+| Penalties | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **flamboyant** (style) — severity 8/10
+- **elegant** (style) — severity 4/10
 
 ## Personality
 
@@ -78,17 +63,3 @@ T. Jabol-Folcarelli is a technically gifted winger who excels at delivering cros
 - **Pressure (JP)**: 58
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 8/10
-- **Elegant** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

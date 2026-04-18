@@ -2,7 +2,7 @@
 title: Asier Osambela
 category: players
 tags: [CM, Osasuna, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Osasuna. Archetype: Striker-Destroyer.
@@ -18,17 +18,24 @@ backlinks: [striker, osasuna]
 |---|---|
 | **Position** | CM |
 | **Club** | Osasuna |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Destroyer |
-| **Level** | None |
+| **Level** | — |
 | **Overall** | 38.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Asier Osambela is a Tuttocampista with a strong defensive work rate, exceling in close-range situations and showcasing awareness, but his technical and tactical limitations are significant concerns. His lack of guile and vision makes him a less effective player in systems that require intricate passing and movement. A team with a strong defensive structure could utilize his skills, but his limited technical ability is a risk factor that may hinder his development. Historically, players with similar profiles have thrived in systems that emphasize simplicity and directness.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,10 +72,10 @@ Asier Osambela is a Tuttocampista with a strong defensive work rate, exceling in
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 
@@ -88,6 +95,6 @@ Asier Osambela is a Tuttocampista with a strong defensive work rate, exceling in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

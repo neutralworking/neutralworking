@@ -2,7 +2,7 @@
 title: Medon Berisha
 category: players
 tags: [CM, Lecce, Albania, Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CM at Lecce. Archetype: Creator.
@@ -26,58 +26,36 @@ backlinks: [creator, lecce]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 The 22-year-old Albanian midfielder is very much a prospect at Lecce, with limited senior exposure and a long development curve ahead. He shows some technical ability in possession, but he hasn't demonstrated the consistency, physicality, or tactical maturity needed to be a regular in a top-five league.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Playmaker` with model support score `74`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Set Piece Specialist.
-- Most bankable strengths show up in First Touch, Pass Range, and Reactions.
-
-## In Possession
-
-- Ball-value indicators lean on First Touch, Pass Range, and Reactions.
-- Style traits point toward Two Footed in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Set Piece Specialist.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Heading | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| First Touch | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Reactions | █████████████ 13/10 |
+| Acceleration | ████████████ 12/10 |
+| Jumping | ████████████ 12/10 |
+| Marking | ████████████ 12/10 |
+| Balance | ███████████ 11/10 |
+| Heading | ███████████ 11/10 |
+| Composure | ██████████ 10/10 |
+| Long Range | ██████████ 10/10 |
+| Penalties | ██████████ 10/10 |
+| Stamina | ██████████ 10/10 |
+| Threat | ██████████ 10/10 |
+| Vision | ██████████ 10/10 |
+| Close Range | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
+- **availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **set_piece_specialist** (tactical) — severity 4/10
+- **durability** (physical) — severity 2/10
 
 ## Personality
 
@@ -87,19 +65,3 @@ The 22-year-old Albanian midfielder is very much a prospect at Lecce, with limit
 - **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Set Piece Specialist** (tactical) — severity 4/10
-- **Durability** (physical) — severity 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

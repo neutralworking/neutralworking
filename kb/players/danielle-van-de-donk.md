@@ -5,7 +5,7 @@ tags: [CM, OL Féminin, Netherlands]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at OL Féminin. Archetype: None.
+summary: CM at OL Féminin. Archetype: —.
 person_id: 9967
 backlinks: [ol-feminin]
 ---
@@ -19,16 +19,23 @@ backlinks: [ol-feminin]
 | **Position** | CM |
 | **Club** | OL Féminin |
 | **Nation** | Netherlands |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Still one of Europe's most intelligently technical midfielders—she operates in those delicate pockets between the lines where most players just see space. Her left foot is genuinely cultured, and she'll receive a pass on her weaker side and turn it into a scoring opportunity in three touches. Age is creeping in (she's 32) and the legs don't quite have the explosive recovery they once did, but her game intelligence and ability to control tempo remains world-class for her position.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Still one of Europe's most intelligently technical midfielders—she operates in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

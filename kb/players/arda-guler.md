@@ -2,7 +2,7 @@
 title: Arda Güler
 category: players
 tags: [AM, Real Madrid, Turkey, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: AM at Real Madrid. Archetype: Creator-Engine.
@@ -23,12 +23,19 @@ backlinks: [creator, real-madrid]
 | **Archetype** | [[creator]] Creator-Engine |
 | **Level** | 88 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Güler's technical ability and vision make him an exciting prospect as a Trequartista, where his creativity and flair can be fully expressed, but his tactical limitations and struggles with clearances and blocking are notable weaknesses. Historically, his role is part of a tradition of pressing playmakers, and he would thrive in systems that emphasize high-intensity pressing and quick interplay. As a rising player, his market value is relatively high, and a club seeking a creative, technical midfielder would be the best fit, although his lack of development in key areas is a risk factor.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ Güler's technical ability and vision make him an exciting prospect as a Trequar
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 71.4m |
+| Mid | EUR 84.0m |
+| Ceiling | EUR 101m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +115,7 @@ Güler's technical ability and vision make him an exciting prospect as a Trequar
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 15 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 15 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

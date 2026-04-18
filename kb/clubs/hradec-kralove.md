@@ -1,8 +1,8 @@
 ---
 title: Hradec Králové
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Hradec Králové. 21 players in database.
@@ -10,9 +10,23 @@ summary: Hradec Králové. 21 players in database.
 
 # Hradec Králové
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 21
+
+## Identity
+
+- Database coverage is deepest in CM (8), WF (2), and CF (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (8), Striker (5), and Destroyer (4) across the current squad.
+- Average available overall grade sits at 62.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -28,14 +42,14 @@ summary: Hradec Králové. 21 players in database.
 | [[s-dancak]] S. Dancák | CM | Cover-Creator | 66.0 |
 | [[t-petrasek]] T. Petrášek | CM | Striker-Destroyer | 68.0 |
 | [[vladimir-darida]] Vladimír Darida | CM | Creator | 66.0 |
-| [[a-zadrazil]] A. Zadražil | GK | GK | None |
+| [[a-zadrazil]] A. Zadražil | GK | GK | — |
 | [[j-hodek]] J. Hodek | WF | Striker | 31.0 |
 | [[vaclav-pilar]] Václav Pilař | WF | Creator-Striker | 53.0 |
 | [[a-vlkanova]] A. Vlkanova | WM | Striker-Creator | 66.0 |
-| [[a-binar]] A. Binar | None | Creator-Cover | None |
-| [[a-griger]] A. Griger | None | Creator-Striker | None |
-| [[d-ludvicek]] D. Ludvíček | None | Creator-Destroyer | None |
-| [[j-kucera]] J. Kučera | None | Creator-Destroyer | None |
-| [[l-kubr]] L. Kubr | None | Creator | None |
-| [[m-regza]] M. Regža | None | Striker-Cover | None |
-| [[s-harazim]] Š. Harazim | None | Destroyer-Creator | None |
+| A. Binar | — | Creator-Cover | — |
+| A. Griger | — | Creator-Striker | — |
+| D. Ludvíček | — | Creator-Destroyer | — |
+| J. Kučera | — | Creator-Destroyer | — |
+| L. Kubr | — | Creator | — |
+| M. Regža | — | Striker-Cover | — |
+| Š. Harazim | — | Destroyer-Creator | — |

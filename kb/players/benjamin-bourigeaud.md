@@ -23,12 +23,19 @@ backlinks: [creator, al-duhail-sc]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 81 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A crafty, left-footed orchestrator who still knows how to thread a pass from deep and carry the ball into the half-space with surprising composure for his age. He's the kind of midfielder who reads the game like a book—positional sense keeps him economical—but the legs have gone quiet, and he won't win you a midfield battle against genuine athleticism. Useful depth piece or a Europa League quality starter at a club happy to play slower, possession-based football.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +73,13 @@ A crafty, left-footed orchestrator who still knows how to thread a pass from dee
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

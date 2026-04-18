@@ -2,7 +2,7 @@
 title: Romarinho
 category: players
 tags: [WM, Sport Recife, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Sport Recife. Archetype: Striker-Creator.
@@ -26,51 +26,25 @@ backlinks: [striker, sport-recife]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-Romarinho projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Discipline, Close Range, and Composure.
-
-## Role Fit
-
-- Best-fit role is `Wide Playmaker` with model support score `72`.
-- Primary archetype leans toward `Striker` behaviour from a `WM` base.
-- Most bankable strengths show up in Discipline, Close Range, and Composure.
-
-## In Possession
-
-- Ball-value indicators lean on Discipline, Close Range, and Composure.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Discipline | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Flair | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Discipline | ██████████ 10/10 |
+| Close Range | █████████░ 9/10 |
+| Composure | █████████░ 9/10 |
+| Mid Range | █████████░ 9/10 |
+| Pass Accuracy | █████████░ 9/10 |
+| Creativity | ████████░░ 8/10 |
+| Duels | ████████░░ 8/10 |
+| Flair | ████████░░ 8/10 |
+| Long Range | ████████░░ 8/10 |
+| Take Ons | ████████░░ 8/10 |
+| Threat | ████████░░ 8/10 |
+| Skills | ███████░░░ 7/10 |
+| Technical | ███████░░░ 7/10 |
+| Vision | ███████░░░ 7/10 |
+| Drive | ██████░░░░ 6/10 |
 
 ## Personality
 
@@ -80,10 +54,3 @@ Romarinho projects primarily as a WM with a `Striker-Creator` lean. The stronges
 - **Pressure (JP)**: 42
 - **Competitiveness**: 2/10
 - **Coachability**: 3/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

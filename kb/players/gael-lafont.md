@@ -5,7 +5,7 @@ tags: [CM, OM, France]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at OM. Archetype: None.
+summary: CM at OM. Archetype: —.
 person_id: 11249
 backlinks: [om]
 ---
@@ -20,15 +20,22 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | France |
 | **Age** | 19 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 81 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Reliable central midfielder with sound tactical discipline and work ethic, though he rarely dictates tempo or creates decisive moments. Functional rather than impactful—a steady squad rotation option.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Reliable central midfielder with sound tactical discipline and work ethic, thoug
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 17.0m |
+| Mid | EUR 20.0m |
+| Ceiling | EUR 24.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

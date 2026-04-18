@@ -2,7 +2,7 @@
 title: Marc-Aurèle Caillard
 category: players
 tags: [GK, Lille, France, GK]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: GK at Lille. Archetype: GK.
@@ -26,55 +26,23 @@ backlinks: [gk, lille]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 A depth piece or reserve option unlikely to feature in competitive European football; appears to be lower-division quality or a squad rotation player without the technical range for consistent Ligue 1 appearances.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Sweeper Keeper`.
-- Primary archetype leans toward `GK` behaviour from a `GK` base.
-- Most bankable strengths show up in Mental, Tactical, and Technical.
-- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
-
-## In Possession
-
-- Ball-value indicators lean on Mental, Tactical, and Technical.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Awareness | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
-| Carries | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
-| Creativity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
-| Intensity | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
-| Through Balls | █░░░░░░░░░ 1/10 | One of the stronger current indicators for this profile at 1/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Mental | █████░░░░░ 5/10 |
+| Tactical | █████░░░░░ 5/10 |
+| Technical | ████░░░░░░ 4/10 |
+| Awareness | █░░░░░░░░░ 1/10 |
+| Carries | █░░░░░░░░░ 1/10 |
+| Creativity | █░░░░░░░░░ 1/10 |
+| Intensity | █░░░░░░░░░ 1/10 |
+| Through Balls | █░░░░░░░░░ 1/10 |
+| Vision | █░░░░░░░░░ 1/10 |
 
 ## Personality
 
@@ -84,11 +52,3 @@ A depth piece or reserve option unlikely to feature in competitive European foot
 - **Pressure (JP)**: 72
 - **Competitiveness**: 1/10
 - **Coachability**: 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

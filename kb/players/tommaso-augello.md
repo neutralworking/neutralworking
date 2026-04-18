@@ -2,7 +2,7 @@
 title: Tommaso Augello
 category: players
 tags: [WD, Palermo, Italy, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WD at Palermo. Archetype: Creator-Passer.
@@ -26,58 +26,35 @@ backlinks: [creator, palermo]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Defensive left-back who compensates for limited pace with solid positioning and tactical discipline; effective in a structured, defensive setup but exposed against dynamic wingers—a decent Serie A rotation piece for a newly promoted club rather than a long-term starting solution.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Fullback`.
-- Primary archetype leans toward `Creator` behaviour from a `WD` base.
-- Most bankable strengths show up in Balance, Pace, and Shielding.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Pace, and Shielding.
-- Style traits point toward Crossing Ability in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Balance | ███████████████ 15/10 |
+| Pace | ███████████████ 15/10 |
+| Shielding | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Acceleration | ██████████████ 14/10 |
+| Composure | ██████████████ 14/10 |
+| First Touch | ██████████████ 14/10 |
+| Interceptions | ██████████████ 14/10 |
+| Pass Accuracy | ██████████████ 14/10 |
+| Tackling | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Long Range | █████████████ 13/10 |
+| Marking | █████████████ 13/10 |
+| Movement | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **durability** (physical) — severity 6/10
+- **Crossing Ability** (style) — severity 5/10
 
 ## Personality
 
@@ -87,18 +64,3 @@ Defensive left-back who compensates for limited pace with solid positioning and 
 - **Pressure (JP)**: 45
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 6/10
-- **Crossing Ability** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

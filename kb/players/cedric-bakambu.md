@@ -1,13 +1,12 @@
 ---
 title: Cédric Bakambu
 category: players
-tags: [CF, Real Betis, Striker-Creator]
+tags: [CF, DR Congo]
 updated: 2026-04-18
 source: compiled
-confidence: high
-summary: CF at Real Betis. Archetype: Striker-Creator.
-person_id: 1075
-backlinks: [striker, real-betis]
+confidence: low
+summary: CF at —. Archetype: —.
+person_id: 28471
 ---
 
 # Cédric Bakambu
@@ -17,85 +16,51 @@ backlinks: [striker, real-betis]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Real Betis |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | DR Congo |
 | **Age** | 35 |
-| **Archetype** | [[striker]] Striker-Creator |
-| **Level** | 73 |
-| **Overall** | 68.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Cédric Bakambu projects primarily as a CF with a `Striker-Creator` lean. The strongest database support comes from Jumping, Movement, and Acceleration.
+Cédric Bakambu is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `68`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Jumping, Movement, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Movement, and Acceleration.
-- Style traits point toward Finishing and Trickery in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 57
-- **Motivation (SN)**: 38
-- **Social (TF)**: 64
-- **Pressure (JP)**: 45
-- **Competitiveness**: 4/10
-- **Coachability**: 5/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Durability** (physical) — severity 6/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-18 | Low | Only roster-level identity fields were available at compile time. |

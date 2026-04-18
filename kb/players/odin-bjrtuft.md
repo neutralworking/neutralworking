@@ -2,7 +2,7 @@
 title: Odin Bjørtuft
 category: players
 tags: [CD, Bodø/Glimt, Cover]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Bodø/Glimt. Archetype: Cover.
@@ -26,54 +26,34 @@ backlinks: [cover, bodglimt]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Snapshot
+## Scouting Notes
 
 Bjørtuft is a modern Cover defender, physically robust and capable in the air, offering solid tackling and decent pass accuracy for ball distribution from the back. While a dependable presence, his singular weakness in blocking suggests he might struggle when called upon to make crucial last-ditch interventions in congested penalty box scenarios.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Distributor` with model support score `72`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Jumping, Physical, and Stamina.
-
-## In Possession
-
-- Ball-value indicators lean on Jumping, Physical, and Stamina.
-- Style traits point toward Long Range Passing in possession.
-
-## Out of Possession
-
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Jumping | ███████████████ 15/10 |
+| Stamina | ███████████████ 15/10 |
+| Reactions | ██████████████ 14/10 |
+| Acceleration | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Heading | █████████████ 13/10 |
+| Pace | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Balance | ████████████ 12/10 |
+| Shielding | ████████████ 12/10 |
+| Crossing | ███████████ 11/10 |
+| Take Ons | ███████████ 11/10 |
+| Long Range | ██████████ 10/10 |
+| Vision | ██████████ 10/10 |
+| Movement | █████████░ 9/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- No major automated red flag surfaced from the current data slice.
+- **build_up_contributor** (tactical) — severity 7/10
+- **Long Range Passing** (style) — severity 5/10
 
 ## Personality
 
@@ -83,17 +63,3 @@ Bjørtuft is a modern Cover defender, physically robust and capable in the air, 
 - **Pressure (JP)**: 43
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Long Range Passing** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

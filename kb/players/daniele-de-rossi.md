@@ -2,7 +2,7 @@
 title: Daniele De Rossi
 category: players
 tags: [DM, Boca Juniors, Italy, Destroyer-Commander]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: DM at Boca Juniors. Archetype: Destroyer-Commander.
@@ -23,7 +23,7 @@ backlinks: [destroyer, boca-juniors]
 | **Archetype** | [[destroyer]] Destroyer-Commander |
 | **Level** | 51 |
 | **Overall** | 51.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -45,6 +45,13 @@ He is considered to be one of the greatest Italian midfielders of his generation
 De Rossi has represented Italy at under-19, under-20, under-21 and senior levels, and also represented Italy at the 2004 Olympics, winning a bronze medal. Since his senior international debut in 2004, he has earned 101 caps. With 17 goals, he is the highest scoring midfielder for Italy. 
 
 He was part of the 2006 FIFA World Cup-winning squad and has also participated at UEFA Euro 2008, the 2009 FIFA Confederations Cup, the 2010 World Cup, Euro 2012 (finishing in second place), the 2013 FIFA Confederations Cup (finishing in third place) and the 2014 World Cup. De Rossi was named in the Euro 2012 Team of the Tournament for his performances. In 2009, the French sports magazine L'Équipe named De Rossi as the eighth-best midfielder in the world"
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -82,10 +89,11 @@ He was part of the 2006 FIFA World Cup-winning squad and has also participated a
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -112,11 +120,11 @@ He was part of the 2006 FIFA World Cup-winning squad and has also participated a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

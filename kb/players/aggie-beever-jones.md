@@ -5,7 +5,7 @@ tags: [WF, Chelsea WFC, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at Chelsea WFC. Archetype: None.
+summary: WF at Chelsea WFC. Archetype: —.
 person_id: 7919
 backlinks: [chelsea-wfc]
 ---
@@ -20,15 +20,22 @@ backlinks: [chelsea-wfc]
 | **Club** | Chelsea WFC |
 | **Nation** | England |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 82 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A willing, energetic forward who operates in tight spaces and isn't afraid to spin into defenders—her movement in the box is genuinely clever, with timing on late runs that catches defenses off-guard. She's a poacher first and foremost, thriving on scraps and half-chances rather than sustained dribbling; the issue is she lacks the technical security on the ball to consistently create separation at the highest level, and her finishing, while clinical in spots, remains streaky enough that you wouldn't build a title challenge around her alone.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A willing, energetic forward who operates in tight spaces and isn't afraid to sp
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 27.2m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

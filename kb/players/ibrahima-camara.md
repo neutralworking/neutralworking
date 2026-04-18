@@ -2,12 +2,12 @@
 title: Ibrahima Camará
 category: players
 tags: [CM, Radomiak Radom, Guinea, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at Radomiak Radom. Archetype: Destroyer-Dribbler.
 person_id: 11912
-backlinks: [destroyer, radomiak-radom]
+backlinks: [destroyer, playmaker, radomiak-radom]
 ---
 
 # Ibrahima Camará
@@ -21,18 +21,27 @@ backlinks: [destroyer, radomiak-radom]
 | **Nation** | Guinea |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Camará, a 27-year-old Ball Winner functioning as a Mezzala, offers an extraverted, highly physical, and aggressive presence in midfield, excelling in tackling, jumping, and possessing good pass accuracy. Despite his strong physical and mental pillars, his limited tactical understanding, issues with discipline due to a hot-headed trait, and surprising weakness in general duels detract from his on-field impact. As a newcomer, he’s a direct addition for clubs needing pure combative energy and defensive disruption, but his lack of guile and disciplinary risks mean he might struggle in systems demanding nuanced midfield play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `78`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Jumping, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ Camará, a 27-year-old Ball Winner functioning as a Mezzala, offers an extravert
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Camará, a 27-year-old Ball Winner functioning as a Mezzala, offers an extravert
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

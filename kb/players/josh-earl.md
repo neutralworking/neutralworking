@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Preston North End. Archetype: Sprinter-Cover.
 person_id: 13046
-backlinks: [sprinter, preston-north-end]
+backlinks: [sprinter, stopper, preston-north-end]
 ---
 
 # Josh Earl
@@ -21,18 +21,26 @@ backlinks: [sprinter, preston-north-end]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
+| **Best Role** | [[stopper]] Stopper |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Utility defender capable of playing across the back; lacks standout attributes in any position and appears to be a squad fill-in rather than a player with clear defensive strengths.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Stopper`.
+- Best-fit role is [[stopper]] Stopper.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Pace, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Utility defender capable of playing across the back; lacks standout attributes i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 15.3m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

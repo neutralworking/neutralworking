@@ -2,7 +2,7 @@
 title: Omari Hutchinson
 category: players
 tags: [WF, Nottingham Forest, England, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WF at Nottingham Forest. Archetype: Sprinter-Dribbler.
@@ -26,54 +26,38 @@ backlinks: [sprinter, nottingham-forest]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Snapshot
+## Scouting Notes
 
 A young winger with real dribbling intent and the kind of penetrative running that occasionally unlocks defences, but he's still raw in his decision-making—you see moments where he should be playing the obvious pass but instead takes one touch too many. His crossing is inconsistent, and against Premier League full-backs with real recovery pace, he can look hurried. There's a very good player in there, but he's not there yet.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker` with model support score `81`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
-- Most bankable strengths show up in Balance, Acceleration, and First Touch.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Balance, Acceleration, and First Touch.
-- Style traits point toward Flamboyant, Pace, and Finishing in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Crossing | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Balance | █████████████████ 17/10 |
+| Acceleration | ████████████████ 16/10 |
+| First Touch | ████████████████ 16/10 |
+| Shielding | ████████████████ 16/10 |
+| Movement | ██████████████ 14/10 |
+| Reactions | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Crossing | █████████████ 13/10 |
+| Jumping | █████████████ 13/10 |
+| Pass Range | █████████████ 13/10 |
+| Marking | ███████████ 11/10 |
+| Tackling | ███████████ 11/10 |
+| Volleys | ███████████ 11/10 |
+| Composure | ██████████ 10/10 |
+| Heading | ██████████ 10/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **availability** (physical) — severity 10/10
+- **flamboyant** (style) — severity 10/10
+- **Pace** (style) — severity 4/10
+- **Finishing** (style) — severity 4/10
+- **Trickery** (style) — severity 4/10
+- **durability** (physical) — severity 1/10
 
 ## Personality
 
@@ -83,21 +67,3 @@ A young winger with real dribbling intent and the kind of penetrative running th
 - **Pressure (JP)**: 37
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Flamboyant** (style) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Finishing** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Durability** (physical) — severity 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

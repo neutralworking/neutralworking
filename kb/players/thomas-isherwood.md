@@ -2,7 +2,7 @@
 title: Thomas Isherwood
 category: players
 tags: [CD, Darmstadt, Sweden, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: CD at Darmstadt. Archetype: Destroyer.
@@ -26,55 +26,29 @@ backlinks: [destroyer, darmstadt]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 Limited information available, but as a Swedish centre-back at a struggling Bundesliga club, Isherwood appears to be a squad defender of moderate quality. Without evidence of significant athleticism or technical range, he should be rated as a functional defender capable of rotation play rather than an established starter. Likely squad depth.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Stopper` with model support score `66`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
-- Most bankable strengths show up in Blocking, Skills, and Technical.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Blocking, Skills, and Technical.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Awareness | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Creativity | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Blocking | ██████░░░░ 6/10 |
+| Skills | ██████░░░░ 6/10 |
+| Technical | ██████░░░░ 6/10 |
+| Aggression | █████░░░░░ 5/10 |
+| Mental | █████░░░░░ 5/10 |
+| Awareness | ████░░░░░░ 4/10 |
+| Concentration | ████░░░░░░ 4/10 |
+| Creativity | ████░░░░░░ 4/10 |
+| Drive | ████░░░░░░ 4/10 |
+| Duels | ████░░░░░░ 4/10 |
+| Interceptions | ████░░░░░░ 4/10 |
+| Leadership | ████░░░░░░ 4/10 |
+| Marking | ████░░░░░░ 4/10 |
+| Physical | ████░░░░░░ 4/10 |
+| Pressing | ████░░░░░░ 4/10 |
 
 ## Personality
 
@@ -84,11 +58,3 @@ Limited information available, but as a Swedish centre-back at a struggling Bund
 - **Pressure (JP)**: 44
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

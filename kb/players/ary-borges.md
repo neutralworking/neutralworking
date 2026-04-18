@@ -5,7 +5,7 @@ tags: [CM, Racing Louisville, Brazil]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Racing Louisville. Archetype: None.
+summary: CM at Racing Louisville. Archetype: —.
 person_id: 8751
 backlinks: [racing-louisville]
 ---
@@ -20,11 +20,22 @@ backlinks: [racing-louisville]
 | **Club** | Racing Louisville |
 | **Nation** | Brazil |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 82 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
+
+## Snapshot
+
+Ary Borges is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -38,13 +49,13 @@ backlinks: [racing-louisville]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 25.5m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
 
 ## Risk Flags
 

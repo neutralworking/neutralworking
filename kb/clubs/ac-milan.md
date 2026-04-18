@@ -2,17 +2,31 @@
 title: AC Milan
 category: clubs
 tags: [Serie A, Italy]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: AC Milan. 29 players in database.
+summary: AC Milan. 28 players in database.
 ---
 
 # AC Milan
 
 **League**: Serie A  
 **Nation**: Italy  
-**Players in DB**: 29
+**Players in DB**: 28
+
+## Identity
+
+- Database coverage is deepest in CM (9), CD (4), and CF (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (7), Cover (4), and Striker (4) across the current squad.
+- Average available overall grade sits at 73.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -27,8 +41,7 @@ summary: AC Milan. 29 players in database.
 | [[francesco-camarda]] Francesco Camarda | CF | Creator | 78.0 |
 | [[lorenzo-colombo]] Lorenzo Colombo | CF | Striker | 75.0 |
 | [[santiago-gimenez]] Santiago Giménez | CF | Striker-Sprinter | 75.0 |
-| [[valentina-giacinti]] Valentina Giacinti | CF | None | None |
-| [[adrien-rabiot]] Adrien Rabiot | CM | Creator-Passer | 77.0 |
+| [[valentina-giacinti]] Valentina Giacinti | CF | — | — |
 | [[christopher-nkunku]] Christopher Nkunku | CM | Creator-Passer | 72.0 |
 | [[luka-modric]] Luka Modric | CM | Cover-Passer | 78.0 |
 | [[ruben-loftus-cheek]] Ruben Loftus-Cheek | CM | Dribbler | 73.0 |
@@ -44,6 +57,6 @@ summary: AC Milan. 29 players in database.
 | [[filippo-terracciano]] Filippo Terracciano | WD | Sprinter-Passer | 64.0 |
 | [[pervis-estupinan]] Pervis Estupinan | WD | Creator-Dribbler | 77.0 |
 | [[theo-hernandez]] Theo Hernandez | WD | Creator-Sprinter | 70.0 |
-| [[chaka-traore]] Chaka Traore | WF | None | None |
+| [[chaka-traore]] Chaka Traore | WF | — | — |
 | [[christian-pulisic]] Christian Pulisic | WF | Striker-Creator | 77.0 |
 | [[rafael-leao]] Rafael Leao | WF | Creator-Passer | 76.0 |

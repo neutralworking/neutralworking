@@ -2,23 +2,38 @@
 title: Lorient
 category: clubs
 tags: [Ligue 2, France]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
-summary: Lorient. 22 players in database.
+summary: Lorient. 23 players in database.
 ---
 
 # Lorient
 
 **League**: Ligue 2  
 **Nation**: France  
-**Players in DB**: 22
+**Players in DB**: 23
+
+## Identity
+
+- Database coverage is deepest in CM (5), CF (5), and CD (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Powerhouse (5), Sprinter (4), and Destroyer (3) across the current squad.
+- Average available overall grade sits at 69.1, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[bamo-meite]] Bamo Meïté | CD | Destroyer | 65.0 |
+| [[formose-mendy]] Formose Mendy | CD | Destroyer | 72.0 |
 | [[montassar-talbi]] Montassar Talbi | CD | Destroyer-Dribbler | 73.0 |
 | [[nathaniel-adjei]] Nathaniel Adjei | CD | Sprinter | 65.0 |
 | [[bamba-dieng]] Bamba Dieng | CF | Target | 67.0 |

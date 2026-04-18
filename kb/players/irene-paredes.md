@@ -2,12 +2,12 @@
 title: Irene Paredes
 category: players
 tags: [CD, Barcelona, Spain, Cover]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Barcelona. Archetype: Cover.
 person_id: 11995
-backlinks: [cover, barcelona]
+backlinks: [cover, distributor, barcelona]
 ---
 
 # Irene Paredes
@@ -21,18 +21,27 @@ backlinks: [cover, barcelona]
 | **Nation** | Spain |
 | **Age** | 34 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Irene Paredes truly embodies the 'Cover' archetype, showcasing exceptional composure and pinpoint pass accuracy, making her a bedrock in central defence for a side like Barcelona. While she's a disciplined and effective presence in duels, her surprisingly low tackling ability and awareness mean she can be caught out by quick, incisive movements or in one-on-one situations, limiting her impact beyond simple distribution.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `74`.
+- Best-fit role is [[distributor]] Distributor with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Pass Accuracy, Composure, and Discipline.
@@ -62,13 +71,14 @@ Irene Paredes truly embodies the 'Cover' archetype, showcasing exceptional compo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 1.7m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Irene Paredes truly embodies the 'Cover' archetype, showcasing exceptional compo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

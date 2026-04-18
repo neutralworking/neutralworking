@@ -2,7 +2,7 @@
 title: Espanyol
 category: clubs
 tags: [La Liga, Spain]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: medium
 summary: Espanyol. 20 players in database.
@@ -13,6 +13,20 @@ summary: Espanyol. 20 players in database.
 **League**: La Liga  
 **Nation**: Spain  
 **Players in DB**: 20
+
+## Identity
+
+- Database coverage is deepest in CM (7), CD (3), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (6), Sprinter (4), and Destroyer (3) across the current squad.
+- Average available overall grade sits at 69.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -30,11 +44,11 @@ summary: Espanyol. 20 players in database.
 | [[pol-lozano]] Pol Lozano | CM | Creator-Sprinter | 62.0 |
 | [[ruben-sanchez]] Rubén Sánchez | CM | Sprinter-Destroyer | 69.0 |
 | [[urko-gonzalez-de-zarate]] Urko González de Zárate | CM | Creator | 68.0 |
-| [[jose-salinas]] José Salinas | GK | GK | None |
+| [[jose-salinas]] José Salinas | GK | GK | — |
 | [[marko-dmitrovic]] Marko Dmitrović | GK | GK | 79.0 |
 | [[omar-el-hilali]] Omar El Hilali | WD | Destroyer-Sprinter | 75.0 |
 | [[tyrhys-dolan]] Tyrhys Dolan | WF | Sprinter | 72.0 |
 | [[javi-puado]] Javi Puado | WM | Sprinter-Creator | 64.0 |
 | [[jofre-carreras]] Jofre Carreras | WM | Striker-Creator | 68.0 |
-| [[antoniu-roca]] Antoniu Roca | None | Creator-Sprinter | None |
-| [[roberto-fernandez]] Roberto Fernández | None | Striker | None |
+| Antoniu Roca | — | Creator-Sprinter | — |
+| Roberto Fernández | — | Striker | — |

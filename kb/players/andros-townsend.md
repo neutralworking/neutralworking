@@ -23,12 +23,19 @@ backlinks: [creator, newcastle]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 71 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A winger still capable of producing moments of directness and pace on the wing, Townsend brings experience and understand of positioning that keeps him functionally useful in a squad rotation. His best work comes from the touchline where he can use his explosiveness to beat a defender in a 1v1 scenario, but his decision-making in the final third has always been erratic, and at 34 he's lost the athleticism to recover defensively when a move breaks down. He's a journeyman squad option now, not a starter.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -63,13 +70,14 @@ A winger still capable of producing moments of directness and pace on the wing, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: M. Wdowiak
 category: players
 tags: [WM, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at None. Archetype: Sprinter-Creator.
@@ -26,51 +26,30 @@ backlinks: [sprinter]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Attribute Grades
 
-M. Wdowiak projects primarily as a WM with a `Sprinter-Creator` lean. The strongest database support comes from Shielding, Balance, and Jumping.
-
-## Role Fit
-
-- Best-fit role is `Winger`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
-- Most bankable strengths show up in Shielding, Balance, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Shielding, Balance, and Jumping.
-- Style traits point toward Acceleration and Pace in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Shielding | █████████████████ 17/10 |
+| Balance | ████████████████ 16/10 |
+| Jumping | ██████████████ 14/10 |
+| Stamina | ██████████████ 14/10 |
+| Composure | █████████████ 13/10 |
+| First Touch | █████████████ 13/10 |
+| Long Range | █████████████ 13/10 |
+| Take Ons | █████████████ 13/10 |
+| Mid Range | ████████████ 12/10 |
+| Pass Accuracy | ████████████ 12/10 |
+| Pass Range | ████████████ 12/10 |
+| Reactions | ████████████ 12/10 |
+| Through Balls | ████████████ 12/10 |
+| Close Range | ███████████ 11/10 |
+| Crossing | ███████████ 11/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
 
 ## Personality
 
@@ -80,16 +59,3 @@ M. Wdowiak projects primarily as a WM with a `Sprinter-Creator` lean. The strong
 - **Pressure (JP)**: 45
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

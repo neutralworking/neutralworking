@@ -2,12 +2,12 @@
 title: Karol Świderski
 category: players
 tags: [CF, Panathinaikos, Poland, Target-Striker]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Panathinaikos. Archetype: Target-Striker.
 person_id: 13335
-backlinks: [target, panathinaikos]
+backlinks: [target, shadow-striker, panathinaikos]
 ---
 
 # Karol Świderski
@@ -21,18 +21,27 @@ backlinks: [target, panathinaikos]
 | **Nation** | Poland |
 | **Age** | 29 |
 | **Archetype** | [[target]] Target-Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 61 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Świderski is a Complete Forward with a Fox archetype, boasting a strong aerial game and keen finishing ability from various ranges, leveraging his jumping and heading strengths alongside a reliable first touch. Though his physical pillar is limited and he struggles with ball carries, his direct style poses a significant counter-attack threat, supported by his strong mental pillar. This archetype fits into the lineage of classic centre-forwards who offer a focal point in attack and thrive in systems favouring verticality. Approaching 30, his strong mental pillar, availability, and durability make him a dependable, low-risk option for clubs needing an immediate, direct goal threat, despite concerns regarding his discipline and limited physical attributes.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `61`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `61`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, First Touch, and Movement.
@@ -67,13 +76,14 @@ backlinks: [target, panathinaikos]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ backlinks: [target, panathinaikos]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

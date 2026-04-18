@@ -2,7 +2,7 @@
 title: Stephan Lichtsteiner
 category: players
 tags: [WD, Augsburg, Switzerland, Engine]
-updated: 2026-04-17
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WD at Augsburg. Archetype: Engine.
@@ -26,55 +26,36 @@ backlinks: [engine, augsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Snapshot
+## Scouting Notes
 
 WD		Guardian		Juventus	SUI	C	0.0	An attacking right back, he is known for his energetic runs down the right wing, as well as his stamina and athleticism, "which earned him the nicknames ""Forrest Gump"" and ""The Swiss Express""."	Verticality, Stamina	"He began his professional career with Grasshopper Zürich, winning a league title in 2002–03, and moved to Lille in 2005, helping the French club to Champions League qualification in his first season with the team. In 2008 he joined Italian club Lazio, and won both the Coppa Italia and Supercoppa Italiana the following year. Since joining Juventus in 2011, Lichtsteiner has won four consecutive Serie A titles with the club, as well as his second Coppa Italia, and an additional three Supercoppa Italiana titles.
  A full international since 2006, Lichtsteiner has earned over 75 caps for Switzerland. He has represented his country at UEFA Euro 2008 and at two FIFA World Cups."
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wing-back`.
-- Primary archetype leans toward `Engine` behaviour from a `WD` base.
-- Most bankable strengths show up in Interceptions, Marking, and Pace.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
-
-## In Possession
-
-- Ball-value indicators lean on Interceptions, Marking, and Pace.
-- Style traits point toward Ball Progressor, Aerial Threat, and Pace in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Interceptions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Marking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Tackling | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Aerial Duels | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pass Accuracy | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Interceptions | ████████████████ 16/10 |
+| Marking | ████████████████ 16/10 |
+| Pace | ████████████████ 16/10 |
+| Tackling | ████████████████ 16/10 |
+| Aerial Duels | ███████████████ 15/10 |
+| Heading | ███████████████ 15/10 |
+| Pass Accuracy | ███████████████ 15/10 |
+| Pass Range | ███████████████ 15/10 |
+| First Touch | ██████████████ 14/10 |
+| Skills | ██████████████ 14/10 |
+| Take Ons | ██████████████ 14/10 |
+| Long Range | ████████████ 12/10 |
+| Mid Range | ████████████ 12/10 |
+| Volleys | ████████████ 12/10 |
+| Acceleration | ██████░░░░ 6/10 |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+## Traits
 
-## Risk Flags
-
-- System dependence is hard to pin down because tactical trait evidence is limited.
+- **Ball Progressor** (style) — severity 7/10
+- **Aerial Threat** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
 
 ## Personality
 
@@ -84,22 +65,6 @@ WD		Guardian		Juventus	SUI	C	0.0	An attacking right back, he is known for his en
 - **Pressure (JP)**: 56
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Ball Progressor** (style) — severity 7/10
-- **Aerial Threat** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

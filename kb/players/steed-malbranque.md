@@ -2,7 +2,7 @@
 title: Steed Malbranque
 category: players
 tags: [WM, Caen, Creator]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: high
 summary: WM at Caen. Archetype: Creator.
@@ -26,50 +26,23 @@ backlinks: [creator, caen]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Snapshot
+## Scouting Notes
 
 A former Fulham and Sunderland winger now 46 years old, Malbranque is a nostalgic memory of the mid-2000s Premier League rather than a current footballer. His inclusion here suggests either confusion or an admirable commitment to maximalist scouting. Either way, he should not be rated as an active player.
 
-## Role Fit
+## Attribute Grades
 
-- Best-fit role is `Wide Playmaker`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Creativity, Through Balls, and Vision.
-
-## In Possession
-
-- Ball-value indicators lean on Creativity, Through Balls, and Vision.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Through Balls | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Vision | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Carries | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Tactical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-
-## Valuation Range
-
-| Layer | Estimate |
+| Attribute | Grade |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
-
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
-
-## Risk Flags
-
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- System dependence is hard to pin down because tactical trait evidence is limited.
+| Creativity | ██████░░░░ 6/10 |
+| Through Balls | ██████░░░░ 6/10 |
+| Vision | ██████░░░░ 6/10 |
+| Awareness | █████░░░░░ 5/10 |
+| Carries | █████░░░░░ 5/10 |
+| Intensity | █████░░░░░ 5/10 |
+| Mental | ████░░░░░░ 4/10 |
+| Tactical | ████░░░░░░ 4/10 |
+| Technical | ████░░░░░░ 4/10 |
 
 ## Personality
 
@@ -79,11 +52,3 @@ A former Fulham and Sunderland winger now 46 years old, Malbranque is a nostalgi
 - **Pressure (JP)**: 46
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

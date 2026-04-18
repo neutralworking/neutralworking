@@ -2,7 +2,7 @@
 title: Amine Gouiri
 category: players
 tags: [WF, Marseille, Algeria, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Marseille. Archetype: Striker-Cover.
@@ -23,12 +23,19 @@ backlinks: [striker, marseille]
 | **Archetype** | [[striker]] Striker-Cover |
 | **Level** | 86 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A left-winger with genuine elasticity in his movements and an underrated ability to progress the ball into the final third through intelligent half-space positioning. His finishing is clinical when afforded space, and he offers Marseille directness they sometimes lack, but he can be desperately predictable when crowded—too reliant on his left foot, too often checking back rather than committing defenders with explosive acceleration.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -67,13 +74,14 @@ A left-winger with genuine elasticity in his movements and an underrated ability
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 26.6m |
+| Mid | EUR 64.0m |
+| Ceiling | EUR 76.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,17 +112,16 @@ A left-winger with genuine elasticity in his movements and an underrated ability
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryFrance
 
@@ -123,12 +130,6 @@ ClubLyon
 PositionStriker
 
 Born16 February 2000
-
-
-
-
-
-
 
 ****
 
@@ -142,6 +143,6 @@ The list of French strikers developed at the Lyon academy is long and illustriou
  
 **October 2021 update**A blistering start to the season that yielded five goals in his first eight Ligue 1 appearances has seen Gouiri linked with a moves to Manchester City, Liverpool and Real Madrid among others in recent weeks. A name to look out for.
  
-**Septem...
+**September 202...
 
 </details>
