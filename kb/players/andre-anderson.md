@@ -2,7 +2,7 @@
 title: André Anderson
 category: players
 tags: [CM, Lazio, Italy, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lazio. Archetype: Dribbler-Sprinter.
@@ -22,13 +22,20 @@ backlinks: [dribbler, lazio]
 | **Age** | 26 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 84 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Italian-based midfielder at 26 with reasonable technical security and passing range through the centre. Lacks the positional discipline or press resistance for a more demanding environment; gets turned too easily in transition and doesn't contribute enough defensively to justify selection at a bigger club. Serviceable Eredivisie regular.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -66,13 +73,14 @@ Italian-based midfielder at 26 with reasonable technical security and passing ra
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +105,7 @@ Italian-based midfielder at 26 with reasonable technical security and passing ra
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

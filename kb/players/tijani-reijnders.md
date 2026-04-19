@@ -2,12 +2,12 @@
 title: Tijani Reijnders
 category: players
 tags: [CM, Manchester City, Netherlands, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Manchester City. Archetype: Dribbler-Creator.
 person_id: 17963
-backlinks: [dribbler, manchester-city]
+backlinks: [dribbler, playmaker, manchester-city]
 ---
 
 # Tijani Reijnders
@@ -21,18 +21,27 @@ backlinks: [dribbler, manchester-city]
 | **Nation** | Netherlands |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 77 |
 | **Level** | 87 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Dutch midfielder who drives through the lines. Carries the ball beautifully, scores goals, improving rapidly. Milan's engine.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `77`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, First Touch, and Shielding.
@@ -63,13 +72,14 @@ Dutch midfielder who drives through the lines. Carries the ball beautifully, sco
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 60.4m |
+| Mid | EUR 71.0m |
+| Ceiling | EUR 85.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Dutch midfielder who drives through the lines. Carries the ball beautifully, sco
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

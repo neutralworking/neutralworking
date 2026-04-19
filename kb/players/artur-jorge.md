@@ -2,12 +2,12 @@
 title: Artur Jorge
 category: players
 tags: [CD, Al Shahaniya, Portugal, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Al Shahaniya. Archetype: Cover.
 person_id: 8746
-backlinks: [cover, al-shahaniya]
+backlinks: [cover, sweeper, al-shahaniya]
 ---
 
 # Artur Jorge
@@ -21,18 +21,26 @@ backlinks: [cover, al-shahaniya]
 | **Nation** | Portugal |
 | **Age** | 54 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 40 |
 | **Overall** | 38.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Artur Jorge is a no-nonsense, old-school defender who excels in the air, with his impressive jumping ability and heading technique making him a threat from set pieces, but his lack of technical ability and close-range defensive skills are major concerns, often leaving him exposed in one-on-one situations. His aggressive approach can sometimes put him at risk of picking up unnecessary bookings. Despite his physical prowess, Jorge's limited mental attributes and poor decision-making can lead to costly mistakes, particularly when dealing with pacey opponents who can exploit the half-spaces.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
+- Best-fit role is [[sweeper]] Sweeper.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Aggression, Jumping, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Artur Jorge is a no-nonsense, old-school defender who excels in the air, with hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Artur Jorge is a no-nonsense, old-school defender who excels in the air, with hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

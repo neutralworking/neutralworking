@@ -1,8 +1,8 @@
 ---
 title: Raków Częstochowa
 category: clubs
-tags: [Ekstraklasa, None]
-updated: 2026-04-14
+tags: [Ekstraklasa]
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Raków Częstochowa. 23 players in database.
@@ -11,8 +11,22 @@ summary: Raków Częstochowa. 23 players in database.
 # Raków Częstochowa
 
 **League**: Ekstraklasa  
-**Nation**: None  
+**Nation**: —  
 **Players in DB**: 23
+
+## Identity
+
+- Database coverage is deepest in CM (10), CF (4), and GK (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (5), Creator (4), and Powerhouse (3) across the current squad.
+- Average available overall grade sits at 64.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -35,9 +49,9 @@ summary: Raków Częstochowa. 23 players in database.
 | [[p-barath]] P. Baráth | CM | Destroyer-Dribbler | 63.0 |
 | [[s-svarnas]] S. Svarnas | CM | Powerhouse-Destroyer | 64.0 |
 | [[z-arsenic]] Z. Arsenić | CM | Destroyer-Powerhouse | 65.0 |
-| [[k-trelowski]] K. Trelowski | GK | GK | None |
-| [[o-zych]] O. Zych | GK | GK | None |
+| [[k-trelowski]] K. Trelowski | GK | GK | — |
+| [[o-zych]] O. Zych | GK | GK | — |
 | [[adriano-amorim]] Adriano Amorim | WM | Creator | 67.0 |
 | [[jean-carlos]] Jean Carlos | WM | Creator-Sprinter | 68.0 |
-| [[i-rondic]] I. Rondić | None | Target-Striker | None |
-| [[p-makuch]] P. Makuch | None | Creator-Sprinter | None |
+| I. Rondić | — | Target-Striker | — |
+| P. Makuch | — | Creator-Sprinter | — |

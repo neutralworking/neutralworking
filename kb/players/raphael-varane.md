@@ -2,12 +2,12 @@
 title: Raphael Varane
 category: players
 tags: [CD, Manchester United, France, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Manchester United. Archetype: Powerhouse-Cover.
 person_id: 16491
-backlinks: [powerhouse, manchester-united]
+backlinks: [powerhouse, colossus, manchester-united]
 ---
 
 # Raphael Varane
@@ -21,18 +21,26 @@ backlinks: [powerhouse, manchester-united]
 | **Nation** | France |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A centre-back whose physical decline and injury frequency have eroded what was once world-class positioning and aerobic dominance; he's still technically sound and reads the game well enough to organize a backline, but he no longer has the explosive power to dominate duels or recover from lapses. His distribution remains tidy and his leadership is genuine, but the harsh truth is that Varane is now a rotation option at a title-challenging side, not a cornerstone defender. For a club with genuine European ambitions, relying on him as a first-choice starter is accepting preventable vulnerability.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Interceptions, and Tackling.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A centre-back whose physical decline and injury frequency have eroded what was o
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 22.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ A centre-back whose physical decline and injury frequency have eroded what was o
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

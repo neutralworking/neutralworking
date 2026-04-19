@@ -2,12 +2,12 @@
 title: Ferran Jutglà
 category: players
 tags: [CF, Celta Vigo, Spain, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Celta Vigo. Archetype: Striker.
 person_id: 11010
-backlinks: [striker, celta-vigo]
+backlinks: [striker, seconda-punta, celta-vigo]
 ---
 
 # Ferran Jutglà
@@ -21,18 +21,27 @@ backlinks: [striker, celta-vigo]
 | **Nation** | Spain |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 75 |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Willing runner in the press and competent with the ball at his feet, but ultimately a squad striker without the clinical edge or movement patterns to be a primary option. Fine for 20-minute cameos; doesn't have the instinct or physicality to impose himself as a starter in La Liga's better sides.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `75`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `75`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -63,13 +72,14 @@ Willing runner in the press and competent with the ball at his feet, but ultimat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Willing runner in the press and competent with the ball at his feet, but ultimat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

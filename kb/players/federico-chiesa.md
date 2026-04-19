@@ -2,12 +2,12 @@
 title: Federico Chiesa
 category: players
 tags: [WF, Liverpool, Italy, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Liverpool. Archetype: Creator-Passer.
 person_id: 10959
-backlinks: [creator, liverpool]
+backlinks: [creator, wide-playmaker, liverpool]
 ---
 
 # Federico Chiesa
@@ -21,18 +21,27 @@ backlinks: [creator, liverpool]
 | **Nation** | Italy |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 81.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 When fit, an explosive winger who scores big goals. The problem is staying fit. Pace, directness, and finishing ability are all there — availability isn't.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `80`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `80`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ When fit, an explosive winger who scores big goals. The problem is staying fit. 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ When fit, an explosive winger who scores big goals. The problem is staying fit. 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -117,6 +127,6 @@ When fit, an explosive winger who scores big goals. The problem is staying fit. 
 ---
 Italy	AM / RW / LW	25 October 1997 (age 25)	2020	2025	Italy Fiorentina	€40M[28]	94	22
 
-Hardworking mazy dribbler. 
+Hardworking mazy dribbler.
 
 </details>

@@ -2,12 +2,12 @@
 title: Nelson Weiper
 category: players
 tags: [CF, Mainz 05, Germany, Sprinter-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Mainz 05. Archetype: Sprinter-Passer.
 person_id: 15602
-backlinks: [sprinter, mainz-05]
+backlinks: [sprinter, prima-punta, mainz-05]
 ---
 
 # Nelson Weiper
@@ -21,18 +21,27 @@ backlinks: [sprinter, mainz-05]
 | **Nation** | Germany |
 | **Age** | 21 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Teenage forward still assembling his senior game, showing promise in movement and willingness to press. Far too early to assess whether he has top-level finishing or spatial intelligence; currently a prospect getting developmental minutes.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `79`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `79`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Pace, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Teenage forward still assembling his senior game, showing promise in movement an
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Teenage forward still assembling his senior game, showing promise in movement an
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

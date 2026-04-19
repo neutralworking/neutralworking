@@ -2,12 +2,12 @@
 title: Maximiliano Caufriez
 category: players
 tags: [CD, Clermont Foot, Belgium, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Clermont Foot. Archetype: Destroyer-Powerhouse.
 person_id: 14953
-backlinks: [destroyer, clermont-foot]
+backlinks: [destroyer, colossus, clermont-foot]
 ---
 
 # Maximiliano Caufriez
@@ -21,18 +21,26 @@ backlinks: [destroyer, clermont-foot]
 | **Nation** | Belgium |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Belgian centre-back who operates with reasonable composure in possession and has the frame to deal with physical duels, though he's not a particularly quick reader of the game when pressed in transition. He prefers to stay compact and let the shape hold rather than make aggressive covering runs, which works fine in a structured medium-block but leaves him exposed against sides that play with real tempo. A decent squad defender for Ligue 1, but limited by his lack of recovery pace and occasional immobility.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Interceptions, and Marking.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A Belgian centre-back who operates with reasonable composure in possession and h
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 29.0m |
+| Ceiling | EUR 34.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ A Belgian centre-back who operates with reasonable composure in possession and h
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

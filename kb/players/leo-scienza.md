@@ -2,12 +2,12 @@
 title: Léo Scienza
 category: players
 tags: [WF, Heidenheim, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Heidenheim. Archetype: Creator-Sprinter.
 person_id: 20236
-backlinks: [creator, heidenheim]
+backlinks: [creator, wide-playmaker, heidenheim]
 ---
 
 # Léo Scienza
@@ -18,21 +18,30 @@ backlinks: [creator, heidenheim]
 |---|---|
 | **Position** | WF |
 | **Club** | Heidenheim |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 78 |
 | **Level** | 76 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Léo Scienza's Magician archetype and Inverted Winger blueprint suggest a player who can beat opponents with his balance and acceleration, but his weaknesses in marking and tackling are concerning. As an Inventor, Scienza's best role would be in a system that allows him creative freedom, and his tactical lineage is reminiscent of traditional wingers who hug the touchline. For a club seeking a direct, flamboyant player who can deliver set pieces, Scienza may be a good fit, but his defensive liabilities need to be carefully considered.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `78`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
@@ -63,13 +72,14 @@ Léo Scienza's Magician archetype and Inverted Winger blueprint suggest a player
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Léo Scienza's Magician archetype and Inverted Winger blueprint suggest a player
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Alidu Seidu
 category: players
 tags: [WD, Rennes, Ghana, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Rennes. Archetype: Cover-Dribbler.
 person_id: 8265
-backlinks: [cover, rennes]
+backlinks: [cover, corner-back, rennes]
 ---
 
 # Alidu Seidu
@@ -21,18 +21,27 @@ backlinks: [cover, rennes]
 | **Nation** | Ghana |
 | **Age** | 25 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pacy, aggressive left-back who commits defensively but can be reckless with positioning. Offers vertical threat on the flank but needs tighter discipline; mid-table starter material without elite technical security.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Reactions, and First Touch.
@@ -67,13 +76,14 @@ Pacy, aggressive left-back who commits defensively but can be reckless with posi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Pacy, aggressive left-back who commits defensively but can be reckless with posi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

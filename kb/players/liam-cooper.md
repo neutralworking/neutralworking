@@ -2,12 +2,12 @@
 title: Liam Cooper
 category: players
 tags: [CD, Sheffield Wednesday, Scotland, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Sheffield Wednesday. Archetype: Destroyer.
 person_id: 13918
-backlinks: [destroyer, sheffield-wednesday]
+backlinks: [destroyer, colossus, sheffield-wednesday]
 ---
 
 # Liam Cooper
@@ -21,18 +21,27 @@ backlinks: [destroyer, sheffield-wednesday]
 | **Nation** | Scotland |
 | **Age** | 34 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Club captain and elder statesman whose reading of the game and set-piece positioning remain sharp, but his legs have gone and he can't keep pace with modern strikers making diagonal runs. He's best deployed against static, physical opponents, but mobility-demanding fixtures expose him—he's a squad player now, not a consistent starter.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `73`.
+- Best-fit role is [[colossus]] Colossus with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Heading, Acceleration, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -66,13 +75,14 @@ Club captain and elder statesman whose reading of the game and set-piece positio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 1.7m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Club captain and elder statesman whose reading of the game and set-piece positio
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

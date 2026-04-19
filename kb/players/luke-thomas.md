@@ -2,12 +2,12 @@
 title: Luke Thomas
 category: players
 tags: [WD, Leicester City, England, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Leicester City. Archetype: Sprinter.
 person_id: 14247
-backlinks: [sprinter, leicester-city]
+backlinks: [sprinter, wing-back, leicester-city]
 ---
 
 # Luke Thomas
@@ -21,18 +21,27 @@ backlinks: [sprinter, leicester-city]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[wing-back]] Wing-back |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Left-back with reasonable attacking thrust and the pace to recover defensively; he understands modern full-back principles and can drive down the line with purpose. His positioning against inverted wingers can be loose and he's occasionally caught out on the turn by quicker opponents. He's a dependable rotation left-back who would benefit from consistency but lacks the technical range to be a creators from deep.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back` with model support score `78`.
+- Best-fit role is [[wing-back]] Wing-back with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Left-back with reasonable attacking thrust and the pace to recover defensively; 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,17 +108,16 @@ Left-back with reasonable attacking thrust and the pace to recover defensively; 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ￼
 

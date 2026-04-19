@@ -2,11 +2,12 @@
 title: Patrik Mercado
 category: players
 tags: [CM, Ecuador]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 28121
+backlinks: [playmaker]
 ---
 
 # Patrik Mercado
@@ -16,22 +17,31 @@ person_id: 28121
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ecuador |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 64 |
+| **Level** | — |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Patrik Mercado projects primarily as a CM with a `None` lean. The strongest database support comes from Creativity, Intensity, and Threat.
+Patrik Mercado projects primarily as a CM with a `—` lean. The strongest database support comes from Creativity, Intensity, and Threat.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `64`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `64`.
 - Most bankable strengths show up in Creativity, Intensity, and Threat.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -65,8 +75,9 @@ Patrik Mercado projects primarily as a CM with a `None` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -77,4 +88,4 @@ Patrik Mercado projects primarily as a CM with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

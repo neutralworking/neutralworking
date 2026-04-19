@@ -2,12 +2,12 @@
 title: Otávio
 category: players
 tags: [WM, Paris FC, Portugal, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Paris FC. Archetype: Powerhouse-Destroyer.
 person_id: 16012
-backlinks: [powerhouse, paris-fc]
+backlinks: [powerhouse, winger, paris-fc]
 ---
 
 # Otávio
@@ -21,18 +21,27 @@ backlinks: [powerhouse, paris-fc]
 | **Nation** | Portugal |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 46 |
 | **Level** | 86 |
 | **Overall** | 54.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Portuguese left winger operating in the Primeira Liga who shows decent technical foundation and willingness to take on a defender in wide areas. His ball progression is acceptable for a lower-mid-table club, and he understands how to create space in the half-space with intelligent movement off the ball. However, he lacks the explosive athleticism and consistency required for a sustained run at a European side—his decision-making in the final third is pedestrian, and defensively he's a liability in any pressing structure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `46`.
+- Best-fit role is [[winger]] Winger with model support score `46`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WM` base.
 - Most bankable strengths show up in Balance, First Touch, and Reactions.
 
@@ -58,13 +67,14 @@ Portuguese left winger operating in the Primeira Liga who shows decent technical
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 11.4m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Portuguese left winger operating in the Primeira Liga who shows decent technical
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: Sergey Pinyaev
 category: players
 tags: [WF, Lokomotiv Moscow, Russia]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at Lokomotiv Moscow. Archetype: None.
+summary: WF at Lokomotiv Moscow. Archetype: —.
 person_id: 17328
 backlinks: [lokomotiv-moscow]
 ---
@@ -20,26 +20,19 @@ backlinks: [lokomotiv-moscow]
 | **Club** | Lokomotiv Moscow |
 | **Nation** | Russia |
 | **Age** | 21 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
-
 
 ClubKrylya Sovetov Samara
 
 PositionWinger
 
 Born2 November 2004
-
-
-
-
-
-
 
 ********
 
@@ -50,6 +43,12 @@ Pinyaev had been considered a future star of Russian football even before he had
   
 **October 2023 update** At 18, he maintains the status of one of Russia’s brightest talents. Made his debut for the national team in friendlies and moved to Lokomotiv Moscow amid talks of an inevitable departure for western Europe.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -59,13 +58,14 @@ Pinyaev had been considered a future star of Russian football even before he had
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,27 +85,20 @@ Pinyaev had been considered a future star of Russian football even before he had
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 ClubKrylya Sovetov Samara
 
 PositionWinger
 
 Born2 November 2004
-
-
-
-
-
-
 
 ********
 
@@ -115,6 +108,5 @@ Pinyaev had been considered a future star of Russian football even before he had
 **September 2022 update** Keeps the status of being the brightest of Russian talents. He registered two goals and two assists coming off the bench last season and started the first game of the new season but was unlucky to be diagnosed with a collapsed lung. After being out for nearly two months he scored on his first start on 17 September.  
   
 **October 2023 update** At 18, he maintains the status of one of Russia’s brightest talents. Made his debut for the national team in friendlies and moved to Lokomotiv Moscow amid talks of an inevitable departure for western Europe.
-
 
 </details>

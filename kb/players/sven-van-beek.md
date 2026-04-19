@@ -2,12 +2,12 @@
 title: Sven van Beek
 category: players
 tags: [CD, Al Shahaniya, Netherlands]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Al Shahaniya. Archetype: None.
+summary: CD at Al Shahaniya. Archetype: —.
 person_id: 17730
-backlinks: [al-shahaniya]
+backlinks: [sweeper, al-shahaniya]
 ---
 
 # Sven van Beek
@@ -20,19 +20,27 @@ backlinks: [al-shahaniya]
 | **Club** | Al Shahaniya |
 | **Nation** | Netherlands |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Level** | — |
 | **Overall** | 19.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Sven van Beek projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Discipline, and Pressing.
+Sven van Beek projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Discipline, and Pressing.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
+- Best-fit role is [[sweeper]] Sweeper.
 - Most bankable strengths show up in Skills, Discipline, and Pressing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -63,11 +71,12 @@ Sven van Beek projects primarily as a CD with a `None` lean. The strongest datab
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,5 +96,5 @@ Sven van Beek projects primarily as a CD with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

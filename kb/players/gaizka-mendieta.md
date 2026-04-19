@@ -2,12 +2,12 @@
 title: Gaizka Mendieta
 category: players
 tags: [CM, Spain, Engine-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at None. Archetype: Engine-Striker.
+summary: CM at —. Archetype: Engine-Striker.
 person_id: 11257
-backlinks: [engine]
+backlinks: [engine, mezzala]
 ---
 
 # Gaizka Mendieta
@@ -17,22 +17,31 @@ backlinks: [engine]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 52 |
 | **Archetype** | [[engine]] Engine-Striker |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 90 |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `90`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `90`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -47,10 +56,11 @@ CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +71,8 @@ CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -73,6 +83,6 @@ CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5
 {}
 ---
 
-CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5			
+CM	Enthusiastic	Playmaker	Metronome	Valencia		A	84.5
 
 </details>

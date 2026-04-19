@@ -2,12 +2,12 @@
 title: Kieran Tierney
 category: players
 tags: [WD, Celtic, Scotland, Powerhouse-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Celtic. Archetype: Powerhouse-Passer.
 person_id: 13535
-backlinks: [powerhouse, celtic]
+backlinks: [powerhouse, corner-back, celtic]
 ---
 
 # Kieran Tierney
@@ -21,9 +21,11 @@ backlinks: [powerhouse, celtic]
 | **Nation** | Scotland |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Passer |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -31,9 +33,16 @@ backlinks: [powerhouse, celtic]
 SCO	LB / LWB (L)	5 June 1997 (age 26)	1.78 m[233]
 (5 ft 10 in)	2019	Scotland Celtic	£25.0m
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Long Range, Reactions, and Balance.
@@ -68,13 +77,14 @@ SCO	LB / LWB (L)	5 June 1997 (age 26)	1.78 m[233]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +112,11 @@ SCO	LB / LWB (L)	5 June 1997 (age 26)	1.78 m[233]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

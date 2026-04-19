@@ -2,10 +2,10 @@
 title: Lucy Bronze
 category: players
 tags: [WD, England]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at None. Archetype: None.
+summary: WD at —. Archetype: —.
 person_id: 14117
 ---
 
@@ -16,14 +16,25 @@ person_id: 14117
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | England |
 | **Age** | 34 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 70 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Lucy Bronze is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -40,10 +51,11 @@ person_id: 14117
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -63,8 +75,8 @@ person_id: 14117
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -76,7 +88,7 @@ person_id: 14117
 
 > Right back is not known for being the most glamorous and desirable position on the pitch. You have to be prepared to anticipate when to jump up and join an offensive opportunity, and you have to be set to sprint back when the opposition is in transition. [...] Bronze makes playing the position look easy.
 
-– Harjeet Johal, _Equalizer_, April 2019[[56]](https://en.wikipedia.org/wiki/Lucy_Bronze#cite_note-:19-57)
+– Harjeet Johal, _Equalizer_, April 2019[56](https://en.wikipedia.org/wiki/Lucy_Bronze#cite_note-:19-57)
 
 A tactically versatile right-back, often deployed as an inverted full-back. Bronze has been compared to players of her position in Pep Guardiola's Bayern Munich, particularly Philipp Lahm.
 

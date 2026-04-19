@@ -2,12 +2,12 @@
 title: Gavin Bazunu
 category: players
 tags: [GK, Southampton, Ireland, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Southampton. Archetype: GK.
 person_id: 11289
-backlinks: [gk, southampton]
+backlinks: [gk, sweeper-keeper, southampton]
 ---
 
 # Gavin Bazunu
@@ -21,18 +21,26 @@ backlinks: [gk, southampton]
 | **Nation** | Ireland |
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 75 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young keeper with genuine shot-stopping ability and footwork for the modern game, but hasn't yet proven consistency or handling under intense PL pressure. Clear potential, but still developing; feels like a long-term bet Southampton can't afford while fighting relegation.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Jumping, and Acceleration.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ Young keeper with genuine shot-stopping ability and footwork for the modern game
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 6.0m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 16.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ Young keeper with genuine shot-stopping ability and footwork for the modern game
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

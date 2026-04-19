@@ -2,12 +2,12 @@
 title: Jorge Morel
 category: players
 tags: [CM, Cerro Porteño, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Cerro Porteño. Archetype: None.
+summary: CM at Cerro Porteño. Archetype: —.
 person_id: 30784
-backlinks: [cerro-porteno]
+backlinks: [tuttocampista, cerro-porteno]
 ---
 
 # Jorge Morel
@@ -20,19 +20,28 @@ backlinks: [cerro-porteno]
 | **Club** | Cerro Porteño |
 | **Nation** | Paraguay |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 33 |
+| **Level** | — |
 | **Overall** | 33.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Jorge Morel projects primarily as a CM with a `None` lean. The strongest database support comes from Positioning, Close Range, and Communication.
+Jorge Morel projects primarily as a CM with a `—` lean. The strongest database support comes from Positioning, Close Range, and Communication.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `33`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `33`.
 - Most bankable strengths show up in Positioning, Close Range, and Communication.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -62,13 +71,14 @@ Jorge Morel projects primarily as a CM with a `None` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 4.0m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,5 +93,5 @@ Jorge Morel projects primarily as a CM with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

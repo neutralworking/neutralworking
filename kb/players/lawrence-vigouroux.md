@@ -2,7 +2,7 @@
 title: Lawrence Vigouroux
 category: players
 tags: [GK, Swansea City, Chile, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Swansea City. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, swansea-city]
 | **Age** | 32 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A journeyman goalkeeper brought in on short-term deals, Vigouroux has the basic shot-stopping competence you'd expect of a backup custodian at this level. His distribution is functional but uninspired — he won't progress play through the thirds with any real conviction. At 32, he's a classic third-choice option: serviceable for an injury crisis, but not someone who'll genuinely compete for the shirt against serious competition.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -60,13 +67,14 @@ A journeyman goalkeeper brought in on short-term deals, Vigouroux has the basic 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +95,6 @@ A journeyman goalkeeper brought in on short-term deals, Vigouroux has the basic 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

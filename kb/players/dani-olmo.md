@@ -2,12 +2,12 @@
 title: Dani Olmo
 category: players
 tags: [AM, Barcelona, Spain, Dribbler-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Barcelona. Archetype: Dribbler-Cover.
 person_id: 9887
-backlinks: [dribbler, barcelona]
+backlinks: [dribbler, enganche, barcelona]
 ---
 
 # Dani Olmo
@@ -21,6 +21,8 @@ backlinks: [dribbler, barcelona]
 | **Nation** | Spain |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler-Cover |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 83 |
 | **Level** | 87 |
 | **Overall** | 79.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [dribbler, barcelona]
 
 Attacking midfielder with exceptional positional intelligence and the ability to operate in half-spaces with devastating effect. His left foot is a genuine threat from outside the box, and he'll make runs between the lines that pull defences apart. He can be caught defensively in transition and isn't a ball-carrier in the Pedri mould, but his finishing and creative sharpness make him world-class in the final third.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `83`.
+- Best-fit role is [[enganche]] Enganche with model support score `83`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Set Piece Specialist.
 - Most bankable strengths show up in Balance, Reactions, and Shielding.
@@ -67,13 +76,14 @@ Attacking midfielder with exceptional positional intelligence and the ability to
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 51.9m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Attacking midfielder with exceptional positional intelligence and the ability to
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 15 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 15 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

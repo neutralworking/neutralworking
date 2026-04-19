@@ -2,12 +2,12 @@
 title: Luca Toni
 category: players
 tags: [CF, Verona, Italy, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Verona. Archetype: Striker.
 person_id: 4357
-backlinks: [striker, verona]
+backlinks: [striker, target-forward, verona]
 ---
 
 # Luca Toni
@@ -21,9 +21,10 @@ backlinks: [striker, verona]
 | **Nation** | Italy |
 | **Age** | 48 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 44 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -32,9 +33,16 @@ CF		Target	Target Man		ITA	B	75.0	A prolific goal-scorer, Toni is a traditional 
  At international level, he has represented the Italian national team on 47 occasions, scoring 16 goals. He made his international debut in 2004 and took part at the 2006 FIFA World Cup, UEFA Euro 2008, and the 2009 FIFA Confederations Cup with Italy; he most notably contributed to Italy's 2006 World Cup victory, as he scored twice and was elected to the tournament's All-star team.
  A prolific goalscorer, Toni has scored over 300 goals throughout his career, and is one of the top-five highest scoring Italians in all competitions.[2] In addition to the team medals he has collected, he has also won several individual honours: during his first spell with Fiorentina, he won the Capocannoniere (Serie A top scorer) award during the 2005–06 season, in which he scored 31 goals (the most goals in a Serie A season since 1958–59), which also earned him the European Golden Shoe, becoming the first Italian player ever to win the award; he was also the league's joint top scorer in the 2014–15 Serie A season, in which he become the oldest player to win the award at the age of 38, with 22 goals. Toni also finished as top scorer in the 2007–08 Bundesliga, with 24 goals, and in the 2007–08 UEFA Cup, with 10 goals."
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -64,10 +72,11 @@ CF		Target	Target Man		ITA	B	75.0	A prolific goal-scorer, Toni is a traditional 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,11 +100,11 @@ CF		Target	Target Man		ITA	B	75.0	A prolific goal-scorer, Toni is a traditional 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

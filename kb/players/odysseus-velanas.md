@@ -2,12 +2,12 @@
 title: Odysseus Velanas
 category: players
 tags: [CM, PEC Zwolle, Netherlands, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at PEC Zwolle. Archetype: Sprinter.
 person_id: 15831
-backlinks: [sprinter, pec-zwolle]
+backlinks: [sprinter, mezzala, pec-zwolle]
 ---
 
 # Odysseus Velanas
@@ -21,18 +21,26 @@ backlinks: [sprinter, pec-zwolle]
 | **Nation** | Netherlands |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[mezzala]] Mezzala |
 | **Level** | 79 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Velanas is a Metodista who excels in his ability to control the tempo of the game with his vision, pace, and shielding skills. However, his weaknesses in duels and blocking can be a concern in more physical matches. As a Connector archetype, Velanas's best role is one that leverages his technical and tactical skills to dictate the flow of the game, and his strong personality suggests he can take charge on the pitch. Historically, players in this role have thrived in systems that emphasize possession and progressive carries, and Velanas is well-suited to such a system. From a squad-building perspective, a team looking to add a deep-lying playmaker with a strong passing range would benefit from Velanas's services, but may need to address his limitations in terms of defensive responsibilities.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala`.
+- Best-fit role is [[mezzala]] Mezzala.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Velanas is a Metodista who excels in his ability to control the tempo of the gam
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ Velanas is a Metodista who excels in his ability to control the tempo of the gam
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

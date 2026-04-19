@@ -2,12 +2,12 @@
 title: Artem Dovbyk
 category: players
 tags: [CF, AS Roma, Ukraine, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at AS Roma. Archetype: Striker-Creator.
 person_id: 8724
-backlinks: [striker, as-roma]
+backlinks: [striker, falso-nove, as-roma]
 ---
 
 # Artem Dovbyk
@@ -21,18 +21,27 @@ backlinks: [striker, as-roma]
 | **Nation** | Ukraine |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 As a Complete Forward, Dovbyk excels in the air and has a strong technical foundation, but his tactical awareness is a notable weakness, making him more suited to a side that dominates possession and can mask his deficiencies in this area, with his availability and durability making him a valuable asset for a mid-table club looking for a reliable goal-scorer.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove` with model support score `79`.
+- Best-fit role is [[falso-nove]] Falso Nove with model support score `79`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Close Range, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ As a Complete Forward, Dovbyk excels in the air and has a strong technical found
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,18 +105,18 @@ As a Complete Forward, Dovbyk excels in the air and has a strong technical found
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-![[R - RSG/main 1/assets/Pasted image 20231212004454.png]]
+!R - RSG/main 1/assets/Pasted image 20231212004454.png
 
 The Ukrainian forward returned home to SK Dnipro-1 from Midtjylland in 2020 and found another gear, scoring 54 goals in 86 appearances – including 32 last season as Dnipro-1 finished second in the league. Dovbyk also has a knack for big international goals, scoring late on against Scotland in a World Cup playoff and Sweden at Euro 2020. Everton and Forest have shown interest before Girona paid a club-record €7.7m (£6.62m) to sign him. Part of Manchester City’s CFG operation, the ambitious club have eyes on Europe. Dovbyk made an instant impact with an equaliser at Real Sociedad. The cut-price fee does have a couple of caveats – Dnipro-1 retain a percentage of his rights and Midtjylland a cut of any future sale.
 

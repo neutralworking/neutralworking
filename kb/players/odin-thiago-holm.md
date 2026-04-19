@@ -2,7 +2,7 @@
 title: Odin Thiago Holm
 category: players
 tags: [CM, LAFC, Norway, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at LAFC. Archetype: Sprinter.
@@ -22,12 +22,11 @@ backlinks: [sprinter, lafc]
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubVålerenga
 
@@ -43,6 +42,12 @@ Back in 2018, when Manchester United were following Erling Haaland’s progress,
   
 **October 2023 update** A move to Italy did not happen but the young Norwegian joined Celtic in July for a fee of around £2.8m. “Celtic is a massive club, perhaps bigger than many realise," he said. "I am looking forward to playing in front of 60-65,000 fans on a weekly basis, the derby against Rangers and not least the Champions League in the autumn.”
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -76,13 +81,14 @@ Back in 2018, when Manchester United were following Erling Haaland’s progress,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,17 +111,16 @@ Back in 2018, when Manchester United were following Erling Haaland’s progress,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubVålerenga
 
@@ -130,6 +135,5 @@ Back in 2018, when Manchester United were following Erling Haaland’s progress,
 **September 2022 update** Has become more consistent and is regarded by his manager, Dag-Eilev Fagermo, as the best player in Eliteserien. There were reports of a possible move abroad this summer but it did not materialise. “There are a lot of Norwegian players in Italy,” he told Dagbladet. “I think playing there could suit my game.”  
   
 **October 2023 update** A move to Italy did not happen but the young Norwegian joined Celtic in July for a fee of around £2.8m. “Celtic is a massive club, perhaps bigger than many realise," he said. "I am looking forward to playing in front of 60-65,000 fans on a weekly basis, the derby against Rangers and not least the Champions League in the autumn.”
-
 
 </details>

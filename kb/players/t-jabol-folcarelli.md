@@ -2,12 +2,12 @@
 title: T. Jabol-Folcarelli
 category: players
 tags: [WM, Trabzonspor, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Trabzonspor. Archetype: Creator-Dribbler.
 person_id: 20689
-backlinks: [creator, trabzonspor]
+backlinks: [creator, wide-playmaker, trabzonspor]
 ---
 
 # T. Jabol-Folcarelli
@@ -18,21 +18,30 @@ backlinks: [creator, trabzonspor]
 |---|---|
 | **Position** | WM |
 | **Club** | Trabzonspor |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 T. Jabol-Folcarelli is a technically gifted winger who excels at delivering crosses and making progressive carries, but his limited tactical awareness and lack of blocking ability may hinder his ability to cope with intense pressure. As a Colossus archetype, he is well-suited to a Winger role where he can utilize his technical skills to create scoring opportunities. Historically, his style of play is reminiscent of traditional wingers who rely on pace and trickery to beat opponents, and he would thrive in a system that allows him to make inverted runs and exploit half-spaces. From a squad-building perspective, Jabol-Folcarelli's market position is relatively high due to his technical ability, making him a target for top-tier clubs looking to add width and creativity to their attack, but his limited tactical awareness may be a risk factor for teams that rely on a strong defensive structure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `74`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Most bankable strengths show up in Stamina, First Touch, and Jumping.
 
@@ -58,13 +67,14 @@ T. Jabol-Folcarelli is a technically gifted winger who excels at delivering cros
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,7 +98,7 @@ T. Jabol-Folcarelli is a technically gifted winger who excels at delivering cros
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

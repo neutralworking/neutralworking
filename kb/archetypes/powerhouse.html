@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -179,6 +61,41 @@ article strong { color: #fff; font-weight: 500; }
 <blockquote>
 <p>Physical dominance through strength and aggression. Wins duels, shields the ball, and bullies opponents off possession.</p>
 </blockquote>
+<h2 id="tactical-habitat">Tactical Habitat</h2>
+<p>Powerhouses fit environments that demand:</p>
+<ul>
+<li>duel dominance</li>
+<li>contact security in both boxes</li>
+<li>protection in direct or second-ball matches</li>
+<li>physical resistance in unstable phases</li>
+</ul>
+<h2 id="what-they-solve">What They Solve</h2>
+<p>A powerhouse gives a team:</p>
+<ul>
+<li>contact superiority</li>
+<li>resilience under pressure</li>
+<li>physical leverage in transitions and set pieces</li>
+<li>the ability to impose rather than simply survive</li>
+</ul>
+<h2 id="scouting-indicators">Scouting Indicators</h2>
+<ul>
+<li>wins body battles consistently</li>
+<li>resists contact without losing action quality</li>
+<li>imposes themselves in both defensive and attacking duels</li>
+<li>sustains physical dominance over the match</li>
+</ul>
+<h2 id="common-limitations">Common Limitations</h2>
+<ul>
+<li>physical edge can flatter players with limited tactical feel</li>
+<li>some powerhouses dominate contact but not space</li>
+<li>value depends heavily on league and game-state context</li>
+</ul>
+<h2 id="related-concepts">Related Concepts</h2>
+<ul>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/compactness.md">Compactness</a></li>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/counterpressing-recovery.md">Counterpressing Recovery</a></li>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/box-entry.md">Box Entry</a></li>
+</ul>
 <h2 id="top-exemplars">Top Exemplars</h2>
 <table>
 <thead>
@@ -203,9 +120,9 @@ article strong { color: #fff; font-weight: 500; }
 <td>81.0</td>
 </tr>
 <tr>
-<td><a href="../players/vinicius-tobias.html">vinicius-tobias</a> Vinicius Tobias</td>
-<td>WD</td>
-<td>Shakhtar Donetsk</td>
+<td><a href="../players/louis-reed.html">louis-reed</a> Louis Reed</td>
+<td>CM</td>
+<td>Sheffield United</td>
 <td>81.0</td>
 </tr>
 <tr>
@@ -215,27 +132,21 @@ article strong { color: #fff; font-weight: 500; }
 <td>81.0</td>
 </tr>
 <tr>
-<td><a href="../players/louis-reed.html">louis-reed</a> Louis Reed</td>
-<td>CM</td>
-<td>Sheffield United</td>
+<td><a href="../players/vinicius-tobias.html">vinicius-tobias</a> Vinicius Tobias</td>
+<td>WD</td>
+<td>Shakhtar Donetsk</td>
 <td>81.0</td>
 </tr>
 <tr>
-<td><a href="../players/michele-di-gregorio.html">michele-di-gregorio</a> Michele Di Gregorio</td>
-<td>GK</td>
-<td>Juventus</td>
-<td>80.0</td>
-</tr>
-<tr>
-<td><a href="../players/emerson-royal.html">emerson-royal</a> Emerson Royal</td>
-<td>WD</td>
-<td>Flamengo</td>
-<td>80.0</td>
-</tr>
-<tr>
-<td><a href="../players/fabio-gonzalez.html">fabio-gonzalez</a> Fabio González</td>
+<td><a href="../players/erdal-rakip.html">erdal-rakip</a> Erdal Rakip</td>
 <td>CM</td>
-<td>Las Palmas</td>
+<td>Antalyaspor</td>
+<td>80.0</td>
+</tr>
+<tr>
+<td><a href="../players/joao-paulo.html">joao-paulo</a> João Paulo</td>
+<td>GK</td>
+<td>Seattle Sounders</td>
 <td>80.0</td>
 </tr>
 <tr>
@@ -245,9 +156,15 @@ article strong { color: #fff; font-weight: 500; }
 <td>80.0</td>
 </tr>
 <tr>
-<td><a href="../players/gedson-fernandes.html">gedson-fernandes</a> Gedson Fernandes</td>
+<td><a href="../players/fabio-gonzalez.html">fabio-gonzalez</a> Fabio González</td>
 <td>CM</td>
-<td>Spartak Moscow</td>
+<td>Las Palmas</td>
+<td>80.0</td>
+</tr>
+<tr>
+<td><a href="../players/emerson-royal.html">emerson-royal</a> Emerson Royal</td>
+<td>WD</td>
+<td>Flamengo</td>
 <td>80.0</td>
 </tr>
 </tbody>

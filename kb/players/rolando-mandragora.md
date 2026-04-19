@@ -2,12 +2,12 @@
 title: Rolando Mandragora
 category: players
 tags: [CM, Fiorentina, Italy, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Fiorentina. Archetype: Creator-Passer.
 person_id: 16788
-backlinks: [creator, fiorentina]
+backlinks: [creator, playmaker, fiorentina]
 ---
 
 # Rolando Mandragora
@@ -21,18 +21,27 @@ backlinks: [creator, fiorentina]
 | **Nation** | Italy |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 68 |
 | **Level** | 86 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A metronomic Italian midfielder who processes the game at a measured tempo and excels at breaking lines with forward passes from deep — he's the kind of player who turns Fiorentina's possession into something purposeful rather than circular. His range and positioning sense are genuinely good, but he lacks the athleticism to cover ground quickly when press resistance fails, which means Fiorentina need runners ahead of him to make his distributions stick. At 28, he's a reliable Serie A starter, nothing more, nothing less — serviceable for a club fighting for European places but not a player who elevates those around him.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `68`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `68`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Pass Range, and Physical.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A metronomic Italian midfielder who processes the game at a measured tempo and e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,17 +114,17 @@ A metronomic Italian midfielder who processes the game at a measured tempo and e
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Italy	CM / DM	29 June 1997 (age 26)	Italy Juventus	2022	2026	29	2	
+Italy	CM / DM	29 June 1997 (age 26)	Italy Juventus	2022	2026	29	2
 
 </details>

@@ -2,12 +2,12 @@
 title: Mory Diaw
 category: players
 tags: [GK, Le Havre, Senegal, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Le Havre. Archetype: Sprinter.
 person_id: 15393
-backlinks: [sprinter, le-havre]
+backlinks: [sprinter, distributor, le-havre]
 ---
 
 # Mory Diaw
@@ -21,18 +21,26 @@ backlinks: [sprinter, le-havre]
 | **Nation** | Senegal |
 | **Age** | 32 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 84 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced 'keeper with a calm demeanour and reasonable shot-stopping, though his distribution is pedestrian and his footwork when pressed lacks conviction. Functional for a League One or lower-Ligue 1 side, but his passing range and command of space are below modern expectations.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Sprinter` behaviour from a `GK` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -63,13 +71,14 @@ Experienced 'keeper with a calm demeanour and reasonable shot-stopping, though h
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ Experienced 'keeper with a calm demeanour and reasonable shot-stopping, though h
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

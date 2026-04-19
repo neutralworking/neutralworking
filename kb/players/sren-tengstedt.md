@@ -2,12 +2,12 @@
 title: Søren Tengstedt
 category: players
 tags: [CF, Go Ahead Eagles, Denmark, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Go Ahead Eagles. Archetype: Dribbler.
 person_id: 17543
-backlinks: [dribbler, go-ahead-eagles]
+backlinks: [dribbler, spearhead, go-ahead-eagles]
 ---
 
 # Søren Tengstedt
@@ -21,18 +21,26 @@ backlinks: [dribbler, go-ahead-eagles]
 | **Nation** | Denmark |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[spearhead]] Spearhead |
 | **Level** | 75 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Søren Tengstedt projects primarily as a CF with a `Dribbler` lean. The strongest database support comes from Acceleration, Jumping, and Physical.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Dribbler` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Søren Tengstedt projects primarily as a CF with a `Dribbler` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,6 +99,6 @@ Søren Tengstedt projects primarily as a CF with a `Dribbler` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

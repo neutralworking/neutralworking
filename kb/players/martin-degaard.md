@@ -2,12 +2,12 @@
 title: Martin Ã˜degaard
 category: players
 tags: [AM, Arsenal, Norway, Dribbler-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Arsenal. Archetype: Dribbler-Powerhouse.
 person_id: 19159
-backlinks: [dribbler, arsenal]
+backlinks: [dribbler, mediapunta, arsenal]
 ---
 
 # Martin Ã˜degaard
@@ -21,6 +21,8 @@ backlinks: [dribbler, arsenal]
 | **Nation** | Norway |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler-Powerhouse |
+| **Best Role** | [[mediapunta]] Mediapunta |
+| **Role Score** | 89 |
 | **Level** | 89 |
 | **Overall** | 77.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [dribbler, arsenal]
 
 Arsenal's talisman and arguably the Premier League's most complete number ten â€” he's extraordinarily progressive with the ball, capable of elite dribbling or the pass that opens a defence entirely, and his intelligence off the ball is genuinely exceptional. He's both the playmaker and occasional goalscorer depending on what the phase demands. The only limitation is that he can occasionally be dispossessed in crowded areas and his goal output doesn't always match his underlying quality, but he's a legitimate world-class operator.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mediapunta` with model support score `89`.
+- Best-fit role is [[mediapunta]] Mediapunta with model support score `89`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in First Touch, Pass Range, and Reactions.
@@ -67,13 +76,14 @@ Arsenal's talisman and arguably the Premier League's most complete number ten â€
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 61.8m |
+| Mid | EUR 84.0m |
+| Ceiling | EUR 101m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,11 +116,11 @@ Arsenal's talisman and arguably the Premier League's most complete number ten â€
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -121,6 +131,5 @@ Arsenal's talisman and arguably the Premier League's most complete number ten â€
 NOR	AM / CM (L)	17 December 1998 (age 24)	1.78 m
 (5 ft 10 in)	2021	Spain Real Madrid	Â£30.0m
 ```
-
 
 </details>

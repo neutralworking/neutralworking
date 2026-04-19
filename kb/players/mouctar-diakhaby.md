@@ -2,12 +2,12 @@
 title: Mouctar Diakhaby
 category: players
 tags: [CD, Valencia, Guinea, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Valencia. Archetype: Destroyer-Dribbler.
 person_id: 15399
-backlinks: [destroyer, valencia]
+backlinks: [destroyer, colossus, valencia]
 ---
 
 # Mouctar Diakhaby
@@ -21,18 +21,27 @@ backlinks: [destroyer, valencia]
 | **Nation** | Guinea |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Athletic, commanding center-back with excellent recovery pace and physicality, but occasionally prone to lapses in concentration and positioning. Solid La Liga starter who can be exposed against technically superior strikers.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `80`.
+- Best-fit role is [[colossus]] Colossus with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Reactions, and Stamina.
@@ -67,13 +76,14 @@ Athletic, commanding center-back with excellent recovery pace and physicality, b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 34.0m |
+| Ceiling | EUR 40.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Athletic, commanding center-back with excellent recovery pace and physicality, b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

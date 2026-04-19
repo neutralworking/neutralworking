@@ -2,12 +2,12 @@
 title: Yann M'Vila
 category: players
 tags: [DM, West Bromwich Albion, France, Sprinter-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at West Bromwich Albion. Archetype: Sprinter-Destroyer.
 person_id: 18604
-backlinks: [sprinter, west-bromwich-albion]
+backlinks: [sprinter, regista, west-bromwich-albion]
 ---
 
 # Yann M'Vila
@@ -19,20 +19,28 @@ backlinks: [sprinter, west-bromwich-albion]
 | **Position** | DM |
 | **Club** | West Bromwich Albion |
 | **Nation** | France |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
+| **Best Role** | [[regista]] Regista |
 | **Level** | 75 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Experienced defensive midfielder with solid positional discipline and physical presence, but at this stage of his career offers only squad depth; once had higher potential but injuries and moves have derailed his trajectory.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista`.
+- Best-fit role is [[regista]] Regista.
 - Primary archetype leans toward `Sprinter` behaviour from a `DM` base.
 - Most bankable strengths show up in Acceleration, Interceptions, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Experienced defensive midfielder with solid positional discipline and physical p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ Experienced defensive midfielder with solid positional discipline and physical p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

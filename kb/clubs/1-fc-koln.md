@@ -2,7 +2,7 @@
 title: 1. FC Köln
 category: clubs
 tags: [Bundesliga, Germany]
-updated: 2026-04-14
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: 1. FC Köln. 37 players in database.
@@ -13,6 +13,20 @@ summary: 1. FC Köln. 37 players in database.
 **League**: Bundesliga  
 **Nation**: Germany  
 **Players in DB**: 37
+
+## Identity
+
+- Database coverage is deepest in CM (7), CF (7), and GK (6), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (8), Gk (6), and Cover (6) across the current squad.
+- Average available overall grade sits at 68.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -38,12 +52,12 @@ summary: 1. FC Köln. 37 players in database.
 | [[j-schmied]] J. Schmied | CM | Destroyer-Powerhouse | 63.0 |
 | [[jahmai-simpson-pusey]] Jahmai Simpson-Pusey | CM | Cover | 43.0 |
 | [[tom-krau]] Tom Krauß | CM | Powerhouse | 68.0 |
-| [[jonas-erbig]] Jonas Erbig | GK | GK | None |
-| [[jonas-nickisch]] Jonas Nickisch | GK | GK | None |
-| [[katie-lund]] Katie Lund | GK | GK | None |
+| [[jonas-erbig]] Jonas Erbig | GK | GK | — |
+| [[jonas-nickisch]] Jonas Nickisch | GK | GK | — |
+| [[katie-lund]] Katie Lund | GK | GK | — |
 | [[marvin-schwabe]] Marvin Schwäbe | GK | GK | 78.0 |
-| [[matthias-kobbing]] Matthias Köbbing | GK | GK | None |
-| [[philipp-pentke]] Philipp Pentke | GK | GK | None |
+| [[matthias-kobbing]] Matthias Köbbing | GK | GK | — |
+| [[philipp-pentke]] Philipp Pentke | GK | GK | — |
 | [[benno-schmitz]] Benno Schmitz | WD | Creator-Cover | 72.0 |
 | [[jonas-hector]] Jonas Hector | WD | Creator | 72.0 |
 | [[leart-paqarada]] Leart Paqarada | WD | Creator | 72.0 |
@@ -52,6 +66,6 @@ summary: 1. FC Köln. 37 players in database.
 | [[jan-thielmann]] Jan Thielmann | WF | Powerhouse | 64.0 |
 | [[linton-maina]] Linton Maina | WF | Sprinter-Passer | 73.0 |
 | [[marius-bulter]] Marius Bülter | WF | Striker-Sprinter | 71.0 |
-| [[f-schenten]] F. Schenten | None | Striker-Cover | None |
-| [[s-sebulonsen]] S. Sebulonsen | None | Powerhouse-Dribbler | None |
-| [[y-niang]] Y. Niang | None | Creator-Striker | None |
+| F. Schenten | — | Striker-Cover | — |
+| S. Sebulonsen | — | Powerhouse-Dribbler | — |
+| Y. Niang | — | Creator-Striker | — |

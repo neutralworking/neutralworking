@@ -2,12 +2,12 @@
 title: Shuto Machino
 category: players
 tags: [CF, Borussia Mönchengladbach, Japan, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Borussia Mönchengladbach. Archetype: Striker-Engine.
 person_id: 17425
-backlinks: [striker, borussia-monchengladbach]
+backlinks: [striker, shadow-striker, borussia-monchengladbach]
 ---
 
 # Shuto Machino
@@ -21,18 +21,27 @@ backlinks: [striker, borussia-monchengladbach]
 | **Nation** | Japan |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Japanese forward whose work rate and willingness to press from the front are admirable, and he shows reasonable movement to find spaces in the box. His technical quality in tight areas is serviceable without being exceptional, and he hasn't yet proven he can consistently finish at the highest level. At 26, he's a decent squad option who functions as a pressing forward but isn't a long-term central attacking solution.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `73`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `73`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Stamina, and Acceleration.
@@ -63,13 +72,14 @@ A Japanese forward whose work rate and willingness to press from the front are a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A Japanese forward whose work rate and willingness to press from the front are a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

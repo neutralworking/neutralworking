@@ -2,12 +2,12 @@
 title: Luke Woolfenden
 category: players
 tags: [CD, Coventry City, England, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Coventry City. Archetype: Destroyer-Powerhouse.
 person_id: 14248
-backlinks: [destroyer, coventry-city]
+backlinks: [destroyer, distributor, coventry-city]
 ---
 
 # Luke Woolfenden
@@ -21,18 +21,26 @@ backlinks: [destroyer, coventry-city]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A center-back with solid fundamentals—good reading of the game, decent positioning, and the ability to play out from the back—but he's not particularly quick and can be beaten by direct runs or pressing intensity. Comfortable in possession and understands his role in a structure, but he's strictly a mid-table Championship operator rather than someone who'd improve a top-six side. Reliable, limited upside.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Physical, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ A center-back with solid fundamentals—good reading of the game, decent positio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 25.0m |
+| Ceiling | EUR 30.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ A center-back with solid fundamentals—good reading of the game, decent positio
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

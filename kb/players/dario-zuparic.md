@@ -2,12 +2,12 @@
 title: Dario Župarić
 category: players
 tags: [CD, Portland Timbers, Croatia, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Portland Timbers. Archetype: Powerhouse-Cover.
 person_id: 10028
-backlinks: [powerhouse, portland-timbers]
+backlinks: [powerhouse, colossus, portland-timbers]
 ---
 
 # Dario Župarić
@@ -21,18 +21,27 @@ backlinks: [powerhouse, portland-timbers]
 | **Nation** | Croatia |
 | **Age** | 33 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dario Župarić projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Jumping, Heading, and Stamina.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `71`.
+- Best-fit role is [[colossus]] Colossus with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Heading, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Dario Župarić projects primarily as a CD with a `Powerhouse-Cover` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,6 +108,6 @@ Dario Župarić projects primarily as a CD with a `Powerhouse-Cover` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

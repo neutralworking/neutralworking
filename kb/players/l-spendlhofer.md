@@ -2,12 +2,12 @@
 title: L. Spendlhofer
 category: players
 tags: [CM, TSV Hartberg, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at TSV Hartberg. Archetype: Cover-Striker.
 person_id: 23675
-backlinks: [cover, tsv-hartberg]
+backlinks: [cover, tuttocampista, tsv-hartberg]
 ---
 
 # L. Spendlhofer
@@ -18,21 +18,30 @@ backlinks: [cover, tsv-hartberg]
 |---|---|
 | **Position** | CM |
 | **Club** | TSV Hartberg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 32 |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 L. Spendlhofer is a technically gifted midfielder who excels in the Metodista role, using his blocking, composure, and pass accuracy to control the tempo of the game. While his technical ability is strong, his limited tactical awareness and creativity may make him a liability in more complex setups. As a Connector archetype, he is well-suited to a direct, counter-attacking system, but his weaknesses in long-range passing and tackling may require careful management. A club seeking a skilled, physical presence in midfield may benefit from his services, particularly if they can provide guidance on his defensive responsibilities and help him develop his tactical awareness.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Blocking, Composure, and Discipline.
@@ -62,13 +71,14 @@ L. Spendlhofer is a technically gifted midfielder who excels in the Metodista ro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 25.5m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ L. Spendlhofer is a technically gifted midfielder who excels in the Metodista ro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

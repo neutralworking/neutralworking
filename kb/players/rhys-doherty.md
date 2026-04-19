@@ -2,12 +2,12 @@
 title: Rhys Doherty
 category: players
 tags: [CD, Blackburn Rovers, England, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Blackburn Rovers. Archetype: Cover.
 person_id: 16593
-backlinks: [cover, blackburn-rovers]
+backlinks: [cover, centrale, blackburn-rovers]
 ---
 
 # Rhys Doherty
@@ -19,20 +19,28 @@ backlinks: [cover, blackburn-rovers]
 | **Position** | CD |
 | **Club** | Blackburn Rovers |
 | **Nation** | England |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[centrale]] Centrale |
 | **Level** | 74 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Centre-back showing decent physical commitment and willingness to engage, though his distribution is basic and his anticipation in deeper transitions leaves him vulnerable to through balls. Works best in a structured, compact defensive shape rather than as part of a possession-dominant setup. Functional depth.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Drive, Physical, and Technical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ Centre-back showing decent physical commitment and willingness to engage, though
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +98,6 @@ Centre-back showing decent physical commitment and willingness to engage, though
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

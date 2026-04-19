@@ -2,12 +2,12 @@
 title: Juergen Elitim
 category: players
 tags: [CM, Legia Warszawa, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Legia Warszawa. Archetype: Powerhouse.
 person_id: 13155
-backlinks: [powerhouse, legia-warszawa]
+backlinks: [powerhouse, playmaker, legia-warszawa]
 ---
 
 # Juergen Elitim
@@ -18,21 +18,30 @@ backlinks: [powerhouse, legia-warszawa]
 |---|---|
 | **Position** | CM |
 | **Club** | Legia Warszawa |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Elitim, as an Artisan, is best suited to a Mezzala role, where his shielding, pace, and balance can be leveraged to control the tempo of the game. His acceleration and stamina are also notable strengths, but his limited ability to win duels and lack of tactical awareness may restrict his ability to influence the game in the final third. A team seeking a skilled, attacking-minded midfielder may find Elitim to be a valuable asset, but his limitations may require careful team selection and tactical planning.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -63,13 +72,14 @@ Elitim, as an Artisan, is best suited to a Mezzala role, where his shielding, pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Elitim, as an Artisan, is best suited to a Mezzala role, where his shielding, pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Diego Maradona
 category: players
 tags: [CF, Argentina, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Dribbler-Creator.
+summary: CF at —. Archetype: Dribbler-Creator.
 person_id: 10296
-backlinks: [dribbler]
+backlinks: [dribbler, prima-punta]
 ---
 
 # Diego Maradona
@@ -17,22 +17,31 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Argentina |
 | **Age** | 65 |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 96 |
 | **Level** | 48 |
 | **Overall** | 51.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, Ball Control, Creativity, Baller, Close Control, FK Winner, Playmaker, Robust, Balance, Rabona, Erratic Movement, Rogue, Street Smart, Rule Breaker, Artful Dodger, Pickpocket, Magician
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `96`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `96`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CF` base.
 - Most bankable strengths show up in Creativity, Skills, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -60,10 +69,11 @@ CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,10 +89,10 @@ CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -93,6 +103,6 @@ CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, 
 {}
 ---
 
-CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, Ball Control, Creativity, Baller, Close Control, FK Winner, Playmaker, Robust, Balance, Rabona, Erratic Movement, Rogue, Street Smart, Rule Breaker, Artful Dodger, Pickpocket, Magician	
+CF	Talismanic	Creator	Wildcard	Napoli	ARG	A	84.5	 Number 10, Dribbling, Vision, Ball Control, Creativity, Baller, Close Control, FK Winner, Playmaker, Robust, Balance, Rabona, Erratic Movement, Rogue, Street Smart, Rule Breaker, Artful Dodger, Pickpocket, Magician
 
 </details>

@@ -2,12 +2,12 @@
 title: Abdu Conté
 category: players
 tags: [CD, Casa Pia AC, Creator-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Casa Pia AC. Archetype: Creator-Cover.
 person_id: 7706
-backlinks: [creator, casa-pia-ac]
+backlinks: [creator, stopper, casa-pia-ac]
 ---
 
 # Abdu Conté
@@ -18,21 +18,30 @@ backlinks: [creator, casa-pia-ac]
 |---|---|
 | **Position** | CD |
 | **Club** | Casa Pia AC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Cover |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Robust centre-back with decent physical presence and basic positional sense, but prone to positioning lapses that leave him exposed in transitions. Can play line-ball out of the back when pressed, though his distribution is functional rather than progressive. Struggles against technically superior strikers and isn't particularly commanding in the air relative to his build.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `72`.
+- Best-fit role is [[stopper]] Stopper with model support score `72`.
 - Primary archetype leans toward `Creator` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Long Range, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Robust centre-back with decent physical presence and basic positional sense, but
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Robust centre-back with decent physical presence and basic positional sense, but
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

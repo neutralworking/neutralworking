@@ -2,12 +2,12 @@
 title: Sverre Nypan
 category: players
 tags: [CM, Rosenborg, Norway, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Rosenborg. Archetype: Creator.
 person_id: 17732
-backlinks: [creator, rosenborg]
+backlinks: [creator, playmaker, rosenborg]
 ---
 
 # Sverre Nypan
@@ -21,18 +21,27 @@ backlinks: [creator, rosenborg]
 | **Nation** | Norway |
 | **Age** | 19 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A genuinely promising young midfielder with excellent press resistance and a natural bent for playing in the half-spaces, where he can receive on the half-turn and drive forwards with real purpose. His passing range is impressive for his age—he threads balls others don't see—and he carries the ball with enough dexterity to escape first pressures. The catch is simple: at 19, he still lacks the positional discipline and reading of the game to play regularly in a top-six side without being exposed defensively, and his physicality will need another year or two of professional development before he's consistently reliable at this level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `78`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Take Ons, Creativity, and Duels.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ A genuinely promising young midfielder with excellent press resistance and a nat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +99,6 @@ A genuinely promising young midfielder with excellent press resistance and a nat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

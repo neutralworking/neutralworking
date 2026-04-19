@@ -2,12 +2,12 @@
 title: Maximilian Bauer
 category: players
 tags: [CD, Augsburg, Germany, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Augsburg. Archetype: Destroyer.
 person_id: 14944
-backlinks: [destroyer, augsburg]
+backlinks: [destroyer, colossus, augsburg]
 ---
 
 # Maximilian Bauer
@@ -21,18 +21,26 @@ backlinks: [destroyer, augsburg]
 | **Nation** | Germany |
 | **Age** | 26 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 82 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A German centre-back with good physical credentials and the ability to engage in one-v-one situations, progressing the ball with reasonable comfort. His game-reading can be loose in transitions, particularly against quick combinations, and he's prone to diving in when patience would serve him better.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Jumping, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A German centre-back with good physical credentials and the ability to engage in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ A German centre-back with good physical credentials and the ability to engage in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Clément Lenglet
 category: players
 tags: [CD, Atlético Madrid, France, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Atlético Madrid. Archetype: Engine.
 person_id: 9682
-backlinks: [engine, atletico-madrid]
+backlinks: [engine, distributor, atletico-madrid]
 ---
 
 # Clément Lenglet
@@ -21,18 +21,27 @@ backlinks: [engine, atletico-madrid]
 | **Nation** | France |
 | **Age** | 30 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left-footed centre-back comfortable on the ball and capable of playing out from the back with composure, but structurally slow and vulnerable to direct runners with pace in behind. His positional play is generally sound, and he reads the game well enough to compensate, but in a high press or against counter-attacking sides, his lack of recovery speed is exposed; he's a defender for possession-dominant setups.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `74`.
+- Best-fit role is [[distributor]] Distributor with model support score `74`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
@@ -67,13 +76,14 @@ A left-footed centre-back comfortable on the ball and capable of playing out fro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A left-footed centre-back comfortable on the ball and capable of playing out fro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

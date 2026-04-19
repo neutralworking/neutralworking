@@ -2,12 +2,12 @@
 title: Richard Wood
 category: players
 tags: [CD, Rotherham, England, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Rotherham. Archetype: Cover.
 person_id: 16637
-backlinks: [cover, rotherham]
+backlinks: [cover, colossus, rotherham]
 ---
 
 # Richard Wood
@@ -21,18 +21,26 @@ backlinks: [cover, rotherham]
 | **Nation** | England |
 | **Age** | 40 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 76 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Age-40 centre-back serving as emergency cover only; mobility has deteriorated significantly, relying entirely on experience and leadership rather than physical capability.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Aggression, Awareness, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -66,10 +74,11 @@ Age-40 centre-back serving as emergency cover only; mobility has deteriorated si
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ Age-40 centre-back serving as emergency cover only; mobility has deteriorated si
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Nick Fichtinger
 category: players
 tags: [DM, PEC Zwolle, Netherlands, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at PEC Zwolle. Archetype: Powerhouse-Destroyer.
 person_id: 15635
-backlinks: [powerhouse, pec-zwolle]
+backlinks: [powerhouse, anchor, pec-zwolle]
 ---
 
 # Nick Fichtinger
@@ -21,18 +21,27 @@ backlinks: [powerhouse, pec-zwolle]
 | **Nation** | Netherlands |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Fichtinger, a Warrior Anchor, offers a robust presence at the base of midfield, combining strong mental fortitude with good reactions and surprising acceleration to disrupt opponents. While his pass accuracy is solid and he possesses a useful long-range shot, his broader technical refinement beyond passing can be lacking, and his creative output is low, making him more of a destroyer than a deep-lying playmaker. Clubs seeking a mentally strong, high-pressing defensive midfielder who prioritizes regaining possession over intricate distribution will find him valuable, but his hot-headed trait signals a discipline risk.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `73`.
+- Best-fit role is [[anchor]] Anchor with model support score `73`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Balance, Reactions, and Acceleration.
@@ -63,13 +72,14 @@ Fichtinger, a Warrior Anchor, offers a robust presence at the base of midfield, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Fichtinger, a Warrior Anchor, offers a robust presence at the base of midfield, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

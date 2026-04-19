@@ -2,12 +2,12 @@
 title: Virgil van Dijk
 category: players
 tags: [CD, Liverpool, Netherlands, Cover-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Liverpool. Archetype: Cover-Target.
 person_id: 18386
-backlinks: [cover, liverpool]
+backlinks: [cover, sweeper, liverpool]
 ---
 
 # Virgil van Dijk
@@ -21,6 +21,8 @@ backlinks: [cover, liverpool]
 | **Nation** | Netherlands |
 | **Age** | 34 |
 | **Archetype** | [[cover]] Cover-Target |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 81 |
 | **Level** | 88 |
 | **Overall** | 70.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [cover, liverpool]
 
 Still the gold standard for center-back reading and positioning despite being 34, with an almost impossible combination of pace, strength, and tactical intelligence. Van Dijk's physical decline is marginal—the real question is durability over a full season—but his ability to sweep, cover for mistakes, and dominate in transition hasn't noticeably diminished. One of the greatest defenders of the modern era, though even he cannot fight time forever.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `81`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Physical, Reactions, and Aerial Duels.
@@ -67,13 +76,14 @@ Still the gold standard for center-back reading and positioning despite being 34
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 27.0m |
+| Ceiling | EUR 32.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ Still the gold standard for center-back reading and positioning despite being 34
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -127,8 +137,7 @@ Technical Efficiency: Goals (5), Assists (1), Shots on Target (6), Pass Completi
 
 Enneagram Type: The Perfectionist
 
-
-![[Pasted image 20240115012717.png]]
+!Pasted image 20240115012717.png
 
 Virgil van Dijk is not a defender opposition defenders relish coming up against.  
   

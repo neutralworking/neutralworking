@@ -2,11 +2,12 @@
 title: Fernando Cardozo
 category: players
 tags: [CF, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 30646
+backlinks: [shadow-striker]
 ---
 
 # Fernando Cardozo
@@ -16,22 +17,31 @@ person_id: 30646
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Paraguay |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 49 |
+| **Level** | — |
 | **Overall** | 42.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Fernando Cardozo projects primarily as a CF with a `None` lean. The strongest database support comes from Aggression, Pace, and Pass Accuracy.
+Fernando Cardozo projects primarily as a CF with a `—` lean. The strongest database support comes from Aggression, Pace, and Pass Accuracy.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `49`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `49`.
 - Most bankable strengths show up in Aggression, Pace, and Pass Accuracy.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -57,13 +67,14 @@ Fernando Cardozo projects primarily as a CF with a `None` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 3.0m |
+| Mid | EUR 3.5m |
+| Ceiling | EUR 4.0m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,5 +90,5 @@ Fernando Cardozo projects primarily as a CF with a `None` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |

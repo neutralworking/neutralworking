@@ -1,13 +1,11 @@
 ---
 title: T. Sander
 category: players
-tags: [GK, FC Copenhagen
-, GK]
-updated: 2026-04-18
+tags: [GK, FC Copenhagen, GK]
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: GK at FC Copenhagen
-. Archetype: GK.
+summary: GK at FC Copenhagen. Archetype: GK.
 person_id: 26654
 backlinks: [gk, fc-copenhagen]
 ---
@@ -19,15 +17,25 @@ backlinks: [gk, fc-copenhagen]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | FC Copenhagen
- |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | FC Copenhagen |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
+
+## Snapshot
+
+T. Sander is currently a roster-level GK entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -47,8 +55,9 @@ backlinks: [gk, fc-copenhagen]
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -70,4 +79,4 @@ backlinks: [gk, fc-copenhagen]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

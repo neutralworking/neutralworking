@@ -2,12 +2,12 @@
 title: Enzo Roco
 category: players
 tags: [CD, Fatih Karagümrük, Chile, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Fatih Karagümrük. Archetype: Destroyer.
 person_id: 10719
-backlinks: [destroyer, fatih-karagumruk]
+backlinks: [destroyer, stopper, fatih-karagumruk]
 ---
 
 # Enzo Roco
@@ -21,18 +21,27 @@ backlinks: [destroyer, fatih-karagumruk]
 | **Nation** | Chile |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 66 |
 | **Level** | 72 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Chilean centre-back now 33 years old who maintains reasonable positional discipline and can read the game with experience, though his pace has noticeably declined. He's functional in a low-block system but offers nothing in terms of ball progression or modern centre-back requirements. At this age and level, he's a short-term emergency solution rather than a building block.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `66`.
+- Best-fit role is [[stopper]] Stopper with model support score `66`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Blocking, Skills, and Technical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -64,11 +73,12 @@ Chilean centre-back now 33 years old who maintains reasonable positional discipl
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +99,6 @@ Chilean centre-back now 33 years old who maintains reasonable positional discipl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 22 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

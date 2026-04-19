@@ -2,12 +2,12 @@
 title: N. Abbey
 category: players
 tags: [CM, Rio Ave, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Rio Ave. Archetype: Cover.
 person_id: 20859
-backlinks: [cover, rio-ave]
+backlinks: [cover, tuttocampista, rio-ave]
 ---
 
 # N. Abbey
@@ -18,21 +18,30 @@ backlinks: [cover, rio-ave]
 |---|---|
 | **Position** | CM |
 | **Club** | Rio Ave |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A tactically sharp, positionally disciplined holding midfielder whose game revolves around interceptions, blocking, and duel-winning, but whose technical deficiencies in vision and range passing expose him in systems requiring progressive circulation. His inconsistency suggests fragility under sustained pressure; he's effective in snapshots but unreliable over full 90-minute stretches. Best suited to compact, deep-lying defensive roles where his tackling and awareness are maximized and his inability to execute longer sequences is minimized.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Awareness, Interceptions, and Pass Accuracy.
@@ -62,13 +71,14 @@ A tactically sharp, positionally disciplined holding midfielder whose game revol
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ A tactically sharp, positionally disciplined holding midfielder whose game revol
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

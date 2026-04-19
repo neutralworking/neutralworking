@@ -2,12 +2,12 @@
 title: Ezri Konsa
 category: players
 tags: [CD, Aston Villa, England, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Aston Villa. Archetype: Powerhouse-Dribbler.
 person_id: 10856
-backlinks: [powerhouse, aston-villa]
+backlinks: [powerhouse, sweeper, aston-villa]
 ---
 
 # Ezri Konsa
@@ -21,18 +21,27 @@ backlinks: [powerhouse, aston-villa]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 71 |
 | **Level** | 87 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 English centre-back. Quick, composed, improving aerially. One of the most underrated defenders in the Premier League.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `71`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Jumping, Reactions, and Pace.
@@ -67,13 +76,14 @@ English centre-back. Quick, composed, improving aerially. One of the most underr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ English centre-back. Quick, composed, improving aerially. One of the most underr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

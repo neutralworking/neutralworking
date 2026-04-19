@@ -2,12 +2,12 @@
 title: Mikel Vesga
 category: players
 tags: [DM, Athletic Bilbao, Spain, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Athletic Bilbao. Archetype: Engine-Passer.
 person_id: 15200
-backlinks: [engine, athletic-bilbao]
+backlinks: [engine, regista, athletic-bilbao]
 ---
 
 # Mikel Vesga
@@ -21,18 +21,27 @@ backlinks: [engine, athletic-bilbao]
 | **Nation** | Spain |
 | **Age** | 33 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Box-to-box midfielder in the twilight of his career, still combative and capable of covering ground despite obvious physical decline, bringing experience to a young midfield. Offers little penetration in the final third and his passing range has never been considerable; a reliable but unspectacular presence.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `80`.
+- Best-fit role is [[regista]] Regista with model support score `80`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Most bankable strengths show up in Physical, Interceptions, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ Box-to-box midfielder in the twilight of his career, still combative and capable
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Box-to-box midfielder in the twilight of his career, still combative and capable
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Danny Ward
 category: players
 tags: [GK, Wrexham, Wales, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Wrexham. Archetype: Powerhouse.
 person_id: 10006
-backlinks: [powerhouse, wrexham]
+backlinks: [powerhouse, comandante, wrexham]
 ---
 
 # Danny Ward
@@ -21,18 +21,27 @@ backlinks: [powerhouse, wrexham]
 | **Nation** | Wales |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[comandante]] Comandante |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Welsh goalkeeper who's had decent spells in the Championship but has never quite established himself as a top-flight starter, suggesting a ceiling of competence rather than excellence. Distribution is his strongest suit—he'll play out from the back and isn't a hindrance in possession—but shot-stopping under pressure and command of his box lack the authority you'd want from an elite shot-stopper. At 32, he's a solid option for Wrexham where consistency and experience matter; don't expect miracles.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Comandante` with model support score `78`.
+- Best-fit role is [[comandante]] Comandante with model support score `78`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `GK` base.
 - Most bankable strengths show up in Balance, Jumping, and Long Range.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +76,14 @@ A Welsh goalkeeper who's had decent spells in the Championship but has never qui
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ A Welsh goalkeeper who's had decent spells in the Championship but has never qui
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

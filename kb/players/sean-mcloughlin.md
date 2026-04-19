@@ -2,12 +2,12 @@
 title: Sean McLoughlin
 category: players
 tags: [CM, Hull City, Ireland, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Hull City. Archetype: Cover.
 person_id: 17255
-backlinks: [cover, hull-city]
+backlinks: [cover, tuttocampista, hull-city]
 ---
 
 # Sean McLoughlin
@@ -21,18 +21,26 @@ backlinks: [cover, hull-city]
 | **Nation** | Ireland |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 82 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Irish midfielder entering his thirties who embodies the functional midfielder archetype—reliable, positionally sound, and capable of breaking up play without embarrassing himself. He's limited in terms of range and doesn't move the ball with particular flair or invention. At this stage of his career, McLoughlin is a squad-depth option providing experience and stability rather than growth or dynamism. His ceiling at this level is well-defined, and he's operating near it.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Physical, and Awareness.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Irish midfielder entering his thirties who embodies the functional midfielder ar
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 20.0m |
+| Ceiling | EUR 24.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Irish midfielder entering his thirties who embodies the functional midfielder ar
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

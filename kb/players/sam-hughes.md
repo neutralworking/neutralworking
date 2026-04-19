@@ -2,12 +2,12 @@
 title: Sam Hughes
 category: players
 tags: [CD, Burton Albion, England, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Burton Albion. Archetype: Powerhouse-Cover.
 person_id: 17070
-backlinks: [powerhouse, burton-albion]
+backlinks: [powerhouse, colossus, burton-albion]
 ---
 
 # Sam Hughes
@@ -21,18 +21,26 @@ backlinks: [powerhouse, burton-albion]
 | **Nation** | England |
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 80 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Hughes is a solid centre-back who is comfortable in the air and has a good understanding of the game, but he can be limited in terms of his distribution, often relying on his goalkeeper or full-backs to start attacks. He is a decent reader of the game, but he can be caught out by clever movement from opponents, particularly when faced with pacey attackers. He is a reliable starter, but he lacks the quality to be a top-level defender.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Jumping, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ Hughes is a solid centre-back who is comfortable in the air and has a good under
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ Hughes is a solid centre-back who is comfortable in the air and has a good under
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

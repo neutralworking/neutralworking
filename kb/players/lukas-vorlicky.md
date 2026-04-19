@@ -2,12 +2,12 @@
 title: Lukáš Vorlický
 category: players
 tags: [WF, Atalanta, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Atalanta. Archetype: Dribbler.
 person_id: 14207
-backlinks: [dribbler, atalanta]
+backlinks: [dribbler, inverted-winger, atalanta]
 ---
 
 # Lukáš Vorlický
@@ -18,21 +18,29 @@ backlinks: [dribbler, atalanta]
 |---|---|
 | **Position** | WF |
 | **Club** | Atalanta |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 71 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Czech midfielder on the fringes of Atalanta's squad, functional in lower-stakes competition but not a legitimate option for Serie A minutes. Vorlický has decent work ethic and basic passing ability, but he lacks distinction in any phase of play — he's a journeyman depth option.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Composure, First Touch, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ A Czech midfielder on the fringes of Atalanta's squad, functional in lower-stake
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +100,7 @@ A Czech midfielder on the fringes of Atalanta's squad, functional in lower-stake
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

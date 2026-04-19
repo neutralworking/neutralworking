@@ -2,12 +2,12 @@
 title: Zaydou Youssouf
 category: players
 tags: [CM, Al-Fateh, France, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Al-Fateh. Archetype: Powerhouse-Dribbler.
 person_id: 18761
-backlinks: [powerhouse, al-fateh]
+backlinks: [powerhouse, mezzala, al-fateh]
 ---
 
 # Zaydou Youssouf
@@ -21,18 +21,27 @@ backlinks: [powerhouse, al-fateh]
 | **Nation** | France |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Zaydou Youssouf is a dynamic, athletic midfielder who combines the physicality of a Powerhouse with the technical ability of a Dribbler, allowing him to make progressive carries and beat opponents with his quick feet. However, his lack of discipline and tendency to overcommit can leave his team vulnerable to counter-attacks, and his limited blocking ability means he can struggle to win the ball back in defensive transitions. Despite this, his exceptional shielding and first touch make him a valuable asset in maintaining possession and controlling the tempo of the game.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `76`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Shielding, Balance, and First Touch.
@@ -63,13 +72,14 @@ Zaydou Youssouf is a dynamic, athletic midfielder who combines the physicality o
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Zaydou Youssouf is a dynamic, athletic midfielder who combines the physicality o
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

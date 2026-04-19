@@ -2,12 +2,12 @@
 title: Yacine Adli
 category: players
 tags: [AM, Al Shabab, France, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Al Shabab. Archetype: Creator.
 person_id: 18580
-backlinks: [creator, al-shabab]
+backlinks: [creator, trequartista, al-shabab]
 ---
 
 # Yacine Adli
@@ -21,9 +21,11 @@ backlinks: [creator, al-shabab]
 | **Nation** | France |
 | **Age** | 25 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -35,12 +37,6 @@ ClubParis St-Germain
 PositionMidfielder
 
 Born29 July 2000
-
-
-
-
-
-
 
 ****
 
@@ -56,10 +52,16 @@ Compared to Adrien Rabiot by Le Parisien for his resemblance to the curly-haired
   
 **September 2022 update** Another solid campaign for Bordeaux convinced Milan to give him an opportunity in Serie A this season, although Adli has yet to become a regular starter under Stefano Pioli.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `78`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Pass Range, First Touch, and Crossing.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -90,13 +92,14 @@ Compared to Adrien Rabiot by Le Parisien for his resemblance to the curly-haired
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -121,11 +124,11 @@ Compared to Adrien Rabiot by Le Parisien for his resemblance to the curly-haired
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -140,12 +143,6 @@ PositionMidfielder
 
 Born29 July 2000
 
-
-
-
-
-
-
 ****
 
 Compared to Adrien Rabiot by Le Parisien for his resemblance to the curly-haired France midfielder, Adli was voted as best player at the Montaigu tournament last year – an under-16 competition that has featured Gheorghe Hagi, Cristiano Ronaldo and Thomas Müller. An integral part of PSG's under-19 side, the Parisian midfielder has welcomed the comparison to one of the few homegrown players to make it into the first team of one of Europe's richest clubs. "If I can have the same early career then it suits me," Adli has said. "But I also watch other players – I try to take something from [Thiago] Motta and [Marco] Verratti too." His progress has been tracked by several clubs in the Bundesliga but PSG, having lost the defender Dan-Axel Zagadou to Borussia Dortmund last summer, will be loth to let him slip through the net. **[Ed Aarons](https://twitter.com/ed_aarons)**  
@@ -156,6 +153,6 @@ Compared to Adrien Rabiot by Le Parisien for his resemblance to the curly-haired
   
 **October 2020 update** Became the first player born in the 2000s to score a brace in Ligue 1 against Amiens in September and enjoyed a breakthrough season in senior football despite suffering from niggling injuries that restricted him to 11 league starts.  
   
-**October 2021 update** A brilliant season that included scoring against his former side Paris Saint-Germain in a 2–2 draw back in November, Adli joined Milan in the summer and was loaned back to Bordeaux for th...
+**October 2021 update** A brilliant season that included scoring against his former side Paris Saint-Germain in a 2–2 draw back in November, Adli joined Milan in the summer and was loaned back to Bordeaux for the seas...
 
 </details>

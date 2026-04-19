@@ -2,12 +2,12 @@
 title: Z. Tripić
 category: players
 tags: [AM, Viking FK, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Viking FK. Archetype: Creator-Sprinter.
 person_id: 22885
-backlinks: [creator, viking-fk]
+backlinks: [creator, enganche, viking-fk]
 ---
 
 # Z. Tripić
@@ -18,21 +18,30 @@ backlinks: [creator, viking-fk]
 |---|---|
 | **Position** | AM |
 | **Club** | Viking FK |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Z. Tripić is an energetic Artisan type, with a strong technical foundation and a penchant for making an impact in big games. His best role is as an Enganche, where his pace, acceleration, and aggression can be leveraged to disrupt opposing defenses. Historically, players like Tripić have excelled in systems that emphasize verticality and directness, and he would be a strong fit for a club that values pace and intensity. His market position is relatively high due to his attacking potential, and his risk factors include disciplinary issues and potential struggles in more possession-based systems.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `72`.
+- Best-fit role is [[enganche]] Enganche with model support score `72`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Pace, Jumping, and Stamina.
@@ -63,13 +72,14 @@ Z. Tripić is an energetic Artisan type, with a strong technical foundation and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Z. Tripić is an energetic Artisan type, with a strong technical foundation and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

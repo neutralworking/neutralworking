@@ -1,24 +1,39 @@
 ---
 title: Newcastle Jets
 category: clubs
-tags: [None, Australia]
-updated: 2026-04-14
+tags: [Australia]
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Newcastle Jets. 20 players in database.
+summary: Newcastle Jets. 22 players in database.
 ---
 
 # Newcastle Jets
 
-**League**: None  
+**League**: —  
 **Nation**: Australia  
-**Players in DB**: 20
+**Players in DB**: 22
+
+## Identity
+
+- Database coverage is deepest in CM (6), CD (3), and WM (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (7), Creator (5), and Destroyer (4) across the current squad.
+- Average available overall grade sits at 58.1, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[ben-gibson]] Ben Gibson | CD | Destroyer | 64.0 |
+| [[e-adams]] E. Adams | CD | Creator-Sprinter | 72.0 |
 | [[joe-shaughnessy]] Joe Shaughnessy | CD | Cover | 66.0 |
 | [[c-taylor]] C. Taylor | CF | Sprinter-Dribbler | 62.0 |
 | [[l-rose]] L. Rose | CF | Sprinter-Striker | 63.0 |
@@ -29,12 +44,13 @@ summary: Newcastle Jets. 20 players in database.
 | [[m-burgess]] M. Burgess | CM | Destroyer-Creator | 61.0 |
 | [[m-natta]] M. Natta | CM | Destroyer-Sprinter | 59.0 |
 | [[t-aquilina]] T. Aquilina | DM | Sprinter-Cover | 30.0 |
-| [[j-delianov]] J. Delianov | GK | GK | None |
+| [[j-delianov]] J. Delianov | GK | GK | — |
+| [[m-cooper]] M. Cooper | GK | GK | — |
 | [[a-badolato]] A. Badolato | WF | Sprinter-Dribbler | 62.0 |
 | [[x-bertoncello]] X. Bertoncello | WF | Striker | 62.0 |
 | [[k-mizunuma]] K. Mizunuma | WM | Creator-Striker | 28.0 |
 | [[l-bayliss]] L. Bayliss | WM | Sprinter-Dribbler | 60.0 |
 | [[w-dobson]] W. Dobson | WM | Striker-Creator | 60.0 |
-| [[a-nunes]] A. Nunes | None | Striker | None |
-| [[c-bracco]] C. Bracco | None | Creator-Cover | None |
-| [[lucas-scicluna]] Lucas Scicluna | None | Creator-Destroyer | None |
+| A. Nunes | — | Striker | — |
+| C. Bracco | — | Creator-Cover | — |
+| Lucas Scicluna | — | Creator-Destroyer | — |

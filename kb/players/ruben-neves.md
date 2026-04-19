@@ -2,12 +2,12 @@
 title: Ruben Neves
 category: players
 tags: [CM, Wolverhampton Wanderers, Portugal, Striker-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Wolverhampton Wanderers. Archetype: Striker-Powerhouse.
 person_id: 16889
-backlinks: [striker, wolverhampton-wanderers]
+backlinks: [striker, metodista, wolverhampton-wanderers]
 ---
 
 # Ruben Neves
@@ -21,18 +21,27 @@ backlinks: [striker, wolverhampton-wanderers]
 | **Nation** | Portugal |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Powerhouse |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 54 |
 | **Level** | 87 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Technically gifted Portuguese midfielder who dictates play with composure and range of passing, though his inability to drive forward athletically or press aggressively limits his elite tier. A reliable metronome for mid-table sides rather than a standout talent at the highest level.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `54`.
+- Best-fit role is [[metodista]] Metodista with model support score `54`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Marking, Reactions, and Stamina.
@@ -67,13 +76,14 @@ Technically gifted Portuguese midfielder who dictates play with composure and ra
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Technically gifted Portuguese midfielder who dictates play with composure and ra
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

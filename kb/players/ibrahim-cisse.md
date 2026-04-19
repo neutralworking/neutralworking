@@ -2,12 +2,12 @@
 title: Ibrahim Cissé
 category: players
 tags: [CD, Gent, Ivory Coast, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Gent. Archetype: Powerhouse-Cover.
 person_id: 11898
-backlinks: [powerhouse, gent]
+backlinks: [powerhouse, colossus, gent]
 ---
 
 # Ibrahim Cissé
@@ -21,18 +21,27 @@ backlinks: [powerhouse, gent]
 | **Nation** | Ivory Coast |
 | **Age** | 27 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Aggressive, physical midfielder who wins the ball back consistently through intensity and positioning sense. Offers little in transition and his passing range is limited to simple, horizontal options; functional disruptor rather than a creative weapon.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `74`.
+- Best-fit role is [[colossus]] Colossus with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Balance, and Shielding.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Aggressive, physical midfielder who wins the ball back consistently through inte
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Aggressive, physical midfielder who wins the ball back consistently through inte
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

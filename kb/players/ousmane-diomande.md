@@ -1,15 +1,13 @@
 ---
 title: Ousmane Diomande
 category: players
-tags: [CD, Sporting CP
-, Côte d’Ivoire, Dribbler-Destroyer]
-updated: 2026-04-17
+tags: [CD, Sporting CP, Côte d’Ivoire, Dribbler-Destroyer]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Sporting CP
-. Archetype: Dribbler-Destroyer.
+summary: CD at Sporting CP. Archetype: Dribbler-Destroyer.
 person_id: 16026
-backlinks: [dribbler, sporting-cp]
+backlinks: [dribbler, distributor, sporting-cp]
 ---
 
 # Ousmane Diomande
@@ -19,23 +17,31 @@ backlinks: [dribbler, sporting-cp]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | Sporting CP
- |
+| **Club** | Sporting CP |
 | **Nation** | Côte d’Ivoire |
 | **Age** | 22 |
 | **Archetype** | [[dribbler]] Dribbler-Destroyer |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A physical, aggressive right-sided centre-back still learning the tactical nuances of libero play; his jumping and acceleration are exceptional, but discipline issues and limited tactical range suggest he needs a structured, high-press environment rather than a possession-dominant system. His press resistance and build-up contribution indicate he can function as a passing defender, though his creativity remains underdeveloped for the role. Best suited to clubs with clear defensive frameworks where his competitiveness can be channeled—avoid sides expecting progressive playmaking from deep.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `82`.
+- Best-fit role is [[distributor]] Distributor with model support score `82`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Acceleration, and Pace.
@@ -66,13 +72,14 @@ A physical, aggressive right-sided centre-back still learning the tactical nuanc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 42.8m |
+| Mid | EUR 63.0m |
+| Ceiling | EUR 75.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +108,7 @@ A physical, aggressive right-sided centre-back still learning the tactical nuanc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

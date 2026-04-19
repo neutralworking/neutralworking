@@ -2,12 +2,12 @@
 title: Nacho Fernández
 category: players
 tags: [CD, PSV, Spain, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at PSV. Archetype: Destroyer-Powerhouse.
 person_id: 15480
-backlinks: [destroyer, psv]
+backlinks: [destroyer, colossus, psv]
 ---
 
 # Nacho Fernández
@@ -21,18 +21,27 @@ backlinks: [destroyer, psv]
 | **Nation** | Spain |
 | **Age** | 53 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 At 53 years old, Nacho Fernández is well beyond any meaningful playing career and should not be rated on an active footballer's scale. He retired from professional football years ago and has no current competitive football status. Any rating here is purely notional and reflects someone who no longer competes at any level.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `79`.
+- Best-fit role is [[colossus]] Colossus with model support score `79`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ At 53 years old, Nacho Fernández is well beyond any meaningful playing career a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ At 53 years old, Nacho Fernández is well beyond any meaningful playing career a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Didi
 category: players
 tags: [CM, Avaí FC, Brazil, Passer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
 summary: CM at Avaí FC. Archetype: Passer-Creator.
 person_id: 10272
-backlinks: [passer, avai-fc]
+backlinks: [passer, metodista, avai-fc]
 ---
 
 # Didi
@@ -21,18 +21,27 @@ backlinks: [passer, avai-fc]
 | **Nation** | Brazil |
 | **Age** | 25 |
 | **Archetype** | [[passer]] Passer-Creator |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 91 |
 | **Level** | 82 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CM					BRA	B	74.0	stamina, technical ability, FK Taker		On June 16, 1950 in a friendly match involving Rio de Janeiro and São Paulo youth state teams, Didi (aged 21), playing for Rio de Janeiro, scored the first ever goal at the Maracanã Stadium.[9] He is also known as the first person to call the game The Beautiful Game.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `91`.
+- Best-fit role is [[metodista]] Metodista with model support score `91`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -44,13 +53,14 @@ CM					BRA	B	74.0	stamina, technical ability, FK Taker		On June 16, 1950 in a fr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +71,8 @@ CM					BRA	B	74.0	stamina, technical ability, FK Taker		On June 16, 1950 in a fr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,12 +2,12 @@
 title: Kike Barja
 category: players
 tags: [WF, Osasuna, Spain, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Osasuna. Archetype: Dribbler-Sprinter.
 person_id: 13544
-backlinks: [dribbler, osasuna]
+backlinks: [dribbler, inverted-winger, osasuna]
 ---
 
 # Kike Barja
@@ -21,18 +21,26 @@ backlinks: [dribbler, osasuna]
 | **Nation** | Spain |
 | **Age** | 29 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Diminutive winger with genuine pace and work ethic, consistently dangerous on the counter-attack. Technically limited and easily bullied off the ball, but useful squad player for La Liga's mid-table.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Take Ons, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ Diminutive winger with genuine pace and work ethic, consistently dangerous on th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 46.0m |
+| Ceiling | EUR 55.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ Diminutive winger with genuine pace and work ethic, consistently dangerous on th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

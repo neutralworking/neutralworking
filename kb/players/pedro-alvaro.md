@@ -2,12 +2,12 @@
 title: Pedro Álvaro
 category: players
 tags: [CD, Aris Thessaloniki FC, Portugal, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Aris Thessaloniki FC. Archetype: Sprinter.
 person_id: 16226
-backlinks: [sprinter, aris-thessaloniki-fc]
+backlinks: [sprinter, distributor, aris-thessaloniki-fc]
 ---
 
 # Pedro Álvaro
@@ -21,18 +21,27 @@ backlinks: [sprinter, aris-thessaloniki-fc]
 | **Nation** | Portugal |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pedro Álvaro is an athletic defender with exceptional acceleration and pace, making him well-suited to the vorstopper role, where he can use his recovery speed to bail out his team. However, his almost non-existent creativity is a significant concern, as it prevents him from being a true leader at the back and often forces him to rely on simple, safe passes. His defensive skills are solid, but he will never be the one to start attacks from the back.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `76`.
+- Best-fit role is [[distributor]] Distributor with model support score `76`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Pace, and Stamina.
@@ -63,13 +72,14 @@ Pedro Álvaro is an athletic defender with exceptional acceleration and pace, ma
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Pedro Álvaro is an athletic defender with exceptional acceleration and pace, ma
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

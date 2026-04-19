@@ -2,7 +2,7 @@
 title: Tommaso Vannucchi
 category: players
 tags: [GK, Fiorentina, Italy, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
 summary: GK at Fiorentina. Archetype: GK.
@@ -19,16 +19,23 @@ backlinks: [gk, fiorentina]
 | **Position** | GK |
 | **Club** | Fiorentina |
 | **Nation** | Italy |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
 | **Level** | 65 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Italian goalkeeper in the Fiorentina system with limited senior exposure and conventional shot-stopping attributes but nothing that marks him out as particularly special at this stage. Without more information on his current age or recent playing time, he reads as a developmental backup keeper — the type who might become a Serie B regular or a Europa League rotation option, but lacks the obvious elite traits that would project him toward consistent Serie A football. He's a prospect worth monitoring, nothing more.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -43,13 +50,14 @@ An Italian goalkeeper in the Fiorentina system with limited senior exposure and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.4m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -69,9 +77,9 @@ An Italian goalkeeper in the Fiorentina system with limited senior exposure and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -82,6 +90,6 @@ An Italian goalkeeper in the Fiorentina system with limited senior exposure and 
 {}
 ---
 
-	Italy	GK	5 March 2007 (age 16)	Italy Youth Sector	2023	2025	0	0	
+	Italy	GK	5 March 2007 (age 16)	Italy Youth Sector	2023	2025	0	0
 
 </details>

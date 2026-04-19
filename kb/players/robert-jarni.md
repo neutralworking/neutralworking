@@ -2,10 +2,10 @@
 title: Robert Jarni
 category: players
 tags: [CM, Croatia]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 16707
 ---
 
@@ -16,18 +16,25 @@ person_id: 16707
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Croatia |
 | **Age** | 57 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Winger			CRO	B	0.0			Born in Čakovec, Jarni started his career in his hometown with NK Čakovec, then known as MTČ Čakovec. In June 1985, he was spotted by Hajduk Split while playing for MTČ in a cup match in Split and started his professional career by joining the club in February 1986. He stayed with Hajduk until 1991, when he moved abroad for the first time in his career, signing with Italian side Bari. After spending two seasons with Bari, he moved to Torino in 1993, and spent one season with the club before moving to local rivals Juventus in 1994. He also spent just one season with Juventus, and went on to move to Spanish side Real Betis in 1995. He had a fairly successful spell with the Seville club, appearing in 98 Primera División matches for the club over the following three seasons, also scoring a total of 19 goals in the league. In the summer of 1998, Jarni initially moved to English side Coventry City, signing for £2.6m from Real Betis. However, when Real Madrid decided they wanted the player, they successfully bought him from Coventry for £3.4m with Jarni having made no appearances whatsoever. Some believe this was a joint Coventry City and Real Madrid tactic, as Betis refused to sell him to the Madrid club. At Real Madrid, Jarni struggled to get his place in the starting line-up and often found himself receiving little playing time as a substitute, although he did manage to finish the season with a total of 27 Primera División appearances on his tally. His only league goal for Real Madrid came in their 5-1 win at Extremadura on 31 October 1998, when he netted the opening goal of the match in the first minute. One of the highlights of his spell with Real Madrid came 10 days earlier in their third UEFA Champions League group match that season, when he netted a brace in their 6-1 win at home to Sturm Graz. In the summer of 1999, Jarni left Real Madrid for Segunda División side Las Palmas, going on to help the club gain promotion to the Primera División for the 2000-01 season, which saw him making another 26 appearances in the Spanish top flight, scoring two goals. After losing his place as a regular at Las Palmas and making no appearances for the club in the first half of the 2001-02 season, Jarni went on to move to Greek side Panathinaikos on 30 January 2002, signing a short-term contract until the end of the season. Jarni only appeared in 5 matches for Panathinaikos in the Greek league, although he also made 3 appearances for the club in the UEFA Champions League in February and March 2002. His contract was not renewed at the end of the season and he subsequently retired from professional football as a player, aged 33. As a youngster, Jarni played for the Yugoslav national under-21 football team. He was part of the Yugoslav squad that won the 1987 FIFA World Youth Championship in Chile, alongside his future Croatia team-mates Davor Šuker, Zvonimir Boban, Robert Prosinečki and Igor Štimac. In 1990, Jarni became a full international with Yugoslavia. He won seven international caps with the team in 1990 and 1991, scoring one goal. He was also part of the Yugoslav squad for the 1990 FIFA World Cup finals in Italy, where he made his World Cup debut as a half-time substitute for Srečko Katanec in the team's second group match, a 1-0 win against Colombia. Jarni's international debut for Croatia came on 22 December 1990 in a friendly match against Romania. He quickly established himself as a regular with the team and was also part of the Croatian squad for the country's first appearance in the finals of a major tournament, at the UEFA Euro 1996 in England. He appeared in all of Croatia's four matches at the tournament before they were knocked out in the quarter-finals after losing 2-1 to Germany, who went on to win the tournament. Two years later, Jarni was named in the Croatian squad for the country's first World Cup appearance, at the 1998 finals in France, and was an important member of the team that went on to win the bronze medals at the tournament. He appeared in all of Croatia's seven matches during the tournament, with his highlight being the opening goal in Croatia's 3-0 win over Germany in the quarter-finals. In the final moments of the first half of the game, Jarni ran onto a Mario Stanić pass and fired a powerful left-footed shot past Andreas Köpke from just outside the box. It was his only international goal for Croatia, although he set up a number of other goals for the national team with numerous assists resulting from his fast runs through the left flank and precise crosses or passes into the box. One of those assists came later during 1998 World Cup, when he set up Robert Prosinečki's opening goal in Croatia's 2-1 win against the Netherlands in the third-place match. Jarni continued to play regularly for Croatia until 2002, when he retired from football as a player. He also appeared in all of their three group matches at the 2002 FIFA World Cup finals in Japan, where Croatia were el
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -44,10 +51,11 @@ WF		Winger			CRO	B	0.0			Born in Čakovec, Jarni started his career in his homet
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -58,8 +66,8 @@ WF		Winger			CRO	B	0.0			Born in Čakovec, Jarni started his career in his homet
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

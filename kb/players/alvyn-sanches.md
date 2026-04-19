@@ -2,12 +2,12 @@
 title: Alvyn Sanches
 category: players
 tags: [WF, BSC Young Boys, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at BSC Young Boys. Archetype: Dribbler-Sprinter.
 person_id: 8317
-backlinks: [dribbler, bsc-young-boys]
+backlinks: [dribbler, wide-playmaker, bsc-young-boys]
 ---
 
 # Alvyn Sanches
@@ -18,21 +18,30 @@ backlinks: [dribbler, bsc-young-boys]
 |---|---|
 | **Position** | WF |
 | **Club** | BSC Young Boys |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 74 |
 | **Level** | 71 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 An explosive inverted winger, Sanches thrives on beating his man with take-ons and acceleration, maintaining excellent balance throughout his direct runs. While his passing accuracy is decent, concerns loom over his tactical understanding and overall technical proficiency, meaning he often finds himself out of position or making poor decisions under pressure. His low discipline also suggests he could be a liability at crucial moments.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `74`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Set Piece Specialist.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
@@ -63,13 +72,14 @@ An explosive inverted winger, Sanches thrives on beating his man with take-ons a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 9.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ An explosive inverted winger, Sanches thrives on beating his man with take-ons a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

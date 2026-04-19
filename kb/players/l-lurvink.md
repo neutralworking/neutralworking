@@ -2,12 +2,12 @@
 title: L. Lurvink
 category: players
 tags: [CM, FK Pardubice, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FK Pardubice. Archetype: Cover-Striker.
 person_id: 25089
-backlinks: [cover, fk-pardubice]
+backlinks: [cover, tuttocampista, fk-pardubice]
 ---
 
 # L. Lurvink
@@ -18,21 +18,30 @@ backlinks: [cover, fk-pardubice]
 |---|---|
 | **Position** | CM |
 | **Club** | FK Pardubice |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 L. Lurvink is a technically gifted midfielder with a strong pillar balance, exceling in interceptions, close-range passing, and awareness. However, his limited creativity, vision, and discipline may hinder his ability to dictate the tempo of the game, making him a better fit for a team that values defensive solidity over possession-based football. As a Tuttocampista, he would thrive in a system that allows him to utilize his technical ability and awareness to control the game, but may struggle with hot-headedness and discipline in high-pressure situations.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Blocking, Duels, and Interceptions.
@@ -62,13 +71,14 @@ L. Lurvink is a technically gifted midfielder with a strong pillar balance, exce
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ L. Lurvink is a technically gifted midfielder with a strong pillar balance, exce
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

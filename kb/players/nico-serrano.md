@@ -2,12 +2,12 @@
 title: Nico Serrano
 category: players
 tags: [WF, Athletic Bilbao, Spain, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Athletic Bilbao. Archetype: Powerhouse.
 person_id: 15662
-backlinks: [powerhouse, athletic-bilbao]
+backlinks: [powerhouse, wide-playmaker, athletic-bilbao]
 ---
 
 # Nico Serrano
@@ -19,20 +19,28 @@ backlinks: [powerhouse, athletic-bilbao]
 | **Position** | WF |
 | **Club** | Athletic Bilbao |
 | **Nation** | Spain |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 72 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Winger plying his trade at senior level without establishing himself as a consistent threat, with decent pace but poor decision-making in the final third. Doesn't create clear chances or score regularly; exactly the type of young player who needs a move to a lower division to gain confidence.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ Winger plying his trade at senior level without establishing himself as a consis
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,17 +105,16 @@ Winger plying his trade at senior level without establishing himself as a consis
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubAthletic Bilbao
 
@@ -118,6 +126,6 @@ A left-footed attacker who can play on either wing or behind the striker, offeri
   
 **October 2021 update** Finally made his first-team debut for Bilbao in September after appearing for the last seven minutes of a 2-0 win over Mallorca. “I’m so proud,” Serrano said. “This is like a dream and I’m so happy to make it come true.” Still predominantly playing for Bilbao Athletic, the Basque club’s B-team, the Spain Under-19 left-winger is nevertheless increasingly catching the eye of seniors’ coach Marcelino, again coming off the bench in a 1-1 draw against Valencia at the end of September.  
   
-**September 2022 update** Serrano continued to be a part of Bilbao's first team, racking up 14 appearances in total, including three starts. But when Ernesto Valverde took over in the summer he was largely ignored during pre-season, and so chose to go out on loan. Several Segunda División clubs showed interested,...
+**September 2022 update** Serrano continued to be a part of Bilbao's first team, racking up 14 appearances in total, including three starts. But when Ernesto Valverde took over in the summer he was largely ignored during pre-season, and so chose to go out on loan. Several Segunda División clubs showed interested, ...
 
 </details>

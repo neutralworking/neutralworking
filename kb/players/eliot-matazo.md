@@ -2,12 +2,12 @@
 title: Eliot Matazo
 category: players
 tags: [CM, Hull City, Belgium, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Hull City. Archetype: Powerhouse.
 person_id: 10557
-backlinks: [powerhouse, hull-city]
+backlinks: [powerhouse, playmaker, hull-city]
 ---
 
 # Eliot Matazo
@@ -21,18 +21,26 @@ backlinks: [powerhouse, hull-city]
 | **Nation** | Belgium |
 | **Age** | 24 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 77 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Belgian midfielder with genuine tactical intelligence and the ability to receive the ball in tight spaces without panicking, showing composure under pressure that belies his age. Positional awareness is strong and he reads the game ahead of first contact, allowing him to anticipate danger and intercept dangerous passes. His physical limitations are the constraint — he lacks the explosive pressing intensity or recovery pace demanded by high-pressing teams, so he's best utilised in a side with a deeper block.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Balance, and Composure.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ Belgian midfielder with genuine tactical intelligence and the ability to receive
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +113,7 @@ Belgian midfielder with genuine tactical intelligence and the ability to receive
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

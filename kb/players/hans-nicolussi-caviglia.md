@@ -2,12 +2,12 @@
 title: Hans Nicolussi Caviglia
 category: players
 tags: [CM, Fiorentina, Italy, Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Fiorentina. Archetype: Passer.
 person_id: 11654
-backlinks: [passer, fiorentina]
+backlinks: [passer, playmaker, fiorentina]
 ---
 
 # Hans Nicolussi Caviglia
@@ -19,20 +19,28 @@ backlinks: [passer, fiorentina]
 | **Position** | CM |
 | **Club** | Fiorentina |
 | **Nation** | Italy |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 72 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Italian midfielder in his mid-twenties with decent athleticism and a willingness to work in the press; he's capable of executing simple passes and covering space. His senior exposure has been limited and he hasn't yet established himself as a reliable starter at this level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Acceleration, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ An Italian midfielder in his mid-twenties with decent athleticism and a willingn
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 6.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +107,7 @@ An Italian midfielder in his mid-twenties with decent athleticism and a willingn
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

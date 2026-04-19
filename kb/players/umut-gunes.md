@@ -2,12 +2,12 @@
 title: Umut Güneş
 category: players
 tags: [CM, Başakşehir, Turkey, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Başakşehir. Archetype: Cover.
 person_id: 18254
-backlinks: [cover, basaksehir]
+backlinks: [cover, metodista, basaksehir]
 ---
 
 # Umut Güneş
@@ -21,18 +21,27 @@ backlinks: [cover, basaksehir]
 | **Nation** | Turkey |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Güneş operates as a tidy Cover midfielder, focusing on accurate passing and solid shielding to maintain possession and orchestrate from deep. However, his utility as a holding midfielder is compromised by a surprising weakness in duels, a lack of defensive blocking, and minimal creative spark, preventing him from truly dominating the centre of the park.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `75`.
+- Best-fit role is [[metodista]] Metodista with model support score `75`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in First Touch, Pace, and Pass Range.
@@ -63,13 +72,14 @@ Güneş operates as a tidy Cover midfielder, focusing on accurate passing and so
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Güneş operates as a tidy Cover midfielder, focusing on accurate passing and so
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Khuliso Mudau
 category: players
 tags: [CD, Mamelodi Sundowns FC, South Africa]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Mamelodi Sundowns FC. Archetype: None.
+summary: CD at Mamelodi Sundowns FC. Archetype: —.
 person_id: 28572
-backlinks: [mamelodi-sundowns-fc]
+backlinks: [centrale, mamelodi-sundowns-fc]
 ---
 
 # Khuliso Mudau
@@ -20,19 +20,27 @@ backlinks: [mamelodi-sundowns-fc]
 | **Club** | Mamelodi Sundowns FC |
 | **Nation** | South Africa |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[centrale]] Centrale |
+| **Level** | — |
 | **Overall** | 16.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Khuliso Mudau projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Creativity, and Communication.
+Khuliso Mudau projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Creativity, and Communication.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Most bankable strengths show up in Skills, Creativity, and Communication.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -66,8 +74,9 @@ Khuliso Mudau projects primarily as a CD with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +87,4 @@ Khuliso Mudau projects primarily as a CD with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |

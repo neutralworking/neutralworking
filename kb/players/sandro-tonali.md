@@ -2,12 +2,12 @@
 title: Sandro Tonali
 category: players
 tags: [CM, Newcastle United, Italy, Powerhouse-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Newcastle United. Archetype: Powerhouse-Engine.
 person_id: 17161
-backlinks: [powerhouse, newcastle-united]
+backlinks: [powerhouse, metodista, newcastle-united]
 ---
 
 # Sandro Tonali
@@ -21,6 +21,8 @@ backlinks: [powerhouse, newcastle-united]
 | **Nation** | Italy |
 | **Age** | 25 |
 | **Archetype** | [[powerhouse]] Powerhouse-Engine |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 74 |
 | **Level** | 88 |
 | **Overall** | 71.0 |
 | **Pursuit** | Scout Further |
@@ -30,9 +32,16 @@ backlinks: [powerhouse, newcastle-united]
 
 Sandro Tonali is a connector with exceptional technical and tactical abilities, making him a natural fit for the mezzala role. His awareness, interceptions, and composure are exceptional, but his technical and disciplinary weaknesses can be exposed in high-pressure situations. As a peak-level player, Tonali's best role is in a team that values possession-based football and can accommodate his strengths and weaknesses, making him a strong fit for a club seeking a creative, box-to-box midfielder.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `74`.
+- Best-fit role is [[metodista]] Metodista with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Positional Discipline.
 - Most bankable strengths show up in Reactions, Composure, and Pass Accuracy.
@@ -67,13 +76,14 @@ Sandro Tonali is a connector with exceptional technical and tactical abilities, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 57.8m |
+| Mid | EUR 68.0m |
+| Ceiling | EUR 88.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Sandro Tonali is a connector with exceptional technical and tactical abilities, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

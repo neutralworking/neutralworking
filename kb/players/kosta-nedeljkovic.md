@@ -2,12 +2,12 @@
 title: Kosta Nedeljkovic
 category: players
 tags: [WD, RB Leipzig, Serbia, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at RB Leipzig. Archetype: Cover.
 person_id: 13618
-backlinks: [cover, rb-leipzig]
+backlinks: [cover, wing-back, rb-leipzig]
 ---
 
 # Kosta Nedeljkovic
@@ -21,18 +21,26 @@ backlinks: [cover, rb-leipzig]
 | **Nation** | Serbia |
 | **Age** | 20 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[wing-back]] Wing-back |
 | **Level** | 84 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Serbian full-back with modest technical ability and limited athleticism for top-flight competition; appears to be a development player or depth piece rather than a meaningful first-team contributor.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back`.
+- Best-fit role is [[wing-back]] Wing-back.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in Technical, Physical, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ Serbian full-back with modest technical ability and limited athleticism for top-
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +98,6 @@ Serbian full-back with modest technical ability and limited athleticism for top-
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

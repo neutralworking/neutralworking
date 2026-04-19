@@ -2,12 +2,12 @@
 title: Dylan Levitt
 category: players
 tags: [CM, Hibernian, Wales, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Hibernian. Archetype: Dribbler.
 person_id: 10449
-backlinks: [dribbler, hibernian]
+backlinks: [dribbler, mezzala, hibernian]
 ---
 
 # Dylan Levitt
@@ -21,18 +21,26 @@ backlinks: [dribbler, hibernian]
 | **Nation** | Wales |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[mezzala]] Mezzala |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A technical midfielder with crisp range and distribution—both mid and long-range passing sit comfortably in his skillset—who operates best as a tuttocampista capable of threading play through the thirds. His balance and pass accuracy anchor possession play, though mental resilience and anticipatory guile remain shallow; he can be exposed in moments requiring reactive intelligence or physical commitment. At 25 with newcomer status, Levitt suits a possession-dominant system where structure compensates for his moderate tactical nous and he's shielded from defensive intensity. His practical temperament and structured approach make him coachable, but clubs expecting volatility or ball-carrying creativity should look elsewhere.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala`.
+- Best-fit role is [[mezzala]] Mezzala.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Composure, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A technical midfielder with crisp range and distribution—both mid and long-ran
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ A technical midfielder with crisp range and distribution—both mid and long-ran
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

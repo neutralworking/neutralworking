@@ -2,12 +2,12 @@
 title: Shogo Taniguchi
 category: players
 tags: [CM, Sint-Truiden, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sint-Truiden. Archetype: Destroyer-Powerhouse.
 person_id: 19685
-backlinks: [destroyer, sint-truiden]
+backlinks: [destroyer, metodista, sint-truiden]
 ---
 
 # Shogo Taniguchi
@@ -18,21 +18,30 @@ backlinks: [destroyer, sint-truiden]
 |---|---|
 | **Position** | CM |
 | **Club** | Sint-Truiden |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 34 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 34-year-old ball winner whose frame emphasizes stamina, tackling, and jumping over technical invention—he is a metodista archetype who wins possession and sustains effort rather than unlocks it. Pass accuracy and build-up contribution are legitimate, yet creativity and guile sit dormant; he is serviceable in structured transitions but not generative. His extraverted personality and discipline traits suggest maturity and coachability, though at his age the physical decline will accelerate and defensive positioning becomes his only defensible asset. Taniguchi suits veteran squads requiring positional solidity and pressing intensity, not clubs building forward momentum.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `75`.
+- Best-fit role is [[metodista]] Metodista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Stamina, Heading, and Jumping.
@@ -64,12 +73,13 @@ A 34-year-old ball winner whose frame emphasizes stamina, tackling, and jumping 
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A 34-year-old ball winner whose frame emphasizes stamina, tackling, and jumping 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

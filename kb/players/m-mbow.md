@@ -2,12 +2,12 @@
 title: M. Mbow
 category: players
 tags: [CM, Paris FC, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Paris FC. Archetype: Destroyer-Powerhouse.
 person_id: 20415
-backlinks: [destroyer, paris-fc]
+backlinks: [destroyer, tuttocampista, paris-fc]
 ---
 
 # M. Mbow
@@ -18,21 +18,30 @@ backlinks: [destroyer, paris-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Paris FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Mbow is a physically imposing Connector operating as a Holding Midfielder, bringing significant defensive contributions through his jumping, stamina, and strong tackling. His elegant play and build-up contribution, coupled with robust physical attributes, suggest a role in systems that rely on a deep-lying midfielder to orchestrate play from behind, reminiscent of more structured, possession-based approaches. At 26, he's a potential option for clubs seeking a strong, tactically astute deep-lying midfielder who can contribute to the build-up but shouldn't be relied upon for progressive carries or game-breaking creative passes due to limited movement and creativity.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Physical, and Pace.
@@ -63,13 +72,14 @@ Mbow is a physically imposing Connector operating as a Holding Midfielder, bring
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Mbow is a physically imposing Connector operating as a Holding Midfielder, bring
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

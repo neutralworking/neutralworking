@@ -2,7 +2,7 @@
 title: Christian Früchtl
 category: players
 tags: [GK, Lecce, Germany, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Lecce. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, lecce]
 | **Age** | 26 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 74 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The German goalkeeper arrived at Lecce as a prospect with some pedigree from his Bayern background, but he hasn't seized the opportunity to establish himself as a first-choice option in Serie A. He's competent enough—solid reflexes, decent footwork—but there's a sense that he's been overtaken and relegated to squad depth rather than positioning himself as a genuine contender for the number-one shirt.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ The German goalkeeper arrived at Lecce as a prospect with some pedigree from his
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,17 +101,16 @@ The German goalkeeper arrived at Lecce as a prospect with some pedigree from his
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryGermany
 
@@ -112,12 +119,6 @@ ClubBayern Munich
 PositionGoalkeeper
 
 Born28 January 2000
-
-
-
-
-
-
 
 ****
 
@@ -131,6 +132,6 @@ When Bayern Munich arrived in Doha for a training camp in January 2016, all eyes
  
 **October 2021 update** Has just recovered from a collarbone fracture and is hoping to cement his place as Bayern’s No 2 after a season spent on loan at Nuremberg, where is was on the bench 33 times but failed to make the pitch.
  
-**September 2022 update** Left Bayern after eight years ...
+**September 2022 update** Left Bayern after eight years at the ...
 
 </details>

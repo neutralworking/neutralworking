@@ -2,12 +2,12 @@
 title: Wojciech Mońka
 category: players
 tags: [CD, KKS Lech Poznań, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at KKS Lech Poznań. Archetype: Destroyer.
 person_id: 18555
-backlinks: [destroyer, kks-lech-poznan]
+backlinks: [destroyer, colossus, kks-lech-poznan]
 ---
 
 # Wojciech Mońka
@@ -18,21 +18,30 @@ backlinks: [destroyer, kks-lech-poznan]
 |---|---|
 | **Position** | CD |
 | **Club** | KKS Lech Poznań |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 19 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Wojciech Mońka projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Heading, and Discipline.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `71`.
+- Best-fit role is [[colossus]] Colossus with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Aerial Duels, Heading, and Discipline.
@@ -67,13 +76,14 @@ Wojciech Mońka projects primarily as a CD with a `Destroyer` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,6 +112,6 @@ Wojciech Mońka projects primarily as a CD with a `Destroyer` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Wil Trapp
 category: players
 tags: [CM, Minnesota United FC, United States, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Minnesota United FC. Archetype: Powerhouse-Dribbler.
 person_id: 18489
-backlinks: [powerhouse, minnesota-united-fc]
+backlinks: [powerhouse, tuttocampista, minnesota-united-fc]
 ---
 
 # Wil Trapp
@@ -21,18 +21,27 @@ backlinks: [powerhouse, minnesota-united-fc]
 | **Nation** | United States |
 | **Age** | 33 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 At 33, Trapp is a composed, durable midfielder whose pass range and accuracy have anchored possession for years, yet whose declining trajectory and declining creative and dueling capabilities make him increasingly a liability in modern midfield play. His archetype—a connector-methodista who facilitates without dominating—depends entirely on endurance and composure; both remain present, but his inability to press effectively or win the ball back becomes more exposed each season. The lack of creative sophistication and guile means he was never a playmaker; he's always been a recycler, and recyclers age poorly once their physical resilience fades. Columbus appears to be maximizing his final cycle as a calm possession anchor, a reasonable use of his remaining value, but clubs should not expect growth or sustained performance at higher competitive levels.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, First Touch, and Reactions.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ At 33, Trapp is a composed, durable midfielder whose pass range and accuracy hav
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ At 33, Trapp is a composed, durable midfielder whose pass range and accuracy hav
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

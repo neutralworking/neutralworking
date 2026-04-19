@@ -2,10 +2,10 @@
 title: Ethan Laidlaw
 category: players
 tags: [CF, Brentford, Scotland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Brentford. Archetype: None.
+summary: CF at Brentford. Archetype: —.
 person_id: 10814
 backlinks: [brentford]
 ---
@@ -20,15 +20,22 @@ backlinks: [brentford]
 | **Club** | Brentford |
 | **Nation** | Scotland |
 | **Age** | 21 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 68 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young Scottish striker still developing his game at 21, with obvious physical tools — he's got pace and some aerial presence. What he lacks is consistency of touch, positioning awareness, and the ability to create space for himself. He's not yet a senior player in the truest sense; he's getting minutes on the back of potential and squad rotation rather than current output. Give him two years and he could be something, but right now he's a prospect with talent rather than a footballer performing at a meaningful level.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A young Scottish striker still developing his game at 21, with obvious physical 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ A young Scottish striker still developing his game at 21, with obvious physical 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

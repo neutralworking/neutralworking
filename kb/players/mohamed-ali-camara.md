@@ -2,12 +2,12 @@
 title: Mohamed Ali Camara
 category: players
 tags: [CD, BSC Young Boys, Guinea, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at BSC Young Boys. Archetype: Destroyer.
 person_id: 15281
-backlinks: [destroyer, bsc-young-boys]
+backlinks: [destroyer, colossus, bsc-young-boys]
 ---
 
 # Mohamed Ali Camara
@@ -21,18 +21,26 @@ backlinks: [destroyer, bsc-young-boys]
 | **Nation** | Guinea |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 78 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Camara is a traditional Vorstopper, a towering Destroyer who dominates aerially with elite jumping, physicality, and heading, coupled with aggressive, no-nonsense tackling. He's a formidable defensive presence, but his limited technical ability means he's uncomfortable on the ball and offers nothing in terms of distribution or progressive play from the back. Don't ask him to get involved in intricate passing moves.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Physical, and Aggression.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Camara is a traditional Vorstopper, a towering Destroyer who dominates aerially 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 10.2m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ Camara is a traditional Vorstopper, a towering Destroyer who dominates aerially 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

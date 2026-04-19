@@ -2,12 +2,12 @@
 title: Eric Miller
 category: players
 tags: [CD, Portland Timbers, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Portland Timbers. Archetype: Powerhouse-Cover.
 person_id: 10752
-backlinks: [powerhouse, portland-timbers]
+backlinks: [powerhouse, sweeper, portland-timbers]
 ---
 
 # Eric Miller
@@ -18,21 +18,30 @@ backlinks: [powerhouse, portland-timbers]
 |---|---|
 | **Position** | CD |
 | **Club** | Portland Timbers |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 33 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Eric Miller projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Stamina, Acceleration, and Balance.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `72`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `72`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +71,14 @@ Eric Miller projects primarily as a CD with a `Powerhouse-Cover` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 0.3m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,5 +99,5 @@ Eric Miller projects primarily as a CD with a `Powerhouse-Cover` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

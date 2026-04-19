@@ -2,10 +2,10 @@
 title: Yazeed Al-Bakr
 category: players
 tags: [CD, Al-Ahli, Saudi Arabia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Al-Ahli. Archetype: None.
+summary: CD at Al-Ahli. Archetype: —.
 person_id: 18639
 backlinks: [al-ahli]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-ahli]
 | **Club** | Al-Ahli |
 | **Nation** | Saudi Arabia |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Forward who works tirelessly without the ball and has enough technical security to receive and lay off in a system that wants him to be a connector rather than a finisher. His movement is often predictable, and he doesn't have the spatial awareness or the finishing instinct to play in a more aggressive attacking unit. Functional option for a side that creates through width and set pieces.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Forward who works tirelessly without the ball and has enough technical security 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Forward who works tirelessly without the ball and has enough technical security 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

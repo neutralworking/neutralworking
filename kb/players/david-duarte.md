@@ -2,12 +2,12 @@
 title: David Duarte
 category: players
 tags: [CM, Bahia, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Bahia. Archetype: Destroyer-Striker.
 person_id: 22783
-backlinks: [destroyer, bahia]
+backlinks: [destroyer, tuttocampista, bahia]
 ---
 
 # David Duarte
@@ -18,21 +18,30 @@ backlinks: [destroyer, bahia]
 |---|---|
 | **Position** | CM |
 | **Club** | Bahia |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 31 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 David Duarte is a physically strong midfielder who thrives in the Metodista role, using his composure and physicality to win duels and block opposition attacks. Nevertheless, his pass accuracy and creativity are notable weaknesses, limiting his ability to dictate the flow of the game. His practical and competitive personality suggests he can be a reliable presence in the midfield, but his technical limitations may restrict his overall impact.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Blocking, Discipline, and Duels.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ David Duarte is a physically strong midfielder who thrives in the Metodista role
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 1.1m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +99,6 @@ David Duarte is a physically strong midfielder who thrives in the Metodista role
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

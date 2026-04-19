@@ -2,12 +2,12 @@
 title: Mario Gomez
 category: players
 tags: [CF, Germany, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker.
+summary: CF at —. Archetype: Striker.
 person_id: 14538
-backlinks: [striker]
+backlinks: [striker, target-forward]
 ---
 
 # Mario Gomez
@@ -17,22 +17,30 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 76 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is considered to be an aerial threat. His best ability, however, remains his ability to anticipate crosses and passes, "and position himself to shoot. Arsenal manager Arsène Wenger described him as ""a great finisher who is often in the right place to finish off moves.""[88] Moreover", his body balance and ability to hold up the ball often creates trouble for defenders. During his time at Bayern, "his ability to appear ""at the right place at the right time"" proved to be one of Bayern's most lethal attacking weapons as Franck Ribéry and Arjen Robben could often outrun defenders and provide a cross for Gómez. However", despite his goal-scoring abilities, Gómez is often accused of having limited skills., Timing	Kicker Torjägerkanone	Gómez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be €30–35 million, surpassing previous holder Márcio Amoroso. The fee is currently the third highest, after former Bayern teammates [[Mario Götze ]]and [[Javi Martínez]], respectively.[3][4] When Stuttgart became champions in 2006–07, Gómez contributed 14 goals and seven assists at the age of 21 and was selected as German Footballer of the Year.
+CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is considered to be an aerial threat. His best ability, however, remains his ability to anticipate crosses and passes, "and position himself to shoot. Arsenal manager Arsène Wenger described him as ""a great finisher who is often in the right place to finish off moves.""[88] Moreover", his body balance and ability to hold up the ball often creates trouble for defenders. During his time at Bayern, "his ability to appear ""at the right place at the right time"" proved to be one of Bayern's most lethal attacking weapons as Franck Ribéry and Arjen Robben could often outrun defenders and provide a cross for Gómez. However", despite his goal-scoring abilities, Gómez is often accused of having limited skills., Timing	Kicker Torjägerkanone	Gómez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be €30–35 million, surpassing previous holder Márcio Amoroso. The fee is currently the third highest, after former Bayern teammates [[mario-gotze]] Mario Götzeand [[javi-martinez]] Javi Martínez, respectively.[3][4] When Stuttgart became champions in 2006–07, Gómez contributed 14 goals and seven assists at the age of 21 and was selected as German Footballer of the Year.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Long Range, and Mid Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -60,12 +68,13 @@ CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is consid
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,11 +100,11 @@ CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is consid
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -106,6 +115,6 @@ CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is consid
 {}
 ---
 
-CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is considered to be an aerial threat. His best ability, however, remains his ability to anticipate crosses and passes, "and position himself to shoot. Arsenal manager Arsène Wenger described him as ""a great finisher who is often in the right place to finish off moves.""[88] Moreover", his body balance and ability to hold up the ball often creates trouble for defenders. During his time at Bayern, "his ability to appear ""at the right place at the right time"" proved to be one of Bayern's most lethal attacking weapons as Franck Ribéry and Arjen Robben could often outrun defenders and provide a cross for Gómez. However", despite his goal-scoring abilities, Gómez is often accused of having limited skills., Timing	Kicker Torjägerkanone	Gómez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be €30–35 million, surpassing previous holder Márcio Amoroso. The fee is currently the third highest, after former Bayern teammates [[Mario Götze ]]and [[Javi Martínez]], respectively.[3][4] When Stuttgart became champions in 2006–07, Gómez contributed 14 goals and seven assists at the age of 21 and was selected as German Footballer of the Year.
+CF		Target	Target Man		GER	B	77.0	Gómez can shoot with both feet, and is considered to be an aerial threat. His best ability, however, remains his ability to anticipate crosses and passes, "and position himself to shoot. Arsenal manager Arsène Wenger described him as ""a great finisher who is often in the right place to finish off moves.""[88] Moreover", his body balance and ability to hold up the ball often creates trouble for defenders. During his time at Bayern, "his ability to appear ""at the right place at the right time"" proved to be one of Bayern's most lethal attacking weapons as Franck Ribéry and Arjen Robben could often outrun defenders and provide a cross for Gómez. However", despite his goal-scoring abilities, Gómez is often accused of having limited skills., Timing	Kicker Torjägerkanone	Gómez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be €30–35 million, surpassing previous holder Márcio Amoroso. The fee is currently the third highest, after former Bayern teammates [[mario-gotze]] Mario Götzeand [[javi-martinez]] Javi Martínez, respectively.[3][4] When Stuttgart became champions in 2006–07, Gómez contributed 14 goals and seven assists at the age of 21 and was selected as German Footballer of the Year.
 
 </details>

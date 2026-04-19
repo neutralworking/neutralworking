@@ -2,12 +2,12 @@
 title: Alfonso Pedraza
 category: players
 tags: [WD, Villarreal, Spain, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Villarreal. Archetype: Destroyer-Dribbler.
 person_id: 8219
-backlinks: [destroyer, villarreal]
+backlinks: [destroyer, corner-back, villarreal]
 ---
 
 # Alfonso Pedraza
@@ -21,18 +21,27 @@ backlinks: [destroyer, villarreal]
 | **Nation** | Spain |
 | **Age** | 30 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Reliable left-back with solid crossing ability and acceptable defensive positioning; his pace is average for the position but compensated by game intelligence. Steady La Liga regular without elite upside.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Long Range, and Stamina.
@@ -68,12 +77,13 @@ Reliable left-back with solid crossing ability and acceptable defensive position
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Reliable left-back with solid crossing ability and acceptable defensive position
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

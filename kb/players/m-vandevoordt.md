@@ -2,12 +2,12 @@
 title: M. Vandevoordt
 category: players
 tags: [GK, RB Leipzig, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at RB Leipzig. Archetype: GK.
 person_id: 21654
-backlinks: [gk, rb-leipzig]
+backlinks: [gk, distributor, rb-leipzig]
 ---
 
 # M. Vandevoordt
@@ -18,21 +18,29 @@ backlinks: [gk, rb-leipzig]
 |---|---|
 | **Position** | GK |
 | **Club** | RB Leipzig |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
+| **Best Role** | [[distributor]] Distributor |
+| **Level** | — |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 M. Vandevoordt projects primarily as a GK with a `GK` lean. The strongest database support comes from Reactions, Jumping, and Physical.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Jumping, and Physical.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -63,13 +71,14 @@ M. Vandevoordt projects primarily as a GK with a `GK` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.5m |
+| Ceiling | EUR 3.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +105,6 @@ M. Vandevoordt projects primarily as a GK with a `GK` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 10 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 10 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

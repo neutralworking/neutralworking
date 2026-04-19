@@ -2,12 +2,12 @@
 title: Roger Fernandes
 category: players
 tags: [CF, Braga, Guinea-Bissau, Sprinter-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Braga. Archetype: Sprinter-Passer.
 person_id: 16777
-backlinks: [sprinter, braga]
+backlinks: [sprinter, shadow-striker, braga]
 ---
 
 # Roger Fernandes
@@ -21,18 +21,27 @@ backlinks: [sprinter, braga]
 | **Nation** | Guinea-Bissau |
 | **Age** | 20 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Roger Fernandes projects primarily as a CF with a `Sprinter-Passer` lean. The strongest database support comes from Balance, Shielding, and Reactions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `79`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `79`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, Shielding, and Reactions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Roger Fernandes projects primarily as a CF with a `Sprinter-Passer` lean. The st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,6 +102,6 @@ Roger Fernandes projects primarily as a CF with a `Sprinter-Passer` lean. The st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -1,39 +1,50 @@
 ---
 title: Al Raed
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Al Raed. 19 players in database.
+summary: Al Raed. 17 players in database.
 ---
 
 # Al Raed
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 19
+**League**: —  
+**Nation**: —  
+**Players in DB**: 17
+
+## Identity
+
+- Database coverage is deepest in GK (3), CD (2), and CF (1), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Gk (3) and Striker (1) across the current squad.
+- This article is currently a roster-structure snapshot from database coverage rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[box-entry]] Box Entry: the attacking profiles should be judged by how reliably the club turns territory into area access.
+- [[switch-of-play]] Switch of Play: the roster may be best understood through how it can move defenses before attacking the final action.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[abdullah-al-fahad]] Abdullah Al-Fahad | CD | None | None |
-| [[abdullah-al-yousef]] Abdullah Al-Yousef | CD | None | None |
-| [[karim-el-berkaoui]] Karim El Berkaoui | CF | None | None |
-| [[ahmed-al-rehaili]] Ahmed Al-Rehaili | GK | GK | None |
-| [[mashari-sunyur]] Mashari Sunyur | GK | GK | None |
-| [[mutlaq-al-hurayji]] Mutlaq Al-Hurayji | GK | GK | None |
-| [[anas-al-zahrani]] Anas Al-Zahrani | None | None | None |
-| [[bandar-whaeshi]] Bandar Whaeshi | None | None | None |
-| [[bassam-al-hamad]] Bassam Al-Hamad | None | None | None |
-| [[faisal-abdulrazaq]] Faisal Abdulrazaq | None | None | None |
-| [[hamad-al-jayzani]] Hamad Al-Jayzani | None | None | None |
-| [[julio-tavares]] Júlio Tavares | None | Striker | None |
-| [[khalid-al-subaie]] Khalid Al-Subaie | None | None | None |
-| [[mubarak-al-rajeh]] Mubarak Al-Rajeh | None | None | None |
-| [[nasser-al-hadhood]] Nasser Al-Hadhood | None | None | None |
-| [[nawaf-al-sahli]] Nawaf Al-Sahli | None | None | None |
-| [[omar-shami]] Omar Shami | None | None | None |
-| [[rakan-al-dosari]] Rakan Al-Dosari | None | None | None |
-| [[saud-al-dossari]] Saud Al-Dossari | None | None | None |
+| [[abdullah-al-fahad]] Abdullah Al-Fahad | CD | — | — |
+| [[abdullah-al-yousef]] Abdullah Al-Yousef | CD | — | — |
+| [[karim-el-berkaoui]] Karim El Berkaoui | CF | — | — |
+| [[ahmed-al-rehaili]] Ahmed Al-Rehaili | GK | GK | — |
+| [[mashari-sunyur]] Mashari Sunyur | GK | GK | — |
+| [[mutlaq-al-hurayji]] Mutlaq Al-Hurayji | GK | GK | — |
+| Anas Al-Zahrani | — | — | — |
+| Bandar Whaeshi | — | — | — |
+| Bassam Al-Hamad | — | — | — |
+| Faisal Abdulrazaq | — | — | — |
+| Júlio Tavares | — | Striker | — |
+| Mubarak Al-Rajeh | — | — | — |
+| Nasser Al-Hadhood | — | — | — |
+| Nawaf Al-Sahli | — | — | — |
+| Omar Shami | — | — | — |
+| Rakan Al-Dosari | — | — | — |
+| Saud Al-Dossari | — | — | — |

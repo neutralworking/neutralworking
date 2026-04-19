@@ -2,12 +2,12 @@
 title: Jacob Brown
 category: players
 tags: [AM, Luton Town, Scotland, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Luton Town. Archetype: Striker.
 person_id: 12184
-backlinks: [striker, luton-town]
+backlinks: [striker, incursore, luton-town]
 ---
 
 # Jacob Brown
@@ -21,18 +21,26 @@ backlinks: [striker, luton-town]
 | **Nation** | Scotland |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[incursore]] Incursore |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Scottish attacking midfielder with decent technical ability and the physicality to compete in midfield battles, though he lacks the range of passing or intelligence to run a team from that position. He's better suited as a secondary forward or inverted winger where his directness is an asset, but his decision-making still lags behind his athleticism. Solid depth, not a creator.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore`.
+- Best-fit role is [[incursore]] Incursore.
 - Primary archetype leans toward `Striker` behaviour from a `AM` base.
 - Most bankable strengths show up in Stamina, Balance, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A Scottish attacking midfielder with decent technical ability and the physicalit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +105,7 @@ A Scottish attacking midfielder with decent technical ability and the physicalit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

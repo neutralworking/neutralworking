@@ -2,7 +2,7 @@
 title: Tomé Sousa
 category: players
 tags: [GK, Boavista, Portugal, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Boavista. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, boavista]
 | **Age** | 19 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 56 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A Portuguese teenage goalkeeper with minimal senior exposure at Boavista, Sousa is effectively a prospect still learning the fundamentals of the position at professional level. There's no evidence of distribution ability, command of his box, or the kind of shot-stopping consistency that marks out keepers destined for better things. Raw academy product taking minutes in a lower-table Portuguese club—wait and see territory.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -63,10 +70,11 @@ A Portuguese teenage goalkeeper with minimal senior exposure at Boavista, Sousa 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +95,6 @@ A Portuguese teenage goalkeeper with minimal senior exposure at Boavista, Sousa 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

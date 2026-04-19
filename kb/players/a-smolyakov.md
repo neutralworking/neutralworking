@@ -2,12 +2,12 @@
 title: A. Smolyakov
 category: players
 tags: [CM, LAFC, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at LAFC. Archetype: Cover.
 person_id: 22576
-backlinks: [cover, lafc]
+backlinks: [cover, playmaker, lafc]
 ---
 
 # A. Smolyakov
@@ -18,21 +18,30 @@ backlinks: [cover, lafc]
 |---|---|
 | **Position** | CM |
 | **Club** | LAFC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his awareness and tackling to break up opposition attacks, although his limited technical ability and guile restrict his ability to pick out decisive passes, and his weaknesses in creativity and blocking make him a liability in certain situations, making him a better fit for a team that values defensive solidity and uses a direct style, where his strengths can be maximized, and his weaknesses mitigated, with a coach who can work on his tactical awareness and technical ability, and his introverted personality requiring careful management to bring out his best performances.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `69`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `69`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Through Balls, Creativity, and Threat.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +97,6 @@ A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: L. Balerdi
 category: players
 tags: [CM, Marseille, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Marseille. Archetype: Destroyer-Powerhouse.
 person_id: 20925
-backlinks: [destroyer, marseille]
+backlinks: [destroyer, playmaker, marseille]
 ---
 
 # L. Balerdi
@@ -18,21 +18,30 @@ backlinks: [destroyer, marseille]
 |---|---|
 | **Position** | CM |
 | **Club** | Marseille |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A ball-winning midfielder with genuine aggression and spatial awareness, Balerdi operates as a connector who reads the game well enough to disrupt build-ups. His jumping and marking prowess mark him as a traditional defensive midfielder, but technical limitations and inconsistent discipline undermine his ability to function as a true tuttocampista—he remains a specialist defender rather than a midfielder who can unlock phases. Clubs needing a rugged screen for a back four will find value, particularly in leagues where physicality compensates for tactical sophistication, though his limited creative range means he cannot anchor possession-dominant sides.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Marking, and Physical.
@@ -63,13 +72,14 @@ A ball-winning midfielder with genuine aggression and spatial awareness, Balerdi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A ball-winning midfielder with genuine aggression and spatial awareness, Balerdi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

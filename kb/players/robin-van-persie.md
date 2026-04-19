@@ -2,12 +2,12 @@
 title: Robin van Persie
 category: players
 tags: [CF, Feyenoord, Netherlands, Striker-Controller]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Feyenoord. Archetype: Striker-Controller.
 person_id: 16745
-backlinks: [striker, feyenoord]
+backlinks: [striker, prima-punta, feyenoord]
 ---
 
 # Robin van Persie
@@ -21,18 +21,27 @@ backlinks: [striker, feyenoord]
 | **Nation** | Netherlands |
 | **Age** | 42 |
 | **Archetype** | [[striker]] Striker-Controller |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 92 |
 | **Level** | 46 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Creator	Marksman		NED	B	75.0	Van Persie was given a starting role to play alongside Henry as a second striker. Van Persie impressed in this position, having many assists and goals to his name. Van Persie is highly regarded for his dribbling and shooting technique, but has become prone to injury. The departure of Emmanuel Adebayor and Henry meant the Dutchman was now the main striker in Wenger's 4–3–3 system	Premier League Golden Boot x2	Born in Rotterdam, he was encouraged to follow in his parents' footsteps and become an artist, but he preferred to play football and joined the youth section of Excelsior. At the age of 16, a series of disagreements with the Excelsior coaching staff led to a move to Feyenoord. He made his senior debut during the 2001–02 season, which culminated with victory in the 2002 UEFA Cup Final; he was also named as the Dutch Football Talent of the Year. After five years with Feyenoord, he fell out with manager Bert van Marwijk, and he joined English club Arsenal in 2004 for £2.75 million as a long-term replacement for compatriot Dennis Bergkamp. With victories in only the 2004 FA Community Shield and the 2004–05 FA Cup to his name, and despite being named club captain for the 2011–12 season, he joined rivals Manchester United in July 2012. In his first season, he won the 2012–13 Premier League and finished as the league's top scorer with 26 goals, winning his second consecutive Premier League Golden Boot award. After two injury-hit seasons followed, Van Persie fell out of favour at Manchester United and he was allowed to leave for Fenerbahçe in July 2015. After representing the Netherlands at under-17, under-19 and under-21 level, Van Persie made his senior international debut in 2005 in a friendly match against Romania. A month later, he scored his first senior international goal in a 4–0 win over Finland. Van Persie has over 100 caps and has scored 50 goals for the Netherlands, making him their top scorer of all time. He has represented his country at the 2006, 2010 and 2014 FIFA World Cups, and the 2008 and 2012 UEFA European Championships.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `92`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `92`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Fox In The Box.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
@@ -65,11 +74,12 @@ CF		Creator	Marksman		NED	B	75.0	Van Persie was given a starting role to play al
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,11 +104,11 @@ CF		Creator	Marksman		NED	B	75.0	Van Persie was given a starting role to play al
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

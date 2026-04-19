@@ -2,12 +2,12 @@
 title: Regan Slater
 category: players
 tags: [CM, Hull City, England, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Hull City. Archetype: Powerhouse.
 person_id: 16551
-backlinks: [powerhouse, hull-city]
+backlinks: [powerhouse, tuttocampista, hull-city]
 ---
 
 # Regan Slater
@@ -21,18 +21,27 @@ backlinks: [powerhouse, hull-city]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 63 |
 | **Level** | 83 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 English midfielder of genuine midfield quality, showing the kind of press resistance and positional intelligence that makes him reliable in possession-based phases. His range of passing is above average for his level and he rarely surrenders the ball in dangerous areas, making him a genuine asset in controlling rhythm. His limitation is dynamism — he won't suffocate opponents with intensity or generate explosive moments, so he's a regulator rather than an energiser.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `63`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `63`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Balance, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ English midfielder of genuine midfield quality, showing the kind of press resist
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ English midfielder of genuine midfield quality, showing the kind of press resist
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

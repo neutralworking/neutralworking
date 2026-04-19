@@ -2,12 +2,12 @@
 title: Miha Zajc
 category: players
 tags: [CM, Dinamo Zagreb, Slovenia, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Dinamo Zagreb. Archetype: Creator.
 person_id: 15163
-backlinks: [creator, dinamo-zagreb]
+backlinks: [creator, playmaker, dinamo-zagreb]
 ---
 
 # Miha Zajc
@@ -21,18 +21,27 @@ backlinks: [creator, dinamo-zagreb]
 | **Nation** | Slovenia |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 73 |
 | **Level** | 81 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Zajc's Artisan archetype is evident in his exceptional technical and tactical abilities, making him a strong fit for a Mezzala role where he can dictate the tempo of the game. His strengths in mid-range shooting, through balls, and movement make him a creative force on the pitch, but his limited physicality and weaknesses in duels may hinder his ability to win the ball back. A team that values possession-based football and has a strong defensive unit could benefit from Zajc's skills, but may need to adapt their system to accommodate his physical limitations.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
 - Most bankable strengths show up in Balance, First Touch, and Movement.
@@ -67,13 +76,14 @@ Zajc's Artisan archetype is evident in his exceptional technical and tactical ab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.2m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Zajc's Artisan archetype is evident in his exceptional technical and tactical ab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

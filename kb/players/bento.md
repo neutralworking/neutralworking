@@ -2,7 +2,7 @@
 title: Bento
 category: players
 tags: [GK, Al-Nassr, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Al-Nassr. Archetype: GK.
@@ -18,17 +18,24 @@ backlinks: [gk, al-nassr]
 |---|---|
 | **Position** | GK |
 | **Club** | Al-Nassr |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Bento projects primarily as a GK with a `GK` lean. The strongest database support comes from Reactions, Jumping, and Physical.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ Bento projects primarily as a GK with a `GK` lean. The strongest database suppor
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 15.8m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +101,6 @@ Bento projects primarily as a GK with a `GK` lean. The strongest database suppor
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

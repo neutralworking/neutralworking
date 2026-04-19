@@ -2,12 +2,12 @@
 title: Lyle Foster
 category: players
 tags: [CF, Burnley, South Africa, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Burnley. Archetype: Striker.
 person_id: 14258
-backlinks: [striker, burnley]
+backlinks: [striker, shadow-striker, burnley]
 ---
 
 # Lyle Foster
@@ -21,18 +21,27 @@ backlinks: [striker, burnley]
 | **Nation** | South Africa |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A South African centre-forward with some physical presence and a willingness to hold the ball up, Foster works hard off the ball and will scrap for possession. His technical ceiling is modest, though — first touch can be heavy, and he lacks the spatial intelligence to find pockets between the lines consistently. He's useful as a Plan B substitute or rotation option, but doesn't have the quality profile of a key starter.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `79`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `79`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Pace, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A South African centre-forward with some physical presence and a willingness to 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,17 +105,16 @@ A South African centre-forward with some physical presence and a willingness to 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountrySouth Africa
 
@@ -114,12 +123,6 @@ ClubOrlando Pirates
 PositionForward
 
 Born4 September 2000
-
-
-
-
-
-
 
 ****
 
@@ -134,6 +137,5 @@ Foster is starting to make an impact in the top flight – as the league’s you
 **October 2021 update** Is back in Belgium on loan, this time at Westerlo and now has five caps for Bafana Bafana.
  
 **September 2022 update** Has finally broken through by impressing on loan last year with Westerlo. In the off-season, he re-signed with Westerlo on a permanent basis and has become a regular for the Bafana Bafana attack.
-
 
 </details>

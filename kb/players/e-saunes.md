@@ -2,12 +2,12 @@
 title: E. Saunes
 category: players
 tags: [CM, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Cover-Striker.
+summary: CM at —. Archetype: Cover-Striker.
 person_id: 22052
-backlinks: [cover]
+backlinks: [cover, tuttocampista]
 ---
 
 # E. Saunes
@@ -17,22 +17,31 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 E. Saunes' Terrier archetype and Tuttocampista role suggest a player who excels at reading the game and making interceptions. His strengths in interceptions, mid-range passing, and awareness are valuable assets, but his weaknesses in long-range passing, take-ons, and guile may restrict his overall influence on the game. A club that values a technically moderate, yet physically moderate midfielder with a strong work rate would be a good fit, though his limitations in progressive carries and half-spaces may hinder his overall impact.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `72`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `72`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Discipline, Pressing, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ E. Saunes' Terrier archetype and Tuttocampista role suggest a player who excels 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ E. Saunes' Terrier archetype and Tuttocampista role suggest a player who excels 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

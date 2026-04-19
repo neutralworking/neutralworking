@@ -2,12 +2,12 @@
 title: Lluís López
 category: players
 tags: [CM, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Cover-Powerhouse.
+summary: CM at —. Archetype: Cover-Powerhouse.
 person_id: 26281
-backlinks: [cover]
+backlinks: [cover, tuttocampista]
 ---
 
 # Lluís López
@@ -17,22 +17,31 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Lluís López projects primarily as a CM with a `Cover-Powerhouse` lean. The strongest database support comes from Jumping, Physical, and Balance.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `71`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Physical, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Lluís López projects primarily as a CM with a `Cover-Powerhouse` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.6m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +104,6 @@ Lluís López projects primarily as a CM with a `Cover-Powerhouse` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

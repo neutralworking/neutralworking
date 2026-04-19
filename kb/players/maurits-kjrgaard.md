@@ -2,12 +2,12 @@
 title: Maurits Kjærgaard
 category: players
 tags: [AM, Red Bull Salzburg, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Red Bull Salzburg. Archetype: Creator.
 person_id: 19170
-backlinks: [creator, red-bull-salzburg]
+backlinks: [creator, enganche, red-bull-salzburg]
 ---
 
 # Maurits Kjærgaard
@@ -18,16 +18,17 @@ backlinks: [creator, red-bull-salzburg]
 |---|---|
 | **Position** | AM |
 | **Club** | Red Bull Salzburg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubRed Bull Salzburg
 
@@ -44,10 +45,16 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
   
 **October 2023 update** Has continued to develop and has, at the time of writing, a remarkable 73 first-team appearances for RB Salzburg. Captain of the Denmark Under-21 side, he was named Talent of the Year in his home country in February. Previous winners include Simon Kjaer, Christian Eriksen, Pierre-Emile Höjbjerg and Mikkel Damsgaard. "There are some incredibly big games on that list," he said. "But, as always, I won't put myself under any pressure."
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `72`.
+- Best-fit role is [[enganche]] Enganche with model support score `72`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Pass Accuracy, Through Balls, and Composure.
@@ -78,13 +85,14 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -108,17 +116,16 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubRed Bull Salzburg
 
@@ -133,6 +140,6 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
   
 **September 2022 update** It is probably fair to say that the youngster has had his breakthrough now, becoming a regular starter for Salzburg at the age of 19. The attacking midfielder has repaid the trust with goals and assists.  
   
-**October 2023 update** Has continued to develop and has, at the time of writing, a remarkable 73 first-team appearances for RB Salzburg. Captain of the Denmark Under-21 side, he was named Talent of the Year in his home country in February. Previous winners include Simon Kjaer, Christian Eriksen, Pierre-Emile Höjbjerg and Mikkel Damsgaard. "There are some incredibly big games on that list," he said. "But, a...
+**October 2023 update** Has continued to develop and has, at the time of writing, a remarkable 73 first-team appearances for RB Salzburg. Captain of the Denmark Under-21 side, he was named Talent of the Year in his home country in February. Previous winners include Simon Kjaer, Christian Eriksen, Pierre-Emile Höjbjerg and Mikkel Damsgaard. "There are some incredibly big games on that list," he said. "But, as...
 
 </details>

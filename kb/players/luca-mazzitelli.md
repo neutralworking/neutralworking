@@ -2,12 +2,12 @@
 title: Luca Mazzitelli
 category: players
 tags: [CM, Como, Italy, Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Como. Archetype: Passer.
 person_id: 14060
-backlinks: [passer, como]
+backlinks: [passer, playmaker, como]
 ---
 
 # Luca Mazzitelli
@@ -21,18 +21,26 @@ backlinks: [passer, como]
 | **Nation** | Italy |
 | **Age** | 30 |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A midfielder who works diligently in possession and shows decent technical security without genuine creativity or progressive ambition. He's the type who looks comfortable when his side controls the game but becomes invisible when Cagliari needs to break down a defense or impose rhythm. Reliable depth, nothing more.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Aggression, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ A midfielder who works diligently in possession and shows decent technical secur
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.3m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ A midfielder who works diligently in possession and shows decent technical secur
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

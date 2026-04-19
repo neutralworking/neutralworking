@@ -2,12 +2,12 @@
 title: M. Keita
 category: players
 tags: [CM, Parma, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Parma. Archetype: Powerhouse-Cover.
 person_id: 20272
-backlinks: [powerhouse, parma]
+backlinks: [powerhouse, tuttocampista, parma]
 ---
 
 # M. Keita
@@ -18,21 +18,30 @@ backlinks: [powerhouse, parma]
 |---|---|
 | **Position** | CM |
 | **Club** | Parma |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 67 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 M. Keita, a Warrior playing as a Tuttocampista, offers formidable physical attributes like stamina, pace, and acceleration, making him an energetic build-up contributor and high-press threat. His limited mental and technical pillars, coupled with a lack of creativity, position him as a disruptive force rather than an orchestrator, fitting the mold of a tireless box-to-box midfielder. At 23, he's a raw but powerful asset for clubs prioritizing athleticism, though significant development is needed to refine his all-around game.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `67`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `67`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Balance, Jumping, and Physical.
@@ -63,13 +72,14 @@ M. Keita, a Warrior playing as a Tuttocampista, offers formidable physical attri
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ M. Keita, a Warrior playing as a Tuttocampista, offers formidable physical attri
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

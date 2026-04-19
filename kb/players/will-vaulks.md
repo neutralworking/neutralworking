@@ -2,12 +2,12 @@
 title: Will Vaulks
 category: players
 tags: [CM, Oxford United, Wales, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Oxford United. Archetype: Powerhouse.
 person_id: 18521
-backlinks: [powerhouse, oxford-united]
+backlinks: [powerhouse, playmaker, oxford-united]
 ---
 
 # Will Vaulks
@@ -21,18 +21,27 @@ backlinks: [powerhouse, oxford-united]
 | **Nation** | Wales |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A hard-running, box-to-box midfielder who retrieves possession effectively and executes simple passes under pressure, providing the kind of industrial pressing that teams like Cardiff require, though he rarely initiates play from deeper positions and his decision-making in the final third remains crude. He's a functional cog in a compact, defensive midfield—useful for a lower-table side but clearly limited as an architect of attacking play. A reliable 6/10, nothing more.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Jumping, and Pass Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ A hard-running, box-to-box midfielder who retrieves possession effectively and e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ A hard-running, box-to-box midfielder who retrieves possession effectively and e
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

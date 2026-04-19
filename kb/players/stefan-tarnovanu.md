@@ -2,7 +2,7 @@
 title: Ștefan Târnovanu
 category: players
 tags: [GK, FCSB, Romania, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at FCSB. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, fcsb]
 | **Age** | 25 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 77 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A composed, left-footed goalkeeper who reads the game with intelligence and distributes cleanly from the back — he's the sort of keeper who actually understands what his defenders need rather than just hoofing it long. His shot-stopping is solid and consistent; he doesn't make calamitous errors, though he lacks the explosive athleticism or reflexive brilliance that separates the elite from the very good. At 25, he's a dependable fixture for a Liga I title contender, but his ceiling is probably a mid-table European club rather than a genuine Champions League regular.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ A composed, left-footed goalkeeper who reads the game with intelligence and dist
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.6m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +101,7 @@ A composed, left-footed goalkeeper who reads the game with intelligence and dist
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

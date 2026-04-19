@@ -2,12 +2,12 @@
 title: Dominik Yankov
 category: players
 tags: [CM, CF Montréal, Bulgaria, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at CF Montréal. Archetype: Creator-Striker.
 person_id: 10397
-backlinks: [creator, cf-montreal]
+backlinks: [creator, playmaker, cf-montreal]
 ---
 
 # Dominik Yankov
@@ -21,18 +21,27 @@ backlinks: [creator, cf-montreal]
 | **Nation** | Bulgaria |
 | **Age** | 25 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 77 |
 | **Level** | 82 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Dominik Yankov is a rising star with a moderate technical ability, but his creativity, guile, and discipline make him a promising prospect as a metodista. His limited blocking and composure may hinder his ability to control the tempo of the game, but his flamboyant style and take-ons make him a dynamic presence in midfield. As a competitive and structured player, Yankov can offer a spark of creativity in the midfield, but his development will require time and patience to mature into a well-rounded player.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `77`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Take Ons, Close Range, and Flair.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Dominik Yankov is a rising star with a moderate technical ability, but his creat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 28.1m |
+| Mid | EUR 33.0m |
+| Ceiling | EUR 39.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Dominik Yankov is a rising star with a moderate technical ability, but his creat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: D. Živulić
 category: players
 tags: [CM, Oţelul Galaţi, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Oţelul Galaţi. Archetype: Destroyer-Powerhouse.
 person_id: 22401
-backlinks: [destroyer, otelul-galati]
+backlinks: [destroyer, tuttocampista, otelul-galati]
 ---
 
 # D. Živulić
@@ -18,21 +18,30 @@ backlinks: [destroyer, otelul-galati]
 |---|---|
 | **Position** | CM |
 | **Club** | Oţelul Galaţi |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 D. Živulić projects primarily as a CM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Physical, Jumping, and Stamina.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `72`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Physical, Jumping, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ D. Živulić projects primarily as a CM with a `Destroyer-Powerhouse` lean. The 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,6 +107,6 @@ D. Živulić projects primarily as a CM with a `Destroyer-Powerhouse` lean. The 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

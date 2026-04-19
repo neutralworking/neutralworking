@@ -2,7 +2,7 @@
 title: Archie Mair
 category: players
 tags: [GK, Morecambe, Scotland, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Morecambe. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, morecambe]
 | **Age** | 25 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 71 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Scottish goalkeeper at an age where he should be either established or moving on, caught in that unhappy middle of the EFL without the profile or performances to suggest a Premier League future. Technically sound between the sticks but lacks the presence and decision-making that separates keepers who move up from those who stall. A nice fit for Morecambe but not a building block.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -60,13 +67,14 @@ Scottish goalkeeper at an age where he should be either established or moving on
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +95,6 @@ Scottish goalkeeper at an age where he should be either established or moving on
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

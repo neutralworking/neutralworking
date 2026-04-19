@@ -2,12 +2,12 @@
 title: Paul Akouokou
 category: players
 tags: [CM, Lyon, Ivory Coast, Destroyer-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lyon. Archetype: Destroyer-Dribbler.
 person_id: 16155
-backlinks: [destroyer, lyon]
+backlinks: [destroyer, tuttocampista, lyon]
 ---
 
 # Paul Akouokou
@@ -21,18 +21,26 @@ backlinks: [destroyer, lyon]
 | **Nation** | Ivory Coast |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Box-to-box midfielder with steady athleticism and reasonable passing accuracy, functioning as a reliable connector without particular distinction. Doesn't stand out defensively or offensively; his strength is doing the unglamorous work of position-keeping and simple possession. Squad starter caliber at a mid-table side, but wouldn't survive intense scrutiny at a title-challenging club.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Pass Accuracy, and Pass Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ Box-to-box midfielder with steady athleticism and reasonable passing accuracy, f
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 34.0m |
+| Ceiling | EUR 40.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ Box-to-box midfielder with steady athleticism and reasonable passing accuracy, f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Prince Kwabena Adu
 category: players
 tags: [CM, Plzeň, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Plzeň. Archetype: Striker-Creator.
 person_id: 16366
-backlinks: [striker, plzen]
+backlinks: [striker, playmaker, plzen]
 ---
 
 # Prince Kwabena Adu
@@ -18,16 +18,17 @@ backlinks: [striker, plzen]
 |---|---|
 | **Position** | CM |
 | **Club** | Plzeň |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubBechem United FC
 
@@ -44,10 +45,16 @@ Prince Kwabena Adu got off to a flying start at the beginning of last season, ca
   
 **October 2023 update** Finally made the move to Europe earlier this year and scored eight goals in 16 appearances in Belarus for Isloch. Adu then completed a deadline day transfer to Ukrainian club Kryvbas, but has yet to feature for them at the time of writing.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `76`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `76`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Close Range, Mid Range, and Threat.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -78,13 +85,14 @@ Prince Kwabena Adu got off to a flying start at the beginning of last season, ca
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 26.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -110,17 +118,16 @@ Prince Kwabena Adu got off to a flying start at the beginning of last season, ca
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubBechem United FC
 
@@ -136,6 +143,5 @@ Prince Kwabena Adu got off to a flying start at the beginning of last season, ca
 **September 2022 update** Despite rumours of a move to Danish club Randers FC, Adu is still at Bechem United where he enjoys regular playing time.  
   
 **October 2023 update** Finally made the move to Europe earlier this year and scored eight goals in 16 appearances in Belarus for Isloch. Adu then completed a deadline day transfer to Ukrainian club Kryvbas, but has yet to feature for them at the time of writing.
-
 
 </details>

@@ -2,12 +2,12 @@
 title: Boubakary Soumare
 category: players
 tags: [CM, Al-Duhail SC, France, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Al-Duhail SC. Archetype: Engine-Passer.
 person_id: 9126
-backlinks: [engine, al-duhail-sc]
+backlinks: [engine, metodista, al-duhail-sc]
 ---
 
 # Boubakary Soumare
@@ -21,18 +21,27 @@ backlinks: [engine, al-duhail-sc]
 | **Nation** | France |
 | **Age** | 27 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 59 |
 | **Level** | 86 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Ball-winning midfielder with excellent physicality and press resistance, capable of breaking up play and launching transitions effectively. Can be sloppy in possession and lacks creative range, so works best as a defensive screen.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `59`.
+- Best-fit role is [[metodista]] Metodista with model support score `59`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Reactions, and Marking.
@@ -67,13 +76,14 @@ Ball-winning midfielder with excellent physicality and press resistance, capable
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 13.3m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Ball-winning midfielder with excellent physicality and press resistance, capable
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

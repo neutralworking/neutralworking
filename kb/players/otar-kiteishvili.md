@@ -2,12 +2,12 @@
 title: Otar Kiteishvili
 category: players
 tags: [CM, Sturm Graz, Georgia, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sturm Graz. Archetype: Powerhouse.
 person_id: 16011
-backlinks: [powerhouse, sturm-graz]
+backlinks: [powerhouse, playmaker, sturm-graz]
 ---
 
 # Otar Kiteishvili
@@ -21,18 +21,27 @@ backlinks: [powerhouse, sturm-graz]
 | **Nation** | Georgia |
 | **Age** | 30 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 85 |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Kiteishvili, a Mezzala with a Virtuoso archetype, exhibits strong technical and physical attributes, marked by excellent shielding, balance, stamina, and acceleration. His aggressive and direct playstyle, coupled with mental fortitude, makes him a potent driving force from central areas. This player fits the mold of a dynamic, box-to-box midfielder, reminiscent of earlier attacking mezzalas who primarily relied on individual brilliance and athleticism to penetrate defenses rather than intricate tactical schemes. At 29, he represents a calculated risk for a club seeking an immediate, physically dominant presence in midfield, though his limited tactical understanding and disciplinary issues require a coaching staff capable of mitigating these weaknesses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `85`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `85`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Balance, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Kiteishvili, a Mezzala with a Virtuoso archetype, exhibits strong technical and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Kiteishvili, a Mezzala with a Virtuoso archetype, exhibits strong technical and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

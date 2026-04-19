@@ -2,12 +2,12 @@
 title: Edmilson Junior
 category: players
 tags: [CF, Al-Duhail SC, Qatar]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Al-Duhail SC. Archetype: None.
+summary: CF at Al-Duhail SC. Archetype: —.
 person_id: 28246
-backlinks: [al-duhail-sc]
+backlinks: [seconda-punta, al-duhail-sc]
 ---
 
 # Edmilson Junior
@@ -20,19 +20,28 @@ backlinks: [al-duhail-sc]
 | **Club** | Al-Duhail SC |
 | **Nation** | Qatar |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 27 |
+| **Level** | — |
 | **Overall** | 18.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Edmilson Junior projects primarily as a CF with a `None` lean. The strongest database support comes from Creativity, Long Range, and Pressing.
+Edmilson Junior projects primarily as a CF with a `—` lean. The strongest database support comes from Creativity, Long Range, and Pressing.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `27`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `27`.
 - Most bankable strengths show up in Creativity, Long Range, and Pressing.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -57,13 +66,14 @@ Edmilson Junior projects primarily as a CF with a `None` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 7.4m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +84,4 @@ Edmilson Junior projects primarily as a CF with a `None` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |

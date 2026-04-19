@@ -2,7 +2,7 @@
 title: Callum Ainley
 category: players
 tags: [CM, Crewe Alexandra, England, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Crewe Alexandra. Archetype: Sprinter.
@@ -22,13 +22,20 @@ backlinks: [sprinter, crewe-alexandra]
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Functional midfielder with decent work rate and positional discipline, but lacks the technical range to dictate play in open areas. Suits a structured, defensive setup where his job is simply to shield and recycle; he's the sort you pick for the away fixture in a hostile environment, not the sort who'll turn a game on its head. His passing is lateral and safe to the point of anonymity.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ Functional midfielder with decent work rate and positional discipline, but lacks
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +99,7 @@ Functional midfielder with decent work rate and positional discipline, but lacks
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

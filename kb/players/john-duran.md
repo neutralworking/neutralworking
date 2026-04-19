@@ -2,10 +2,10 @@
 title: John Duran
 category: players
 tags: [CF, Aston Villa, Colombia]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Aston Villa. Archetype: None.
+summary: CF at Aston Villa. Archetype: —.
 person_id: 12804
 backlinks: [aston-villa]
 ---
@@ -19,16 +19,23 @@ backlinks: [aston-villa]
 | **Position** | CF |
 | **Club** | Aston Villa |
 | **Nation** | Colombia |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 79 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Colombian teenage striker. Physically powerful, instinctive finisher. Super sub extraordinaire — scores crucial goals off the bench.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ Colombian teenage striker. Physically powerful, instinctive finisher. Super sub 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 13.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -65,5 +73,5 @@ Colombian teenage striker. Physically powerful, instinctive finisher. Super sub 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

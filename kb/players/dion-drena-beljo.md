@@ -2,12 +2,12 @@
 title: Dion Drena Beljo
 category: players
 tags: [CF, Dinamo Zagreb, Croatia, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Dinamo Zagreb. Archetype: Striker.
 person_id: 10338
-backlinks: [striker, dinamo-zagreb]
+backlinks: [striker, shadow-striker, dinamo-zagreb]
 ---
 
 # Dion Drena Beljo
@@ -19,20 +19,29 @@ backlinks: [striker, dinamo-zagreb]
 | **Position** | CF |
 | **Club** | Dinamo Zagreb |
 | **Nation** | Croatia |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 67 |
 | **Level** | 72 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, direct forward who understands how to occupy defenders and win loose balls in the box, but lacks the technical sophistication or movement intelligence of a truly elite striker. He's at his best when Augsburg can feed him early and let him work on instinct, though his first touch can be heavy and his positioning doesn't suggest the spatial awareness needed to exploit half-spaces. At Bundesliga level he's a functional target man, useful on the counter when angles are clear, but he won't create much for himself or unlock defences with runs.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `67`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `67`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Physical, and Movement.
@@ -63,13 +72,14 @@ A physical, direct forward who understands how to occupy defenders and win loose
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A physical, direct forward who understands how to occupy defenders and win loose
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: Muteb Al-Mufarrij
 category: players
 tags: [CD, Al Hilal, Saudi Arabia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Al Hilal. Archetype: None.
+summary: CD at Al Hilal. Archetype: —.
 person_id: 15458
 backlinks: [al-hilal]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-hilal]
 | **Club** | Al Hilal |
 | **Nation** | Saudi Arabia |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fullback offering athleticism and decent crossing ability, Al-Mufarrij works adequately in an attacking system but shows limited defensive acuity and is vulnerable to genuine one-v-one situations. At 29, he's established himself as a functional squad piece rather than developing toward elite status. His contribution is peripheral rather than central.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A fullback offering athleticism and decent crossing ability, Al-Mufarrij works a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A fullback offering athleticism and decent crossing ability, Al-Mufarrij works a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

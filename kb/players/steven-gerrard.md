@@ -2,12 +2,12 @@
 title: Steven Gerrard
 category: players
 tags: [CM, Los Angeles Galaxy, England, Commander-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Los Angeles Galaxy. Archetype: Commander-Striker.
 person_id: 17666
-backlinks: [commander, los-angeles-galaxy]
+backlinks: [commander, mezzala, los-angeles-galaxy]
 ---
 
 # Steven Gerrard
@@ -21,9 +21,11 @@ backlinks: [commander, los-angeles-galaxy]
 | **Nation** | England |
 | **Age** | 45 |
 | **Archetype** | [[commander]] Commander-Striker |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 93 |
 | **Level** | 46 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -39,7 +41,7 @@ tier: A
 score: 87.3	
 —-
 
-[[Versatility]], [[Graft]], [[Box To Box]], [[Robust]], Aggression, [[Dogged]], [[Scrappy]], [[Engine]], [[DB/Docs 1/Players/Classes/Playmaker]], [[Power Finish]], [[DB/Docs 1/Players/Classes/Box Crasher]], [[Orchestrator]], Aerial Threat, Shooting Range, FK Taker, PK Taker, Vision, Striking, Accuracy, Passing Range, Tempo, Dark Arts, Tactical Intelligence, Leadership, Determination, Influence, Game Reading		30/5/1980 
+Versatility, Graft, Box To Box, Robust, Aggression, Dogged, Scrappy, [[engine]] Engine, DB/Docs 1/Players/Classes/Playmaker, Power Finish, DB/Docs 1/Players/Classes/Box Crasher, Orchestrator, Aerial Threat, Shooting Range, FK Taker, PK Taker, Vision, Striking, Accuracy, Passing Range, Tempo, Dark Arts, Tactical Intelligence, Leadership, Determination, Influence, Game Reading		30/5/1980 
 
 Weakness
 Pace
@@ -48,9 +50,16 @@ Touch
 Agility
 LF
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `93`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `93`.
 - Primary archetype leans toward `Commander` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Long Range Threat and Captain Leader.
 - Most bankable strengths show up in Pass Accuracy, Pass Range, and Long Range.
@@ -83,11 +92,12 @@ LF
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -113,11 +123,11 @@ LF
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -139,7 +149,7 @@ tier: A
 score: 87.3	
 —-
 
-[[Versatility]], [[Graft]], [[Box To Box]], [[Robust]], Aggression, [[Dogged]], [[Scrappy]], [[Engine]], [[DB/Docs 1/Players/Classes/Playmaker]], [[Power Finish]], [[DB/Docs 1/Players/Classes/Box Crasher]], [[Orchestrator]], Aerial Threat, Shooting Range, FK Taker, PK Taker, Vision, Striking, Accuracy, Passing Range, Tempo, Dark Arts, Tactical Intelligence, Leadership, Determination, Influence, Game Reading		30/5/1980 
+Versatility, Graft, Box To Box, Robust, Aggression, Dogged, Scrappy, [[engine]] Engine, DB/Docs 1/Players/Classes/Playmaker, Power Finish, DB/Docs 1/Players/Classes/Box Crasher, Orchestrator, Aerial Threat, Shooting Range, FK Taker, PK Taker, Vision, Striking, Accuracy, Passing Range, Tempo, Dark Arts, Tactical Intelligence, Leadership, Determination, Influence, Game Reading		30/5/1980 
 
 Weakness
 Pace

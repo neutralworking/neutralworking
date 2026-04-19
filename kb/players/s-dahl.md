@@ -2,12 +2,12 @@
 title: S. Dahl
 category: players
 tags: [CM, Benfica, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Benfica. Archetype: Creator-Destroyer.
 person_id: 20479
-backlinks: [creator, benfica]
+backlinks: [creator, playmaker, benfica]
 ---
 
 # S. Dahl
@@ -18,21 +18,30 @@ backlinks: [creator, benfica]
 |---|---|
 | **Position** | CM |
 | **Club** | Benfica |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator-Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 68 |
 | **Level** | 73 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Dahl's Connector archetype and Metodista role are a natural fit, as he excels in a deep-lying playmaking position, using his creativity and pass accuracy to dictate the tempo of the game. His awareness and tackling ability also make him a solid presence in midfield, but his limited mental pillar and lack of blocking ability can make it difficult for him to adapt to changing circumstances. A team with a strong, structured approach could help him thrive, particularly in a possession-based system.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `68`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `68`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and High Press.
 - Most bankable strengths show up in Discipline, Composure, and Duels.
@@ -63,13 +72,14 @@ Dahl's Connector archetype and Metodista role are a natural fit, as he excels in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Dahl's Connector archetype and Metodista role are a natural fit, as he excels in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Fernando Hierro
 category: players
 tags: [CD, Spain, Commander-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: Commander-Destroyer.
+summary: CD at —. Archetype: Commander-Destroyer.
 person_id: 11000
-backlinks: [commander]
+backlinks: [commander, zagueiro]
 ---
 
 # Fernando Hierro
@@ -17,22 +17,31 @@ backlinks: [commander]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 58 |
 | **Archetype** | [[commander]] Commander-Destroyer |
+| **Best Role** | [[zagueiro]] Zagueiro |
+| **Role Score** | 90 |
 | **Level** | 45 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he won five La Liga and three UEFA Champions League trophies over the course of nearly 15 years.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Zagueiro` with model support score `90`.
+- Best-fit role is [[zagueiro]] Zagueiro with model support score `90`.
 - Primary archetype leans toward `Commander` behaviour from a `CD` base.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -47,10 +56,11 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +71,8 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -74,6 +84,5 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 ---
 
 	CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he won five La Liga and three UEFA Champions League trophies over the course of nearly 15 years.
-
 
 </details>

@@ -2,12 +2,12 @@
 title: Franz Beckenbauer
 category: players
 tags: [CD, Germany, Controller-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at None. Archetype: Controller-Cover.
+summary: CD at —. Archetype: Controller-Cover.
 person_id: 11165
-backlinks: [controller]
+backlinks: [controller, libero]
 ---
 
 # Franz Beckenbauer
@@ -17,13 +17,15 @@ backlinks: [controller]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 80 |
 | **Archetype** | [[controller]] Controller-Cover |
+| **Best Role** | [[libero]] Libero |
+| **Role Score** | 95 |
 | **Level** | 48 |
 | **Overall** | 49.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -33,9 +35,16 @@ Sweeper, Liberal, Passing Range, Intricacy, Gifted, Dogged, Box Crasher, Ball Co
 ---
 http://spielverlagerung.com/2016/12/24/franz-beckenbauer-the-kaiser/
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Libero` with model support score `95`.
+- Best-fit role is [[libero]] Libero with model support score `95`.
 - Primary archetype leans toward `Controller` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Sweeper Reader and Captain Leader.
 - Most bankable strengths show up in Anticipation, Awareness, and Communication.
@@ -69,10 +78,11 @@ http://spielverlagerung.com/2016/12/24/franz-beckenbauer-the-kaiser/
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,10 +98,10 @@ http://spielverlagerung.com/2016/12/24/franz-beckenbauer-the-kaiser/
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

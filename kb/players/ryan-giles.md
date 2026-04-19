@@ -2,12 +2,12 @@
 title: Ryan Giles
 category: players
 tags: [WD, Hull City, England, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Hull City. Archetype: Creator-Sprinter.
 person_id: 16948
-backlinks: [creator, hull-city]
+backlinks: [creator, corner-back, hull-city]
 ---
 
 # Ryan Giles
@@ -21,18 +21,27 @@ backlinks: [creator, hull-city]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Left winger with genuine pace and a willingness to run directly at full-backs, which is his currency in the modern game. He operates best on the outside and has improved his decision-making in the final third compared to earlier in his career. The limitation is clear: he struggles to create from congested central areas and his crossing consistency varies wildly. A functional, squad-rotation option who can trouble defenders on his day but lacks the technical sophistication to be a consistent creator for a side with ambitions.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `77`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `77`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Left winger with genuine pace and a willingness to run directly at full-backs, w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.3m |
+| Mid | EUR 33.0m |
+| Ceiling | EUR 39.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,11 +104,11 @@ Left winger with genuine pace and a willingness to run directly at full-backs, w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

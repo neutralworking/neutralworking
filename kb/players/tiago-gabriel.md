@@ -2,12 +2,12 @@
 title: Tiago Gabriel
 category: players
 tags: [CM, Lecce, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lecce. Archetype: Cover.
 person_id: 20254
-backlinks: [cover, lecce]
+backlinks: [cover, tuttocampista, lecce]
 ---
 
 # Tiago Gabriel
@@ -18,21 +18,30 @@ backlinks: [cover, lecce]
 |---|---|
 | **Position** | CM |
 | **Club** | Lecce |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 21 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Tiago Gabriel is a Colossus archetype who is best utilized as a Tuttocampista, using his discipline, guile, and tackling ability to break up opposition attacks, but his limited technical and tactical skills, combined with a lack of pass accuracy and vision, make him a more defensive-minded player, and his introverted personality may impact his ability to assert himself on the pitch.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Duels, Awareness, and Blocking.
@@ -66,13 +75,14 @@ Tiago Gabriel is a Colossus archetype who is best utilized as a Tuttocampista, u
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Tiago Gabriel is a Colossus archetype who is best utilized as a Tuttocampista, u
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

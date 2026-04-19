@@ -2,12 +2,12 @@
 title: Josh Koroma
 category: players
 tags: [WF, Huddersfield Town, England, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Huddersfield Town. Archetype: Sprinter.
 person_id: 13058
-backlinks: [sprinter, huddersfield-town]
+backlinks: [sprinter, inverted-winger, huddersfield-town]
 ---
 
 # Josh Koroma
@@ -21,18 +21,26 @@ backlinks: [sprinter, huddersfield-town]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 81 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Tricky winger with decent close control and the ability to create moments of magic in one-v-one situations, but he's inconsistent with his positioning and often uninvolved in matches where play is structured. Lacks the decision-making to be a reliable final-ball provider and his defensive work is perfunctory. Squad option who thrives on chaos rather than systematic football.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Pace, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Tricky winger with decent close control and the ability to create moments of mag
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 22.1m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +98,7 @@ Tricky winger with decent close control and the ability to create moments of mag
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

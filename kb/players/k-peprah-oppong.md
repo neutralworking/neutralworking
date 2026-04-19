@@ -2,12 +2,12 @@
 title: K. Peprah Oppong
 category: players
 tags: [CM, Nice, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Nice. Archetype: Destroyer.
 person_id: 20621
-backlinks: [destroyer, nice]
+backlinks: [destroyer, metodista, nice]
 ---
 
 # K. Peprah Oppong
@@ -18,21 +18,30 @@ backlinks: [destroyer, nice]
 |---|---|
 | **Position** | CM |
 | **Club** | Nice |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Oppong's Connector archetype and Ball Winner blueprint make him a tenacious midfielder, adept at blocking and duels, but his limited technical ability and pass accuracy are notable weaknesses, and he would be well-suited to a high-intensity, counter-pressing system, where his elegant and build-up contributor traits can be leveraged, and a team seeking a destroyer-type midfielder would appreciate his skills, although his limitations in mid-range and close-range passing pose a risk, and a club with a strong, possession-based approach may not be the best fit.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `73`.
+- Best-fit role is [[metodista]] Metodista with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Blocking, Duels, and Pass Accuracy.
@@ -63,13 +72,14 @@ Oppong's Connector archetype and Ball Winner blueprint make him a tenacious midf
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Oppong's Connector archetype and Ball Winner blueprint make him a tenacious midf
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

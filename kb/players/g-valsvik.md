@@ -2,12 +2,12 @@
 title: G. Valsvik
 category: players
 tags: [CM, OM, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at OM. Archetype: Destroyer-Powerhouse.
 person_id: 22248
-backlinks: [destroyer, om]
+backlinks: [destroyer, tuttocampista, om]
 ---
 
 # G. Valsvik
@@ -18,21 +18,30 @@ backlinks: [destroyer, om]
 |---|---|
 | **Position** | CM |
 | **Club** | OM |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 32 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 G. Valsvik is a powerful, athletic midfielder who fits the Tuttocampista role, leveraging his exceptional physicality, stamina, and jumping ability to dominate aerial battles and win the ball back. While he struggles with guile, creativity, and volleys, his endurance trait makes him a reliable presence over the course of a long season. A club seeking a destroyer-type midfielder who can provide a strong, physical presence in the midfield and allow more skilled players to create would find him to be a useful asset.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Physical, Jumping, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ G. Valsvik is a powerful, athletic midfielder who fits the Tuttocampista role, l
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ G. Valsvik is a powerful, athletic midfielder who fits the Tuttocampista role, l
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

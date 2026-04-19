@@ -2,7 +2,7 @@
 title: Chris Rindov
 category: players
 tags: [CD, Sporting Kansas City, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Sporting Kansas City. Archetype: Destroyer-Powerhouse.
@@ -18,17 +18,24 @@ backlinks: [destroyer, sporting-kansas-city]
 |---|---|
 | **Position** | CD |
 | **Club** | Sporting Kansas City |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Chris Rindov projects primarily as a CD with a `Destroyer-Powerhouse` lean. The strongest database support comes from Physical, Jumping, and Stamina.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ Chris Rindov projects primarily as a CD with a `Destroyer-Powerhouse` lean. The 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +101,6 @@ Chris Rindov projects primarily as a CD with a `Destroyer-Powerhouse` lean. The 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

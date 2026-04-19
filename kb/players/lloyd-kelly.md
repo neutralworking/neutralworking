@@ -2,12 +2,12 @@
 title: Lloyd Kelly
 category: players
 tags: [CD, Juventus, England, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Juventus. Archetype: Destroyer-Powerhouse.
 person_id: 13988
-backlinks: [destroyer, juventus]
+backlinks: [destroyer, stopper, juventus]
 ---
 
 # Lloyd Kelly
@@ -21,18 +21,27 @@ backlinks: [destroyer, juventus]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Centre-back on loan functioning as squad depth, technically adequate but not representing meaningful defensive upgrade over Juventus' established centre-back pairing; useful rotation rather than transformative signing.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `80`.
+- Best-fit role is [[stopper]] Stopper with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
@@ -67,13 +76,14 @@ Centre-back on loan functioning as squad depth, technically adequate but not rep
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Centre-back on loan functioning as squad depth, technically adequate but not rep
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

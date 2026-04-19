@@ -2,12 +2,12 @@
 title: B. Whiteman
 category: players
 tags: [CM, Preston North End, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Preston North End. Archetype: Destroyer-Powerhouse.
 person_id: 20204
-backlinks: [destroyer, preston-north-end]
+backlinks: [destroyer, tuttocampista, preston-north-end]
 ---
 
 # B. Whiteman
@@ -18,21 +18,30 @@ backlinks: [destroyer, preston-north-end]
 |---|---|
 | **Position** | CM |
 | **Club** | Preston North End |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 B. Whiteman projects primarily as a CM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Pass Range, Crossing, and First Touch.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Range, Crossing, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ B. Whiteman projects primarily as a CM with a `Destroyer-Powerhouse` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,6 +108,6 @@ B. Whiteman projects primarily as a CM with a `Destroyer-Powerhouse` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

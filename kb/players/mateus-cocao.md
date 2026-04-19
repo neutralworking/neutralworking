@@ -2,12 +2,12 @@
 title: Mateus Cocão
 category: players
 tags: [CM, Vasco da Gama, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Vasco da Gama. Archetype: Cover.
 person_id: 24094
-backlinks: [cover, vasco-da-gama]
+backlinks: [cover, tuttocampista, vasco-da-gama]
 ---
 
 # Mateus Cocão
@@ -18,21 +18,30 @@ backlinks: [cover, vasco-da-gama]
 |---|---|
 | **Position** | CM |
 | **Club** | Vasco da Gama |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Mateus Cocão functions as a physically strong Tuttocampista, excelling in defensive actions with high-level interceptions, tackling, and general awareness, making him a potent force in a high-press system. His composure and ability to win duels highlight a robust mental and physical game, forming the backbone of his midfield presence. However, a limited tactical understanding, combined with deficiencies in vision, close-range passing, and overall creativity, means he struggles to progress play effectively, limiting his utility to more defensively oriented roles in structured setups.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `71`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Awareness, and Duels.
@@ -62,13 +71,14 @@ Mateus Cocão functions as a physically strong Tuttocampista, excelling in defen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ Mateus Cocão functions as a physically strong Tuttocampista, excelling in defen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

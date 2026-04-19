@@ -2,12 +2,12 @@
 title: A. Kayombo
 category: players
 tags: [CM, Sturm Graz, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sturm Graz. Archetype: Destroyer-Creator.
 person_id: 25943
-backlinks: [destroyer, sturm-graz]
+backlinks: [destroyer, ball-winner, sturm-graz]
 ---
 
 # A. Kayombo
@@ -18,21 +18,29 @@ backlinks: [destroyer, sturm-graz]
 |---|---|
 | **Position** | CM |
 | **Club** | Sturm Graz |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 81 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A. Kayombo is a promising young Tuttocampista, using his composure, creativity, and tackling to control the tempo of a game, but his limited technical and tactical pillars mean he can struggle to create scoring opportunities, and his weaknesses in mid_range and long_range shooting make him a work in progress, making him a good fit for a mid-table club looking to develop a young player.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Skills, Concentration, and Intensity.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ A. Kayombo is a promising young Tuttocampista, using his composure, creativity, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 20.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +97,6 @@ A. Kayombo is a promising young Tuttocampista, using his composure, creativity, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

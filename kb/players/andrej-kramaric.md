@@ -2,12 +2,12 @@
 title: Andrej Kramarić
 category: players
 tags: [CF, 1899 Hoffenheim, Croatia, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker-Creator.
 person_id: 8478
-backlinks: [striker, 1899-hoffenheim]
+backlinks: [striker, seconda-punta, 1899-hoffenheim]
 ---
 
 # Andrej Kramarić
@@ -21,18 +21,27 @@ backlinks: [striker, 1899-hoffenheim]
 | **Nation** | Croatia |
 | **Age** | 34 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced Croatian striker with shrewd positioning, decent movement in the box, and leadership qualities, but age-related decline in pace and athleticism means he's now a rotational player rather than the force he once was. Still adds value through professionalism and intelligence.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `79`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `79`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Balance, Reactions, and Shielding.
@@ -67,13 +76,14 @@ Experienced Croatian striker with shrewd positioning, decent movement in the box
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Experienced Croatian striker with shrewd positioning, decent movement in the box
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

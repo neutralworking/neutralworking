@@ -2,12 +2,12 @@
 title: Aymeric Laporte
 category: players
 tags: [CD, Athletic Bilbao, Spain, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Athletic Bilbao. Archetype: Dribbler.
 person_id: 8830
-backlinks: [dribbler, athletic-bilbao]
+backlinks: [dribbler, sweeper, athletic-bilbao]
 ---
 
 # Aymeric Laporte
@@ -21,18 +21,27 @@ backlinks: [dribbler, athletic-bilbao]
 | **Nation** | Spain |
 | **Age** | 31 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 66 |
 | **Level** | 83 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Still operating at an excellent level despite his age, reading the game with intelligence and composure that most defenders never acquire, building play out from the back with genuine class. The pace has undeniably diminished, making him vulnerable to runners in behind, and he'll be less and less reliable as athletic demands increase.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `66`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `66`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Reactions, First Touch, and Heading.
@@ -67,13 +76,14 @@ Still operating at an excellent level despite his age, reading the game with int
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Still operating at an excellent level despite his age, reading the game with int
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

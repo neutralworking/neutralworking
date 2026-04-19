@@ -2,12 +2,12 @@
 title: Robin Koch
 category: players
 tags: [CD, Eintracht Frankfurt, Germany, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Eintracht Frankfurt. Archetype: Powerhouse-Cover.
 person_id: 16736
-backlinks: [powerhouse, eintracht-frankfurt]
+backlinks: [powerhouse, sweeper, eintracht-frankfurt]
 ---
 
 # Robin Koch
@@ -21,18 +21,27 @@ backlinks: [powerhouse, eintracht-frankfurt]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-back with excellent distribution range and the kind of calm on the ball that allows Frankfurt to progress into midfield with purpose. His one-v-one defending is still solid, but his aerial dominance has diminished with age and he can be exploited by aggressive, technical forwards who run between the lines. Cerebral defender who manages space well; no longer a world-beater, but absolutely the kind of steady influence a side fighting for European qualification needs.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `81`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `81`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Heading, Jumping, and Physical.
@@ -67,13 +76,14 @@ A centre-back with excellent distribution range and the kind of calm on the ball
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A centre-back with excellent distribution range and the kind of calm on the ball
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

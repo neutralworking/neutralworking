@@ -2,12 +2,12 @@
 title: J. Mena
 category: players
 tags: [CM, Club Atlético Bucaramanga, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Club Atlético Bucaramanga. Archetype: Cover-Striker.
 person_id: 21726
-backlinks: [cover, club-atletico-bucaramanga]
+backlinks: [cover, ball-winner, club-atletico-bucaramanga]
 ---
 
 # J. Mena
@@ -18,21 +18,30 @@ backlinks: [cover, club-atletico-bucaramanga]
 |---|---|
 | **Position** | CM |
 | **Club** | Club Atlético Bucaramanga |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 57.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 J. Mena projects primarily as a CM with a `Cover-Striker` lean. The strongest database support comes from Stamina, Technical, and Through Balls.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `69`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `69`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Technical, and Through Balls.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ J. Mena projects primarily as a CM with a `Cover-Striker` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,6 +108,6 @@ J. Mena projects primarily as a CM with a `Cover-Striker` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

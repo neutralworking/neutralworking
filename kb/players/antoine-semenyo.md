@@ -2,12 +2,12 @@
 title: Antoine Semenyo
 category: players
 tags: [WF, Bournemouth, Ghana, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Bournemouth. Archetype: Striker-Engine.
 person_id: 8616
-backlinks: [striker, bournemouth]
+backlinks: [striker, winger, bournemouth]
 ---
 
 # Antoine Semenyo
@@ -21,18 +21,27 @@ backlinks: [striker, bournemouth]
 | **Nation** | Ghana |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 84 |
 | **Level** | 88 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Powerful, direct winger. Pace and physicality cause problems but final ball and decision-making need refinement.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `84`.
+- Best-fit role is [[winger]] Winger with model support score `84`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Aggression, Carries, and Duels.
@@ -63,13 +72,14 @@ Powerful, direct winger. Pace and physicality cause problems but final ball and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 66.3m |
+| Mid | EUR 78.0m |
+| Ceiling | EUR 93.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Powerful, direct winger. Pace and physicality cause problems but final ball and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

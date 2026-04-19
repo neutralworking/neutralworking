@@ -2,12 +2,12 @@
 title: Sergi Roberto
 category: players
 tags: [DM, Como, Spain, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Como. Archetype: Creator.
 person_id: 17335
-backlinks: [creator, como]
+backlinks: [creator, regista, como]
 ---
 
 # Sergi Roberto
@@ -21,18 +21,27 @@ backlinks: [creator, como]
 | **Nation** | Spain |
 | **Age** | 34 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Spanish midfielder who's been around excellence long enough to understand the game, but at 34 he's a shadow of his Barcelona utility days. He can recycle possession and understands positioning, but he has no burst to his movement and he'll be overrun in any midfield battle against younger, more athletic opponents. A squad option and locker-room influence, nothing more.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `78`.
+- Best-fit role is [[regista]] Regista with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Pace, and First Touch.
@@ -67,13 +76,14 @@ A Spanish midfielder who's been around excellence long enough to understand the 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A Spanish midfielder who's been around excellence long enough to understand the 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

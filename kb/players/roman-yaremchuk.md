@@ -2,12 +2,12 @@
 title: Roman Yaremchuk
 category: players
 tags: [CF, Lyon, Ukraine, Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Lyon. Archetype: Target.
 person_id: 16807
-backlinks: [target, lyon]
+backlinks: [target, spearhead, lyon]
 ---
 
 # Roman Yaremchuk
@@ -21,18 +21,27 @@ backlinks: [target, lyon]
 | **Nation** | Ukraine |
 | **Age** | 30 |
 | **Archetype** | [[target]] Target |
+| **Best Role** | [[spearhead]] Spearhead |
+| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Yaremchuk's strengths as a Target Man lie in his aerial ability, physical presence, and movement, which allow him to hold up the ball and bring others into play. However, his limited technical ability and tactical awareness can make it difficult for him to influence the game in more advanced areas, and his lack of carries and guile can make him a predictable threat. A team that values a direct, physical approach and has a strong supply of crosses into the box could find a use for Yaremchuk, and his availability and durability make him a reliable option up front.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead` with model support score `77`.
+- Best-fit role is [[spearhead]] Spearhead with model support score `77`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Close Range, and Heading.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -64,12 +73,13 @@ Yaremchuk's strengths as a Target Man lie in his aerial ability, physical presen
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Yaremchuk's strengths as a Target Man lie in his aerial ability, physical presen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

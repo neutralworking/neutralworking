@@ -2,12 +2,12 @@
 title: E. Fernández
 category: players
 tags: [CM, Bayer Leverkusen, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Bayer Leverkusen. Archetype: Cover-Striker.
 person_id: 21065
-backlinks: [cover, bayer-leverkusen]
+backlinks: [cover, playmaker, bayer-leverkusen]
 ---
 
 # E. Fernández
@@ -18,21 +18,30 @@ backlinks: [cover, bayer-leverkusen]
 |---|---|
 | **Position** | CM |
 | **Club** | Bayer Leverkusen |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Fernández is a technically gifted midfielder who excels in areas such as close-range finishing and duels, but his mental weaknesses and lack of vision on the ball can limit his team's ability to create scoring opportunities. Tactically, he fits into the tradition of playmakers who provide a creative spark in midfield. From a squad-building perspective, he would be a valuable asset for a team that values possession and needs a midfielder who can control the tempo of the game, but his limitations in defensive phases must be considered.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Threat, Through Balls, and Creativity.
@@ -62,13 +71,14 @@ Fernández is a technically gifted midfielder who excels in areas such as close-
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Fernández is a technically gifted midfielder who excels in areas such as close-
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

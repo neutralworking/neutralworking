@@ -2,12 +2,12 @@
 title: Pascal Groß
 category: players
 tags: [CM, Borussia Dortmund, Germany, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Borussia Dortmund. Archetype: Creator-Passer.
 person_id: 16097
-backlinks: [creator, borussia-dortmund]
+backlinks: [creator, playmaker, borussia-dortmund]
 ---
 
 # Pascal Groß
@@ -21,18 +21,27 @@ backlinks: [creator, borussia-dortmund]
 | **Nation** | Germany |
 | **Age** | 34 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 82 |
 | **Level** | 73 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Accurate short-range passer with exemplary professionalism and the tactical discipline to cover space when asked, though at 34 he's largely a reliable squad filler rather than a creative force. He knows his limitations and executes them well, but there's little upside here—a player managing his career rather than extending it.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `82`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `82`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in First Touch, Pass Range, and Reactions.
@@ -69,11 +78,12 @@ Accurate short-range passer with exemplary professionalism and the tactical disc
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Accurate short-range passer with exemplary professionalism and the tactical disc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

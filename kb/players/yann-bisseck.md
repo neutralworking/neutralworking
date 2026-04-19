@@ -2,12 +2,12 @@
 title: Yann Bisseck
 category: players
 tags: [CD, Inter Milan, Germany, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Inter Milan. Archetype: Engine-Dribbler.
 person_id: 18599
-backlinks: [engine, inter-milan]
+backlinks: [engine, sweeper, inter-milan]
 ---
 
 # Yann Bisseck
@@ -21,18 +21,27 @@ backlinks: [engine, inter-milan]
 | **Nation** | Germany |
 | **Age** | 25 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 German centre-back improving rapidly. Physical, aggressive, comfortable on the ball. Growing into a key defender.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `82`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `82`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Physical, and Reactions.
@@ -67,13 +76,14 @@ German centre-back improving rapidly. Physical, aggressive, comfortable on the b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ German centre-back improving rapidly. Physical, aggressive, comfortable on the b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

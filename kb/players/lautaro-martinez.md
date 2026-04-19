@@ -2,12 +2,12 @@
 title: Lautaro Martínez
 category: players
 tags: [CF, Inter Milan, Argentina, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Inter Milan. Archetype: Striker-Creator.
 person_id: 20182
-backlinks: [striker, inter-milan]
+backlinks: [striker, seconda-punta, inter-milan]
 ---
 
 # Lautaro Martínez
@@ -21,6 +21,8 @@ backlinks: [striker, inter-milan]
 | **Nation** | Argentina |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 89 |
 | **Level** | 89 |
 | **Overall** | 77.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [striker, inter-milan]
 
 A complete centre-forward at his peak, capable of both leading the line physically and operating deep to link play, with genuine athleticism and a keen finishing instinct. He's press-resistant, capable of turning in tight spaces, and has developed into a proper nine rather than an inverted option. His weakness is that he can be isolated if Inter lose midfield control, and his output will naturally fluctuate depending on service—he's world-class but not generational.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `89`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `89`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Balance, and Reactions.
@@ -63,13 +72,14 @@ A complete centre-forward at his peak, capable of both leading the line physical
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 62.0m |
+| Mid | EUR 73.0m |
+| Ceiling | EUR 93.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ A complete centre-forward at his peak, capable of both leading the line physical
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -1,94 +1,70 @@
 ---
-title: Park Seung-Wook
+title: Park Seung-wook
 category: players
-tags: [CM, Gimcheon Sangmu FC, Destroyer]
-updated: 2026-04-18
+tags: [CD, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CM at Gimcheon Sangmu FC. Archetype: Destroyer.
-person_id: 24941
-backlinks: [destroyer, gimcheon-sangmu-fc]
+confidence: low
+summary: CD at —. Archetype: —.
+person_id: 27958
 ---
 
-# Park Seung-Wook
+# Park Seung-wook
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | Gimcheon Sangmu FC |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[destroyer]] Destroyer |
-| **Level** | None |
-| **Overall** | 26.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | CD |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 28 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Park Seung-Wook projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Skills, Concentration, and Aggression.
+Park Seung-wook is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Most bankable strengths show up in Skills, Concentration, and Aggression.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on Skills, Concentration, and Aggression.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## Out of Possession
 
 - Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Skills | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Aggression | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Communication | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Drive | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Leadership | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Mental | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Pressing | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 57
-- **Social (TF)**: 43
-- **Pressure (JP)**: 58
-- **Competitiveness**: 2/10
-- **Coachability**: 1/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

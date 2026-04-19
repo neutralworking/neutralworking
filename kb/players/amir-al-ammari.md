@@ -1,45 +1,52 @@
 ---
-title: Amir Al Ammari
+title: Amir Al-Ammari
 category: players
-tags: [CM, Cracovia Kraków, Creator-Cover]
-updated: 2026-04-17
+tags: [CM, IFK Göteborg, Sweden, Powerhouse]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Cracovia Kraków. Archetype: Creator-Cover.
-person_id: 22901
-backlinks: [creator, cracovia-krakow]
+summary: CM at IFK Göteborg. Archetype: Powerhouse.
+person_id: 8358
+backlinks: [powerhouse, ifk-goteborg]
 ---
 
-# Amir Al Ammari
+# Amir Al-Ammari
 
 ## Overview
 
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Cracovia Kraków |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[creator]] Creator-Cover |
-| **Level** | 78 |
-| **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Club** | IFK Göteborg |
+| **Nation** | Sweden |
+| **Age** | 28 |
+| **Archetype** | [[powerhouse]] Powerhouse |
+| **Level** | 80 |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
-Amir Al Ammari projects primarily as a CM with a `Creator-Cover` lean. The strongest database support comes from Creativity, Flair, and Interceptions.
+Amir Al-Ammari projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Stamina, Physical, and Aggression.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `72`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Most bankable strengths show up in Creativity, Flair, and Interceptions.
+- Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
+- Most bankable strengths show up in Stamina, Physical, and Aggression.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
 ## In Possession
 
-- Ball-value indicators lean on Creativity, Flair, and Interceptions.
+- Ball-value indicators lean on Stamina, Physical, and Aggression.
+- Style traits point toward Defensive Awareness in possession.
 
 ## Out of Possession
 
@@ -49,46 +56,50 @@ Amir Al Ammari projects primarily as a CM with a `Creator-Cover` lean. The stron
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Take Ons | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Discipline | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Aggression | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
 - **Game Reading (EI)**: 56
-- **Motivation (SN)**: 56
-- **Social (TF)**: 44
-- **Pressure (JP)**: 44
-- **Competitiveness**: 2/10
-- **Coachability**: 2/10
+- **Motivation (SN)**: 46
+- **Social (TF)**: 37
+- **Pressure (JP)**: 43
+- **Competitiveness**: 7/10
+- **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Defensive Awareness** (style) — severity 5/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

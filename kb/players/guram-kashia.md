@@ -2,12 +2,12 @@
 title: Guram Kashia
 category: players
 tags: [CD, Slovan Bratislava, Georgia, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Slovan Bratislava. Archetype: Destroyer.
 person_id: 11560
-backlinks: [destroyer, slovan-bratislava]
+backlinks: [destroyer, centrale, slovan-bratislava]
 ---
 
 # Guram Kashia
@@ -21,18 +21,26 @@ backlinks: [destroyer, slovan-bratislava]
 | **Nation** | Georgia |
 | **Age** | 38 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[centrale]] Centrale |
 | **Level** | 61 |
 | **Overall** | 53.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Guram Kashia projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Blocking, and Clearances.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Aerial Duels, Blocking, and Clearances.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ Guram Kashia projects primarily as a CD with a `Destroyer` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,5 +99,5 @@ Guram Kashia projects primarily as a CD with a `Destroyer` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 19 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Axel Witsel
 category: players
 tags: [DM, Girona, Belgium, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Girona. Archetype: Engine.
 person_id: 8818
-backlinks: [engine, girona]
+backlinks: [engine, segundo-volante, girona]
 ---
 
 # Axel Witsel
@@ -21,18 +21,27 @@ backlinks: [engine, girona]
 | **Nation** | Belgium |
 | **Age** | 37 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 69 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Still a robust, intelligent midfielder who reads the game well and can shield the back four with his body and positioning; his passing range is decent and he rarely loses the ball cheaply. At 37, however, he's lost the legs to cover ground laterally and press effectively in the modern game. A comfortable inclusion for a team wanting stability over dynamism, but his influence is diminishing.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `69`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `69`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in First Touch, Pass Range, and Reactions.
@@ -67,13 +76,14 @@ Still a robust, intelligent midfielder who reads the game well and can shield th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +112,11 @@ Still a robust, intelligent midfielder who reads the game well and can shield th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

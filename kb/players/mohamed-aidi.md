@@ -2,10 +2,10 @@
 title: Mohamed Aidi
 category: players
 tags: [CF, Tunisia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 29693
 ---
 
@@ -16,18 +16,25 @@ person_id: 29693
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Tunisia |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Level** | — |
 | **Overall** | 45.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Mohamed Aidi projects primarily as a CF with a `None` lean. The strongest database support comes from Awareness, Positioning, and Tactical.
+Mohamed Aidi projects primarily as a CF with a `—` lean. The strongest database support comes from Awareness, Positioning, and Tactical.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -58,8 +65,9 @@ Mohamed Aidi projects primarily as a CF with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -76,5 +84,5 @@ Mohamed Aidi projects primarily as a CF with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 5 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 5 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |

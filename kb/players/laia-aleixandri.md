@@ -2,10 +2,10 @@
 title: Laia Aleixandri
 category: players
 tags: [CD, Barcelona Femení, Spain]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Barcelona Femení. Archetype: None.
+summary: CD at Barcelona Femení. Archetype: —.
 person_id: 13697
 backlinks: [barcelona-femeni]
 ---
@@ -20,11 +20,22 @@ backlinks: [barcelona-femeni]
 | **Club** | Barcelona Femení |
 | **Nation** | Spain |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Laia Aleixandri is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -38,13 +49,14 @@ backlinks: [barcelona-femeni]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -65,4 +77,4 @@ backlinks: [barcelona-femeni]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

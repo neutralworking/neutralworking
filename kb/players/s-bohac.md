@@ -2,12 +2,12 @@
 title: S. Boháč
 category: players
 tags: [CM, MFK Karviná, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at MFK Karviná. Archetype: Striker-Destroyer.
 person_id: 25729
-backlinks: [striker, mfk-karvina]
+backlinks: [striker, playmaker, mfk-karvina]
 ---
 
 # S. Boháč
@@ -18,21 +18,30 @@ backlinks: [striker, mfk-karvina]
 |---|---|
 | **Position** | CM |
 | **Club** | MFK Karviná |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 S. Boháč projects primarily as a CM with a `Striker-Destroyer` lean. The strongest database support comes from Aggression, Close Range, and Mid Range.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `71`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `71`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Aggression, Close Range, and Mid Range.
@@ -62,13 +71,14 @@ S. Boháč projects primarily as a CM with a `Striker-Destroyer` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ S. Boháč projects primarily as a CM with a `Striker-Destroyer` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

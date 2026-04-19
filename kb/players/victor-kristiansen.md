@@ -2,12 +2,12 @@
 title: Victor Kristiansen
 category: players
 tags: [WD, Leicester City, Denmark, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Leicester City. Archetype: Powerhouse-Destroyer.
 person_id: 18342
-backlinks: [powerhouse, leicester-city]
+backlinks: [powerhouse, corner-back, leicester-city]
 ---
 
 # Victor Kristiansen
@@ -21,18 +21,26 @@ backlinks: [powerhouse, leicester-city]
 | **Nation** | Denmark |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back with excellent athletic tools—pace, recovery pace, and a long stride that eats ground quickly—who's gradually maturing into his defensive positioning at Leicester. He's most comfortable when allowed to attack on the overlap, where his forward running and cross delivery add genuine width to the team. However, his positional play against direct opponents remains inconsistent, and he can be naive when pressed high; he's not yet a complete defender, more a talented athlete who's learning the trade.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back`.
+- Best-fit role is [[corner-back]] Corner Back.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Crossing, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A left-back with excellent athletic tools—pace, recovery pace, and a long stri
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 13.3m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ A left-back with excellent athletic tools—pace, recovery pace, and a long stri
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

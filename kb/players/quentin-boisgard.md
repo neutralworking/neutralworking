@@ -2,12 +2,12 @@
 title: Quentin Boisgard
 category: players
 tags: [WF, Piast Gliwice, France, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Piast Gliwice. Archetype: Creator-Striker.
 person_id: 16379
-backlinks: [creator, piast-gliwice]
+backlinks: [creator, wide-playmaker, piast-gliwice]
 ---
 
 # Quentin Boisgard
@@ -21,18 +21,27 @@ backlinks: [creator, piast-gliwice]
 | **Nation** | France |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Winger who brings directness and some pace down the flank, but his technical range is limited and decision-making in the final third often wasteful. Can beat a man and get a cross in, but the execution is inconsistent; pressing from the front is adequate rather than relentless. Useful squad depth for a lower-league side, nothing more.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `80`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `80`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Pressing, Tactical, and Aggression.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +71,14 @@ Winger who brings directness and some pace down the flank, but his technical ran
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Winger who brings directness and some pace down the flank, but his technical ran
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

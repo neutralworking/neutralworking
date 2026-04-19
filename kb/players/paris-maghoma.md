@@ -2,12 +2,12 @@
 title: Paris Maghoma
 category: players
 tags: [CM, Norwich City, England, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Norwich City. Archetype: Powerhouse-Dribbler.
 person_id: 16094
-backlinks: [powerhouse, norwich-city]
+backlinks: [powerhouse, ball-winner, norwich-city]
 ---
 
 # Paris Maghoma
@@ -21,18 +21,26 @@ backlinks: [powerhouse, norwich-city]
 | **Nation** | England |
 | **Age** | 24 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Paris Maghoma is a dynamic, athletic midfielder with a strong technical foundation, exceling in shielding, balance, and pass accuracy. As a Powerhouse-Dribbler archetype, he is well-suited for the Mezzala role, where his stamina and availability can be leveraged to drive attacks. However, his limited tactical awareness and weaknesses in duels and technical refinement may hinder his ability to make informed decisions on the pitch. A team that values direct, physical midfielders could benefit from his services, but his lack of creativity and technical finesse may limit his overall impact.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Aggression.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ Paris Maghoma is a dynamic, athletic midfielder with a strong technical foundati
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +107,7 @@ Paris Maghoma is a dynamic, athletic midfielder with a strong technical foundati
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

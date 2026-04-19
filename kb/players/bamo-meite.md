@@ -2,12 +2,12 @@
 title: Bamo Meïté
 category: players
 tags: [CD, Lorient, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Lorient. Archetype: Destroyer.
 person_id: 8872
-backlinks: [destroyer, lorient]
+backlinks: [destroyer, stopper, lorient]
 ---
 
 # Bamo Meïté
@@ -18,21 +18,30 @@ backlinks: [destroyer, lorient]
 |---|---|
 | **Position** | CD |
 | **Club** | Lorient |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 24 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Solid, no-frills centre-back who reads the game adequately and positions himself sensibly in a back four. Lacks the pace or technical range to play a ball-playing role; he's an old-school stopper who'll win headers and make the simple clearance. Perfectly serviceable at Ligue 2, genuinely uncomfortable if asked to progress play from the back.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `69`.
+- Best-fit role is [[stopper]] Stopper with model support score `69`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Heading, Jumping, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Solid, no-frills centre-back who reads the game adequately and positions himself
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Solid, no-frills centre-back who reads the game adequately and positions himself
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

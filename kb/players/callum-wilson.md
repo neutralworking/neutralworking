@@ -2,12 +2,12 @@
 title: Callum Wilson
 category: players
 tags: [CF, West Ham United, England, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at West Ham United. Archetype: Striker-Cover.
 person_id: 9314
-backlinks: [striker, west-ham-united]
+backlinks: [striker, prima-punta, west-ham-united]
 ---
 
 # Callum Wilson
@@ -21,18 +21,27 @@ backlinks: [striker, west-ham-united]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 76 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Intelligent, experienced striker who reads play exceptionally well and offers genuine leadership; his physical decline is real and he's not a consistent 20-goal threat anymore, but his movement and professionalism keep him valuable in the top flight.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `76`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `76`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Jumping, Reactions, and Volleys.
@@ -67,13 +76,14 @@ Intelligent, experienced striker who reads play exceptionally well and offers ge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ Intelligent, experienced striker who reads play exceptionally well and offers ge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

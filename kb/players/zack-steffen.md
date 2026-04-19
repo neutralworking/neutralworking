@@ -2,12 +2,12 @@
 title: Zack Steffen
 category: players
 tags: [GK, Colorado Rapids, United States, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Colorado Rapids. Archetype: GK.
 person_id: 18735
-backlinks: [gk, colorado-rapids]
+backlinks: [gk, sweeper-keeper, colorado-rapids]
 ---
 
 # Zack Steffen
@@ -21,18 +21,26 @@ backlinks: [gk, colorado-rapids]
 | **Nation** | United States |
 | **Age** | 31 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A gifted shot-stopper with excellent footwork and genuine ball-playing ambitions, but his MLS career has been a chronicle of inconsistency and missed potential after his Middlesbrough loan fizzled. Steffen is a keeper who wants to be a footballer first—his passing range and composure in possession are genuine assets—but concentration lapses and the occasional catastrophic mistake suggest he needs a defined role and stable environment to thrive. At 30, time is running out to prove he's anything more than a cautionary tale about English football's loan system.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Jumping, Physical, and Reactions.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ A gifted shot-stopper with excellent footwork and genuine ball-playing ambitions
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ A gifted shot-stopper with excellent footwork and genuine ball-playing ambitions
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

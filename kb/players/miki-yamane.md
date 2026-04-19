@@ -2,12 +2,12 @@
 title: Miki Yamane
 category: players
 tags: [CM, Los Angeles Galaxy, Japan, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Los Angeles Galaxy. Archetype: Powerhouse-Destroyer.
 person_id: 15204
-backlinks: [powerhouse, los-angeles-galaxy]
+backlinks: [powerhouse, tuttocampista, los-angeles-galaxy]
 ---
 
 # Miki Yamane
@@ -21,18 +21,27 @@ backlinks: [powerhouse, los-angeles-galaxy]
 | **Nation** | Japan |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 At 32, Yamane is a right-sided terrier running on fumes but still functional: pace and stamina remain present, and he executes high-press triggers with reasonable pass accuracy and physical presence. Discipline issues and an absence of guile make him a blunt instrument—effective in compressing space but unreliable in moments requiring nuance or self-restraint. For an MLS veteran looking to extract final utility before retirement, he fills a squad-depth role in energetic but tactically orthodox systems.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pace, Stamina, and Jumping.
@@ -63,13 +72,14 @@ At 32, Yamane is a right-sided terrier running on fumes but still functional: pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ At 32, Yamane is a right-sided terrier running on fumes but still functional: pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

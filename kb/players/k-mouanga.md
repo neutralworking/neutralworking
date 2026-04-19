@@ -2,12 +2,12 @@
 title: K. Mouanga
 category: players
 tags: [CM, Lausanne, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lausanne. Archetype: Destroyer-Powerhouse.
 person_id: 22148
-backlinks: [destroyer, lausanne]
+backlinks: [destroyer, tuttocampista, lausanne]
 ---
 
 # K. Mouanga
@@ -18,21 +18,30 @@ backlinks: [destroyer, lausanne]
 |---|---|
 | **Position** | CM |
 | **Club** | Lausanne |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 K. Mouanga is a Tuttocampista who excels in a box-to-box midfield role, using his physicality and tackling to break up opposition attacks, although his limited technical ability and guile restrict his ability to pick out decisive passes, and his weaknesses in volleys and movement make him a liability in certain situations, making him a better fit for a team that values defensive solidity and uses a direct style, where his strengths can be maximized, and his weaknesses mitigated, with a coach who can work on his tactical awareness and technical ability, and his introverted personality requiring careful management to bring out his best performances, although his high-press trait makes him a strong fit for a team that values intense pressure and aggression.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Marking, and Stamina.
@@ -63,13 +72,14 @@ K. Mouanga is a Tuttocampista who excels in a box-to-box midfield role, using hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ K. Mouanga is a Tuttocampista who excels in a box-to-box midfield role, using hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

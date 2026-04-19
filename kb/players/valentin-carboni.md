@@ -2,12 +2,12 @@
 title: Valentín Carboni
 category: players
 tags: [AM, Inter Milan, Argentina, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Inter Milan. Archetype: Creator.
 person_id: 18286
-backlinks: [creator, inter-milan]
+backlinks: [creator, enganche, inter-milan]
 ---
 
 # Valentín Carboni
@@ -21,9 +21,11 @@ backlinks: [creator, inter-milan]
 | **Nation** | Argentina |
 | **Age** | 21 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 65 |
 | **Level** | 67 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -38,10 +40,16 @@ The son of the former Argentina international Ezequiel Carboni, Valentín has du
 ## October 2023 Update
 Called up to the Argentina squad for March friendlies, scored at the Under-20 World Cup finals. Joined Monza on a one-year loan.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `65`.
+- Best-fit role is [[enganche]] Enganche with model support score `65`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in First Touch, Long Range, and Pass Accuracy.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -72,13 +80,14 @@ Called up to the Argentina squad for March friendlies, scored at the Under-20 Wo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 9.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +116,11 @@ Called up to the Argentina squad for March friendlies, scored at the Under-20 Wo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -127,6 +136,5 @@ The son of the former Argentina international Ezequiel Carboni, Valentín has du
 
 ## October 2023 Update
 Called up to the Argentina squad for March friendlies, scored at the Under-20 World Cup finals. Joined Monza on a one-year loan.
-
 
 </details>

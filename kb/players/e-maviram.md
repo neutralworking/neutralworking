@@ -2,12 +2,12 @@
 title: E. Maviram
 category: players
 tags: [WD, Tondela, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Tondela. Archetype: Cover.
 person_id: 20952
-backlinks: [cover, tondela]
+backlinks: [cover, corner-back, tondela]
 ---
 
 # E. Maviram
@@ -18,21 +18,30 @@ backlinks: [cover, tondela]
 |---|---|
 | **Position** | WD |
 | **Club** | Tondela |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 E. Maviram projects primarily as a WD with a `Cover` lean. The strongest database support comes from Creativity, Interceptions, and Skills.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `69`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `69`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in Creativity, Interceptions, and Skills.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +71,14 @@ E. Maviram projects primarily as a WD with a `Cover` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,5 +100,5 @@ E. Maviram projects primarily as a WD with a `Cover` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 22 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

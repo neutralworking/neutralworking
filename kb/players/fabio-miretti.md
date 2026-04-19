@@ -2,12 +2,12 @@
 title: Fabio Miretti
 category: players
 tags: [CM, Juventus, Italy, Passer-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Juventus. Archetype: Passer-Sprinter.
 person_id: 10886
-backlinks: [passer, juventus]
+backlinks: [passer, playmaker, juventus]
 ---
 
 # Fabio Miretti
@@ -21,18 +21,27 @@ backlinks: [passer, juventus]
 | **Nation** | Italy |
 | **Age** | 22 |
 | **Archetype** | [[passer]] Passer-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Academy graduate who's evolved into a respectable midfield rotation option with decent technical quality and an ability to progress the ball through short passes and positional intelligence. He's tidy rather than transformative, and his lack of physical dominance or ball-carrying range means he's best deployed alongside stronger box-to-box operators. At 22, there's still development time, but the ceiling looks like a dependable rotation midfielder rather than a cornerstone.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `80`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `80`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Balance, Acceleration, and First Touch.
@@ -67,13 +76,14 @@ Academy graduate who's evolved into a respectable midfield rotation option with 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 15.2m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,17 +111,17 @@ Academy graduate who's evolved into a respectable midfield rotation option with 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Italy	CM / AM	3 August 2003 (age 20)	2021	2027[23]	Italy Youth Sector	N/A	47	0
+Italy	CM / AM	3 August 2003 (age 20)	2021	2027[23]	Italy Youth Sector	N/A	47	0
 
 </details>

@@ -2,12 +2,12 @@
 title: J. Bos
 category: players
 tags: [CM, Feyenoord, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Feyenoord. Archetype: Powerhouse-Cover.
 person_id: 20671
-backlinks: [powerhouse, feyenoord]
+backlinks: [powerhouse, playmaker, feyenoord]
 ---
 
 # J. Bos
@@ -18,21 +18,30 @@ backlinks: [powerhouse, feyenoord]
 |---|---|
 | **Position** | CM |
 | **Club** | Feyenoord |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 77 |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 J. Bos is a technically gifted and physically strong midfielder with a high level of stamina and acceleration, but his limited tactical awareness and struggles with blocking are notable weaknesses. As a Tuttocampista, he is well-suited to a role that allows him to utilize his technical strengths, but his tendency to be flamboyant and focus on individual expression may lead to him neglecting his defensive responsibilities. His high-pressing trait and positional discipline are assets, but he needs to work on his tactical awareness to become a more effective player.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `77`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Positional Discipline.
 - Most bankable strengths show up in Jumping, Stamina, and Balance.
@@ -63,13 +72,14 @@ J. Bos is a technically gifted and physically strong midfielder with a high leve
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ J. Bos is a technically gifted and physically strong midfielder with a high leve
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

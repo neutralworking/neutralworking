@@ -2,12 +2,12 @@
 title: Marcell Jansen
 category: players
 tags: [WD, Hamburger SV, Netherlands, Sprinter-Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Hamburger SV. Archetype: Sprinter-Passer.
 person_id: 14446
-backlinks: [sprinter, hamburger-sv]
+backlinks: [sprinter, wing-back, hamburger-sv]
 ---
 
 # Marcell Jansen
@@ -21,18 +21,26 @@ backlinks: [sprinter, hamburger-sv]
 | **Nation** | Netherlands |
 | **Age** | 40 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[wing-back]] Wing-back |
 | **Level** | 68 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Marcell Jansen projects primarily as a WD with a `Sprinter-Passer` lean. The strongest database support comes from Pass Accuracy, Pass Range, and First Touch.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back`.
+- Best-fit role is [[wing-back]] Wing-back.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Pass Accuracy, Pass Range, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Marcell Jansen projects primarily as a WD with a `Sprinter-Passer` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 4.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +105,6 @@ Marcell Jansen projects primarily as a WD with a `Sprinter-Passer` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

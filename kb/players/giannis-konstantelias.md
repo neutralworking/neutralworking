@@ -2,12 +2,12 @@
 title: Giannis Konstantelias
 category: players
 tags: [CM, PAOK, Greece, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at PAOK. Archetype: Dribbler-Sprinter.
 person_id: 11406
-backlinks: [dribbler, paok]
+backlinks: [dribbler, playmaker, paok]
 ---
 
 # Giannis Konstantelias
@@ -21,18 +21,27 @@ backlinks: [dribbler, paok]
 | **Nation** | Greece |
 | **Age** | 23 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Konstantelias is a Mezzala with an Artisan archetype, demonstrating strong technical and physical pillars, excelling in carrying the ball forward with excellent acceleration, balance, and take-on ability. Complemented by strong shielding and vision in direct attacking sequences, his tactical understanding is limited, and he struggles in duels and blocking, indicating a preference for attacking dynamism. This type of attacking central midfielder, focused on driving runs and individual brilliance, aligns with the modern Mezzala role, operating in half-spaces. At 23, Konstantelias presents an exciting prospect with high market value for clubs seeking creative impetus from midfield, provided they can build a system that maximizes his offensive talents while covering his defensive shortcomings.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `72`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `72`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Konstantelias is a Mezzala with an Artisan archetype, demonstrating strong techn
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Konstantelias is a Mezzala with an Artisan archetype, demonstrating strong techn
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

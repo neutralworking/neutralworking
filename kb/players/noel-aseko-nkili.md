@@ -2,10 +2,10 @@
 title: Noel Aseko Nkili
 category: players
 tags: [CM, Bayern Munich, Germany]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Bayern Munich. Archetype: None.
+summary: CM at Bayern Munich. Archetype: —.
 person_id: 15779
 backlinks: [bayern-munich]
 ---
@@ -19,16 +19,23 @@ backlinks: [bayern-munich]
 | **Position** | CM |
 | **Club** | Bayern Munich |
 | **Nation** | Germany |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 70 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young midfielder whose technical ability shows promise but whose senior experience is minimal at this stage. He can play through the lines and has decent positioning, but he's not yet ready for consistent senior football at Bayern's level—expect him to develop in a lower-division loan move.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A young midfielder whose technical ability shows promise but whose senior experi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A young midfielder whose technical ability shows promise but whose senior experi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

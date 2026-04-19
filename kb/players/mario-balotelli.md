@@ -2,12 +2,12 @@
 title: Mario Balotelli
 category: players
 tags: [CF, Adana Demirspor, Italy, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Adana Demirspor. Archetype: Striker.
 person_id: 14532
-backlinks: [striker, adana-demirspor]
+backlinks: [striker, falso-nove, adana-demirspor]
 ---
 
 # Mario Balotelli
@@ -21,18 +21,26 @@ backlinks: [striker, adana-demirspor]
 | **Nation** | Italy |
 | **Age** | 35 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 58 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 CF		Striker	Maverick	AC Milan	ITA	C	0.0	Agile, quick and powerful, Balotelli is credited with pace, strength, and technical ability, but criticized for a perceived poor and immature attitude at times. Balotelli is also a set-piece specialist due to his powerful shot, and is regarded by teammates and the media as a promising but undisciplined player. He is regarded as one of the best penalty kick takers in world football, a view backed by his former Manchester City goalkeeping team-mate Joe Hart. Balotelli missed his first competitive penalty against Napoli on 22 September 2013 when it was saved by Pepe Reina. In his two years at Manchester City, he received four red cards – against West Bromwich Albion (November 2010), Dynamo Kyiv (March 2011), Liverpool (November 2011) and Arsenal (April 2012). He also in this time served suspensions for other incidents such as the supposed stamp on Scott Parker.	Calm Penalty Taking, Unprofessionalism, Powerful Shots From Distance	He started his professional football career at Lumezzane and played for the first team twice before having an unsuccessful trial at Barcelona, and subsequently joining Inter Milan in 2007. Inter manager Roberto Mancini brought Balotelli into the first team, but when Mancini left, Balotelli's disciplinary record fell away. He had a strained relationship with new manager José Mourinho and was suspended from Inter's first team in January 2009 after a number of disciplinary problems. With doubts over his career at Inter, former coach Roberto Mancini had since moved to Manchester City and decided to give Balotelli a fresh chance at a new club. He joined Manchester City in August 2010, where his performances and off-field activities continued to be enigmatic and unpredictable. Balotelli eventually fell out of favour with Mancini after a "training ground bust up" between the two in January 2013.[5] His departure from City and return to Italy with A.C. Milan followed several weeks later. After 18 months at Milan, he returned to the Premier League with Liverpool, going back on loan after an unsuccessful season. Balotelli earned his first cap for Italy in a friendly match against the Ivory Coast on 10 August 2010. He has since amassed over 30 caps and represented his country at UEFA Euro 2012 and the 2014 FIFA World Cup, helping them reach the final of the former.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ CF		Striker	Maverick	AC Milan	ITA	C	0.0	Agile, quick and powerful, Balotelli is 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.6m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +105,11 @@ CF		Striker	Maverick	AC Milan	ITA	C	0.0	Agile, quick and powerful, Balotelli is 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

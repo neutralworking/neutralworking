@@ -2,12 +2,12 @@
 title: Agustin Da Silveira
 category: players
 tags: [CD, Sportivo Trinidense, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Sportivo Trinidense. Archetype: None.
+summary: CD at Sportivo Trinidense. Archetype: —.
 person_id: 30904
-backlinks: [sportivo-trinidense]
+backlinks: [stopper, sportivo-trinidense]
 ---
 
 # Agustin Da Silveira
@@ -20,19 +20,27 @@ backlinks: [sportivo-trinidense]
 | **Club** | Sportivo Trinidense |
 | **Nation** | Paraguay |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[stopper]] Stopper |
+| **Level** | — |
 | **Overall** | 40.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Agustin Da Silveira projects primarily as a CD with a `None` lean. The strongest database support comes from Discipline, Pressing, and Awareness.
+Agustin Da Silveira projects primarily as a CD with a `—` lean. The strongest database support comes from Discipline, Pressing, and Awareness.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Stopper`.
+- Best-fit role is [[stopper]] Stopper.
 - Most bankable strengths show up in Discipline, Pressing, and Awareness.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -66,8 +74,9 @@ Agustin Da Silveira projects primarily as a CD with a `None` lean. The strongest
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +87,4 @@ Agustin Da Silveira projects primarily as a CD with a `None` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |

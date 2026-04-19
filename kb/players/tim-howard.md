@@ -2,12 +2,12 @@
 title: Tim Howard
 category: players
 tags: [GK, Colorado Rapids, United States, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Colorado Rapids. Archetype: GK.
 person_id: 17974
-backlinks: [gk, colorado-rapids]
+backlinks: [gk, sweeper-keeper, colorado-rapids]
 ---
 
 # Tim Howard
@@ -21,18 +21,26 @@ backlinks: [gk, colorado-rapids]
 | **Nation** | United States |
 | **Age** | 47 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 44 |
 | **Overall** | 41.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 GK		Shotstopper				C	0.0
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Close Range, and Positioning.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -62,13 +70,14 @@ GK		Shotstopper				C	0.0
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,10 +98,10 @@ GK		Shotstopper				C	0.0
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 15 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 15 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -103,6 +112,6 @@ GK		Shotstopper				C	0.0
 {}
 ---
 
-GK		Shotstopper				C	0.0			
+GK		Shotstopper				C	0.0
 
 </details>

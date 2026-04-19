@@ -2,10 +2,10 @@
 title: Michael Reiziger
 category: players
 tags: [WD]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at None. Archetype: None.
+summary: WD at —. Archetype: —.
 person_id: 19181
 ---
 
@@ -16,14 +16,25 @@ person_id: 19181
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Michael Reiziger is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -37,13 +48,14 @@ person_id: 19181
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.5m |
+| Ceiling | EUR 3.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,7 +66,7 @@ person_id: 19181
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

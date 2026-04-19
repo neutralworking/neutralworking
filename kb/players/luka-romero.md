@@ -2,12 +2,12 @@
 title: Luka Romero
 category: players
 tags: [CM, Cruzeiro, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Cruzeiro. Archetype: Powerhouse.
 person_id: 19142
-backlinks: [powerhouse, cruzeiro]
+backlinks: [powerhouse, playmaker, cruzeiro]
 ---
 
 # Luka Romero
@@ -18,21 +18,30 @@ backlinks: [powerhouse, cruzeiro]
 |---|---|
 | **Position** | CM |
 | **Club** | Cruzeiro |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 21 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A left-winger with genuine technical gifts — nimble, quick, decent dribbler — who operates best in transition and has shown flashes of real invention in the half-spaces. However, he's maddeningly inconsistent, often disappears in games where he needs to impose himself, and his final pass is frequently loose or hurried when the moment demands precision. At 21, he's still got time to mature, but right now he's a frustrating watch: too talented to be a pure squad piece, too unreliable to be trusted as your main outlet on the flank.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `71`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Shielding, Balance, and Acceleration.
@@ -67,13 +76,14 @@ A left-winger with genuine technical gifts — nimble, quick, decent dribbler �
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.0m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +112,11 @@ A left-winger with genuine technical gifts — nimble, quick, decent dribbler �
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -114,7 +124,6 @@ A left-winger with genuine technical gifts — nimble, quick, decent dribbler �
 <summary>Raw scouting narrative</summary>
 
 ![](https://media.guim.co.uk/7ded3a3c4397dc6b107a1166056b04be0805c7a0/13_67_2895_1738/500.jpg)
-
 
 ClubLazio
 
@@ -127,7 +136,5 @@ Born in Mexico to Argentinian parents, he moved to Spain at the age of three. No
 **September 2022 update** Called up to the senior Argentina side for their World Cup qualifiers in March, dealing another blow to the country of his birth, Mexico, who had also hoped to win his services. Lazio are now desperately waiting for the right-wing starlet to turn 18 in November in order to tie him down a new five-year contract.  
   
 **October 2023 update** Scored his first Serie A goal at the end of last year to help Lazio beat Monza 1-0, before walking out of the Rome club on a free in the summer. Played for Argentina at the Under-20 World Cup held on home soil in May, and his wonderful solo effort against New Zealand, which saw him pick the ball up in his own half before rifling a shot past the Kiwis keeper from outside the box, drew obvious comparisons. “I’d prefer it if people didn’t call me the new Messi,” Romero told TyC Sports. “There’s only one Messi and I want to make my own name in football as Luka Romero.” Signed for Milan in the summer.
-
-
 
 </details>

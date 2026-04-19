@@ -2,12 +2,12 @@
 title: Soner Aydoğdu
 category: players
 tags: [CM, Samsunspor, Turkey, Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Samsunspor. Archetype: Passer.
 person_id: 17519
-backlinks: [passer, samsunspor]
+backlinks: [passer, playmaker, samsunspor]
 ---
 
 # Soner Aydoğdu
@@ -21,18 +21,26 @@ backlinks: [passer, samsunspor]
 | **Nation** | Turkey |
 | **Age** | 35 |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran metodista whose through-ball vision and mid-to-long-range passing range establish him as a creative fulcrum despite moderate technical pillars and tactical weaknesses in defensive phases. At 35 and reportedly in career peak, his remaining value is temporal—he's a short-term solution for clubs seeking tactical transition or veteran presence rather than sustainable midfielder development. His composure under pressure and positional passing make him useful for possession-controlling setups where opponents press vertically; limited blocking and tactical sophistication make him vulnerable to high-octane pressure environments.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in Through Balls, Composure, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A veteran metodista whose through-ball vision and mid-to-long-range passing rang
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ A veteran metodista whose through-ball vision and mid-to-long-range passing rang
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

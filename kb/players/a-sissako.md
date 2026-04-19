@@ -2,12 +2,12 @@
 title: A. Sissako
 category: players
 tags: [CM, Sint-Truiden, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sint-Truiden. Archetype: Cover.
 person_id: 20262
-backlinks: [cover, sint-truiden]
+backlinks: [cover, tuttocampista, sint-truiden]
 ---
 
 # A. Sissako
@@ -18,21 +18,30 @@ backlinks: [cover, sint-truiden]
 |---|---|
 | **Position** | CM |
 | **Club** | Sint-Truiden |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A Terrier Holding Midfielder effective as a Tuttocampista, this player exhibits strong tackling, awareness, interceptions, and decent vision within a structured game. He fits the profile of a modern holding midfielder who excels in breaking up play and recycling possession, operating well within a high-pressing system. However, his limited mental pillar, noticeable lack of creativity, and guile significantly restrict his progressive impact. He could be a valuable squad player for a club seeking a robust, defensively-minded midfielder to contribute to a high-press, despite the risks associated with his mental attributes.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Awareness, and Duels.
@@ -63,13 +72,14 @@ A Terrier Holding Midfielder effective as a Tuttocampista, this player exhibits 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ A Terrier Holding Midfielder effective as a Tuttocampista, this player exhibits 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

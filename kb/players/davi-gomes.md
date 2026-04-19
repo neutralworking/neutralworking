@@ -2,12 +2,12 @@
 title: Davi Gomes
 category: players
 tags: [CF, Braga, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Braga. Archetype: Creator-Striker.
 person_id: 25384
-backlinks: [creator, braga]
+backlinks: [creator, shadow-striker, braga]
 ---
 
 # Davi Gomes
@@ -18,21 +18,30 @@ backlinks: [creator, braga]
 |---|---|
 | **Position** | CF |
 | **Club** | Braga |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Level** | None |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 43 |
+| **Level** | — |
 | **Overall** | 31.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Davi Gomes projects primarily as a CF with a `Creator-Striker` lean. The strongest database support comes from Take Ons, Carries, and Intensity.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `43`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `43`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Take Ons, Carries, and Intensity.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Davi Gomes projects primarily as a CF with a `Creator-Striker` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.4m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,6 +102,6 @@ Davi Gomes projects primarily as a CF with a `Creator-Striker` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Jason Kerr
 category: players
 tags: [CD, Wigan Athletic, Scotland, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Wigan Athletic. Archetype: Powerhouse-Cover.
 person_id: 12428
-backlinks: [powerhouse, wigan-athletic]
+backlinks: [powerhouse, centrale, wigan-athletic]
 ---
 
 # Jason Kerr
@@ -21,18 +21,26 @@ backlinks: [powerhouse, wigan-athletic]
 | **Nation** | Scotland |
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[centrale]] Centrale |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Accomplished center-back with commanding presence and strong tackling, though occasionally gets dragged out of position by clever movement; consistent performer but not commanding at highest level.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Acceleration, and Aggression.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Accomplished center-back with commanding presence and strong tackling, though oc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ Accomplished center-back with commanding presence and strong tackling, though oc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Alex Bono
 category: players
 tags: [GK, Toronto FC, United States, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Toronto FC. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, toronto-fc]
 | **Age** | 31 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A journeyman MLS goalkeeper who has spent his career as a reliable if unspectacular shot-stopper for Toronto FC, now in the twilight of his career at 31. Decent reflexes and command of his box, but lacks the sweeping instincts and distribution range that modern football demands; he's a traditional goalkeeper who struggles with the pressing triggers and ball-playing requirements of contemporary systems. At his age and with limited upside, Bono represents solid depth for a mid-table MLS side, nothing more.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ A journeyman MLS goalkeeper who has spent his career as a reliable if unspectacu
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +100,7 @@ A journeyman MLS goalkeeper who has spent his career as a reliable if unspectacu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

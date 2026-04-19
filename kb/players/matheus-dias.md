@@ -2,12 +2,12 @@
 title: Matheus Dias
 category: players
 tags: [CM, Nacional, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Nacional. Archetype: Destroyer-Powerhouse.
 person_id: 20448
-backlinks: [destroyer, nacional]
+backlinks: [destroyer, tuttocampista, nacional]
 ---
 
 # Matheus Dias
@@ -18,21 +18,30 @@ backlinks: [destroyer, nacional]
 |---|---|
 | **Position** | CM |
 | **Club** | Nacional |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Matheus Dias presents as a Terrier-type Holding Midfielder, best suited as a Tuttocampista, whose strong technical foundation, physical presence, and high stamina underpin his effective tackling and accurate passing. He aligns with the tradition of central midfielders who provide a robust, no-nonsense presence, focused on breaking up play and maintaining possession rather than dictating tempo with intricate play. His limited tactical awareness, lack of guile and creativity, compounded by discipline issues, suggest he would be a suitable acquisition for clubs needing a reliable workhorse in a more structured system, accepting his offensive limitations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Jumping, and Pass Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ Matheus Dias presents as a Terrier-type Holding Midfielder, best suited as a Tut
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +98,6 @@ Matheus Dias presents as a Terrier-type Holding Midfielder, best suited as a Tut
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

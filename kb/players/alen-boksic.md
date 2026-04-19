@@ -2,10 +2,10 @@
 title: Alen Bokšić
 category: players
 tags: [CF, Croatia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 8072
 ---
 
@@ -16,30 +16,37 @@ person_id: 8072
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Croatia |
 | **Age** | 56 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A prolific forward who spent most of his career in France and Italy, he was renowned for his technique and is regarded as one of the greatest players in the history of the Croatia national football team.
 
-With Marseille Bokšić won the 1992–93 UEFA Champions League, and was voted fourth in the [[1993 European Footballer of the Year]] poll. That same year he was named [[Croatian Footballer of the Year]]. 
+With Marseille Bokšić won the 1992–93 UEFA Champions League, and was voted fourth in the 1993 European Footballer of the Year poll. That same year he was named Croatian Footballer of the Year. 
 
-He also won two Serie A titles in 1997 and 2000 with [[DB/Clubs 1/Juventus]] and [[DB/Clubs 1/Lazio]] respectively, and is regarded as one of the best foreign players in the history of Serie A since 1980.
+He also won two Serie A titles in 1997 and 2000 with DB/Clubs 1/Juventus and DB/Clubs 1/Lazio respectively, and is regarded as one of the best foreign players in the history of Serie A since 1980.
 
 Although selected for Yugoslavia squad at the 1990 FIFA World Cup in Italy, the 20-year-old Bokšić did not play in the tournament, with coach Ivica Osim preferring more experienced forwards in the lineup.
 
-Following [[Croatia]]'s independence from [[[Yugoslavia]]] Bokšić became an integral part of Croatia's national team in the 1990s under coach Miroslav Blažević. 
+Following Croatia's independence from [Yugoslavia] Bokšić became an integral part of Croatia's national team in the 1990s under coach Miroslav Blažević. 
 
-He played for Croatia at the [[1996 European Championship]] but was not included in the squad for the [[1998 FIFA World Cup]] in France due to injury he suffered only weeks before the tournament.
+He played for Croatia at the 1996 European Championship but was not included in the squad for the 1998 FIFA World Cup in France due to injury he suffered only weeks before the tournament.
 
 Bokšić finally made his World Cup debut at the age of 32 at the 2002 FIFA World Cup in Japan, appearing in all three of the team's group stage matches, before retiring only a year later in 2003.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -52,10 +59,11 @@ Bokšić finally made his World Cup debut at the age of 32 at the 2002 FIFA Worl
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -66,8 +74,8 @@ Bokšić finally made his World Cup debut at the age of 32 at the 2002 FIFA Worl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -84,18 +92,16 @@ description: Prolific
 ---
 A prolific forward who spent most of his career in France and Italy, he was renowned for his technique and is regarded as one of the greatest players in the history of the Croatia national football team.
 
-With Marseille Bokšić won the 1992–93 UEFA Champions League, and was voted fourth in the [[1993 European Footballer of the Year]] poll. That same year he was named [[Croatian Footballer of the Year]]. 
+With Marseille Bokšić won the 1992–93 UEFA Champions League, and was voted fourth in the 1993 European Footballer of the Year poll. That same year he was named Croatian Footballer of the Year. 
 
-He also won two Serie A titles in 1997 and 2000 with [[DB/Clubs 1/Juventus]] and [[DB/Clubs 1/Lazio]] respectively, and is regarded as one of the best foreign players in the history of Serie A since 1980.
+He also won two Serie A titles in 1997 and 2000 with DB/Clubs 1/Juventus and DB/Clubs 1/Lazio respectively, and is regarded as one of the best foreign players in the history of Serie A since 1980.
 
 Although selected for Yugoslavia squad at the 1990 FIFA World Cup in Italy, the 20-year-old Bokšić did not play in the tournament, with coach Ivica Osim preferring more experienced forwards in the lineup.
 
-Following [[Croatia]]'s independence from [[[Yugoslavia]]] Bokšić became an integral part of Croatia's national team in the 1990s under coach Miroslav Blažević. 
+Following Croatia's independence from [Yugoslavia] Bokšić became an integral part of Croatia's national team in the 1990s under coach Miroslav Blažević. 
 
-He played for Croatia at the [[1996 European Championship]] but was not included in the squad for the [[1998 FIFA World Cup]] in France due to injury he suffered only weeks before the tournament.
+He played for Croatia at the 1996 European Championship but was not included in the squad for the 1998 FIFA World Cup in France due to injury he suffered only weeks before the tournament.
 
 Bokšić finally made his World Cup debut at the age of 32 at the 2002 FIFA World Cup in Japan, appearing in all three of the team's group stage matches, before retiring only a year later in 2003.
-
-
 
 </details>

@@ -2,10 +2,10 @@
 title: Rory Wilson
 category: players
 tags: [CF, Sturm Graz, Scotland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Sturm Graz. Archetype: None.
+summary: CF at Sturm Graz. Archetype: —.
 person_id: 16853
 backlinks: [sturm-graz]
 ---
@@ -20,15 +20,22 @@ backlinks: [sturm-graz]
 | **Club** | Sturm Graz |
 | **Nation** | Scotland |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 54 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young striker with decent athleticism and the positioning sense you'd want at his stage, but he's still developing his all-around game—hold-up play is functional rather than refined, and his touch in crowded areas isn't yet reliable. He's had fleeting chances at Villa and looked like a prospect, not a finished product. The pathway forward is there, but he needs consistent playing time somewhere to mature, and right now he's a prospect, not a contributor.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -56,13 +63,14 @@ Young striker with decent athleticism and the positioning sense you'd want at hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,10 +90,10 @@ Young striker with decent athleticism and the positioning sense you'd want at hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

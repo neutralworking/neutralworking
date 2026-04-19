@@ -2,12 +2,12 @@
 title: Julián Álvarez
 category: players
 tags: [CF, Atlético Madrid, Argentina, Engine-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Atlético Madrid. Archetype: Engine-Sprinter.
 person_id: 20181
-backlinks: [engine, atletico-madrid]
+backlinks: [engine, shadow-striker, atletico-madrid]
 ---
 
 # Julián Álvarez
@@ -21,6 +21,8 @@ backlinks: [engine, atletico-madrid]
 | **Nation** | Argentina |
 | **Age** | 26 |
 | **Archetype** | [[engine]] Engine-Sprinter |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 76.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [engine, atletico-madrid]
 
 Julián Álvarez projects primarily as a CF with a `Engine-Sprinter` lean. The strongest database support comes from Long Range, Balance, and Composure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `78`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `78`.
 - Primary archetype leans toward `Engine` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Balance, and Composure.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Julián Álvarez projects primarily as a CF with a `Engine-Sprinter` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 12.0m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 35.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +104,6 @@ Julián Álvarez projects primarily as a CF with a `Engine-Sprinter` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

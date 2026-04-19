@@ -2,12 +2,12 @@
 title: Kobbie Mainoo
 category: players
 tags: [CM, Manchester United, England, Cover-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Manchester United. Archetype: Cover-Sprinter.
 person_id: 13588
-backlinks: [cover, manchester-united]
+backlinks: [cover, playmaker, manchester-united]
 ---
 
 # Kobbie Mainoo
@@ -19,8 +19,10 @@ backlinks: [cover, manchester-united]
 | **Position** | CM |
 | **Club** | Manchester United |
 | **Nation** | England |
-| **Age** | 20 |
+| **Age** | 21 |
 | **Archetype** | [[cover]] Cover-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 84 |
 | **Overall** | 72.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [cover, manchester-united]
 
 Kobbie Mainoo, a burgeoning Connector and Metodista from a Holding Midfielder blueprint, displays exceptional composure and first touch, enabling him to shield the ball and contribute to build-up with precise passing and positional discipline. His ability to execute take-ons under pressure and his patient approach mark him as a future deep-lying playmaker, akin to traditional defensive midfielders who control tempo. Despite his overall strong technical pillar, specific 'technical' weaknesses are noted, along with struggles in pressing and clearances. As a one-club talent, he is a long-term investment for a club prioritising ball retention and progressive play from a C side market, offering significant potential if his few defensive shortcomings are addressed.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Shielding, Balance, and First Touch.
@@ -67,13 +76,14 @@ Kobbie Mainoo, a burgeoning Connector and Metodista from a Holding Midfielder bl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 47.5m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,11 +113,11 @@ Kobbie Mainoo, a burgeoning Connector and Metodista from a Holding Midfielder bl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

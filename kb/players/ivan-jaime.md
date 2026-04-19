@@ -2,12 +2,12 @@
 title: Iván Jaime
 category: players
 tags: [CM, CF Montréal, Spain, Dribbler-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at CF Montréal. Archetype: Dribbler-Sprinter.
 person_id: 12063
-backlinks: [dribbler, cf-montreal]
+backlinks: [dribbler, playmaker, cf-montreal]
 ---
 
 # Iván Jaime
@@ -21,18 +21,26 @@ backlinks: [dribbler, cf-montreal]
 | **Nation** | Spain |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Iván Jaime is a dynamic and technically proficient midfielder who excels in the Metodista role, using his first touch, mid-range passing, and reactions to control the tempo of the game. However, his lack of discipline, dueling ability, and blocking capacity are significant weaknesses that may restrict his overall effectiveness. As a newcomer, he has the potential to grow into a more well-rounded player, but his current limitations may require careful management and development.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Acceleration, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Iván Jaime is a dynamic and technically proficient midfielder who excels in the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ Iván Jaime is a dynamic and technically proficient midfielder who excels in the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

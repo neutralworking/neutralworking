@@ -2,7 +2,7 @@
 title: Fran González
 category: players
 tags: [GK, Real Madrid, Spain, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
 summary: GK at Real Madrid. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, real-madrid]
 | **Age** | 27 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 80 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Squad goalkeeper competing for third-choice status; steady presence but lacks the elite reflexes or commanding presence to challenge for real minutes. Likely a backup-level talent long-term.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -43,13 +50,14 @@ Squad goalkeeper competing for third-choice status; steady presence but lacks th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -69,5 +77,5 @@ Squad goalkeeper competing for third-choice status; steady presence but lacks th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

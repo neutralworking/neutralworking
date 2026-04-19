@@ -2,12 +2,12 @@
 title: Matthew Taylor
 category: players
 tags: [CM, Northampton Town, England, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Northampton Town. Archetype: Striker.
 person_id: 4942
-backlinks: [striker, northampton-town]
+backlinks: [striker, playmaker, northampton-town]
 ---
 
 # Matthew Taylor
@@ -21,18 +21,26 @@ backlinks: [striker, northampton-town]
 | **Nation** | England |
 | **Age** | 44 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 42 |
 | **Overall** | 44.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Matthew Taylor projects primarily as a CM with a `Striker` lean. The strongest database support comes from Long Range, Mid Range, and Volleys.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Matthew Taylor projects primarily as a CM with a `Striker` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +104,6 @@ Matthew Taylor projects primarily as a CM with a `Striker` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

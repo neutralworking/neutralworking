@@ -2,12 +2,12 @@
 title: Nikola Krstović
 category: players
 tags: [CF, Atalanta, Montenegro, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Atalanta. Archetype: Striker-Creator.
 person_id: 15734
-backlinks: [striker, atalanta]
+backlinks: [striker, seconda-punta, atalanta]
 ---
 
 # Nikola Krstović
@@ -21,18 +21,27 @@ backlinks: [striker, atalanta]
 | **Nation** | Montenegro |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A traditional centre-forward with a nose for the box and the positioning sense that comes from someone who's spent real time studying the craft. He's not quick enough to consistently beat defenders on the turn, and his link-up play is functional rather than creative, but he occupies space intelligently and finishes with a certain ruthlessness. Effective at his level, but unlikely to elevate himself further.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `80`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Jumping, Heading, and Physical.
@@ -63,13 +72,14 @@ A traditional centre-forward with a nose for the box and the positioning sense t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ A traditional centre-forward with a nose for the box and the positioning sense t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

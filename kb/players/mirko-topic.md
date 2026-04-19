@@ -2,12 +2,12 @@
 title: Mirko Topić
 category: players
 tags: [CM, Norwich City, Serbia, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Norwich City. Archetype: Dribbler-Sprinter.
 person_id: 15249
-backlinks: [dribbler, norwich-city]
+backlinks: [dribbler, tuttocampista, norwich-city]
 ---
 
 # Mirko Topić
@@ -21,18 +21,27 @@ backlinks: [dribbler, norwich-city]
 | **Nation** | Serbia |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 At 190cm, Topić brings genuine physical dominance to central midfield, excelling in the air and at the tackle with an aggressive mentality that suits high-pressing systems. His technical toolbox is sophisticated enough for possession phases, but his tactical limitations and disciplinary track record suggest he's a pure ball-winner rather than a quarterback—a colossus more comfortable in the mold of a destructive midfielder than as a regista or box-to-box operator. The newcomer status and strong mental profile indicate raw upside, but clubs must be realistic: his best role is winning the ball and creating space for others, not dictating play or progressing the ball through half-spaces. Norwich's recruitment suggests they're developing him as a long-term defensive lynchpin, which aligns with his profile.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `75`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Physical, Jumping, and Marking.
@@ -63,13 +72,14 @@ At 190cm, Topić brings genuine physical dominance to central midfield, excellin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ At 190cm, Topić brings genuine physical dominance to central midfield, excellin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

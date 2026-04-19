@@ -2,12 +2,12 @@
 title: Senne Lynen
 category: players
 tags: [CM, Werder Bremen, Belgium, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Werder Bremen. Archetype: Cover-Passer.
 person_id: 17313
-backlinks: [cover, werder-bremen]
+backlinks: [cover, tuttocampista, werder-bremen]
 ---
 
 # Senne Lynen
@@ -21,18 +21,27 @@ backlinks: [cover, werder-bremen]
 | **Nation** | Belgium |
 | **Age** | 27 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Belgian midfielder with solid work-rate and press intensity; limited technical quality and creative range mean he's best deployed in a containing role within a structured setup.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `80`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `80`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Pace, Stamina, and Pass Range.
@@ -67,13 +76,14 @@ Belgian midfielder with solid work-rate and press intensity; limited technical q
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Belgian midfielder with solid work-rate and press intensity; limited technical q
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

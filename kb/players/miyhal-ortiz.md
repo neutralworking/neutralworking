@@ -2,12 +2,12 @@
 title: Miyhal Ortiz
 category: players
 tags: [CM, Manta, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Manta. Archetype: None.
+summary: CM at Manta. Archetype: —.
 person_id: 28780
-backlinks: [manta]
+backlinks: [tuttocampista, manta]
 ---
 
 # Miyhal Ortiz
@@ -20,19 +20,27 @@ backlinks: [manta]
 | **Club** | Manta |
 | **Nation** | Bolivia |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Level** | — |
 | **Overall** | 16.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Miyhal Ortiz projects primarily as a CM with a `None` lean. The strongest database support comes from Interceptions, Awareness, and Blocking.
+Miyhal Ortiz projects primarily as a CM with a `—` lean. The strongest database support comes from Interceptions, Awareness, and Blocking.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Most bankable strengths show up in Interceptions, Awareness, and Blocking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +74,9 @@ Miyhal Ortiz projects primarily as a CM with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +87,4 @@ Miyhal Ortiz projects primarily as a CM with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 24 graded indicators available. |

@@ -2,12 +2,12 @@
 title: Corey Blackett-Taylor
 category: players
 tags: [CF, Derby County, England, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Derby County. Archetype: Sprinter.
 person_id: 9758
-backlinks: [sprinter, derby-county]
+backlinks: [sprinter, shadow-striker, derby-county]
 ---
 
 # Corey Blackett-Taylor
@@ -21,18 +21,26 @@ backlinks: [sprinter, derby-county]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A winger with decent footwork in tight spaces and an understanding of how to work a crowd, but his top-end pace is pedestrian and his consistency is genuinely suspect—he can look lively for twenty minutes then vanish. He's a fringe player relying on his technique to compensate for lack of explosiveness, which only works so often.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ A winger with decent footwork in tight spaces and an understanding of how to wor
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +99,7 @@ A winger with decent footwork in tight spaces and an understanding of how to wor
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: J. Jessen
 category: players
 tags: [DM, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: DM at None. Archetype: Cover.
+summary: DM at —. Archetype: Cover.
 person_id: 23226
-backlinks: [cover]
+backlinks: [cover, anchor]
 ---
 
 # J. Jessen
@@ -17,22 +17,31 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 64 |
 | **Level** | 69 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 22-year-old anchor who combines strong foundational defensive tools—tackling, awareness, interceptions, dueling—with surprising technical competence and take-on ability for a defensive midfielder, suggesting a ball-progressing anchor rather than a pure destroyer. His blocking weakness is notable; he reads play and intercepts cleanly but struggles in direct physical scrambles, which may limit his fit in chaos-heavy pressing systems that demand contest-winning in tight spaces. His high-press trait and structured personality indicate coachability, and for a club seeking a transition-capable anchor with modern passing range, Jessen offers a promising profile; the guile and close-range limitations suggest he is not a creative engine, however.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `64`.
+- Best-fit role is [[anchor]] Anchor with model support score `64`.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pressing, Discipline, and Tackling.
@@ -62,13 +71,14 @@ A 22-year-old anchor who combines strong foundational defensive tools—tackling
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ A 22-year-old anchor who combines strong foundational defensive tools—tackling
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

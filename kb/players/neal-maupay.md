@@ -2,12 +2,12 @@
 title: Neal Maupay
 category: players
 tags: [GK, Marseille, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Marseille. Archetype: Striker-Creator.
 person_id: 19358
-backlinks: [striker, marseille]
+backlinks: [striker, sweeper-keeper, marseille]
 ---
 
 # Neal Maupay
@@ -18,21 +18,29 @@ backlinks: [striker, marseille]
 |---|---|
 | **Position** | GK |
 | **Club** | Marseille |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 77 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A striker whose value to Marseille lies in his work rate and ability to disrupt defences through pressure rather than any particular technical brilliance; he's a functional facilitator. His finishing is decent but unremarkable, his touch occasionally loose, and against quality defences that withstand his initial harassment, he offers little—a squad player's player.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `Striker` behaviour from a `GK` base.
 - Most bankable strengths show up in Aggression, Jumping, and Long Range.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ A striker whose value to Marseille lies in his work rate and ability to disrupt 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ A striker whose value to Marseille lies in his work rate and ability to disrupt 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

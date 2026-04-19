@@ -2,12 +2,12 @@
 title: Maximilian Entrup
 category: players
 tags: [CF, LASK Linz, Austria, Target-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at LASK Linz. Archetype: Target-Passer.
 person_id: 14947
-backlinks: [target, lask-linz]
+backlinks: [target, prima-punta, lask-linz]
 ---
 
 # Maximilian Entrup
@@ -21,18 +21,27 @@ backlinks: [target, lask-linz]
 | **Nation** | Austria |
 | **Age** | 28 |
 | **Archetype** | [[target]] Target-Passer |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Maximilian Entrup, a natural Poacher from the Target Man blueprint, thrives on intelligent movement, exceptional jumping, and strong close-range finishing, making him a potent aerial threat and penalty box presence. His physical strength and balance allow him to operate effectively as a Target-Passer, holding up play, but his limited mental pillar and lack of guile or creativity hinder his ability to contribute beyond goal-scoring. A one-club player, he represents a low-cost, reliable option for teams needing a dedicated finisher who prioritizes direct attacking over intricate link-up play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `79`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `79`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Balance, and Movement.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Maximilian Entrup, a natural Poacher from the Target Man blueprint, thrives on i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +99,7 @@ Maximilian Entrup, a natural Poacher from the Target Man blueprint, thrives on i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

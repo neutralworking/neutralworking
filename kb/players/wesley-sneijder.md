@@ -2,12 +2,12 @@
 title: Wesley Sneijder
 category: players
 tags: [CM, Al-Gharafa, Netherlands, Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Al-Gharafa. Archetype: Passer.
 person_id: 18483
-backlinks: [passer, al-gharafa]
+backlinks: [passer, playmaker, al-gharafa]
 ---
 
 # Wesley Sneijder
@@ -21,9 +21,10 @@ backlinks: [passer, al-gharafa]
 | **Nation** | Netherlands |
 | **Age** | 41 |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -31,9 +32,16 @@ backlinks: [passer, al-gharafa]
 CM		Creator		Inter Milan	NED	B	0.0	Sneijder has been recognised as one of the classic playmakers of the 2010s. From his impeccable placement and confirmed ability to score from free kicks, Sneijder earned the reputation as a dead-ball specialist. Of short stature, he is quick and strong on the ball, and his passing range is enhanced by his ambidexterity. He was also a renowned for his powerful shooting from long range, with either foot. Sneijder was noted for his intelligence and great technical ability.		He was named UEFA midfielder of the season and one of the three best midfielders in the world for 2010 by FIFA. A product of the AFC Ajax Academy, he previously played for Ajax, with whom he won seven trophies and was awarded the Johan Cruyff Trophy in 2004. He was sold to Real Madrid for €27 million in 2007, winning La Liga in his first season with the club and later being sold to Internazionale for €15 million. At Inter, he won Serie A, the UEFA Champions League, the FIFA Club World Cup, and two Coppa Italia. After being sold to Galatasaray for €7.5 million in 2013, he helped the club win the Süper Lig in his first season, following with the capture of the Turkish Super Cup, after a 1–0 win against rivals Fenerbahçe. Sneijder previously represented various youth squads for the Netherlands. He is now a regular player for the Dutch national team, making his debut in April 2003 at the age of 18, and representing his country at the 2006, 2010 (where the Netherlands were defeated 1–0 in the final) and 2014 FIFA World Cups, as well as the 2004, 2008 and 2012 UEFA European Football Championships. Individually, he was awarded the 2010 Bronze Boot, the 2010 Silver Ball, and included in the team of the tournament for Euro 2008 and the 2010 World Cup, as well as named man of the match for six out of eleven games played by the Oranje at these two tournaments. With 120 caps, he is their second-most capped player of all time, after Edwin van der Sar.
 Gerard Piqué	CD	Calm	Playmaker	Libero	Barcelona	ESP	A	86.4	Piqué is a modern defender, who combines strength with good technique and passing. Due to his height and physical attributes, he is good in the air. Although he is primarily deployed as a centre back, he is a tactically versatile player who is capable of playing as a defensive midfielder; he has also been deployed as a sweeper on occasion, showing similarities to German legend, Franz Beckenbauer, "and ipso facto earning the sobriquet ""Piquénbauer"" from fans and media alike. He has also occasionally been known to utilise his height as an additional attacking threat by advancing into more offensive positions"
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Vision, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -64,13 +72,14 @@ Gerard Piqué	CD	Calm	Playmaker	Libero	Barcelona	ESP	A	86.4	Piqué is a modern d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 3.3m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +105,11 @@ Gerard Piqué	CD	Calm	Playmaker	Libero	Barcelona	ESP	A	86.4	Piqué is a modern d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,10 +2,10 @@
 title: Anna Aehling
 category: players
 tags: [CD, Eintracht Frankfurt Women, Germany]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Eintracht Frankfurt Women. Archetype: None.
+summary: CD at Eintracht Frankfurt Women. Archetype: —.
 person_id: 8567
 backlinks: [eintracht-frankfurt-women]
 ---
@@ -20,15 +20,22 @@ backlinks: [eintracht-frankfurt-women]
 | **Club** | Eintracht Frankfurt Women |
 | **Nation** | Germany |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A diligent, technically clean central midfielder who operates with understated intelligence in the engine room. Aehling's strength lies in her positional discipline and ability to recycle possession under pressure, though she lacks the vertical aggression or creative range to consistently unlock defences from deep. She's exactly the kind of player you need at a mid-table Bundesliga side—reliable, not spectacular, and frustratingly difficult to rate without seeing her in a genuinely dominant team where her limitations would be more exposed.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A diligent, technically clean central midfielder who operates with understated i
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A diligent, technically clean central midfielder who operates with understated i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

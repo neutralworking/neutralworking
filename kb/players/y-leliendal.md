@@ -2,12 +2,12 @@
 title: Y. Leliendal
 category: players
 tags: [CM, Volendam, Destroyer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Volendam. Archetype: Destroyer-Creator.
 person_id: 20394
-backlinks: [destroyer, volendam]
+backlinks: [destroyer, tuttocampista, volendam]
 ---
 
 # Y. Leliendal
@@ -18,21 +18,30 @@ backlinks: [destroyer, volendam]
 |---|---|
 | **Position** | CM |
 | **Club** | Volendam |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Leliendal is a strong Terrier archetype, a Holding Midfielder functioning as a Tuttocampista, exhibiting impressive awareness, tactical guile, and positional discipline in winning the ball through interceptions and duels. His high-press trait and positional discipline point to a midfielder ideally suited for a system that emphasizes aggressive ball winning in central areas and maintaining structural integrity. Despite his flamboyant trait, Leliendal's strong physical and tactical attributes make him a valuable defensive asset for a team seeking a reliable midfield shield, but his disciplinary issues and lack of offensive shooting threat from both long and close range are significant risk factors.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Positional Discipline.
 - Most bankable strengths show up in Duels, Flair, and Interceptions.
@@ -63,13 +72,14 @@ Leliendal is a strong Terrier archetype, a Holding Midfielder functioning as a T
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Leliendal is a strong Terrier archetype, a Holding Midfielder functioning as a T
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

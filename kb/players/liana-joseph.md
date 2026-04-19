@@ -2,10 +2,10 @@
 title: Liana Joseph
 category: players
 tags: [CF, OL Féminin, France]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at OL Féminin. Archetype: None.
+summary: CF at OL Féminin. Archetype: —.
 person_id: 13951
 backlinks: [ol-feminin]
 ---
@@ -20,15 +20,22 @@ backlinks: [ol-feminin]
 | **Club** | OL Féminin |
 | **Nation** | France |
 | **Age** | 19 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 81 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 19-year-old winger with serious acceleration and ball-carrying ability—she can genuinely run past defenders and create chaos in the final third. Her decision-making in the box is still developing; she'll occasionally force shots or passes when a simpler option exists. The raw athleticism is already elite for her age, but the football intelligence gap between what she can do physically and what she chooses to do is noticeable.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A 19-year-old winger with serious acceleration and ball-carrying ability—she c
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 17.8m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ A 19-year-old winger with serious acceleration and ball-carrying ability—she c
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

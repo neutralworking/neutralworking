@@ -2,12 +2,12 @@
 title: Felix Uduokhai
 category: players
 tags: [CD, Beşiktaş, Germany, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Beşiktaş. Archetype: Destroyer-Powerhouse.
 person_id: 10986
-backlinks: [destroyer, besiktas]
+backlinks: [destroyer, colossus, besiktas]
 ---
 
 # Felix Uduokhai
@@ -21,18 +21,27 @@ backlinks: [destroyer, besiktas]
 | **Nation** | Germany |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A centre-back with a genuinely calm demeanour in possession and the passing range to build from the back, though his positioning is occasionally loose and he can be hurried by aggressive pressing. He's strong in the air and reads the offside trap well, but his lateral mobility isn't elite, which means quick cutbacks and inverted runs down his flank can expose him. A quality defender who works best in a back three or alongside someone more proactive.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `80`.
+- Best-fit role is [[colossus]] Colossus with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Jumping, Heading, and Reactions.
@@ -67,13 +76,14 @@ A centre-back with a genuinely calm demeanour in possession and the passing rang
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A centre-back with a genuinely calm demeanour in possession and the passing rang
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

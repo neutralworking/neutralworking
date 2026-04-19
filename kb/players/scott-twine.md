@@ -2,12 +2,12 @@
 title: Scott Twine
 category: players
 tags: [AM, Bristol City, England, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Bristol City. Archetype: Sprinter-Creator.
 person_id: 17239
-backlinks: [sprinter, bristol-city]
+backlinks: [sprinter, incursore, bristol-city]
 ---
 
 # Scott Twine
@@ -21,18 +21,27 @@ backlinks: [sprinter, bristol-city]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Creator |
+| **Best Role** | [[incursore]] Incursore |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Intelligent attacking midfielder with excellent technical ability and the capacity to work both the half-spaces and final third with genuine creativity, though he can drift into periods of invisibility when teams press him aggressively. Good player, genuinely useful, but doesn't have the elite physicality or tempo-setting of the tier above.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore` with model support score `78`.
+- Best-fit role is [[incursore]] Incursore with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
@@ -67,13 +76,14 @@ Intelligent attacking midfielder with excellent technical ability and the capaci
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 34.0m |
+| Ceiling | EUR 40.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ Intelligent attacking midfielder with excellent technical ability and the capaci
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

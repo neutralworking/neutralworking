@@ -2,12 +2,12 @@
 title: Bradley Barcola
 category: players
 tags: [WF, Paris Saint-Germain, France, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Paris Saint-Germain. Archetype: Striker-Engine.
 person_id: 9143
-backlinks: [striker, paris-saint-germain]
+backlinks: [striker, inverted-winger, paris-saint-germain]
 ---
 
 # Bradley Barcola
@@ -21,18 +21,27 @@ backlinks: [striker, paris-saint-germain]
 | **Nation** | France |
 | **Age** | 23 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 78 |
 | **Level** | 81 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 French winger who has exploded since Mbappé's departure. Pace, dribbling, direct running. Already a France international and still improving.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `78`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `78`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -67,13 +76,14 @@ French winger who has exploded since Mbappé's departure. Pace, dribbling, direc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 37.4m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 77.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ French winger who has exploded since Mbappé's departure. Pace, dribbling, direc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

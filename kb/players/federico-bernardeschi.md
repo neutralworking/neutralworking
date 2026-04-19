@@ -2,12 +2,12 @@
 title: Federico Bernardeschi
 category: players
 tags: [WF, Bologna, Italy, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Bologna. Archetype: Striker.
 person_id: 10955
-backlinks: [striker, bologna]
+backlinks: [striker, winger, bologna]
 ---
 
 # Federico Bernardeschi
@@ -21,18 +21,27 @@ backlinks: [striker, bologna]
 | **Nation** | Italy |
 | **Age** | 32 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 47 |
 | **Level** | 74 |
 | **Overall** | 53.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A clever, experience-laden winger who understands angles and can unsettle defences with intelligent movement and set-piece delivery. He lacks the explosive acceleration to beat defenders cleanly in open play anymore, relying instead on craft and positioning. For Bologna, he's a useful rotation piece and a dressing-room brain, but he cannot be a consistent starter in Serie A's upper half.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `47`.
+- Best-fit role is [[winger]] Winger with model support score `47`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Balance, Crossing, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A clever, experience-laden winger who understands angles and can unsettle defenc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 3.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ A clever, experience-laden winger who understands angles and can unsettle defenc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

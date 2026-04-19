@@ -2,12 +2,12 @@
 title: L. Villalba
 category: players
 tags: [CM, Cruzeiro, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Cruzeiro. Archetype: Cover-Striker.
 person_id: 21934
-backlinks: [cover, cruzeiro]
+backlinks: [cover, tuttocampista, cruzeiro]
 ---
 
 # L. Villalba
@@ -18,21 +18,30 @@ backlinks: [cover, cruzeiro]
 |---|---|
 | **Position** | CM |
 | **Club** | Cruzeiro |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 31 |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 L. Villalba's Cover-Striker archetype and Tuttocampista role suggest a player who excels at providing defensive cover and winning duels. His strengths in composure, blocking, and physical attributes make him a solid midfielder, but his weaknesses in tackling, creativity, and vision may restrict his overall influence on the game. A club that values a strong, physical presence in midfield and can provide him with a clear role would be a good match, though his lack of technical ability may hinder the team's overall attacking potency.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Interceptions, Pass Accuracy, and Awareness.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ L. Villalba's Cover-Striker archetype and Tuttocampista role suggest a player wh
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ L. Villalba's Cover-Striker archetype and Tuttocampista role suggest a player wh
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

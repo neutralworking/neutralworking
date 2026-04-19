@@ -2,12 +2,12 @@
 title: Luis Amarilla
 category: players
 tags: [CF, Cerro Porteño, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Cerro Porteño. Archetype: None.
+summary: CF at Cerro Porteño. Archetype: —.
 person_id: 31969
-backlinks: [cerro-porteno]
+backlinks: [seconda-punta, cerro-porteno]
 ---
 
 # Luis Amarilla
@@ -20,19 +20,27 @@ backlinks: [cerro-porteno]
 | **Club** | Cerro Porteño |
 | **Nation** | Paraguay |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Level** | — |
 | **Overall** | 14.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Luis Amarilla projects primarily as a CF with a `None` lean. The strongest database support comes from Creativity, Flair, and Take Ons.
+Luis Amarilla projects primarily as a CF with a `—` lean. The strongest database support comes from Creativity, Flair, and Take Ons.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta`.
+- Best-fit role is [[seconda-punta]] Seconda Punta.
 - Most bankable strengths show up in Creativity, Flair, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -62,8 +70,9 @@ Luis Amarilla projects primarily as a CF with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +83,4 @@ Luis Amarilla projects primarily as a CF with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |

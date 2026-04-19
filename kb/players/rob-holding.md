@@ -2,12 +2,12 @@
 title: Rob Holding
 category: players
 tags: [CD, Colorado Rapids, England, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Colorado Rapids. Archetype: Cover-Dribbler.
 person_id: 16683
-backlinks: [cover, colorado-rapids]
+backlinks: [cover, colossus, colorado-rapids]
 ---
 
 # Rob Holding
@@ -21,18 +21,27 @@ backlinks: [cover, colorado-rapids]
 | **Nation** | England |
 | **Age** | 30 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 After more than seven years at the Emirates Stadium, Holding quietly left for south London on deadline day. The centre-back was only a real first-team regular during the turbulent 2020-21 season, but still clocked up more than 150 appearances as a reliable squad player. A signing from Bolton late in the Arsène Wenger era, Holding bridged the gap between eras but struggled to keep his place as Mikel Arteta demanded more ball-playing skills from his defenders. Still only 27, the player once used by Wenger to justify reduced spending still looks seriously underpriced.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `80`.
+- Best-fit role is [[colossus]] Colossus with model support score `80`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Heading, Jumping, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ After more than seven years at the Emirates Stadium, Holding quietly left for so
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,11 +110,11 @@ After more than seven years at the Emirates Stadium, Holding quietly left for so
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

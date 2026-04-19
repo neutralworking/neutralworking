@@ -2,12 +2,12 @@
 title: Tommaso Pobega
 category: players
 tags: [CM, AC Milan, Italy, Striker-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at AC Milan. Archetype: Striker-Powerhouse.
 person_id: 18129
-backlinks: [striker, ac-milan]
+backlinks: [striker, playmaker, ac-milan]
 ---
 
 # Tommaso Pobega
@@ -21,18 +21,27 @@ backlinks: [striker, ac-milan]
 | **Nation** | Italy |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A box-to-box midfielder with genuine press resistance and a tidy passing range in open play, but one whose career trajectory suggests a squad player rather than a difference-maker. He progresses the ball competently and works hard defensively, yet lacks the elite athleticism or technical range — the inverted runs, the half-space manipulation — that separates adequate midfielders from truly dangerous ones. Decent Serie A starter for a mid-table side; unlikely to elevate a team's ambitions significantly.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `79`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `79`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Shielding, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A box-to-box midfielder with genuine press resistance and a tidy passing range i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -108,7 +118,7 @@ A box-to-box midfielder with genuine press resistance and a tidy passing range i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

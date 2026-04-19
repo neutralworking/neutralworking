@@ -2,12 +2,12 @@
 title: Luka Modric
 category: players
 tags: [CM, AC Milan, Croatia, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at AC Milan. Archetype: Cover-Passer.
 person_id: 14184
-backlinks: [cover, ac-milan]
+backlinks: [cover, metodista, ac-milan]
 ---
 
 # Luka Modric
@@ -21,18 +21,27 @@ backlinks: [cover, ac-milan]
 | **Nation** | Croatia |
 | **Age** | 40 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 86 |
 | **Level** | 87 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 At 39, he remains a footballer of rare craft — his ability to find angles and execute under pressure is almost supernatural, and his intelligence in transition remains elite. But he's no longer covering ground like he did five years ago, and modern pressing will physically punish him if teammates don't anticipate his positioning. He's a luxury midfielder now: brilliant in a controlled game, vulnerable in chaos. Use him sparingly, in specific tactical contexts.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `86`.
+- Best-fit role is [[metodista]] Metodista with model support score `86`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Balance, First Touch, and Shielding.
@@ -67,13 +76,14 @@ At 39, he remains a footballer of rare craft — his ability to find angles and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 4.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ At 39, he remains a footballer of rare craft — his ability to find angles and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

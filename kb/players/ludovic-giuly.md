@@ -2,12 +2,12 @@
 title: Ludovic Giuly
 category: players
 tags: [WF, FC Lorient, France, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at FC Lorient. Archetype: Sprinter-Dribbler.
 person_id: 4384
-backlinks: [sprinter, fc-lorient]
+backlinks: [sprinter, winger, fc-lorient]
 ---
 
 # Ludovic Giuly
@@ -21,18 +21,26 @@ backlinks: [sprinter, fc-lorient]
 | **Nation** | France |
 | **Age** | 49 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[winger]] Winger |
 | **Level** | 44 |
 | **Overall** | 50.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Winger			FRA	B	0.0	During his career, Giuly has been employed as a wide midfielder and as a second striker playing behind and to the side of an out-and-out forward. He is known to play a direct style by running straight at defenders with pace. At Barcelona, Giuly played on the right side of a three-man forward line, usually playing alongside Ronaldinho and Samuel Eto'o.		He represented France at international level, gaining 17 caps over a five-year period and was a member of their 2003 FIFA Confederations Cup-winning squad. One of his greatest moments was being part of Barcelona's squad, as he helped the team win the 2005-06 UEFA Champions League.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger`.
+- Best-fit role is [[winger]] Winger.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ WF		Winger			FRA	B	0.0	During his career, Giuly has been employed as a wide midf
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.4m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,11 +99,11 @@ WF		Winger			FRA	B	0.0	During his career, Giuly has been employed as a wide midf
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

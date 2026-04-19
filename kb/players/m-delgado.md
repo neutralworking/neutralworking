@@ -2,12 +2,12 @@
 title: M. Delgado
 category: players
 tags: [CM, Boca Juniors, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Boca Juniors. Archetype: Powerhouse-Dribbler.
 person_id: 23279
-backlinks: [powerhouse, boca-juniors]
+backlinks: [powerhouse, ball-winner, boca-juniors]
 ---
 
 # M. Delgado
@@ -18,21 +18,30 @@ backlinks: [powerhouse, boca-juniors]
 |---|---|
 | **Position** | CM |
 | **Club** | Boca Juniors |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 M. Delgado projects primarily as a CM with a `Powerhouse-Dribbler` lean. The strongest database support comes from Shielding, Acceleration, and Marking.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `71`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Shielding, Acceleration, and Marking.
@@ -62,13 +71,14 @@ M. Delgado projects primarily as a CM with a `Powerhouse-Dribbler` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,6 +102,6 @@ M. Delgado projects primarily as a CM with a `Powerhouse-Dribbler` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

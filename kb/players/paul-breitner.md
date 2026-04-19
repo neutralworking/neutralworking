@@ -2,10 +2,10 @@
 title: Paul Breitner
 category: players
 tags: [WM, Germany]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WM at None. Archetype: None.
+summary: WM at —. Archetype: —.
 person_id: 16157
 ---
 
@@ -16,18 +16,25 @@ person_id: 16157
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 74 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WD		Athlete	Workhorse		GER	A	0.0	One of Germany’s greatest ever players, he joined Bayern at the age of 18 in 1970 and quickly became a starter. In his first season, he was mostly used as a right back or as a midfielder player. In 1971 he filled the spot left vacant by Bayern’s Austrian left back Peter Pumm, who had returned to his home country. Breitner, who in his mind and mentality always saw himself as a midfielder, immediately impressed in this position as a relentlessly attacking full back that possessed every prerequisite needed for that demanding role. Very capable at buildup and passing, when in possession, he often acted as a fourth midfielder in Bayern’s 4-3-3 of the early-70s, who often broke through on the left flank either on his own or in neat 1-2s played with his teammate Gerd Müller. Although right-footed, he was very competent at crossing the ball with his left foot, even in high tempo. For a player of his talent, Breitner became a vital player who committed himself as a dynamic, hard-running “workhorse”, soon leaving the shadow of the ageing superstar Netzer. After three years in Madrid and one year in Braunschweig, Breitner was at the peak of his powers, unanominously considered to be the Bundesliga’s best midfield player of that era. After an inauspicious 1982 World Cup, in his last year Breitner was plagued by injuries and decided to retire at the age of only 31 in 1983.His early success was as a free roaming left back, as likely to score from the right midfield as to stop an attacker in his own penalty area. Later in his career he moved to midfield and became one of the top midfielders through the early 1980s		Breitner's football career lasted from 1970 until 1983, mainly playing for Bayern Munich (1970–74 and 1978–83) and Real Madrid (1974–78), with one season playing for Eintracht Braunschweig..The early peak of Breitner's long and successful career was at age 21 in 1972 as part of the winning German European Championship team. Two years later he won the 1974 FIFA World Cup. The final was played in Munich against the Netherlands, and Breitner scored the first German goal on a penalty kick. In the final, he, Franz Beckenbauer and Berti Vogts formed a slick unit at the back and their water-tight defense prevented the Dutch from winning the World Cup. He moved to Real Madrid following the World Cup and quit the West German squad, remaining off the side until enticed to return by Jupp Derwall in 1981. Breitner is one of only four footballers to have achieved the feat of scoring in two different World Cup final matches, sharing that honour with Pelé, Vavá, and Zinédine Zidane. He achieved this in 1974 against the Netherlands and in 1982 against Italy.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Valuation Range
 
@@ -36,10 +43,11 @@ WD		Athlete	Workhorse		GER	A	0.0	One of Germany’s greatest ever players, he jo
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -50,8 +58,8 @@ WD		Athlete	Workhorse		GER	A	0.0	One of Germany’s greatest ever players, he jo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

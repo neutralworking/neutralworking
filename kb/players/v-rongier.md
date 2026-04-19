@@ -2,12 +2,12 @@
 title: V. Rongier
 category: players
 tags: [CM, Rennes, Powerhouse-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Rennes. Archetype: Powerhouse-Creator.
 person_id: 20530
-backlinks: [powerhouse, rennes]
+backlinks: [powerhouse, playmaker, rennes]
 ---
 
 # V. Rongier
@@ -18,21 +18,30 @@ backlinks: [powerhouse, rennes]
 |---|---|
 | **Position** | CM |
 | **Club** | Rennes |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 31 |
 | **Archetype** | [[powerhouse]] Powerhouse-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 76 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 V. Rongier, a 31-year-old Connector, excels as a Tuttocampista with strong physical attributes and a patient, flamboyant approach to play, adept at shielding, accurate passing, tackling, and interceptions as a build-up contributor. Despite his overall strong technical pillar, a specific weakness in "technical" alongside limited mental fortitude and a lack of guile and blocking suggest potential inconsistencies under intense pressure. A Director of Football would view him as an experienced, reliable deep-lying midfielder for a club seeking to control tempo and reinforce their defensive screen, though his age and mental limitations imply a short-term solution rather than a long-term investment.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `76`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Shielding, First Touch, and Reactions.
@@ -63,13 +72,14 @@ V. Rongier, a 31-year-old Connector, excels as a Tuttocampista with strong physi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ V. Rongier, a 31-year-old Connector, excels as a Tuttocampista with strong physi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

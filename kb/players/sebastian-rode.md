@@ -2,12 +2,12 @@
 title: Sebastian Rode
 category: players
 tags: [DM, Eintracht Frankfurt, Germany, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Eintracht Frankfurt. Archetype: Cover.
 person_id: 17286
-backlinks: [cover, eintracht-frankfurt]
+backlinks: [cover, anchor, eintracht-frankfurt]
 ---
 
 # Sebastian Rode
@@ -21,18 +21,26 @@ backlinks: [cover, eintracht-frankfurt]
 | **Nation** | Germany |
 | **Age** | 35 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[anchor]] Anchor |
 | **Level** | 75 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The 32-year-old ran out of breath after a good first half of the season. Although there were occasional bright spots, the Frankfurt captain cannot physically hold out for a whole season. Symbol: The DFB Cup final, where he initially made the difference as a leader, but had to leave after 70 minutes.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor`.
+- Best-fit role is [[anchor]] Anchor.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Acceleration, Aerial Duels, and Heading.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -69,10 +77,11 @@ The 32-year-old ran out of breath after a good first half of the season. Althou
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +105,11 @@ The 32-year-old ran out of breath after a good first half of the season. Althou
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

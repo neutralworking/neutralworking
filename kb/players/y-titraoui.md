@@ -2,12 +2,12 @@
 title: Y. Titraoui
 category: players
 tags: [CM, Sporting Charleroi, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sporting Charleroi. Archetype: Dribbler-Creator.
 person_id: 20304
-backlinks: [dribbler, sporting-charleroi]
+backlinks: [dribbler, playmaker, sporting-charleroi]
 ---
 
 # Y. Titraoui
@@ -18,21 +18,30 @@ backlinks: [dribbler, sporting-charleroi]
 |---|---|
 | **Position** | CM |
 | **Club** | Sporting Charleroi |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Titraoui is a skilled, flamboyant Terrier with strong technical skills and a tendency to make elegant, progressive runs. His shielding, first touch, and pass accuracy make him a valuable asset in build-up play, but his blocking and discipline are areas for improvement. A team that values a competitive, spontaneous approach could benefit from his skills, particularly in a system that emphasizes possession football and creative freedom.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Shielding, Acceleration, and First Touch.
@@ -63,13 +72,14 @@ Titraoui is a skilled, flamboyant Terrier with strong technical skills and a ten
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Titraoui is a skilled, flamboyant Terrier with strong technical skills and a ten
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

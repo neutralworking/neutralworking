@@ -2,12 +2,12 @@
 title: Yuya Kubo
 category: players
 tags: [CM, FC Cincinnati, Japan, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC Cincinnati. Archetype: Striker-Sprinter.
 person_id: 18720
-backlinks: [striker, fc-cincinnati]
+backlinks: [striker, mezzala, fc-cincinnati]
 ---
 
 # Yuya Kubo
@@ -21,18 +21,27 @@ backlinks: [striker, fc-cincinnati]
 | **Nation** | Japan |
 | **Age** | 32 |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A tireless Japanese central midfielder with excellent work rate and positional discipline, comfortable operating in tight spaces and breaking up play with decent timing on the tackle. He's a functional passer who can move the ball laterally and keep things ticking in congested areas, but he's not a progressive eight—you won't see him threading balls into the half-spaces or carrying forward with pace and purpose. At 32 in MLS, he's a reliable squad rotation option, a steady professional, but not someone you'd build around or trust in a high-press system where athleticism fades.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `75`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `75`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Movement, and Shielding.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ A tireless Japanese central midfielder with excellent work rate and positional d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A tireless Japanese central midfielder with excellent work rate and positional d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

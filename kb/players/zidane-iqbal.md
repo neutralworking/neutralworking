@@ -2,12 +2,12 @@
 title: Zidane Iqbal
 category: players
 tags: [CM, Utrecht, Iraq, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Utrecht. Archetype: Sprinter-Dribbler.
 person_id: 18782
-backlinks: [sprinter, utrecht]
+backlinks: [sprinter, mezzala, utrecht]
 ---
 
 # Zidane Iqbal
@@ -21,18 +21,26 @@ backlinks: [sprinter, utrecht]
 | **Nation** | Iraq |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[mezzala]] Mezzala |
 | **Level** | 79 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Iqbal's strengths as a Sprinter-Dribbler archetype lie in his balance, shielding, and pace, making him a dynamic presence in midfield, but his limited tactical awareness and mental discipline can lead to errors, making him a higher-risk signing for a team, although his strong physical abilities and competitive personality can thrive in a team that values quick transitions and high-intensity pressing.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala`.
+- Best-fit role is [[mezzala]] Mezzala.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Iqbal's strengths as a Sprinter-Dribbler archetype lie in his balance, shielding
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ Iqbal's strengths as a Sprinter-Dribbler archetype lie in his balance, shielding
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Jerome Opoku
 category: players
 tags: [CD, Başakşehir, Ghana, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Başakşehir. Archetype: Destroyer.
 person_id: 12584
-backlinks: [destroyer, basaksehir]
+backlinks: [destroyer, colossus, basaksehir]
 ---
 
 # Jerome Opoku
@@ -21,18 +21,27 @@ backlinks: [destroyer, basaksehir]
 | **Nation** | Ghana |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Opoku is a no-nonsense Destroyer, a traditional centre-back who thrives on his immense physicality, aerial dominance, and astute interceptions to shut down attacks. While defensively solid, his limited creativity means he offers precious little in terms of ball progression, and a susceptibility to lapses in discipline can occasionally prove costly.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `72`.
+- Best-fit role is [[colossus]] Colossus with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Stamina, and Acceleration.
@@ -67,13 +76,14 @@ Opoku is a no-nonsense Destroyer, a traditional centre-back who thrives on his i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Opoku is a no-nonsense Destroyer, a traditional centre-back who thrives on his i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

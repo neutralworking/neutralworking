@@ -1,8 +1,8 @@
 ---
 title: Houston Dash
 category: clubs
-tags: [National Women's Soccer League, None]
-updated: 2026-04-14
+tags: [National Women's Soccer League]
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Houston Dash. 28 players in database.
@@ -11,38 +11,51 @@ summary: Houston Dash. 28 players in database.
 # Houston Dash
 
 **League**: National Women's Soccer League  
-**Nation**: None  
+**Nation**: —  
 **Players in DB**: 28
+
+## Identity
+
+- Database coverage is deepest in CF (7), CM (5), and CD (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Gk (1) and Sprinter (1) across the current squad.
+- This article is currently a roster-structure snapshot from database coverage rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[allysha-chapman]] Allysha Chapman | CD | None | None |
-| [[courtney-petersen]] Courtney Petersen | CD | None | None |
-| [[katie-lind]] Katie Lind | CD | Sprinter | None |
-| [[satara-murray]] Satara Murray | CD | None | None |
-| [[barbara-olivieri]] Bárbara Olivieri | CF | None | None |
-| [[diana-ordonez]] Diana Ordóñez | CF | None | None |
-| [[michelle-alozie]] Michelle Alozie | CF | None | None |
-| [[paige-nielsen]] Paige Nielsen | CF | None | None |
-| [[paulina-gramaglia]] Paulina Gramaglia | CF | None | None |
-| [[veronica-latsko]] Veronica Latsko | CF | None | None |
-| [[yuki-nagasato]] Yūki Nagasato | CF | None | None |
-| [[haley-mccutcheon]] Haley McCutcheon | CM | None | None |
-| [[havana-solaun]] Havana Solaun | CM | None | None |
-| [[marisa-digrande]] Marisa DiGrande | CM | None | None |
-| [[morgan-gautrat]] Morgan Gautrat | CM | None | None |
-| [[sophie-schmidt]] Sophie Schmidt | CM | None | None |
-| [[jane-campbell]] Jane Campbell | GK | GK | None |
-| [[kristie-mewis]] Kristie Mewis | WD | None | None |
-| [[amanda-west]] Amanda West | WF | None | None |
-| [[rachel-daly]] Rachel Daly | WF | None | None |
-| [[belle-briede]] Belle Briede | None | None | None |
-| [[croix-soto]] Croix Soto | None | None | None |
-| [[jyllissa-harris]] Jyllissa Harris | None | None | None |
-| [[kiki-van-zanten]] Kiki Van Zanten | None | None | None |
-| [[madison-ayson]] Madison Ayson | None | None | None |
-| [[ryan-gareis]] Ryan Gareis | None | None | None |
-| [[sophie-hirst]] Sophie Hirst | None | None | None |
-| [[tarciane]] Tarciane | None | None | None |
+| [[allysha-chapman]] Allysha Chapman | CD | — | — |
+| [[courtney-petersen]] Courtney Petersen | CD | — | — |
+| [[katie-lind]] Katie Lind | CD | Sprinter | — |
+| [[satara-murray]] Satara Murray | CD | — | — |
+| [[barbara-olivieri]] Bárbara Olivieri | CF | — | — |
+| [[diana-ordonez]] Diana Ordóñez | CF | — | — |
+| [[michelle-alozie]] Michelle Alozie | CF | — | — |
+| [[paige-nielsen]] Paige Nielsen | CF | — | — |
+| [[paulina-gramaglia]] Paulina Gramaglia | CF | — | — |
+| [[veronica-latsko]] Veronica Latsko | CF | — | — |
+| [[yuki-nagasato]] Yūki Nagasato | CF | — | — |
+| [[haley-mccutcheon]] Haley McCutcheon | CM | — | — |
+| [[havana-solaun]] Havana Solaun | CM | — | — |
+| [[marisa-digrande]] Marisa DiGrande | CM | — | — |
+| [[morgan-gautrat]] Morgan Gautrat | CM | — | — |
+| [[sophie-schmidt]] Sophie Schmidt | CM | — | — |
+| [[jane-campbell]] Jane Campbell | GK | GK | — |
+| [[kristie-mewis]] Kristie Mewis | WD | — | — |
+| [[amanda-west]] Amanda West | WF | — | — |
+| [[rachel-daly]] Rachel Daly | WF | — | — |
+| Belle Briede | — | — | — |
+| Croix Soto | — | — | — |
+| Jyllissa Harris | — | — | — |
+| Kiki Van Zanten | — | — | — |
+| Madison Ayson | — | — | — |
+| Ryan Gareis | — | — | — |
+| Sophie Hirst | — | — | — |
+| Tarciane | — | — | — |

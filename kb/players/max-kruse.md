@@ -2,12 +2,12 @@
 title: Max Kruse
 category: players
 tags: [CF, SC Paderborn 07, Germany, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at SC Paderborn 07. Archetype: Creator.
 person_id: 4990
-backlinks: [creator, sc-paderborn-07]
+backlinks: [creator, falso-nove, sc-paderborn-07]
 ---
 
 # Max Kruse
@@ -21,18 +21,26 @@ backlinks: [creator, sc-paderborn-07]
 | **Nation** | Germany |
 | **Age** | 38 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 65 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Max Kruse projects primarily as a CF with a `Creator` lean. The strongest database support comes from Acceleration, First Touch, and Pace.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +70,14 @@ Max Kruse projects primarily as a CF with a `Creator` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +102,6 @@ Max Kruse projects primarily as a CF with a `Creator` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

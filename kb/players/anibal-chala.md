@@ -2,12 +2,12 @@
 title: Anibal Chala
 category: players
 tags: [CD, Barcelona SC, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Barcelona SC. Archetype: None.
+summary: CD at Barcelona SC. Archetype: —.
 person_id: 32033
-backlinks: [barcelona-sc]
+backlinks: [centrale, barcelona-sc]
 ---
 
 # Anibal Chala
@@ -20,19 +20,28 @@ backlinks: [barcelona-sc]
 | **Club** | Barcelona SC |
 | **Nation** | Paraguay |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[centrale]] Centrale |
+| **Role Score** | 28 |
+| **Level** | — |
 | **Overall** | 26.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Anibal Chala projects primarily as a CD with a `None` lean. The strongest database support comes from Pace, Acceleration, and Skills.
+Anibal Chala projects primarily as a CD with a `—` lean. The strongest database support comes from Pace, Acceleration, and Skills.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Centrale` with model support score `28`.
+- Best-fit role is [[centrale]] Centrale with model support score `28`.
 - Most bankable strengths show up in Pace, Acceleration, and Skills.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -62,13 +71,14 @@ Anibal Chala projects primarily as a CD with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 2.1m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,5 +93,5 @@ Anibal Chala projects primarily as a CD with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

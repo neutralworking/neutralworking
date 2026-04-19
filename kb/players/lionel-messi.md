@@ -2,12 +2,12 @@
 title: Lionel Messi
 category: players
 tags: [WF, Inter Miami CF, Argentina, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Inter Miami CF. Archetype: Creator-Passer.
 person_id: 13979
-backlinks: [creator, inter-miami-cf]
+backlinks: [creator, winger, inter-miami-cf]
 ---
 
 # Lionel Messi
@@ -21,18 +21,27 @@ backlinks: [creator, inter-miami-cf]
 | **Nation** | Argentina |
 | **Age** | 38 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 88 |
 | **Level** | 88 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Still operating at an elite level within MLS context, Messi's left foot remains a world-class problem, his progressive passing is crisp, and his ability to create space in tight areas through micro-adjustments is undiminished. The physical decline is real—he can't carry the ball 60 yards into traffic anymore, and he's vulnerable to sustained pressing over 90 minutes. But in a league where space opens up quickly and defenses don't maintain compact shape for 45 minutes, he remains a genuine difference-maker who bends games to his will.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `88`.
+- Best-fit role is [[winger]] Winger with model support score `88`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Set Piece Specialist.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -67,13 +76,14 @@ Still operating at an elite level within MLS context, Messi's left foot remains 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ Still operating at an elite level within MLS context, Messi's left foot remains 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 16 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 16 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

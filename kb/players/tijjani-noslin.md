@@ -2,12 +2,12 @@
 title: Tijjani Noslin
 category: players
 tags: [CD, SC Telstar, Netherlands, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at SC Telstar. Archetype: Creator-Striker.
 person_id: 17964
-backlinks: [creator, sc-telstar]
+backlinks: [creator, stopper, sc-telstar]
 ---
 
 # Tijjani Noslin
@@ -21,18 +21,27 @@ backlinks: [creator, sc-telstar]
 | **Nation** | Netherlands |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A genuinely disruptive wide forward with the kind of directness that makes defenders uneasy—quick first step, natural left foot, genuinely dangerous in the half-spaces where he can cut onto his stronger side and create angles. He's a proper scorer too, not just a facilitator; clinical in the box and willing to take people on rather than default to a sideways pass. The vulnerability is real: he's not a pressing machine, can be caught positionally when the ball switches quickly, and his consistency across a full season remains the question mark. For Lazio, he's become genuinely important, but he's still a tier below the elite inverted wingers because of that defensive profile.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `78`.
+- Best-fit role is [[stopper]] Stopper with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, First Touch, and Long Range.
@@ -67,13 +76,14 @@ A genuinely disruptive wide forward with the kind of directness that makes defen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 6.2m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A genuinely disruptive wide forward with the kind of directness that makes defen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

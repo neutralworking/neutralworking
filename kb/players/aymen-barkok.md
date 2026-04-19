@@ -2,11 +2,12 @@
 title: Aymen Barkok
 category: players
 tags: [CM, Morocco]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 30485
+backlinks: [playmaker]
 ---
 
 # Aymen Barkok
@@ -16,22 +17,30 @@ person_id: 30485
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Morocco |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Level** | — |
 | **Overall** | 55.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Aymen Barkok projects primarily as a CM with a `None` lean. The strongest database support comes from Flair, First Touch, and Skills.
+Aymen Barkok projects primarily as a CM with a `—` lean. The strongest database support comes from Flair, First Touch, and Skills.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Most bankable strengths show up in Flair, First Touch, and Skills.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -58,13 +67,14 @@ Aymen Barkok projects primarily as a CM with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.4m |
+| Mid | EUR 0.5m |
+| Ceiling | EUR 3.7m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,5 +92,5 @@ Aymen Barkok projects primarily as a CM with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 5 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 5 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |

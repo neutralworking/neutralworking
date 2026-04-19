@@ -2,7 +2,7 @@
 title: P. Otele
 category: players
 tags: [GK, Hamburger SV, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Hamburger SV. Archetype: GK.
@@ -18,17 +18,24 @@ backlinks: [gk, hamburger-sv]
 |---|---|
 | **Position** | GK |
 | **Club** | Hamburger SV |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 P. Otele projects primarily as a GK with a `GK` lean. The strongest database support comes from Flair, Skills, and Carries.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -58,13 +65,14 @@ P. Otele projects primarily as a GK with a `GK` lean. The strongest database sup
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.5m |
+| Ceiling | EUR 3.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -81,5 +89,5 @@ P. Otele projects primarily as a GK with a `GK` lean. The strongest database sup
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 4 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |

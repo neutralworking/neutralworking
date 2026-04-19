@@ -2,12 +2,12 @@
 title: August Mikkelsen
 category: players
 tags: [CM, Tromsø IL, Norway, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Tromsø IL. Archetype: Sprinter.
 person_id: 8796
-backlinks: [sprinter, troms-il]
+backlinks: [sprinter, playmaker, troms-il]
 ---
 
 # August Mikkelsen
@@ -21,18 +21,26 @@ backlinks: [sprinter, troms-il]
 | **Nation** | Norway |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 79 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 August Mikkelsen is a technically gifted midfielder with a strong tactical understanding, but his limited physicality and weakness in duels may make it difficult for him to dominate games, instead relying on his balance and shielding ability to make an impact, and his extraverted personality may make him a leader on the pitch, but his peak status suggests he may be at the height of his powers, and his best fit would be a club that values his technical ability and tactical acumen and can provide him with a clear role and expectations, and his strong mental pillar makes him well-suited to a high-intensity environment.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ August Mikkelsen is a technically gifted midfielder with a strong tactical under
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ August Mikkelsen is a technically gifted midfielder with a strong tactical under
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

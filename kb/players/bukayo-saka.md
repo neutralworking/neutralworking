@@ -2,12 +2,12 @@
 title: Bukayo Saka
 category: players
 tags: [WF, Arsenal, England, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Arsenal. Archetype: Creator-Engine.
 person_id: 9266
-backlinks: [creator, arsenal]
+backlinks: [creator, wide-playmaker, arsenal]
 ---
 
 # Bukayo Saka
@@ -21,6 +21,8 @@ backlinks: [creator, arsenal]
 | **Nation** | England |
 | **Age** | 24 |
 | **Archetype** | [[creator]] Creator-Engine |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 89 |
 | **Level** | 88 |
 | **Overall** | 78.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [creator, arsenal]
 
 Complete winger. Goals, assists, defensive work rate — does it all. Equally dangerous cutting inside or going to the byline. Mental toughness exceptional for his age — Euro 2024 penalty miss hasn't affected him. Arsenal and England's most important player.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `89`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `89`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Creativity, Flair, and Reactions.
@@ -67,13 +76,14 @@ Complete winger. Goals, assists, defensive work rate — does it all. Equally da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 90.1m |
+| Mid | EUR 106m |
+| Ceiling | EUR 152m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,11 +115,11 @@ Complete winger. Goals, assists, defensive work rate — does it all. Equally da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -117,7 +127,5 @@ Complete winger. Goals, assists, defensive work rate — does it all. Equally da
 <summary>Raw scouting narrative</summary>
 
 https://fbref.com/en/players/bc7dc64d/Bukayo-Saka
-
-
 
 </details>

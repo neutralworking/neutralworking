@@ -2,12 +2,12 @@
 title: Hannes Wolf
 category: players
 tags: [CM, New York City FC, Austria, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at New York City FC. Archetype: Creator-Engine.
 person_id: 11649
-backlinks: [creator, new-york-city-fc]
+backlinks: [creator, mezzala, new-york-city-fc]
 ---
 
 # Hannes Wolf
@@ -21,18 +21,27 @@ backlinks: [creator, new-york-city-fc]
 | **Nation** | Austria |
 | **Age** | 27 |
 | **Archetype** | [[creator]] Creator-Engine |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 52 |
 | **Level** | 84 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A tidy, press-resistant midfielder who finds space in the half-spaces and progresses the ball with the kind of soft touch that makes NYCFC's build-up hum. His work rate off the ball is genuine and his body shape keeps him available for the next pass, but he lacks the incisive final third invention or the physical dominance you'd need to genuinely impact a title race. A very good MLS starter; a squad depth option at a serious European club.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `52`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `52`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A tidy, press-resistant midfielder who finds space in the half-spaces and progre
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A tidy, press-resistant midfielder who finds space in the half-spaces and progre
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

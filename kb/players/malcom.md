@@ -2,12 +2,12 @@
 title: Malcom
 category: players
 tags: [AM, Al-Hilal, Brazil, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Al-Hilal. Archetype: Creator-Destroyer.
 person_id: 14350
-backlinks: [creator, al-hilal]
+backlinks: [creator, trequartista, al-hilal]
 ---
 
 # Malcom
@@ -21,18 +21,27 @@ backlinks: [creator, al-hilal]
 | **Nation** | Brazil |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator-Destroyer |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 46 |
 | **Level** | 86 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A right winger with sudden acceleration and an ability to create something from nothing in transition—he's got enough technical quality to beat a defender in a tight space and genuine directness that bypasses the midfield. The problem is consistency and decision-making: he can be maddeningly erratic, taking three touches when two would suffice, and his tendency to drift into crowded areas means he's often isolated when the space dries up. As a squad depth piece or impact substitute, he has genuine value; as a regular starter in a title race, the volatility becomes a liability.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `46`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `46`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Set Piece Specialist.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -63,13 +72,14 @@ A right winger with sudden acceleration and an ability to create something from 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 49.0m |
+| Ceiling | EUR 58.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A right winger with sudden acceleration and an ability to create something from 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

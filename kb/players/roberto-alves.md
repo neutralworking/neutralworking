@@ -2,12 +2,12 @@
 title: Roberto Alves
 category: players
 tags: [AM, Radomiak Radom, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Radomiak Radom. Archetype: Powerhouse.
 person_id: 16720
-backlinks: [powerhouse, radomiak-radom]
+backlinks: [powerhouse, incursore, radomiak-radom]
 ---
 
 # Roberto Alves
@@ -18,21 +18,30 @@ backlinks: [powerhouse, radomiak-radom]
 |---|---|
 | **Position** | AM |
 | **Club** | Radomiak Radom |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[incursore]] Incursore |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An enganche whose tactical intelligence and pass accuracy are his true currency, directing play through balls rather than improvisation, yet his limited technical range and guile mask a relatively straightforward tactical operator. His pace and acceleration inject directness into transitions, though duel avoidance and discipline concerns signal a player who functions optimally with strong protective cover. Best fits systems where his through-ball range and stamina unlock fast, structured attacking phases; lower-intensity leagues (Poland, Portugal) suit his profile better than high-press environments where his dueling limitations become exposed.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore` with model support score `74`.
+- Best-fit role is [[incursore]] Incursore with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `AM` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ An enganche whose tactical intelligence and pass accuracy are his true currency,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +99,7 @@ An enganche whose tactical intelligence and pass accuracy are his true currency,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

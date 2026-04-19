@@ -2,12 +2,12 @@
 title: Souleyman Doumbia
 category: players
 tags: [CD, Charlotte FC, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Charlotte FC. Archetype: Sprinter.
 person_id: 17554
-backlinks: [sprinter, charlotte-fc]
+backlinks: [sprinter, sweeper, charlotte-fc]
 ---
 
 # Souleyman Doumbia
@@ -18,21 +18,30 @@ backlinks: [sprinter, charlotte-fc]
 |---|---|
 | **Position** | CD |
 | **Club** | Charlotte FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 29 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Souleyman Doumbia projects primarily as a CD with a `Sprinter` lean. The strongest database support comes from Pace, Acceleration, and Shielding.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `72`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Pace, Acceleration, and Shielding.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +71,14 @@ Souleyman Doumbia projects primarily as a CD with a `Sprinter` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,5 +98,5 @@ Souleyman Doumbia projects primarily as a CD with a `Sprinter` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

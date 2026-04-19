@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -176,7 +58,21 @@ article strong { color: #fff; font-weight: 500; }
 <h1 id="deportivo">Deportivo</h1>
 <p><strong>League</strong>: Primera División RFEF 2021-22<br />
 <strong>Nation</strong>: Spain<br />
-<strong>Players in DB</strong>: 20</p>
+<strong>Players in DB</strong>: 50</p>
+<h2 id="identity">Identity</h2>
+<ul>
+<li>Database coverage is deepest in WD (2), CM (2), and WF (2), which shapes the visible squad picture.</li>
+<li>The tracked archetype mix leans toward Destroyer (6), Striker (4), and Sprinter (3) across the current squad.</li>
+<li>Average available overall grade sits at 59.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.</li>
+</ul>
+<h2 id="canon-context">Canon Context</h2>
+<ul>
+<li><a href="../concepts/build-up.html">build-up</a> Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.</li>
+<li><a href="../concepts/rest-defense.html">rest-defense</a> Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.</li>
+<li><a href="../concepts/half-space.html">half-space</a> Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.</li>
+<li><a href="../concepts/occupation-of-five-lanes.html">occupation-of-five-lanes</a> Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.</li>
+<li><a href="../concepts/gegenpressing.html">gegenpressing</a> Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.</li>
+</ul>
 <h2 id="squad">Squad</h2>
 <table>
 <thead>
@@ -201,10 +97,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>61.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">jonathan-rodriguez</span> Jonathan Rodríguez</td>
+<td><a href="../players/jonathan-rodriguez.html">jonathan-rodriguez</a> Jonathan Rodríguez</td>
 <td>CF</td>
 <td>Sprinter-Dribbler</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/b-sanchez.html">b-sanchez</a> B. Sánchez</td>
@@ -219,10 +115,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>80.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">i-arce</span> I. Arce</td>
+<td><a href="../players/i-arce.html">i-arce</a> I. Arce</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/m-celiz.html">m-celiz</a> M. Céliz</td>
@@ -255,58 +151,238 @@ article strong { color: #fff; font-weight: 500; }
 <td>57.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">b-guille</span> B. Guille</td>
-<td>None</td>
+<td>Á. Pizzorno</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>B. Guille</td>
+<td>—</td>
 <td>Sprinter-Dribbler</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">c-paz</span> C. Paz</td>
-<td>None</td>
+<td>Braian Abel Rivero</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>C. Paz</td>
+<td>—</td>
 <td>Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">f-mino</span> F. Miño</td>
-<td>None</td>
+<td>Carlos Daniel Pimienta Cotto</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Carlos Javier Beltrán Neroni</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Christian Martín Velarde Arrunátegui</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Cristian Gabriel García</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Enmanuel Jesús Páucar Reyes</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ezequiel Naya</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>F. Miño</td>
+<td>—</td>
 <td>Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">g-bravo</span> G. Bravo</td>
-<td>None</td>
+<td>Francisco Andrés Arancibia Silva</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Franco Manuel Saravia Rojas</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>G. Bravo</td>
+<td>—</td>
 <td>Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-goitia</span> J. Goitía</td>
-<td>None</td>
+<td>Hairo José Camacho Cumpa</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Héctor Aldair Salazar Tejada</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hernán Arsenio Pérez González</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Inti Amaru Garrafa Tapia</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Isaac David Camargo Pineda</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>J. Goitía</td>
+<td>—</td>
 <td>Destroyer-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-randazzo</span> J. Randazzo</td>
-<td>None</td>
+<td>J. Randazzo</td>
+<td>—</td>
 <td>Destroyer-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">n-caro</span> N. Caro</td>
-<td>None</td>
+<td>Jefferson Carlos Portales Lavalle</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Jordan Marcelo Guivin Tanta</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>José Luis Sinisterra Castillo</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>José Miguel Manzaneda Pineda</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kelvin Denis Sánchez Vasquez</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kevin Armando Sandoval Laynes</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Leonardo William Mifflin Cabezudo</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Miguel Ángel Ramón Samudio</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>N. Caro</td>
+<td>—</td>
 <td>Sprinter-Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">n-sansotre</span> N. Sansotre</td>
-<td>None</td>
+<td>N. Sansotre</td>
+<td>—</td>
 <td>Cover-Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">r-sayavedra</span> R. Sayavedra</td>
-<td>None</td>
+<td>Nicolás Nahuel Gómez</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Orlando Núñez Castillo</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Oshiro Carlos Takeuchi Bambaren</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Pablo Sebastián Bueno</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Patrick Sergei Zubczuk Meléndez</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>R. Sayavedra</td>
+<td>—</td>
 <td>Creator-Destroyer</td>
-<td>None</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Xavi Moreno Layme</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Yuriel Darío Celi Guerrero</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>

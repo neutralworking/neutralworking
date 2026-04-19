@@ -2,12 +2,12 @@
 title: Martín Cauteruccio
 category: players
 tags: [CF, Sporting Cristal, Uruguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Sporting Cristal. Archetype: None.
+summary: CF at Sporting Cristal. Archetype: —.
 person_id: 14637
-backlinks: [sporting-cristal]
+backlinks: [seconda-punta, sporting-cristal]
 ---
 
 # Martín Cauteruccio
@@ -20,19 +20,28 @@ backlinks: [sporting-cristal]
 | **Club** | Sporting Cristal |
 | **Nation** | Uruguay |
 | **Age** | 39 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 29 |
 | **Level** | 56 |
 | **Overall** | 41.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Martín Cauteruccio projects primarily as a CF with a `None` lean. The strongest database support comes from Discipline, Concentration, and Communication.
+Martín Cauteruccio projects primarily as a CF with a `—` lean. The strongest database support comes from Discipline, Concentration, and Communication.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `29`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `29`.
 - Most bankable strengths show up in Discipline, Concentration, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -60,10 +69,11 @@ Martín Cauteruccio projects primarily as a CF with a `None` lean. The strongest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,5 +93,5 @@ Martín Cauteruccio projects primarily as a CF with a `None` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

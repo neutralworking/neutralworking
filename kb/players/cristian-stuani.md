@@ -2,12 +2,12 @@
 title: Cristian Stuani
 category: players
 tags: [CF, Girona, Uruguay, Target-Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Girona. Archetype: Target-Striker.
 person_id: 9803
-backlinks: [target, girona]
+backlinks: [target, target-forward, girona]
 ---
 
 # Cristian Stuani
@@ -21,18 +21,26 @@ backlinks: [target, girona]
 | **Nation** | Uruguay |
 | **Age** | 39 |
 | **Archetype** | [[target]] Target-Striker |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran forward who's learned to be ruthlessly efficient in the box rather than relying on pace or explosiveness; his movement is intelligent, his finishing is clean, and he's a proper threat from set pieces. He's immobile in transition and can't press effectively with any consistency. At 36, he remains a goal threat for a team willing to play to his strengths, but he's purely a finisher now—no other dimension.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Penalties, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ A veteran forward who's learned to be ruthlessly efficient in the box rather tha
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 15.3m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +99,7 @@ A veteran forward who's learned to be ruthlessly efficient in the box rather tha
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

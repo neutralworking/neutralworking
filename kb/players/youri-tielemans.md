@@ -2,12 +2,12 @@
 title: Youri Tielemans
 category: players
 tags: [CM, Aston Villa, Belgium, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Aston Villa. Archetype: Creator-Passer.
 person_id: 18677
-backlinks: [creator, aston-villa]
+backlinks: [creator, metodista, aston-villa]
 ---
 
 # Youri Tielemans
@@ -21,18 +21,27 @@ backlinks: [creator, aston-villa]
 | **Nation** | Belgium |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 84 |
 | **Level** | 83 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Youri Tielemans operates as a Tuttocampista, showcasing his exceptional pass accuracy and range, which allows him to control the tempo of the game. His historical antecedents are playmakers who dictate the flow of the game with their vision. Tielemans would thrive in a team that values possession and build-up play, although his technical and physical limitations in certain areas may require specific tactical adjustments to protect him.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `84`.
+- Best-fit role is [[metodista]] Metodista with model support score `84`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and High Press.
 - Most bankable strengths show up in First Touch, Pass Range, and Crossing.
@@ -67,13 +76,14 @@ Youri Tielemans operates as a Tuttocampista, showcasing his exceptional pass acc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Youri Tielemans operates as a Tuttocampista, showcasing his exceptional pass acc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

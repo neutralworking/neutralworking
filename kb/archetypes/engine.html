@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -179,6 +61,48 @@ article strong { color: #fff; font-weight: 500; }
 <blockquote>
 <p>Tireless work rate. Presses, runs, recovers, and does it again for 90 minutes. The oxygen of the team.</p>
 </blockquote>
+<h2 id="tactical-habitat">Tactical Habitat</h2>
+<p>Engines thrive in structures that demand:</p>
+<ul>
+<li>repeated <a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/gegenpressing.md">Gegenpressing</a> actions</li>
+<li>sharp reactions to a <a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/pressing-trigger.md">Pressing Trigger</a></li>
+<li>recovery into <a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/compactness.md">Compactness</a> after aggressive jumps</li>
+<li>strong <a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/counterpressing-recovery.md">Counterpressing Recovery</a></li>
+</ul>
+<p>They are especially valuable in teams that want to sustain pressure rather than just produce one good pressing action.</p>
+<h2 id="what-they-solve">What They Solve</h2>
+<p>A real engine helps a team:</p>
+<ul>
+<li>maintain intensity across phases</li>
+<li>arrive in the next duel after the first duel is lost</li>
+<li>keep transitions from becoming open races</li>
+<li>connect pressing effort to collective recovery</li>
+</ul>
+<p>An engine is useful not because they run a lot, but because their running keeps the structure alive.</p>
+<h2 id="scouting-indicators">Scouting Indicators</h2>
+<p>Useful signs of an engine:</p>
+<ul>
+<li>reacts quickly after turnovers</li>
+<li>repeats high-intensity actions without losing coordination</li>
+<li>recovers lanes, not just distance</li>
+<li>supports both the first press and the second action</li>
+<li>maintains useful movement late in matches</li>
+</ul>
+<h2 id="common-limitations">Common Limitations</h2>
+<p>Engines can be overrated when:</p>
+<ul>
+<li>work rate masks poor positioning</li>
+<li>they chase every action and damage team shape</li>
+<li>they lack enough technical quality for possession-heavy teams</li>
+<li>the role demands more control than intensity</li>
+</ul>
+<h2 id="related-concepts">Related Concepts</h2>
+<ul>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/gegenpressing.md">Gegenpressing</a></li>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/pressing-trigger.md">Pressing Trigger</a></li>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/compactness.md">Compactness</a></li>
+<li><a href="/Users/solid-snake/Documents/chief-scout/kb/concepts/counterpressing-recovery.md">Counterpressing Recovery</a></li>
+</ul>
 <h2 id="top-exemplars">Top Exemplars</h2>
 <table>
 <thead>
@@ -193,8 +117,20 @@ article strong { color: #fff; font-weight: 500; }
 <tr>
 <td><a href="../players/harvey-elliott.html">harvey-elliott</a> Harvey Elliott</td>
 <td>CF</td>
-<td>Aston Villa</td>
+<td>Liverpool</td>
 <td>82.0</td>
+</tr>
+<tr>
+<td><a href="../players/ederson.html">ederson</a> Ederson</td>
+<td>GK</td>
+<td>Atalanta</td>
+<td>81.0</td>
+</tr>
+<tr>
+<td><a href="../players/jude-bellingham.html">jude-bellingham</a> Jude Bellingham</td>
+<td>AM</td>
+<td>Real Madrid</td>
+<td>81.0</td>
 </tr>
 <tr>
 <td><a href="../players/ferland-mendy.html">ferland-mendy</a> Ferland Mendy</td>
@@ -215,18 +151,6 @@ article strong { color: #fff; font-weight: 500; }
 <td>81.0</td>
 </tr>
 <tr>
-<td><a href="../players/ederson.html">ederson</a> Ederson</td>
-<td>GK</td>
-<td>Atalanta</td>
-<td>81.0</td>
-</tr>
-<tr>
-<td><a href="../players/jude-bellingham.html">jude-bellingham</a> Jude Bellingham</td>
-<td>AM</td>
-<td>Real Madrid</td>
-<td>81.0</td>
-</tr>
-<tr>
 <td><a href="../players/charles-de-ketelaere.html">charles-de-ketelaere</a> Charles De Ketelaere</td>
 <td>CF</td>
 <td>Atalanta</td>
@@ -239,15 +163,15 @@ article strong { color: #fff; font-weight: 500; }
 <td>80.0</td>
 </tr>
 <tr>
-<td><a href="../players/myles-lewis-skelly.html">myles-lewis-skelly</a> Myles Lewis-Skelly</td>
-<td>WD</td>
-<td>Arsenal</td>
+<td><a href="../players/amine-adli.html">amine-adli</a> Amine Adli</td>
+<td>WF</td>
+<td>Bournemouth</td>
 <td>79.0</td>
 </tr>
 <tr>
-<td><a href="../players/adrien-truffert.html">adrien-truffert</a> Adrien Truffert</td>
+<td><a href="../players/matthias-bader.html">matthias-bader</a> Matthias Bader</td>
 <td>WD</td>
-<td>Bournemouth</td>
+<td>Darmstadt</td>
 <td>79.0</td>
 </tr>
 </tbody>

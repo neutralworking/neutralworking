@@ -2,12 +2,12 @@
 title: Anthony O'Connor
 category: players
 tags: [CD, Harrogate Town, Ireland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Harrogate Town. Archetype: Powerhouse.
 person_id: 8602
-backlinks: [powerhouse, harrogate-town]
+backlinks: [powerhouse, distributor, harrogate-town]
 ---
 
 # Anthony O'Connor
@@ -21,18 +21,26 @@ backlinks: [powerhouse, harrogate-town]
 | **Nation** | Ireland |
 | **Age** | 33 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 80 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A centre-back who reads the game with the experience you'd expect from a 33-year-old journeyman, but he's lost enough yard of pace that he's become a purely positional defender — fine for a League Two side, entirely exposed if you ask him to turn and run. His distribution is functional rather than progressive; he'll find a full-back, but won't thread the needle through midfield. At this level, he's a steady pair of hands, nothing more.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Physical, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ A centre-back who reads the game with the experience you'd expect from a 33-year
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ A centre-back who reads the game with the experience you'd expect from a 33-year
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

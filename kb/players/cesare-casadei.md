@@ -2,12 +2,12 @@
 title: Cesare Casadei
 category: players
 tags: [CM, Torino, Italy, Target-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Torino. Archetype: Target-Striker.
 person_id: 9473
-backlinks: [target, torino]
+backlinks: [target, mezzala, torino]
 ---
 
 # Cesare Casadei
@@ -21,13 +21,14 @@ backlinks: [target, torino]
 | **Nation** | Italy |
 | **Age** | 23 |
 | **Archetype** | [[target]] Target-Striker |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 55 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
-
 
 ClubInter
 
@@ -43,10 +44,16 @@ Casadei is getting a bit of a reputation for his debuts. The first time he was c
   
 **October 2023 update** A good year for the young Italian, who went out on loan to Reading to play regularly in the Championship in the second half of the 2022-23 season and was part of the Germany Under-20 side that reached the World Cup final in Argentina in May. Now on loan at Leicester, who have started the season extremely well. "I am here to work hard and to fight for this team, and to win," he said.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `55`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `55`.
 - Primary archetype leans toward `Target` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, First Touch, and Movement.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -77,13 +84,14 @@ Casadei is getting a bit of a reputation for his debuts. The first time he was c
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 13.3m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,17 +115,16 @@ Casadei is getting a bit of a reputation for his debuts. The first time he was c
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubInter
 
@@ -132,6 +139,5 @@ Casadei is getting a bit of a reputation for his debuts. The first time he was c
 **September 2022 update** A surprise summer signing for Chelsea as the Premier League club targeted promising youngsters around Europe. Head of youth development, Neil Bath, said: "Cesare is a player we have tracked for some time and we are delighted that he has now agreed to join Chelsea, where he will initially strengthen our Under-21s squad.”  
   
 **October 2023 update** A good year for the young Italian, who went out on loan to Reading to play regularly in the Championship in the second half of the 2022-23 season and was part of the Germany Under-20 side that reached the World Cup final in Argentina in May. Now on loan at Leicester, who have started the season extremely well. "I am here to work hard and to fight for this team, and to win," he said.
-
 
 </details>

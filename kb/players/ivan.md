@@ -2,12 +2,12 @@
 title: Ivan
 category: players
 tags: [GK, Internacional, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Internacional. Archetype: GK.
 person_id: 26800
-backlinks: [gk, internacional]
+backlinks: [gk, distributor, internacional]
 ---
 
 # Ivan
@@ -18,21 +18,29 @@ backlinks: [gk, internacional]
 |---|---|
 | **Position** | GK |
 | **Club** | Internacional |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
+| **Best Role** | [[distributor]] Distributor |
+| **Level** | — |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
 Ivan projects primarily as a GK with a `GK` lean. The strongest database support comes from Creativity, Through Balls, and Carries.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Creativity, Through Balls, and Carries.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -62,13 +70,14 @@ Ivan projects primarily as a GK with a `GK` lean. The strongest database support
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 1.1m |
+| Mid | EUR 1.3m |
+| Ceiling | EUR 2.6m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,5 +99,5 @@ Ivan projects primarily as a GK with a `GK` lean. The strongest database support
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

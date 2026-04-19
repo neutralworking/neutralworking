@@ -2,12 +2,12 @@
 title: Antoine Mendy
 category: players
 tags: [WD, Nice, France, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Nice. Archetype: Engine.
 person_id: 8615
-backlinks: [engine, nice]
+backlinks: [engine, corner-back, nice]
 ---
 
 # Antoine Mendy
@@ -21,18 +21,27 @@ backlinks: [engine, nice]
 | **Nation** | France |
 | **Age** | 21 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 62 |
 | **Level** | 68 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Modern left-back with genuine pace and the athleticism to cover ground defensively, comfortable inverting into midfield pockets. Still raw in his reading of space and prone to lapses in concentration when the game slows; will need two or three more seasons before the defensive positioning becomes instinctive.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `62`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `62`.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Stamina, and Acceleration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Modern left-back with genuine pace and the athleticism to cover ground defensive
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 6.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Modern left-back with genuine pace and the athleticism to cover ground defensive
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

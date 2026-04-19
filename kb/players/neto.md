@@ -2,12 +2,12 @@
 title: Neto
 category: players
 tags: [GK, Botafogo, Brazil, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Botafogo. Archetype: GK.
 person_id: 15616
-backlinks: [gk, botafogo]
+backlinks: [gk, sweeper-keeper, botafogo]
 ---
 
 # Neto
@@ -21,18 +21,26 @@ backlinks: [gk, botafogo]
 | **Nation** | Brazil |
 | **Age** | 23 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 72 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Brazilian shot-stopper with decent reflexes and a tidy distribution range for a goalkeeper operating at Portuguese second-tier level. Positioning is the real issue—he drifts too much off his line and struggles with the geometry of crosses, which leaves him vulnerable to set-piece chaos. At 23, he has the athleticism to develop into a solid lower-division keeper, but there's nothing here that suggests top-flight ambition without meaningful technical refinement.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Close Range, and Positioning.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ Brazilian shot-stopper with decent reflexes and a tidy distribution range for a 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +109,7 @@ Brazilian shot-stopper with decent reflexes and a tidy distribution range for a 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

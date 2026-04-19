@@ -2,12 +2,12 @@
 title: Jochem Ritmeester van de Kamp
 category: players
 tags: [AM, SC Telstar, Netherlands, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at SC Telstar. Archetype: Powerhouse.
 person_id: 12703
-backlinks: [powerhouse, sc-telstar]
+backlinks: [powerhouse, incursore, sc-telstar]
 ---
 
 # Jochem Ritmeester van de Kamp
@@ -21,18 +21,27 @@ backlinks: [powerhouse, sc-telstar]
 | **Nation** | Netherlands |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[incursore]] Incursore |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Jochem Ritmeester van de Kamp is an energetic and pacey playmaker who excels at making runs behind the defense and creating chaos in the opponent's half. However, his lack of guile and creativity in the final third is a major concern, as he often relies on his athleticism rather than his footballing brain to make an impact. He must develop his vision and passing range to become a more effective Trequartista.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore` with model support score `74`.
+- Best-fit role is [[incursore]] Incursore with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
@@ -63,13 +72,14 @@ Jochem Ritmeester van de Kamp is an energetic and pacey playmaker who excels at 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.2m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Jochem Ritmeester van de Kamp is an energetic and pacey playmaker who excels at 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: Radhi Al-Otaibi
 category: players
 tags: [CD, Al Wehda, Saudi Arabia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Al Wehda. Archetype: None.
+summary: CD at Al Wehda. Archetype: —.
 person_id: 16403
 backlinks: [al-wehda]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-wehda]
 | **Club** | Al Wehda |
 | **Nation** | Saudi Arabia |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 75 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young defender showing encouraging discipline and an understanding of shape, with enough pace to cover ground effectively, though his positioning still needs refinement and he can be caught in poor angles by intelligent movement. Set-piece defending is reliable but open-play reading remains inconsistent. Prospect with a realistic pathway if properly developed.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Young defender showing encouraging discipline and an understanding of shape, wit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.4m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Young defender showing encouraging discipline and an understanding of shape, wit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

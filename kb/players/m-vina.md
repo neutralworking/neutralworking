@@ -2,12 +2,12 @@
 title: M. Viña
 category: players
 tags: [CM, Flamengo, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Flamengo. Archetype: Destroyer-Creator.
 person_id: 26648
-backlinks: [destroyer, flamengo]
+backlinks: [destroyer, ball-winner, flamengo]
 ---
 
 # M. Viña
@@ -18,21 +18,29 @@ backlinks: [destroyer, flamengo]
 |---|---|
 | **Position** | CM |
 | **Club** | Flamengo |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
-| **Level** | None |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | — |
 | **Overall** | 45.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 M. Viña is a Tuttocampista with a strong defensive mindset, possessing strengths in tackling, take-ons, and duels, but his technical and tactical limitations are significant concerns. His lack of discipline and struggles with long-range shooting make him a liability in certain systems. A team with a strong defensive structure could utilize his skills, but his limited technical ability is a risk factor that may hinder his development. Historically, players with similar profiles have thrived in systems that emphasize destruction over creation.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Concentration, Drive, and Skills.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ M. Viña is a Tuttocampista with a strong defensive mindset, possessing strength
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +97,6 @@ M. Viña is a Tuttocampista with a strong defensive mindset, possessing strength
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

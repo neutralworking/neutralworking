@@ -2,12 +2,12 @@
 title: Lovro Zvonarek
 category: players
 tags: [AM, Grasshoppers, Croatia, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Grasshoppers. Archetype: Dribbler-Sprinter.
 person_id: 14044
-backlinks: [dribbler, grasshoppers]
+backlinks: [dribbler, trequartista, grasshoppers]
 ---
 
 # Lovro Zvonarek
@@ -21,18 +21,27 @@ backlinks: [dribbler, grasshoppers]
 | **Nation** | Croatia |
 | **Age** | 20 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 57 |
 | **Level** | 63 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young attacking midfielder still learning the demands of senior football at the elite level, showing technical aptitude but lacking the consistency and decision-making of an established starter. He operates in the half-spaces and can manipulate the ball with intelligence, but he's a prospect rather than a current contributor—expect him to develop significantly if given proper game time and exposure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `57`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `57`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Most bankable strengths show up in Balance, Acceleration, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -61,11 +70,12 @@ A young attacking midfielder still learning the demands of senior football at th
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,11 +101,11 @@ A young attacking midfielder still learning the demands of senior football at th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -111,6 +121,5 @@ Zvonarek, a Croatian talent, joined Bayern from Slaven Belupo. Known for his int
 
 ## October 2023 Update
 Playing well with Bayern’s second team, expected to move to a higher level soon.
-
 
 </details>

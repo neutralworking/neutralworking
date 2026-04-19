@@ -2,12 +2,12 @@
 title: Sean Zawadzki
 category: players
 tags: [CM, Columbus Crew, United States, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Columbus Crew. Archetype: Powerhouse-Dribbler.
 person_id: 17261
-backlinks: [powerhouse, columbus-crew]
+backlinks: [powerhouse, ball-winner, columbus-crew]
 ---
 
 # Sean Zawadzki
@@ -21,18 +21,27 @@ backlinks: [powerhouse, columbus-crew]
 | **Nation** | United States |
 | **Age** | 25 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Sean Zawadzki is a physical midfielder with a strong mental presence, boasting impressive jumping, pace, and stamina. As a Powerhouse-Dribbler archetype, he is well-suited for the Tuttocampista role, where his endurance and acceleration can be leveraged to drive attacks. However, his moderate technical and tactical abilities, combined with weaknesses in guile and duels, may limit his effectiveness in more refined systems. A team that values direct, athletic midfielders could benefit from his services, but his lack of creativity and technical finesse may hinder his overall impact.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `75`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Pace, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ Sean Zawadzki is a physical midfielder with a strong mental presence, boasting i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Sean Zawadzki is a physical midfielder with a strong mental presence, boasting i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

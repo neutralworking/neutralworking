@@ -2,12 +2,12 @@
 title: Alex Sandro
 category: players
 tags: [WD, Flamengo, Brazil, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Flamengo. Archetype: Cover.
 person_id: 8155
-backlinks: [cover, flamengo]
+backlinks: [cover, corner-back, flamengo]
 ---
 
 # Alex Sandro
@@ -21,20 +21,29 @@ backlinks: [cover, flamengo]
 | **Nation** | Brazil |
 | **Age** | 35 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 58 |
 | **Level** | 64 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-	Brazil	LB / LWB	26 January 1991 (age 32)	2015	2024	Portugal Porto	€26M[14]	309	15
+Brazil	LB / LWB	26 January 1991 (age 32)	2015	2024	Portugal Porto	€26M[14]	309	15
 	
-  WD		Creator			BRA	C	0.0			
+  WD		Creator			BRA	C	0.0
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `58`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `58`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -70,11 +79,12 @@ backlinks: [cover, flamengo]
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,19 +110,19 @@ backlinks: [cover, flamengo]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Brazil	LB / LWB	26 January 1991 (age 32)	2015	2024	Portugal Porto	€26M[14]	309	15
+Brazil	LB / LWB	26 January 1991 (age 32)	2015	2024	Portugal Porto	€26M[14]	309	15
 	
-  WD		Creator			BRA	C	0.0			
+  WD		Creator			BRA	C	0.0
 
 </details>

@@ -2,12 +2,12 @@
 title: Oscar Verhoeven
 category: players
 tags: [CD, San Jose Earthquakes, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at San Jose Earthquakes. Archetype: Cover.
 person_id: 16000
-backlinks: [cover, san-jose-earthquakes]
+backlinks: [cover, centrale, san-jose-earthquakes]
 ---
 
 # Oscar Verhoeven
@@ -18,21 +18,29 @@ backlinks: [cover, san-jose-earthquakes]
 |---|---|
 | **Position** | CD |
 | **Club** | San Jose Earthquakes |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 19 |
 | **Archetype** | [[cover]] Cover |
-| **Level** | None |
+| **Best Role** | [[centrale]] Centrale |
+| **Level** | — |
 | **Overall** | 15.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Oscar Verhoeven projects primarily as a CD with a `Cover` lean. The strongest database support comes from Skills, Concentration, and Communication.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Skills, Concentration, and Communication.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ Oscar Verhoeven projects primarily as a CD with a `Cover` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,5 +99,5 @@ Oscar Verhoeven projects primarily as a CD with a `Cover` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 10 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 10 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

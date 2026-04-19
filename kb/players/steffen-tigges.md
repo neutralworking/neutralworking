@@ -2,12 +2,12 @@
 title: Steffen Tigges
 category: players
 tags: [CF, 1. FC Köln, Germany, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at 1. FC Köln. Archetype: Striker-Creator.
 person_id: 17605
-backlinks: [striker, 1-fc-koln]
+backlinks: [striker, target-forward, 1-fc-koln]
 ---
 
 # Steffen Tigges
@@ -21,18 +21,26 @@ backlinks: [striker, 1-fc-koln]
 | **Nation** | Germany |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 85 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A direct, aggressive forward who thrives on chaos and physical dominance rather than intricate build-up play, making him a handful in the box but occasionally a liability in possession. He's dangerous from set pieces and in transition when given space to run, yet he's not mobile enough to play consistently in a higher press, and his technical deficiency in close quarters makes him a predictable option when Köln need to manipulate defensive shapes. Best deployed as an impact substitute or in a side that builds around long balls and chaos.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Aggression, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A direct, aggressive forward who thrives on chaos and physical dominance rather 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 48.0m |
+| Ceiling | EUR 57.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ A direct, aggressive forward who thrives on chaos and physical dominance rather 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Ko Itakura
 category: players
 tags: [CD, Ajax, Japan, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Ajax. Archetype: Destroyer.
 person_id: 13585
-backlinks: [destroyer, ajax]
+backlinks: [destroyer, sweeper, ajax]
 ---
 
 # Ko Itakura
@@ -21,18 +21,27 @@ backlinks: [destroyer, ajax]
 | **Nation** | Japan |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Composed centre-back who organises well and has the range of passing to play out cleanly. He's mobile enough to cover ground and maintain Ajax's pressing structure. He won't dominate aerially and can be exposed one-on-one against quick, aggressive strikers, but he's a smart, reliable defender in a structured system.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `76`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `76`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Acceleration, and Physical.
@@ -67,13 +76,14 @@ Composed centre-back who organises well and has the range of passing to play out
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Composed centre-back who organises well and has the range of passing to play out
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

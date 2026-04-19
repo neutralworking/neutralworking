@@ -2,11 +2,12 @@
 title: Anertey Abbey Nathaniel
 category: players
 tags: [CD, Ghana]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 30338
+backlinks: [colossus]
 ---
 
 # Anertey Abbey Nathaniel
@@ -16,22 +17,30 @@ person_id: 30338
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ghana |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Age** | — |
+| **Archetype** | — |
+| **Best Role** | [[colossus]] Colossus |
+| **Level** | — |
 | **Overall** | 42.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Anertey Abbey Nathaniel projects primarily as a CD with a `None` lean. The strongest database support comes from Shielding, Aerial Duels, and Awareness.
+Anertey Abbey Nathaniel projects primarily as a CD with a `—` lean. The strongest database support comes from Shielding, Aerial Duels, and Awareness.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Colossus`.
+- Best-fit role is [[colossus]] Colossus.
 - Most bankable strengths show up in Shielding, Aerial Duels, and Awareness.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -66,8 +75,9 @@ Anertey Abbey Nathaniel projects primarily as a CD with a `None` lean. The stron
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,5 +95,5 @@ Anertey Abbey Nathaniel projects primarily as a CD with a `None` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 14 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 14 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |

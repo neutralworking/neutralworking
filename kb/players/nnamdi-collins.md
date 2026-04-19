@@ -2,12 +2,12 @@
 title: Nnamdi Collins
 category: players
 tags: [CD, Eintracht Frankfurt, Germany, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Eintracht Frankfurt. Archetype: Engine-Dribbler.
 person_id: 15758
-backlinks: [engine, eintracht-frankfurt]
+backlinks: [engine, stopper, eintracht-frankfurt]
 ---
 
 # Nnamdi Collins
@@ -21,18 +21,27 @@ backlinks: [engine, eintracht-frankfurt]
 | **Nation** | Germany |
 | **Age** | 22 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-sided centre-back with decent progressive range and the physical profile to handle Bundesliga forwards, but his reading of space is inconsistent and he'll get caught ball-watching in transition. He's comfortable in possession and can step into midfield, which is valuable in Frankfurt's build, but lacks the positioning intelligence to be genuinely dominant at this level. Still developing; functional now, but ceiling depends on whether he sharpens his anticipation.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `79`.
+- Best-fit role is [[stopper]] Stopper with model support score `79`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Jumping, Pace, and Acceleration.
@@ -66,13 +75,14 @@ A left-sided centre-back with decent progressive range and the physical profile 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A left-sided centre-back with decent progressive range and the physical profile 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,11 +2,12 @@
 title: Diego Navarro
 category: players
 tags: [CM, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 29147
+backlinks: [playmaker]
 ---
 
 # Diego Navarro
@@ -16,22 +17,31 @@ person_id: 29147
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Bolivia |
 | **Age** | 33 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 43 |
+| **Level** | — |
 | **Overall** | 35.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Diego Navarro projects primarily as a CM with a `None` lean. The strongest database support comes from Aggression, Flair, and Pass Accuracy.
+Diego Navarro projects primarily as a CM with a `—` lean. The strongest database support comes from Aggression, Flair, and Pass Accuracy.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `43`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `43`.
 - Most bankable strengths show up in Aggression, Flair, and Pass Accuracy.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -65,8 +75,9 @@ Diego Navarro projects primarily as a CM with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -77,4 +88,4 @@ Diego Navarro projects primarily as a CM with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

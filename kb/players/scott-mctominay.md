@@ -2,12 +2,12 @@
 title: Scott McTominay
 category: players
 tags: [CM, Napoli, Scotland, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Napoli. Archetype: Cover-Passer.
 person_id: 17232
-backlinks: [cover, napoli]
+backlinks: [cover, tuttocampista, napoli]
 ---
 
 # Scott McTominay
@@ -21,18 +21,27 @@ backlinks: [cover, napoli]
 | **Nation** | Scotland |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 65 |
 | **Level** | 88 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 McTominay's aggression and long-range passing ability make him a strong fit as a Tuttocampista, where his technical and tactical strengths can be fully utilized, but his limitations in terms of creativity and carries are notable weaknesses. Historically, his role is reminiscent of traditional holding midfielders, and he would thrive in systems that emphasize discipline and structure. As a peak-aged player, his market value is relatively high, and a club seeking a reliable, physical presence in midfield would be the best fit, although his lack of progression in certain areas is a risk factor.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `65`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `65`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Physical, Composure, and Blocking.
@@ -67,13 +76,14 @@ McTominay's aggression and long-range passing ability make him a strong fit as a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 42.8m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ McTominay's aggression and long-range passing ability make him a strong fit as a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

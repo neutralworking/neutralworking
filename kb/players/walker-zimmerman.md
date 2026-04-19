@@ -2,12 +2,12 @@
 title: Walker Zimmerman
 category: players
 tags: [CM, Nashville SC, Target-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Nashville SC. Archetype: Target-Destroyer.
 person_id: 19993
-backlinks: [target, nashville-sc]
+backlinks: [target, tuttocampista, nashville-sc]
 ---
 
 # Walker Zimmerman
@@ -18,21 +18,30 @@ backlinks: [target, nashville-sc]
 |---|---|
 | **Position** | CM |
 | **Club** | Nashville SC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[target]] Target-Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 31 |
 | **Level** | 78 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Zimmerman is a physically imposing midfielder who excels at winning aerial battles and using his aggression to break up opposition attacks, but his limited technical and tactical attributes restrict his ability to create scoring opportunities or dictate the tempo of the game. As a relayeur, he is well-suited to a system that values direct running and quick transitions, but his lack of discipline and limited mental attributes mean he can struggle to adapt to different situations. A team that prioritizes defensive solidity and quick transitions could find Zimmerman to be a valuable addition, but his limitations mean he may not be the best fit for a side that dominates possession.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `31`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `31`.
 - Primary archetype leans toward `Target` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Physical, and Reactions.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Zimmerman is a physically imposing midfielder who excels at winning aerial battl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Zimmerman is a physically imposing midfielder who excels at winning aerial battl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

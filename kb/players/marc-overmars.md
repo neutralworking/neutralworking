@@ -2,12 +2,12 @@
 title: Marc Overmars
 category: players
 tags: [WM, Netherlands, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WM at None. Archetype: Sprinter-Dribbler.
+summary: WM at —. Archetype: Sprinter-Dribbler.
 person_id: 14427
-backlinks: [sprinter]
+backlinks: [sprinter, winger]
 ---
 
 # Marc Overmars
@@ -17,22 +17,31 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 53 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 90 |
 | **Level** | 45 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed left-winger, although he is able to use both his feet with equal precision and power. Known for his speed, ever finished 100 m around 10.5 sec only.		He was overshadowed by many new Dutch generations in the 1995 European cup champion Ajax. After then, He signed for Arsenal and start his brilliant performance until Barcelona success in their offering to him at 25 Million pound, making Overmars the most expensive Dutch player of all time. He helped Netherlands to reach semi-final round in 1998 FIFA world cup and 200 European Championship. Overmars scored more than 100 goals in over 400 matched play for club level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `90`.
+- Best-fit role is [[winger]] Winger with model support score `90`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
 
 ## Valuation Range
@@ -42,10 +51,11 @@ WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed lef
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -56,8 +66,8 @@ WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed lef
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -68,6 +78,6 @@ WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed lef
 {}
 ---
 
-WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed left-winger, although he is able to use both his feet with equal precision and power. Known for his speed, ever finished 100 m around 10.5 sec only.		He was overshadowed by many new Dutch generations in the 1995 European cup champion Ajax. After then, He signed for Arsenal and start his brilliant performance until Barcelona success in their offering to him at 25 Million pound, making Overmars the most expensive Dutch player of all time. He helped Netherlands to reach semi-final round in 1998 FIFA world cup and 200 European Championship. Overmars scored more than 100 goals in over 400 matched play for club level. 
+WF		Creator	Wizard		NED	B	77.0	Marc Overmars is best known as a right-footed left-winger, although he is able to use both his feet with equal precision and power. Known for his speed, ever finished 100 m around 10.5 sec only.		He was overshadowed by many new Dutch generations in the 1995 European cup champion Ajax. After then, He signed for Arsenal and start his brilliant performance until Barcelona success in their offering to him at 25 Million pound, making Overmars the most expensive Dutch player of all time. He helped Netherlands to reach semi-final round in 1998 FIFA world cup and 200 European Championship. Overmars scored more than 100 goals in over 400 matched play for club level.
 
 </details>

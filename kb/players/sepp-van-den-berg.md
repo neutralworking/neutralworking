@@ -2,12 +2,12 @@
 title: Sepp van den Berg
 category: players
 tags: [CD, Brentford, Netherlands, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Brentford. Archetype: Cover-Dribbler.
 person_id: 17317
-backlinks: [cover, brentford]
+backlinks: [cover, sweeper, brentford]
 ---
 
 # Sepp van den Berg
@@ -21,18 +21,27 @@ backlinks: [cover, brentford]
 | **Nation** | Netherlands |
 | **Age** | 24 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-back with excellent positional sense and the physical tools to dominate in the air and on the ground; he reads the game with a maturity beyond his years. His distribution is tidy rather than inventive, and he can be caught in transition if asked to defend too high up the pitch. The real concern is that he's still learning the nuances of positioning against elite strikers—occasionally too eager to make the tackle rather than compress space.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `81`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Jumping, Pace, and Physical.
@@ -67,13 +76,14 @@ A centre-back with excellent positional sense and the physical tools to dominate
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 30.4m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A centre-back with excellent positional sense and the physical tools to dominate
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

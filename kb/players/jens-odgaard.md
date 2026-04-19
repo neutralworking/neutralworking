@@ -2,12 +2,12 @@
 title: Jens Odgaard
 category: players
 tags: [CF, Bologna, Denmark, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Bologna. Archetype: Striker-Destroyer.
 person_id: 12545
-backlinks: [striker, bologna]
+backlinks: [striker, prima-punta, bologna]
 ---
 
 # Jens Odgaard
@@ -21,18 +21,27 @@ backlinks: [striker, bologna]
 | **Nation** | Denmark |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A forward who operates with genuine work rate and can function across the frontline as either a nine or a ten; he presses intelligently and his movement to create space for others is underrated. His finishing is acceptable but not clinical—he'll miss more chances than you'd like—and he lacks the explosive athleticism to separate from defenders at the highest level. A useful, selfless operator rather than a talismanic striker.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `81`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `81`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Stamina, and Reactions.
@@ -67,13 +76,14 @@ A forward who operates with genuine work rate and can function across the frontl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ A forward who operates with genuine work rate and can function across the frontl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

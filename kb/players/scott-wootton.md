@@ -2,12 +2,12 @@
 title: Scott Wootton
 category: players
 tags: [CM, Perth Glory, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Perth Glory. Archetype: Powerhouse.
 person_id: 6524
-backlinks: [powerhouse, perth-glory]
+backlinks: [powerhouse, tuttocampista, perth-glory]
 ---
 
 # Scott Wootton
@@ -18,21 +18,30 @@ backlinks: [powerhouse, perth-glory]
 |---|---|
 | **Position** | CM |
 | **Club** | Perth Glory |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 34 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Scott Wootton projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Physical, Stamina, and Jumping.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `70`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `70`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Physical, Stamina, and Jumping.
@@ -67,13 +76,14 @@ Scott Wootton projects primarily as a CM with a `Powerhouse` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,6 +110,6 @@ Scott Wootton projects primarily as a CM with a `Powerhouse` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -1,99 +1,70 @@
 ---
-title: Kim Tae-Hyun
+title: Kim Tae-hyun
 category: players
-tags: [CM, Destroyer-Creator]
-updated: 2026-04-18
+tags: [CD, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CM at None. Archetype: Destroyer-Creator.
-person_id: 22293
-backlinks: [destroyer]
+confidence: low
+summary: CD at —. Archetype: —.
+person_id: 27960
 ---
 
-# Kim Tae-Hyun
+# Kim Tae-hyun
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[destroyer]] Destroyer-Creator |
-| **Level** | 76 |
-| **Overall** | 61.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | CD |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 29 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Kim Tae-Hyun projects primarily as a CM with a `Destroyer-Creator` lean. The strongest database support comes from Intensity, Pressing, and Awareness.
+Kim Tae-hyun is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for High Press.
-- Most bankable strengths show up in Intensity, Pressing, and Awareness.
-
-## In Possession
-
-- Ball-value indicators lean on Intensity, Pressing, and Awareness.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in High Press.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Intensity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Blocking | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Interceptions | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Communication | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Concentration | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Leadership | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-
-## Personality
-
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 59
-- **Social (TF)**: 42
-- **Pressure (JP)**: 54
-- **Competitiveness**: 3/10
-- **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Hot Headed** (behavioral) — severity 6/10
-- **High Press** (tactical) — severity 5/10
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

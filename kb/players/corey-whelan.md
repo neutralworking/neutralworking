@@ -2,10 +2,10 @@
 title: Corey Whelan
 category: players
 tags: [CD, Liverpool, Ireland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Liverpool. Archetype: None.
+summary: CD at Liverpool. Archetype: —.
 person_id: 9760
 backlinks: [liverpool]
 ---
@@ -20,15 +20,22 @@ backlinks: [liverpool]
 | **Club** | Liverpool |
 | **Nation** | Ireland |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 75 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Solid, reliable midfielder who understands defensive positioning and doesn't lose the ball carelessly, but he's essentially a functional passer in simple patterns rather than someone who dictates play. Gets through his work without fuss; the sort of player you forget about because he hasn't made a mistake, which is both his strength and his ceiling. Serviceable in a lower-division context, anonymous outside of it.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Solid, reliable midfielder who understands defensive positioning and doesn't los
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Solid, reliable midfielder who understands defensive positioning and doesn't los
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

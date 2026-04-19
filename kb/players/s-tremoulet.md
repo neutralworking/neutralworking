@@ -2,12 +2,12 @@
 title: S. Trémoulet
 category: players
 tags: [CM, FK Radnik Surdulica, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FK Radnik Surdulica. Archetype: Cover.
 person_id: 23274
-backlinks: [cover, fk-radnik-surdulica]
+backlinks: [cover, tuttocampista, fk-radnik-surdulica]
 ---
 
 # S. Trémoulet
@@ -18,21 +18,30 @@ backlinks: [cover, fk-radnik-surdulica]
 |---|---|
 | **Position** | CM |
 | **Club** | FK Radnik Surdulica |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 S. Trémoulet is a tenacious Tuttocampista who excels in winning the ball back and distributing it effectively, but his lack of vision and creativity can hinder his team's progression. His strong physical presence and awareness make him a solid destroyer, but a more tactically astute partner could help bring out the best in him. A mid-table club with a direct style could be a good fit, as it would allow Trémoulet to focus on his strengths.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Blocking, Interceptions, and Aggression.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ S. Trémoulet is a tenacious Tuttocampista who excels in winning the ball back a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +99,6 @@ S. Trémoulet is a tenacious Tuttocampista who excels in winning the ball back a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

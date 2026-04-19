@@ -1,13 +1,13 @@
 ---
 title: Zlatko Junuzović
 category: players
-tags: [CM, Austria, Dribbler]
-updated: 2026-04-18
+tags: [CF, Red Bull Salzburg, Austria]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CM at None. Archetype: Dribbler.
-person_id: 7630
-backlinks: [dribbler]
+confidence: low
+summary: CF at Red Bull Salzburg. Archetype: —.
+person_id: 18797
+backlinks: [red-bull-salzburg]
 ---
 
 # Zlatko Junuzović
@@ -16,84 +16,52 @@ backlinks: [dribbler]
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | None |
+| **Position** | CF |
+| **Club** | Red Bull Salzburg |
 | **Nation** | Austria |
 | **Age** | 38 |
-| **Archetype** | [[dribbler]] Dribbler |
-| **Level** | 70 |
-| **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | 49 |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Zlatko Junuzović projects primarily as a CM with a `Dribbler` lean. The strongest database support comes from First Touch, Skills, and Take Ons.
+Zlatko Junuzović is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
-- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
-- Most bankable strengths show up in First Touch, Skills, and Take Ons.
-- Fits systems that value repeat involvement in build-up and defensive transitions.
-
-## In Possession
-
-- Ball-value indicators lean on First Touch, Skills, and Take Ons.
-- Style traits point toward Dribbler and Long Range Passing in possession.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Skills | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Long Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Mid Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 39
-- **Motivation (SN)**: 58
-- **Social (TF)**: 78
-- **Pressure (JP)**: 29
-- **Competitiveness**: 4/10
-- **Coachability**: 6/10
-
-## Trait Ledger
-
-- **Dribbler** (style) — severity 7/10
-- **Long Range Passing** (style) — severity 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

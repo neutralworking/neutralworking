@@ -2,12 +2,12 @@
 title: Quinten Timber
 category: players
 tags: [CM, Marseille, Netherlands, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Marseille. Archetype: Dribbler-Sprinter.
 person_id: 16386
-backlinks: [dribbler, marseille]
+backlinks: [dribbler, playmaker, marseille]
 ---
 
 # Quinten Timber
@@ -21,18 +21,27 @@ backlinks: [dribbler, marseille]
 | **Nation** | Netherlands |
 | **Age** | 24 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Timber is a dynamic Tuttocampista and technical midfielder, strong in physical attributes like jumping, acceleration, and stamina, complemented by a sharp first touch and aggressive play. He is a natural build-up contributor and high-press activator, fitting seamlessly into modern, high-intensity systems. His tactical awareness and guile are areas for development, meaning he benefits from clear structural roles. As a newcomer at 24, he offers significant upside for clubs looking for an energetic, all-action midfielder, though a Director of Football must consider his tactical learning curve.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `81`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `81`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Acceleration, Jumping, and Balance.
@@ -63,13 +72,14 @@ Timber is a dynamic Tuttocampista and technical midfielder, strong in physical a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Timber is a dynamic Tuttocampista and technical midfielder, strong in physical a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

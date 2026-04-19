@@ -2,12 +2,12 @@
 title: G. Yah
 category: players
 tags: [DM, Volendam, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Volendam. Archetype: Cover.
 person_id: 20962
-backlinks: [cover, volendam]
+backlinks: [cover, anchor, volendam]
 ---
 
 # G. Yah
@@ -18,21 +18,30 @@ backlinks: [cover, volendam]
 |---|---|
 | **Position** | DM |
 | **Club** | Volendam |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 77 |
 | **Level** | 79 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 G. Yah profiles as a Warrior Anchor in the defensive midfield, underpinned by strong tactical understanding and physical presence. His exceptional tackling, discipline, awareness, and interception abilities make him a formidable shield in front of the defense, perfectly suited for disrupting opposition attacks and fitting the mold of a classic defensive specialist in high-press systems. However, his limited mental pillar, coupled with weaknesses in creativity and both long and close-range offensive actions, restricts his contribution to ball progression beyond basic defensive duties. Yah would be a valuable, low-cost acquisition for a club in need of a pure defensive midfielder who can anchor the midfield with robust ball-winning and positional discipline, but his limitations mean he'd best suit a team with other midfielders tasked with offensive responsibilities.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `77`.
+- Best-fit role is [[anchor]] Anchor with model support score `77`.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Blocking, Aggression, and Awareness.
@@ -62,13 +71,14 @@ G. Yah profiles as a Warrior Anchor in the defensive midfield, underpinned by st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ G. Yah profiles as a Warrior Anchor in the defensive midfield, underpinned by st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

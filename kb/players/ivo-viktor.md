@@ -2,10 +2,10 @@
 title: Ivo Viktor
 category: players
 tags: [GK, Czechia, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: GK at None. Archetype: Sprinter.
+summary: GK at —. Archetype: Sprinter.
 person_id: 12089
 backlinks: [sprinter]
 ---
@@ -17,18 +17,25 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Czechia |
 | **Age** | 83 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 41 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the brightest star to lead team surprisingly beat Germany in European championship final round. Especially, His only saving from Uli Hoeness’s shooting in penalty shootout led team to win that victory match. During his career, He start playing in Brno for two seasons before settle down with Dukla Prague where was the first-rate team in his country at that time for 13 seasons. Because of his outstanding performance, He won many player of the year in the league although he was a goalkeeper. Viktor played as a central role of Czechoslovakia achieving unbeaten consecutive 17 matches between late 1974 and 1976. He also holds the record most winners in Czechoslovakian footabller of the year with four. Aside from Lev Yashin, Viktor is the only goalkeeper from Eastern Europe could be voted in top three European footballer of the year.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,10 +72,11 @@ GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,11 +102,11 @@ GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -109,7 +117,6 @@ GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the
 {}
 ---
 
-GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the brightest star to lead team surprisingly beat Germany in European championship final round. Especially, His only saving from Uli Hoeness’s shooting in penalty shootout led team to win that victory match. During his career, He start playing in Brno for two seasons before settle down with Dukla Prague where was the first-rate team in his country at that time for 13 seasons. Because of his outstanding performance, He won many player of the year in the league although he was a goalkeeper. Viktor played as a central role of Czechoslovakia achieving unbeaten consecutive 17 matches between late 1974 and 1976. He also holds the record most winners in Czechoslovakian footabller of the year with four. Aside from Lev Yashin, Viktor is the only goalkeeper from Eastern Europe could be voted in top three European footballer of the year.	
-
+GK					CZE	C	0.0		Ivo Viktor is the great Czechoslovakian goalkeeper who was the brightest star to lead team surprisingly beat Germany in European championship final round. Especially, His only saving from Uli Hoeness’s shooting in penalty shootout led team to win that victory match. During his career, He start playing in Brno for two seasons before settle down with Dukla Prague where was the first-rate team in his country at that time for 13 seasons. Because of his outstanding performance, He won many player of the year in the league although he was a goalkeeper. Viktor played as a central role of Czechoslovakia achieving unbeaten consecutive 17 matches between late 1974 and 1976. He also holds the record most winners in Czechoslovakian footabller of the year with four. Aside from Lev Yashin, Viktor is the only goalkeeper from Eastern Europe could be voted in top three European footballer of the year.
 
 </details>

@@ -2,12 +2,12 @@
 title: Mathias Jensen
 category: players
 tags: [CM, Brentford, Denmark, Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Brentford. Archetype: Passer.
 person_id: 14749
-backlinks: [passer, brentford]
+backlinks: [passer, playmaker, brentford]
 ---
 
 # Mathias Jensen
@@ -21,18 +21,27 @@ backlinks: [passer, brentford]
 | **Nation** | Denmark |
 | **Age** | 30 |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 77 |
 | **Level** | 80 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Mathias Jensen is a experienced Connector archetype who excels at using his vision and composure to dictate the tempo of the game. While he is technically proficient, his limited physicality and lack of blocking ability can make it difficult for him to contribute to his team's defensive solidity. He is well-suited to a role that requires high levels of tactical awareness and pass range, but may struggle in systems that require more progressive carries and half-space exploitation.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `77`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Crossing, Stamina, and Balance.
@@ -67,13 +76,14 @@ Mathias Jensen is a experienced Connector archetype who excels at using his visi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Mathias Jensen is a experienced Connector archetype who excels at using his visi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

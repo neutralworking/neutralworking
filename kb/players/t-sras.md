@@ -2,12 +2,12 @@
 title: T. Sørås
 category: players
 tags: [CM, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Powerhouse-Dribbler.
+summary: CM at —. Archetype: Powerhouse-Dribbler.
 person_id: 22447
-backlinks: [powerhouse]
+backlinks: [powerhouse, tuttocampista]
 ---
 
 # T. Sørås
@@ -17,22 +17,31 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Sørås is a Terrier archetype best suited as a Tuttocampista, possessing a strong technical base and solid physical attributes like acceleration, stamina, and jumping, coupled with aggression, making him effective in a high-press system. His moderate mental attributes are hampered by notable weaknesses in blocking and guile, making him less effective at anticipating play or creating intricate solutions, occasionally manifesting as mental lapses despite his flamboyance. This midfielder's profile aligns with a modern energetic ball-winner, suitable for teams that demand relentless work rate and physical intensity in the engine room. Currently with an unknown club, Sørås offers a competitive and physically robust option for clubs seeking a high-volume presser, but his limited guile and occasional mental lapses introduce a risk factor; his market value would depend on how well his raw physical attributes and pressing traits can be harnessed within a structured setup.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Physical, Acceleration, and Jumping.
@@ -63,13 +72,14 @@ Sørås is a Terrier archetype best suited as a Tuttocampista, possessing a stro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Sørås is a Terrier archetype best suited as a Tuttocampista, possessing a stro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

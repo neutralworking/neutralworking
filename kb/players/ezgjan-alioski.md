@@ -2,12 +2,12 @@
 title: Ezgjan Alioski
 category: players
 tags: [WD, Lugano, North Macedonia, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Lugano. Archetype: Engine.
 person_id: 10855
-backlinks: [engine, lugano]
+backlinks: [engine, wing-back, lugano]
 ---
 
 # Ezgjan Alioski
@@ -21,18 +21,27 @@ backlinks: [engine, lugano]
 | **Nation** | North Macedonia |
 | **Age** | 34 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[wing-back]] Wing-back |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 34-year-old fluidificante two-way full-back who has sustained his career through aggression, shielding, and long-to-mid-range ball skill—his balance and tactical strength indicate he can manage both phases, though declining physical pillar and discipline issues signal the toll of age and accumulated yellows. His weakness in duels despite strong aggression suggests he has lost a step in recovery athleticism, compensating with positioning and spatial intelligence rather than winning direct contests. For a club needing depth, experience, and mentorship on the left flank in a league tolerant of physical play, Alioski offers immediate utility; elite competitors should avoid the injury risk and declining work-rate profile.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back` with model support score `74`.
+- Best-fit role is [[wing-back]] Wing-back with model support score `74`.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Balance, and Crossing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ A 34-year-old fluidificante two-way full-back who has sustained his career throu
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ A 34-year-old fluidificante two-way full-back who has sustained his career throu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

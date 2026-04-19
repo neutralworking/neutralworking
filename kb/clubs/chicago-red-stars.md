@@ -1,8 +1,8 @@
 ---
 title: Chicago Red Stars
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Chicago Red Stars. 21 players in database.
@@ -10,32 +10,45 @@ summary: Chicago Red Stars. 21 players in database.
 
 # Chicago Red Stars
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 21
+
+## Identity
+
+- Database coverage is deepest in CD (3), GK (2), and CM (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Gk (2) across the current squad.
+- This article is currently a roster-structure snapshot from database coverage rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[julia-bianchi]] Julia Bianchi | CD | None | None |
-| [[maximiliane-rall]] Maximiliane Rall | CD | None | None |
-| [[tatumn-milazzo]] Tatumn Milazzo | CD | None | None |
-| [[penelope-hocking]] Penelope Hocking | CF | None | None |
-| [[leilanni-nesbeth]] Leilanni Nesbeth | CM | None | None |
-| [[sophie-jones]] Sophie Jones | CM | None | None |
-| [[alyssa-naeher]] Alyssa Naeher | GK | GK | None |
-| [[mackenzie-wood]] Mackenzie Wood | GK | GK | None |
-| [[ally-cook]] Ally Cook | None | None | None |
-| [[ally-schlegel]] Ally Schlegel | None | None | None |
-| [[ava-cook]] Ava Cook | None | None | None |
-| [[bea-franklin]] Bea Franklin | None | None | None |
-| [[cari-roccaro]] Cari Roccaro | None | None | None |
-| [[chardonnay-curran]] Chardonnay Curran | None | None | None |
-| [[hannah-anderson]] Hannah Anderson | None | None | None |
-| [[jameese-joseph]] Jameese Joseph | None | None | None |
-| [[jenna-bike]] Jenna Bike | None | None | None |
-| [[jillienne-aguilera]] Jillienne Aguilera | None | None | None |
-| [[sami-feller]] Sami Feller | None | None | None |
-| [[sarah-griffith]] Sarah Griffith | None | None | None |
-| [[taylor-malham]] Taylor Malham | None | None | None |
+| [[julia-bianchi]] Julia Bianchi | CD | — | — |
+| [[maximiliane-rall]] Maximiliane Rall | CD | — | — |
+| [[tatumn-milazzo]] Tatumn Milazzo | CD | — | — |
+| [[penelope-hocking]] Penelope Hocking | CF | — | — |
+| [[leilanni-nesbeth]] Leilanni Nesbeth | CM | — | — |
+| [[sophie-jones]] Sophie Jones | CM | — | — |
+| [[alyssa-naeher]] Alyssa Naeher | GK | GK | — |
+| [[mackenzie-wood]] Mackenzie Wood | GK | GK | — |
+| Ally Cook | — | — | — |
+| Ally Schlegel | — | — | — |
+| Ava Cook | — | — | — |
+| Bea Franklin | — | — | — |
+| Cari Roccaro | — | — | — |
+| Chardonnay Curran | — | — | — |
+| Hannah Anderson | — | — | — |
+| Jameese Joseph | — | — | — |
+| Jenna Bike | — | — | — |
+| Jillienne Aguilera | — | — | — |
+| Sami Feller | — | — | — |
+| Sarah Griffith | — | — | — |
+| Taylor Malham | — | — | — |

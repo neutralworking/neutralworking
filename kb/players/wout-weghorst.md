@@ -2,12 +2,12 @@
 title: Wout Weghorst
 category: players
 tags: [CF, Ajax, Netherlands, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Ajax. Archetype: Striker.
 person_id: 18559
-backlinks: [striker, ajax]
+backlinks: [striker, seconda-punta, ajax]
 ---
 
 # Wout Weghorst
@@ -21,18 +21,27 @@ backlinks: [striker, ajax]
 | **Nation** | Netherlands |
 | **Age** | 33 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 65 |
 | **Level** | 75 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Tall, physical striker who's still a threat in the box and will create space through pure presence and aerial dominance. He works the channels effectively and makes intelligent runs into pockets. At 33, his movement is becoming ponderous—he relies too much on flick-ons and set plays now, and he'll be a passenger against high-pressing defences.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `65`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `65`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Physical, Jumping, and First Touch.
@@ -69,11 +78,12 @@ Tall, physical striker who's still a threat in the box and will create space thr
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Tall, physical striker who's still a threat in the box and will create space thr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

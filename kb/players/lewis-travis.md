@@ -2,12 +2,12 @@
 title: Lewis Travis
 category: players
 tags: [CM, Blackburn Rovers, England, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Blackburn Rovers. Archetype: Powerhouse.
 person_id: 13909
-backlinks: [powerhouse, blackburn-rovers]
+backlinks: [powerhouse, tuttocampista, blackburn-rovers]
 ---
 
 # Lewis Travis
@@ -21,18 +21,26 @@ backlinks: [powerhouse, blackburn-rovers]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 84 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lewis Travis is a quintessential Powerhouse, tireless in his aggression and tackling, excelling at shielding the ball and disrupting opposition attacks from his Relayeur role. However, his significant deficiencies in technical execution, mental sharpness, and tactical awareness severely limit his ability to influence the game beyond ball-winning.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Shielding, and Jumping.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Lewis Travis is a quintessential Powerhouse, tireless in his aggression and tack
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 34.0m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Lewis Travis is a quintessential Powerhouse, tireless in his aggression and tack
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

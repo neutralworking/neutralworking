@@ -2,12 +2,12 @@
 title: Tyrone Mings
 category: players
 tags: [CD, Aston Villa, England, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Aston Villa. Archetype: Destroyer-Dribbler.
 person_id: 18232
-backlinks: [destroyer, aston-villa]
+backlinks: [destroyer, distributor, aston-villa]
 ---
 
 # Tyrone Mings
@@ -21,18 +21,27 @@ backlinks: [destroyer, aston-villa]
 | **Nation** | England |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A veteran left-sided centre-half who brings professionalism and experience but is no longer the athlete he was—his reading of the game remains solid, and he'll position himself sensibly, but acceleration is gone and his one-v-one defending relies more on intelligence than speed. Against direct, physical strikers in transition, he can look ordinary, and in a side trying to play a high defensive line, he's a constraint rather than an enabler. He's depth; a steady, available hand rather than a cornerstone.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `80`.
+- Best-fit role is [[distributor]] Distributor with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Jumping, Physical, and Heading.
@@ -67,13 +76,14 @@ A veteran left-sided centre-half who brings professionalism and experience but i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A veteran left-sided centre-half who brings professionalism and experience but i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

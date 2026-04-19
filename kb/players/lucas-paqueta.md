@@ -2,12 +2,12 @@
 title: Lucas Paqueta
 category: players
 tags: [CM, West Ham United, Brazil, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at West Ham United. Archetype: Creator-Passer.
 person_id: 14097
-backlinks: [creator, west-ham-united]
+backlinks: [creator, mezzala, west-ham-united]
 ---
 
 # Lucas Paqueta
@@ -21,18 +21,27 @@ backlinks: [creator, west-ham-united]
 | **Nation** | Brazil |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 78 |
 | **Level** | 87 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Brazilian midfielder with excellent technical quality, positional intelligence, and the ability to affect play both defensively and offensively; inconsistency and occasional lack of discipline prevent a higher tier, but he's a genuinely elite top-flight player on his day.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `78`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Jumping, and Movement.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ Brazilian midfielder with excellent technical quality, positional intelligence, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Brazilian midfielder with excellent technical quality, positional intelligence, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

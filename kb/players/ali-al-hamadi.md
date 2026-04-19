@@ -2,10 +2,10 @@
 title: Ali Al-Hamadi
 category: players
 tags: [CF, Luton Town, Iraq]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Luton Town. Archetype: None.
+summary: CF at Luton Town. Archetype: —.
 person_id: 8232
 backlinks: [luton-town]
 ---
@@ -20,15 +20,22 @@ backlinks: [luton-town]
 | **Club** | Luton Town |
 | **Nation** | Iraq |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A raw, athletic centre-forward with genuine pace and physical presence who's still learning the Premier League's intensity and positioning demands. He'll win the occasional battle through sheer athleticism, but his finishing is inconsistent and his link-up play remains basic—he's more of a poacher than a footballer. On loan and developing, but the template is there if the technical side catches up.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A raw, athletic centre-forward with genuine pace and physical presence who's sti
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -73,6 +81,6 @@ A raw, athletic centre-forward with genuine pace and physical presence who's sti
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

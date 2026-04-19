@@ -2,12 +2,12 @@
 title: Rigoberto Rivas
 category: players
 tags: [CM, Independiente de La Chorrera, Honduras, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Independiente de La Chorrera. Archetype: Sprinter-Dribbler.
 person_id: 16659
-backlinks: [sprinter, independiente-de-la-chorrera]
+backlinks: [sprinter, playmaker, independiente-de-la-chorrera]
 ---
 
 # Rigoberto Rivas
@@ -21,18 +21,27 @@ backlinks: [sprinter, independiente-de-la-chorrera]
 | **Nation** | Honduras |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A Honduran forward at Inter trying to find minutes and establish himself, capable of pressing and making intelligent runs but not yet showing the consistency or technical maturity required at this level. He's a prospect, still developing, and likely to be on the periphery unless injuries or departures force Inzaghi's hand. Limited senior football at the highest level so far.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ A Honduran forward at Inter trying to find minutes and establish himself, capabl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A Honduran forward at Inter trying to find minutes and establish himself, capabl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

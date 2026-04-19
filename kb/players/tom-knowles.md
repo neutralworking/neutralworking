@@ -2,10 +2,10 @@
 title: Tom Knowles
 category: players
 tags: [CF, Cambridge United, England]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Cambridge United. Archetype: None.
+summary: CF at Cambridge United. Archetype: —.
 person_id: 18060
 backlinks: [cambridge-united]
 ---
@@ -20,15 +20,22 @@ backlinks: [cambridge-united]
 | **Club** | Cambridge United |
 | **Nation** | England |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 75 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A full-back with decent athleticism and willingness to engage in both phases, showing acceptable positional discipline without offering anything technically sophisticated—he's a functional outlet rather than a creative threat. His crossing is basic and his one-on-one defending is inconsistent, suggesting he's more comfortable in organized structures than open play. Squad rotation piece at this level; unlikely to be a consistent starting solution in competitive matches.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A full-back with decent athleticism and willingness to engage in both phases, sh
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ A full-back with decent athleticism and willingness to engage in both phases, sh
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

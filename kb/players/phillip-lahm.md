@@ -2,12 +2,12 @@
 title: Phillip Lahm
 category: players
 tags: [WD, Germany, Cover-Controller]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WD at None. Archetype: Cover-Controller.
+summary: WD at —. Archetype: Cover-Controller.
 person_id: 16320
-backlinks: [cover]
+backlinks: [cover, invertido]
 ---
 
 # Phillip Lahm
@@ -17,22 +17,31 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Controller |
-| **Level** | None |
+| **Best Role** | [[invertido]] Invertido |
+| **Role Score** | 92 |
+| **Level** | — |
 | **Overall** | 54.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Tactical genius who revolutionised the full-back position — could play anywhere across the back four and midfield. Read the game impeccably and used the ball with the intelligence of a playmaker.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Invertido` with model support score `92`.
+- Best-fit role is [[invertido]] Invertido with model support score `92`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for Sweeper Reader and Captain Leader.
 - Most bankable strengths show up in Awareness, Communication, and Interceptions.
@@ -61,13 +70,14 @@ Tactical genius who revolutionised the full-back position — could play anywher
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,6 +92,6 @@ Tactical genius who revolutionised the full-back position — could play anywher
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

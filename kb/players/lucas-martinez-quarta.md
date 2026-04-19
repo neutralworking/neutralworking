@@ -2,12 +2,12 @@
 title: Lucas Martínez Quarta
 category: players
 tags: [CD, River Plate, Argentina, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at River Plate. Archetype: Destroyer-Passer.
 person_id: 14089
-backlinks: [destroyer, river-plate]
+backlinks: [destroyer, sweeper, river-plate]
 ---
 
 # Lucas Martínez Quarta
@@ -21,18 +21,27 @@ backlinks: [destroyer, river-plate]
 | **Nation** | Argentina |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A composed left-sided centre-back who reads the game intelligently and builds from the back with decent technical ability, but his athleticism has visibly declined at 29 and he lacks the recovery pace to cover for mistakes against truly elite attackers. He's reliable in a structured defensive shape and comfortable on the ball in transition, yet he's not quick enough to play a high defensive line or press effectively in the modern game. River Plate's defensive infrastructure masks some of these limitations; in a top-five league, he'd be a squad option rather than a starter.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `80`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Aggression, Heading, and Jumping.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ A composed left-sided centre-back who reads the game intelligently and builds fr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 4.3m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A composed left-sided centre-back who reads the game intelligently and builds fr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Miguel Barreto
 category: players
 tags: [CM, 2 de Mayo, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at 2 de Mayo. Archetype: None.
+summary: CM at 2 de Mayo. Archetype: —.
 person_id: 30269
-backlinks: [2-de-mayo]
+backlinks: [ball-winner, 2-de-mayo]
 ---
 
 # Miguel Barreto
@@ -20,19 +20,28 @@ backlinks: [2-de-mayo]
 | **Club** | 2 de Mayo |
 | **Nation** | Paraguay |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 33 |
+| **Level** | — |
 | **Overall** | 27.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Miguel Barreto projects primarily as a CM with a `None` lean. The strongest database support comes from Drive, Intensity, and Communication.
+Miguel Barreto projects primarily as a CM with a `—` lean. The strongest database support comes from Drive, Intensity, and Communication.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `33`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `33`.
 - Most bankable strengths show up in Drive, Intensity, and Communication.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +75,9 @@ Miguel Barreto projects primarily as a CM with a `None` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Miguel Barreto projects primarily as a CM with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

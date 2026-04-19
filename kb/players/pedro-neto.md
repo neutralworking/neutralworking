@@ -2,12 +2,12 @@
 title: Pedro Neto
 category: players
 tags: [WF, Chelsea, Portugal, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Chelsea. Archetype: Sprinter-Creator.
 person_id: 16239
-backlinks: [sprinter, chelsea]
+backlinks: [sprinter, wide-playmaker, chelsea]
 ---
 
 # Pedro Neto
@@ -21,18 +21,27 @@ backlinks: [sprinter, chelsea]
 | **Nation** | Portugal |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Electric Portuguese winger. Devastating pace, direct running, eye-catching skill. When fit, one of the league's most dangerous dribblers.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `82`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `82`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Balance, Shielding, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Electric Portuguese winger. Devastating pace, direct running, eye-catching skill
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 57.0m |
+| Mid | EUR 71.0m |
+| Ceiling | EUR 85.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,17 +107,16 @@ Electric Portuguese winger. Devastating pace, direct running, eye-catching skill
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryPortugal
 
@@ -116,12 +125,6 @@ ClubLazio
 PositionWinger
 
 Born9 March 2000
-
-
-
-
-
-
 
 ****
 
@@ -135,6 +138,6 @@ The son of a former ice hockey player and nephew of a former footballer, the win
  
 **October 2021 update** Made his debut for the senior national team in November 2020, becoming the first player born in the 2000s to do so and was voted Wolves fans’ player of the season. However, he fractured his kneecap that ruled him out of Euro 2020.
  
-**September 2022 update** The injury kept Neto out until February and he has still...
+**September 2022 update** The injury kept Neto out until February and he has still to rec...
 
 </details>

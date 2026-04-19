@@ -2,12 +2,12 @@
 title: Nicolas Jackson
 category: players
 tags: [CF, Bayern Munich, Senegal, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Bayern Munich. Archetype: Striker-Engine.
 person_id: 15679
-backlinks: [striker, bayern-munich]
+backlinks: [striker, seconda-punta, bayern-munich]
 ---
 
 # Nicolas Jackson
@@ -21,18 +21,27 @@ backlinks: [striker, bayern-munich]
 | **Nation** | Senegal |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-forward with legitimate pace and athleticism to lead the press and disrupt opposition play, offering physicality and directness in the final third. He's improved as a finisher this season, but he remains raw—his movement in the box can be mechanical, and he's not yet the all-around number nine who can drop deep and create. His finishing consistency is the ongoing question.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `81`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `81`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and Movement.
@@ -67,13 +76,14 @@ A centre-forward with legitimate pace and athleticism to lead the press and disr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 65.0m |
+| Ceiling | EUR 78.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A centre-forward with legitimate pace and athleticism to lead the press and disr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

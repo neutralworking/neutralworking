@@ -2,12 +2,12 @@
 title: Constantin Grameni
 category: players
 tags: [CM, Rapid, Romania, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Rapid. Archetype: Powerhouse.
 person_id: 9754
-backlinks: [powerhouse, rapid]
+backlinks: [powerhouse, playmaker, rapid]
 ---
 
 # Constantin Grameni
@@ -21,18 +21,27 @@ backlinks: [powerhouse, rapid]
 | **Nation** | Romania |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 59 |
 | **Level** | 82 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Constantin Grameni is a dynamic, athletic midfielder who excels in the Tuttocampista role, using his pace, stamina, and aggression to dominate the center of the park. While his technical ability is only moderate, his tactical awareness and competitive personality make him a valuable asset in a high-intensity system. As a Marshal archetype, he is well-suited to a pressing-based approach, but his weaknesses in duels and discipline may require careful management. A club seeking a physical, energetic presence in midfield may benefit from his services, particularly if they can provide guidance on his defensive responsibilities.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `59`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `59`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Stamina, Balance, and Shielding.
@@ -63,13 +72,14 @@ Constantin Grameni is a dynamic, athletic midfielder who excels in the Tuttocamp
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.2m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Constantin Grameni is a dynamic, athletic midfielder who excels in the Tuttocamp
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

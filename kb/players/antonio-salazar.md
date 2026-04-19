@@ -2,12 +2,12 @@
 title: Antonio Salazar
 category: players
 tags: [CM, Atlético Nacional, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Atlético Nacional. Archetype: Sprinter-Dribbler.
 person_id: 588
-backlinks: [sprinter, atletico-nacional]
+backlinks: [sprinter, playmaker, atletico-nacional]
 ---
 
 # Antonio Salazar
@@ -18,21 +18,30 @@ backlinks: [sprinter, atletico-nacional]
 |---|---|
 | **Position** | CM |
 | **Club** | Atlético Nacional |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 37 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 65 |
 | **Level** | 71 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Antonio Salazar projects primarily as a CM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Aerial Duels, and First Touch.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `65`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `65`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Aerial Duels, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -69,10 +78,11 @@ Antonio Salazar projects primarily as a CM with a `Sprinter-Dribbler` lean. The 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,6 +108,6 @@ Antonio Salazar projects primarily as a CM with a `Sprinter-Dribbler` lean. The 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Ivan Provedel
 category: players
 tags: [GK, Lazio, Italy, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Lazio. Archetype: GK.
 person_id: 12071
-backlinks: [gk, lazio]
+backlinks: [gk, sweeper-keeper, lazio]
 ---
 
 # Ivan Provedel
@@ -21,18 +21,26 @@ backlinks: [gk, lazio]
 | **Nation** | Italy |
 | **Age** | 32 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 86 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A goalkeeper of genuine quality with quick distribution, good positioning, and the composure to play out from the back in modern tactical systems. He reads the game well and is rarely caught flat-footed by through balls or transition moments. His only meaningful limitation is a slight fragility to low, driven shots at close range, but otherwise he's a reliable, first-choice stopper for Serie A.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Jumping, and Acceleration.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ A goalkeeper of genuine quality with quick distribution, good positioning, and t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +111,11 @@ A goalkeeper of genuine quality with quick distribution, good positioning, and t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -119,6 +128,6 @@ A goalkeeper of genuine quality with quick distribution, good positioning, and t
 
 Italy	GK	17 March 1994 (age 29)	Spezia	2022	2027
 
-20 clean sheets least year, solid. 
+20 clean sheets least year, solid.
 
 </details>

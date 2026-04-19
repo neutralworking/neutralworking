@@ -2,12 +2,12 @@
 title: D. Osorio
 category: players
 tags: [WF, FC Midtjylland, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at FC Midtjylland. Archetype: Creator-Sprinter.
 person_id: 23956
-backlinks: [creator, fc-midtjylland]
+backlinks: [creator, winger, fc-midtjylland]
 ---
 
 # D. Osorio
@@ -18,21 +18,30 @@ backlinks: [creator, fc-midtjylland]
 |---|---|
 | **Position** | WF |
 | **Club** | FC Midtjylland |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 D. Osorio, a Magician archetype, is best deployed as an Inventor, where his flamboyant and direct style can flourish. He possesses exceptional pace, acceleration, take-ons, and balance, making him a constant threat in transition and capable of scoring from long range. Despite these offensive strengths and being a big-game player, his overall tactical and technical pillars are surprisingly inconsistent, coupled with a worrying lack of discipline. His value lies in his ability to create moments of individual brilliance, making him a wildcard for clubs that can integrate a high-risk, high-reward attacking player into their system.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `71`.
+- Best-fit role is [[winger]] Winger with model support score `71`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ D. Osorio, a Magician archetype, is best deployed as an Inventor, where his flam
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ D. Osorio, a Magician archetype, is best deployed as an Inventor, where his flam
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

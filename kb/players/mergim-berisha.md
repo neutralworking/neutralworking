@@ -2,12 +2,12 @@
 title: Mërgim Berisha
 category: players
 tags: [CF, 1899 Hoffenheim, Germany, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker-Creator.
 person_id: 15018
-backlinks: [striker, 1899-hoffenheim]
+backlinks: [striker, seconda-punta, 1899-hoffenheim]
 ---
 
 # Mërgim Berisha
@@ -21,18 +21,27 @@ backlinks: [striker, 1899-hoffenheim]
 | **Nation** | Germany |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Because he missed several games due to an ankle injury, Augsburg slipped deep into the bottom of the table again. Without Berisha's goals in the 1-0 victories against Leverkusen and Gladbach, FCA would now probably be in the second division. Hansi Flick watched his brace in the Allianz Arena (3: 5) - and shortly afterwards nominated him for the senior national team for the first time . The Augsburgers will draw the purchase option for four million euros - and then possibly sell Berisha directly for a multiple.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `80`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Long Range, and Close Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Because he missed several games due to an ankle injury, Augsburg slipped deep in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Because he missed several games due to an ankle injury, Augsburg slipped deep in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

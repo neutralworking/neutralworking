@@ -1,13 +1,13 @@
 ---
 title: Michael Keane
 category: players
-tags: [CD, Everton, England, Cover]
-updated: 2026-04-17
+tags: [CD, England, Cover]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Everton. Archetype: Cover.
-person_id: 15078
-backlinks: [cover, everton]
+summary: CD at —. Archetype: Cover.
+person_id: 15079
+backlinks: [cover, colossus]
 ---
 
 # Michael Keane
@@ -17,90 +17,96 @@ backlinks: [cover, everton]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | Everton |
+| **Club** | — |
 | **Nation** | England |
-| **Age** | 33 |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[colossus]] Colossus |
 | **Level** | 78 |
-| **Overall** | 71.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 3 |
+| **Overall** | 72.0 |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-English centre-back now 33 who's been a model of Premier League consistency—positionally intelligent, excellent reader of the game, and a genuine leader. His athleticism has declined noticeably; he'll struggle against genuinely rapid attacking players and can't recover from mistakes with pace. Still valuable as a tutor and occasional starter, but increasingly a backup.
+Michael Keane projects primarily as a CD with a `Cover` lean. The strongest database support comes from Jumping, Aggression, and Interceptions.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `73`.
+- Best-fit role is [[colossus]] Colossus.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
-- Most bankable strengths show up in Heading, Jumping, and Reactions.
+- Most bankable strengths show up in Jumping, Aggression, and Interceptions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## In Possession
 
-- Ball-value indicators lean on Heading, Jumping, and Reactions.
-- Style traits point toward Aerial Ability and Long Range Passing in possession.
+- Ball-value indicators lean on Jumping, Aggression, and Interceptions.
+- Style traits point toward Aerial Threat, Strength, and Aerial Ability in possession.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Scouting Indicators
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
 | Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
 | Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Crossing | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Take Ons | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| Balance | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Composure | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- No major automated red flag surfaced from the current data slice.
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
 - **Game Reading (EI)**: 67
-- **Motivation (SN)**: 31
-- **Social (TF)**: 20
-- **Pressure (JP)**: 35
-- **Competitiveness**: 5/10
-- **Coachability**: 4/10
+- **Motivation (SN)**: 27
+- **Social (TF)**: 19
+- **Pressure (JP)**: 55
+- **Competitiveness**: 7/10
+- **Coachability**: 5/10
 
 ## Trait Ledger
 
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Aerial Threat** (physical) — severity 6/10
-- **Positional Discipline** (tactical) — severity 5/10
-- **Aerial Ability** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+- **Aerial Threat** (style) — severity 7/10
+- **Strength** (style) — severity 4/10
+- **Aerial Ability** (style) — severity 4/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+- **Long Range Passing** (style) — severity 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

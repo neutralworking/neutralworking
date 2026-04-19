@@ -2,12 +2,12 @@
 title: Florian Thauvin
 category: players
 tags: [AM, Lens, France, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Lens. Archetype: Striker-Creator.
 person_id: 11090
-backlinks: [striker, lens]
+backlinks: [striker, trequartista, lens]
 ---
 
 # Florian Thauvin
@@ -21,18 +21,27 @@ backlinks: [striker, lens]
 | **Nation** | France |
 | **Age** | 33 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 80 |
 | **Level** | 87 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Ageing playmaker with a genuinely cultured left foot and superb range of passing from the ten position or right-sided half-space. Still capable of unlocking defences with a weighted through ball or curling finish. But the legs have gone—he'll be outrun in any transition, and asking him to defend high up the pitch is increasingly futile at 33.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `80`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Jumping, and Volleys.
@@ -67,13 +76,14 @@ Ageing playmaker with a genuinely cultured left foot and superb range of passing
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Ageing playmaker with a genuinely cultured left foot and superb range of passing
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

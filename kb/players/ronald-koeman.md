@@ -2,12 +2,12 @@
 title: Ronald Koeman
 category: players
 tags: [CD, SC Telstar, Netherlands, Passer-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at SC Telstar. Archetype: Passer-Cover.
 person_id: 16829
-backlinks: [passer, sc-telstar]
+backlinks: [passer, libero, sc-telstar]
 ---
 
 # Ronald Koeman
@@ -21,18 +21,27 @@ backlinks: [passer, sc-telstar]
 | **Nation** | Netherlands |
 | **Age** | 63 |
 | **Archetype** | [[passer]] Passer-Cover |
+| **Best Role** | [[libero]] Libero |
+| **Role Score** | 90 |
 | **Level** | 45 |
 | **Overall** | 42.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by his free-kick specialist, powerful and rocket long shooting and penalty taking, not only scoring quality but also great as a sweeper with intelligent play ensured an organized defense and provided excellent distribution from the back, always generated precision passing. His leadership ability enabled him to excel as captain of Holland in 1994 World Cup final. Aside from Barcelona, He played for all three big of Holland like Ajax, PSV and Feyenood. Koeman played along with “Three Tiger Soldier” like Gullit, Rijkaard and Van Basten and being overshadowed by them. Koeman was known for his low speed which made him a hard time to catch high-speed attackers.		Ronald Koeman was well-known as the greatest defender-scorer in history of the game with 225 goals in 647 matches which is an all-time world record. This record could be as good as a lot of strikers who played as the same level as him. Koeman scored not less than 10 goals in a season almost every years for his career. In 1988, He was voted 5th in Ballon D’or.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Libero` with model support score `90`.
+- Best-fit role is [[libero]] Libero with model support score `90`.
 - Primary archetype leans toward `Passer` behaviour from a `CD` base.
 - Most bankable strengths show up in Discipline, Composure, and Duels.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -65,10 +74,11 @@ CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by h
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,10 +99,10 @@ CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by h
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -103,7 +113,6 @@ CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by h
 {}
 ---
 
-	CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by his free-kick specialist, powerful and rocket long shooting and penalty taking, not only scoring quality but also great as a sweeper with intelligent play ensured an organized defense and provided excellent distribution from the back, always generated precision passing. His leadership ability enabled him to excel as captain of Holland in 1994 World Cup final. Aside from Barcelona, He played for all three big of Holland like Ajax, PSV and Feyenood. Koeman played along with “Three Tiger Soldier” like Gullit, Rijkaard and Van Basten and being overshadowed by them. Koeman was known for his low speed which made him a hard time to catch high-speed attackers.		Ronald Koeman was well-known as the greatest defender-scorer in history of the game with 225 goals in 647 matches which is an all-time world record. This record could be as good as a lot of strikers who played as the same level as him. Koeman scored not less than 10 goals in a season almost every years for his career. In 1988, He was voted 5th in Ballon D’or. 
-
+	CD	Assertive	Ranger	Sniper	Barcelona	NED	B	80.9	Most of his goals came from by his free-kick specialist, powerful and rocket long shooting and penalty taking, not only scoring quality but also great as a sweeper with intelligent play ensured an organized defense and provided excellent distribution from the back, always generated precision passing. His leadership ability enabled him to excel as captain of Holland in 1994 World Cup final. Aside from Barcelona, He played for all three big of Holland like Ajax, PSV and Feyenood. Koeman played along with “Three Tiger Soldier” like Gullit, Rijkaard and Van Basten and being overshadowed by them. Koeman was known for his low speed which made him a hard time to catch high-speed attackers.		Ronald Koeman was well-known as the greatest defender-scorer in history of the game with 225 goals in 647 matches which is an all-time world record. This record could be as good as a lot of strikers who played as the same level as him. Koeman scored not less than 10 goals in a season almost every years for his career. In 1988, He was voted 5th in Ballon D’or.
 
 </details>

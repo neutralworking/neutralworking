@@ -2,12 +2,12 @@
 title: Diogo Jota
 category: players
 tags: [CF, Liverpool, Portugal, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Liverpool. Archetype: Striker-Creator.
 person_id: 10332
-backlinks: [striker, liverpool]
+backlinks: [striker, falso-nove, liverpool]
 ---
 
 # Diogo Jota
@@ -21,6 +21,7 @@ backlinks: [striker, liverpool]
 | **Nation** | Portugal |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 85 |
 | **Overall** | 82.0 |
 | **Pursuit** | Monitor |
@@ -30,10 +31,16 @@ backlinks: [striker, liverpool]
 
 Blueprint: Aguero/Fowler
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Movement, and Reactions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -64,13 +71,14 @@ Blueprint: Aguero/Fowler
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 17.0m |
+| Mid | EUR 20.0m |
+| Ceiling | EUR 44.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,11 +106,11 @@ Blueprint: Aguero/Fowler
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -110,6 +118,5 @@ Blueprint: Aguero/Fowler
 <summary>Raw scouting narrative</summary>
 
 Blueprint: Aguero/Fowler
-
 
 </details>

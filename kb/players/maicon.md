@@ -2,12 +2,12 @@
 title: Maicon
 category: players
 tags: [WD, Levski Sofia, Brazil, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Levski Sofia. Archetype: Sprinter-Dribbler.
 person_id: 4476
-backlinks: [sprinter, levski-sofia]
+backlinks: [sprinter, lateral, levski-sofia]
 ---
 
 # Maicon
@@ -21,18 +21,27 @@ backlinks: [sprinter, levski-sofia]
 | **Nation** | Brazil |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[lateral]] Lateral |
+| **Role Score** | 90 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his native country Brazil for Cruzeiro, going on to win the UEFA Champions League in 2010, four Serie A titles, the FIFA Club World Cup and various domestic competitions. Maicon was known to be capable both offensively and defensively. He was gifted with outstanding physical attributes, athleticism, excellent technical and crossing ability, as well as a powerful shot, making him a serious attacking threat down the right wing. Due to his success, strength, pace, power, and stamina, "he earned the nickname ""il colosso"" (the colossus) during his time at Inter", where he developed into one of the best attacking fullbacks in the world.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Lateral` with model support score `90`.
+- Best-fit role is [[lateral]] Lateral with model support score `90`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Aerial Duels, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his n
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,11 +109,11 @@ WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his n
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -114,6 +124,6 @@ WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his n
 {}
 ---
 
-WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his native country Brazil for Cruzeiro, going on to win the UEFA Champions League in 2010, four Serie A titles, the FIFA Club World Cup and various domestic competitions. Maicon was known to be capable both offensively and defensively. He was gifted with outstanding physical attributes, athleticism, excellent technical and crossing ability, as well as a powerful shot, making him a serious attacking threat down the right wing. Due to his success, strength, pace, power, and stamina, "he earned the nickname ""il colosso"" (the colossus) during his time at Inter", where he developed into one of the best attacking fullbacks in the world.		
+WD	Pacy	Athlete	Colossus	Inter Milan	BRA	A	87.3	Maicon began his career in his native country Brazil for Cruzeiro, going on to win the UEFA Champions League in 2010, four Serie A titles, the FIFA Club World Cup and various domestic competitions. Maicon was known to be capable both offensively and defensively. He was gifted with outstanding physical attributes, athleticism, excellent technical and crossing ability, as well as a powerful shot, making him a serious attacking threat down the right wing. Due to his success, strength, pace, power, and stamina, "he earned the nickname ""il colosso"" (the colossus) during his time at Inter", where he developed into one of the best attacking fullbacks in the world.
 
 </details>

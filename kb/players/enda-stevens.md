@@ -2,12 +2,12 @@
 title: Enda Stevens
 category: players
 tags: [WD, Sheffield United, Ireland, Engine-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Sheffield United. Archetype: Engine-Creator.
 person_id: 10693
-backlinks: [engine, sheffield-united]
+backlinks: [engine, corner-back, sheffield-united]
 ---
 
 # Enda Stevens
@@ -21,18 +21,26 @@ backlinks: [engine, sheffield-united]
 | **Nation** | Ireland |
 | **Age** | 35 |
 | **Archetype** | [[engine]] Engine-Creator |
+| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 64 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Experienced left-back with intelligent positioning and underrated reading of the game, but at 35 he's lost a yard of pace and recovery speed. Decent squad depth and leadership presence, but not a long-term solution.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back`.
+- Best-fit role is [[corner-back]] Corner Back.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Most bankable strengths show up in Stamina, Crossing, and Jumping.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ Experienced left-back with intelligent positioning and underrated reading of the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.6m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +108,7 @@ Experienced left-back with intelligent positioning and underrated reading of the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

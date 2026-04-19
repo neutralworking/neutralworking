@@ -2,12 +2,12 @@
 title: Albie Morgan
 category: players
 tags: [CM, Charlton Athletic, England, Passer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Charlton Athletic. Archetype: Passer-Powerhouse.
 person_id: 8040
-backlinks: [passer, charlton-athletic]
+backlinks: [passer, playmaker, charlton-athletic]
 ---
 
 # Albie Morgan
@@ -21,18 +21,26 @@ backlinks: [passer, charlton-athletic]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[passer]] Passer-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 82 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A central midfielder with a tidy first touch and the ability to receive the ball in congested spaces without panic, but his physical profile and range of passing keep him in the 'pleasant squad player' category rather than anything more. He'll break up play adequately and move the ball laterally with competence, though he's rarely the one creating or driving the side forward in moments of genuine pressure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Aggression.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A central midfielder with a tidy first touch and the ability to receive the ball
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 26.3m |
+| Mid | EUR 31.0m |
+| Ceiling | EUR 37.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ A central midfielder with a tidy first touch and the ability to receive the ball
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

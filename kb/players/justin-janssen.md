@@ -2,12 +2,12 @@
 title: Justin Janssen
 category: players
 tags: [CM, Nordsjaelland, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Nordsjaelland. Archetype: Destroyer-Striker.
 person_id: 23928
-backlinks: [destroyer, nordsjaelland]
+backlinks: [destroyer, playmaker, nordsjaelland]
 ---
 
 # Justin Janssen
@@ -18,21 +18,30 @@ backlinks: [destroyer, nordsjaelland]
 |---|---|
 | **Position** | CM |
 | **Club** | Nordsjaelland |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Janssen's Marshal archetype suggests a player with strong technical ability and vision, but his limited creativity and guile are concerns, and he would thrive in a possession-based system that values discipline and build-up play, where his build_up_contributor trait can be leveraged, and a club looking to develop a young, technically-gifted midfielder would be a good fit, although his lack of physicality and athleticism pose risks, and a team requiring a more dynamic, box-to-box midfielder may not be the best match, but his hot-headed trait may lead to disciplinary issues, and his high_press trait suggests he can excel in a high-intensity system.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Through Balls, Close Range, and Intensity.
@@ -62,13 +71,14 @@ Janssen's Marshal archetype suggests a player with strong technical ability and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Janssen's Marshal archetype suggests a player with strong technical ability and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

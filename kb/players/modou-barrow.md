@@ -2,12 +2,12 @@
 title: Modou Barrow
 category: players
 tags: [CF, Al-Ahli, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Al-Ahli. Archetype: Creator.
 person_id: 15276
-backlinks: [creator, al-ahli]
+backlinks: [creator, shadow-striker, al-ahli]
 ---
 
 # Modou Barrow
@@ -18,21 +18,29 @@ backlinks: [creator, al-ahli]
 |---|---|
 | **Position** | CF |
 | **Club** | Al-Ahli |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 33 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Thirty-three-year-old winger in the final stages of his career who still possesses some dribbling ability and understands how to operate on the touchline. His athleticism has diminished noticeably and he no longer poses the directional threat he once did; defenders can afford to be more aggressive against him because his pace is no longer elite. A veteran presence who can provide tactical experience but not consistent output.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, Shielding, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Thirty-three-year-old winger in the final stages of his career who still possess
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 0.8m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +99,7 @@ Thirty-three-year-old winger in the final stages of his career who still possess
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

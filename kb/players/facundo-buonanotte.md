@@ -2,12 +2,12 @@
 title: Facundo Buonanotte
 category: players
 tags: [AM, Chelsea, Argentina, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Chelsea. Archetype: Creator-Passer.
 person_id: 10897
-backlinks: [creator, chelsea]
+backlinks: [creator, trequartista, chelsea]
 ---
 
 # Facundo Buonanotte
@@ -21,18 +21,26 @@ backlinks: [creator, chelsea]
 | **Nation** | Argentina |
 | **Age** | 21 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 85 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Argentine attacking midfielder with genuine creative instincts and the ability to thread passes through congested areas, but he's still physically underdeveloped and can be overrun in Championship midfields. His technical quality is evident, yet consistency and durability remain questions at this level. Prospect with tools, still learning his trade.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ An Argentine attacking midfielder with genuine creative instincts and the abilit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 15.2m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ An Argentine attacking midfielder with genuine creative instincts and the abilit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

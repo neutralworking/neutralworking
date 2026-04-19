@@ -2,12 +2,12 @@
 title: I. Slimani
 category: players
 tags: [AM, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: AM at None. Archetype: Creator-Striker.
+summary: AM at —. Archetype: Creator-Striker.
 person_id: 25239
-backlinks: [creator]
+backlinks: [creator, trequartista]
 ---
 
 # I. Slimani
@@ -17,22 +17,30 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Level** | None |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Level** | — |
 | **Overall** | 34.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 I. Slimani projects primarily as a AM with a `Creator-Striker` lean. The strongest database support comes from Skills, Communication, and Concentration.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Skills, Communication, and Concentration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ I. Slimani projects primarily as a AM with a `Creator-Striker` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +95,5 @@ I. Slimani projects primarily as a AM with a `Creator-Striker` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

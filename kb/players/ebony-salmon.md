@@ -2,10 +2,10 @@
 title: Ebony Salmon
 category: players
 tags: [CF, Bristol City, England]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Bristol City. Archetype: None.
+summary: CF at Bristol City. Archetype: —.
 person_id: 10466
 backlinks: [bristol-city]
 ---
@@ -20,15 +20,22 @@ backlinks: [bristol-city]
 | **Club** | Bristol City |
 | **Nation** | England |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 74 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A forward in the women's game with genuine athleticism and some intuition for getting into dangerous areas, though her technical execution and first touch are inconsistent. She can finish when service is clean but struggles to create space for herself or operate effectively with her back to goal.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A forward in the women's game with genuine athleticism and some intuition for ge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,16 +72,15 @@ A forward in the women's game with genuine athleticism and some intuition for ge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	27 January 2001 (age 22)	4	0	United States Houston Dash	2023 Arnold Clark Cup
-
+27 January 2001 (age 22)	4	0	United States Houston Dash	2023 Arnold Clark Cup
 
 </details>

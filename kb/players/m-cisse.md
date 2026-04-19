@@ -2,12 +2,12 @@
 title: M. Cissé
 category: players
 tags: [CM, LASK Linz, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at LASK Linz. Archetype: Destroyer.
 person_id: 24138
-backlinks: [destroyer, lask-linz]
+backlinks: [destroyer, metodista, lask-linz]
 ---
 
 # M. Cissé
@@ -18,21 +18,30 @@ backlinks: [destroyer, lask-linz]
 |---|---|
 | **Position** | CM |
 | **Club** | LASK Linz |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 58 |
 | **Level** | 63 |
 | **Overall** | 57.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Cissé is a physically imposing central midfielder with a strong foundation in composure, duels, and blocking, but his technical and tactical limitations restrict his ability to dictate the tempo of the game. As a tuttocampista, he is at his best when given the freedom to roam and use his vision to pick out passes, but his lack of guile and take-on ability means he can struggle to break down compact defenses. A team that values physicality and work rate in midfield could find Cissé to be a useful asset, but his limitations mean he may not be the best fit for a side that relies on intricate passing sequences.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `58`.
+- Best-fit role is [[metodista]] Metodista with model support score `58`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Awareness, Blocking, and Composure.
@@ -62,13 +71,14 @@ Cissé is a physically imposing central midfielder with a strong foundation in c
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 20.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Cissé is a physically imposing central midfielder with a strong foundation in c
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

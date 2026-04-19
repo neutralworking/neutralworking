@@ -2,12 +2,12 @@
 title: Warren Zaïre-Emery
 category: players
 tags: [CM, Paris Saint-Germain, France, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Paris Saint-Germain. Archetype: Powerhouse-Dribbler.
 person_id: 20187
-backlinks: [powerhouse, paris-saint-germain]
+backlinks: [powerhouse, tuttocampista, paris-saint-germain]
 ---
 
 # Warren Zaïre-Emery
@@ -21,6 +21,7 @@ backlinks: [powerhouse, paris-saint-germain]
 | **Nation** | France |
 | **Age** | 20 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 84 |
 | **Overall** | 77.0 |
 | **Pursuit** | Watch |
@@ -30,9 +31,16 @@ backlinks: [powerhouse, paris-saint-germain]
 
 Warren Zaïre-Emery projects primarily as a CM with a `Powerhouse-Dribbler` lean. The strongest database support comes from Pass Accuracy, Shielding, and Stamina.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Shielding, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Warren Zaïre-Emery projects primarily as a CM with a `Powerhouse-Dribbler` lean
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 12.0m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 35.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,6 +110,6 @@ Warren Zaïre-Emery projects primarily as a CM with a `Powerhouse-Dribbler` lean
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

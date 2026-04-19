@@ -2,12 +2,12 @@
 title: Pedro Nuno
 category: players
 tags: [CF, Oţelul Galaţi, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Oţelul Galaţi. Archetype: Creator-Dribbler.
 person_id: 24192
-backlinks: [creator, otelul-galati]
+backlinks: [creator, seconda-punta, otelul-galati]
 ---
 
 # Pedro Nuno
@@ -18,21 +18,30 @@ backlinks: [creator, otelul-galati]
 |---|---|
 | **Position** | CF |
 | **Club** | Oţelul Galaţi |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Pedro Nuno projects primarily as a CF with a `Creator-Dribbler` lean. The strongest database support comes from Balance, First Touch, and Reactions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `69`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, First Touch, and Reactions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Pedro Nuno projects primarily as a CF with a `Creator-Dribbler` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.4m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ Pedro Nuno projects primarily as a CF with a `Creator-Dribbler` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

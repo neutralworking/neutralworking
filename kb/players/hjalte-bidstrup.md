@@ -2,12 +2,12 @@
 title: Hjalte Bidstrup
 category: players
 tags: [CM, Viborg, Destroyer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Viborg. Archetype: Destroyer-Creator.
 person_id: 24328
-backlinks: [destroyer, viborg]
+backlinks: [destroyer, playmaker, viborg]
 ---
 
 # Hjalte Bidstrup
@@ -18,21 +18,30 @@ backlinks: [destroyer, viborg]
 |---|---|
 | **Position** | CM |
 | **Club** | Viborg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 57 |
 | **Level** | 62 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 This Terrier Tuttocampista boasts a strong technical base, combining excellent awareness and vision with effective tackling and duels in central midfield. He embodies the modern high-press central midfielder, tirelessly linking play and winning possession for systems demanding intense work rates and quick ball circulation. While physically moderate, his limited long-range shooting and lack of guile in tight spaces restrict his offensive diversity. He represents a reliable squad builder for a club looking to solidify its midfield spine and implement a high-pressing strategy, offering consistent competitiveness.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `57`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `57`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Discipline, Pressing, and Tackling.
@@ -62,13 +71,14 @@ This Terrier Tuttocampista boasts a strong technical base, combining excellent a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.7m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ This Terrier Tuttocampista boasts a strong technical base, combining excellent a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

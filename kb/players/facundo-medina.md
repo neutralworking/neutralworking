@@ -2,12 +2,12 @@
 title: Facundo Medina
 category: players
 tags: [CD, Lens, Argentina, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Lens. Archetype: Cover-Dribbler.
 person_id: 10901
-backlinks: [cover, lens]
+backlinks: [cover, sweeper, lens]
 ---
 
 # Facundo Medina
@@ -21,18 +21,27 @@ backlinks: [cover, lens]
 | **Nation** | Argentina |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 An aggressive, ball-playing centre-back who reads the game intelligently and uses his body well in one-v-one situations, particularly adept at cutting out through-balls before they become dangerous. His limitation is aerial dominance—he's not a consistent winner in the air—and occasionally his aggressive positioning leaves him exposed to rapid combinations, but he's a capable cornerstone for a Ligue 1 defence.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `82`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `82`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Reactions, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ An aggressive, ball-playing centre-back who reads the game intelligently and use
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ An aggressive, ball-playing centre-back who reads the game intelligently and use
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

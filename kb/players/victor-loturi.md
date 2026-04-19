@@ -2,12 +2,12 @@
 title: Victor Loturi
 category: players
 tags: [CM, CF Montréal, Canada, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at CF Montréal. Archetype: Powerhouse.
 person_id: 18344
-backlinks: [powerhouse, cf-montreal]
+backlinks: [powerhouse, mezzala, cf-montreal]
 ---
 
 # Victor Loturi
@@ -21,18 +21,27 @@ backlinks: [powerhouse, cf-montreal]
 | **Nation** | Canada |
 | **Age** | 24 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A compact, high-motor terrier whose pace and stamina mask moderate technical and tactical ceilings—his composure and balance under pressure are genuinely strong, but discipline issues and dueling fragility suggest a player whose endurance can't compensate for positional carelessness. At 173cm, he operates as a miniaturized tuttocampista best suited to high-pressing systems where his defensive energy is recycled quickly rather than exposed in prolonged possession phases. The flamboyant trait points toward a player who will create moments of risk; Canadian MLS context suggests he's optimized for open-field chaos rather than European positional precision.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `75`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Balance, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A compact, high-motor terrier whose pace and stamina mask moderate technical and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A compact, high-motor terrier whose pace and stamina mask moderate technical and
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

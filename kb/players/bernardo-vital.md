@@ -2,12 +2,12 @@
 title: Bernardo Vital
 category: players
 tags: [CM, Estoril Praia, Portugal, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Estoril Praia. Archetype: Destroyer.
 person_id: 9032
-backlinks: [destroyer, estoril-praia]
+backlinks: [destroyer, playmaker, estoril-praia]
 ---
 
 # Bernardo Vital
@@ -21,18 +21,27 @@ backlinks: [destroyer, estoril-praia]
 | **Nation** | Portugal |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Bernardo Vital is a tenacious, defensively-minded midfielder who fits the Mezzala role, utilizing his tackling prowess, physicality, and awareness to win the ball back and distribute it effectively. While he struggles with creativity and tactical nuance, his build-up contributing trait makes him a reliable presence in the midfield. A club seeking a destroyer-type midfielder who can provide a solid foundation for their team's shape and allow more creative players to flourish would benefit from his services.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `75`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Marking, and Reactions.
@@ -63,13 +72,14 @@ Bernardo Vital is a tenacious, defensively-minded midfielder who fits the Mezzal
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Bernardo Vital is a tenacious, defensively-minded midfielder who fits the Mezzal
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

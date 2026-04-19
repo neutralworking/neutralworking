@@ -2,12 +2,12 @@
 title: Lothar Matthäus
 category: players
 tags: [CM, Germany, Commander-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Commander-Engine.
+summary: CM at —. Archetype: Commander-Engine.
 person_id: 14024
-backlinks: [commander]
+backlinks: [commander, tuttocampista]
 ---
 
 # Lothar Matthäus
@@ -17,17 +17,18 @@ backlinks: [commander]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[commander]] Commander-Engine |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 93 |
 | **Level** | 80 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 Lothar Matthäus debuted in the Bundesliga as an 18-year old in 1979 and immediately became a starter for Mönchengladbach.
 
@@ -43,12 +44,18 @@ A versatile and complete player, Matthäus was renowned for his perceptive passi
 
 After captaining West Germany to victory in the 1990 FIFA World Cup, he was named European Footballer of the Year. In 1991, he was named the first ever FIFA World Player of the Year, and remains the only German to have received the award. He played in five FIFA World Cups (1982, 1986, 1990, 1994, 1998), more than any other outfield player in men's football, and holds the record for the most World Cup matches played by a single player (25 games). He also won UEFA Euro 1980, and played in the 1984, 1988, and 2000 UEFA European Football Championships. In 1999, aged 38, he was again voted German Footballer of the Year, having previously won the award in 1990. Matthäus is the most capped German player of all time, retiring with a total of 150 appearances (83 for West Germany) in 20 years, and 23 goals. Matthäus is a member of the FIFA 100 list of the greatest living football players chosen by Pelé.
 
-Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess that's enough to define him", in his book Yo soy el Diego (I am the Diego)		
+Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess that's enough to define him", in his book Yo soy el Diego (I am the Diego)
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `93`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `93`.
 - Primary archetype leans toward `Commander` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Captain Leader and Long Range Threat.
 - Most bankable strengths show up in Shielding, Balance, and Acceleration.
@@ -79,13 +86,14 @@ Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -112,17 +120,16 @@ Diego Maradona said of Matthäus, "he is the best rival I've ever had. I guess t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 Lothar Matthäus debuted in the Bundesliga as an 18-year old in 1979 and immediately became a starter for Mönchengladbach.
 
@@ -136,6 +143,6 @@ During the early 1980s he found it hard to break into the national team as Paul 
 
 A versatile and complete player, Matthäus was renowned for his perceptive passing, positional sense, well-timed tackling, as well as powerful shooting. During his career, he usually played as a box-to-box midfielder, although late in his career he played as a sweeper.	
 
-After captaining West Germany to victory in the 1990 FIFA World Cup, he was named European Footballer of the Year. In 1991, he was named the first ever FIFA World Player of the Year, and remains the only German to have received the award. He played in five FIFA World Cups (1982, 1986, 1990, 1994, 1998), more than any other outfield player in men's football, and holds the record for the most World Cup matches played by a single player (25 games). He also won UEFA Euro 1980, and played in the 1984, 1988, and 2000 UEFA European Football Championships. In 1999, aged 38, he was again voted German Footballer of the Year, having previously won the award in 1990. Matthäus is the most...
+After captaining West Germany to victory in the 1990 FIFA World Cup, he was named European Footballer of the Year. In 1991, he was named the first ever FIFA World Player of the Year, and remains the only German to have received the award. He played in five FIFA World Cups (1982, 1986, 1990, 1994, 1998), more than any other outfield player in men's football, and holds the record for the most World Cup matches played by a single player (25 games). He also won UEFA Euro 1980, and played in the 1984, 1988, and 2000 UEFA European Football Championships. In 1999, aged 38, he was again voted German Footballer of the Year, having previously won the award in 1990. Matthäus is the most ...
 
 </details>

@@ -2,10 +2,10 @@
 title: Samantha Kerr
 category: players
 tags: [CM, Bayern Munich Women, Scotland]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Bayern Munich Women. Archetype: None.
+summary: CM at Bayern Munich Women. Archetype: —.
 person_id: 17098
 backlinks: [bayern-munich-women]
 ---
@@ -20,15 +20,22 @@ backlinks: [bayern-munich-women]
 | **Club** | Bayern Munich Women |
 | **Nation** | Scotland |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Scottish midfielder who gives you industry and a certain workmanlike presence in the engine room, but she operates in that crowded middle tier where positional intelligence and pressing discipline matter more than technical flair. She's not poor on the ball, but she's not someone who'll change a game with a progressive pass or a dribble either. The kind of player who's perfectly adequate until the opposition has a midfielder who's genuinely special, at which point her limitations become clearer.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ Scottish midfielder who gives you industry and a certain workmanlike presence in
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Scottish midfielder who gives you industry and a certain workmanlike presence in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

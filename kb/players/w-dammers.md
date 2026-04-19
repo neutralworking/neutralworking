@@ -2,12 +2,12 @@
 title: W. Dammers
 category: players
 tags: [CM, Randers FC, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Randers FC. Archetype: Destroyer-Powerhouse.
 person_id: 23208
-backlinks: [destroyer, randers-fc]
+backlinks: [destroyer, metodista, randers-fc]
 ---
 
 # W. Dammers
@@ -18,21 +18,30 @@ backlinks: [destroyer, randers-fc]
 |---|---|
 | **Position** | CM |
 | **Club** | Randers FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 W. Dammers is a Connector archetype who excels as a Tuttocampista, leveraging his aggression and physicality to win headers and contribute to build-up play, but his limited tactical awareness and lack of guile hinder his overall impact, making him a suitable fit for a team that values discipline and structure, though his introverted personality may require careful management, and his moderate mental and physical attributes suggest he may not be suited to a high-intensity pressing system.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `74`.
+- Best-fit role is [[metodista]] Metodista with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Press Resistant.
 - Most bankable strengths show up in Jumping, Heading, and Stamina.
@@ -63,13 +72,14 @@ W. Dammers is a Connector archetype who excels as a Tuttocampista, leveraging hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ W. Dammers is a Connector archetype who excels as a Tuttocampista, leveraging hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

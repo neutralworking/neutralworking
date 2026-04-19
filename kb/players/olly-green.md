@@ -2,10 +2,10 @@
 title: Olly Green
 category: players
 tags: [CM, Hull City, England]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Hull City. Archetype: None.
+summary: CM at Hull City. Archetype: —.
 person_id: 15923
 backlinks: [hull-city]
 ---
@@ -20,15 +20,22 @@ backlinks: [hull-city]
 | **Club** | Hull City |
 | **Nation** | England |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 66 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young English midfielder still finding his feet at senior level, showing the kind of basic competence and energy that suggests professional footballer rather than special talent. At 22, he's at the stage where regular football in a competitive environment matters more than sporadic appearances — development depends on game time, not reputation. He's capable but completely unproven; potential exists only insofar as consistent exposure allows it to emerge.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ Young English midfielder still finding his feet at senior level, showing the kin
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Young English midfielder still finding his feet at senior level, showing the kin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

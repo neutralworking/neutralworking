@@ -2,12 +2,12 @@
 title: Denny Wang Yi
 category: players
 tags: [DM, Wuhan Three Towns F.C., Sprinter-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Wuhan Three Towns F.C.. Archetype: Sprinter-Destroyer.
 person_id: 24515
-backlinks: [sprinter, wuhan-three-towns-fc]
+backlinks: [sprinter, segundo-volante, wuhan-three-towns-fc]
 ---
 
 # Denny Wang Yi
@@ -18,21 +18,30 @@ backlinks: [sprinter, wuhan-three-towns-fc]
 |---|---|
 | **Position** | DM |
 | **Club** | Wuhan Three Towns F.C. |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Denny Wang Yi projects primarily as a DM with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, Balance, and Pace.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `73`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `73`.
 - Primary archetype leans toward `Sprinter` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
@@ -62,13 +71,14 @@ Denny Wang Yi projects primarily as a DM with a `Sprinter-Destroyer` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ Denny Wang Yi projects primarily as a DM with a `Sprinter-Destroyer` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

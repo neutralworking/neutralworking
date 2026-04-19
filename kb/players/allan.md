@@ -2,12 +2,12 @@
 title: Allan
 category: players
 tags: [DM, Flamengo, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Flamengo. Archetype: Engine.
 person_id: 333
-backlinks: [engine, flamengo]
+backlinks: [engine, segundo-volante, flamengo]
 ---
 
 # Allan
@@ -18,21 +18,30 @@ backlinks: [engine, flamengo]
 |---|---|
 | **Position** | DM |
 | **Club** | Flamengo |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 29 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CM					BRA	C	0.0	He operates primarily as a defensive midfielder and central midfielder and is comfortable at playing both in attack and defence and is equally comfortable being deployed deep or as a playmaker. Normally a defensive midfielder, Allan is known as a dynamic midfielder with good ball winning skills. He also possesses good dribbling skills, pace and good long passing ability. He has been described as different from traditional defensive midfielder, due to his reputation for dribbling past defenders and passing through the legs of a defender		Allan was signed from Madureira by Uruguayan side Deportivo Maldonado at 17 years of age old for an undisclosed fee. However, he was later loaned out to Vasco da Gama back in Brazil; he would not make an appearance for Maldonado. Allan moved to Vasco da Gama once again still as a youth player, loaned from Deportivo Maldonado. A year after he played for their youth team, he was brought back and promoted to the first-team by coach Dorival Júnior, playing in many crucial games in the club's 2009 season to help the side win the Série B and secure promotion to the top-flight Série A, though he ultimately suffered an injury. Allan, injured, could not compete in the Campeonato Carioca with Vasco da Gama nor the 2010 Copa do Brasil. After initial recovery, he returned to the club's junior team to regain fitness ahead of a return to the first-team. He then returned to the professional fold in the last round of the Série A before the break for the 2011 FIFA U-20 World Cup, playing in the Copa da Hora friendly tournament. The club took the tournament with Allan participating, also scoring a goal in a 3–2 victory over Coritiba. On 4 June 2012, Allan signed for Italian Serie A side Udinese for a reported fee of €3 million from Deportivo Maldonado. He made his debut for Udinese at home at the Stadio Friuli against Juventus, where he created an assist for teammate Andrea Lazzari's goal. In his first season in Udine, Allan played mostly as a defensive midfielder, recovering and distributing a large number of balls. Manager Francesco Guidolin played him in 36 games in the league out of 38 games, he proved one of the best bargains of the season, defying expectation and playing almost all games as a starter to help Udinese to finish in a surprise fifth-place position, securing qualification to next year's UEFA Europa League. A more challenging second season followed Allan and Udinese, as the club finished 13th in the league in what was Francesco Guidolin's final season with the side. Despite this, Allan excelled in midfield, even scoring his first goals for the club as his improvement in Italy continued. His calm and controlled performance in midfield also prompted future Udinese manager Andrea Stramaccioni to suggest that he was now one of the best young midfielders in Europe, comparable to Juventus' Paul Pogba. In the 2014–15 season, Allan was to be the top ball-winner of all of Europe's top-five leagues (Premier League, La Liga, Bundesliga, Serie A and Ligue 1) with the most balls won. His superb performances were tracked by major European sides Juventus, Borussia Dortmund, Chelsea, VfL Wolfsburg, Arsenal and Napoli, which all were reportedly interested in his signature. Allan ultimately joined the latter, remaining in Italy. Allan made his Napoli debut in a pre-season friendly against Lega Pro side FeralpiSalò, which Napoli won 5–2.[7] He made his first Serie A debut for Napoli at home against Sampdoria in the second matchday of the Serie A season, creating an assist for Gonzalo Higuaín with a through-ball that the latter converted with a right-footed shot from the right side of the box, making the scoreline 2–0. Allan was later substituted in the second-half for David López.[8] Allan would then receive a start in Napoli's third game of the season, a 2–2 away draw with Empoli, scoring an equalizer in the 78th minute after converting a pass from captain Marek Hamšík. On 17 September, Allan cam
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `78`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `78`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Physical, Stamina, and Jumping.
@@ -67,13 +76,14 @@ CM					BRA	C	0.0	He operates primarily as a defensive midfielder and central mid
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 27.0m |
+| Ceiling | EUR 32.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,11 +113,11 @@ CM					BRA	C	0.0	He operates primarily as a defensive midfielder and central mid
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

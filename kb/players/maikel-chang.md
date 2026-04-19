@@ -2,7 +2,7 @@
 title: Maikel Chang
 category: players
 tags: [CM, Arles, Cuba, Dribbler-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Arles. Archetype: Dribbler-Sprinter.
@@ -22,13 +22,20 @@ backlinks: [dribbler, arles]
 | **Age** | 35 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Maikel Chang is a mercurial talent, capable of beating defenders with his exceptional pace and first touch, but his lack of mental acuity often leads to rash decision-making in the half-spaces. As a Mezzala, he excels at making progressive carries, but his tactical naivety can be exposed when faced with more sophisticated defensive structures. His aggression, or rather lack thereof, is a significant concern, as he often shies away from the physical battles that are a hallmark of the position.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -62,13 +69,14 @@ Maikel Chang is a mercurial talent, capable of beating defenders with his except
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 1.7m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +100,7 @@ Maikel Chang is a mercurial talent, capable of beating defenders with his except
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

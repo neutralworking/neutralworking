@@ -2,12 +2,12 @@
 title: Diego Buonanotte
 category: players
 tags: [CM, Unión La Calera, Argentina, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Unión La Calera. Archetype: Sprinter-Dribbler.
 person_id: 1904
-backlinks: [sprinter, union-la-calera]
+backlinks: [sprinter, playmaker, union-la-calera]
 ---
 
 # Diego Buonanotte
@@ -19,20 +19,28 @@ backlinks: [sprinter, union-la-calera]
 | **Position** | CM |
 | **Club** | Unión La Calera |
 | **Nation** | Argentina |
-| **Age** | 37 |
+| **Age** | 38 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 72 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Diego Buonanotte projects primarily as a CM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, First Touch, and Long Range.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Diego Buonanotte projects primarily as a CM with a `Sprinter-Dribbler` lean. The
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +104,6 @@ Diego Buonanotte projects primarily as a CM with a `Sprinter-Dribbler` lean. The
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 20 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Tanguy Zoukrou
 category: players
 tags: [CD, BSC Young Boys, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at BSC Young Boys. Archetype: Destroyer.
 person_id: 17778
-backlinks: [destroyer, bsc-young-boys]
+backlinks: [destroyer, sweeper, bsc-young-boys]
 ---
 
 # Tanguy Zoukrou
@@ -18,21 +18,30 @@ backlinks: [destroyer, bsc-young-boys]
 |---|---|
 | **Position** | CD |
 | **Club** | BSC Young Boys |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Developing defender with good physical tools and aerial dominance, but positioning and concentration remain inconsistent—the hallmark of a young player still learning the tactical demands of Ligue 1. Has potential to reach solid starter level, but needs 1-2 more seasons of refinement.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `72`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Heading, Jumping, and Physical.
@@ -63,13 +72,14 @@ Developing defender with good physical tools and aerial dominance, but positioni
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Developing defender with good physical tools and aerial dominance, but positioni
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

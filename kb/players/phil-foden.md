@@ -2,12 +2,12 @@
 title: Phil Foden
 category: players
 tags: [AM, Manchester City, England, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Manchester City. Archetype: Creator-Dribbler.
 person_id: 16295
-backlinks: [creator, manchester-city]
+backlinks: [creator, enganche, manchester-city]
 ---
 
 # Phil Foden
@@ -21,6 +21,8 @@ backlinks: [creator, manchester-city]
 | **Nation** | England |
 | **Age** | 25 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 78.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [creator, manchester-city]
 
 Natural talent. Left foot is magical — dribbling, finishing, and creativity all elite. PFA Player of the Year. Can play anywhere across the front line. Small frame but deceptive strength. England's most gifted attacker. City academy product — deeply embedded. Not acquirable.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `85`.
+- Best-fit role is [[enganche]] Enganche with model support score `85`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Reactions, Creativity, and First Touch.
@@ -67,13 +76,14 @@ Natural talent. Left foot is magical — dribbling, finishing, and creativity al
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 75.0m |
+| Mid | EUR 71.0m |
+| Ceiling | EUR 101m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Natural talent. Left foot is magical — dribbling, finishing, and creativity al
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

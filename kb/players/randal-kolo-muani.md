@@ -2,12 +2,12 @@
 title: Randal Kolo Muani
 category: players
 tags: [CF, Tottenham Hotspur, France, Sprinter-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Tottenham Hotspur. Archetype: Sprinter-Engine.
 person_id: 16477
-backlinks: [sprinter, tottenham-hotspur]
+backlinks: [sprinter, shadow-striker, tottenham-hotspur]
 ---
 
 # Randal Kolo Muani
@@ -21,6 +21,8 @@ backlinks: [sprinter, tottenham-hotspur]
 | **Nation** | France |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 67 |
 | **Level** | 82 |
 | **Overall** | 68.0 |
 | **Pursuit** | Scout Further |
@@ -30,9 +32,16 @@ backlinks: [sprinter, tottenham-hotspur]
 
 Athletic, high-IQ forward with excellent movement in the box. Outstanding pressing intensity — Eintracht Frankfurt version was electric. PSG spell has been disappointing — limited minutes, confidence down. Loan to Spurs to rebuild. Versatile across the front line. Scout further — talent is clear but PSG chapter raises questions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `67`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `67`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Reactions, Acceleration, and Intensity.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Athletic, high-IQ forward with excellent movement in the box. Outstanding pressi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 45.0m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ Athletic, high-IQ forward with excellent movement in the box. Outstanding pressi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

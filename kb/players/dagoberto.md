@@ -2,12 +2,12 @@
 title: Dagoberto
 category: players
 tags: [CF, Brazil, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Dribbler.
+summary: CF at —. Archetype: Dribbler.
 person_id: 1454
-backlinks: [dribbler]
+backlinks: [dribbler, shadow-striker]
 ---
 
 # Dagoberto
@@ -17,22 +17,30 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
 | **Age** | 43 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 52 |
 | **Overall** | 52.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dagoberto projects primarily as a CF with a `Dribbler` lean. The strongest database support comes from First Touch, Skills, and Take Ons.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Dribbler` behaviour from a `CF` base.
 - Most bankable strengths show up in First Touch, Skills, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,10 +70,11 @@ Dagoberto projects primarily as a CF with a `Dribbler` lean. The strongest datab
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,6 +99,6 @@ Dagoberto projects primarily as a CF with a `Dribbler` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 19 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

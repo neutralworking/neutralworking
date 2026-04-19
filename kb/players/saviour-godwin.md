@@ -2,12 +2,12 @@
 title: Saviour Godwin
 category: players
 tags: [WF, Al-Okhdood, Nigeria, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Al-Okhdood. Archetype: Sprinter-Dribbler.
 person_id: 17218
-backlinks: [sprinter, al-okhdood]
+backlinks: [sprinter, winger, al-okhdood]
 ---
 
 # Saviour Godwin
@@ -21,18 +21,26 @@ backlinks: [sprinter, al-okhdood]
 | **Nation** | Nigeria |
 | **Age** | 29 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[winger]] Winger |
 | **Level** | 85 |
 | **Overall** | 82.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Saviour Godwin is a quintessential sprinter, leveraging his blistering acceleration and pace to devastating effect down the flanks, but his one-dimensional approach often leaves him exposed in defensive situations, where his marking and tactical awareness are woefully inadequate. His tendency to focus on beating his man rather than considering the larger team shape can be frustrating, and his technical ability on the ball is not refined enough to consistently beat defenders in tight spaces. As an Extremo, he can be a potent weapon, but his lack of nuance will always limit his overall impact.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger`.
+- Best-fit role is [[winger]] Winger.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Saviour Godwin is a quintessential sprinter, leveraging his blistering accelerat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.2m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ Saviour Godwin is a quintessential sprinter, leveraging his blistering accelerat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Ganso
 category: players
 tags: [AM, Brazil, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: AM at None. Archetype: Dribbler.
+summary: AM at —. Archetype: Dribbler.
 person_id: 2519
-backlinks: [dribbler]
+backlinks: [dribbler, trequartista]
 ---
 
 # Ganso
@@ -17,22 +17,30 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ganso projects primarily as a AM with a `Dribbler` lean. The strongest database support comes from First Touch, Skills, and Pass Accuracy.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Most bankable strengths show up in First Touch, Skills, and Pass Accuracy.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Ganso projects primarily as a AM with a `Dribbler` lean. The strongest database 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,6 +100,6 @@ Ganso projects primarily as a AM with a `Dribbler` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Jude Bellingham
 category: players
 tags: [AM, Real Madrid, England, Engine-Commander]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Real Madrid. Archetype: Engine-Commander.
 person_id: 13152
-backlinks: [engine, real-madrid]
+backlinks: [engine, mediapunta, real-madrid]
 ---
 
 # Jude Bellingham
@@ -21,6 +21,8 @@ backlinks: [engine, real-madrid]
 | **Nation** | England |
 | **Age** | 22 |
 | **Archetype** | [[engine]] Engine-Commander |
+| **Best Role** | [[mediapunta]] Mediapunta |
+| **Role Score** | 89 |
 | **Level** | 89 |
 | **Overall** | 81.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [engine, real-madrid]
 
 Generational talent. Combines physical dynamism with technical excellence and elite mentality. Goals, assists, pressing, defending — does everything. Already a Ballon d'Or contender at 22. England talisman. Not acquirable — Real Madrid long-term project.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Mediapunta` with model support score `89`.
+- Best-fit role is [[mediapunta]] Mediapunta with model support score `89`.
 - Primary archetype leans toward `Engine` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
 - Most bankable strengths show up in Reactions, Anticipation, and Composure.
@@ -67,13 +76,14 @@ Generational talent. Combines physical dynamism with technical excellence and el
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 112m |
+| Mid | EUR 115m |
+| Ceiling | EUR 177m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,22 +117,20 @@ Generational talent. Combines physical dynamism with technical excellence and el
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 16 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 16 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 He calls for the ball on every play.
 He tries to win the ball every play.
 His stamina and mentality is unbelievable.
-
 
 Versatility
 Workrate
@@ -130,8 +138,5 @@ Workrate
 Quiet Leader
 Looks to set a benchmark and hit that benchmark, normally another player that is better than him. 
 I don't really have a way of doing this as an innovator but to be honest there probably is, I have been looking at people like monchi in the past but there are some very good examples in the premier league, two of whom I already work with, Brighton and Brentford.
-
-
-
 
 </details>

@@ -2,12 +2,12 @@
 title: Chukwubuikem Ikwuemesi
 category: players
 tags: [CF, Oud-Heverlee Leuven, Nigeria, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Oud-Heverlee Leuven. Archetype: Striker.
 person_id: 9634
-backlinks: [striker, oud-heverlee-leuven]
+backlinks: [striker, prima-punta, oud-heverlee-leuven]
 ---
 
 # Chukwubuikem Ikwuemesi
@@ -21,18 +21,27 @@ backlinks: [striker, oud-heverlee-leuven]
 | **Nation** | Nigeria |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A physical centre-forward with genuine athleticism and the kind of aerial dominance that wins second balls in the box, but he's operating in a notably slower register than elite strikers at this level. His movement in the box is functional rather than intelligent—he'll win you headers and hold the ball up decently, but he lacks the off-the-ball positioning and timing to consistently find pockets of space in the penalty area. His link-up play is workmanlike; he's not poor on the ball, yet he doesn't carry progressive responsibility or create for teammates in ways that demand opposition shape-shifting. At 24, he has time to develop more nuance, but right now he's a useful squad option at a mid-table Belgian side, not a breakout talent.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `74`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `74`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Acceleration, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ A physical centre-forward with genuine athleticism and the kind of aerial domina
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +99,7 @@ A physical centre-forward with genuine athleticism and the kind of aerial domina
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

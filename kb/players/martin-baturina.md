@@ -2,12 +2,12 @@
 title: Martin Baturina
 category: players
 tags: [AM, Como, Croatia, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Como. Archetype: Creator-Passer.
 person_id: 14633
-backlinks: [creator, como]
+backlinks: [creator, enganche, como]
 ---
 
 # Martin Baturina
@@ -21,18 +21,27 @@ backlinks: [creator, como]
 | **Nation** | Croatia |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 79 |
 | **Level** | 87 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A Croatian attacking midfielder who operates with genuine technical quality and an understanding of when to accelerate play versus when to recycle. He moves into good areas of the pitch and has the passing range to thread balls into forward areas. The limitation is consistency—he goes missing in difficult matches and doesn't impose himself as a leader. He's a secondary creator, not a primary one.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `79`.
+- Best-fit role is [[enganche]] Enganche with model support score `79`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Shielding, Balance, and First Touch.
@@ -63,13 +72,14 @@ A Croatian attacking midfielder who operates with genuine technical quality and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 22.8m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,11 +109,11 @@ A Croatian attacking midfielder who operates with genuine technical quality and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

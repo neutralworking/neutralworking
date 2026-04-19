@@ -2,12 +2,12 @@
 title: Divock Origi
 category: players
 tags: [CF, Nottingham Forest, Belgium, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Nottingham Forest. Archetype: Striker.
 person_id: 10348
-backlinks: [striker, nottingham-forest]
+backlinks: [striker, falso-nove, nottingham-forest]
 ---
 
 # Divock Origi
@@ -19,20 +19,28 @@ backlinks: [striker, nottingham-forest]
 | **Position** | CF |
 | **Club** | Nottingham Forest |
 | **Nation** | Belgium |
-| **Age** | 30 |
+| **Age** | 31 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 84 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A veteran backup forward with a genuine reputation for big moments and an impressive football intelligence, particularly in tight spaces, but he's now a squad rotational option living on reputation rather than current output. He offers experience and the occasional assist or goal in limited minutes, nothing more.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Long Range, and Composure.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A veteran backup forward with a genuine reputation for big moments and an impres
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +105,7 @@ A veteran backup forward with a genuine reputation for big moments and an impres
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

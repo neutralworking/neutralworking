@@ -2,12 +2,12 @@
 title: Joshua Kimmich
 category: players
 tags: [DM, Bayern Munich, Germany, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Bayern Munich. Archetype: Engine-Dribbler.
 person_id: 13091
-backlinks: [engine, bayern-munich]
+backlinks: [engine, regista, bayern-munich]
 ---
 
 # Joshua Kimmich
@@ -21,6 +21,8 @@ backlinks: [engine, bayern-munich]
 | **Nation** | Germany |
 | **Age** | 31 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 89 |
 | **Level** | 88 |
 | **Overall** | 75.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [engine, bayern-munich]
 
 An elite defensive midfielder who combines intelligent positioning, pressing discipline, and the ability to dictate tempo through possession retention. His range of passing—both short and progressively long—is excellent, and he rarely turns the ball over in dangerous areas. At 31, his explosiveness in transition has declined marginally, and he's not the box-to-box athlete he was at 26, but he remains indispensable to Bayern's control.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `89`.
+- Best-fit role is [[regista]] Regista with model support score `89`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in Reactions, Balance, and Crossing.
@@ -67,13 +76,14 @@ An elite defensive midfielder who combines intelligent positioning, pressing dis
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 62.0m |
+| Ceiling | EUR 74.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ An elite defensive midfielder who combines intelligent positioning, pressing dis
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 16 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 16 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

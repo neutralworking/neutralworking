@@ -2,12 +2,12 @@
 title: Moussa N'Diaye
 category: players
 tags: [CD, Anderlecht, Senegal, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Anderlecht. Archetype: Powerhouse.
 person_id: 15409
-backlinks: [powerhouse, anderlecht]
+backlinks: [powerhouse, colossus, anderlecht]
 ---
 
 # Moussa N'Diaye
@@ -21,18 +21,27 @@ backlinks: [powerhouse, anderlecht]
 | **Nation** | Senegal |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Moussa N'Diaye is a powerful Traditional CB with impressive balance, pace, and acceleration, allowing him to keep up with opposition forwards and make interceptions. Nevertheless, his creativity, volleys, and blocking ability are weaknesses that need to be addressed to become a more well-rounded defender.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `72`.
+- Best-fit role is [[colossus]] Colossus with model support score `72`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Balance, Pace, and Acceleration.
@@ -66,13 +75,14 @@ Moussa N'Diaye is a powerful Traditional CB with impressive balance, pace, and a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Moussa N'Diaye is a powerful Traditional CB with impressive balance, pace, and a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

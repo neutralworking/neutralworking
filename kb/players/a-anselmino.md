@@ -2,12 +2,12 @@
 title: A. Anselmino
 category: players
 tags: [CM, Borussia Dortmund, Cover-Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Borussia Dortmund. Archetype: Cover-Striker.
 person_id: 21533
-backlinks: [cover, borussia-dortmund]
+backlinks: [cover, ball-winner, borussia-dortmund]
 ---
 
 # A. Anselmino
@@ -18,21 +18,29 @@ backlinks: [cover, borussia-dortmund]
 |---|---|
 | **Position** | CM |
 | **Club** | Borussia Dortmund |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Striker |
-| **Level** | None |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | — |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Anselmino is a developing Tuttocampista, displaying a moderate physical and mental foundation, particularly in composure and awareness, allowing him to excel in close-range passing and interceptions with solid accuracy. His limited technical and tactical pillars, however, are evident in weaknesses such as long-range passing, vision, and creative output. This industrious midfielder fits a traditional, workhorse role in the center, contributing to breaking up play and secure possession in tight areas, thriving in systems that do not demand extensive creative burden. As a potentially low-cost acquisition, he could offer depth as a pragmatic, defensively-minded role player, with limited upside for transforming into a primary orchestrator.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Communication, Concentration, and Leadership.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -65,10 +73,11 @@ Anselmino is a developing Tuttocampista, displaying a moderate physical and ment
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +96,6 @@ Anselmino is a developing Tuttocampista, displaying a moderate physical and ment
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Vedat Muriqi
 category: players
 tags: [CF, Mallorca, Kosovo, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Mallorca. Archetype: Striker.
 person_id: 18319
-backlinks: [striker, mallorca]
+backlinks: [striker, shadow-striker, mallorca]
 ---
 
 # Vedat Muriqi
@@ -21,18 +21,27 @@ backlinks: [striker, mallorca]
 | **Nation** | Kosovo |
 | **Age** | 31 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 72 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A Kosovan striker of 31 who operates as a traditional number nine—physical, willing to hold the ball, and a threat in the air against conventional defences. He's useful for a team that wants to play to his strengths, but he's not a technical innovator, and he doesn't press with enough intensity to harass modern defensive systems. Against a backline of seven defensive shapes, he'll struggle; against a tired four-man defence late in a game, he'll cause problems.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `72`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `72`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Physical, First Touch, and Heading.
@@ -67,13 +76,14 @@ A Kosovan striker of 31 who operates as a traditional number nine—physical, wi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.4m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 5.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ A Kosovan striker of 31 who operates as a traditional number nine—physical, wi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

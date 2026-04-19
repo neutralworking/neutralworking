@@ -2,12 +2,12 @@
 title: Víctor Chust
 category: players
 tags: [CD, Elche, Spain, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Elche. Archetype: Destroyer.
 person_id: 18336
-backlinks: [destroyer, elche]
+backlinks: [destroyer, stopper, elche]
 ---
 
 # Víctor Chust
@@ -21,18 +21,27 @@ backlinks: [destroyer, elche]
 | **Nation** | Spain |
 | **Age** | 26 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 75 |
 | **Level** | 81 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Centre-back with reasonable physical tools and positional awareness, capable of functioning in a back four, but he's slow laterally and struggles against direct, mobile strikers. His passing range is limited—he's a defender who defends first and rarely progresses play meaningfully—and he lacks the composure and ball-carrying ability required for a modern La Liga central defender. Squad option rather than starter material.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `75`.
+- Best-fit role is [[stopper]] Stopper with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
@@ -63,13 +72,14 @@ Centre-back with reasonable physical tools and positional awareness, capable of 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Centre-back with reasonable physical tools and positional awareness, capable of 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

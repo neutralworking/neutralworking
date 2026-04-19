@@ -2,12 +2,12 @@
 title: Rúben Dias
 category: players
 tags: [CD, Manchester City, Portugal, Engine-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Manchester City. Archetype: Engine-Powerhouse.
 person_id: 20180
-backlinks: [engine, manchester-city]
+backlinks: [engine, sweeper, manchester-city]
 ---
 
 # Rúben Dias
@@ -21,6 +21,8 @@ backlinks: [engine, manchester-city]
 | **Nation** | Portugal |
 | **Age** | 28 |
 | **Archetype** | [[engine]] Engine-Powerhouse |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 84 |
 | **Level** | 88 |
 | **Overall** | 71.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [engine, manchester-city]
 
 A centre-back of excellent defensive discipline and positional intelligence, capable of reading strikers' movements with impressive anticipation and winning duels through positioning rather than aggression. His leadership is evident and his ability on the ball is secure. The caveat: he's no longer the dominating physical force he was in his peak years, and occasionally against the most explosive attackers, he can be isolated.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `84`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `84`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Physical, Reactions, and Anticipation.
@@ -67,13 +76,14 @@ A centre-back of excellent defensive discipline and positional intelligence, cap
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 57.0m |
+| Mid | EUR 73.0m |
+| Ceiling | EUR 87.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A centre-back of excellent defensive discipline and positional intelligence, cap
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

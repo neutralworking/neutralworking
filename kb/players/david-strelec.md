@@ -2,12 +2,12 @@
 title: David Strelec
 category: players
 tags: [CF, Middlesbrough, Slovakia, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Middlesbrough. Archetype: Striker.
 person_id: 10122
-backlinks: [striker, middlesbrough]
+backlinks: [striker, prima-punta, middlesbrough]
 ---
 
 # David Strelec
@@ -21,18 +21,27 @@ backlinks: [striker, middlesbrough]
 | **Nation** | Slovakia |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A poacher with legitimate technical range and aerial dominance, yet whose mental limitations and modest physical endurance raise serious questions about consistency and resilience under sustained pressure. His tactical intelligence—particularly his take-on and close-range finishing—marks him as a sharp finisher comfortable in the box, but his vision and carrying ability are poor, meaning he cannot function as a complete forward demanding service from deep. At 24 and in his peak, Strelec has a defined window to convert his technical gifts into goals at a higher level; Middlesbrough's investment suggests faith in his poaching prowess, but the absence of durability and mental robustness means he's best deployed as a focal point given clear service rather than expected to carry creative burden. Clubs seeking an efficient penalty-box operator with aerial threat will find value; those needing a complete forward or selfless team contributor should consider alternatives.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `75`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `75`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Aerial Duels, Close Range, and Discipline.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +71,14 @@ A poacher with legitimate technical range and aerial dominance, yet whose mental
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.0m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A poacher with legitimate technical range and aerial dominance, yet whose mental
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

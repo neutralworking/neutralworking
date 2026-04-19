@@ -2,12 +2,12 @@
 title: Sven Mijnans
 category: players
 tags: [CM, AZ, Netherlands, Cover-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at AZ. Archetype: Cover-Creator.
 person_id: 17725
-backlinks: [cover, az]
+backlinks: [cover, playmaker, az]
 ---
 
 # Sven Mijnans
@@ -21,18 +21,27 @@ backlinks: [cover, az]
 | **Nation** | Netherlands |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A box-to-box midfielder with a real engine and an appetite for the pressing trigger, Mijnans covers ground effectively and isn't afraid to turn games scrappy when needed. His passing range is functional rather than creative—he'll find the safe option consistently but rarely springs the kind of weighted through ball that changes shape. At 26, he's a useful depth piece at a mid-table Eredivisie side, but there's nothing here that screams progression; he is what he is, a tidy ball-winner who'll never be the creative heartbeat of anything.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `79`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `79`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -63,13 +72,14 @@ A box-to-box midfielder with a real engine and an appetite for the pressing trig
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 13.3m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A box-to-box midfielder with a real engine and an appetite for the pressing trig
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

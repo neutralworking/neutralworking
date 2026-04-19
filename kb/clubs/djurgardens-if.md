@@ -1,18 +1,32 @@
 ---
 title: Djurgårdens IF
 category: clubs
-tags: [None, Sweden]
-updated: 2026-04-14
+tags: [Sweden]
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Djurgårdens IF. 23 players in database.
+summary: Djurgårdens IF. 24 players in database.
 ---
 
 # Djurgårdens IF
 
-**League**: None  
+**League**: —  
 **Nation**: Sweden  
-**Players in DB**: 23
+**Players in DB**: 24
+
+## Identity
+
+- Database coverage is deepest in CM (8), WM (4), and WF (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (6), Powerhouse (4), and Creator (4) across the current squad.
+- Average available overall grade sits at 64.1, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -32,7 +46,7 @@ summary: Djurgårdens IF. 23 players in database.
 | [[m-tenho]] M. Tenho | CM | Destroyer-Powerhouse | 64.0 |
 | [[h-finndell]] H. Finndell | DM | Powerhouse-Dribbler | 41.0 |
 | [[r-schuller]] R. Schüller | DM | Powerhouse-Cover | 69.0 |
-| [[f-manojlovic]] F. Manojlović | GK | GK | None |
+| [[f-manojlovic]] F. Manojlović | GK | GK | — |
 | [[jacob-rinne]] Jacob Rinne | GK | GK | 72.0 |
 | [[m-anderson]] M. Anderson | WF | Creator-Striker | 66.0 |
 | [[nino-zugelj]] Nino Žugelj | WF | Striker-Creator | 76.0 |
@@ -41,3 +55,4 @@ summary: Djurgårdens IF. 23 players in database.
 | [[o-fallenius]] O. Fallenius | WM | Creator-Sprinter | 65.0 |
 | [[s-haarala]] S. Haarala | WM | Creator-Striker | 64.0 |
 | [[v-bergh]] V. Bergh | WM | Creator-Sprinter | 36.0 |
+| Abdallah El Saeed | — | — | — |

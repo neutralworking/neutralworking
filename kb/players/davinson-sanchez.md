@@ -2,12 +2,12 @@
 title: Davinson Sánchez
 category: players
 tags: [CD, Galatasaray, Colombia, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Galatasaray. Archetype: Destroyer-Dribbler.
 person_id: 10143
-backlinks: [destroyer, galatasaray]
+backlinks: [destroyer, colossus, galatasaray]
 ---
 
 # Davinson Sánchez
@@ -21,18 +21,27 @@ backlinks: [destroyer, galatasaray]
 | **Nation** | Colombia |
 | **Age** | 29 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A 29-year-old Colombian centre-back with athletic advantages—jumping, pace, aggression—but inconsistent dueling and blocking technique that undermine positional reliability; his press resistance and physical traits hint at zagueiro potential in South American tactical frameworks, yet disciplinary pattern and blocking gaps expose him in high-press systems. His moderate mental resilience and technical floor restrict him to athletic, reactive defending roles rather than progressive buildup. Suits clubs needing pace-based cover in transition-heavy football, but his durability may be offset by consistency gaps in sustained possession phases.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `81`.
+- Best-fit role is [[colossus]] Colossus with model support score `81`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Pace, and Heading.
@@ -67,13 +76,14 @@ A 29-year-old Colombian centre-back with athletic advantages—jumping, pace, ag
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A 29-year-old Colombian centre-back with athletic advantages—jumping, pace, ag
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

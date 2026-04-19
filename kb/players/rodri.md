@@ -2,12 +2,12 @@
 title: Rodri
 category: players
 tags: [DM, Manchester City, Spain, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Manchester City. Archetype: Cover-Passer.
 person_id: 6231
-backlinks: [cover, manchester-city]
+backlinks: [cover, pivote, manchester-city]
 ---
 
 # Rodri
@@ -21,6 +21,8 @@ backlinks: [cover, manchester-city]
 | **Nation** | Spain |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[pivote]] Pivote |
+| **Role Score** | 89 |
 | **Level** | 88 |
 | **Overall** | 79.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [cover, manchester-city]
 
 The best defensive midfielder in world football, a player whose positional reading is so advanced that he seems to know where danger will emanate before it materialises, capable of intercepting passes while appearing to stand still. His ball progression is also elite; he finds forwards and wingers in transition with stunning accuracy. The only genuine limitation is that his athleticism is more about intelligence and timing than explosive physicality, which means against the most direct, fast-paced teams, he occasionally looks less dominant.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Pivote` with model support score `89`.
+- Best-fit role is [[pivote]] Pivote with model support score `89`.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Anticipation, Composure, and Decisions.
@@ -67,13 +76,14 @@ The best defensive midfielder in world football, a player whose positional readi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 90.0m |
+| Mid | EUR 67.0m |
+| Ceiling | EUR 92.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ The best defensive midfielder in world football, a player whose positional readi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

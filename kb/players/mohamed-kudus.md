@@ -2,10 +2,10 @@
 title: Mohamed Kudus
 category: players
 tags: [WF, West Ham United, Ghana]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at West Ham United. Archetype: None.
+summary: WF at West Ham United. Archetype: —.
 person_id: 15297
 backlinks: [west-ham-united]
 ---
@@ -19,16 +19,23 @@ backlinks: [west-ham-united]
 | **Position** | WF |
 | **Club** | West Ham United |
 | **Nation** | Ghana |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 84 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Dynamic, two-footed winger with electric dribbling ability and press resistance in tight spaces. Excellent at creating half-chances for teammates through intelligent movement, but inconsistent finishing and occasional decision-making lapses prevent him from being truly elite—needs to add end-product consistency to justify a world-class tag.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ Dynamic, two-footed winger with electric dribbling ability and press resistance 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 37.4m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ Dynamic, two-footed winger with electric dribbling ability and press resistance 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

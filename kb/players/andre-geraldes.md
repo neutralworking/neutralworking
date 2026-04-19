@@ -2,12 +2,12 @@
 title: André Geraldes
 category: players
 tags: [CD, Casa Pia AC, Portugal, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Casa Pia AC. Archetype: Sprinter.
 person_id: 8420
-backlinks: [sprinter, casa-pia-ac]
+backlinks: [sprinter, sweeper, casa-pia-ac]
 ---
 
 # André Geraldes
@@ -21,18 +21,27 @@ backlinks: [sprinter, casa-pia-ac]
 | **Nation** | Portugal |
 | **Age** | 34 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Veteran centre-back whose legs have clearly gone; positioning and experience still matter, but he's relying on reading the game now rather than physical recovery. Can pass out safely but offers nothing in pressing or one-on-one scenarios. The sort of squad player who stabilizes a backline through familiarity rather than performance.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `71`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `71`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Pace, and Acceleration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Veteran centre-back whose legs have clearly gone; positioning and experience sti
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 0.2m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Veteran centre-back whose legs have clearly gone; positioning and experience sti
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

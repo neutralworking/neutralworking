@@ -2,12 +2,12 @@
 title: Amadou Onana
 category: players
 tags: [DM, Aston Villa, Belgium, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Aston Villa. Archetype: Engine-Dribbler.
 person_id: 8326
-backlinks: [engine, aston-villa]
+backlinks: [engine, anchor, aston-villa]
 ---
 
 # Amadou Onana
@@ -21,6 +21,8 @@ backlinks: [engine, aston-villa]
 | **Nation** | Belgium |
 | **Age** | 24 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 75.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [engine, aston-villa]
 
 A genuinely commanding deep midfielder who has settled into the Premier League with the kind of physical authority that makes you sit up. Onana is a ball-winner first—aggressive in the press, brutally effective in transition—but what elevates him is his ability to carry the ball forward through the middle third and link play without fuss. The weakness is tactical: he can be naive positionally when asked to read the game without a foil, and against sides that run at him with coordinated movement he occasionally looks exposed.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `78`.
+- Best-fit role is [[anchor]] Anchor with model support score `78`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in Jumping, Marking, and Pace.
@@ -67,13 +76,14 @@ A genuinely commanding deep midfielder who has settled into the Premier League w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.2m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,11 +113,11 @@ A genuinely commanding deep midfielder who has settled into the Premier League w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

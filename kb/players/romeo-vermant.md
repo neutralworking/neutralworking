@@ -2,12 +2,12 @@
 title: Romeo Vermant
 category: players
 tags: [CF, Club Brugge, Belgium, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Club Brugge. Archetype: Sprinter.
 person_id: 16818
-backlinks: [sprinter, club-brugge]
+backlinks: [sprinter, shadow-striker, club-brugge]
 ---
 
 # Romeo Vermant
@@ -21,18 +21,27 @@ backlinks: [sprinter, club-brugge]
 | **Nation** | Belgium |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Vermant is a powerful Marksman with the physical attributes of a Runner, making him an ideal Complete Forward candidate at 22. His explosive pace, acceleration, and aerial ability are standout strengths, aligning with historical systems that prioritize verticality and exploiting space behind defenses in counter-attacking schemes. As a newcomer, he represents a high-upside investment for clubs looking for a robust, direct presence upfront who can stretch defenses and finish from distance, despite some struggles with general awareness and defensive contributions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `78`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Jumping, and Shielding.
@@ -63,13 +72,14 @@ Vermant is a powerful Marksman with the physical attributes of a Runner, making 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 10.4m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Vermant is a powerful Marksman with the physical attributes of a Runner, making 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

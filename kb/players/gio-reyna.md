@@ -2,12 +2,12 @@
 title: Gio Reyna
 category: players
 tags: [AM, Borussia Mönchengladbach, United States, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Borussia Mönchengladbach. Archetype: Creator.
 person_id: 11417
-backlinks: [creator, borussia-monchengladbach]
+backlinks: [creator, enganche, borussia-monchengladbach]
 ---
 
 # Gio Reyna
@@ -19,20 +19,29 @@ backlinks: [creator, borussia-monchengladbach]
 | **Position** | AM |
 | **Club** | Borussia Mönchengladbach |
 | **Nation** | United States |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 74 |
 | **Level** | 75 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 American playmaker whose career has stalled through injuries. Technical quality is obvious but availability and confidence are concerns.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `74`.
+- Best-fit role is [[enganche]] Enganche with model support score `74`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Balance, Long Range, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ American playmaker whose career has stalled through injuries. Technical quality 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ American playmaker whose career has stalled through injuries. Technical quality 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

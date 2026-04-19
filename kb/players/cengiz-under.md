@@ -2,12 +2,12 @@
 title: Cengiz Ünder
 category: players
 tags: [WF, LAFC, Turkey, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at LAFC. Archetype: Creator.
 person_id: 9464
-backlinks: [creator, lafc]
+backlinks: [creator, wide-playmaker, lafc]
 ---
 
 # Cengiz Ünder
@@ -21,18 +21,26 @@ backlinks: [creator, lafc]
 | **Nation** | Turkey |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 78 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Cengiz Ünder projects primarily as a WF with a `Creator` lean. The strongest database support comes from Balance, Crossing, and First Touch.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Balance, Crossing, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ Cengiz Ünder projects primarily as a WF with a `Creator` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,6 +109,6 @@ Cengiz Ünder projects primarily as a WF with a `Creator` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

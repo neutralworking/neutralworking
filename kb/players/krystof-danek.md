@@ -2,12 +2,12 @@
 title: Kryštof Daněk
 category: players
 tags: [CM, LASK Linz, Czechia, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at LASK Linz. Archetype: Dribbler-Sprinter.
 person_id: 13651
-backlinks: [dribbler, lask-linz]
+backlinks: [dribbler, playmaker, lask-linz]
 ---
 
 # Kryštof Daněk
@@ -21,18 +21,27 @@ backlinks: [dribbler, lask-linz]
 | **Nation** | Czechia |
 | **Age** | 23 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 72 |
 | **Level** | 73 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kryštof Daněk is an artisan who excels at beating opponents with his quick feet and agility, but his limited defensive abilities and lack of heading and blocking skills make him a more attacking-minded midfielder. His best role is as a mezzala, where he can use his balance and acceleration to beat opponents and create scoring opportunities. Daněk's playing style is suited to a system that emphasizes attacking flair and creativity, where his technical ability and vision can be leveraged to create chances for his teammates. However, his lack of defensive awareness and physicality may make it difficult for him to play in a more defensive-minded system.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `72`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `72`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Acceleration, and Crossing.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Kryštof Daněk is an artisan who excels at beating opponents with his quick fee
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Kryštof Daněk is an artisan who excels at beating opponents with his quick fee
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

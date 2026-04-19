@@ -2,12 +2,12 @@
 title: Fiete Arp
 category: players
 tags: [WF, Odense BK, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Odense BK. Archetype: Sprinter.
 person_id: 18967
-backlinks: [sprinter, odense-bk]
+backlinks: [sprinter, wide-playmaker, odense-bk]
 ---
 
 # Fiete Arp
@@ -18,16 +18,17 @@ backlinks: [sprinter, odense-bk]
 |---|---|
 | **Position** | WF |
 | **Club** | Odense BK |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 CountryGermany
 
@@ -36,12 +37,6 @@ ClubHamburg
 PositionStriker
 
 Born06 January 2000
-
-
-
-
-
-
 
 ****
 
@@ -57,10 +52,16 @@ Arp is perhaps the hottest prospect in German football and received the golden F
  
 **September 2022 update** Has joined Holsten Kiel on a permanent deal after his contract with Bayern was terminated. “I felt incredibly comfortable here. That’s why it wasn’t a difficult decision for me to continue on KSV’s path,” he said.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `70`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `70`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and Balance.
@@ -95,13 +96,14 @@ Arp is perhaps the hottest prospect in German football and received the golden F
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -128,17 +130,16 @@ Arp is perhaps the hottest prospect in German football and received the golden F
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryGermany
 
@@ -147,12 +148,6 @@ ClubHamburg
 PositionStriker
 
 Born06 January 2000
-
-
-
-
-
-
 
 ****
 
@@ -164,6 +159,6 @@ Arp is perhaps the hottest prospect in German football and received the golden F
  
 **October 2020 update** A season to forget for the youngster as injuries restricted him to 12 appearances for the reserves in the 3. Liga. Appears nowhere nearer the first-team picture at the time of writing.
  
-**October 2021 update** Made his debut for Bayern in the cup but spent the rest of the season with the reserves. Has now been sent on loan to Holsten Kiel in the second division, where he is playing regularly. “All the praise I got early in my career probably didn’t help me. Do I still think I have a career at Bayern? Yes, but ...
+**October 2021 update** Made his debut for Bayern in the cup but spent the rest of the season with the reserves. Has now been sent on loan to Holsten Kiel in the second division, where he is playing regularly. “All the praise I got early in my career probably didn’t help me. Do I still think I have a career at Bayern? Yes, but it is a...
 
 </details>

@@ -2,12 +2,12 @@
 title: Lamine Camara
 category: players
 tags: [CM, Monaco, Senegal, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Monaco. Archetype: Creator-Passer.
 person_id: 13703
-backlinks: [creator, monaco]
+backlinks: [creator, playmaker, monaco]
 ---
 
 # Lamine Camara
@@ -21,18 +21,27 @@ backlinks: [creator, monaco]
 | **Nation** | Senegal |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 77 |
 | **Level** | 87 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Midfielder with excellent press resistance and the ability to carry the ball into the final third with progressive runs, comfortable operating as a number eight or six depending on the system. He can be caught too high positionally when the team loses the ball, exposing the defence, and his passing range is functional rather than expansive. A modern, mobile midfielder with good efficiency.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `77`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Progressive Carrier.
 - Most bankable strengths show up in Acceleration, Shielding, and First Touch.
@@ -67,13 +76,14 @@ Midfielder with excellent press resistance and the ability to carry the ball int
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Midfielder with excellent press resistance and the ability to carry the ball int
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

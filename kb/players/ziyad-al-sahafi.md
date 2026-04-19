@@ -2,10 +2,10 @@
 title: Ziyad Al-Sahafi
 category: players
 tags: [CD, Al Ittihad, Saudi Arabia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Al Ittihad. Archetype: None.
+summary: CD at Al Ittihad. Archetype: —.
 person_id: 18793
 backlinks: [al-ittihad]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-ittihad]
 | **Club** | Al Ittihad |
 | **Nation** | Saudi Arabia |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 76 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fullback whose crossing offers genuine threat at domestic level, where he can find teammates in the box with consistent accuracy. Defensively he's reasonable without being imposing; he understands his responsibilities but lacks the pace to truly threaten in transition. At 31 and established in the Saudi league, he's a reliable squad contributor; progression to Europe isn't remotely credible.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A fullback whose crossing offers genuine threat at domestic level, where he can 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A fullback whose crossing offers genuine threat at domestic level, where he can 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

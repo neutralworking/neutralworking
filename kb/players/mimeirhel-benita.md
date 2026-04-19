@@ -2,12 +2,12 @@
 title: Mimeirhel Benita
 category: players
 tags: [CD, Heracles, Netherlands, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Heracles. Archetype: Sprinter.
 person_id: 15243
-backlinks: [sprinter, heracles]
+backlinks: [sprinter, stopper, heracles]
 ---
 
 # Mimeirhel Benita
@@ -21,18 +21,27 @@ backlinks: [sprinter, heracles]
 | **Nation** | Netherlands |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Mimeirhel Benita projects primarily as a CD with a `Sprinter` lean. The strongest database support comes from Balance, Long Range, and Pace.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `72`.
+- Best-fit role is [[stopper]] Stopper with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Balance, Long Range, and Pace.
@@ -63,13 +72,14 @@ Mimeirhel Benita projects primarily as a CD with a `Sprinter` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +105,6 @@ Mimeirhel Benita projects primarily as a CD with a `Sprinter` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

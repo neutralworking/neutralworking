@@ -2,10 +2,10 @@
 title: Joe Jordan
 category: players
 tags: [CF, Scotland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 12722
 ---
 
@@ -16,18 +16,25 @@ person_id: 12722
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Scotland |
 | **Age** | 74 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF					SCO	C	0.0	As one of the nominees for a public vote organised in April 2010 by STV to name 'Scotland's Greatest Team', "Jordan was described as an ""uncompromising", "old fashioned centre forward who was never afraid to put his head where it hurts for club and country""", "adding that during the 1970s and 1980s ""there were few more fearsome sights in world football"" than Jordan. In a 2007 list compiled by The Times Jordan was ranked as the 34th hardest man in the history of the game", "with the citation ""There have been few more fearsome sights in the European game than 'Jaws' Jordan without his front teeth.""[25] David O'Leary", "The Independent described in 2011 how Jordan was a player who ""did not stand for nonsense on the pitch"".[3] According to The Herald writing in 2010", alongside his strong play, which due to the way the game was played at that time was almost a necessity if forwards wanted to succeed, Jordan also had a refinement to his game.		A former striker, he played for Leeds United, Manchester United, and Milan, among others at club level, as well making 52 appearances and scoring 11 goals for Scotland. As a player he gained a fearsome 'Jaws' persona due to having lost two front teeth early in his career. The persona aside, he became known as a strong, fearless and committed player, with skill to match, and good aerial abilities. He was part of the successful Leeds United team of the 1970s, winning the 1973–74 Football League First Division title. Cup success was elusive however, being a losing finalist with Leeds in the 1973 European Cup Winners' Cup Final and 1975 European Cup Final, and the 1979 FA Cup Final with Manchester United. At international level he is the only Scottish player to score in three World Cups, in 1974, 1978 and 1982. For his efforts for club and country as a player, he was inducted into the Scottish Football Hall of Fame in 2005. He is considered a legend among the Tartan Army of Scotland fans, being best remembered for scoring the crucial goal against Czechoslovakia in 1973 which ensured Scotland qualified for their first World Cup finals in 16 years.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -40,10 +47,11 @@ CF					SCO	C	0.0	As one of the nominees for a public vote organised in April 201
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,8 +62,8 @@ CF					SCO	C	0.0	As one of the nominees for a public vote organised in April 201
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

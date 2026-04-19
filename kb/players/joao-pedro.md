@@ -1,96 +1,106 @@
 ---
-title: Joao Pedro
+title: João Pedro
 category: players
-tags: [CF, Chelsea, Brazil, Creator-Destroyer]
-updated: 2026-04-17
+tags: [CM, Al Taawoun, Brazil, Target-Striker]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Chelsea. Archetype: Creator-Destroyer.
-person_id: 12686
-backlinks: [creator, chelsea]
+summary: CM at Al Taawoun. Archetype: Target-Striker.
+person_id: 12688
+backlinks: [target, al-taawoun]
 ---
 
-# Joao Pedro
+# João Pedro
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | Chelsea |
+| **Position** | CM |
+| **Club** | Al Taawoun |
 | **Nation** | Brazil |
-| **Age** | 24 |
-| **Archetype** | [[creator]] Creator-Destroyer |
-| **Level** | 88 |
-| **Overall** | 67.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 4 |
+| **Age** | 26 |
+| **Archetype** | [[target]] Target-Striker |
+| **Level** | 80 |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-A centre-forward with genuine technical ability and an emerging understanding of how to operate within Brighton's system, capable of both finishing and creating through clever movement. His touch is excellent, and he's shown genuine growth in his reading of defensive positioning. The question mark remains his consistency and whether he can truly be the focal point of an elite attack—he still has moments where he becomes a spectator in matches.
+A Brazilian forward with decent movement in the box and a willingness to link play, though his technical finishing is unreliable under pressure and he can go missing in games where service isn't direct. He's a squad-level striker in a competitive league.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Spearhead` with model support score `89`.
-- Primary archetype leans toward `Creator` behaviour from a `CF` base.
-- Most bankable strengths show up in Intensity, Pressing, and Stamina.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+- Primary archetype leans toward `Target` behaviour from a `CM` base.
+- Most bankable strengths show up in Jumping, Physical, and Aggression.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
 ## In Possession
 
-- Ball-value indicators lean on Intensity, Pressing, and Stamina.
-- Style traits point toward Two Footed, Pace, and Passing Ability in possession.
+- Ball-value indicators lean on Jumping, Physical, and Aggression.
+- Style traits point toward Long Range Shooting in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Scouting Indicators
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Intensity | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Pressing | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Versatility | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Blocking | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Clearances | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Physical | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aggression | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
+- Coachability score is low enough to raise integration risk in demanding environments.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 42
-- **Social (TF)**: 64
-- **Pressure (JP)**: 55
+- **Game Reading (EI)**: 37
+- **Motivation (SN)**: 53
+- **Social (TF)**: 61
+- **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
-- **Coachability**: 4/10
+- **Coachability**: 3/10
 
 ## Trait Ledger
 
-- **Two Footed** (style) — severity 7/10
-- **Pace** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

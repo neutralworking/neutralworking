@@ -2,12 +2,12 @@
 title: Raphaël Adelino José Guerreiro
 category: players
 tags: [WD, Bayern Munich, France, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Bayern Munich. Archetype: Cover-Dribbler.
 person_id: 19633
-backlinks: [cover, bayern-munich]
+backlinks: [cover, fullback, bayern-munich]
 ---
 
 # Raphaël Adelino José Guerreiro
@@ -21,18 +21,27 @@ backlinks: [cover, bayern-munich]
 | **Nation** | France |
 | **Age** | 32 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[fullback]] Fullback |
+| **Role Score** | 67 |
 | **Level** | 82 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Portuguese left-back with midfielder's feet. Creative, intelligent, delivers quality balls. Defensive discipline questionable.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Fullback` with model support score `67`.
+- Best-fit role is [[fullback]] Fullback with model support score `67`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Balance, First Touch, and Reactions.
@@ -63,13 +72,14 @@ Portuguese left-back with midfielder's feet. Creative, intelligent, delivers qua
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Portuguese left-back with midfielder's feet. Creative, intelligent, delivers qua
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: M. Fernandez-Pardo
 category: players
 tags: [WF, Lille, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Lille. Archetype: Creator-Sprinter.
 person_id: 20714
-backlinks: [creator, lille]
+backlinks: [creator, wide-playmaker, lille]
 ---
 
 # M. Fernandez-Pardo
@@ -18,21 +18,30 @@ backlinks: [creator, lille]
 |---|---|
 | **Position** | WF |
 | **Club** | Lille |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 71 |
 | **Level** | 75 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 M. Fernandez-Pardo is a Virtuoso Inverted Winger, best deployed as an Inventor, whose strong technical pillar and impressive physical attributes like acceleration and pace allow him to create danger through individual brilliance. His flamboyant style and accurate passing fit the mould of a wide player who drifts centrally to influence play, harkening back to creative wingers who prioritize attacking flair over defensive duties. Despite his attacking prowess and penalty expertise, his limited tactical understanding, poor marking, and struggles with discipline pose significant squad integration challenges for any manager seeking a defensively balanced wide option.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `71`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `71`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ M. Fernandez-Pardo is a Virtuoso Inverted Winger, best deployed as an Inventor, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ M. Fernandez-Pardo is a Virtuoso Inverted Winger, best deployed as an Inventor, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Alejandro Rego
 category: players
 tags: [DM, Athletic Bilbao, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Athletic Bilbao. Archetype: Striker-Destroyer.
 person_id: 20857
-backlinks: [striker, athletic-bilbao]
+backlinks: [striker, anchor, athletic-bilbao]
 ---
 
 # Alejandro Rego
@@ -18,21 +18,30 @@ backlinks: [striker, athletic-bilbao]
 |---|---|
 | **Position** | DM |
 | **Club** | Athletic Bilbao |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Alejandro Rego projects primarily as a DM with a `Striker-Destroyer` lean. The strongest database support comes from Aggression, Awareness, and Close Range.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `71`.
+- Best-fit role is [[anchor]] Anchor with model support score `71`.
 - Primary archetype leans toward `Striker` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Awareness, and Close Range.
@@ -62,13 +71,14 @@ Alejandro Rego projects primarily as a DM with a `Striker-Destroyer` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ Alejandro Rego projects primarily as a DM with a `Striker-Destroyer` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

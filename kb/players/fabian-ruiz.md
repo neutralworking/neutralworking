@@ -2,12 +2,12 @@
 title: Fabian Ruiz
 category: players
 tags: [CM, Paris Saint-Germain, Spain, Dribbler-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Paris Saint-Germain. Archetype: Dribbler-Destroyer.
 person_id: 10867
-backlinks: [dribbler, paris-saint-germain]
+backlinks: [dribbler, metodista, paris-saint-germain]
 ---
 
 # Fabian Ruiz
@@ -21,18 +21,27 @@ backlinks: [dribbler, paris-saint-germain]
 | **Nation** | Spain |
 | **Age** | 30 |
 | **Archetype** | [[dribbler]] Dribbler-Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 78 |
 | **Level** | 89 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Spanish midfielder with elegant left foot. Controls tempo, switches play, arrives in the box. Euro 2024 standout.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `78`.
+- Best-fit role is [[metodista]] Metodista with model support score `78`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Awareness, Composure, and Pass Accuracy.
@@ -67,13 +76,14 @@ Spanish midfielder with elegant left foot. Controls tempo, switches play, arrive
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 68.0m |
+| Ceiling | EUR 81.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Spanish midfielder with elegant left foot. Controls tempo, switches play, arrive
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

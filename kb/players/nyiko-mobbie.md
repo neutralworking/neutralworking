@@ -2,12 +2,12 @@
 title: Nyiko Mobbie
 category: players
 tags: [CD, Siwelele FC, South Africa]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Siwelele FC. Archetype: None.
+summary: CD at Siwelele FC. Archetype: —.
 person_id: 28609
-backlinks: [siwelele-fc]
+backlinks: [centrale, siwelele-fc]
 ---
 
 # Nyiko Mobbie
@@ -20,19 +20,27 @@ backlinks: [siwelele-fc]
 | **Club** | Siwelele FC |
 | **Nation** | South Africa |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[centrale]] Centrale |
+| **Level** | — |
 | **Overall** | 14.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Nyiko Mobbie projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Communication, and Concentration.
+Nyiko Mobbie projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Communication, and Concentration.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Most bankable strengths show up in Skills, Communication, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -66,8 +74,9 @@ Nyiko Mobbie projects primarily as a CD with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +87,4 @@ Nyiko Mobbie projects primarily as a CD with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |

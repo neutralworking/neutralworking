@@ -2,10 +2,10 @@
 title: Oleksandr Kucher
 category: players
 tags: [CD, Ukraine]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 15867
 ---
 
@@ -16,14 +16,25 @@ person_id: 15867
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Ukraine |
 | **Age** | 43 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
+
+## Snapshot
+
+Oleksandr Kucher is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -37,16 +48,23 @@ person_id: 15867
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.1m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

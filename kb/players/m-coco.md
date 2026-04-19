@@ -2,12 +2,12 @@
 title: M. Coco
 category: players
 tags: [DM, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: DM at None. Archetype: Destroyer.
+summary: DM at —. Archetype: Destroyer.
 person_id: 26531
-backlinks: [destroyer]
+backlinks: [destroyer, anchor]
 ---
 
 # M. Coco
@@ -17,22 +17,31 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Coco's strengths in awareness, interceptions, and tackling make him a solid fit for an Anchor role, where he can utilize his physicality to break up opposition attacks. However, his limited technical and tactical abilities may hinder his ability to distribute the ball effectively, and his weaknesses in take-ons and creativity may make him less effective in one-on-one situations. A team that values defensive solidity and has a strong defensive unit could benefit from Coco's skills, but may need to adapt their system to accommodate his limitations.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `73`.
+- Best-fit role is [[anchor]] Anchor with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Blocking, and Interceptions.
@@ -62,13 +71,14 @@ Coco's strengths in awareness, interceptions, and tackling make him a solid fit 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ Coco's strengths in awareness, interceptions, and tackling make him a solid fit 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

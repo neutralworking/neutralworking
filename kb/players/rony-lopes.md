@@ -2,12 +2,12 @@
 title: Rony Lopes
 category: players
 tags: [WF, Tondela, Portugal, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Tondela. Archetype: Creator-Passer.
 person_id: 16843
-backlinks: [creator, tondela]
+backlinks: [creator, wide-playmaker, tondela]
 ---
 
 # Rony Lopes
@@ -21,18 +21,26 @@ backlinks: [creator, tondela]
 | **Nation** | Portugal |
 | **Age** | 30 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Rony Lopes, operating as an Inventor from an inverted winger blueprint, leverages strong tactical understanding, acceleration, and take-on ability to create from the right flank, using his solid first touch and shielding to retain possession. While his offensive contributions are notable, issues with duels and occasional indiscipline, coupled with a lack of guile in intricate spaces, prevent him from dominating games. At 30, his known durability offers a reliable, low-risk option for clubs seeking an experienced wide Creator-Passer who can provide moments of individual brilliance, rather than consistent systemic creativity.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ Rony Lopes, operating as an Inventor from an inverted winger blueprint, leverage
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 23.0m |
+| Ceiling | EUR 27.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +105,7 @@ Rony Lopes, operating as an Inventor from an inverted winger blueprint, leverage
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

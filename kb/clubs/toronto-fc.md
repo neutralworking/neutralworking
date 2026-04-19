@@ -1,31 +1,45 @@
 ---
 title: Toronto FC
 category: clubs
-tags: [Major League Soccer, None]
-updated: 2026-04-14
+tags: [Major League Soccer]
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Toronto FC. 32 players in database.
+summary: Toronto FC. 31 players in database.
 ---
 
 # Toronto FC
 
 **League**: Major League Soccer  
-**Nation**: None  
-**Players in DB**: 32
+**Nation**: —  
+**Players in DB**: 31
+
+## Identity
+
+- Database coverage is deepest in CM (10), CD (7), and CF (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (7), Cover (6), and Destroyer (5) across the current squad.
+- Average available overall grade sits at 58.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[adam-pearlman]] Adam Pearlman | CD | Cover | None |
-| [[aime-mabika]] Aimé Mabika | CD | Cover | None |
+| [[adam-pearlman]] Adam Pearlman | CD | Cover | — |
+| [[aime-mabika]] Aimé Mabika | CD | Cover | — |
 | [[kevin-long]] Kevin Long | CD | Destroyer | 60.0 |
 | [[kobe-franklin]] Kobe Franklin | CD | Powerhouse | 56.0 |
 | [[nicksoen-gomis]] Nicksoen Gomis | CD | Destroyer | 57.0 |
 | [[raoul-petretta]] Raoul Petretta | CD | Powerhouse | 65.0 |
 | [[sigurd-rosted]] Sigurd Rosted | CD | Powerhouse-Cover | 63.0 |
-| [[cassius-mailula]] Cassius Mailula | CF | None | None |
+| [[cassius-mailula]] Cassius Mailula | CF | — | — |
 | [[deandre-kerr]] Deandre Kerr | CF | Sprinter | 60.0 |
 | [[mark-anthony-kaye]] Mark-Anthony Kaye | CF | Destroyer | 70.0 |
 | [[tyrese-spicer]] Tyrese Spicer | CF | Dribbler-Sprinter | 61.0 |
@@ -40,13 +54,12 @@ summary: Toronto FC. 32 players in database.
 | [[richie-laryea]] Richie Laryea | CM | Sprinter | 58.0 |
 | [[z-monlouis]] Z. Monlouis | CM | Cover-Powerhouse | 57.0 |
 | [[d-flores]] D. Flores | DM | Destroyer | 60.0 |
-| [[alex-bono]] Alex Bono | GK | GK | None |
-| [[luka-gavran]] Luka Gavran | GK | GK | None |
-| [[sean-johnson]] Sean Johnson | GK | GK | None |
+| [[luka-gavran]] Luka Gavran | GK | GK | — |
+| [[sean-johnson]] Sean Johnson | GK | GK | — |
 | [[derrick-etienne-jr]] Derrick Etienne Jr. | WF | Sprinter | 63.0 |
 | [[lorenzo-insigne]] Lorenzo Insigne | WF | Creator | 58.0 |
 | [[theo-corbeanu]] Theo Corbeanu | WF | Sprinter-Dribbler | 63.0 |
 | [[j-cifuentes]] J. Cifuentes | WM | Creator | 60.0 |
-| [[malik-henry]] Malik Henry | None | Creator | None |
-| [[o-brynhildsen]] O. Brynhildsen | None | Sprinter-Dribbler | None |
-| [[shane-oneill]] Shane O'Neill | None | Cover | None |
+| Malik Henry | — | Creator | — |
+| O. Brynhildsen | — | Sprinter-Dribbler | — |
+| Shane O'Neill | — | Cover | — |

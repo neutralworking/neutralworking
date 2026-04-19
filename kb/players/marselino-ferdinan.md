@@ -2,10 +2,10 @@
 title: Marselino Ferdinan
 category: players
 tags: [CM, Indonesia]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 28557
 ---
 
@@ -16,14 +16,25 @@ person_id: 28557
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Indonesia |
 | **Age** | 21 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
+
+## Snapshot
+
+Marselino Ferdinan is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,8 +53,9 @@ person_id: 28557
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,13 +66,12 @@ person_id: 28557
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubPersebaya Surabaya
 
@@ -73,6 +84,5 @@ After making his debut for Persebaya just two days after his 17th birthday, and 
 **September 2022 update** Made his international debut and became Indonesia’s youngest ever goalscorer in June.  
   
 **October 2023 update** The Indonesia international has headed to Europe to play for Deinze in Belgium’s second tier.
-
 
 </details>

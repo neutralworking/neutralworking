@@ -2,12 +2,12 @@
 title: Adrien Rabiot
 category: players
 tags: [CM, Marseille, France, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Marseille. Archetype: Creator-Passer.
 person_id: 7907
-backlinks: [creator, marseille]
+backlinks: [creator, mezzala, marseille]
 ---
 
 # Adrien Rabiot
@@ -21,18 +21,27 @@ backlinks: [creator, marseille]
 | **Nation** | France |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 79 |
 | **Level** | 87 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Rabiot, a Connector operating as a Tuttocampista, offers strong technical and mental attributes, blending composure with intensity. His ability to contribute to build-up, block passing lanes, and distribute from close or long range makes him a versatile central presence. However, his tactical understanding is limited, and he struggles with incisive through-balls and consistent clearances, alongside occasional disciplinary issues. This profile suggests a player who excels as a midfield engine in systems that require a strong, physical presence capable of covering ground and winning duels, fitting the classic box-to-box midfielder but with a more defined role in buildup. Currently declining at 30, Rabiot still offers a club significant experience, build-up contribution, and durability, particularly for teams needing a robust central midfielder who can manage games, provided they can accommodate his tactical shortcomings and potential disciplinary risks.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `79`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `79`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Duels, Close Range, and Composure.
@@ -66,13 +75,14 @@ Rabiot, a Connector operating as a Tuttocampista, offers strong technical and me
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 27.0m |
+| Ceiling | EUR 32.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,11 +107,11 @@ Rabiot, a Connector operating as a Tuttocampista, offers strong technical and me
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -115,7 +125,5 @@ dob: 3 April 1995
 age: 28
 club: Paris Saint-Germain
 fee: Free
-
-
 
 </details>

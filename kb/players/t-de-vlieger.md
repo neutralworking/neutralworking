@@ -2,12 +2,12 @@
 title: T. De Vlieger
 category: players
 tags: [DM, Gent, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Gent. Archetype: Creator-Striker.
 person_id: 21147
-backlinks: [creator, gent]
+backlinks: [creator, anchor, gent]
 ---
 
 # T. De Vlieger
@@ -18,21 +18,30 @@ backlinks: [creator, gent]
 |---|---|
 | **Position** | DM |
 | **Club** | Gent |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 68 |
 | **Level** | 62 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A composed build-up anchor at just 20, De Vlieger compensates for modest physical tools through sharp technical range and genuine tactical maturity—his through-ball accuracy and balance in tight midfield spaces position him as a progressive half-space operator rather than a pure shield. The real concern is marking discipline and a tendency toward needless yellow cards; he lacks the positional rigour or physical dominance to anchor teams that invite pressure. Best suited to possession-dominant structures where his pace and mid-range composure can function within a controlled block, making him an excellent fit for clubs prioritizing technical continuity over physical reclamation.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `68`.
+- Best-fit role is [[anchor]] Anchor with model support score `68`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Balance, Pace, and Acceleration.
@@ -62,13 +71,14 @@ A composed build-up anchor at just 20, De Vlieger compensates for modest physica
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ A composed build-up anchor at just 20, De Vlieger compensates for modest physica
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

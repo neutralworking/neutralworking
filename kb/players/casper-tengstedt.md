@@ -2,12 +2,12 @@
 title: Casper Tengstedt
 category: players
 tags: [CF, Feyenoord, Denmark, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Feyenoord. Archetype: Striker.
 person_id: 9436
-backlinks: [striker, feyenoord]
+backlinks: [striker, shadow-striker, feyenoord]
 ---
 
 # Casper Tengstedt
@@ -21,18 +21,26 @@ backlinks: [striker, feyenoord]
 | **Nation** | Denmark |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A burly, genuinely mobile number nine who operates with encouraging intelligence in the channels and half-spaces rather than camping on the shoulder. He's press-resistant, can hold the ball through pressure, and has a natural sense of where teammates are moving, which elevates him above the typical bruising forward type. The limitation is obvious: his finishing consistency and his aerial dominance aren't elite, so he's a very good complementary striker rather than a world-beater, but for the Eredivisie he's a proper central forward.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Pace, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A burly, genuinely mobile number nine who operates with encouraging intelligence
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ A burly, genuinely mobile number nine who operates with encouraging intelligence
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

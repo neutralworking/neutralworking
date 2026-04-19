@@ -2,12 +2,12 @@
 title: Andrei Coubiș
 category: players
 tags: [CD, Universitatea Cluj, Romania, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Universitatea Cluj. Archetype: Cover.
 person_id: 8472
-backlinks: [cover, universitatea-cluj]
+backlinks: [cover, sweeper, universitatea-cluj]
 ---
 
 # Andrei Coubiș
@@ -21,18 +21,27 @@ backlinks: [cover, universitatea-cluj]
 | **Nation** | Romania |
 | **Age** | 23 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 61 |
 | **Level** | 67 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Andrei Coubiș projects primarily as a CD with a `Cover` lean. The strongest database support comes from Aerial Duels, Discipline, and Heading.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `61`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `61`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Aerial Duels, Discipline, and Heading.
@@ -67,13 +76,14 @@ Andrei Coubiș projects primarily as a CD with a `Cover` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,6 +112,6 @@ Andrei Coubiș projects primarily as a CD with a `Cover` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

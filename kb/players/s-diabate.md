@@ -2,12 +2,12 @@
 title: S. Diabaté
 category: players
 tags: [CM, Red Bull Salzburg, Destroyer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Red Bull Salzburg. Archetype: Destroyer-Creator.
 person_id: 24026
-backlinks: [destroyer, red-bull-salzburg]
+backlinks: [destroyer, playmaker, red-bull-salzburg]
 ---
 
 # S. Diabaté
@@ -18,21 +18,30 @@ backlinks: [destroyer, red-bull-salzburg]
 |---|---|
 | **Position** | CM |
 | **Club** | Red Bull Salzburg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 21 |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Diabaté's archetype as a Connector is reflected in his strong technical abilities, pass accuracy, and interceptions, making him a promising Metodista. His ability to contribute to build-up play and provide composure in high-pressure situations is valuable, but his limitations in mid-range and long-range play, combined with his discipline issues, may restrict his impact. A team that values possession-based football and can provide Diabaté with the necessary support and structure could help him develop into a more well-rounded player.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Awareness, Close Range, and Interceptions.
@@ -62,13 +71,14 @@ Diabaté's archetype as a Connector is reflected in his strong technical abiliti
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Diabaté's archetype as a Connector is reflected in his strong technical abiliti
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

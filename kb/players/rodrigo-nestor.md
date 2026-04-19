@@ -2,12 +2,12 @@
 title: Rodrigo Nestor
 category: players
 tags: [CF, Bahia, Powerhouse-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Bahia. Archetype: Powerhouse-Creator.
 person_id: 23554
-backlinks: [powerhouse, bahia]
+backlinks: [powerhouse, prima-punta, bahia]
 ---
 
 # Rodrigo Nestor
@@ -18,21 +18,30 @@ backlinks: [powerhouse, bahia]
 |---|---|
 | **Position** | CF |
 | **Club** | Bahia |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Creator |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 70 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Rodrigo Nestor projects primarily as a CF with a `Powerhouse-Creator` lean. The strongest database support comes from Jumping, Stamina, and Physical.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `70`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `70`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Stamina, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Rodrigo Nestor projects primarily as a CF with a `Powerhouse-Creator` lean. The 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.7m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +106,6 @@ Rodrigo Nestor projects primarily as a CF with a `Powerhouse-Creator` lean. The 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

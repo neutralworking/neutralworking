@@ -2,12 +2,12 @@
 title: Sam Byram
 category: players
 tags: [WD, Leeds United, England, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Leeds United. Archetype: Destroyer.
 person_id: 17057
-backlinks: [destroyer, leeds-united]
+backlinks: [destroyer, corner-back, leeds-united]
 ---
 
 # Sam Byram
@@ -21,18 +21,26 @@ backlinks: [destroyer, leeds-united]
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 75 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Right-back whose experience and tactical discipline prevent him from being a liability, but his athleticism has eroded significantly and he can't maintain the pressing intensity or covering speed required in modern full-back play. He's useful in a back five or against limited wide threats, but he'll spend most weeks on the bench.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back`.
+- Best-fit role is [[corner-back]] Corner Back.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Tackling, and Acceleration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Right-back whose experience and tactical discipline prevent him from being a lia
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ Right-back whose experience and tactical discipline prevent him from being a lia
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Davy van den Berg
 category: players
 tags: [CM, Utrecht, Netherlands, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Utrecht. Archetype: Powerhouse.
 person_id: 10151
-backlinks: [powerhouse, utrecht]
+backlinks: [powerhouse, ball-winner, utrecht]
 ---
 
 # Davy van den Berg
@@ -21,18 +21,26 @@ backlinks: [powerhouse, utrecht]
 | **Nation** | Netherlands |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Van den Berg, a Powerhouse Tuttocampista, offers impressive physical attributes with strong stamina, acceleration, and aggression, enabling impactful long and mid-range actions. While his technical pillar is strong, weaknesses in his mental and tactical game, along with limited blocking, suggest he thrives more as a dynamic box-to-box presence rather than a refined defensive anchor. His profile aligns with the energetic, all-action midfielder capable of covering significant ground in high-intensity systems. As a 26-year-old newcomer, he presents an interesting option for clubs seeking a high-energy central midfielder, though his mental and tactical weaknesses are potential risks.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Long Range, Acceleration, and Mid Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Van den Berg, a Powerhouse Tuttocampista, offers impressive physical attributes 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Van den Berg, a Powerhouse Tuttocampista, offers impressive physical attributes 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

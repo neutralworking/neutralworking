@@ -2,12 +2,12 @@
 title: Alex Iwobi
 category: players
 tags: [WF, Fulham, Nigeria, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Fulham. Archetype: Engine-Passer.
 person_id: 8127
-backlinks: [engine, fulham]
+backlinks: [engine, inverted-winger, fulham]
 ---
 
 # Alex Iwobi
@@ -21,18 +21,27 @@ backlinks: [engine, fulham]
 | **Nation** | Nigeria |
 | **Age** | 29 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 72 |
 | **Level** | 87 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A well-rounded winger-forward who's learned to manage the energy demands of Premier League football through positional intelligence and progressive passing rather than pure athleticism. He's competent in the half-spaces, understands when to carry and when to release, and his defensive positioning has sharpened considerably since his Everton days. The ceiling is a capable squad player; he'll never be a creator of moments, and his explosive step has diminished with age.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `72`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `72`.
 - Primary archetype leans toward `Engine` behaviour from a `WF` base.
 - Most bankable strengths show up in Stamina, First Touch, and Volleys.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A well-rounded winger-forward who's learned to manage the energy demands of Prem
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A well-rounded winger-forward who's learned to manage the energy demands of Prem
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

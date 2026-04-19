@@ -2,12 +2,12 @@
 title: Daouda Weidmann
 category: players
 tags: [CM, FC Twente, France, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC Twente. Archetype: Sprinter-Dribbler.
 person_id: 10015
-backlinks: [sprinter, fc-twente]
+backlinks: [sprinter, ball-winner, fc-twente]
 ---
 
 # Daouda Weidmann
@@ -19,20 +19,28 @@ backlinks: [sprinter, fc-twente]
 | **Position** | CM |
 | **Club** | FC Twente |
 | **Nation** | France |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 74 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Daouda Weidmann is a dynamic and pacey midfielder with a strong physical presence, well-suited to the Tuttocampista role. His acceleration and balance make him a threat in one-on-one situations, but his limited tactical awareness and discipline may lead to him being caught out of position. As a Sprinter-Dribbler archetype, he would thrive in a system that allows him to utilize his pace and agility to beat opponents, but may struggle in a more possession-based setup.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Pace, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ Daouda Weidmann is a dynamic and pacey midfielder with a strong physical presenc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +97,6 @@ Daouda Weidmann is a dynamic and pacey midfielder with a strong physical presenc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

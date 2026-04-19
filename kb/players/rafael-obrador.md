@@ -2,12 +2,12 @@
 title: Rafael Obrador
 category: players
 tags: [CD, Benfica, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Benfica. Archetype: Sprinter.
 person_id: 19250
-backlinks: [sprinter, benfica]
+backlinks: [sprinter, sweeper, benfica]
 ---
 
 # Rafael Obrador
@@ -18,28 +18,23 @@ backlinks: [sprinter, benfica]
 |---|---|
 | **Position** | CD |
 | **Club** | Benfica |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubReal Madrid
 
 PositionDefender
 
 Born24 February 2004
-
-
-
-
-
-
 
 ********
 
@@ -49,10 +44,16 @@ The son of Tomeu Obrador, who played for just about every club on the island exc
   
 **October 2023 update** Continues to grow after establishing himself as a regular in the Real Madrid B team, Castilla, who play in the Spanish third tier. The left-back clocked up more than 2,000 minutes last term and is considered one of the academy names to keep an eye on for Carlo Ancelotti in the near future.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `72`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Acceleration, Pace, and Jumping.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -82,13 +83,14 @@ The son of Tomeu Obrador, who played for just about every club on the island exc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -108,28 +110,21 @@ The son of Tomeu Obrador, who played for just about every club on the island exc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 ClubReal Madrid
 
 PositionDefender
 
 Born24 February 2004
-
-
-
-
-
-
 
 ********
 
@@ -138,6 +133,5 @@ The son of Tomeu Obrador, who played for just about every club on the island exc
 **September 2022 update** A regular in the Spain Under-19 squad, he is making good progress ascending the Real Madrid youth ranks. A starter for Real Madrid in the Uefa Youth League and scorer of important goals and assists in the Copa del Rey Juvenil, he was key to Real Madrid lifting the domestic youth trophy last season. In the summer he joined Real Madrid Castilla, who are managed by club legend Raúl, and has already featured in three matches for the academy team.  
   
 **October 2023 update** Continues to grow after establishing himself as a regular in the Real Madrid B team, Castilla, who play in the Spanish third tier. The left-back clocked up more than 2,000 minutes last term and is considered one of the academy names to keep an eye on for Carlo Ancelotti in the near future.
-
 
 </details>

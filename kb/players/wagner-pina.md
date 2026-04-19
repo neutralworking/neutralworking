@@ -2,12 +2,12 @@
 title: Wagner Pina
 category: players
 tags: [CM, Trabzonspor, Cape Verde, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Trabzonspor. Archetype: Sprinter.
 person_id: 18437
-backlinks: [sprinter, trabzonspor]
+backlinks: [sprinter, playmaker, trabzonspor]
 ---
 
 # Wagner Pina
@@ -21,18 +21,27 @@ backlinks: [sprinter, trabzonspor]
 | **Nation** | Cape Verde |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pina is a Connector archetype, well-suited to a Mezzala role, characterized by strong tactical, mental, and physical pillars, evident in his exceptional shielding, stamina, and pace. Curiously, despite strong tactical awareness, his general tactical weakness is noted, alongside disciplinary issues and poor volley technique. This profile suggests a modern, athletic midfielder capable of driving forward from a wider central position, contributing significantly to build-up and connecting phases of play. At 23, Pina offers an intriguing blend of physical prowess and build-up contribution, though his contradictory tactical and disciplinary weaknesses suggest he may require focused coaching to integrate fully into a demanding tactical scheme.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `78`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Shielding, Acceleration, and Pace.
@@ -62,13 +71,14 @@ Pina is a Connector archetype, well-suited to a Mezzala role, characterized by s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ Pina is a Connector archetype, well-suited to a Mezzala role, characterized by s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

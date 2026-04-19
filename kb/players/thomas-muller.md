@@ -2,12 +2,12 @@
 title: Thomas Muller
 category: players
 tags: [CM, Vancouver Whitecaps, Germany, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Vancouver Whitecaps. Archetype: Creator-Passer.
 person_id: 17936
-backlinks: [creator, vancouver-whitecaps]
+backlinks: [creator, mezzala, vancouver-whitecaps]
 ---
 
 # Thomas Muller
@@ -21,19 +21,20 @@ backlinks: [creator, vancouver-whitecaps]
 | **Nation** | Germany |
 | **Age** | 36 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 69 |
 | **Level** | 87 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 #raumdeuter
 
-
-[[Radio]] - Incessant Talker
-[[Raumdeuter]] - Space Interpreter
-[[R - RSG/backend/research/models/classes/Subclasses/Assassin]] - Instinctive Finisher
+Radio - Incessant Talker
+Raumdeuter - Space Interpreter
+R - RSG/backend/research/models/classes/Subclasses/Assassin - Instinctive Finisher
 
 Again and again there were games that weren't Thomas Müller games, as coach Thomas Tuchel put it - which is why he sometimes left the long-time driver outside.
 Otherwise, the busy long-running favorite was often very important as a motivator and tireless enthusiast.
@@ -42,9 +43,16 @@ Müller's role can be described as an attacking all-rounder, a player able to pl
 
 Both Bayern Munich and the Germany national team usually play a 4-2-3-1 formation, and Müller is most often part of the three attacking midfielders behind the central striker. He can play in any of the attacking midfield roles but usually plays in the center for Bayern Munich, and on the right for Germany. He has been used as an out-and-out striker on occasion. Müller has been praised for his maturity, pace, technique, he describes himself as a player who can find gaps in the opposition defence but not particularly good at dribbling or one-on-ones. Müller describes this role as Raumdeuter, "a term that translates to ""interpreter of space"" (cf. Traumdeuter", """dream interpreter""). During 2014 World Cup", "Germany manager Joachim Löw stated that Müller ""is a very unorthodox player and you can't really predict his lines of running", "but he has one aim and that is 'how can I score a goal?"""		Müller plays as a midfielder or forward, and has been deployed in a variety of attacking roles – as an attacking midfielder, second striker, centre forward and on either wing. He has been praised for his positioning, teamwork and stamina, work-rate, and has shown consistency in scoring and creating goals.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `69`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Movement, Reactions, and Crossing.
@@ -79,13 +87,14 @@ Both Bayern Munich and the Germany national team usually play a 4-2-3-1 formatio
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
+| Floor | EUR 3.4m |
 | Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Ceiling | EUR 5.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -117,7 +126,7 @@ Both Bayern Munich and the Germany national team usually play a 4-2-3-1 formatio
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

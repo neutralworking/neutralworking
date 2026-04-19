@@ -2,12 +2,12 @@
 title: A. Malic
 category: players
 tags: [CM, Sturm Graz, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sturm Graz. Archetype: Destroyer.
 person_id: 25380
-backlinks: [destroyer, sturm-graz]
+backlinks: [destroyer, tuttocampista, sturm-graz]
 ---
 
 # A. Malic
@@ -18,21 +18,30 @@ backlinks: [destroyer, sturm-graz]
 |---|---|
 | **Position** | CM |
 | **Club** | Sturm Graz |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A. Malic, in the Tuttocampista role, utilizes his strong technical ability, awareness, and tackling skills to excel in a box-to-box capacity, but his weaknesses in long-range vision and guile limit his impact in terms of dictating the tempo of the game or creating scoring opportunities through intricate play, making him a solid, if not spectacular, midfield presence who can contribute through his work rate and defensive capabilities.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `76`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `76`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Tackling, Aggression, and Blocking.
@@ -62,13 +71,14 @@ A. Malic, in the Tuttocampista role, utilizes his strong technical ability, awar
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 20.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ A. Malic, in the Tuttocampista role, utilizes his strong technical ability, awar
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

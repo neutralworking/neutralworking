@@ -2,12 +2,12 @@
 title: F. Petrasso
 category: players
 tags: [CM, Rio Ave, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Rio Ave. Archetype: Powerhouse-Destroyer.
 person_id: 20805
-backlinks: [powerhouse, rio-ave]
+backlinks: [powerhouse, metodista, rio-ave]
 ---
 
 # F. Petrasso
@@ -18,21 +18,30 @@ backlinks: [powerhouse, rio-ave]
 |---|---|
 | **Position** | CM |
 | **Club** | Rio Ave |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 F. Petrasso projects primarily as a CM with a `Powerhouse-Destroyer` lean. The strongest database support comes from Pace, Acceleration, and Balance.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `70`.
+- Best-fit role is [[metodista]] Metodista with model support score `70`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
@@ -62,13 +71,14 @@ F. Petrasso projects primarily as a CM with a `Powerhouse-Destroyer` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,6 +102,6 @@ F. Petrasso projects primarily as a CM with a `Powerhouse-Destroyer` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Nélson Luz
 category: players
 tags: [WF, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Creator-Striker.
+summary: WF at —. Archetype: Creator-Striker.
 person_id: 22449
-backlinks: [creator]
+backlinks: [creator, winger]
 ---
 
 # Nélson Luz
@@ -17,22 +17,31 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Nélson Luz projects primarily as a WF with a `Creator-Striker` lean. The strongest database support comes from Aggression, Duels, and Pressing.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `71`.
+- Best-fit role is [[winger]] Winger with model support score `71`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Duels, and Pressing.
@@ -63,13 +72,14 @@ Nélson Luz projects primarily as a WF with a `Creator-Striker` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +106,6 @@ Nélson Luz projects primarily as a WF with a `Creator-Striker` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Matt Crooks
 category: players
 tags: [CD, Hull City, England, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Hull City. Archetype: Creator.
 person_id: 14785
-backlinks: [creator, hull-city]
+backlinks: [creator, colossus, hull-city]
 ---
 
 # Matt Crooks
@@ -21,18 +21,27 @@ backlinks: [creator, hull-city]
 | **Nation** | England |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Industrious attacking midfielder who works hard to press and cover ground, with a reasonable eye for a forward pass or clever positional move. His technical first touch is occasionally heavy under pressure, and he can be sluggish in transitioning between defensive and attacking phases. Dependable squad player for a Championship side seeking energy and effort, but not sufficiently creative or technically polished to be a regular starter or reliable creator in an open game.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `77`.
+- Best-fit role is [[colossus]] Colossus with model support score `77`.
 - Primary archetype leans toward `Creator` behaviour from a `CD` base.
 - Most bankable strengths show up in Stamina, Jumping, and Close Range.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Industrious attacking midfielder who works hard to press and cover ground, with 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Industrious attacking midfielder who works hard to press and cover ground, with 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Zak Rudden
 category: players
 tags: [CF, Livingston FC, Scotland, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Livingston FC. Archetype: Creator.
 person_id: 18744
-backlinks: [creator, livingston-fc]
+backlinks: [creator, spearhead, livingston-fc]
 ---
 
 # Zak Rudden
@@ -21,18 +21,26 @@ backlinks: [creator, livingston-fc]
 | **Nation** | Scotland |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator |
-| **Level** | None |
+| **Best Role** | [[spearhead]] Spearhead |
+| **Level** | — |
 | **Overall** | 37.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Zak Rudden projects primarily as a CF with a `Creator` lean. The strongest database support comes from Drive, Concentration, and Skills.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Drive, Concentration, and Skills.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ Zak Rudden projects primarily as a CF with a `Creator` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,5 +94,5 @@ Zak Rudden projects primarily as a CF with a `Creator` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

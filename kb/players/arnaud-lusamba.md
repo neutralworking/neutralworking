@@ -2,12 +2,12 @@
 title: Arnaud Lusamba
 category: players
 tags: [CM, OGC Nice, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at OGC Nice. Archetype: Creator.
 person_id: 8708
-backlinks: [creator, ogc-nice]
+backlinks: [creator, playmaker, ogc-nice]
 ---
 
 # Arnaud Lusamba
@@ -18,21 +18,29 @@ backlinks: [creator, ogc-nice]
 |---|---|
 | **Position** | CM |
 | **Club** | OGC Nice |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Ball-carrying fullback who uses his frame to shield possession and drive into the half-spaces with purpose. Defensively unreliable and susceptible to tactical pressing; you're essentially getting a winger in a fullback's body, useful in the right system but a liability against intelligent attacking play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Tactical, Technical, and Creativity.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,12 +71,13 @@ Ball-carrying fullback who uses his frame to shield possession and drive into th
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +98,6 @@ Ball-carrying fullback who uses his frame to shield possession and drive into th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

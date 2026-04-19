@@ -2,11 +2,12 @@
 title: Matias Vera
 category: players
 tags: [GK, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 29811
+backlinks: [distributor]
 ---
 
 # Matias Vera
@@ -16,22 +17,30 @@ person_id: 29811
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Paraguay |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Age** | — |
+| **Archetype** | — |
+| **Best Role** | [[distributor]] Distributor |
+| **Level** | — |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Matias Vera projects primarily as a GK with a `None` lean. The strongest database support comes from Pass Range, Through Balls, and Technical.
+Matias Vera projects primarily as a GK with a `—` lean. The strongest database support comes from Pass Range, Through Balls, and Technical.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Most bankable strengths show up in Pass Range, Through Balls, and Technical.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
 
@@ -56,13 +65,14 @@ Matias Vera projects primarily as a GK with a `None` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.3m |
+| Mid | EUR 0.3m |
+| Ceiling | EUR 1.9m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,5 +88,5 @@ Matias Vera projects primarily as a GK with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 3 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 3 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

@@ -2,12 +2,12 @@
 title: Elias Figueroa
 category: players
 tags: [CD, Chile, Cover-Commander]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: Cover-Commander.
+summary: CD at —. Archetype: Cover-Commander.
 person_id: 10540
-backlinks: [cover]
+backlinks: [cover, libero]
 ---
 
 # Elias Figueroa
@@ -17,18 +17,20 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Chile |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Commander |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Best Role** | [[libero]] Libero |
+| **Role Score** | 91 |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-![[Pasted image 20240130154224.png]]
+!Pasted image 20240130154224.png
 
 Defined by his playing style, leadership qualities, and discipline, Figueroa set the standard for defenders in South America simply by being ahead of his time. First and foremost, the Chilean was a defender who liked defending proactively by anticipating his opponent’s movements in the developing play and jumping in with impeccable timing to make an interception. Comfortable on the ball, Elias Figueroa would often be a surprise threat in the final third of the pitch with his combination play and marauding inside runs, as evidenced by his numbers from his Internacional days, when he scored 27 goals in over 300 appearances.
 
@@ -38,9 +40,16 @@ Elias Figueroa was an outlier in pure talent, a notion picked up by the Chile na
 
 FigueroaIn 1972, Figueroa left Penarola to spend the next five years of his domestic career with Brazil’s Internacional. During a sparkling period in the club’s history, Figueroa helped Internacional win the state title every year of his tenure and the national championship in 1975 and 1976. Cementing himself as one of the best players in the world, the Chilean also collected the bulk of his individual honours while in Brazil. At the end of his Internacional stint, Elias Figueroa returned to his native Chile to help Palestino win the cup and the league in 1977 and 1978. He spent a year in the United States of America later with Fort Lauderdale Strikers and another back in Chile with Colo-Colo before retiring from the sport in 1982.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Libero` with model support score `91`.
+- Best-fit role is [[libero]] Libero with model support score `91`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -52,13 +61,14 @@ FigueroaIn 1972, Figueroa left Penarola to spend the next five years of his dome
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -69,8 +79,8 @@ FigueroaIn 1972, Figueroa left Penarola to spend the next five years of his dome
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -80,7 +90,7 @@ FigueroaIn 1972, Figueroa left Penarola to spend the next five years of his dome
 ---
 {}
 ---
-![[Pasted image 20240130154224.png]]
+!Pasted image 20240130154224.png
 
 Defined by his playing style, leadership qualities, and discipline, Figueroa set the standard for defenders in South America simply by being ahead of his time. First and foremost, the Chilean was a defender who liked defending proactively by anticipating his opponent’s movements in the developing play and jumping in with impeccable timing to make an interception. Comfortable on the ball, Elias Figueroa would often be a surprise threat in the final third of the pitch with his combination play and marauding inside runs, as evidenced by his numbers from his Internacional days, when he scored 27 goals in over 300 appearances.
 

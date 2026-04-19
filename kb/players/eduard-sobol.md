@@ -2,12 +2,12 @@
 title: Eduard Sobol
 category: players
 tags: [WD, Strasbourg, Ukraine, Sprinter-Engine]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Strasbourg. Archetype: Sprinter-Engine.
 person_id: 10497
-backlinks: [sprinter, strasbourg]
+backlinks: [sprinter, corner-back, strasbourg]
 ---
 
 # Eduard Sobol
@@ -21,18 +21,26 @@ backlinks: [sprinter, strasbourg]
 | **Nation** | Ukraine |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
+| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 83 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced left-back with solid defensive fundamentals and decent crossing; age 30 decline evident in recovery pace, making him a reliable squad player but no longer a consistent starter.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back`.
+- Best-fit role is [[corner-back]] Corner Back.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Long Range.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ Experienced left-back with solid defensive fundamentals and decent crossing; age
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +108,7 @@ Experienced left-back with solid defensive fundamentals and decent crossing; age
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Kylian Mbappé
 category: players
 tags: [WF, Real Madrid, France, Sprinter-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Real Madrid. Archetype: Sprinter-Striker.
 person_id: 20176
-backlinks: [sprinter, real-madrid]
+backlinks: [sprinter, winger, real-madrid]
 ---
 
 # Kylian Mbappé
@@ -21,6 +21,8 @@ backlinks: [sprinter, real-madrid]
 | **Nation** | France |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Striker |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 90 |
 | **Level** | 92 |
 | **Overall** | 76.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [sprinter, real-madrid]
 
 Generational pace and finishing. Devastating in transition. Can play LW or central striker. Real Madrid marquee signing. France captain. Ego management reportedly a factor. Not acquirable — top 3 player in the world.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `90`.
+- Best-fit role is [[winger]] Winger with model support score `90`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Carries, Reactions, and Acceleration.
@@ -67,13 +76,14 @@ Generational pace and finishing. Devastating in transition. Can play LW or centr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 144m |
+| Mid | EUR 170m |
+| Ceiling | EUR 253m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Generational pace and finishing. Devastating in transition. Can play LW or centr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 55 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 55 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

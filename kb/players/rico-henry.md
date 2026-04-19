@@ -2,12 +2,12 @@
 title: Rico Henry
 category: players
 tags: [WD, Brentford, England, Sprinter-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Brentford. Archetype: Sprinter-Cover.
 person_id: 16652
-backlinks: [sprinter, brentford]
+backlinks: [sprinter, invertido, brentford]
 ---
 
 # Rico Henry
@@ -21,18 +21,27 @@ backlinks: [sprinter, brentford]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
+| **Best Role** | [[invertido]] Invertido |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back who understands the modern brief completely—he's comfortable inverting into midfield, he can play a 40-yard progressive pass, and his one-v-one defending is intelligent rather than reckless. The issue is that he's not remotely quick in the conventional sense, so when he has to defend a pure pace advantage on the flank, he's vulnerable. Age is creeping in; you're seeing the legs tire slightly in the final 20 minutes of matches.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Invertido` with model support score `79`.
+- Best-fit role is [[invertido]] Invertido with model support score `79`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ A left-back who understands the modern brief completely—he's comfortable inver
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A left-back who understands the modern brief completely—he's comfortable inver
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

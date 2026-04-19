@@ -2,12 +2,12 @@
 title: Rodrigo De Paul
 category: players
 tags: [CM, Inter Miami CF, Argentina, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Inter Miami CF. Archetype: Creator.
 person_id: 16759
-backlinks: [creator, inter-miami-cf]
+backlinks: [creator, playmaker, inter-miami-cf]
 ---
 
 # Rodrigo De Paul
@@ -21,18 +21,27 @@ backlinks: [creator, inter-miami-cf]
 | **Nation** | Argentina |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 57 |
 | **Level** | 84 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A functional box-to-box operator with legitimate technical ability and a nasty streak that registers physically, De Paul carries possession intelligently and isn't afraid to take a risk in transition. The limitation is that his range isn't exceptional—he's most effective in tight, crowded midfields rather than as a playmaker from deep. At Inter Miami, he's a reliable cog rather than an orchestrator, and his injury history means you're managing availability as much as form.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `57`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `57`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Stamina, Pass Range, and Balance.
@@ -67,13 +76,14 @@ A functional box-to-box operator with legitimate technical ability and a nasty s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A functional box-to-box operator with legitimate technical ability and a nasty s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

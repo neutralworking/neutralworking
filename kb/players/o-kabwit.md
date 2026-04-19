@@ -2,12 +2,12 @@
 title: O. Kabwit
 category: players
 tags: [CF, FC Luzern, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at FC Luzern. Archetype: Striker-Creator.
 person_id: 24226
-backlinks: [striker, fc-luzern]
+backlinks: [striker, seconda-punta, fc-luzern]
 ---
 
 # O. Kabwit
@@ -18,21 +18,30 @@ backlinks: [striker, fc-luzern]
 |---|---|
 | **Position** | CF |
 | **Club** | FC Luzern |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 70 |
 | **Level** | 75 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 O. Kabwit, a Marksman Complete Forward, possesses excellent finishing from both close and long range, combining this with surprising vision and creativity to act as a direct offensive threat. Despite these striking qualities, his limited tactical understanding means he struggles with overall pass accuracy and lacks the guile to consistently influence play outside the immediate goal zone, often losing duels due to a lighter physical frame. This player is a modern striker who offers both goal threat and some creative capacity, suited to systems that demand a versatile forward capable of moments of individual brilliance, even if his broader link-up play is underdeveloped. Clubs looking for a forward with genuine goal-scoring instincts and flashes of creativity would find Kabwit an interesting, albeit tactically unrefined, prospect; his struggles in duels and inconsistent passing suggest he's a higher-risk investment who needs specific tactical coaching and a robust midfield to truly flourish.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `70`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `70`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Threat, Carries, and Close Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ O. Kabwit, a Marksman Complete Forward, possesses excellent finishing from both 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ O. Kabwit, a Marksman Complete Forward, possesses excellent finishing from both 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Luis Sinisterra
 category: players
 tags: [WF, Cruzeiro, Colombia, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Cruzeiro. Archetype: Creator-Passer.
 person_id: 14165
-backlinks: [creator, cruzeiro]
+backlinks: [creator, wide-playmaker, cruzeiro]
 ---
 
 # Luis Sinisterra
@@ -21,18 +21,27 @@ backlinks: [creator, cruzeiro]
 | **Nation** | Colombia |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A left winger operating in Colombian football who combines genuine technical ability with explosive acceleration in the half-spaces and on the wing proper. He's a ball-carrier who isn't afraid of inverted runs into central areas, and his finishing from range suggests someone who's studied the position beyond the obvious. The concern, though, is consistency—he can disappear for stretches, and his defensive workrate is functional rather than committed; against genuinely athletic full-backs in a top-five league, he'd spend half his evening on the back foot. At Once Caldas, he's a genuinely dangerous player operating at a good but not elite level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `78`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A left winger operating in Colombian football who combines genuine technical abi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 10.4m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ A left winger operating in Colombian football who combines genuine technical abi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

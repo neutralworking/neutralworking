@@ -2,12 +2,12 @@
 title: Andreas Skov Olsen
 category: players
 tags: [WF, Wolfsburg, Denmark, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Wolfsburg. Archetype: Creator-Passer.
 person_id: 8465
-backlinks: [creator, wolfsburg]
+backlinks: [creator, wide-playmaker, wolfsburg]
 ---
 
 # Andreas Skov Olsen
@@ -21,18 +21,27 @@ backlinks: [creator, wolfsburg]
 | **Nation** | Denmark |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely tricky winger who thrives in transition and uses his frame intelligently to shield the ball while carrying it into the final third. He's left-footed on the right flank, which gives him natural geometry for cutbacks and low crosses, and he's composed enough in tight spaces to pick a pass rather than force it. The problem is consistency—he can drift invisible for long stretches, and his defensive recovery speed is below the standard you'd want from a wing-back in a pressing system, which limits his ceiling at the highest level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `80`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `80`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Crossing, First Touch, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A genuinely tricky winger who thrives in transition and uses his frame intellige
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ A genuinely tricky winger who thrives in transition and uses his frame intellige
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

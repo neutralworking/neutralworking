@@ -2,12 +2,12 @@
 title: Amine Harit
 category: players
 tags: [WM, Başakşehir, France, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Başakşehir. Archetype: Creator.
 person_id: 18851
-backlinks: [creator, basaksehir]
+backlinks: [creator, wide-playmaker, basaksehir]
 ---
 
 # Amine Harit
@@ -21,9 +21,11 @@ backlinks: [creator, basaksehir]
 | **Nation** | France |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 76 |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -34,10 +36,16 @@ backlinks: [creator, basaksehir]
 
 "You can have four good matches, but if you don't produce statistics, you won't be respected."
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `76`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -72,13 +80,14 @@ backlinks: [creator, basaksehir]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -108,11 +117,11 @@ backlinks: [creator, basaksehir]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -124,6 +133,5 @@ backlinks: [creator, basaksehir]
 "Today, we are asked to do 12km per match, 40 high-intensity sprints, to reach 33-34 km/h, otherwise you are of no use."
 
 "You can have four good matches, but if you don't produce statistics, you won't be respected."
-
 
 </details>

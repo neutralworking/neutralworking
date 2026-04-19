@@ -2,10 +2,10 @@
 title: Nikola Jojic
 category: players
 tags: [AM, Stoke City, Serbia]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: AM at Stoke City. Archetype: None.
+summary: AM at Stoke City. Archetype: —.
 person_id: 15732
 backlinks: [stoke-city]
 ---
@@ -19,16 +19,23 @@ backlinks: [stoke-city]
 | **Position** | AM |
 | **Club** | Stoke City |
 | **Nation** | Serbia |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Serbian attacking midfielder with decent technical security and vision but hasn't translated promise into consistent Premier League or top-Championship output. Solid backup option without elite-level impact.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ Serbian attacking midfielder with decent technical security and vision but hasn'
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ Serbian attacking midfielder with decent technical security and vision but hasn'
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Tomáš Ostrák
 category: players
 tags: [CM, St. Louis City SC, Czech Republic, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at St. Louis City SC. Archetype: Dribbler.
 person_id: 18095
-backlinks: [dribbler, st-louis-city-sc]
+backlinks: [dribbler, mezzala, st-louis-city-sc]
 ---
 
 # Tomáš Ostrák
@@ -21,18 +21,27 @@ backlinks: [dribbler, st-louis-city-sc]
 | **Nation** | Czech Republic |
 | **Age** | 26 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ostrák's Terrier archetype and Tuttocampista role are a good match for his technical skills and competitive personality, but his limited physicality and lack of discipline can make him a concern, making him a project for a team with a strong coaching setup, possibly a developmental side that can help him refine his game and reach his potential, where his flamboyant playing style can be an asset in the right system.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `74`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `74`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Balance, Shielding, and First Touch.
@@ -63,13 +72,14 @@ Ostrák's Terrier archetype and Tuttocampista role are a good match for his tech
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Ostrák's Terrier archetype and Tuttocampista role are a good match for his tech
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

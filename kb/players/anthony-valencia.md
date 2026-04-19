@@ -2,12 +2,12 @@
 title: Anthony Valencia
 category: players
 tags: [WF, Sporting San Miguelito, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Sporting San Miguelito. Archetype: Sprinter.
 person_id: 18860
-backlinks: [sprinter, sporting-san-miguelito]
+backlinks: [sprinter, inverted-winger, sporting-san-miguelito]
 ---
 
 # Anthony Valencia
@@ -18,16 +18,17 @@ backlinks: [sprinter, sporting-san-miguelito]
 |---|---|
 | **Position** | WF |
 | **Club** | Sporting San Miguelito |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubIndependiente del Valle
 
@@ -43,10 +44,16 @@ A fast left-footed winger, who played a key role in Ecuador’s Under-20 Copa Li
   
 **October 2023 update** Has bounced back from an injury-hit year with Antwerp last term to show more spark with the newly crowned Belgian champions this season. Made his Champions League debut against Barcelona in September, coming on for the last few minutes of their 5-0 defeat.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `72`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Acceleration, and Shielding.
@@ -77,13 +84,14 @@ A fast left-footed winger, who played a key role in Ecuador’s Under-20 Copa Li
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -109,17 +117,16 @@ A fast left-footed winger, who played a key role in Ecuador’s Under-20 Copa Li
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubIndependiente del Valle
 
@@ -134,6 +141,5 @@ A fast left-footed winger, who played a key role in Ecuador’s Under-20 Copa Li
 **September 2022 update** Made the move to Royal Antwerp this summer and quickly scored his first goal in the Belgian league in a 2-0 Europa Conference League win over Lillestrom. Recently won his first call-up to the national team for September’s friendlies against Saudi Arabia and Japan, but remains an outside bet for a place in Ecuador’s World Cup squad.  
   
 **October 2023 update** Has bounced back from an injury-hit year with Antwerp last term to show more spark with the newly crowned Belgian champions this season. Made his Champions League debut against Barcelona in September, coming on for the last few minutes of their 5-0 defeat.
-
 
 </details>

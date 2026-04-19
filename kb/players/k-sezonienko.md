@@ -2,12 +2,12 @@
 title: K. Sezonienko
 category: players
 tags: [CF, Lechia Gdańsk, Sprinter-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Lechia Gdańsk. Archetype: Sprinter-Striker.
 person_id: 23195
-backlinks: [sprinter, lechia-gdansk]
+backlinks: [sprinter, target-forward, lechia-gdansk]
 ---
 
 # K. Sezonienko
@@ -18,21 +18,30 @@ backlinks: [sprinter, lechia-gdansk]
 |---|---|
 | **Position** | CF |
 | **Club** | Lechia Gdańsk |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Striker |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 K. Sezonienko projects primarily as a CF with a `Sprinter-Striker` lean. The strongest database support comes from Acceleration, Jumping, and Pace.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `69`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `69`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ K. Sezonienko projects primarily as a CF with a `Sprinter-Striker` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +96,5 @@ K. Sezonienko projects primarily as a CF with a `Sprinter-Striker` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

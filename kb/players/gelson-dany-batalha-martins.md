@@ -2,12 +2,12 @@
 title: Gelson Dany Batalha Martins
 category: players
 tags: [AM, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: AM at None. Archetype: Dribbler-Creator.
+summary: AM at —. Archetype: Dribbler-Creator.
 person_id: 19432
-backlinks: [dribbler]
+backlinks: [dribbler, trequartista]
 ---
 
 # Gelson Dany Batalha Martins
@@ -17,22 +17,31 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gelson Dany Batalha Martins, an Outlet archetype, embodies a Trequartista with strong technical and tactical attributes, excelling in take-ons, creativity, guile, and vision, particularly dangerous in close-range scenarios as a flamboyant progressive carrier. Despite his spontaneous brilliance, his physically limited frame hinders him in duels, and surprisingly, specific technical applications alongside composure are noted weaknesses. This player's flair and ability to operate between lines evoke classic attacking midfielders in possession-based systems. For a club needing a creative spark, Martins presents a high-upside option, though his physical fragility and general technical lapses suggest he'd thrive best in a system designed to mitigate these drawbacks.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `73`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `73`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Take Ons, Creativity, and Flair.
@@ -63,13 +72,14 @@ Gelson Dany Batalha Martins, an Outlet archetype, embodies a Trequartista with s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Gelson Dany Batalha Martins, an Outlet archetype, embodies a Trequartista with s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

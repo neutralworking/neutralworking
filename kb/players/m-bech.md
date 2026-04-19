@@ -2,12 +2,12 @@
 title: M. Bech
 category: players
 tags: [CM, FC Midtjylland, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC Midtjylland. Archetype: Destroyer-Striker.
 person_id: 23603
-backlinks: [destroyer, fc-midtjylland]
+backlinks: [destroyer, playmaker, fc-midtjylland]
 ---
 
 # M. Bech
@@ -18,21 +18,30 @@ backlinks: [destroyer, fc-midtjylland]
 |---|---|
 | **Position** | CM |
 | **Club** | FC Midtjylland |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A methodista-profile connector with strong duel-winning and blocking instincts, Bech operates as a physical, positional midfielder whose mid-range passing is competent but whose creative poverty in long-range and take-on departments severely limits his impact in modern pressing systems. His consistency in build-up phases and willingness to occupy space make him dependable as a structural piece, though he lacks the technical range to drive progression. Best deployed in methodical, possession-based systems where his dueling and positional intelligence can function without requiring creative burden.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `75`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Blocking, Close Range, and Discipline.
@@ -62,13 +71,14 @@ A methodista-profile connector with strong duel-winning and blocking instincts, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ A methodista-profile connector with strong duel-winning and blocking instincts, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

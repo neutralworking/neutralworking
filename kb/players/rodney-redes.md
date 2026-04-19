@@ -2,12 +2,12 @@
 title: Rodney Redes
 category: players
 tags: [CF, Olimpia, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Olimpia. Archetype: None.
+summary: CF at Olimpia. Archetype: —.
 person_id: 28217
-backlinks: [olimpia]
+backlinks: [seconda-punta, olimpia]
 ---
 
 # Rodney Redes
@@ -20,19 +20,28 @@ backlinks: [olimpia]
 | **Club** | Olimpia |
 | **Nation** | Paraguay |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 29 |
+| **Level** | — |
 | **Overall** | 18.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Rodney Redes projects primarily as a CF with a `None` lean. The strongest database support comes from Through Balls, Creativity, and Vision.
+Rodney Redes projects primarily as a CF with a `—` lean. The strongest database support comes from Through Balls, Creativity, and Vision.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `29`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `29`.
 - Most bankable strengths show up in Through Balls, Creativity, and Vision.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -63,8 +72,9 @@ Rodney Redes projects primarily as a CF with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,5 +89,5 @@ Rodney Redes projects primarily as a CF with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

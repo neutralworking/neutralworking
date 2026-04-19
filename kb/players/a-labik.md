@@ -2,12 +2,12 @@
 title: A. Labík
 category: players
 tags: [WM, MFK Karviná, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at MFK Karviná. Archetype: Creator.
 person_id: 23727
-backlinks: [creator, mfk-karvina]
+backlinks: [creator, wide-playmaker, mfk-karvina]
 ---
 
 # A. Labík
@@ -18,21 +18,30 @@ backlinks: [creator, mfk-karvina]
 |---|---|
 | **Position** | WM |
 | **Club** | MFK Karviná |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Labík projects primarily as a WM with a `Creator` lean. The strongest database support comes from Creativity, Through Balls, and Vision.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `71`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `71`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Most bankable strengths show up in Creativity, Through Balls, and Vision.
 
@@ -57,13 +66,14 @@ A. Labík projects primarily as a WM with a `Creator` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,5 +95,5 @@ A. Labík projects primarily as a WM with a `Creator` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Sulley Muntari
 category: players
 tags: [CM, Hearts of Oak, Ghana, Destroyer-Passer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Hearts of Oak. Archetype: Destroyer-Passer.
 person_id: 6996
-backlinks: [destroyer, hearts-of-oak]
+backlinks: [destroyer, playmaker, hearts-of-oak]
 ---
 
 # Sulley Muntari
@@ -21,18 +21,26 @@ backlinks: [destroyer, hearts-of-oak]
 | **Nation** | Ghana |
 | **Age** | 41 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 43 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Sulley Muntari projects primarily as a CM with a `Destroyer-Passer` lean. The strongest database support comes from Aerial Duels, Heading, and Interceptions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Aerial Duels, Heading, and Interceptions.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Sulley Muntari projects primarily as a CM with a `Destroyer-Passer` lean. The st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.0m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +104,6 @@ Sulley Muntari projects primarily as a CM with a `Destroyer-Passer` lean. The st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

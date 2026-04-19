@@ -2,12 +2,12 @@
 title: Caleb Taylor
 category: players
 tags: [CD, Cheltenham Town, England, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Cheltenham Town. Archetype: Cover.
 person_id: 9287
-backlinks: [cover, cheltenham-town]
+backlinks: [cover, sweeper, cheltenham-town]
 ---
 
 # Caleb Taylor
@@ -21,18 +21,26 @@ backlinks: [cover, cheltenham-town]
 | **Nation** | England |
 | **Age** | 23 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 63 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Centre-back with decent physical attributes and a competitive streak, but his positioning is sometimes rigid and he struggles when asked to play a high line or defend in space rather than from a structured shape. Adequate for League Two or struggling League One sides; promotion ambitions require better anticipation and distribution from the back.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
+- Best-fit role is [[sweeper]] Sweeper.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Interceptions, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -66,10 +74,11 @@ Centre-back with decent physical attributes and a competitive streak, but his po
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ Centre-back with decent physical attributes and a competitive streak, but his po
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

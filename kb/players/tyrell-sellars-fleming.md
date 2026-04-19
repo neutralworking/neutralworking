@@ -2,7 +2,7 @@
 title: Tyrell Sellars-Fleming
 category: players
 tags: [CF, Hull City, England, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Hull City. Archetype: Sprinter.
@@ -22,13 +22,20 @@ backlinks: [sprinter, hull-city]
 | **Age** | 20 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 57 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 English centre-forward at twenty with the physical profile and movement patterns to trouble defences at Championship level, which is likely his natural ceiling. He's a poacher in the box with a genuine instinct for where the ball is going, and he works hard to create half-yards in crowded areas. The development question is whether he'll improve his hold-up play and link-up sufficiently to be more than a substitute option; right now, he's a young talent with a specific skill-set rather than a rounded striker. Needs time and proper coaching in a stable role to fulfil his modest but real potential.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -60,10 +67,11 @@ English centre-forward at twenty with the physical profile and movement patterns
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,6 +91,6 @@ English centre-forward at twenty with the physical profile and movement patterns
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

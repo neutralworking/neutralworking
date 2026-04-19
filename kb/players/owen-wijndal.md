@@ -2,12 +2,12 @@
 title: Owen Wijndal
 category: players
 tags: [WD, Ajax, Netherlands, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Ajax. Archetype: Creator-Sprinter.
 person_id: 16044
-backlinks: [creator, ajax]
+backlinks: [creator, corner-back, ajax]
 ---
 
 # Owen Wijndal
@@ -21,18 +21,27 @@ backlinks: [creator, ajax]
 | **Nation** | Netherlands |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Attack-minded left-back who gets forward with real pace and can whip a dangerous cross from deep. His pressing is energetic, and he'll make life uncomfortable for wingers at the byline. The glaring weakness is his defensive positioning—he'll lose track of runners in the half-space and get turned too easily by direct movements.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `79`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `79`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Shielding, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Attack-minded left-back who gets forward with real pace and can whip a dangerous
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Attack-minded left-back who gets forward with real pace and can whip a dangerous
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

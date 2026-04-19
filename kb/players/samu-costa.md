@@ -2,12 +2,12 @@
 title: Samu Costa
 category: players
 tags: [DM, Mallorca, Portugal, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Mallorca. Archetype: Destroyer-Passer.
 person_id: 17116
-backlinks: [destroyer, mallorca]
+backlinks: [destroyer, anchor, mallorca]
 ---
 
 # Samu Costa
@@ -21,18 +21,27 @@ backlinks: [destroyer, mallorca]
 | **Nation** | Portugal |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Portuguese defensive midfielder with solid positional discipline and an ability to break up play in front of the back four without fuss. He's technically adequate but not inspired—his passing is safe rather than progressive, and he doesn't cover ground with explosive strides. For a lower-mid-table side, he's a functional screen; any higher, and you'd want more dynamism and greater range of passing.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `80`.
+- Best-fit role is [[anchor]] Anchor with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Most bankable strengths show up in Stamina, Pass Range, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A Portuguese defensive midfielder with solid positional discipline and an abilit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A Portuguese defensive midfielder with solid positional discipline and an abilit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

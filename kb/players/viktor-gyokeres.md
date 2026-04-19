@@ -2,12 +2,12 @@
 title: Viktor Gyökeres
 category: players
 tags: [CF, Arsenal, Sweden, Target-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Arsenal. Archetype: Target-Engine.
 person_id: 18358
-backlinks: [target, arsenal]
+backlinks: [target, shadow-striker, arsenal]
 ---
 
 # Viktor Gyökeres
@@ -21,6 +21,8 @@ backlinks: [target, arsenal]
 | **Nation** | Sweden |
 | **Age** | 27 |
 | **Archetype** | [[target]] Target-Engine |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
 | **Pursuit** | Priority |
@@ -30,9 +32,16 @@ backlinks: [target, arsenal]
 
 Prolific striker. 60+ goals in a calendar year at Sporting before Arsenal move Jan 2026. Pressing monster — intensity and work rate off the ball are relentless. Can play alone or in a pair. Late bloomer — Coventry → Sporting → Arsenal. Signed for ~€75M. Adapting to Premier League physicality.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `79`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `79`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Reactions, Intensity, and Movement.
@@ -67,13 +76,14 @@ Prolific striker. 60+ goals in a calendar year at Sporting before Arsenal move J
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 56.2m |
+| Mid | EUR 65.0m |
+| Ceiling | EUR 78.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Prolific striker. 60+ goals in a calendar year at Sporting before Arsenal move J
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

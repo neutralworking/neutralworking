@@ -2,12 +2,12 @@
 title: Nicolò Rovella
 category: players
 tags: [CM, Lazio, Italy, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lazio. Archetype: Engine-Passer.
 person_id: 15698
-backlinks: [engine, lazio]
+backlinks: [engine, metodista, lazio]
 ---
 
 # Nicolò Rovella
@@ -21,18 +21,27 @@ backlinks: [engine, lazio]
 | **Nation** | Italy |
 | **Age** | 24 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A young midfielder with excellent ball retention and the ability to operate under pressure without panic, showing maturity beyond his 24 years in possession. His forward passing is developing well, and he's already a fixture in Italian football's midfielder conversation. The concern is whether he can add more incisive moments in the final third; right now, he's very good at controlling games but occasionally anonymous when Lazio needs to break down a parked bus.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `81`.
+- Best-fit role is [[metodista]] Metodista with model support score `81`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Most bankable strengths show up in Aggression, Balance, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A young midfielder with excellent ball retention and the ability to operate unde
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 21.8m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ A young midfielder with excellent ball retention and the ability to operate unde
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

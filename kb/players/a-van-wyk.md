@@ -2,12 +2,12 @@
 title: A. Van Wyk
 category: players
 tags: [WM, SV Ried, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at SV Ried. Archetype: Striker-Creator.
 person_id: 23687
-backlinks: [striker, sv-ried]
+backlinks: [striker, false-winger, sv-ried]
 ---
 
 # A. Van Wyk
@@ -18,21 +18,30 @@ backlinks: [striker, sv-ried]
 |---|---|
 | **Position** | WM |
 | **Club** | SV Ried |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[false-winger]] False Winger |
+| **Role Score** | 73 |
 | **Level** | 77 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Van Wyk projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Discipline, Close Range, and Composure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `False Winger` with model support score `73`.
+- Best-fit role is [[false-winger]] False Winger with model support score `73`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Discipline, Close Range, and Composure.
 
@@ -57,13 +66,14 @@ A. Van Wyk projects primarily as a WM with a `Striker-Creator` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,5 +95,5 @@ A. Van Wyk projects primarily as a WM with a `Striker-Creator` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

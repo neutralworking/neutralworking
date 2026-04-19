@@ -2,12 +2,12 @@
 title: Chemsdine Talbi
 category: players
 tags: [WF, Sunderland, Belgium, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Sunderland. Archetype: Sprinter-Dribbler.
 person_id: 9524
-backlinks: [sprinter, sunderland]
+backlinks: [sprinter, inverted-winger, sunderland]
 ---
 
 # Chemsdine Talbi
@@ -21,18 +21,27 @@ backlinks: [sprinter, sunderland]
 | **Nation** | Belgium |
 | **Age** | 20 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Pacy, direct winger with encouraging acceleration and willingness, but his end product is raw and he's inefficient in tight spaces. Very young; could develop into a useful player with proper coaching and game-time.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `81`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `81`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Pacy, direct winger with encouraging acceleration and willingness, but his end p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ Pacy, direct winger with encouraging acceleration and willingness, but his end p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Sem Scheperman
 category: players
 tags: [CM, Heracles, Netherlands, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Heracles. Archetype: Powerhouse-Destroyer.
 person_id: 17303
-backlinks: [powerhouse, heracles]
+backlinks: [powerhouse, tuttocampista, heracles]
 ---
 
 # Sem Scheperman
@@ -21,18 +21,27 @@ backlinks: [powerhouse, heracles]
 | **Nation** | Netherlands |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Sem Scheperman is a physically imposing midfielder who excels at making progressive carries and winning the ball back, but his limited technical ability and lack of creativity may hinder his ability to control the tempo of the game. As a Colossus archetype, he is well-suited to a Metodista role where he can utilize his physicality and aggression to dictate the tempo of the game. Historically, his style of play is reminiscent of traditional midfield controllers who prioritize maintaining possession over creating scoring opportunities, and he would thrive in a system that allows him to make inverted runs and exploit half-spaces. From a squad-building perspective, Scheperman's market position is relatively high due to his physical attributes, making him a target for top-tier clubs looking to add control to their midfield, but his limited technical ability may be a risk factor for teams that rely on a strong defensive structure.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `74`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
@@ -62,13 +71,14 @@ Sem Scheperman is a physically imposing midfielder who excels at making progress
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Sem Scheperman is a physically imposing midfielder who excels at making progress
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

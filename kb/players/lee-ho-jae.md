@@ -1,96 +1,66 @@
 ---
-title: Lee Ho-Jae
+title: Lee Ho-jae
 category: players
-tags: [CF, Pohang Steelers, Striker]
-updated: 2026-04-18
+tags: [CF, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CF at Pohang Steelers. Archetype: Striker.
-person_id: 21857
-backlinks: [striker, pohang-steelers]
+confidence: low
+summary: CF at —. Archetype: —.
+person_id: 27979
 ---
 
-# Lee Ho-Jae
+# Lee Ho-jae
 
 ## Overview
 
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Pohang Steelers |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[striker]] Striker |
-| **Level** | 75 |
-| **Overall** | 61.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 25 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Lee Ho-Jae projects primarily as a CF with a `Striker` lean. The strongest database support comes from Carries, Tactical, and Threat.
+Lee Ho-jae is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `69`.
-- Primary archetype leans toward `Striker` behaviour from a `CF` base.
-- Most bankable strengths show up in Carries, Tactical, and Threat.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Carries, Tactical, and Threat.
-- Style traits point toward Direct in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Tactical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Threat | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Close Range | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Long Range | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Physical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Pressing | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 58
-- **Motivation (SN)**: 57
-- **Social (TF)**: 58
-- **Pressure (JP)**: 54
-- **Competitiveness**: 2/10
-- **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Direct** (style) — severity 7/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

@@ -2,12 +2,12 @@
 title: Lorenzo Pirola
 category: players
 tags: [CD, Olympiacos, Italy, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Olympiacos. Archetype: Destroyer.
 person_id: 14016
-backlinks: [destroyer, olympiacos]
+backlinks: [destroyer, colossus, olympiacos]
 ---
 
 # Lorenzo Pirola
@@ -21,18 +21,27 @@ backlinks: [destroyer, olympiacos]
 | **Nation** | Italy |
 | **Age** | 24 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A composed left-sided centre-back who reads the game with intelligence and distributes from the back with genuine quality—pressing triggers are excellent, and he's comfortable in possession, which matters at a ball-dominant club like Olympiacos. The problem is pure athleticism: he's not quick enough to recover against direct runners in a high press, and in the Greek Super League's more pragmatic style, he'll be exposed against pacey strikers who isolate him. Best deployed in a back three or against technically superior but less explosive opponents.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `79`.
+- Best-fit role is [[colossus]] Colossus with model support score `79`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Jumping, Physical, and Reactions.
@@ -67,13 +76,14 @@ A composed left-sided centre-back who reads the game with intelligence and distr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ A composed left-sided centre-back who reads the game with intelligence and distr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

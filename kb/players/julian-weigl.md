@@ -2,12 +2,12 @@
 title: Julian Weigl
 category: players
 tags: [DM, Al Qadsia, Germany, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Al Qadsia. Archetype: Engine-Passer.
 person_id: 13186
-backlinks: [engine, al-qadsia]
+backlinks: [engine, regista, al-qadsia]
 ---
 
 # Julian Weigl
@@ -21,18 +21,27 @@ backlinks: [engine, al-qadsia]
 | **Nation** | Germany |
 | **Age** | 30 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 36 |
 | **Level** | 85 |
 | **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A metronomic holding midfielder with excellent positional sense and the ability to break lines with a simple, accurate pass—his range is genuinely good. However, he's become increasingly immobile and offers almost nothing in transition when possession is turned over quickly. At 30, he's a solid match-day squad option for a team that wants to control tempo, but not a dynamic asset.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `36`.
+- Best-fit role is [[regista]] Regista with model support score `36`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Pass Range, Reactions, and Stamina.
@@ -67,13 +76,14 @@ A metronomic holding midfielder with excellent positional sense and the ability 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 23.0m |
+| Ceiling | EUR 27.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A metronomic holding midfielder with excellent positional sense and the ability 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

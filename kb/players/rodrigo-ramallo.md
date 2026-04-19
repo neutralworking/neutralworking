@@ -2,11 +2,12 @@
 title: Rodrigo Ramallo
 category: players
 tags: [CF, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 29106
+backlinks: [seconda-punta]
 ---
 
 # Rodrigo Ramallo
@@ -16,22 +17,31 @@ person_id: 29106
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Bolivia |
 | **Age** | 35 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 74 |
+| **Level** | — |
 | **Overall** | 57.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Rodrigo Ramallo projects primarily as a CF with a `None` lean. The strongest database support comes from Creativity, Long Range, and Take Ons.
+Rodrigo Ramallo projects primarily as a CF with a `—` lean. The strongest database support comes from Creativity, Long Range, and Take Ons.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `74`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `74`.
 - Most bankable strengths show up in Creativity, Long Range, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -61,8 +71,9 @@ Rodrigo Ramallo projects primarily as a CF with a `None` lean. The strongest dat
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -73,4 +84,4 @@ Rodrigo Ramallo projects primarily as a CF with a `None` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |

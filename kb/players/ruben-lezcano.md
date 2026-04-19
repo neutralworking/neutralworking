@@ -2,12 +2,12 @@
 title: Rubén Lezcano
 category: players
 tags: [CM, Fluminense, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Fluminense. Archetype: None.
+summary: CM at Fluminense. Archetype: —.
 person_id: 28213
-backlinks: [fluminense]
+backlinks: [metodista, fluminense]
 ---
 
 # Rubén Lezcano
@@ -20,19 +20,28 @@ backlinks: [fluminense]
 | **Club** | Fluminense |
 | **Nation** | Paraguay |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 43 |
+| **Level** | — |
 | **Overall** | 32.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Rubén Lezcano projects primarily as a CM with a `None` lean. The strongest database support comes from Close Range, Discipline, and Composure.
+Rubén Lezcano projects primarily as a CM with a `—` lean. The strongest database support comes from Close Range, Discipline, and Composure.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `43`.
+- Best-fit role is [[metodista]] Metodista with model support score `43`.
 - Most bankable strengths show up in Close Range, Discipline, and Composure.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +75,9 @@ Rubén Lezcano projects primarily as a CM with a `None` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Rubén Lezcano projects primarily as a CM with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

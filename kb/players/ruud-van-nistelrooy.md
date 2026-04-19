@@ -2,12 +2,12 @@
 title: Ruud van Nistelrooy
 category: players
 tags: [CF, Netherlands, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker-Cover.
+summary: CF at —. Archetype: Striker-Cover.
 person_id: 16923
-backlinks: [striker]
+backlinks: [striker, poacher]
 ---
 
 # Ruud van Nistelrooy
@@ -17,22 +17,31 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 49 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[poacher]] Poacher |
+| **Role Score** | 90 |
 | **Level** | 45 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF	Prolific	Striker	Hitman	Man Utd, Real Madrid	NED	B	79.1	The 2001-05 van Nistelrooy was one of the most complete strikers the Premier League has ever seen, combining fearsome pace and power with intelligent movement and, of course, unerring finishing ability. He could play with his back to goal or run in behind, could head the ball and was comfortable shooting with both feet. He was also excellent at bringing his team-mates into play, finishing the 2001-02 Champions League season with more assists than any other player in the competition.	Premier League Golden Boot, Trofeo Pichichi	He is the fourth-highest goalscorer in Champions League history with 56 goals. He is a three-time Champions League top scorer, as well as a top scorer in three different European domestic leagues. Van Nistelrooy began his career with Den Bosch, before moving onto Heerenveen, eventually making a name for himself at PSV Eindhoven where he won two Eredivisie titles. His goalscoring record at PSV attracted attention from Manchester United; a deal was in place in the summer of 2000, but because of injury problems his move was secured a year later for a then British record fee of £19 million. His time at United was successful, winning the Premier League, FA Cup, Football League Cup and FA Community Shield, along with winning the Sir Matt Busby Player of the Year twice. Van Nistelrooy hit 150 goals in just 219 games for United, as well as being their all time European record goalscorer, but fell out of favour towards the end of his tenure. Real Madrid then secured his services in 2006. Although an injury blighted the end of his days with Madrid, he did win La Liga twice and the Supercopa de España before signing for Hamburg during the January transfer window in 2010. After one-and-a-half seasons with Hamburg, he moved back to Spain with Málaga in the summer of 2011. His retirement from football was announced on 14 May 2012.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Poacher` with model support score `90`.
+- Best-fit role is [[poacher]] Poacher with model support score `90`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,10 +71,11 @@ CF	Prolific	Striker	Hitman	Man Utd, Real Madrid	NED	B	79.1	The 2001-05 van Niste
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,11 +98,11 @@ CF	Prolific	Striker	Hitman	Man Utd, Real Madrid	NED	B	79.1	The 2001-05 van Niste
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

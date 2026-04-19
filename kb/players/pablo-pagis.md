@@ -2,12 +2,12 @@
 title: Pablo Pagis
 category: players
 tags: [CF, Lorient, France, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Lorient. Archetype: Striker.
 person_id: 16059
-backlinks: [striker, lorient]
+backlinks: [striker, seconda-punta, lorient]
 ---
 
 # Pablo Pagis
@@ -21,18 +21,27 @@ backlinks: [striker, lorient]
 | **Nation** | France |
 | **Age** | 23 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 73 |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pagis is a Marksman archetype, operating as a Complete Forward with strong technical and tactical acumen, highlighted by his excellent close-range finishing, penalties, first touch, and reactions. As a 'counter_attack_threat' with a 'direct' playing style, he embodies the modern striker capable of leading the line and finishing efficiently, but he exhibits limited mental resilience and defensive awareness. At 23 and at his peak, he offers immediate goal-scoring threat for clubs seeking a reliable and tactically intelligent Complete Forward, making him an excellent acquisition despite some deficiencies in defensive contribution.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `73`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `73`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in First Touch, Stamina, and Acceleration.
@@ -63,13 +72,14 @@ Pagis is a Marksman archetype, operating as a Complete Forward with strong techn
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Pagis is a Marksman archetype, operating as a Complete Forward with strong techn
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

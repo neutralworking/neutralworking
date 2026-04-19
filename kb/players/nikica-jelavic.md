@@ -2,12 +2,12 @@
 title: Nikica Jelavić
 category: players
 tags: [CF, Croatia, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker.
+summary: CF at —. Archetype: Striker.
 person_id: 15711
-backlinks: [striker]
+backlinks: [striker, shadow-striker]
 ---
 
 # Nikica Jelavić
@@ -17,22 +17,30 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Croatia |
 | **Age** | 40 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 43 |
 | **Overall** | 42.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker	Finisher	Everton	CRO	C	0.0			He started his career with Croatian side Hajduk Split of the Prva HNL in 2002, before moving to Belgian Pro League club Zulte Waregem in 2007. A year later, he moved to Austrian Bundesliga club Rapid Wien. In 2010 he was signed by Rangers, with whom he won the Scottish Premier League and the Scottish League Cup in his first season. He moved to England with Everton in January 2012, and Hull City two years later. Jelavić is a former Croatian international; he made his debut in 2009 and retired in 2014. He has represented the country at UEFA Euro 2012 and the 2014 FIFA World Cup.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Pace, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ CF		Striker	Finisher	Everton	CRO	C	0.0			He started his career with Croatian sid
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.0m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,11 +99,11 @@ CF		Striker	Finisher	Everton	CRO	C	0.0			He started his career with Croatian sid
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

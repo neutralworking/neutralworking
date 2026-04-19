@@ -1,40 +1,51 @@
 ---
 title: Al-Okhdood
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Al-Okhdood. 20 players in database.
+summary: Al-Okhdood. 17 players in database.
 ---
 
 # Al-Okhdood
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 20
+**League**: —  
+**Nation**: —  
+**Players in DB**: 17
+
+## Identity
+
+- Database coverage is deepest in WF (2), GK (1), and WD (1), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Powerhouse (3), Destroyer (2), and Sprinter (2) across the current squad.
+- Average available overall grade sits at 70.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[andrei-burca]] Andrei Burcă | CD | Destroyer | 75.0 |
-| [[eid-al-muwallad]] Eid Al-Muwallad | CM | None | None |
-| [[abdulaziz-al-awairdhi]] Abdulaziz Al-Awairdhi | GK | GK | None |
-| [[saad-al-saleh]] Saad Al-Saleh | GK | GK | None |
+| [[saad-al-saleh]] Saad Al-Saleh | GK | GK | — |
 | [[naif-asiri]] Naif Asiri | WD | Destroyer | 63.0 |
 | [[abdulaziz-al-hatila]] Abdulaziz Al Hatila | WF | Creator-Striker | 61.0 |
 | [[saviour-godwin]] Saviour Godwin | WF | Sprinter-Dribbler | 82.0 |
-| [[abdulrahman-al-rio]] Abdulrahman Al-Rio | None | None | None |
-| [[awadh-khamis]] Awadh Khamis | None | Powerhouse | None |
-| [[hamad-al-mansour]] Hamad Al Mansour | None | Powerhouse | None |
-| [[hussain-al-zabdani]] Hussain Al-Zabdani | None | None | None |
-| [[mohammed-al-jahif]] Mohammed Al Jahif | None | Striker | None |
-| [[mourad-khodari]] Mourad Khodari | None | Sprinter | None |
-| [[musleh-al-shaikh]] Musleh Al-Shaikh | None | None | None |
-| [[rayan-hattan]] Rayan Hattan | None | None | None |
-| [[saeed-al-rubaie]] Saeed Al-Rubaie | None | None | None |
-| [[saleh-al-harthi]] Saleh Al-Harthi | None | None | None |
-| [[saud-salem]] Saud Salem | None | Cover | None |
-| [[sharfi-al-saleem]] Sharfi Al Saleem | None | Powerhouse | None |
-| [[yaseen-al-zubaidi]] Yaseen Al-Zubaidi | None | None | None |
+| Abdulrahman Al-Rio | — | — | — |
+| Awadh Khamis | — | Powerhouse | — |
+| Hamad Al Mansour | — | Powerhouse | — |
+| Hussain Al-Zabdani | — | — | — |
+| Mohammed Al Jahif | — | Striker | — |
+| Mourad Khodari | — | Sprinter | — |
+| Musleh Al-Shaikh | — | — | — |
+| Rayan Hattan | — | — | — |
+| Saeed Al-Rubaie | — | — | — |
+| Saleh Al-Harthi | — | — | — |
+| Saud Salem | — | Cover | — |
+| Sharfi Al Saleem | — | Powerhouse | — |

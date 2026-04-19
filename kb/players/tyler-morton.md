@@ -2,12 +2,12 @@
 title: Tyler Morton
 category: players
 tags: [DM, Lyon, England, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Lyon. Archetype: Dribbler.
 person_id: 18211
-backlinks: [dribbler, lyon]
+backlinks: [dribbler, regista, lyon]
 ---
 
 # Tyler Morton
@@ -21,18 +21,27 @@ backlinks: [dribbler, lyon]
 | **Nation** | England |
 | **Age** | 23 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young English defensive midfielder on loan with reasonable positional discipline and the physical profile to handle ball-winning, though he lacks the spatial intelligence or technical range to truly orchestrate play. Press resistance is acceptable but not advanced; he'll get flustered by aggressive closing if not given time. Developmental option with potential, but currently just a squad player who needs experience.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `79`.
+- Best-fit role is [[regista]] Regista with model support score `79`.
 - Primary archetype leans toward `Dribbler` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in First Touch, Stamina, and Balance.
@@ -67,13 +76,14 @@ Young English defensive midfielder on loan with reasonable positional discipline
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Young English defensive midfielder on loan with reasonable positional discipline
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Stephen Welsh
 category: players
 tags: [CD, Motherwell, Scotland, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Motherwell. Archetype: Powerhouse-Cover.
 person_id: 17637
-backlinks: [powerhouse, motherwell]
+backlinks: [powerhouse, distributor, motherwell]
 ---
 
 # Stephen Welsh
@@ -21,18 +21,27 @@ backlinks: [powerhouse, motherwell]
 | **Nation** | Scotland |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 75 |
 | **Level** | 81 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Stephen Welsh projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Jumping, Acceleration, and Heading.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `75`.
+- Best-fit role is [[distributor]] Distributor with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Jumping, Acceleration, and Heading.
@@ -63,13 +72,14 @@ Stephen Welsh projects primarily as a CD with a `Powerhouse-Cover` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,6 +107,6 @@ Stephen Welsh projects primarily as a CD with a `Powerhouse-Cover` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

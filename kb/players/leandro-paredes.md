@@ -2,12 +2,12 @@
 title: Leandro Paredes
 category: players
 tags: [DM, Boca Juniors, Argentina, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Boca Juniors. Archetype: Creator-Passer.
 person_id: 13778
-backlinks: [creator, boca-juniors]
+backlinks: [creator, regista, boca-juniors]
 ---
 
 # Leandro Paredes
@@ -21,18 +21,27 @@ backlinks: [creator, boca-juniors]
 | **Nation** | Argentina |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 43 |
 | **Level** | 86 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A left-footed metronome who sits deep and sprays the ball across the pitch with genuine elegance—progressive passing is his calling card, and he rarely loses the ball in midfield. He reads space intelligently and can shield the back line competently. The problem is that his limitations have always been structural: he's not a ball-carrier who bends lines or drives through pressure, and defensively he's a reader rather than a physical dominator, which means he needs a more mobile partner to function in contemporary football.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `43`.
+- Best-fit role is [[regista]] Regista with model support score `43`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in First Touch, Pass Range, and Crossing.
@@ -67,13 +76,14 @@ A left-footed metronome who sits deep and sprays the ball across the pitch with 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A left-footed metronome who sits deep and sprays the ball across the pitch with 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

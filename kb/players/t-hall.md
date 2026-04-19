@@ -2,12 +2,12 @@
 title: T. Hall
 category: players
 tags: [CM, Tottenham Hotspur]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Tottenham Hotspur. Archetype: None.
+summary: CM at Tottenham Hotspur. Archetype: —.
 person_id: 27874
-backlinks: [tottenham-hotspur]
+backlinks: [ball-winner, tottenham-hotspur]
 ---
 
 # T. Hall
@@ -18,21 +18,29 @@ backlinks: [tottenham-hotspur]
 |---|---|
 | **Position** | CM |
 | **Club** | Tottenham Hotspur |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Nation** | — |
+| **Age** | — |
+| **Archetype** | — |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | — |
 | **Overall** | 41.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-T. Hall projects primarily as a CM with a `None` lean. The strongest database support comes from Pressing, Composure, and Tactical.
+T. Hall projects primarily as a CM with a `—` lean. The strongest database support comes from Pressing, Composure, and Tactical.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Most bankable strengths show up in Pressing, Composure, and Tactical.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -63,8 +71,9 @@ T. Hall projects primarily as a CM with a `None` lean. The strongest database su
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -81,5 +90,5 @@ T. Hall projects primarily as a CM with a `None` lean. The strongest database su
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 4 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |

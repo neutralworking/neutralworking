@@ -2,12 +2,12 @@
 title: Vanja Milinković-Savić
 category: players
 tags: [GK, Torino, Serbia, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Torino. Archetype: GK.
 person_id: 18307
-backlinks: [gk, torino]
+backlinks: [gk, comandante, torino]
 ---
 
 # Vanja Milinković-Savić
@@ -21,18 +21,26 @@ backlinks: [gk, torino]
 | **Nation** | Serbia |
 | **Age** | 29 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[comandante]] Comandante |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A capable, serious-minded goalkeeper who has settled into Napoli's setup with the kind of quiet competence that doesn't leap off the highlight reel but earns trust over time. He reads the game well, distributes with reasonable composure, and has the physical presence to command his box—though his shot-stopping can feel just slightly off the elite tier, with occasional lapses in concentration on routine efforts. At 29, he's a reliable custodian for a top-six side, but he'll never be the kind of goalkeeper who singles himself out as a ballast in a title race.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Comandante`.
+- Best-fit role is [[comandante]] Comandante.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Jumping, Reactions, and Pace.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ A capable, serious-minded goalkeeper who has settled into Napoli's setup with th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 34.0m |
+| Ceiling | EUR 40.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ A capable, serious-minded goalkeeper who has settled into Napoli's setup with th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

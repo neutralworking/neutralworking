@@ -2,12 +2,12 @@
 title: Keito Nakamura
 category: players
 tags: [WF, Reims, Japan, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Reims. Archetype: Striker-Destroyer.
 person_id: 13404
-backlinks: [striker, reims]
+backlinks: [striker, inverted-winger, reims]
 ---
 
 # Keito Nakamura
@@ -21,18 +21,26 @@ backlinks: [striker, reims]
 | **Nation** | Japan |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 85 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Quick, direct winger capable of creating space in transition, but has struggled with consistency and decision-making at this level. Technical quality is decent but lacks the end product or intelligence for a higher tier.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Stamina.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ Quick, direct winger capable of creating space in transition, but has struggled 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 51.0m |
+| Ceiling | EUR 61.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ Quick, direct winger capable of creating space in transition, but has struggled 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

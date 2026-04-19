@@ -2,12 +2,12 @@
 title: Harry Kane
 category: players
 tags: [CF, Bayern Munich, England, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Bayern Munich. Archetype: Striker-Engine.
 person_id: 11694
-backlinks: [striker, bayern-munich]
+backlinks: [striker, seconda-punta, bayern-munich]
 ---
 
 # Harry Kane
@@ -21,6 +21,8 @@ backlinks: [striker, bayern-munich]
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 89 |
 | **Level** | 91 |
 | **Overall** | 77.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [striker, bayern-munich]
 
 Harry Kane is a clinical complete forward with a strong technical foundation, but his declining physicality and limited tactical awareness may restrict his influence on the game. His ability to finish chances and create opportunities is exceptional, but his lack of aerial ability and limited blocking skills may make him less effective in certain systems. A club with a strong attacking unit and a direct system could still benefit from his skills, but his declining career trajectory may limit his long-term value.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `89`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `89`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Reactions, Close Range, and Composure.
@@ -67,13 +76,14 @@ Harry Kane is a clinical complete forward with a strong technical foundation, bu
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.0m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | Medium |
+| Floor | EUR 57.8m |
+| Mid | EUR 68.0m |
+| Ceiling | EUR 81.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ Harry Kane is a clinical complete forward with a strong technical foundation, bu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 54 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 54 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

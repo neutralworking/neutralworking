@@ -2,12 +2,12 @@
 title: Jeffinho
 category: players
 tags: [WF, Botafogo, Brazil, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Botafogo. Archetype: Creator-Striker.
 person_id: 12525
-backlinks: [creator, botafogo]
+backlinks: [creator, winger, botafogo]
 ---
 
 # Jeffinho
@@ -21,18 +21,27 @@ backlinks: [creator, botafogo]
 | **Nation** | Brazil |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 81 |
 | **Level** | 85 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Jeffinho projects primarily as a WF with a `Creator-Striker` lean. The strongest database support comes from Duels, Skills, and Take Ons.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `81`.
+- Best-fit role is [[winger]] Winger with model support score `81`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Duels, Skills, and Take Ons.
@@ -67,13 +76,14 @@ Jeffinho projects primarily as a WF with a `Creator-Striker` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,6 +110,6 @@ Jeffinho projects primarily as a WF with a `Creator-Striker` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

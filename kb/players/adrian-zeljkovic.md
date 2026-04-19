@@ -2,12 +2,12 @@
 title: Adrian Zeljković
 category: players
 tags: [CM, IFK Värnamo, Slovenia, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at IFK Värnamo. Archetype: Sprinter.
 person_id: 7902
-backlinks: [sprinter, ifk-varnamo]
+backlinks: [sprinter, playmaker, ifk-varnamo]
 ---
 
 # Adrian Zeljković
@@ -21,18 +21,27 @@ backlinks: [sprinter, ifk-varnamo]
 | **Nation** | Slovenia |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Zeljković, a Sprinter archetype designated as a Metodista, exhibits strong tactical and mental pillars, complemented by exceptional physical attributes like pace, acceleration, and jumping at 192cm. His moderate technical skills are effective in passing, but he struggles with defensive blocking, lacks creative guile, and offers limited offensive imagination. This type of towering yet mobile central midfielder, focused on efficient ball distribution and direct play, aligns with traditional box-to-box roles adapted to cover ground defensively and launch quick transitions. At 23, he offers significant value as a robust, athletic presence in central midfield for a club prioritizing defensive stability and direct progression, though his lack of creativity means he won't be a primary attacking force.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `79`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `79`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Pace, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Zeljković, a Sprinter archetype designated as a Metodista, exhibits strong tact
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 35.7m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Zeljković, a Sprinter archetype designated as a Metodista, exhibits strong tact
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

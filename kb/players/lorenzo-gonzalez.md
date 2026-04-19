@@ -2,12 +2,12 @@
 title: Lorenzo Gonzalez
 category: players
 tags: [AM, FBC Melgar, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at FBC Melgar. Archetype: Creator.
 person_id: 19125
-backlinks: [creator, fbc-melgar]
+backlinks: [creator, enganche, fbc-melgar]
 ---
 
 # Lorenzo Gonzalez
@@ -18,16 +18,17 @@ backlinks: [creator, fbc-melgar]
 |---|---|
 | **Position** | AM |
 | **Club** | FBC Melgar |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 CountrySwitzerland
 
@@ -36,12 +37,6 @@ ClubManchester City
 PositionForward
 
 Born10 April 2000
-
-
-
-
-
-
 
 ****
 
@@ -57,10 +52,16 @@ The biggest Swiss talent of his generation by some distance, he has been compare
  
 **September 2022 update** Has taken another step on his nomadic career, joining AD Ceuta in the Spanish third tier after a mixed season in the Czech Republic.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `69`.
+- Best-fit role is [[enganche]] Enganche with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Discipline, Creativity, and Tactical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -86,13 +87,14 @@ The biggest Swiss talent of his generation by some distance, he has been compare
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -113,16 +115,15 @@ The biggest Swiss talent of his generation by some distance, he has been compare
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountrySwitzerland
 
@@ -131,12 +132,6 @@ ClubManchester City
 PositionForward
 
 Born10 April 2000
-
-
-
-
-
-
 
 ****
 
@@ -148,6 +143,6 @@ The biggest Swiss talent of his generation by some distance, he has been compare
  
 **October 2020 update** After making only six La Liga 2 appearances for Málaga he joined St Gallen in the Swiss top flight. Suffered a cruciate knee ligament injury in June.
  
-**October 2021 update** Battled back to full fitness by the end of the 2020-21 season but only managed 22 minutes of league football. Took...
+**October 2021 update** Battled back to full fitness by the end of the 2020-21 season but only managed 22 minutes of league football. Took the un...
 
 </details>

@@ -2,12 +2,12 @@
 title: Bebeto
 category: players
 tags: [CM, Tondela, Brazil, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Tondela. Archetype: Destroyer.
 person_id: 8923
-backlinks: [destroyer, tondela]
+backlinks: [destroyer, tuttocampista, tondela]
 ---
 
 # Bebeto
@@ -21,18 +21,27 @@ backlinks: [destroyer, tondela]
 | **Nation** | Brazil |
 | **Age** | 62 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 50 |
 | **Level** | 40 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker			BRA	B	79.0	One of Brazil's greatest strikers, Bebeto was a prolific goalscorer and an excellent finisher, who was known for his consistency and determination throughout his career, although he was also injury-prone and was criticised for his character. Despite not being imposing physically due to his lack of height and slender physique, he was a fast and opportunistic player, who used his agility and intelligence to lose his markers in tight spaces. Due to his vision, outstanding technical skills, control, and his ability to play off other strikers and provide them with assists, he was often employed as a playmaking attacking midfielder or as a supporting striker early on in his career, drawing influence from Zico's playing style. He was later deployed as a striker or as a centre-forward, where he excelled, and remained in this position for the rest of his career	Trofeo Pichichi	With 39 goals in 75 appearances for Brazil, Bebeto is the sixth highest goalscorer for his national team. He was the top scorer for Brazil at the 1989 Copa América. At the 1994 FIFA World Cup, he formed a formidable strike partnership with Romário to lead Brazil to a record fourth World Cup title. In 1989, Bebeto was named South American Footballer of the Year.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `50`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `50`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Tackling, and Awareness.
@@ -62,13 +71,14 @@ CF		Striker			BRA	B	79.0	One of Brazil's greatest strikers, Bebeto was a prolifi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.0m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,11 +101,11 @@ CF		Striker			BRA	B	79.0	One of Brazil's greatest strikers, Bebeto was a prolifi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

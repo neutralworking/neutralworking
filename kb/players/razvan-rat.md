@@ -1,33 +1,40 @@
 ---
-title: Răzvan Raț
+title: Razvan Rat
 category: players
 tags: [WD, Romania]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at None. Archetype: None.
-person_id: 16535
+summary: WD at —. Archetype: —.
+person_id: 16534
 ---
 
-# Răzvan Raț
+# Razvan Rat
 
 ## Overview
 
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Romania |
-| **Age** | 44 |
-| **Archetype** | [[—]] None |
-| **Level** | 43 |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-WD					ROU	C	0.0
+Razvan Rat is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -44,13 +51,15 @@ WD					ROU	C	0.0
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
+- Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
@@ -58,18 +67,4 @@ WD					ROU	C	0.0
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
-
-## Research Notes
-
-<details>
-<summary>Raw scouting narrative</summary>
-
----
-{}
----
-
-WD					ROU	C	0.0			
-
-</details>
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

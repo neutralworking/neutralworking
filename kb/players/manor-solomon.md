@@ -2,12 +2,12 @@
 title: Manor Solomon
 category: players
 tags: [WF, Fiorentina, Israel, Sprinter-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Fiorentina. Archetype: Sprinter-Passer.
 person_id: 14387
-backlinks: [sprinter, fiorentina]
+backlinks: [sprinter, inverted-winger, fiorentina]
 ---
 
 # Manor Solomon
@@ -21,18 +21,27 @@ backlinks: [sprinter, fiorentina]
 | **Nation** | Israel |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Explosive left-winger with genuine pace and directness; pressing engagement is committed though occasionally reckless. Capable scorer against lower-block defences but inconsistent decision-making limits consistency at elite level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `81`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `81`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Press Resistant and Counter Attack Threat.
 - Most bankable strengths show up in Balance, Acceleration, and Shielding.
@@ -67,13 +76,14 @@ Explosive left-winger with genuine pace and directness; pressing engagement is c
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Explosive left-winger with genuine pace and directness; pressing engagement is c
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Gareth Bale
 category: players
 tags: [WF, LAFC, Wales, Sprinter-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at LAFC. Archetype: Sprinter-Striker.
 person_id: 11263
-backlinks: [sprinter, lafc]
+backlinks: [sprinter, inverted-winger, lafc]
 ---
 
 # Gareth Bale
@@ -21,9 +21,11 @@ backlinks: [sprinter, lafc]
 | **Nation** | Wales |
 | **Age** | 36 |
 | **Archetype** | [[sprinter]] Sprinter-Striker |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 93 |
 | **Level** | 66 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -32,9 +34,16 @@ WF	Prolific	Speedster	Rocket	Tottenham, Real Madrid	WAL	A	86.4	One of the fastes
  On 1 September 2013, Bale was transferred to Real Madrid for an undisclosed fee. Press at the time reported the transfer value at figures between €91million and €100million.[9][10][11][12][13][14] In January 2016, documents pertaining to the transfer were leaked which confirmed a world record transfer fee of €100.8 million, eclipsing the previous record fee of £80 million (€94 million) for Cristiano Ronaldo in 2009.[15] Bale played an integral role in his first season at Real Madrid, helping the club to win the Copa del Rey and the UEFA Champions League, scoring in both finals. The following season he won the UEFA Super Cup and scored in a third major final to help the club win the FIFA Club World Cup.
  Bale made his senior international debut for Wales in May 2006, becoming the youngest player at that point to represent the nation. He has since earned over 50 caps and scored 19 international goals, making him Wales' joint fifth-highest scorer of all time. He was the top goalscorer for Wales in their successful qualifying campaign for UEFA Euro 2016, scoring seven goals."
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `93`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `93`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Long Range Threat.
 - Most bankable strengths show up in Pace, First Touch, and Skills.
@@ -71,11 +80,12 @@ WF	Prolific	Speedster	Rocket	Tottenham, Real Madrid	WAL	A	86.4	One of the fastes
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,11 +113,11 @@ WF	Prolific	Speedster	Rocket	Tottenham, Real Madrid	WAL	A	86.4	One of the fastes
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

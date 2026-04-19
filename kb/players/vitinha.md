@@ -2,12 +2,12 @@
 title: Vitinha
 category: players
 tags: [CM, Paris Saint-Germain, Portugal, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Paris Saint-Germain. Archetype: Creator-Dribbler.
 person_id: 18394
-backlinks: [creator, paris-saint-germain]
+backlinks: [creator, metodista, paris-saint-germain]
 ---
 
 # Vitinha
@@ -21,6 +21,8 @@ backlinks: [creator, paris-saint-germain]
 | **Nation** | Portugal |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 86 |
 | **Level** | 90 |
 | **Overall** | 76.0 |
 | **Pursuit** | Interested |
@@ -30,9 +32,16 @@ backlinks: [creator, paris-saint-germain]
 
 Silky midfielder with elite close control and press resistance. Glides past pressure with ease. Progressive passer. Slight frame limits aerial contribution. Portugal regular. PSG's midfield conductor. Could be available if PSG restructure.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `86`.
+- Best-fit role is [[metodista]] Metodista with model support score `86`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in Through Balls, Composure, and Pass Accuracy.
@@ -67,13 +76,14 @@ Silky midfielder with elite close control and press resistance. Glides past pres
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 104m |
+| Mid | EUR 153m |
+| Ceiling | EUR 184m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Silky midfielder with elite close control and press resistance. Glides past pres
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

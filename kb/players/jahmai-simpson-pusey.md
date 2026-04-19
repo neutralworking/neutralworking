@@ -2,12 +2,12 @@
 title: Jahmai Simpson-Pusey
 category: players
 tags: [CM, 1. FC Köln, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at 1. FC Köln. Archetype: Cover.
 person_id: 21551
-backlinks: [cover, 1-fc-koln]
+backlinks: [cover, ball-winner, 1-fc-koln]
 ---
 
 # Jahmai Simpson-Pusey
@@ -18,21 +18,29 @@ backlinks: [cover, 1-fc-koln]
 |---|---|
 | **Position** | CM |
 | **Club** | 1. FC Köln |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
-| **Level** | None |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | — |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A central midfielder best suited as a Tuttocampista, Simpson-Pusey offers moderate physical and mental attributes, with limited technical and tactical foundations. His game is built on discipline, strong duels, and impressive awareness, allowing him to contribute creatively and with good pass accuracy from central areas. This profile hints at a traditional, industrious central midfielder, akin to the workhorse types found in classic double-pivot systems. As a developing player, a club investing in a reliable, defensively-minded Tuttocampista with creative flashes could find value, but his limited technical ceiling and tactical nuances mean a longer-term project without elite-level aspirations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Communication, Concentration, and Leadership.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -64,11 +72,12 @@ A central midfielder best suited as a Tuttocampista, Simpson-Pusey offers modera
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 6.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +97,6 @@ A central midfielder best suited as a Tuttocampista, Simpson-Pusey offers modera
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

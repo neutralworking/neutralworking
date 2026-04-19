@@ -2,12 +2,12 @@
 title: Kristian Hlynsson
 category: players
 tags: [CM, FC Twente, Iceland, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC Twente. Archetype: Dribbler-Creator.
 person_id: 13634
-backlinks: [dribbler, fc-twente]
+backlinks: [dribbler, playmaker, fc-twente]
 ---
 
 # Kristian Hlynsson
@@ -21,13 +21,14 @@ backlinks: [dribbler, fc-twente]
 | **Nation** | Iceland |
 | **Age** | 22 |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 68 |
 | **Level** | 71 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubAjax
 
@@ -42,10 +43,16 @@ Iceland’s under-21 team played twice in September with the 21-year-old Agust H
   
 **October 2023 update** Promoted from the reserve team to the first team at Ajax in the summer. Made his Eredivisie debut in August and started his first game in September. Looks certain to benefit from the team's poor start to the season in the form of more playing time. "Hlynsson comes into his own much more in the No 10 role," the Ajax coach, Maurice Steijn, has said.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `68`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `68`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Stamina, Balance, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -76,13 +83,14 @@ Iceland’s under-21 team played twice in September with the 21-year-old Agust H
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 4.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,17 +115,16 @@ Iceland’s under-21 team played twice in September with the 21-year-old Agust H
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubAjax
 
@@ -131,6 +138,5 @@ Iceland’s under-21 team played twice in September with the 21-year-old Agust H
 **September 2022 update** A sign of the young man’s confidence could be seen when he made his Ajax first-team debut against Barendrecht, not just taking a penalty but smashing into the top corner. Has started the 2022-23 season with Jong Ajax but was included in the first-team squad that travelled to Liverpool for the Champions League tie at Anfield in September.  
   
 **October 2023 update** Promoted from the reserve team to the first team at Ajax in the summer. Made his Eredivisie debut in August and started his first game in September. Looks certain to benefit from the team's poor start to the season in the form of more playing time. "Hlynsson comes into his own much more in the No 10 role," the Ajax coach, Maurice Steijn, has said.
-
 
 </details>

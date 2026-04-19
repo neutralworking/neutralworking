@@ -2,12 +2,12 @@
 title: Rayan Cherki
 category: players
 tags: [WF, Manchester City, France, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Manchester City. Archetype: Creator-Dribbler.
 person_id: 16524
-backlinks: [creator, manchester-city]
+backlinks: [creator, wide-playmaker, manchester-city]
 ---
 
 # Rayan Cherki
@@ -21,18 +21,27 @@ backlinks: [creator, manchester-city]
 | **Nation** | France |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 84 |
 | **Level** | 88 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Prodigiously talented French playmaker. Can do anything with the ball but consistency and off-ball work have held him back from stardom.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `84`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `84`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Composure, Creativity, and Pass Accuracy.
@@ -67,13 +76,14 @@ Prodigiously talented French playmaker. Can do anything with the ball but consis
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 61.8m |
+| Mid | EUR 81.0m |
+| Ceiling | EUR 97.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,17 +117,16 @@ Prodigiously talented French playmaker. Can do anything with the ball but consis
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubLyon
 
@@ -130,6 +139,6 @@ You would be hard pressed to find anyone at Lyon who has been taken aback by the
   
 **October 2021 update** Scored his first league goal in a 3–2 win over Monaco in May and made 27 appearances in Ligue 1 despite his tender years. However, Lyon have so far failed to tie him down with a contract beyond 2023 and Cherki hinted last month that his future may lie elsewhere. “We all know the club of my dreams is Real Madrid,” he said last month. “That is the perfect route and the one I have in mind. Every morning I wake up for that and to go on and fulfil my dreams.”  
   
-**September 2022 update** Still yet to make a major breakthrough into the first team but there have been glimpses of his immense talent in several appearances off the bench. Extended his contract for an extra year in June, with Lyon r...
+**September 2022 update** Still yet to make a major breakthrough into the first team but there have been glimpses of his immense talent in several appearances off the bench. Extended his contract for an extra year in June, with Lyon re...
 
 </details>

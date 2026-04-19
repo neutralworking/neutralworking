@@ -2,12 +2,12 @@
 title: Yangel Herrera
 category: players
 tags: [DM, Girona, Venezuela, Cover-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Girona. Archetype: Cover-Dribbler.
 person_id: 18594
-backlinks: [cover, girona]
+backlinks: [cover, pivote, girona]
 ---
 
 # Yangel Herrera
@@ -21,18 +21,26 @@ backlinks: [cover, girona]
 | **Nation** | Venezuela |
 | **Age** | 28 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[pivote]] Pivote |
 | **Level** | 85 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Defensive midfielder with energy, ball-winning instinct, and decent press coverage; limited on the ball and doesn't dictate tempo. Valuable presser and screen but not a playmaker—effective in his narrow lane.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Pivote`.
+- Best-fit role is [[pivote]] Pivote.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Jumping, Aggression, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ Defensive midfielder with energy, ball-winning instinct, and decent press covera
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +108,7 @@ Defensive midfielder with energy, ball-winning instinct, and decent press covera
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Youssef En-Nesyri
 category: players
 tags: [CF, Al-Ittihad, Morocco, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Al-Ittihad. Archetype: Striker-Target.
 person_id: 18685
-backlinks: [striker, al-ittihad]
+backlinks: [striker, shadow-striker, al-ittihad]
 ---
 
 # Youssef En-Nesyri
@@ -21,18 +21,27 @@ backlinks: [striker, al-ittihad]
 | **Nation** | Morocco |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 68 |
 | **Level** | 86 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 En-Nesyri embodies the Marksman archetype, functioning as a direct Spearhead known for exceptional aerial prowess through his jumping and heading, combined with good pace and intelligent movement to be a constant counter-attack threat. Historically, he fits the mold of a traditional poacher, focused on arriving in the box to finish attacks, rather than initiating them. However, his limited technical, mental, and physical pillars, along with a lack of creativity and guile, mean he offers little outside of goal-scoring opportunities and struggles in duels. As a durable journeyman striker in the C side market, he's best suited for a club seeking a specific profile to convert chances, not a forward who will drop deep or engage heavily in link-up play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `68`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `68`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Movement, and Stamina.
@@ -67,13 +76,14 @@ En-Nesyri embodies the Marksman archetype, functioning as a direct Spearhead kno
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ En-Nesyri embodies the Marksman archetype, functioning as a direct Spearhead kno
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Elias Baum
 category: players
 tags: [WD, Eintracht Frankfurt, Germany, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Eintracht Frankfurt. Archetype: Powerhouse-Cover.
 person_id: 10538
-backlinks: [powerhouse, eintracht-frankfurt]
+backlinks: [powerhouse, wing-back, eintracht-frankfurt]
 ---
 
 # Elias Baum
@@ -21,18 +21,26 @@ backlinks: [powerhouse, eintracht-frankfurt]
 | **Nation** | Germany |
 | **Age** | 20 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[wing-back]] Wing-back |
 | **Level** | 65 |
 | **Overall** | 57.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A German left-back prospect with good technical foundations and the athleticism to cover space, but he's still learning the positional discipline required at senior level. His crossing is serviceable rather than dangerous, and he can be caught flat-footed in transition. Young, hungry, and not yet proven.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back`.
+- Best-fit role is [[wing-back]] Wing-back.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -68,11 +76,12 @@ A German left-back prospect with good technical foundations and the athleticism 
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 4.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ A German left-back prospect with good technical foundations and the athleticism 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

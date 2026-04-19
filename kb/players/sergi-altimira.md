@@ -2,12 +2,12 @@
 title: Sergi Altimira
 category: players
 tags: [DM, Real Betis, Spain, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Real Betis. Archetype: Creator-Destroyer.
 person_id: 20848
-backlinks: [creator, real-betis]
+backlinks: [creator, anchor, real-betis]
 ---
 
 # Sergi Altimira
@@ -21,18 +21,27 @@ backlinks: [creator, real-betis]
 | **Nation** | Spain |
 | **Age** | 24 |
 | **Archetype** | [[creator]] Creator-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Altimira represents a rare blend: strong technical foundation with sophisticated tactical layer, yet limited mental resilience creates a dangerous inconsistency. His pass accuracy, range, and vision permit creative influence from deep, while his take-ons and high-press activity mark him as an active colossus rather than a passive shield. The discipline weakness and noted technical shortcoming (volleys) suggest brittleness under psychological pressure; clubs with composed defensive structure and creative midfield support can unlock his distributional gifts, but volatile or transitional environments will expose his mental fragility. At 24, he's a prospect for structured, data-rich organizations willing to manage his development carefully.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `75`.
+- Best-fit role is [[anchor]] Anchor with model support score `75`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in First Touch, Movement, and Pass Range.
@@ -63,13 +72,14 @@ Altimira represents a rare blend: strong technical foundation with sophisticated
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Altimira represents a rare blend: strong technical foundation with sophisticated
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

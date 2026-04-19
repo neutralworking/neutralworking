@@ -2,12 +2,12 @@
 title: Naci Ünüvar
 category: players
 tags: [CM, FC Twente, Turkey, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC Twente. Archetype: Dribbler.
 person_id: 15484
-backlinks: [dribbler, fc-twente]
+backlinks: [dribbler, playmaker, fc-twente]
 ---
 
 # Naci Ünüvar
@@ -21,13 +21,13 @@ backlinks: [dribbler, fc-twente]
 | **Nation** | Turkey |
 | **Age** | 22 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 79 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubAjax
 
@@ -43,10 +43,16 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
   
 **October 2023 update** Injuries meant that Ünüvar did not get as much game time as he or Ajax would have hoped while on loan at Trabzonspor. Now with Twente on another temporary deal.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Take Ons.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -77,13 +83,14 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -111,17 +118,16 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubAjax
 
@@ -136,6 +142,5 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
 **September 2022 update** Regarded as one of the most talented young players at Ajax but the arrival of players such as Davy Klaassen, Steven Berghuis and Mohammed Kudus did not help his chances of playing. Extended his contract until 2026 and joined Trabzonspor on loan.  
   
 **October 2023 update** Injuries meant that Ünüvar did not get as much game time as he or Ajax would have hoped while on loan at Trabzonspor. Now with Twente on another temporary deal.
-
 
 </details>

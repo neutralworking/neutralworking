@@ -2,12 +2,12 @@
 title: Chrisantus Uche
 category: players
 tags: [AM, Crystal Palace, Nigeria, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Crystal Palace. Archetype: Powerhouse-Destroyer.
 person_id: 9571
-backlinks: [powerhouse, crystal-palace]
+backlinks: [powerhouse, incursore, crystal-palace]
 ---
 
 # Chrisantus Uche
@@ -21,18 +21,26 @@ backlinks: [powerhouse, crystal-palace]
 | **Nation** | Nigeria |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[incursore]] Incursore |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A young attacking midfielder with energy and some creativity, but he's still very much in development at 22 with limited senior football at this level. His decision-making in the final third is inconsistent, and he hasn't yet shown the consistency to warrant regular minutes in the Premier League.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore`.
+- Best-fit role is [[incursore]] Incursore.
 - Primary archetype leans toward `Powerhouse` behaviour from a `AM` base.
 - Most bankable strengths show up in Physical, Jumping, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ A young attacking midfielder with energy and some creativity, but he's still ver
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +98,7 @@ A young attacking midfielder with energy and some creativity, but he's still ver
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

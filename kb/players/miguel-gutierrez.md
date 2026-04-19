@@ -2,12 +2,12 @@
 title: Miguel Gutiérrez
 category: players
 tags: [WD, Napoli, Spain, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Napoli. Archetype: Creator-Dribbler.
 person_id: 15150
-backlinks: [creator, napoli]
+backlinks: [creator, fullback, napoli]
 ---
 
 # Miguel Gutiérrez
@@ -21,18 +21,27 @@ backlinks: [creator, napoli]
 | **Nation** | Spain |
 | **Age** | 24 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[fullback]] Fullback |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A young Spanish left-back with good technical foundation and decent progressive carrying ability down the flank, though his defensive positioning can be naive and he's occasionally caught flat-footed by sudden switches of play. He offers genuine attacking impetus but lacks the consistency to be relied upon as a starter at this level just yet. Development player with potential but current limitations.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Fullback` with model support score `82`.
+- Best-fit role is [[fullback]] Fullback with model support score `82`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Balance, and Crossing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ A young Spanish left-back with good technical foundation and decent progressive 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A young Spanish left-back with good technical foundation and decent progressive 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

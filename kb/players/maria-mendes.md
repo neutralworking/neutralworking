@@ -2,10 +2,10 @@
 title: Maria Mendes
 category: players
 tags: [CD, Levante Women, Spain]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Levante Women. Archetype: None.
+summary: CD at Levante Women. Archetype: —.
 person_id: 14516
 backlinks: [levante-women]
 ---
@@ -19,16 +19,23 @@ backlinks: [levante-women]
 | **Position** | CD |
 | **Club** | Levante Women |
 | **Nation** | Spain |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A centre-back operating in Spain's second tier who reads the game with decent positional discipline and uses her body well in one-v-one situations. She's competent at progressing the ball short, but lacks the athletic explosiveness or aerial dominance you'd want from a truly commanding defensive presence. Her distribution is functional rather than inventive, and against more technically sophisticated attacking units, you sense she can be caught in transition.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A centre-back operating in Spain's second tier who reads the game with decent po
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A centre-back operating in Spain's second tier who reads the game with decent po
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

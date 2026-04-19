@@ -2,10 +2,10 @@
 title: Bohdan Mykhaylichenko
 category: players
 tags: [WD, Polissya Zhytomyr, Ukraine]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at Polissya Zhytomyr. Archetype: None.
+summary: WD at Polissya Zhytomyr. Archetype: —.
 person_id: 9103
 backlinks: [polissya-zhytomyr]
 ---
@@ -20,11 +20,22 @@ backlinks: [polissya-zhytomyr]
 | **Club** | Polissya Zhytomyr |
 | **Nation** | Ukraine |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
+
+## Snapshot
+
+Bohdan Mykhaylichenko is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -38,13 +49,14 @@ backlinks: [polissya-zhytomyr]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 34.9m |
+| Mid | EUR 41.0m |
+| Ceiling | EUR 49.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -65,4 +77,4 @@ backlinks: [polissya-zhytomyr]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

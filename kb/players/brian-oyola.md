@@ -2,12 +2,12 @@
 title: Brian Oyola
 category: players
 tags: [CF, Barcelona SC, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Barcelona SC. Archetype: None.
+summary: CF at Barcelona SC. Archetype: —.
 person_id: 28981
-backlinks: [barcelona-sc]
+backlinks: [shadow-striker, barcelona-sc]
 ---
 
 # Brian Oyola
@@ -20,19 +20,28 @@ backlinks: [barcelona-sc]
 | **Club** | Barcelona SC |
 | **Nation** | Bolivia |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 35 |
+| **Level** | — |
 | **Overall** | 25.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Brian Oyola projects primarily as a CF with a `None` lean. The strongest database support comes from Acceleration, First Touch, and Pass Range.
+Brian Oyola projects primarily as a CF with a `—` lean. The strongest database support comes from Acceleration, First Touch, and Pass Range.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `35`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `35`.
 - Most bankable strengths show up in Acceleration, First Touch, and Pass Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -63,8 +72,9 @@ Brian Oyola projects primarily as a CF with a `None` lean. The strongest databas
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -81,5 +91,5 @@ Brian Oyola projects primarily as a CF with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 24 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |

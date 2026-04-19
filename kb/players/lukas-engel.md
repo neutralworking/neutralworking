@@ -2,12 +2,12 @@
 title: Lukas Engel
 category: players
 tags: [CM, Middlesbrough, England, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Middlesbrough. Archetype: Sprinter.
 person_id: 14190
-backlinks: [sprinter, middlesbrough]
+backlinks: [sprinter, mezzala, middlesbrough]
 ---
 
 # Lukas Engel
@@ -21,18 +21,27 @@ backlinks: [sprinter, middlesbrough]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Defensive midfielder who brings physicality and a combative approach to the middle of the pitch. However, his positional awareness is occasionally scattered, his passing range is limited, and he can be caught in possession if pressed effectively. Serviceable in a specific role within a structured setup, but lacks the intelligence or technical quality to be a genuine ball-carrier or creative force from deep; better suited as a rotational option than a regular starter.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `78`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Pace, Jumping, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Defensive midfielder who brings physicality and a combative approach to the midd
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Defensive midfielder who brings physicality and a combative approach to the midd
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

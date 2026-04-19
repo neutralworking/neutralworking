@@ -2,12 +2,12 @@
 title: Julio Enciso
 category: players
 tags: [AM, Strasbourg, Paraguay, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Strasbourg. Archetype: Striker-Engine.
 person_id: 13202
-backlinks: [striker, strasbourg]
+backlinks: [striker, trequartista, strasbourg]
 ---
 
 # Julio Enciso
@@ -21,13 +21,14 @@ backlinks: [striker, strasbourg]
 | **Nation** | Paraguay |
 | **Age** | 22 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
-
 
 ClubClub Libertad
 
@@ -41,10 +42,16 @@ Made his professional debut at the age of 15 and is, two years later, a regular 
   
 **October 2023 update** Nominated for the 2023 Puskas Prize for his top-corner screamer against Manchester City as he finished last season with a bang. He carried that form over to this season, but a knee injury suffered in training has ruled him out for the next few months. Paraguay are pinning their World Cup qualification hopes on the rising star returning to action swiftly. Pep Guardiola is said to be a huge admirer.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `81`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `81`.
 - Primary archetype leans toward `Striker` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
@@ -79,13 +86,14 @@ Made his professional debut at the age of 15 and is, two years later, a regular 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -115,17 +123,16 @@ Made his professional debut at the age of 15 and is, two years later, a regular 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubClub Libertad
 
@@ -138,6 +145,5 @@ Made his professional debut at the age of 15 and is, two years later, a regular 
 **September 2022 update** Snapped up by Brighton for a reported £9.5m in the summer and the 18-year-old is currently settling in nicely with the under-21s where he has already bagged his first goal against Liverpool. Had been in blistering form for old club Libertad in Paraguay firing in 11 goals in 14 games before fracturing his jaw in May. “We like what we see and he’s made a really good first impression,” purred then Brighton manager Graham Potter.  
   
 **October 2023 update** Nominated for the 2023 Puskas Prize for his top-corner screamer against Manchester City as he finished last season with a bang. He carried that form over to this season, but a knee injury suffered in training has ruled him out for the next few months. Paraguay are pinning their World Cup qualification hopes on the rising star returning to action swiftly. Pep Guardiola is said to be a huge admirer.
-
 
 </details>

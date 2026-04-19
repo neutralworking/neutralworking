@@ -2,12 +2,12 @@
 title: Adam Wharton
 category: players
 tags: [DM, Crystal Palace, England, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Crystal Palace. Archetype: Creator-Passer.
 person_id: 7855
-backlinks: [creator, crystal-palace]
+backlinks: [creator, segundo-volante, crystal-palace]
 ---
 
 # Adam Wharton
@@ -21,18 +21,27 @@ backlinks: [creator, crystal-palace]
 | **Nation** | England |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 87 |
 | **Level** | 88 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A ball-progressor in the deepest sense—Wharton's ability to receive under pressure and spray passes into the half-spaces is genuinely rare for a 22-year-old midfielder operating in the bottom half. He's comfortable taking the ball on the turn, rhythmic in his timing, and doesn't panic when pressed. The concern is positional discipline; he can be drawn into the attack and leaves gaps, which at a bigger club would be punished consistently.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `87`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `87`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Most bankable strengths show up in Aggression, Duels, and Shielding.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A ball-progressor in the deepest sense—Wharton's ability to receive under pres
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 57.0m |
+| Mid | EUR 76.0m |
+| Ceiling | EUR 91.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A ball-progressor in the deepest sense—Wharton's ability to receive under pres
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,11 +2,12 @@
 title: Marcos Pirez
 category: players
 tags: [GK, New Zealand]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 31204
+backlinks: [sweeper-keeper]
 ---
 
 # Marcos Pirez
@@ -16,22 +17,30 @@ person_id: 31204
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | New Zealand |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
+| **Level** | — |
 | **Overall** | 53.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Marcos Pirez projects primarily as a GK with a `None` lean. The strongest database support comes from Pass Range, Positioning, and Aerial Duels.
+Marcos Pirez projects primarily as a GK with a `—` lean. The strongest database support comes from Pass Range, Positioning, and Aerial Duels.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Most bankable strengths show up in Pass Range, Positioning, and Aerial Duels.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
 
@@ -66,8 +75,9 @@ Marcos Pirez projects primarily as a GK with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +96,5 @@ Marcos Pirez projects primarily as a GK with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 15 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 15 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |

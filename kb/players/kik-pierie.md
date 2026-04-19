@@ -2,10 +2,10 @@
 title: Kik Pierie
 category: players
 tags: [CD, Excelsior, Netherlands]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Excelsior. Archetype: None.
+summary: CD at Excelsior. Archetype: —.
 person_id: 13541
 backlinks: [excelsior]
 ---
@@ -20,14 +20,13 @@ backlinks: [excelsior]
 | **Club** | Excelsior |
 | **Nation** | Netherlands |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 CountryNetherlands
 
@@ -36,12 +35,6 @@ ClubHeerenveen
 PositionDefender
 
 Born20 July 2000
-
-
-
-
-
-
 
 ****
 
@@ -57,6 +50,12 @@ Pierie, born in Boston and the son of a surgeon who worked at the hospital of Ha
  
 **September 2022 update** Bad luck seems to haunt Pierie. Struggled with serious injuries (again) throughout the season and he had only 18 minutes of senior football at Twente. Is now trying to find his rhythm and form again at Ajax.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,10 +72,11 @@ Pierie, born in Boston and the son of a surgeon who worked at the hospital of Ha
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,15 +96,14 @@ Pierie, born in Boston and the son of a surgeon who worked at the hospital of Ha
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryNetherlands
 
@@ -113,12 +112,6 @@ ClubHeerenveen
 PositionDefender
 
 Born20 July 2000
-
-
-
-
-
-
 
 ****
 
@@ -132,6 +125,6 @@ Pierie, born in Boston and the son of a surgeon who worked at the hospital of Ha
  
 **October 2021 update** Just like the previous season Ajax sent him out on loan at FC Twente but unfortunately he had severe back problems that stopped him from playing and he is not expected back on the pitch until 2022.
  
-**September 2022 update** Bad luck seems to haunt Pierie. Struggled with serious inj...
+**September 2022 update** Bad luck seems to haunt Pierie. Struggled with serious injuries (...
 
 </details>

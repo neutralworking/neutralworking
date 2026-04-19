@@ -2,12 +2,12 @@
 title: F. Taraba
 category: players
 tags: [CM, NK Istra 1961, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at NK Istra 1961. Archetype: Destroyer.
 person_id: 25648
-backlinks: [destroyer, nk-istra-1961]
+backlinks: [destroyer, ball-winner, nk-istra-1961]
 ---
 
 # F. Taraba
@@ -18,21 +18,29 @@ backlinks: [destroyer, nk-istra-1961]
 |---|---|
 | **Position** | CM |
 | **Club** | NK Istra 1961 |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Level** | None |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | — |
 | **Overall** | 38.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 F. Taraba projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Concentration, Drive, and Skills.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Concentration, Drive, and Skills.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ F. Taraba projects primarily as a CM with a `Destroyer` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,5 +98,5 @@ F. Taraba projects primarily as a CM with a `Destroyer` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

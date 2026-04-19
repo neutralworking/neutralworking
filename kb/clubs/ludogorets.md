@@ -2,7 +2,7 @@
 title: Ludogorets
 category: clubs
 tags: [First Professional Football League, Bulgaria]
-updated: 2026-04-14
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Ludogorets. 24 players in database.
@@ -13,6 +13,20 @@ summary: Ludogorets. 24 players in database.
 **League**: First Professional Football League  
 **Nation**: Bulgaria  
 **Players in DB**: 24
+
+## Identity
+
+- Database coverage is deepest in CM (9), CF (4), and AM (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (11), Cover (7), and Striker (5) across the current squad.
+- Average available overall grade sits at 59.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
+- [[box-entry]] Box Entry: the attacking profiles should be judged by how reliably the club turns territory into area access.
+- [[switch-of-play]] Switch of Play: the roster may be best understood through how it can move defenses before attacking the final action.
 
 ## Squad
 
@@ -37,8 +51,8 @@ summary: Ludogorets. 24 players in database.
 | [[e-rodriguez]] E. Rodríguez | WF | Creator-Striker | 58.0 |
 | [[erick-marcus]] Erick Marcus | WF | Creator-Striker | 67.0 |
 | [[m-chouiar]] M. Chouiar | WM | Creator-Sprinter | 28.0 |
-| [[e-kurtulus]] E. Kurtulus | None | Striker | None |
-| [[h-bonmann]] H. Bonmann | None | Cover | None |
-| [[i-yordanov]] I. Yordanov | None | Creator-Cover | None |
-| [[matheus-machado]] Matheus Machado | None | Cover-Striker | None |
-| [[s-padt]] S. Padt | None | Cover | None |
+| E. Kurtulus | — | Striker | — |
+| H. Bonmann | — | Cover | — |
+| I. Yordanov | — | Creator-Cover | — |
+| Matheus Machado | — | Cover-Striker | — |
+| S. Padt | — | Cover | — |

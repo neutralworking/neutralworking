@@ -1,18 +1,32 @@
 ---
 title: Palmeiras
 category: clubs
-tags: [None, Brazil]
-updated: 2026-04-14
+tags: [Brazil]
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Palmeiras. 29 players in database.
+summary: Palmeiras. 27 players in database.
 ---
 
 # Palmeiras
 
-**League**: None  
+**League**: —  
 **Nation**: Brazil  
-**Players in DB**: 29
+**Players in DB**: 27
+
+## Identity
+
+- Database coverage is deepest in CM (8), CF (6), and WF (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Striker (10), Creator (8), and Cover (3) across the current squad.
+- Average available overall grade sits at 59.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -37,13 +51,11 @@ summary: Palmeiras. 29 players in database.
 | [[larson]] Larson | CM | Creator-Striker | 31.0 |
 | [[lucas-evangelista]] Lucas Evangelista | CM | Striker-Creator | 72.0 |
 | [[fernando]] Fernando | DM | Sprinter | 77.0 |
-| [[carlos-miguel]] Carlos Miguel | GK | GK | None |
-| [[weverton]] Weverton | GK | GK | None |
-| [[javi-lopez]] Javi López | WD | Creator-Sprinter | 71.0 |
-| [[jefte]] Jefté | WD | Sprinter | 74.0 |
+| [[carlos-miguel]] Carlos Miguel | GK | GK | — |
+| [[weverton]] Weverton | GK | GK | — |
 | [[estevao-willian]] Estêvão Willian | WF | Creator | 76.0 |
 | [[felipe-anderson]] Felipe Anderson | WF | Creator | 70.0 |
 | [[luighi-hanri]] Luighi Hanri | WF | Striker | 34.0 |
 | [[r-sosa]] R. Sosa | WF | Creator-Striker | 71.0 |
 | [[khellven]] Khellven | WM | Creator-Cover | 67.0 |
-| [[davi-goes]] Davi Goes | None | Striker | None |
+| Davi Goes | — | Striker | — |

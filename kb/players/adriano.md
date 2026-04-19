@@ -2,12 +2,12 @@
 title: Adriano
 category: players
 tags: [CF, Brazil, Striker-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker-Powerhouse.
+summary: CF at —. Archetype: Striker-Powerhouse.
 person_id: 111
-backlinks: [striker]
+backlinks: [striker, prima-punta]
 ---
 
 # Adriano
@@ -17,22 +17,31 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Powerhouse |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 90 |
 | **Level** | 89 |
 | **Overall** | 83.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
-	CF	Pacy	Ranger		Inter Milan	BRA	B	79.1	Well-Rounded, Versatile, Modern Striker (Power with excellent technical ability) Dominant, Powerful, Skillful, Excellent Ball Control, Skillful Dribbling Ability, and creativity. He was also a strong forward with an eye for goal, and a powerful striker of the ball with both feet, who was an accurate free-kick taker; he was also effective in the air. Despite his natural talent, Adriano's consistency, character, fitness, and work-rate were often brought into question throughout his career, and due to his inconsistency in later years, he was accused of failing to live up to his initial potential.	Shot Power, Wasted Talent, Ill Discipline, Inter Milan	A striker, Adriano's career has been marked by inconsistency. His main titles are four scudetti for Internazionale, a Brasileirão for Flamengo and a FIFA Confederations Cup and Copa América for Brazil.
+CF	Pacy	Ranger		Inter Milan	BRA	B	79.1	Well-Rounded, Versatile, Modern Striker (Power with excellent technical ability) Dominant, Powerful, Skillful, Excellent Ball Control, Skillful Dribbling Ability, and creativity. He was also a strong forward with an eye for goal, and a powerful striker of the ball with both feet, who was an accurate free-kick taker; he was also effective in the air. Despite his natural talent, Adriano's consistency, character, fitness, and work-rate were often brought into question throughout his career, and due to his inconsistency in later years, he was accused of failing to live up to his initial potential.	Shot Power, Wasted Talent, Ill Discipline, Inter Milan	A striker, Adriano's career has been marked by inconsistency. His main titles are four scudetti for Internazionale, a Brasileirão for Flamengo and a FIFA Confederations Cup and Copa América for Brazil.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `90`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `90`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ backlinks: [striker]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 81.0m |
+| Ceiling | EUR 97.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,17 +99,17 @@ backlinks: [striker]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	CF	Pacy	Ranger		Inter Milan	BRA	B	79.1	Well-Rounded, Versatile, Modern Striker (Power with excellent technical ability) Dominant, Powerful, Skillful, Excellent Ball Control, Skillful Dribbling Ability, and creativity. He was also a strong forward with an eye for goal, and a powerful striker of the ball with both feet, who was an accurate free-kick taker; he was also effective in the air. Despite his natural talent, Adriano's consistency, character, fitness, and work-rate were often brought into question throughout his career, and due to his inconsistency in later years, he was accused of failing to live up to his initial potential.	Shot Power, Wasted Talent, Ill Discipline, Inter Milan	A striker, Adriano's career has been marked by inconsistency. His main titles are four scudetti for Internazionale, a Brasileirão for Flamengo and a FIFA Confederations Cup and Copa América for Brazil.
+CF	Pacy	Ranger		Inter Milan	BRA	B	79.1	Well-Rounded, Versatile, Modern Striker (Power with excellent technical ability) Dominant, Powerful, Skillful, Excellent Ball Control, Skillful Dribbling Ability, and creativity. He was also a strong forward with an eye for goal, and a powerful striker of the ball with both feet, who was an accurate free-kick taker; he was also effective in the air. Despite his natural talent, Adriano's consistency, character, fitness, and work-rate were often brought into question throughout his career, and due to his inconsistency in later years, he was accused of failing to live up to his initial potential.	Shot Power, Wasted Talent, Ill Discipline, Inter Milan	A striker, Adriano's career has been marked by inconsistency. His main titles are four scudetti for Internazionale, a Brasileirão for Flamengo and a FIFA Confederations Cup and Copa América for Brazil.
 
 </details>

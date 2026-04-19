@@ -2,12 +2,12 @@
 title: Andrea Caracciolo
 category: players
 tags: [CM, Pisa, Italy, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Pisa. Archetype: Destroyer.
 person_id: 390
-backlinks: [destroyer, pisa]
+backlinks: [destroyer, tuttocampista, pisa]
 ---
 
 # Andrea Caracciolo
@@ -21,18 +21,27 @@ backlinks: [destroyer, pisa]
 | **Nation** | Italy |
 | **Age** | 44 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 61 |
 | **Level** | 57 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Andrea Caracciolo projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Jumping, and Balance.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `61`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `61`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Aerial Duels, Jumping, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -70,10 +79,11 @@ Andrea Caracciolo projects primarily as a CM with a `Destroyer` lean. The strong
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,6 +109,6 @@ Andrea Caracciolo projects primarily as a CM with a `Destroyer` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

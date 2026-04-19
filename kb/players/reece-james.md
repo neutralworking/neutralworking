@@ -2,12 +2,12 @@
 title: Reece James
 category: players
 tags: [WD, Chelsea, England, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Chelsea. Archetype: Creator-Destroyer.
 person_id: 16544
-backlinks: [creator, chelsea]
+backlinks: [creator, fullback, chelsea]
 ---
 
 # Reece James
@@ -21,18 +21,27 @@ backlinks: [creator, chelsea]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Destroyer |
+| **Best Role** | [[fullback]] Fullback |
+| **Role Score** | 89 |
 | **Level** | 89 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 An attacking fullback who combines legitimate wing-back quality—pace, inverted runs, crossing—with genuine defensive discipline and reading. The persistent knee issues are the elephant in the room: when fit, he's a very good player operating at the right level for Chelsea, but availability has become as important as ability. Without the injury history, this would be 88 minimum; with it, you're rating a streaky contributor.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Fullback` with model support score `89`.
+- Best-fit role is [[fullback]] Fullback with model support score `89`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Shielding, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ An attacking fullback who combines legitimate wing-back quality—pace, inverted
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 57.0m |
+| Mid | EUR 93.0m |
+| Ceiling | EUR 112m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ An attacking fullback who combines legitimate wing-back quality—pace, inverted
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

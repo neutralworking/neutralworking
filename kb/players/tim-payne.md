@@ -2,11 +2,12 @@
 title: Tim Payne
 category: players
 tags: [CD, New Zealand]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 28629
+backlinks: [stopper]
 ---
 
 # Tim Payne
@@ -16,22 +17,30 @@ person_id: 28629
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | New Zealand |
 | **Age** | 32 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[stopper]] Stopper |
+| **Level** | — |
 | **Overall** | 40.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Tim Payne projects primarily as a CD with a `None` lean. The strongest database support comes from Tackling, Duels, and Physical.
+Tim Payne projects primarily as a CD with a `—` lean. The strongest database support comes from Tackling, Duels, and Physical.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Stopper`.
+- Best-fit role is [[stopper]] Stopper.
 - Most bankable strengths show up in Tackling, Duels, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -57,13 +66,14 @@ Tim Payne projects primarily as a CD with a `None` lean. The strongest database 
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.3m |
+| Mid | EUR 0.4m |
+| Ceiling | EUR 0.5m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -79,5 +89,5 @@ Tim Payne projects primarily as a CD with a `None` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 4 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 4 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

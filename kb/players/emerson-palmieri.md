@@ -2,10 +2,10 @@
 title: Emerson Palmieri
 category: players
 tags: [WD, Marseille, Italy]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at Marseille. Archetype: None.
+summary: WD at Marseille. Archetype: —.
 person_id: 10613
 backlinks: [marseille]
 ---
@@ -20,15 +20,22 @@ backlinks: [marseille]
 | **Club** | Marseille |
 | **Nation** | Italy |
 | **Age** | 31 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 84 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back who defends with real solidity and understands the mechanics of shepherding attackers into uncomfortable positions, but his attacking contribution has atrophied significantly and his recovery speed is no longer sufficient against elite wingers. He's a perfectly adequate depth piece for a mid-table outfit, nothing more.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A left-back who defends with real solidity and understands the mechanics of shep
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A left-back who defends with real solidity and understands the mechanics of shep
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

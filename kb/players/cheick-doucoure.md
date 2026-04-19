@@ -2,12 +2,12 @@
 title: Cheick Doucouré
 category: players
 tags: [DM, Crystal Palace, Mali, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Crystal Palace. Archetype: Cover-Dribbler.
 person_id: 20191
-backlinks: [cover, crystal-palace]
+backlinks: [cover, anchor, crystal-palace]
 ---
 
 # Cheick Doucouré
@@ -21,6 +21,7 @@ backlinks: [cover, crystal-palace]
 | **Nation** | Mali |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[anchor]] Anchor |
 | **Level** | 85 |
 | **Overall** | 78.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +31,16 @@ backlinks: [cover, crystal-palace]
 
 A box-to-box midfielder with genuine athleticism and the ability to win second balls in congested areas. His best asset is his capacity to drive through the middle in transition, but his technical range is limited—he can't consistently control proceedings when required to dictate tempo, and his passing is often horizontal rather than progressive.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor`.
+- Best-fit role is [[anchor]] Anchor.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Interceptions, Marking, and Pass Accuracy.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A box-to-box midfielder with genuine athleticism and the ability to win second b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.3m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ A box-to-box midfielder with genuine athleticism and the ability to win second b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

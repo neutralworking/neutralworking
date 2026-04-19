@@ -2,12 +2,12 @@
 title: O. Solet
 category: players
 tags: [CM, Udinese, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Udinese. Archetype: Cover-Powerhouse.
 person_id: 20388
-backlinks: [cover, udinese]
+backlinks: [cover, playmaker, udinese]
 ---
 
 # O. Solet
@@ -18,21 +18,30 @@ backlinks: [cover, udinese]
 |---|---|
 | **Position** | CM |
 | **Club** | Udinese |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 O. Solet, a 26-year-old Connector archetype operating as a Tuttocampista, exhibits a compelling blend of strong technical and physical attributes, marked by excellent passing accuracy, pace, stamina, and aerial ability. His flamboyant yet elegant style makes him a noticeable build-up contributor, aligning him with modern holding midfielders capable of both disrupting and initiating, especially in high-press systems. However, a limited mental pillar often sees him struggle with decision-making, while his creativity and crossing output are notable weaknesses. Solet represents an intriguing option for a club that can afford to invest in a physically dominant and technically sound midfielder, provided they have tactical structures to compensate for his mental limitations and lack of creative thrust, making him valuable for high-volume passing and ball winning.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `75`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Pace, Stamina, and Jumping.
@@ -63,13 +72,14 @@ O. Solet, a 26-year-old Connector archetype operating as a Tuttocampista, exhibi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ O. Solet, a 26-year-old Connector archetype operating as a Tuttocampista, exhibi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

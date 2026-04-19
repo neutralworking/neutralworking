@@ -2,10 +2,10 @@
 title: Ruby Mace
 category: players
 tags: [CD, Manchester City WFC, England]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Manchester City WFC. Archetype: None.
+summary: CD at Manchester City WFC. Archetype: —.
 person_id: 16900
 backlinks: [manchester-city-wfc]
 ---
@@ -20,15 +20,22 @@ backlinks: [manchester-city-wfc]
 | **Club** | Manchester City WFC |
 | **Nation** | England |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young midfielder getting sporadic opportunities in a stacked City midfield, showing decent technical security and an obvious willingness to work in transitions. She hasn't yet established herself as anything more than a rotation option or prospect; her impact on matches, when she plays, is modest, and she lacks the standout trait (whether it's explosive athleticism, playmaking range, or ball-winning) that would mark her as imminently ready for sustained minutes. She's the kind of talent you monitor closely rather than rate highly right now.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ A young midfielder getting sporadic opportunities in a stacked City midfield, sh
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A young midfielder getting sporadic opportunities in a stacked City midfield, sh
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Brajan Gruda
 category: players
 tags: [WF, RB Leipzig, Germany, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at RB Leipzig. Archetype: Creator-Passer.
 person_id: 9155
-backlinks: [creator, rb-leipzig]
+backlinks: [creator, winger, rb-leipzig]
 ---
 
 # Brajan Gruda
@@ -21,18 +21,27 @@ backlinks: [creator, rb-leipzig]
 | **Nation** | Germany |
 | **Age** | 21 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A left-footed winger with excellent close control and the ability to create yard with a sudden shift of body weight in the half-space. He operates best when receiving the ball with time to set himself, showing real craft in his final ball. However, he lacks the relentless running intensity that elite wide players possess, and his defensive work rate is a genuine liability in a team that needs its wingers to cover ground both ways.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `81`.
+- Best-fit role is [[winger]] Winger with model support score `81`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A left-footed winger with excellent close control and the ability to create yard
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 26.6m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ A left-footed winger with excellent close control and the ability to create yard
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

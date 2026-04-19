@@ -2,10 +2,10 @@
 title: Alisha Lehmann
 category: players
 tags: [WF, Leicester City, Switzerland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at Leicester City. Archetype: None.
+summary: WF at Leicester City. Archetype: —.
 person_id: 8273
 backlinks: [leicester-city]
 ---
@@ -20,15 +20,22 @@ backlinks: [leicester-city]
 | **Club** | Leicester City |
 | **Nation** | Switzerland |
 | **Age** | 27 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 83 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Explosive winger operating in the women's game with genuine pace and the ability to create chaos on the transition. Her profile is that of a direct, aggressive player who operates best in open space; unfortunately, the margins for error are thinner in the WSL and she can be caught making poor decisions under pressure. Not a creator in the classical sense—she's a runner and a finisher, which limits her ceiling at the highest club level.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ Explosive winger operating in the women's game with genuine pace and the ability
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 31.4m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ Explosive winger operating in the women's game with genuine pace and the ability
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

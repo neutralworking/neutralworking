@@ -2,12 +2,12 @@
 title: Sondre Sørli
 category: players
 tags: [CM, Kristiansund BK, Norway, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Kristiansund BK. Archetype: Sprinter.
 person_id: 17516
-backlinks: [sprinter, kristiansund-bk]
+backlinks: [sprinter, ball-winner, kristiansund-bk]
 ---
 
 # Sondre Sørli
@@ -21,18 +21,26 @@ backlinks: [sprinter, kristiansund-bk]
 | **Nation** | Norway |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A classic metodista archetype—quick, balanced, relentless in work rate—whose acceleration and ball-shielding compensate for technical limitations that run deeper than typical top-flight standard. His extraverted, practical mindset suits a high-tempo, system-dependent role where structure does the thinking; at 30, this is a newcomer profile that suggests late development rather than hidden talent. Norwegian midfield tends to produce functional, press-resistant operators, and Sørli fits that mold, but lacks the technical elasticity for teams seeking progressive carry solutions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A classic metodista archetype—quick, balanced, relentless in work rate—whose
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ A classic metodista archetype—quick, balanced, relentless in work rate—whose
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

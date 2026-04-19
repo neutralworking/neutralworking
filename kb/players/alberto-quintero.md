@@ -2,11 +2,12 @@
 title: Alberto Quintero
 category: players
 tags: [CM, Panama]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 28430
+backlinks: [metodista]
 ---
 
 # Alberto Quintero
@@ -16,22 +17,31 @@ person_id: 28430
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Panama |
 | **Age** | 38 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 38 |
+| **Level** | — |
 | **Overall** | 20.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Alberto Quintero projects primarily as a CM with a `None` lean. The strongest database support comes from Composure, Discipline, and Close Range.
+Alberto Quintero projects primarily as a CM with a `—` lean. The strongest database support comes from Composure, Discipline, and Close Range.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `38`.
+- Best-fit role is [[metodista]] Metodista with model support score `38`.
 - Most bankable strengths show up in Composure, Discipline, and Close Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -65,8 +75,9 @@ Alberto Quintero projects primarily as a CM with a `None` lean. The strongest da
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -77,4 +88,4 @@ Alberto Quintero projects primarily as a CM with a `None` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |

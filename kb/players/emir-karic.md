@@ -2,12 +2,12 @@
 title: Emir Karić
 category: players
 tags: [WD, Sturm Graz, Austria, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Sturm Graz. Archetype: Cover-Powerhouse.
 person_id: 10646
-backlinks: [cover, sturm-graz]
+backlinks: [cover, corner-back, sturm-graz]
 ---
 
 # Emir Karić
@@ -21,18 +21,27 @@ backlinks: [cover, sturm-graz]
 | **Nation** | Austria |
 | **Age** | 28 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A fullback who demonstrates reasonable athleticism and can complete a simple overlapping sequence without embarrassing himself, though his crossing is underdeveloped and his defensive positioning against wingers is reactive rather than proactive. He's a squad rotation piece—busy without being particularly incisive or defensively commanding. Adequate for a struggling Bundesliga side.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `79`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `79`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Acceleration, and Physical.
@@ -63,13 +72,14 @@ A fullback who demonstrates reasonable athleticism and can complete a simple ove
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 29.0m |
+| Ceiling | EUR 34.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ A fullback who demonstrates reasonable athleticism and can complete a simple ove
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

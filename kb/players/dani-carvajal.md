@@ -2,12 +2,12 @@
 title: Dani Carvajal
 category: players
 tags: [WD, Real Madrid, Spain, Cover-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Real Madrid. Archetype: Cover-Creator.
 person_id: 9882
-backlinks: [cover, real-madrid]
+backlinks: [cover, invertido, real-madrid]
 ---
 
 # Dani Carvajal
@@ -21,6 +21,8 @@ backlinks: [cover, real-madrid]
 | **Nation** | Spain |
 | **Age** | 34 |
 | **Archetype** | [[cover]] Cover-Creator |
+| **Best Role** | [[invertido]] Invertido |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 77.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [cover, real-madrid]
 
 WD		Wing Back			ESP	B	0.0			Having risen through the Real Madrid youth ranks, he spent a season with Bayer Leverkusen before breaking into the first team in 2013, going on to win various domestic and international honours. At youth international level, Carvajal won the 2011 European Championship with the under-19 team and the 2013 edition with the under-21 side. He made his senior debut in 2014.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Invertido` with model support score `82`.
+- Best-fit role is [[invertido]] Invertido with model support score `82`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in First Touch, Jumping, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ WD		Wing Back			ESP	B	0.0			Having risen through the Real Madrid youth ranks, he
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 8.3m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +106,11 @@ WD		Wing Back			ESP	B	0.0			Having risen through the Real Madrid youth ranks, he
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

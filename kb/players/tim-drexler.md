@@ -2,12 +2,12 @@
 title: Tim Drexler
 category: players
 tags: [CD, Red Bull Salzburg, Germany, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Red Bull Salzburg. Archetype: Cover.
 person_id: 17971
-backlinks: [cover, red-bull-salzburg]
+backlinks: [cover, sweeper, red-bull-salzburg]
 ---
 
 # Tim Drexler
@@ -21,18 +21,27 @@ backlinks: [cover, red-bull-salzburg]
 | **Nation** | Germany |
 | **Age** | 21 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 57 |
 | **Level** | 63 |
 | **Overall** | 55.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Another young centre-back with the physical attributes to suggest a path forward, but similarly underbaked in decision-making and composure when isolated against technical attackers. He's marginally better on the ball than many at this level of development, yet that advantage shrinks significantly when he's forced to play on the turn or under genuine time pressure. Classic prospect: promising foundation, but several steps away from reliable starter.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `57`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `57`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Pace, Acceleration, and Crossing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -69,11 +78,12 @@ Another young centre-back with the physical attributes to suggest a path forward
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Another young centre-back with the physical attributes to suggest a path forward
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

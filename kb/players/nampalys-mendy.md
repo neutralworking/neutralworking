@@ -2,12 +2,12 @@
 title: Nampalys Mendy
 category: players
 tags: [DM, Rayo Vallecano, Senegal, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Rayo Vallecano. Archetype: Destroyer.
 person_id: 15503
-backlinks: [destroyer, rayo-vallecano]
+backlinks: [destroyer, anchor, rayo-vallecano]
 ---
 
 # Nampalys Mendy
@@ -21,18 +21,27 @@ backlinks: [destroyer, rayo-vallecano]
 | **Nation** | Senegal |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 60 |
 | **Level** | 83 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Deep-lying midfielder at 33 with positional discipline and experience managing transitions in a compact shape. Can recycle possession and offers shielding in front of the back four, but this is a purely functional role—he won't break lines, create space for others, or offer elite decision-making. Useful depth but not a starter at a title-contending side.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `60`.
+- Best-fit role is [[anchor]] Anchor with model support score `60`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Shielding, Balance, and First Touch.
@@ -67,13 +76,14 @@ Deep-lying midfielder at 33 with positional discipline and experience managing t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Deep-lying midfielder at 33 with positional discipline and experience managing t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

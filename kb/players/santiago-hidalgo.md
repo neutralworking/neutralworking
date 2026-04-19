@@ -2,12 +2,12 @@
 title: Santiago Hidalgo
 category: players
 tags: [WF, Toulouse, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Toulouse. Archetype: Sprinter.
 person_id: 19294
-backlinks: [sprinter, toulouse]
+backlinks: [sprinter, wide-target-forward, toulouse]
 ---
 
 # Santiago Hidalgo
@@ -18,12 +18,14 @@ backlinks: [sprinter, toulouse]
 |---|---|
 | **Position** | WF |
 | **Club** | Toulouse |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[wide-target-forward]] Wide Target Forward |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -38,10 +40,16 @@ Born in Santiago del Estero, Argentina, Hidalgo moved to Buenos Aires for his ca
 ## October 2023 Update
 Flitting between senior and reserve teams at Independiente, remained at the club despite rumors of a loan move.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Wide Target Forward` with model support score `69`.
+- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `69`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and High Press.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
@@ -71,13 +79,14 @@ Flitting between senior and reserve teams at Independiente, remained at the club
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +111,11 @@ Flitting between senior and reserve teams at Independiente, remained at the club
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -122,6 +131,5 @@ Born in Santiago del Estero, Argentina, Hidalgo moved to Buenos Aires for his ca
 
 ## October 2023 Update
 Flitting between senior and reserve teams at Independiente, remained at the club despite rumors of a loan move.
-
 
 </details>

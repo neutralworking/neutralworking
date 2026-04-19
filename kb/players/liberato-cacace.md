@@ -2,12 +2,12 @@
 title: Liberato Cacace
 category: players
 tags: [WD, Wrexham, New Zealand, Sprinter-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Wrexham. Archetype: Sprinter-Engine.
 person_id: 13953
-backlinks: [sprinter, wrexham]
+backlinks: [sprinter, corner-back, wrexham]
 ---
 
 # Liberato Cacace
@@ -21,18 +21,27 @@ backlinks: [sprinter, wrexham]
 | **Nation** | New Zealand |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A New Zealand left-back with a tidy first touch and genuine enthusiasm for the attacking phase, comfortable inverting into midfield or whipping a low cross from deep, but defensively he's loose-limbed and often caught in transition against quick, direct opponents. He's got youth and athleticism on his side, and at 25 he should still develop, but right now he's a squad option—fine in a possession-dominant setup where he won't face many 1v1s, vulnerable in open play.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `77`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `77`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Stamina, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ A New Zealand left-back with a tidy first touch and genuine enthusiasm for the a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A New Zealand left-back with a tidy first touch and genuine enthusiasm for the a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

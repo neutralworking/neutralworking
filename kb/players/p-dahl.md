@@ -2,12 +2,12 @@
 title: P. Dahl
 category: players
 tags: [WF, Rapid, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Rapid. Archetype: Creator.
 person_id: 25762
-backlinks: [creator, rapid]
+backlinks: [creator, wide-playmaker, rapid]
 ---
 
 # P. Dahl
@@ -18,21 +18,30 @@ backlinks: [creator, rapid]
 |---|---|
 | **Position** | WF |
 | **Club** | Rapid |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 73 |
 | **Level** | 75 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dahl is a Virtuoso archetype, best utilized as an Inventor, showcasing strong technical skills, exceptional take-ons, vision, composure, and creativity, making him a significant threat in offensive phases despite moderate mental consistency. His tactical acumen is surprisingly limited for a player with such vision, often leading to poor discipline, and his mid-range shooting is a notable weakness, further exacerbated by a hot-headed trait. This player embodies the creative winger or attacking midfielder, a traditional "number 10" type who thrives on individual brilliance and spontaneous invention to unlock defenses. For Rapid, Dahl is a key creative force whose moments of brilliance can win games, but his disciplinary issues and inconsistent tactical application present a significant management challenge; his market value is high due to his creative ceiling, but clubs would need to invest in coaching his focus and ensuring his emotional temperament doesn't undermine his considerable talent.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `73`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Creativity, Skills, and Take Ons.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ Dahl is a Virtuoso archetype, best utilized as an Inventor, showcasing strong te
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,7 +98,7 @@ Dahl is a Virtuoso archetype, best utilized as an Inventor, showcasing strong te
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

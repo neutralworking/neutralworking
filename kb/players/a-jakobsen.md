@@ -2,12 +2,12 @@
 title: A. Jakobsen
 category: players
 tags: [CF, Brommapojkarna, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Brommapojkarna. Archetype: Creator-Sprinter.
 person_id: 24434
-backlinks: [creator, brommapojkarna]
+backlinks: [creator, seconda-punta, brommapojkarna]
 ---
 
 # A. Jakobsen
@@ -18,21 +18,30 @@ backlinks: [creator, brommapojkarna]
 |---|---|
 | **Position** | CF |
 | **Club** | Brommapojkarna |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jakobsen, a Marksman best suited as a Complete Forward, presents a physically strong profile with excellent jumping, acceleration, pace, and balance, making him a direct threat. Despite strong technical attributes, his limited tactical and physical pillars manifest in weaknesses concerning marking, interceptions, and tackling, indicating a narrow focus on attacking duties and limited defensive contribution. His profile aligns with forwards who operate as primary offensive targets, relying on athletic attributes and direct play to break defenses, a style often seen in teams that favor quick transitions and aerial prowess. For a Director of Football, Jakobsen offers a project forward with significant athletic potential to lead the line and challenge defenses directly, but his minimal defensive contribution and tactical limitations mean a club acquiring him would need to surround him with tactically astute players.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `69`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Jakobsen, a Marksman best suited as a Complete Forward, presents a physically st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ Jakobsen, a Marksman best suited as a Complete Forward, presents a physically st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

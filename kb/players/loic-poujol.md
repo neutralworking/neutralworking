@@ -2,10 +2,10 @@
 title: Loïc Poujol
 category: players
 tags: [WD, France, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WD at None. Archetype: Destroyer.
+summary: WD at —. Archetype: Destroyer.
 person_id: 4318
 backlinks: [destroyer]
 ---
@@ -17,18 +17,25 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | France |
 | **Age** | 37 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 78 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Loïc Poujol projects primarily as a WD with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Heading, and Interceptions.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -61,13 +68,14 @@ Loïc Poujol projects primarily as a WD with a `Destroyer` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.3m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,5 +95,5 @@ Loïc Poujol projects primarily as a WD with a `Destroyer` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

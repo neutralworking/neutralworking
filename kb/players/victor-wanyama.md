@@ -2,12 +2,12 @@
 title: Victor Wanyama
 category: players
 tags: [DM, CF Montréal, Kenya, Cover-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at CF Montréal. Archetype: Cover-Powerhouse.
 person_id: 18351
-backlinks: [cover, cf-montreal]
+backlinks: [cover, ball-winner, cf-montreal]
 ---
 
 # Victor Wanyama
@@ -21,18 +21,26 @@ backlinks: [cover, cf-montreal]
 | **Nation** | Kenya |
 | **Age** | 34 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 79 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran midfielder whose engine has visibly slowed, now functioning as a presence rather than a force in MLS's midfield picture. Wanyama still understands positioning and carries decades of Champions League nous into the half-spaces, but his mobility has deteriorated noticeably; he's no longer winning the second ball with regularity or covering ground at the speed required to dominate MLS tempo. His value now is almost entirely positional and intellectual rather than athletic, making him a squad player managing decline rather than a centerpiece.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Aggression, Physical, and Jumping.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ A veteran midfielder whose engine has visibly slowed, now functioning as a prese
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 1.7m |
 | Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ A veteran midfielder whose engine has visibly slowed, now functioning as a prese
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

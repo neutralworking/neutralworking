@@ -2,12 +2,12 @@
 title: Eugen Polanski
 category: players
 tags: [CM, 1899 Hoffenheim, Germany, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at 1899 Hoffenheim. Archetype: Destroyer.
 person_id: 2208
-backlinks: [destroyer, 1899-hoffenheim]
+backlinks: [destroyer, playmaker, 1899-hoffenheim]
 ---
 
 # Eugen Polanski
@@ -21,18 +21,26 @@ backlinks: [destroyer, 1899-hoffenheim]
 | **Nation** | Germany |
 | **Age** | 40 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 52 |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Eugen Polanski projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Interceptions, Marking, and Tackling.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,10 +74,11 @@ Eugen Polanski projects primarily as a CM with a `Destroyer` lean. The strongest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +102,6 @@ Eugen Polanski projects primarily as a CM with a `Destroyer` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

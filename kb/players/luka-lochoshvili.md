@@ -2,12 +2,12 @@
 title: Luka Lochoshvili
 category: players
 tags: [CD, Cremonese, Georgia, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Cremonese. Archetype: Destroyer.
 person_id: 14182
-backlinks: [destroyer, cremonese]
+backlinks: [destroyer, centrale, cremonese]
 ---
 
 # Luka Lochoshvili
@@ -21,18 +21,27 @@ backlinks: [destroyer, cremonese]
 | **Nation** | Georgia |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[centrale]] Centrale |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lochoshvili's left-footedness and aerial dominance make him a functional centre-back for teams building from deep, yet his technical strengths mask a concerning pattern: moderate tactical intelligence combined with limited mental resources means he struggles to read pressing triggers and duel management at the highest tempo. His aggression and jumping compensate in structured, lower-block systems, but his passivity in pressing situations and inconsistent intensity suggest he suits traditional continental defences where positional security matters more than proactive covering. A distributor in archetype only—his ball-playing credentials don't offset the tactical and mental gaps that surface in demanding transitions.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale` with model support score `78`.
+- Best-fit role is [[centrale]] Centrale with model support score `78`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Heading, and Marking.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Lochoshvili's left-footedness and aerial dominance make him a functional centre-
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Lochoshvili's left-footedness and aerial dominance make him a functional centre-
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Romano Schmid
 category: players
 tags: [AM, Werder Bremen, Austria, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Werder Bremen. Archetype: Engine-Passer.
 person_id: 16809
-backlinks: [engine, werder-bremen]
+backlinks: [engine, trequartista, werder-bremen]
 ---
 
 # Romano Schmid
@@ -21,13 +21,14 @@ backlinks: [engine, werder-bremen]
 | **Nation** | Austria |
 | **Age** | 26 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 70 |
 | **Level** | 86 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
-
 
 CountryAustria
 
@@ -49,11 +50,16 @@ Schmid started at USV Vasoldsberg before moving to Sturm Graz at the age of nine
   
 **September 2022 update** A virtual ever-present in the team as Bremen won promotion back to the Bundesliga. He is only 22 but has become quite influential and, in an interview this summer, thanked the older players at the club for allowing him to share his views when things are not going according to plan.
 
+## Canon Context
 
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `70`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `70`.
 - Primary archetype leans toward `Engine` behaviour from a `AM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -84,13 +90,14 @@ Schmid started at USV Vasoldsberg before moving to Sturm Graz at the age of nine
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -115,17 +122,16 @@ Schmid started at USV Vasoldsberg before moving to Sturm Graz at the age of nine
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryAustria
 
@@ -141,6 +147,6 @@ Schmid started at USV Vasoldsberg before moving to Sturm Graz at the age of nine
   
 **October 2019 update** Joined Werder Bremen for around €1m in January 2019 and was loaned to Wolfsberger AC, where he will remain until June 2020. A regular in the Austrian Bundesliga side’s midfield he had set up three goals by mid-September.  
   
-**October 2020 update** After a successful campaign in the Austrian Bundesliga – as well as Europa League – Schmid is now back at Werder and fighing for a place in the matchday squads. Despite some encouraging perfomances in pre-season, however, he didn’t make the first few squads. “You have to give young players a chance,” said the man responsible for the professional teams at Werder, Clemens Fritz. “We see huge potential in Romano. He has special moments in games and is almost like a street ...
+**October 2020 update** After a successful campaign in the Austrian Bundesliga – as well as Europa League – Schmid is now back at Werder and fighing for a place in the matchday squads. Despite some encouraging perfomances in pre-season, however, he didn’t make the first few squads. “You have to give young players a chance,” said the man responsible for the professional teams at Werder, Clemens Fritz. “We see huge potential in Romano. He has special moments in games and is almost like a street f...
 
 </details>

@@ -2,12 +2,12 @@
 title: Michael Owen
 category: players
 tags: [CF, Stoke City, England, Sprinter-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Stoke City. Archetype: Sprinter-Striker.
 person_id: 15087
-backlinks: [sprinter, stoke-city]
+backlinks: [sprinter, poacher, stoke-city]
 ---
 
 # Michael Owen
@@ -21,18 +21,27 @@ backlinks: [sprinter, stoke-city]
 | **Nation** | England |
 | **Age** | 46 |
 | **Archetype** | [[sprinter]] Sprinter-Striker |
+| **Best Role** | [[poacher]] Poacher |
+| **Role Score** | 91 |
 | **Level** | 46 |
 | **Overall** | 47.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for his great pace, opportunism, and agility, as well as his technical ability and his eye for goal, which enabled him to be considered as one of the greatest English and Premier League strikers of his generation. A prolific goalscorer, Owen was a powerful and accurate finisher, who was also effective with his head, despite his lack of height. He was also capable of creating chances for team-mates due to his short passing ability and vision. Despite his precocious talent in his youth, Owen faced many injuries throughout his career, which later affected his pace, fitness, mobility, and the overall consistency of his performances.	Finishing At Speed, Premier League Golden Boot x3
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Poacher` with model support score `91`.
+- Best-fit role is [[poacher]] Poacher with model support score `91`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in First Touch, Take Ons, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,10 +71,11 @@ CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,11 +98,11 @@ CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -103,7 +113,6 @@ CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for 
 {}
 ---
 
-	CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for his great pace, opportunism, and agility, as well as his technical ability and his eye for goal, which enabled him to be considered as one of the greatest English and Premier League strikers of his generation. A prolific goalscorer, Owen was a powerful and accurate finisher, who was also effective with his head, despite his lack of height. He was also capable of creating chances for team-mates due to his short passing ability and vision. Despite his precocious talent in his youth, Owen faced many injuries throughout his career, which later affected his pace, fitness, mobility, and the overall consistency of his performances.	Finishing At Speed, Premier League Golden Boot x3	
-
+	CF		Striker	Fox	Liverpool	ENG	B	80.0	In his prime, Owen was highly regarded for his great pace, opportunism, and agility, as well as his technical ability and his eye for goal, which enabled him to be considered as one of the greatest English and Premier League strikers of his generation. A prolific goalscorer, Owen was a powerful and accurate finisher, who was also effective with his head, despite his lack of height. He was also capable of creating chances for team-mates due to his short passing ability and vision. Despite his precocious talent in his youth, Owen faced many injuries throughout his career, which later affected his pace, fitness, mobility, and the overall consistency of his performances.	Finishing At Speed, Premier League Golden Boot x3
 
 </details>

@@ -2,12 +2,12 @@
 title: M. Comba
 category: players
 tags: [CM, OL, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at OL. Archetype: Striker-Destroyer.
 person_id: 23447
-backlinks: [striker, ol]
+backlinks: [striker, playmaker, ol]
 ---
 
 # M. Comba
@@ -18,21 +18,30 @@ backlinks: [striker, ol]
 |---|---|
 | **Position** | CM |
 | **Club** | OL |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 M. Comba projects primarily as a CM with a `Striker-Destroyer` lean. The strongest database support comes from Flair, Long Range, and Close Range.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `71`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `71`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Flair, Long Range, and Close Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ M. Comba projects primarily as a CM with a `Striker-Destroyer` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +106,6 @@ M. Comba projects primarily as a CM with a `Striker-Destroyer` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

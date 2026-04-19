@@ -2,12 +2,12 @@
 title: Stefan Savic
 category: players
 tags: [CD, Trabzonspor, Montenegro, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Trabzonspor. Archetype: Cover-Dribbler.
 person_id: 17591
-backlinks: [cover, trabzonspor]
+backlinks: [cover, sweeper, trabzonspor]
 ---
 
 # Stefan Savic
@@ -21,18 +21,27 @@ backlinks: [cover, trabzonspor]
 | **Nation** | Montenegro |
 | **Age** | 35 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 At 35, Savić remains a functional stopper with intelligent awareness, tackling precision, and aerial consistency, though physical decline and limited creativity reflect his advancing age; his interceptions and positional discipline offer reading-the-game value, but his tactical and technical range has always been modest. His durability and availability make him a reliable veteran depth option for clubs requiring experience without expecting creative burden. Turkish league placement suggests he suits high-physicality, lower-velocity environments where his smarts compound his fading athleticism.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `81`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Heading, Jumping, and Reactions.
@@ -67,13 +76,14 @@ At 35, Savić remains a functional stopper with intelligent awareness, tackling 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
+| Floor | EUR 0.5m |
 | Mid | EUR 4.0m |
 | Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ At 35, Savić remains a functional stopper with intelligent awareness, tackling 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

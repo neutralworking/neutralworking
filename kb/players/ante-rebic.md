@@ -2,12 +2,12 @@
 title: Ante Rebić
 category: players
 tags: [CF, HNK Hajduk Split, Croatia, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at HNK Hajduk Split. Archetype: Creator.
 person_id: 8586
-backlinks: [creator, hnk-hajduk-split]
+backlinks: [creator, seconda-punta, hnk-hajduk-split]
 ---
 
 # Ante Rebić
@@ -21,18 +21,27 @@ backlinks: [creator, hnk-hajduk-split]
 | **Nation** | Croatia |
 | **Age** | 32 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left-sided forward with genuine aerial presence and the capacity to shift a game through sheer physical directness, though his explosiveness has predictably eroded with age. He's still a threat in the box and retains the ability to win fouls through aggressive positioning, but his pressing has become laboured and he offers nothing in the press-and-recover game Beşiktaş occasionally need. What you're getting is a squad forward capable of scrappy goals and occasional moments of quality, not a starter at a serious club.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `72`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `72`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Carries, Interceptions, and Aggression.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +71,14 @@ A left-sided forward with genuine aerial presence and the capacity to shift a ga
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ A left-sided forward with genuine aerial presence and the capacity to shift a ga
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

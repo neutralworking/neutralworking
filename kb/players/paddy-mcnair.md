@@ -2,12 +2,12 @@
 title: Paddy McNair
 category: players
 tags: [CD, Hull City, Northern Ireland, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Hull City. Archetype: Engine-Dribbler.
 person_id: 16069
-backlinks: [engine, hull-city]
+backlinks: [engine, colossus, hull-city]
 ---
 
 # Paddy McNair
@@ -21,18 +21,27 @@ backlinks: [engine, hull-city]
 | **Nation** | Northern Ireland |
 | **Age** | 30 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Versatile defender comfortable across multiple positions with decent athleticism and composure on the ball. His reading of the game is solid though unspectacular, and he passes adequately without contributing meaningfully to build-up play. Reliable, no-nonsense defender who wins his battles and maintains shape, but lacks the technical sophistication or defensive intelligence to be a genuine ball-playing centre-back—best used in a structured, disciplined defensive shape.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `80`.
+- Best-fit role is [[colossus]] Colossus with model support score `80`.
 - Primary archetype leans toward `Engine` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Physical, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Versatile defender comfortable across multiple positions with decent athleticism
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.3m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Versatile defender comfortable across multiple positions with decent athleticism
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

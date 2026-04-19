@@ -2,12 +2,12 @@
 title: Alexander Isak
 category: players
 tags: [CF, Liverpool, Sweden, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Liverpool. Archetype: Sprinter-Dribbler.
 person_id: 8167
-backlinks: [sprinter, liverpool]
+backlinks: [sprinter, shadow-striker, liverpool]
 ---
 
 # Alexander Isak
@@ -21,6 +21,8 @@ backlinks: [sprinter, liverpool]
 | **Nation** | Sweden |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 74.0 |
 | **Pursuit** | Watch |
@@ -30,9 +32,16 @@ backlinks: [sprinter, liverpool]
 
 Elegant striker with pace, dribbling, and clinical finishing. Movement between the lines is intelligent. Links play well despite height. Newcastle's talisman. Sweden captain. Would require a massive fee.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `82`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `82`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Physical, Reactions, and Acceleration.
@@ -67,13 +76,14 @@ Elegant striker with pace, dribbling, and clinical finishing. Movement between t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 69.7m |
+| Mid | EUR 82.0m |
+| Ceiling | EUR 110m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Elegant striker with pace, dribbling, and clinical finishing. Movement between t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

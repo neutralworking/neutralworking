@@ -2,11 +2,12 @@
 title: Blas Riveros
 category: players
 tags: [CD, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 28205
+backlinks: [sweeper]
 ---
 
 # Blas Riveros
@@ -16,22 +17,31 @@ person_id: 28205
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Paraguay |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 47 |
+| **Level** | — |
 | **Overall** | 31.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Blas Riveros projects primarily as a CD with a `None` lean. The strongest database support comes from Discipline, Awareness, and Composure.
+Blas Riveros projects primarily as a CD with a `—` lean. The strongest database support comes from Discipline, Awareness, and Composure.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `47`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `47`.
 - Most bankable strengths show up in Discipline, Awareness, and Composure.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -61,13 +71,14 @@ Blas Riveros projects primarily as a CD with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 2.1m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,5 +93,5 @@ Blas Riveros projects primarily as a CD with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

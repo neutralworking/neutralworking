@@ -2,12 +2,12 @@
 title: Mohamed Touré
 category: players
 tags: [WF, Ghazl El Mehalla, Australia, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Ghazl El Mehalla. Archetype: Sprinter.
 person_id: 15303
-backlinks: [sprinter, ghazl-el-mehalla]
+backlinks: [sprinter, winger, ghazl-el-mehalla]
 ---
 
 # Mohamed Touré
@@ -21,16 +21,16 @@ backlinks: [sprinter, ghazl-el-mehalla]
 | **Nation** | Australia |
 | **Age** | 29 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 77 |
 | **Level** | 82 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-
 ![](https://media.guim.co.uk/e85457353dfede171f508c17d6f87ed08ff014f0/0_170_4308_2585/500.jpg)
-
 
 ClubAdelaide United
 
@@ -45,10 +45,16 @@ Adelaide manager Carl Veart has described him as a “player who can go all the 
   
 **October 2023 update** After transferring to Reims, Touré impressed for the reserve team, scoring eight goals in 14 appearances, before making his Ligue 1 debut as a substitute in May. But in search of more senior game time the forward made the move to Ligue 2 club Paris FC on loan. Touré got his first national team call-up for the AFC Under-23 Asian Cup qualifiers but had to withdraw because of injury.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `77`.
+- Best-fit role is [[winger]] Winger with model support score `77`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Physical, and Balance.
@@ -79,13 +85,14 @@ Adelaide manager Carl Veart has described him as a “player who can go all the 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.6m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -114,7 +121,7 @@ Adelaide manager Carl Veart has described him as a “player who can go all the 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

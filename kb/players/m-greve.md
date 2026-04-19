@@ -2,12 +2,12 @@
 title: M. Greve
 category: players
 tags: [AM, Randers FC, Dribbler-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Randers FC. Archetype: Dribbler-Powerhouse.
 person_id: 23940
-backlinks: [dribbler, randers-fc]
+backlinks: [dribbler, trequartista, randers-fc]
 ---
 
 # M. Greve
@@ -18,21 +18,30 @@ backlinks: [dribbler, randers-fc]
 |---|---|
 | **Position** | AM |
 | **Club** | Randers FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[dribbler]] Dribbler-Powerhouse |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 M. Greve projects primarily as a AM with a `Dribbler-Powerhouse` lean. The strongest database support comes from Stamina, Acceleration, and First Touch.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `70`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `70`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Most bankable strengths show up in Stamina, Acceleration, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ M. Greve projects primarily as a AM with a `Dribbler-Powerhouse` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +99,6 @@ M. Greve projects primarily as a AM with a `Dribbler-Powerhouse` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

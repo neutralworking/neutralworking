@@ -2,12 +2,12 @@
 title: Zico
 category: players
 tags: [AM, Brazil, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: AM at None. Archetype: Creator-Striker.
+summary: AM at —. Archetype: Creator-Striker.
 person_id: 18779
-backlinks: [creator]
+backlinks: [creator, trequartista]
 ---
 
 # Zico
@@ -17,13 +17,15 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
 | **Age** | 71 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 94 |
 | **Level** | 47 |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -31,9 +33,16 @@ backlinks: [creator]
 CM		Creator	Trequartista		BRA	B	80.9	Flamengo great Zico personifies the number 10 shirt like few others. He was consummate conductor, freely strutting around midfield, orchestrating the most enchanting of harmonies. The central figure in the mythical 1982 side that captured the world’s imagination, if not the cup itself, he is the living embodiment of ‘jogo bonito. His flawless technique, bewitching dribbling and unrivaled eye for a defense-splitting pass saw him carve out the sort of reputation reserved for the select few able to truly inspire the souls of those who live for the beautiful game.		Zico played the World Cups of 1978, 1982 and 1986, and though he never claimed football’s ultimate prize, he perhaps won something every bit as important.
 Ashley Cole	WD	Efficient	Wing Back	Colossus	Arsenal, Chelsea	ENG	B	85.5	Cole's game incorporates an attacking approach to his play, which supports his teams' forward play. As a youth, "he ""always liked scoring goals and attacking""", but grew to love the role of defending, as being a left-back was the only opportunity of breaking into the seniors. Prior to his inclusion in the Arsenal first team, "Cole studied the conduct of fellow defender Nigel Winterburn to improve his play; Winterburn concurrently offered pointers to improve his positioning. He modelled his game on Brazilian Roberto Carlos: ""He's got natural talent", 'Do this' or 'Go there'. He knows, "he knows."" The rapid progress made by Cole in his debut season for Arsenal ""surprised"" Wenger and prompted him to make the defender his first pick. Sylvinho", the player displaced, Cole's attacking threat was restrained, "meaning it allowed the player to focus more on defending and marking. This was a ""side of his game"" Cole improved the most according to Winterburn", he made two notable clearances, which demonstrated to him that his defensive game had improved. He also made two goal line clearances in Chelsea's 2011–12 Champions League winning campaign. The first was against Napoli, in a 3–1 round-of-16 first leg defeat, and the second in Chelsea's semi-final first leg 1–0 win against Barcelona. Both were vital as Chelsea went on to win the ties with a margin of one goal on aggregate, "eventually lifting the Champions League. Cole is said to have a ""mean streak""", "and has been labelled a ""dirty player""", something which he himself and his former coaches have strongly denied.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `94`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `94`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist and Long Range Threat.
 - Most bankable strengths show up in Creativity, Crossing, and Long Range.
@@ -65,10 +74,11 @@ Ashley Cole	WD	Efficient	Wing Back	Colossus	Arsenal, Chelsea	ENG	B	85.5	Cole's g
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,10 +94,10 @@ Ashley Cole	WD	Efficient	Wing Back	Colossus	Arsenal, Chelsea	ENG	B	85.5	Cole's g
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

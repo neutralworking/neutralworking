@@ -1,13 +1,12 @@
 ---
 title: Andy Najar
 category: players
-tags: [WM, Nashville SC, Sprinter-Dribbler]
-updated: 2026-04-18
+tags: [CD, Honduras]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: WM at Nashville SC. Archetype: Sprinter-Dribbler.
-person_id: 496
-backlinks: [sprinter, nashville-sc]
+confidence: low
+summary: CD at —. Archetype: —.
+person_id: 28508
 ---
 
 # Andy Najar
@@ -16,85 +15,56 @@ backlinks: [sprinter, nashville-sc]
 
 | Field | Value |
 |---|---|
-| **Position** | WM |
-| **Club** | Nashville SC |
-| **Nation** | None |
+| **Position** | CD |
+| **Club** | — |
+| **Nation** | Honduras |
 | **Age** | 33 |
-| **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Level** | 78 |
-| **Overall** | 69.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Andy Najar projects primarily as a WM with a `Sprinter-Dribbler` lean. The strongest database support comes from Pace, Acceleration, and Balance.
+Andy Najar is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `72`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
-- Most bankable strengths show up in Pace, Acceleration, and Balance.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on Pace, Acceleration, and Balance.
-- Style traits point toward Flamboyant in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat and Endurance.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Physical | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| First Touch | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Jumping | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 40
-- **Motivation (SN)**: 53
-- **Social (TF)**: 77
-- **Pressure (JP)**: 39
-- **Competitiveness**: 4/10
-- **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 10/10
-- **Aerial Threat** (physical) — severity 10/10
-- **Endurance** (physical) — severity 5/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

@@ -2,12 +2,12 @@
 title: Yusuf Sarı
 category: players
 tags: [WM, Başakşehir, Turkey, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Başakşehir. Archetype: Creator-Sprinter.
 person_id: 18714
-backlinks: [creator, basaksehir]
+backlinks: [creator, wide-playmaker, basaksehir]
 ---
 
 # Yusuf Sarı
@@ -21,18 +21,27 @@ backlinks: [creator, basaksehir]
 | **Nation** | Turkey |
 | **Age** | 27 |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Sarı is a thrilling Creator-Sprinter, using his electrifying acceleration, pace, and exceptional balance to embark on dazzling take-ons from his wide playmaker position. Despite his attacking prowess, he's a significant tactical liability, often leaving his flank exposed, and his complete disinterest in defensive blocking is a major concern.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `75`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `75`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 
@@ -58,13 +67,14 @@ Sarı is a thrilling Creator-Sprinter, using his electrifying acceleration, pace
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ Sarı is a thrilling Creator-Sprinter, using his electrifying acceleration, pace
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

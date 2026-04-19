@@ -2,12 +2,12 @@
 title: Michael Ballack
 category: players
 tags: [CM, Germany, Target-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Target-Destroyer.
+summary: CM at —. Archetype: Target-Destroyer.
 person_id: 15056
-backlinks: [target]
+backlinks: [target, playmaker]
 ---
 
 # Michael Ballack
@@ -17,22 +17,30 @@ backlinks: [target]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 49 |
 | **Archetype** | [[target]] Target-Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 45 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Dominant	Presence	General	Bayern Munich	GER	A	88.2	Michael Ballack, for instance, is very versatile, can organise a team offensively and defensively, can initiate attacks with his good passing, scores a lot of goals (particularly good at headers, also freekicks), tackles well.	Michael Ballack is the greatest German footballer during the 2000s, was famous for his leadership and effectiveness. He is one of the most runner-up trophies players, won second place in UEFA champion league, European Championship and FIFA World Cup with no any champion in these tournament. Especially, Ballack won the triple runner-up in 2001-2002 season with Leverkusen, consisted of Bundesliga, UEFA Champion league and DFB-pokal. He played as defensive midfielder in some year during early 2000s and settle his position up to attacking midfielder. By the end of 2008-2009 season, Ballack is totally rated by kicker ranking in the same profile as Stefan Effenberg with a half of world-class season in 2002 and 8.5 international-class seasons, was voted fifth place European Footballer Of The Year in 2002. 	26/9/1976
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Target` behaviour from a `CM` base.
 - Most bankable strengths show up in Interceptions, Long Range, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,10 +74,11 @@ CM	Dominant	Presence	General	Bayern Munich	GER	A	88.2	Michael Ballack, for insta
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +105,11 @@ CM	Dominant	Presence	General	Bayern Munich	GER	A	88.2	Michael Ballack, for insta
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 22 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

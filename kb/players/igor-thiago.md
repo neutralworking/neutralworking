@@ -2,12 +2,12 @@
 title: Igor Thiago
 category: players
 tags: [CF, Brentford, Brazil, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Brentford. Archetype: Striker-Destroyer.
 person_id: 11938
-backlinks: [striker, brentford]
+backlinks: [striker, shadow-striker, brentford]
 ---
 
 # Igor Thiago
@@ -21,18 +21,27 @@ backlinks: [striker, brentford]
 | **Nation** | Brazil |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A Brazilian forward with genuine pace and the ability to stretch defences vertically. He makes intelligent off-the-ball runs and has shown glimpses of understanding positioning. The issues are significant: his technical security is loose under pressure, he doesn't hold up play effectively, and his finishing is inconsistent — he'll be clean through and then make a poor decision. He's got raw tools but lacks the composure and consistency of a top-level striker. He's a squad rotation option, not a solution.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `85`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `85`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and Balance.
@@ -67,13 +76,14 @@ A Brazilian forward with genuine pace and the ability to stretch defences vertic
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 47.5m |
+| Mid | EUR 72.0m |
+| Ceiling | EUR 86.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ A Brazilian forward with genuine pace and the ability to stretch defences vertic
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

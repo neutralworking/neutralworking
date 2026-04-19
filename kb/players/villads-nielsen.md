@@ -2,12 +2,12 @@
 title: Villads Nielsen
 category: players
 tags: [CD, Bodø/Glimt, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Bodø/Glimt. Archetype: Destroyer.
 person_id: 18366
-backlinks: [destroyer, bodglimt]
+backlinks: [destroyer, sweeper, bodglimt]
 ---
 
 # Villads Nielsen
@@ -18,21 +18,30 @@ backlinks: [destroyer, bodglimt]
 |---|---|
 | **Position** | CD |
 | **Club** | Bodø/Glimt |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 21 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Nielsen is a young Destroyer, a traditional Zagueiro who relies on his burgeoning physicality, decent pace, and aerial ability to nullify opposition threats. However, his significant lack of creativity means he struggles to build from the back, and a concerning weakness in duels suggests he might struggle to consistently outmuscle more robust forwards over 90 minutes.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `70`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `70`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Jumping, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +71,14 @@ Nielsen is a young Destroyer, a traditional Zagueiro who relies on his burgeonin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.2m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +97,6 @@ Nielsen is a young Destroyer, a traditional Zagueiro who relies on his burgeonin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

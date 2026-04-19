@@ -2,17 +2,31 @@
 title: Botafogo
 category: clubs
 tags: [Campeonato Brasileiro Série A, Brazil]
-updated: 2026-04-14
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Botafogo. 30 players in database.
+summary: Botafogo. 25 players in database.
 ---
 
 # Botafogo
 
 **League**: Campeonato Brasileiro Série A  
 **Nation**: Brazil  
-**Players in DB**: 30
+**Players in DB**: 25
+
+## Identity
+
+- Database coverage is deepest in CM (8), WF (5), and CF (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Striker (8), Creator (6), and Cover (5) across the current squad.
+- Average available overall grade sits at 55.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -20,11 +34,9 @@ summary: Botafogo. 30 players in database.
 |---|---|---|---|
 | [[j-correa]] J. Correa | AM | Striker-Creator | 73.0 |
 | [[j-savarino]] J. Savarino | AM | Creator-Striker | 72.0 |
-| [[arthur-cabral]] Arthur Cabral | CF | Striker-Creator | 74.0 |
 | [[caio-valle]] Caio Valle | CF | Creator-Striker | 15.0 |
 | [[g-mastriani]] G. Mastriani | CF | Striker | 31.0 |
 | [[kauan-toledo]] Kauan Toledo | CF | Creator | 35.0 |
-| [[rafael-genuino]] Rafael Genuino | CF | Striker-Creator | 22.0 |
 | [[a-barboza]] A. Barboza | CM | Destroyer-Powerhouse | 71.0 |
 | [[david-ricardo]] David Ricardo | CM | Destroyer-Striker | 71.0 |
 | [[huguinho]] Huguinho | CM | Cover-Striker | 21.0 |
@@ -33,18 +45,15 @@ summary: Botafogo. 30 players in database.
 | [[keith-robert-newton]] Keith Robert Newton | CM | Cover-Striker | 71.0 |
 | [[lucyo]] Lucyo | CM | Cover-Creator | 28.0 |
 | [[marlon-freitas]] Marlon Freitas | CM | Destroyer-Striker | 68.0 |
-| [[john]] John | GK | GK | 40.0 |
-| [[leo-linck]] Léo Linck | GK | GK | None |
+| [[leo-linck]] Léo Linck | GK | GK | — |
 | [[neto]] Neto | GK | GK | 66.0 |
 | [[alex-telles]] Alex Telles | WD | Creator | 66.0 |
 | [[cuiabano]] Cuiabano | WD | Cover | 74.0 |
-| [[alvaro-montoro]] Álvaro Montoro | WF | Creator | 71.0 |
 | [[chris-ramos]] Chris Ramos | WF | Striker | 73.0 |
 | [[jeffinho]] Jeffinho | WF | Creator-Striker | 80.0 |
 | [[m-ponte]] M. Ponte | WF | Creator-Striker | 70.0 |
-| [[matheus-martins]] Matheus Martins | WF | Creator-Striker | 66.0 |
 | [[nathan-fernandes]] Nathan Fernandes | WF | Striker-Creator | 37.0 |
 | [[wanya-marcal]] Wanya Marcal | WF | Striker | 59.0 |
-| [[caua-zappelini-joaquim]] Cauã Zappelini Joaquim | None | Striker-Cover | None |
-| [[fortunato]] Fortunato | None | Striker | None |
-| [[k-barria]] K. Barria | None | Striker | None |
+| Cauã Zappelini Joaquim | — | Striker-Cover | — |
+| Fortunato | — | Striker | — |
+| K. Barria | — | Striker | — |

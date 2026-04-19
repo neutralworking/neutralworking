@@ -2,12 +2,12 @@
 title: Milan Đurić
 category: players
 tags: [CF, Parma, Target]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Parma. Archetype: Target.
 person_id: 15219
-backlinks: [target, parma]
+backlinks: [target, target-forward, parma]
 ---
 
 # Milan Đurić
@@ -18,21 +18,29 @@ backlinks: [target, parma]
 |---|---|
 | **Position** | CF |
 | **Club** | Parma |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 35 |
 | **Archetype** | [[target]] Target |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 67 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Veteran target man at 35 still capable of holding play and winning headers, but his immobility is now a real liability against modern pressing. Late-career squad depth for set pieces and occasional starts when Parma wants to be direct.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Most bankable strengths show up in Heading, Physical, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,10 +70,11 @@ Veteran target man at 35 still capable of holding play and winning headers, but 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +99,7 @@ Veteran target man at 35 still capable of holding play and winning headers, but 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Arsen Zakharyan
 category: players
 tags: [AM, Real Sociedad, Russia, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Real Sociedad. Archetype: Creator-Passer.
 person_id: 8722
-backlinks: [creator, real-sociedad]
+backlinks: [creator, trequartista, real-sociedad]
 ---
 
 # Arsen Zakharyan
@@ -21,13 +21,13 @@ backlinks: [creator, real-sociedad]
 | **Nation** | Russia |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 85 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
-
 
 ClubDynamo Moscow
 
@@ -43,10 +43,16 @@ Coming from the city of Samara, 1,000km south-east of Moscow, Zakharyan caught t
   
 **October 2023 update** Secured a well-deserved move to Real Sociedad this August but got Covid soon after his arrival, which slowed down his adaptation period with Imanol Barrenetxea’s exciting team.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Acceleration, Crossing, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -77,13 +83,14 @@ Coming from the city of Samara, 1,000km south-east of Moscow, Zakharyan caught t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.5m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -110,17 +117,16 @@ Coming from the city of Samara, 1,000km south-east of Moscow, Zakharyan caught t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubDynamo Moscow
 
@@ -134,6 +140,6 @@ Coming from the city of Samara, 1,000km south-east of Moscow, Zakharyan caught t
   
 **September 2022 update** Had another impressive season with Dynamo Moscow, leading the club to the third place in the Premier League with seven goals, six assists and commanding displays during the whole campaign. Had everything ready for his desired move to Chelsea this summer only for administrative issues standing in the way of the transfer. Slowed down after the end of the transfer window with no goals or assists in the following four games.  
   
-**October 2023 update** Secured a well-deserved move to Real Soc...
+**October 2023 update** Secured a well-deserved move to Real Soci...
 
 </details>

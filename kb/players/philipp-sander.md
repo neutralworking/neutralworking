@@ -2,12 +2,12 @@
 title: Philipp Sander
 category: players
 tags: [CM, Borussia Mönchengladbach, Germany, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Borussia Mönchengladbach. Archetype: Engine.
 person_id: 16311
-backlinks: [engine, borussia-monchengladbach]
+backlinks: [engine, tuttocampista, borussia-monchengladbach]
 ---
 
 # Philipp Sander
@@ -21,18 +21,27 @@ backlinks: [engine, borussia-monchengladbach]
 | **Nation** | Germany |
 | **Age** | 28 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A box-to-box midfielder whose engine and work rate are exemplary, covering the pitch tirelessly and providing defensive security ahead of the back four. His technical ceiling is moderate—he's not somebody who dictates tempo or creates play from open-field scenarios—but he executes his role competently at Bundesliga level. At 28, he's a solid, dependable midfielder who knows his limitations and functions within them.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `76`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `76`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -67,13 +76,14 @@ A box-to-box midfielder whose engine and work rate are exemplary, covering the p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 26.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A box-to-box midfielder whose engine and work rate are exemplary, covering the p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

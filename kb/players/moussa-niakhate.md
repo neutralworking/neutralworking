@@ -2,12 +2,12 @@
 title: Moussa Niakhate
 category: players
 tags: [CD, Lyon, Senegal, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Lyon. Archetype: Destroyer-Dribbler.
 person_id: 15410
-backlinks: [destroyer, lyon]
+backlinks: [destroyer, colossus, lyon]
 ---
 
 # Moussa Niakhate
@@ -21,18 +21,27 @@ backlinks: [destroyer, lyon]
 | **Nation** | Senegal |
 | **Age** | 30 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Left-sided center-back with excellent positioning and an underrated ability to play progressively out from the back through both feet. Susceptible to being beaten for pace if isolated, which limits his usefulness in high pressing systems where he'd lack cover. Solid, dependable defender in a structured environment who adds value through distribution rather than individual defending brilliance.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `81`.
+- Best-fit role is [[colossus]] Colossus with model support score `81`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Pace, Jumping, and Penalties.
@@ -67,13 +76,14 @@ Left-sided center-back with excellent positioning and an underrated ability to p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Left-sided center-back with excellent positioning and an underrated ability to p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

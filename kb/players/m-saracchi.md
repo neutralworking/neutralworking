@@ -2,12 +2,12 @@
 title: M. Saracchi
 category: players
 tags: [AM, Celtic, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Celtic. Archetype: Powerhouse-Cover.
 person_id: 25412
-backlinks: [powerhouse, celtic]
+backlinks: [powerhouse, trequartista, celtic]
 ---
 
 # M. Saracchi
@@ -18,21 +18,30 @@ backlinks: [powerhouse, celtic]
 |---|---|
 | **Position** | AM |
 | **Club** | Celtic |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 27 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An intriguing profile—a trequartista with legitimate technical range married to tactical acuity, yet whose moderate technical execution and significant mental fragility create inconsistency in both creation and decision-making. His aggressive pressing and acceleration suggest a heartbeat player comfortable in modern possession football, though his lack of guile and occasional lapses in composure mean he's more effective as a supporting playmaker than as a dominant orchestrator. The spontaneity in his personality, combined with weaker mental resilience and technical refinement, hints at occasional flashes of brilliance interspersed with periods of invisibility. Celtic's use of him likely depends on tactical structure and deployment discipline; he functions best in systems where his press-and-pass role is clearly defined rather than systems demanding creative independence or mental fortitude under sustained opposition pressure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `74`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `AM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ An intriguing profile—a trequartista with legitimate technical range married t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +99,7 @@ An intriguing profile—a trequartista with legitimate technical range married t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

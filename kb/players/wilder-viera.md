@@ -2,12 +2,12 @@
 title: Wilder Viera
 category: players
 tags: [CM, Cerro Porteño, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Cerro Porteño. Archetype: None.
+summary: CM at Cerro Porteño. Archetype: —.
 person_id: 31903
-backlinks: [cerro-porteno]
+backlinks: [tuttocampista, cerro-porteno]
 ---
 
 # Wilder Viera
@@ -20,19 +20,28 @@ backlinks: [cerro-porteno]
 | **Club** | Cerro Porteño |
 | **Nation** | Paraguay |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 44 |
+| **Level** | — |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Wilder Viera projects primarily as a CM with a `None` lean. The strongest database support comes from Aggression, Tackling, and Pressing.
+Wilder Viera projects primarily as a CM with a `—` lean. The strongest database support comes from Aggression, Tackling, and Pressing.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `44`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `44`.
 - Most bankable strengths show up in Aggression, Tackling, and Pressing.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -67,8 +76,9 @@ Wilder Viera projects primarily as a CM with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,5 +94,5 @@ Wilder Viera projects primarily as a CM with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |

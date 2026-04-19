@@ -2,10 +2,10 @@
 title: Nicole Anyomi
 category: players
 tags: [CF, Eintracht Frankfurt Women, Germany]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Eintracht Frankfurt Women. Archetype: None.
+summary: CF at Eintracht Frankfurt Women. Archetype: —.
 person_id: 15691
 backlinks: [eintracht-frankfurt-women]
 ---
@@ -20,15 +20,22 @@ backlinks: [eintracht-frankfurt-women]
 | **Club** | Eintracht Frankfurt Women |
 | **Nation** | Germany |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A German defender operating at fullback or in a wider defensive role with commendable athleticism and press resistance. Anyomi's strength is her ability to operate in the transition and recover dangerous positions through pure physical recovery, but she doesn't read space proactively—she's reactive rather than anticipatory. Useful squad depth at a Bundesliga club, particularly in scenarios where direct athleticism is required.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -41,10 +48,11 @@ A German defender operating at fullback or in a wider defensive role with commen
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ A German defender operating at fullback or in a wider defensive role with commen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

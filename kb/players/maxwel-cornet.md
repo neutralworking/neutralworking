@@ -2,12 +2,12 @@
 title: Maxwel Cornet
 category: players
 tags: [WM, Genoa, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Genoa. Archetype: Striker-Creator.
 person_id: 19357
-backlinks: [striker, genoa]
+backlinks: [striker, wide-playmaker, genoa]
 ---
 
 # Maxwel Cornet
@@ -18,21 +18,29 @@ backlinks: [striker, genoa]
 |---|---|
 | **Position** | WM |
 | **Club** | Genoa |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 82 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Cornet's technical abilities and physical strengths make him a strong fit for the Winger role, where he can utilize his acceleration, pace, and shielding to beat opponents, but his limited tactical awareness and mental discipline can lead to errors, making him a higher-risk signing for a team, although his availability and durability can bring value to a team that values width and quick transitions, and his competitive personality can fit into a structured team setup.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Long Range.
 
@@ -62,13 +70,14 @@ Cornet's technical abilities and physical strengths make him a strong fit for th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 27.0m |
+| Ceiling | EUR 32.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Cornet's technical abilities and physical strengths make him a strong fit for th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

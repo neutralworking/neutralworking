@@ -2,12 +2,12 @@
 title: Mikkel Desler
 category: players
 tags: [CM, Austin FC, Denmark, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Austin FC. Archetype: Engine.
 person_id: 15206
-backlinks: [engine, austin-fc]
+backlinks: [engine, ball-winner, austin-fc]
 ---
 
 # Mikkel Desler
@@ -21,18 +21,27 @@ backlinks: [engine, austin-fc]
 | **Nation** | Denmark |
 | **Age** | 31 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Mikkel Desler is an experienced Relayeur with a strong tactical awareness, allowing him to control the tempo of the game. His exceptional stamina and pass accuracy make him a reliable presence in midfield, but his limited guile and weakness in duels hold him back. His high_press and progressive_carrier traits suggest he is comfortable in a high-intensity environment, but his limited physicality may affect his performance over time, and he needs to work on his technical ability to become a more complete player.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `75`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `75`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and High Press.
 - Most bankable strengths show up in Stamina, Acceleration, and Shielding.
@@ -67,13 +76,14 @@ Mikkel Desler is an experienced Relayeur with a strong tactical awareness, allow
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Mikkel Desler is an experienced Relayeur with a strong tactical awareness, allow
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

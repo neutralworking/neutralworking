@@ -2,12 +2,12 @@
 title: Fidan Aliti
 category: players
 tags: [CD, Alanyaspor, Albania, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Alanyaspor. Archetype: Powerhouse.
 person_id: 11015
-backlinks: [powerhouse, alanyaspor]
+backlinks: [powerhouse, colossus, alanyaspor]
 ---
 
 # Fidan Aliti
@@ -21,18 +21,27 @@ backlinks: [powerhouse, alanyaspor]
 | **Nation** | Albania |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Fidan Aliti is a powerful and aggressive defender, with impressive stamina and tackling abilities. He excels in the air, winning headers and dominating opposition strikers. However, his lack of creativity and discipline can be a major issue, as he often resorts to crude challenges and gives away cheap free-kicks. His inability to read the game and anticipate opposition attacks is also a concern.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `72`.
+- Best-fit role is [[colossus]] Colossus with model support score `72`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Stamina, Jumping, and Balance.
@@ -67,13 +76,14 @@ Fidan Aliti is a powerful and aggressive defender, with impressive stamina and t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Fidan Aliti is a powerful and aggressive defender, with impressive stamina and t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

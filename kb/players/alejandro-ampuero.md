@@ -2,12 +2,12 @@
 title: Alejandro Ampuero
 category: players
 tags: [CM, Cusco FC, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Cusco FC. Archetype: None.
+summary: CM at Cusco FC. Archetype: —.
 person_id: 28726
-backlinks: [cusco-fc]
+backlinks: [mezzala, cusco-fc]
 ---
 
 # Alejandro Ampuero
@@ -20,19 +20,28 @@ backlinks: [cusco-fc]
 | **Club** | Cusco FC |
 | **Nation** | Bolivia |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 23 |
+| **Level** | — |
 | **Overall** | 20.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Alejandro Ampuero projects primarily as a CM with a `None` lean. The strongest database support comes from Close Range, Blocking, and Flair.
+Alejandro Ampuero projects primarily as a CM with a `—` lean. The strongest database support comes from Close Range, Blocking, and Flair.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `23`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `23`.
 - Most bankable strengths show up in Close Range, Blocking, and Flair.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -67,8 +76,9 @@ Alejandro Ampuero projects primarily as a CM with a `None` lean. The strongest d
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,5 +93,5 @@ Alejandro Ampuero projects primarily as a CM with a `None` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 24 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

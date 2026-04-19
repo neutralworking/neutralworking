@@ -2,12 +2,12 @@
 title: Michael Kayode
 category: players
 tags: [WD, Brentford, Italy, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Brentford. Archetype: Powerhouse-Destroyer.
 person_id: 15077
-backlinks: [powerhouse, brentford]
+backlinks: [powerhouse, corner-back, brentford]
 ---
 
 # Michael Kayode
@@ -21,18 +21,27 @@ backlinks: [powerhouse, brentford]
 | **Nation** | Italy |
 | **Age** | 21 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 71 |
 | **Level** | 73 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 An Italian right-back at 21 with decent pace and some attacking ambition, but he's still very much a work in progress. His positioning can be loose defensively, and he doesn't consistently read play ahead of time. He's energetic and enthusiastic, but raw — more academy graduate getting minutes than finished article. He's got time to develop, but he's not a reliable starter yet at Premier League level. He'll likely need loan moves to gain experience and composure.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `71`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Most bankable strengths show up in Take Ons, First Touch, and Movement.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ An Italian right-back at 21 with decent pace and some attacking ambition, but he
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ An Italian right-back at 21 with decent pace and some attacking ambition, but he
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

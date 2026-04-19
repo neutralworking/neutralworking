@@ -2,12 +2,12 @@
 title: Mbekezeli Mbokazi
 category: players
 tags: [CD, Orlando Pirates, South Africa]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Orlando Pirates. Archetype: None.
+summary: CD at Orlando Pirates. Archetype: —.
 person_id: 28574
-backlinks: [orlando-pirates]
+backlinks: [centrale, orlando-pirates]
 ---
 
 # Mbekezeli Mbokazi
@@ -20,19 +20,27 @@ backlinks: [orlando-pirates]
 | **Club** | Orlando Pirates |
 | **Nation** | South Africa |
 | **Age** | 20 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[centrale]] Centrale |
+| **Level** | — |
 | **Overall** | 18.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Mbekezeli Mbokazi projects primarily as a CD with a `None` lean. The strongest database support comes from Discipline, Skills, and Concentration.
+Mbekezeli Mbokazi projects primarily as a CD with a `—` lean. The strongest database support comes from Discipline, Skills, and Concentration.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Most bankable strengths show up in Discipline, Skills, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -61,13 +69,14 @@ Mbekezeli Mbokazi projects primarily as a CD with a `None` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 2.1m |
+| Mid | EUR 2.5m |
+| Ceiling | EUR 2.9m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +87,4 @@ Mbekezeli Mbokazi projects primarily as a CD with a `None` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |

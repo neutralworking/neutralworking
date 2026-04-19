@@ -2,12 +2,12 @@
 title: Sambou Soumano
 category: players
 tags: [CF, Lorient, Senegal, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Lorient. Archetype: Dribbler-Sprinter.
 person_id: 17101
-backlinks: [dribbler, lorient]
+backlinks: [dribbler, shadow-striker, lorient]
 ---
 
 # Sambou Soumano
@@ -21,18 +21,27 @@ backlinks: [dribbler, lorient]
 | **Nation** | Senegal |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Sambou Soumano's dribbler-sprinter archetype makes him a dynamic player, with pace and jumping ability allowing him to excel in counter-attacks. His technical skills are strong, but discipline and marking are areas where he needs improvement. A club that emphasizes pace and mobility in their attack would be a good fit, as he can stretch defenses with his runs.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `76`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `76`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
@@ -63,13 +72,14 @@ Sambou Soumano's dribbler-sprinter archetype makes him a dynamic player, with pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 25.0m |
+| Ceiling | EUR 30.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Sambou Soumano's dribbler-sprinter archetype makes him a dynamic player, with pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

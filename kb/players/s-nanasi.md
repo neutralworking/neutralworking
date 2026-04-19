@@ -2,12 +2,12 @@
 title: S. Nanasi
 category: players
 tags: [CF, Strasbourg, Powerhouse-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Strasbourg. Archetype: Powerhouse-Dribbler.
 person_id: 21228
-backlinks: [powerhouse, strasbourg]
+backlinks: [powerhouse, seconda-punta, strasbourg]
 ---
 
 # S. Nanasi
@@ -18,21 +18,30 @@ backlinks: [powerhouse, strasbourg]
 |---|---|
 | **Position** | CF |
 | **Club** | Strasbourg |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
-| **Level** | None |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 65 |
+| **Level** | — |
 | **Overall** | 49.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 As a Powerhouse-Dribbler, Nanasi excels at shielding and balance, but his technical and mental limitations hinder his overall impact, making him a suitable fit for a team that values physicality over finesse, such as a lower-table side looking to bolster their attack with a Complete Forward who can hold up the ball and bring others into play, although his lack of guile may be exposed against more sophisticated defenses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `65`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `65`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Shielding, Balance, and Stamina.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,10 +71,11 @@ As a Powerhouse-Dribbler, Nanasi excels at shielding and balance, but his techni
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ As a Powerhouse-Dribbler, Nanasi excels at shielding and balance, but his techni
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

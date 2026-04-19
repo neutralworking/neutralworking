@@ -2,12 +2,12 @@
 title: Ademola Lookman
 category: players
 tags: [WF, Atalanta, Nigeria, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Atalanta. Archetype: Striker-Cover.
 person_id: 7869
-backlinks: [striker, atalanta]
+backlinks: [striker, winger, atalanta]
 ---
 
 # Ademola Lookman
@@ -21,18 +21,27 @@ backlinks: [striker, atalanta]
 | **Nation** | Nigeria |
 | **Age** | 28 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely elite left winger operating in a system that maximises his explosive acceleration and directness. Lookman has become a consistent 15+ goal contributor this season through a combination of intelligent pressing, incisive half-space runs, and clinical finishing — his movement off the ball is often the difference-maker Atalanta needs in transition. The weakness? He's not a creator from wide positions; you need runners to exploit the space he manufactures, and his defensive intensity can be patchy against better-organised full-backs.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `82`.
+- Best-fit role is [[winger]] Winger with model support score `82`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -67,13 +76,14 @@ A genuinely elite left winger operating in a system that maximises his explosive
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 64.0m |
+| Ceiling | EUR 76.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A genuinely elite left winger operating in a system that maximises his explosive
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

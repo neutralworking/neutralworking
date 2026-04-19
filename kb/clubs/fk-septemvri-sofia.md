@@ -1,8 +1,8 @@
 ---
 title: FK Septemvri Sofia
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: FK Septemvri Sofia. 20 players in database.
@@ -10,9 +10,23 @@ summary: FK Septemvri Sofia. 20 players in database.
 
 # FK Septemvri Sofia
 
-**League**: None  
-**Nation**: None  
+**League**: —  
+**Nation**: —  
 **Players in DB**: 20
+
+## Identity
+
+- Database coverage is deepest in CM (7), WM (2), and WF (1), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Cover (7), Creator (5), and Striker (5) across the current squad.
+- Average available overall grade sits at 58.4, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+- [[pressing-trigger]] Pressing Trigger: the squad balance is partly explained by who can activate or support pressure at the right moment.
+- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -29,12 +43,12 @@ summary: FK Septemvri Sofia. 20 players in database.
 | [[n-fontaine]] N. Fontaine | WF | Creator-Striker | 65.0 |
 | [[g-ivanov]] G. Ivanov | WM | Creator | 61.0 |
 | [[moi-parra]] Moi Parra | WM | Creator-Cover | 59.0 |
-| [[a-abou]] A. Abou | None | Creator | None |
-| [[b-marinov]] B. Marinov | None | Striker-Cover | None |
-| [[b-tomovski]] B. Tomovski | None | Cover-Creator | None |
-| [[e-ribeiro]] E. Ribeiro | None | Striker-Cover | None |
-| [[g-varbanov]] G. Varbanov | None | Cover | None |
-| [[m-stamatov]] M. Stamatov | None | Destroyer-Creator | None |
-| [[s-stoichkov]] S. Stoichkov | None | Striker-Cover | None |
-| [[sebastian-wade]] Sebastian Wade | None | Cover-Creator | None |
-| [[y-georgiev]] Y. Georgiev | None | Cover | None |
+| A. Abou | — | Creator | — |
+| B. Marinov | — | Striker-Cover | — |
+| B. Tomovski | — | Cover-Creator | — |
+| E. Ribeiro | — | Striker-Cover | — |
+| G. Varbanov | — | Cover | — |
+| M. Stamatov | — | Destroyer-Creator | — |
+| S. Stoichkov | — | Striker-Cover | — |
+| Sebastian Wade | — | Cover-Creator | — |
+| Y. Georgiev | — | Cover | — |

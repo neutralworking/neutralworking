@@ -2,12 +2,12 @@
 title: Sydney van Hooijdonk
 category: players
 tags: [CF, NAC Breda, Netherlands, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at NAC Breda. Archetype: Striker-Target.
 person_id: 17741
-backlinks: [striker, nac-breda]
+backlinks: [striker, shadow-striker, nac-breda]
 ---
 
 # Sydney van Hooijdonk
@@ -21,18 +21,27 @@ backlinks: [striker, nac-breda]
 | **Nation** | Netherlands |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Van Hooijdonk is a physical presence up front, leveraging his jumping ability and strength to dominate in the air, but his lack of creativity and vision on the ball can limit his team's attacking potential. Tactically, he fits into the tradition of target men who provide a focal point for long balls and crosses. From a squad-building perspective, he would be a valuable asset for a team that relies on direct football and needs a striker who can hold up the ball and bring others into play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `78`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `78`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Physical, and Pace.
@@ -67,13 +76,14 @@ Van Hooijdonk is a physical presence up front, leveraging his jumping ability an
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.2m |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Van Hooijdonk is a physical presence up front, leveraging his jumping ability an
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

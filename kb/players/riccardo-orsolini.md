@@ -2,12 +2,12 @@
 title: Riccardo Orsolini
 category: players
 tags: [WF, Bologna, Italy, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Bologna. Archetype: Striker-Destroyer.
 person_id: 16623
-backlinks: [striker, bologna]
+backlinks: [striker, winger, bologna]
 ---
 
 # Riccardo Orsolini
@@ -21,18 +21,27 @@ backlinks: [striker, bologna]
 | **Nation** | Italy |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 74 |
 | **Level** | 87 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A right-winger with genuine directness and the ability to beat defenders in one-on-one situations; his crossing is accurate, and he can create from the byline or cut inside convincingly. He can be caught out defensively and occasionally lacks the decision-making to execute the right choice at pace. A very good attacking player with clear weaknesses that better sides exploit ruthlessly.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `74`.
+- Best-fit role is [[winger]] Winger with model support score `74`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Acceleration, and Jumping.
@@ -67,13 +76,14 @@ A right-winger with genuine directness and the ability to beat defenders in one-
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A right-winger with genuine directness and the ability to beat defenders in one-
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

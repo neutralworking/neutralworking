@@ -2,12 +2,12 @@
 title: Brandon Soppy
 category: players
 tags: [WD, Lausanne, France, Sprinter-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Lausanne. Archetype: Sprinter-Cover.
 person_id: 9175
-backlinks: [sprinter, lausanne]
+backlinks: [sprinter, corner-back, lausanne]
 ---
 
 # Brandon Soppy
@@ -21,18 +21,27 @@ backlinks: [sprinter, lausanne]
 | **Nation** | France |
 | **Age** | 24 |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A left-winger operating in the second tier with decent athleticism and a willingness to take people on down the flank, though his final product remains frustratingly inconsistent. Soppy has the physical profile to be interesting—quick feet, decent acceleration—but his decision-making in the box betrays the gaps in his technical foundation; too often he opts for the spectacular when the simple pass would suffice. At 24, playing regular minutes for Schalke, he's a functional squad piece who could develop into something more if he can marry his directness with better intelligence, but right now he lacks the consistency and composure to suggest he'll ever be more than a useful rotation option at this level.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `73`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `73`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Pace, and Balance.
@@ -67,13 +76,14 @@ A left-winger operating in the second tier with decent athleticism and a willing
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A left-winger operating in the second tier with decent athleticism and a willing
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Gabriel Magalhães
 category: players
 tags: [CD, Arsenal, Brazil, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Arsenal. Archetype: Destroyer.
 person_id: 11225
-backlinks: [destroyer, arsenal]
+backlinks: [destroyer, stopper, arsenal]
 ---
 
 # Gabriel Magalhães
@@ -21,6 +21,8 @@ backlinks: [destroyer, arsenal]
 | **Nation** | Brazil |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 87 |
 | **Level** | 89 |
 | **Overall** | 80.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [destroyer, arsenal]
 
 A centre-back with the rare combination of genuine ball-playing ability and old-fashioned defensive dominance — he's comfortable taking the ball in tight situations and progressing it, while also capable of the no-nonsense clearance when required. His athleticism and reading of the game are genuinely elite. The only whisper of weakness is that against the very best number nines in Europe, his positioning can occasionally be beaten by intelligent movement rather than pure pace.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `87`.
+- Best-fit role is [[stopper]] Stopper with model support score `87`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in Aggression, Duels, and Shielding.
@@ -66,13 +75,14 @@ A centre-back with the rare combination of genuine ball-playing ability and old-
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.0m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | Medium |
+| Floor | EUR 71.2m |
+| Mid | EUR 102m |
+| Ceiling | EUR 122m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ A centre-back with the rare combination of genuine ball-playing ability and old-
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

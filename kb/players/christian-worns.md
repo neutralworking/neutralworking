@@ -2,10 +2,10 @@
 title: Christian Wörns
 category: players
 tags: [CD]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 18903
 ---
 
@@ -16,18 +16,25 @@ person_id: 18903
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Christian Wörns was a rather atypical man-marker for his time in that he would not go rigorously into a one-on-one situation, no bone-breaker, but a technically pretty good defender who liked to play clean without much tackling. Tidy at buildup, Wörn’s drawback were weaknesses in positioning, which were exposed especially at the highest international level. Despite his 66 international games for Germany between 1992 and 2006, Wörns was never fully established in the national team. Known as a humble, intelligent player, he was not someone the general football public got easily used to, preferring rougher players like Jürgen Kohler in defense instead.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -41,13 +48,14 @@ Christian Wörns was a rather atypical man-marker for his time in that he would 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.5m |
+| Ceiling | EUR 3.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -58,8 +66,8 @@ Christian Wörns was a rather atypical man-marker for his time in that he would 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -73,6 +81,6 @@ nation: GER
 tier: B
 ---
 
-Christian Wörns was a rather atypical man-marker for his time in that he would not go rigorously into a one-on-one situation, no bone-breaker, but a technically pretty good defender who liked to play clean without much tackling. Tidy at buildup, Wörn’s drawback were weaknesses in positioning, which were exposed especially at the highest international level. Despite his 66 international games for Germany between 1992 and 2006, Wörns was never fully established in the national team. Known as a humble, intelligent player, he was not someone the general football public got easily used to, preferring rougher players like Jürgen Kohler in defense instead.	
+Christian Wörns was a rather atypical man-marker for his time in that he would not go rigorously into a one-on-one situation, no bone-breaker, but a technically pretty good defender who liked to play clean without much tackling. Tidy at buildup, Wörn’s drawback were weaknesses in positioning, which were exposed especially at the highest international level. Despite his 66 international games for Germany between 1992 and 2006, Wörns was never fully established in the national team. Known as a humble, intelligent player, he was not someone the general football public got easily used to, preferring rougher players like Jürgen Kohler in defense instead.
 
 </details>

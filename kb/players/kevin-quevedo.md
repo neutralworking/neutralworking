@@ -2,12 +2,12 @@
 title: Kevin Quevedo
 category: players
 tags: [CF, Alianza Lima, Peru]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at Alianza Lima. Archetype: None.
+summary: CF at Alianza Lima. Archetype: —.
 person_id: 28099
-backlinks: [alianza-lima]
+backlinks: [seconda-punta, alianza-lima]
 ---
 
 # Kevin Quevedo
@@ -20,19 +20,28 @@ backlinks: [alianza-lima]
 | **Club** | Alianza Lima |
 | **Nation** | Peru |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 20 |
+| **Level** | — |
 | **Overall** | 16.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Kevin Quevedo projects primarily as a CF with a `None` lean. The strongest database support comes from Drive, Take Ons, and Communication.
+Kevin Quevedo projects primarily as a CF with a `—` lean. The strongest database support comes from Drive, Take Ons, and Communication.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `20`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `20`.
 - Most bankable strengths show up in Drive, Take Ons, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -62,8 +71,9 @@ Kevin Quevedo projects primarily as a CF with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,4 +84,4 @@ Kevin Quevedo projects primarily as a CF with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |

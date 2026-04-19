@@ -2,12 +2,12 @@
 title: Paul Pogba
 category: players
 tags: [CM, Monaco, France, Engine-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Monaco. Archetype: Engine-Creator.
 person_id: 16175
-backlinks: [engine, monaco]
+backlinks: [engine, playmaker, monaco]
 ---
 
 # Paul Pogba
@@ -21,18 +21,27 @@ backlinks: [engine, monaco]
 | **Nation** | France |
 | **Age** | 33 |
 | **Archetype** | [[engine]] Engine-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Physically imposing midfielder who can still impose himself in matches with his athleticism and presence, capable of carrying the ball and operating as a number eight in a three-man midfield. At thirty-two, injuries have accumulated and his consistency is genuinely questionable; he's a squad player now, useful in certain situations but not a foundation stone. A shadow of his peak self.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `78`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Pace, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ Physically imposing midfielder who can still impose himself in matches with his 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,18 +107,18 @@ Physically imposing midfielder who can still impose himself in matches with his 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	France	CM	15 March 1993 (age 30)	2022	2026	England Manchester United	Free[20]	188	34
+France	CM	15 March 1993 (age 30)	2022	2026	England Manchester United	Free[20]	188	34
 
 CM	Inventive	Creator	Virtuoso	Juventus	FRA	A	85.5	Great personality despite tender age, technically and physically strong, good leadership qualities. Powerful, skilful, "and creative"" player who has ""an eye for goal and a penchant for the spectacular. Pogba was described by his former club Manchester United as a ""powerful", "and creative"" player who has ""an eye for goal and a penchant for the spectacular.""[4] In Italy"	Manuel Pellegrini asserted before Manchester City’s first Champions League meeting with Juventus this season that Paul Pogba still had a way to go before he could be considered the equal of Yaya Touré. The evidence on the pitch later suggested otherwise. Pogba dominated both encounters, alternating muscular interventions with eye-catching technique. Great responsibility was heaped on his shoulders after Andrea Pirlo and Arturo Vidal left Juventus this summer, but after a disappointing start he has risen to the task. Pogba can today be considered the best box-to-box midfielder on the planet. He is also the highest-ranked Serie A player on this list.	15/3/1993
 

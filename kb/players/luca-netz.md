@@ -2,12 +2,12 @@
 title: Luca Netz
 category: players
 tags: [WD, Nottingham Forest, Germany, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Nottingham Forest. Archetype: Cover.
 person_id: 14062
-backlinks: [cover, nottingham-forest]
+backlinks: [cover, corner-back, nottingham-forest]
 ---
 
 # Luca Netz
@@ -21,18 +21,27 @@ backlinks: [cover, nottingham-forest]
 | **Nation** | Germany |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 68 |
 | **Level** | 74 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back of genuine promise whose attacking contributions are more refined than his defensive duties, as evidenced by his progressive carries and ability to find the far-side winger in transition. He's still maturing defensively—positioning gaps and a tendency to be drawn too far forward occasionally expose him—but at 22, there's clear upward trajectory. He's a good young player who could become excellent if his concentration on the back foot improves.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `68`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `68`.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Balance, and Crossing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ A left-back of genuine promise whose attacking contributions are more refined th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,17 +108,16 @@ A left-back of genuine promise whose attacking contributions are more refined th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubHertha Berlin
 
@@ -122,6 +131,6 @@ In summer 2020 Netz left Berlin's under-19s to join their under-23 side in Germa
   
 **September 2022 update** A remarkable first season at Gladbach for the youngster, playing 24 Bundesliga matches at left-back and left-midfield. Now a member of the Germany Under-21 team as well, he said this of his current club at the start of the 2022-23 season: “Borussia is a special club with its fans and amazing traditions. Mönchengladbach as a city lives for football more than anything else, which, for me, is shown by the fact that I am focused on the club and the game rather than anything outside of football.”  
   
-**October 2023 update** Had to be patient as he was behind Ramy Bensebaini in the pecking order on the left-hand side in 2022-23 but things are looking up this season after the Algerian departed for Borussia Dort...
+**October 2023 update** Had to be patient as he was behind Ramy Bensebaini in the pecking order on the left-hand side in 2022-23 but things are looking up this season after the Algerian departed for Borussia Dortm...
 
 </details>

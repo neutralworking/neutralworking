@@ -2,12 +2,12 @@
 title: Emam Ashour
 category: players
 tags: [CM, Al Ahly, Egypt]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Al Ahly. Archetype: None.
+summary: CM at Al Ahly. Archetype: —.
 person_id: 28147
-backlinks: [al-ahly]
+backlinks: [playmaker, al-ahly]
 ---
 
 # Emam Ashour
@@ -20,19 +20,28 @@ backlinks: [al-ahly]
 | **Club** | Al Ahly |
 | **Nation** | Egypt |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 85 |
+| **Level** | — |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Emam Ashour projects primarily as a CM with a `None` lean. The strongest database support comes from Composure, Creativity, and Duels.
+Emam Ashour projects primarily as a CM with a `—` lean. The strongest database support comes from Composure, Creativity, and Duels.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `85`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `85`.
 - Most bankable strengths show up in Composure, Creativity, and Duels.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -61,13 +70,14 @@ Emam Ashour projects primarily as a CM with a `None` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.6m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Emam Ashour projects primarily as a CM with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

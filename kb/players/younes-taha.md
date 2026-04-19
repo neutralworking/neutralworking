@@ -2,12 +2,12 @@
 title: Younes Taha
 category: players
 tags: [AM, FC Groningen, Morocco, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at FC Groningen. Archetype: Sprinter-Dribbler.
 person_id: 18673
-backlinks: [sprinter, fc-groningen]
+backlinks: [sprinter, enganche, fc-groningen]
 ---
 
 # Younes Taha
@@ -21,18 +21,27 @@ backlinks: [sprinter, fc-groningen]
 | **Nation** | Morocco |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 As a Trequartista, Younes Taha excels at using his acceleration and balance to beat opponents in half-spaces, but his lack of discipline and guile can lead to careless mistakes. His strong technical ability and mental toughness make him a promising playmaker, but he needs to work on his tactical awareness to reach his full potential. A team that values progressive carries and inverted runs could benefit from his skills, but they must be willing to tolerate his occasional lapses in discipline.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `73`.
+- Best-fit role is [[enganche]] Enganche with model support score `73`.
 - Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ As a Trequartista, Younes Taha excels at using his acceleration and balance to b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ As a Trequartista, Younes Taha excels at using his acceleration and balance to b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Oliver Skipp
 category: players
 tags: [DM, Leicester City, England, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Leicester City. Archetype: Cover.
 person_id: 15896
-backlinks: [cover, leicester-city]
+backlinks: [cover, anchor, leicester-city]
 ---
 
 # Oliver Skipp
@@ -21,18 +21,27 @@ backlinks: [cover, leicester-city]
 | **Nation** | England |
 | **Age** | 25 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Defensive midfielder with exceptional positioning intelligence and a natural reading of the game that transcends his age; he breaks play effectively and his distribution is clean and progressive. He can occasionally be bypassed by opponents who isolate him physically, and his limited forward-driving ability means creative responsibility falls entirely elsewhere. At 25, he's an excellent functional midfielder but not a game-changer.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `74`.
+- Best-fit role is [[anchor]] Anchor with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Marking, First Touch, and Pass Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ Defensive midfielder with exceptional positioning intelligence and a natural rea
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 16.0m |
+| Ceiling | EUR 19.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,17 +110,16 @@ Defensive midfielder with exceptional positioning intelligence and a natural rea
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubTottenham Hotspur
 
@@ -128,6 +137,6 @@ Skipp played 18 games for Tottenham’s under-18s last season and he even got on
   
 **October 2021 update** Helped Norwich win promotion to the Premier League and was included in the 2021 PFA team of the year for the Championship. Back at Spurs, he has regularly been trusted with a starting place in midfield by Nuno Esperíto Santo so far this season.  
   
-**September 2022 update** Nuno Esperíto Santo counted on him in the early weeks of last season and so did Antonio Conte when he took over. However, a pelvic injury ruled him out from late January [to the annoyance of the Italian](https://www.theguardian.com/football/2022/mar/04/antonio-conte-calls-on-spurs-doctors-to-publicly-explain-oliver-skipp-injur...
+**September 2022 update** Nuno Esperíto Santo counted on him in the early weeks of last season and so did Antonio Conte when he took over. However, a pelvic injury ruled him out from late January [to the annoyance of the Italian](https://www.theguardian.com/football/2022/mar/04/antonio-conte-calls-on-spurs-doctors-to-publicly-explain-oliver-skipp-injury...
 
 </details>

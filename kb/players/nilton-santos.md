@@ -2,12 +2,12 @@
 title: Nílton Santos
 category: players
 tags: [WD, Brazil, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at None. Archetype: Dribbler-Sprinter.
+summary: WD at —. Archetype: Dribbler-Sprinter.
 person_id: 15750
-backlinks: [dribbler]
+backlinks: [dribbler, lateral]
 ---
 
 # Nílton Santos
@@ -17,22 +17,31 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
 | **Age** | 100 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[lateral]] Lateral |
+| **Role Score** | 92 |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WD		Playmaker			BRA	B	83.6
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Lateral` with model support score `92`.
+- Best-fit role is [[lateral]] Lateral with model support score `92`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WD` base.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -47,10 +56,11 @@ WD		Playmaker			BRA	B	83.6
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,8 +71,8 @@ WD		Playmaker			BRA	B	83.6
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -73,6 +83,6 @@ WD		Playmaker			BRA	B	83.6
 {}
 ---
 
-WD		Playmaker			BRA	B	83.6	
+WD		Playmaker			BRA	B	83.6
 
 </details>

@@ -2,12 +2,12 @@
 title: Hamari Traoré
 category: players
 tags: [WD, Paris FC, Mali, Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Paris FC. Archetype: Engine.
 person_id: 11624
-backlinks: [engine, paris-fc]
+backlinks: [engine, wing-back, paris-fc]
 ---
 
 # Hamari Traoré
@@ -21,18 +21,27 @@ backlinks: [engine, paris-fc]
 | **Nation** | Mali |
 | **Age** | 33 |
 | **Archetype** | [[engine]] Engine |
+| **Best Role** | [[wing-back]] Wing-back |
+| **Role Score** | 75 |
 | **Level** | 81 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Wing-back with athletic prowess and directness in transitions; effective in a specific system but limited technical versatility and inconsistent decision-making.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back` with model support score `75`.
+- Best-fit role is [[wing-back]] Wing-back with model support score `75`.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Stamina, Jumping, and Pace.
@@ -67,13 +76,14 @@ Wing-back with athletic prowess and directness in transitions; effective in a sp
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Wing-back with athletic prowess and directness in transitions; effective in a sp
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

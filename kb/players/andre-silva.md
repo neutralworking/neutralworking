@@ -2,12 +2,12 @@
 title: André Silva
 category: players
 tags: [CF, Elche, Portugal, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Elche. Archetype: Striker-Cover.
 person_id: 8434
-backlinks: [striker, elche]
+backlinks: [striker, seconda-punta, elche]
 ---
 
 # André Silva
@@ -21,18 +21,27 @@ backlinks: [striker, elche]
 | **Nation** | Portugal |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Portuguese number nine who operates as a bustling, physical presence in the box with decent link-up play and a willingness to work hard off the ball. He's shown some clinical finishing at Bundesliga level, but his movement is occasionally predictable and he struggles to operate effectively when service is sparse. Functional starter material for a mid-table La Liga club, but lacking the creativity or elite finishing to drive a title challenge.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `80`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Jumping, First Touch, and Heading.
@@ -67,13 +76,14 @@ Portuguese number nine who operates as a bustling, physical presence in the box 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Portuguese number nine who operates as a bustling, physical presence in the box 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

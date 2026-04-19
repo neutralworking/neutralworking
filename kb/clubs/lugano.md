@@ -1,18 +1,32 @@
 ---
 title: Lugano
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Lugano. 25 players in database.
+summary: Lugano. 26 players in database.
 ---
 
 # Lugano
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 25
+**League**: —  
+**Nation**: —  
+**Players in DB**: 26
+
+## Identity
+
+- Database coverage is deepest in CM (9), WM (6), and CD (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (6), Striker (4), and Powerhouse (3) across the current squad.
+- Average available overall grade sits at 59.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -21,6 +35,7 @@ summary: Lugano. 25 players in database.
 | [[a-grgic]] A. Grgić | AM | Passer-Powerhouse | 68.0 |
 | [[antonios-papadopoulos]] Antonios Papadopoulos | CD | Powerhouse | 71.0 |
 | [[hannes-delcroix]] Hannes Delcroix | CD | Cover | 74.0 |
+| [[georgios-koutsias]] Georgios Koutsias | CF | — | — |
 | [[kevin-behrens]] Kevin Behrens | CF | Striker | 58.0 |
 | [[a-el-wafi]] A. El Wafi | CM | Destroyer-Powerhouse | 30.0 |
 | [[d-kelvin]] D. Kelvin | CM | Cover-Striker | 60.0 |
@@ -40,6 +55,6 @@ summary: Lugano. 25 players in database.
 | [[h-mahou]] H. Mahou | WM | Creator-Sprinter | 68.0 |
 | [[m-bottani]] M. Bottani | WM | Creator-Sprinter | 38.0 |
 | [[y-cimignani]] Y. Cimignani | WM | Dribbler-Sprinter | 65.0 |
-| [[a-duville-parsemain]] A. Duville-Parsemain | None | Striker | None |
-| [[a-kendouci]] A. Kendouci | None | Destroyer | None |
-| [[c-cassano]] C. Cassano | None | Striker | None |
+| A. Duville-Parsemain | — | Striker | — |
+| A. Kendouci | — | Destroyer | — |
+| C. Cassano | — | Striker | — |

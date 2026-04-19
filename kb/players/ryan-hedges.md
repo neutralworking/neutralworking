@@ -2,12 +2,12 @@
 title: Ryan Hedges
 category: players
 tags: [CM, Blackburn Rovers, Wales, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Blackburn Rovers. Archetype: Sprinter-Dribbler.
 person_id: 16952
-backlinks: [sprinter, blackburn-rovers]
+backlinks: [sprinter, playmaker, blackburn-rovers]
 ---
 
 # Ryan Hedges
@@ -21,18 +21,27 @@ backlinks: [sprinter, blackburn-rovers]
 | **Nation** | Wales |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Welsh midfielder of notable experience with solid pressing discipline and the kind of work rate that keeps a shape intact; his passing range is reliable and he understands how to move for second balls. Athleticism is declining with age and he's not the type to drive things himself in transitions. Effective squad contributor for a mid-table side.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `78`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
@@ -63,13 +72,14 @@ Welsh midfielder of notable experience with solid pressing discipline and the ki
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Welsh midfielder of notable experience with solid pressing discipline and the ki
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

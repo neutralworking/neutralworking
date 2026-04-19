@@ -2,12 +2,12 @@
 title: Tomás Händel
 category: players
 tags: [CM, Vitória Guimarães, Portugal, Dribbler-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Vitória Guimarães. Archetype: Dribbler-Powerhouse.
 person_id: 18087
-backlinks: [dribbler, vitoria-guimaraes]
+backlinks: [dribbler, playmaker, vitoria-guimaraes]
 ---
 
 # Tomás Händel
@@ -21,18 +21,27 @@ backlinks: [dribbler, vitoria-guimaraes]
 | **Nation** | Portugal |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A composed, right-sided mezzala candidate whose first touch and acceleration provide reliable entry into half-space orchestration, despite limited tactical depth and a notable weakness in dueling situations. His extraverted structure and patient build-up mentality suit a team that values technical platform-building over pressing chaos, and his pass accuracy suggests reliable short-range circulation. The gap between strong technical pillar and weak tactical pillar indicates a player who executes instructions well but struggles with positional autonomy—ideal for disciplined Portuguese or Spanish systems where movement patterns are pre-defined rather than improvisational.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `75`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -63,13 +72,14 @@ A composed, right-sided mezzala candidate whose first touch and acceleration pro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A composed, right-sided mezzala candidate whose first touch and acceleration pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

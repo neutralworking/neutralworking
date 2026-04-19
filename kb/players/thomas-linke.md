@@ -2,10 +2,10 @@
 title: Thomas Linke
 category: players
 tags: [CD, Germany]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 17933
 ---
 
@@ -16,18 +16,25 @@ person_id: 17933
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 56 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 43 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Linke quickly became a left-sided man-marker when he played in the Bundesliga. Linke had a proficient technique, result of his training in East Germany, he was good at heading, closely marked his opponent and was useful in build up. Linke managed a respectable professional career which lasted almost 20 years, something few at the start of his career thought he would be capable of.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -44,10 +51,11 @@ CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Lin
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -58,8 +66,8 @@ CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Lin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -70,6 +78,6 @@ CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Lin
 {}
 ---
 
-CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Linke quickly became a left-sided man-marker when he played in the Bundesliga. Linke had a proficient technique, result of his training in East Germany, he was good at heading, closely marked his opponent and was useful in build up. Linke managed a respectable professional career which lasted almost 20 years, something few at the start of his career thought he would be capable of.		
+CD						B	0.0	Trained as a left back during his time in East Germany, Thomas Linke quickly became a left-sided man-marker when he played in the Bundesliga. Linke had a proficient technique, result of his training in East Germany, he was good at heading, closely marked his opponent and was useful in build up. Linke managed a respectable professional career which lasted almost 20 years, something few at the start of his career thought he would be capable of.
 
 </details>

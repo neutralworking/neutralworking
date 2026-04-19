@@ -2,12 +2,12 @@
 title: Mohamed Simakan
 category: players
 tags: [CD, Al-Nassr, France, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Al-Nassr. Archetype: Destroyer-Dribbler.
 person_id: 15301
-backlinks: [destroyer, al-nassr]
+backlinks: [destroyer, colossus, al-nassr]
 ---
 
 # Mohamed Simakan
@@ -21,28 +21,29 @@ backlinks: [destroyer, al-nassr]
 | **Nation** | France |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Robust, athletic, strong in the air and strong in tackles - the regular central defender secured the right flank in Leipzig's final sprint to the Champions League. Simakan impressed in the DFB-Pokal with one assist each in the round of 16, quarter-finals and semi-finals, but he was not used in the final.
 
-Mohamed Simakan is a 23-year-old versatile French defender who currently plays for RB Leipzig and the French national team. He is known for his strength, solid footwork, and good ball-handling ability [^1] [^2]. Real Madrid has reportedly shown interest in scouting Simakan [^3]. He has also attracted attention from Tottenham Hotspur [^4]. In the 2022-2023 UEFA Champions League season, Simakan has played 5 games, scored 1 goal, provided 2 assists, and won 2.8 tackles per game on average [^5].
+Mohamed Simakan is a 23-year-old versatile French defender who currently plays for RB Leipzig and the French national team. He is known for his strength, solid footwork, and good ball-handling ability  . Real Madrid has reportedly shown interest in scouting Simakan . He has also attracted attention from Tottenham Hotspur . In the 2022-2023 UEFA Champions League season, Simakan has played 5 games, scored 1 goal, provided 2 assists, and won 2.8 tackles per game on average .
 
-[^1]: https://breakingthelines.com/player-analysis/player-analysis-mohamed-simakan/
-[^2]: https://fbref.com/en/players/fcb27134/Mohamed-Simakan
-[^3]: https://thehardtackle.com/transfer-news/2023/12/20/real-madrid-set-to-run-rule-over-mohamed-simakan/
-[^4]: https://tottenhaminsight.com/reason-why-tottenham-spurs-interested-rb-leipzig-mohamed-simakan-scouting-report/
-[^5]: https://m.facebook.com/FootballTalentScout/posts/2726127440852033/
+## Canon Context
 
-
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `81`.
+- Best-fit role is [[colossus]] Colossus with model support score `81`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Heading, and Physical.
@@ -77,13 +78,14 @@ Mohamed Simakan is a 23-year-old versatile French defender who currently plays f
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -113,11 +115,11 @@ Mohamed Simakan is a 23-year-old versatile French defender who currently plays f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -126,14 +128,6 @@ Mohamed Simakan is a 23-year-old versatile French defender who currently plays f
 
 Robust, athletic, strong in the air and strong in tackles - the regular central defender secured the right flank in Leipzig's final sprint to the Champions League. Simakan impressed in the DFB-Pokal with one assist each in the round of 16, quarter-finals and semi-finals, but he was not used in the final.
 
-Mohamed Simakan is a 23-year-old versatile French defender who currently plays for RB Leipzig and the French national team. He is known for his strength, solid footwork, and good ball-handling ability [^1] [^2]. Real Madrid has reportedly shown interest in scouting Simakan [^3]. He has also attracted attention from Tottenham Hotspur [^4]. In the 2022-2023 UEFA Champions League season, Simakan has played 5 games, scored 1 goal, provided 2 assists, and won 2.8 tackles per game on average [^5].
-
-[^1]: https://breakingthelines.com/player-analysis/player-analysis-mohamed-simakan/
-[^2]: https://fbref.com/en/players/fcb27134/Mohamed-Simakan
-[^3]: https://thehardtackle.com/transfer-news/2023/12/20/real-madrid-set-to-run-rule-over-mohamed-simakan/
-[^4]: https://tottenhaminsight.com/reason-why-tottenham-spurs-interested-rb-leipzig-mohamed-simakan-scouting-report/
-[^5]: https://m.facebook.com/FootballTalentScout/posts/2726127440852033/
-
-
+Mohamed Simakan is a 23-year-old versatile French defender who currently plays for RB Leipzig and the French national team. He is known for his strength, solid footwork, and good ball-handling ability  . Real Madrid has reportedly shown interest in scouting Simakan . He has also attracted attention from Tottenham Hotspur . In the 2022-2023 UEFA Champions League season, Simakan has played 5 games, scored 1 goal, provided 2 assists, and won 2.8 tackles per game on average .
 
 </details>

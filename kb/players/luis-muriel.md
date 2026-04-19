@@ -2,12 +2,12 @@
 title: Luis Muriel
 category: players
 tags: [CF, Orlando City SC, Colombia, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Orlando City SC. Archetype: Creator.
 person_id: 14157
-backlinks: [creator, orlando-city-sc]
+backlinks: [creator, shadow-striker, orlando-city-sc]
 ---
 
 # Luis Muriel
@@ -21,18 +21,27 @@ backlinks: [creator, orlando-city-sc]
 | **Nation** | Colombia |
 | **Age** | 35 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A mercurial Colombian striker who still possesses that explosive first step and an eye for the half-space run, but is increasingly reliant on moments of individual brilliance rather than sustained pressing or positional discipline. His left foot retains genuine quality—he'll still pick out a cutback or find a pocket of space with a clever movement—but the legs have gone, and he's become something of a luxury player in a league that demands defensive contribution from forwards. At 34, he's a cup competition threat and a squad rotation piece for a mid-table MLS side, not a weekly starter in a competitive environment.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `78`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
@@ -67,13 +76,14 @@ A mercurial Colombian striker who still possesses that explosive first step and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A mercurial Colombian striker who still possesses that explosive first step and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

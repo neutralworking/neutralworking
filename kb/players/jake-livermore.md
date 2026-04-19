@@ -2,12 +2,12 @@
 title: Jake Livermore
 category: players
 tags: [DM, West Bromwich Albion, England, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at West Bromwich Albion. Archetype: Sprinter.
 person_id: 12240
-backlinks: [sprinter, west-bromwich-albion]
+backlinks: [sprinter, regista, west-bromwich-albion]
 ---
 
 # Jake Livermore
@@ -21,18 +21,26 @@ backlinks: [sprinter, west-bromwich-albion]
 | **Nation** | England |
 | **Age** | 36 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[regista]] Regista |
 | **Level** | 66 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Experienced deep midfielder with excellent leadership and physical presence, but at 36 his legs have noticeably slowed and he cannot cover ground like he once did; useful captain figure for a squad rebuild.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista`.
+- Best-fit role is [[regista]] Regista.
 - Primary archetype leans toward `Sprinter` behaviour from a `DM` base.
 - Most bankable strengths show up in Acceleration, Aerial Duels, and Heading.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ Experienced deep midfielder with excellent leadership and physical presence, but
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +108,7 @@ Experienced deep midfielder with excellent leadership and physical presence, but
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

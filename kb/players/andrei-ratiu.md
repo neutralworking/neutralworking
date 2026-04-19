@@ -2,12 +2,12 @@
 title: Andrei Rațiu
 category: players
 tags: [WD, Rayo Vallecano, Romania, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Rayo Vallecano. Archetype: Destroyer-Dribbler.
 person_id: 8476
-backlinks: [destroyer, rayo-vallecano]
+backlinks: [destroyer, corner-back, rayo-vallecano]
 ---
 
 # Andrei Rațiu
@@ -21,18 +21,27 @@ backlinks: [destroyer, rayo-vallecano]
 | **Nation** | Romania |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Decent right-back with acceptable athleticism and positioning for Spanish football. Solid defender but limited attacking output; serviceable squad player without standout technical or physical attributes.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Decent right-back with acceptable athleticism and positioning for Spanish footba
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Decent right-back with acceptable athleticism and positioning for Spanish footba
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

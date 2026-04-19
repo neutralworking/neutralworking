@@ -2,10 +2,10 @@
 title: Anis Hadj Moussa
 category: players
 tags: [WF, Feyenoord, Algeria]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at Feyenoord. Archetype: None.
+summary: WF at Feyenoord. Archetype: —.
 person_id: 8563
 backlinks: [feyenoord]
 ---
@@ -20,11 +20,22 @@ backlinks: [feyenoord]
 | **Club** | Feyenoord |
 | **Nation** | Algeria |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
+
+## Snapshot
+
+Anis Hadj Moussa is currently a roster-level WF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -34,13 +45,14 @@ backlinks: [feyenoord]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -61,4 +73,4 @@ backlinks: [feyenoord]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

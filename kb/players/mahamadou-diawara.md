@@ -2,12 +2,12 @@
 title: Mahamadou Diawara
 category: players
 tags: [CM, Royal Antwerp, France, Sprinter-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Royal Antwerp. Archetype: Sprinter-Passer.
 person_id: 14312
-backlinks: [sprinter, royal-antwerp]
+backlinks: [sprinter, playmaker, royal-antwerp]
 ---
 
 # Mahamadou Diawara
@@ -21,18 +21,26 @@ backlinks: [sprinter, royal-antwerp]
 | **Nation** | France |
 | **Age** | 21 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 67 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young ball-carrier with genuine press-resistance and the kind of physical profile that suggests a modern number six—strong in transitions, willing to make progressive carries forward rather than the sterile sideways pass. At 21 with limited senior football at this level, though, he's still learning positional responsibility and the timing of defensive actions; he can be loose in possession under pressure and occasionally overwilling to dribble when a simple pass suffices. The tools are there, but this remains a prospect at the threshold of senior consistency rather than a finished product.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, First Touch, and Jumping.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ A young ball-carrier with genuine press-resistance and the kind of physical prof
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +107,7 @@ A young ball-carrier with genuine press-resistance and the kind of physical prof
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

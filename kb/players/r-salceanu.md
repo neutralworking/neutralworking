@@ -2,12 +2,12 @@
 title: R. Sălceanu
 category: players
 tags: [CD, Petrolul Ploieşti, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Petrolul Ploieşti. Archetype: Destroyer.
 person_id: 25227
-backlinks: [destroyer, petrolul-ploiesti]
+backlinks: [destroyer, stopper, petrolul-ploiesti]
 ---
 
 # R. Sălceanu
@@ -18,21 +18,30 @@ backlinks: [destroyer, petrolul-ploiesti]
 |---|---|
 | **Position** | CD |
 | **Club** | Petrolul Ploieşti |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 R. Sălceanu projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Pressing, Tackling, and Technical.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `69`.
+- Best-fit role is [[stopper]] Stopper with model support score `69`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pressing, Tackling, and Technical.
@@ -62,13 +71,14 @@ R. Sălceanu projects primarily as a CD with a `Destroyer` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ R. Sălceanu projects primarily as a CD with a `Destroyer` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Ernest Poku
 category: players
 tags: [CF, Bayer Leverkusen, Netherlands, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Bayer Leverkusen. Archetype: Sprinter-Dribbler.
 person_id: 10778
-backlinks: [sprinter, bayer-leverkusen]
+backlinks: [sprinter, seconda-punta, bayer-leverkusen]
 ---
 
 # Ernest Poku
@@ -21,18 +21,27 @@ backlinks: [sprinter, bayer-leverkusen]
 | **Nation** | Netherlands |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-forward with decent hold-up play and some mobility in the channels; he's an athletic finisher capable of playing in a two or alongside a more creative partner. Lacks elite technical ability or instinctive movement that separates clinical strikers from squad alternatives.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `85`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `85`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Pace, Balance, and Shielding.
@@ -63,13 +72,14 @@ A centre-forward with decent hold-up play and some mobility in the channels; he'
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 63.0m |
+| Ceiling | EUR 75.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,17 +105,16 @@ A centre-forward with decent hold-up play and some mobility in the channels; he'
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubAZ Alkmaar
 
@@ -119,6 +128,5 @@ It is hard to believe that AZ picked up Poku from the amateur fourth division on
 **September 2022 update** Made the step up to AZ’s first team and even got some minutes in the Conference League. Signed a new contract until 2026 with the club having great belief in his potential.  
   
 **October 2023 update** There were no Eredivisie appearances in 2022-23 but he played a huge part in AZ winning the Uefa Youth League, including two goals in the final against Hajduk Split. "I don’t know if many people expected this [at the beginning of the tournament]," he told ghanasoccernet.com. "They called us underdogs. But we'll fight to the bitter end for each other, and this is the result. This evening, it felt like we had the wind at our backs. Everything worked out."
-
 
 </details>

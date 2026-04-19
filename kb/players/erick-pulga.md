@@ -2,12 +2,12 @@
 title: Erick Pulga
 category: players
 tags: [WM, Bahia, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Bahia. Archetype: Creator-Striker.
 person_id: 23103
-backlinks: [creator, bahia]
+backlinks: [creator, wide-playmaker, bahia]
 ---
 
 # Erick Pulga
@@ -18,21 +18,30 @@ backlinks: [creator, bahia]
 |---|---|
 | **Position** | WM |
 | **Club** | Bahia |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 81 |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 As an Outlet archetype, Pulga's technical and physical strengths make him a formidable opponent in one-on-one situations, with his guile and composure on the ball allowing him to dictate the tempo of the game, but his lack of discipline and tendency to neglect defensive responsibilities may prove problematic for a team requiring a more balanced approach, with a director of football needing to carefully consider how to harness his creative potential while minimizing his liabilities.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `81`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `81`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 - Most bankable strengths show up in Duels, Pass Accuracy, and Take Ons.
 
@@ -58,13 +67,14 @@ As an Outlet archetype, Pulga's technical and physical strengths make him a form
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 10.4m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,7 +98,7 @@ As an Outlet archetype, Pulga's technical and physical strengths make him a form
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

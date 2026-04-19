@@ -2,12 +2,12 @@
 title: S. Katompa Mvumpa
 category: players
 tags: [WF, Mainz 05, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Mainz 05. Archetype: Striker.
 person_id: 21436
-backlinks: [striker, mainz-05]
+backlinks: [striker, inverted-winger, mainz-05]
 ---
 
 # S. Katompa Mvumpa
@@ -18,21 +18,29 @@ backlinks: [striker, mainz-05]
 |---|---|
 | **Position** | WF |
 | **Club** | Mainz 05 |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
-| **Level** | None |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Level** | — |
 | **Overall** | 35.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 S. Katompa Mvumpa projects primarily as a WF with a `Striker` lean. The strongest database support comes from Skills, Drive, and Concentration.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Skills, Drive, and Concentration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -61,10 +69,11 @@ S. Katompa Mvumpa projects primarily as a WF with a `Striker` lean. The stronges
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +95,5 @@ S. Katompa Mvumpa projects primarily as a WF with a `Striker` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

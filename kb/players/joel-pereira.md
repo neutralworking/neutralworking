@@ -1,13 +1,13 @@
 ---
 title: Joel Pereira
 category: players
-tags: [WD, RKC Waalwijk, Portugal, Powerhouse-Passer]
-updated: 2026-04-17
+tags: [GK, Reading, Portugal, GK]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WD at RKC Waalwijk. Archetype: Powerhouse-Passer.
-person_id: 12763
-backlinks: [powerhouse, rkc-waalwijk]
+summary: GK at Reading. Archetype: GK.
+person_id: 12762
+backlinks: [gk, reading]
 ---
 
 # Joel Pereira
@@ -16,31 +16,37 @@ backlinks: [powerhouse, rkc-waalwijk]
 
 | Field | Value |
 |---|---|
-| **Position** | WD |
-| **Club** | RKC Waalwijk |
+| **Position** | GK |
+| **Club** | Reading |
 | **Nation** | Portugal |
 | **Age** | 29 |
-| **Archetype** | [[powerhouse]] Powerhouse-Passer |
-| **Level** | 79 |
-| **Overall** | 68.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Archetype** | [[gk]] GK |
+| **Level** | 76 |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Joel Pereira projects primarily as a WD with a `Powerhouse-Passer` lean. The strongest database support comes from Stamina, Acceleration, and Crossing.
+Experienced Portuguese goalkeeper with solid fundamentals and distribution; competent deputy-level keeper but lacks the presence or reflexes of a top-flight first-choice, better suited to Championship.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Fullback` with model support score `73`.
-- Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
-- Most bankable strengths show up in Stamina, Acceleration, and Crossing.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Physical.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
 
 ## In Possession
 
-- Ball-value indicators lean on Stamina, Acceleration, and Crossing.
-- Style traits point toward Long Range Passing and Tackling Ability in possession.
+- Ball-value indicators lean on Reactions, Jumping, and Physical.
+- Style traits point toward Far Throw in possession.
 
 ## Out of Possession
 
@@ -50,50 +56,51 @@ Joel Pereira projects primarily as a WD with a `Powerhouse-Passer` lean. The str
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
 | Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Physical | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Acceleration | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Stamina | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 4.2m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
+- Competitiveness score is soft for a high-pressure projection.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 42
-- **Social (TF)**: 43
-- **Pressure (JP)**: 43
-- **Competitiveness**: 7/10
-- **Coachability**: 4/10
+- **Game Reading (EI)**: 75
+- **Motivation (SN)**: 16
+- **Social (TF)**: 34
+- **Pressure (JP)**: 25
+- **Competitiveness**: 3/10
+- **Coachability**: 7/10
 
 ## Trait Ledger
 
-- **Long Range Passing** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+- **Far Throw** (style) — severity 5/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

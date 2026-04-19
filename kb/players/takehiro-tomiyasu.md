@@ -2,12 +2,12 @@
 title: Takehiro Tomiyasu
 category: players
 tags: [WD, Ajax, Japan, Cover-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Ajax. Archetype: Cover-Dribbler.
 person_id: 17759
-backlinks: [cover, ajax]
+backlinks: [cover, wing-back, ajax]
 ---
 
 # Takehiro Tomiyasu
@@ -21,9 +21,10 @@ backlinks: [cover, ajax]
 | **Nation** | Japan |
 | **Age** | 27 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[wing-back]] Wing-back |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -32,9 +33,16 @@ JPN	RB / LB / CB (R)	5 November 1998 (age 24)	1.87 m[169]
 (6 ft 2 in)	2021	Italy Bologna	£16.0m[170]	[171]
 [172]
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back`.
+- Best-fit role is [[wing-back]] Wing-back.
 - Primary archetype leans toward `Cover` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Aggression, and Marking.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -69,13 +77,14 @@ JPN	RB / LB / CB (R)	5 November 1998 (age 24)	1.87 m[169]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +110,11 @@ JPN	RB / LB / CB (R)	5 November 1998 (age 24)	1.87 m[169]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

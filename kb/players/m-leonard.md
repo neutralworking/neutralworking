@@ -2,12 +2,12 @@
 title: M. Leonard
 category: players
 tags: [DM, Hearts, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Hearts. Archetype: Powerhouse-Destroyer.
 person_id: 21078
-backlinks: [powerhouse, hearts]
+backlinks: [powerhouse, anchor, hearts]
 ---
 
 # M. Leonard
@@ -18,21 +18,30 @@ backlinks: [powerhouse, hearts]
 |---|---|
 | **Position** | DM |
 | **Club** | Hearts |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Leonard is a sturdy holding midfielder who excels at shielding the ball and using his acceleration to win back possession, but his limited mental attributes and lack of creativity make him a one-dimensional player. Tactically, he fits into a traditional 4-4-2 or 4-2-3-1 system as an anchor, providing defensive cover and allowing more creative players to flourish. A team seeking a no-frills, high-energy midfielder to break up opposition attacks would benefit from Leonard's services, but his limitations mean he may not be the best fit for a side that dominates possession.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `73`.
+- Best-fit role is [[anchor]] Anchor with model support score `73`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Stamina, Shielding, and Acceleration.
@@ -63,13 +72,14 @@ Leonard is a sturdy holding midfielder who excels at shielding the ball and usin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Leonard is a sturdy holding midfielder who excels at shielding the ball and usin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

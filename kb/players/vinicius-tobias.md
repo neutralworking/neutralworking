@@ -2,7 +2,7 @@
 title: Vinicius Tobias
 category: players
 tags: [WD, Shakhtar Donetsk, Brazil, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Shakhtar Donetsk. Archetype: Powerhouse.
@@ -23,11 +23,10 @@ backlinks: [powerhouse, shakhtar-donetsk]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 83 |
 | **Overall** | 81.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
-
 
 ClubInternacional (on loan from Shakhtar)
 
@@ -41,6 +40,12 @@ Vinicius Tobias has a typical background of a Brazilian footballer from a poor b
   
 **October 2023 update** The loan contract with Real Madrid was renewed for one more season, but he is still waiting for a chance with the first team. There is hope though as he was included in the squad for the recent Champions League game against Hertha Berlin and sat on the bench, but did not come on.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,13 +79,14 @@ Vinicius Tobias has a typical background of a Brazilian footballer from a poor b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 34.0m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,17 +109,16 @@ Vinicius Tobias has a typical background of a Brazilian footballer from a poor b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubInternacional (on loan from Shakhtar)
 
@@ -126,6 +131,5 @@ Vinicius Tobias has a typical background of a Brazilian footballer from a poor b
 **September 2022 update** The war in Ukraine stopped Vinicius Tobias’ progress and after a period of not playing he was loaned to Real Madrid Castilla. His first few months in Spain were impressive and Carlo Ancelloti, said that Vinicius may well be the future at Real Madrid. His deal expires next summer, when Real have to decide whether to sign him permanently.  
   
 **October 2023 update** The loan contract with Real Madrid was renewed for one more season, but he is still waiting for a chance with the first team. There is hope though as he was included in the squad for the recent Champions League game against Hertha Berlin and sat on the bench, but did not come on.
-
 
 </details>

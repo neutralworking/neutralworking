@@ -2,12 +2,12 @@
 title: Zvonimir Boban
 category: players
 tags: [WM, Croatia, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WM at None. Archetype: Creator-Engine.
+summary: WM at —. Archetype: Creator-Engine.
 person_id: 18805
-backlinks: [creator]
+backlinks: [creator, mezzala]
 ---
 
 # Zvonimir Boban
@@ -17,25 +17,33 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Croatia |
 | **Age** | 57 |
 | **Archetype** | [[creator]] Creator-Engine |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 90 |
 | **Level** | 45 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
- - 86: Creative and technically gifted playmaker.
-
+- 86: Creative and technically gifted playmaker.
 
 CM		Creator			CRO	B	0.0	Zvonimir Boban was regarded as the greatest central midfielder in history of the Yugoslavian football group		An all-round deep-lying playmaker well known for his passing range and vision, strong and excellent in teamwork.  Croatia never lost a match when he scored. He rarely went forward to attack but always based on central midfield line.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `90`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `90`.
 - Primary archetype leans toward `Creator` behaviour from a `WM` base.
 
 ## Valuation Range
@@ -45,10 +53,11 @@ CM		Creator			CRO	B	0.0	Zvonimir Boban was regarded as the greatest central midf
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -59,16 +68,15 @@ CM		Creator			CRO	B	0.0	Zvonimir Boban was regarded as the greatest central midf
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
- - 86: Creative and technically gifted playmaker.
-
+- 86: Creative and technically gifted playmaker.
 
 CM		Creator			CRO	B	0.0	Zvonimir Boban was regarded as the greatest central midfielder in history of the Yugoslavian football group		An all-round deep-lying playmaker well known for his passing range and vision, strong and excellent in teamwork.  Croatia never lost a match when he scored. He rarely went forward to attack but always based on central midfield line.
 

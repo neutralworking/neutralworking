@@ -2,12 +2,12 @@
 title: A. Čermák
 category: players
 tags: [AM, Bohemians 1905, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Bohemians 1905. Archetype: Creator.
 person_id: 23128
-backlinks: [creator, bohemians-1905]
+backlinks: [creator, incursore, bohemians-1905]
 ---
 
 # A. Čermák
@@ -18,21 +18,30 @@ backlinks: [creator, bohemians-1905]
 |---|---|
 | **Position** | AM |
 | **Club** | Bohemians 1905 |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[incursore]] Incursore |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A. Čermák is a creative, attack-minded midfielder who fits the Enganche role, leveraging his exceptional dueling ability, discipline, and tactical awareness to create scoring opportunities and control the tempo of the game. While he struggles with close-range finishing, guile, and long-range passing, his flamboyant trait makes him a dynamic, unpredictable presence on the pitch. A club seeking a skilled, creative midfielder who can provide a spark in the final third and is willing to work around his limitations could find him to be a valuable asset in their squad.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Incursore` with model support score `74`.
+- Best-fit role is [[incursore]] Incursore with model support score `74`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Pressing, Discipline, and Composure.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ A. Čermák is a creative, attack-minded midfielder who fits the Enganche role, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +99,7 @@ A. Čermák is a creative, attack-minded midfielder who fits the Enganche role, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

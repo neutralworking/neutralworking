@@ -2,10 +2,10 @@
 title: Jonathan Silva
 category: players
 tags: [CM, Torino, Brazil]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Torino. Archetype: None.
+summary: CM at Torino. Archetype: —.
 person_id: 12877
 backlinks: [torino]
 ---
@@ -19,16 +19,23 @@ backlinks: [torino]
 | **Position** | CM |
 | **Club** | Torino |
 | **Nation** | Brazil |
-| **Age** | None |
-| **Archetype** | [[—]] None |
+| **Age** | — |
+| **Archetype** | — |
 | **Level** | 77 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Press-resistant midfielder comfortable on the ball with decent passing range, but lacks defensive bite and positional discipline. Works better in possession-dominant teams than in Torino's transitional setup.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -43,12 +50,13 @@ Press-resistant midfielder comfortable on the ball with decent passing range, bu
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Press-resistant midfielder comfortable on the ball with decent passing range, bu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

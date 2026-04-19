@@ -2,12 +2,12 @@
 title: Joachim Andersen
 category: players
 tags: [CD, Fulham, Denmark, Target-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Fulham. Archetype: Target-Passer.
 person_id: 12651
-backlinks: [target, fulham]
+backlinks: [target, distributor, fulham]
 ---
 
 # Joachim Andersen
@@ -21,18 +21,27 @@ backlinks: [target, fulham]
 | **Nation** | Denmark |
 | **Age** | 29 |
 | **Archetype** | [[target]] Target-Passer |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 67 |
 | **Level** | 87 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A cultured center-back whose positional intelligence and reading of the game elevates Fulham's defensive architecture; he's comfortable in a back four or three, capable of playing out from pressure with genuine technical assurance, and remarkably aware of when to step and when to hold. His aerial dominance isn't guaranteed against elite target men, and his occasional lapses in concentration suggest he's a player who requires structure around him. At his best, he's a genuinely excellent modern defender.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `67`.
+- Best-fit role is [[distributor]] Distributor with model support score `67`.
 - Primary archetype leans toward `Target` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Physical, Jumping, and Reactions.
@@ -67,13 +76,14 @@ A cultured center-back whose positional intelligence and reading of the game ele
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A cultured center-back whose positional intelligence and reading of the game ele
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

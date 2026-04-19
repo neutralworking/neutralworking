@@ -2,12 +2,12 @@
 title: Diadie Samassékou
 category: players
 tags: [CM, Houston Dynamo FC, Mali, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Houston Dynamo FC. Archetype: Cover-Passer.
 person_id: 10266
-backlinks: [cover, houston-dynamo-fc]
+backlinks: [cover, tuttocampista, houston-dynamo-fc]
 ---
 
 # Diadie Samassékou
@@ -21,18 +21,26 @@ backlinks: [cover, houston-dynamo-fc]
 | **Nation** | Mali |
 | **Age** | 30 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A ball-progressing midfielder who thrives in transition and loves a direct, vertical pass into the half-space — the kind of player who makes you think he's better than he actually is because he picks out a killer through-ball every forty minutes. His engine is real, the work rate never wavers, and he can carry the ball forward with reasonable intent, but he's not a playmaker in the true sense and positionally he can be sloppy, especially in deeper leagues where teams will punish loose cover. At 30 and in MLS, he's a functional starter who'll give you grit and progressive moments, but not the tactical intelligence or consistency you'd want from a cornerstone midfielder at a serious club.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Interceptions, Aggression, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ A ball-progressing midfielder who thrives in transition and loves a direct, vert
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 20.0m |
+| Ceiling | EUR 24.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +107,7 @@ A ball-progressing midfielder who thrives in transition and loves a direct, vert
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Róbert Boženík
 category: players
 tags: [CF, Stoke City, Slovakia, Sprinter-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Stoke City. Archetype: Sprinter-Passer.
 person_id: 16701
-backlinks: [sprinter, stoke-city]
+backlinks: [sprinter, target-forward, stoke-city]
 ---
 
 # Róbert Boženík
@@ -21,18 +21,27 @@ backlinks: [sprinter, stoke-city]
 | **Nation** | Slovakia |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 The 24-year-old Slovakia striker has provided much of the fuel for Boavista’s surprise encampment in the upper reaches of the Portuguese top flight. Previously with Dutch side Feyenoord, German outfit Fortuna Dusseldorf (loan) and hometown club Zilina, he made the perfect start to the 2023-24 campaign by scoring twice in a shock 3-2 win over champions Benfica on the opening day. ExcelsiorAfter an unhappy time in Rotterdamlast season – out fora couple of months with a knee injury, then mainly used asa sub – the tall striker is now in an altogether different place, an automatic selection at the point of attack and scoring week in, week out. Dutch-born toa Greek father and Serbian mother with U16 caps for the latter, his international future could be up for grabs.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `81`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `81`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Jumping, Acceleration, and Movement.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ The 24-year-old Slovakia striker has provided much of the fuel for Boavista’s 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ The 24-year-old Slovakia striker has provided much of the fuel for Boavista’s 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Valentino Mazzola
 category: players
 tags: [WF, Italy, Commander-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at None. Archetype: Commander-Engine.
+summary: WF at —. Archetype: Commander-Engine.
 person_id: 18294
-backlinks: [commander]
+backlinks: [commander, fantasista]
 ---
 
 # Valentino Mazzola
@@ -17,22 +17,31 @@ backlinks: [commander]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Italy |
 | **Age** | 107 |
 | **Archetype** | [[commander]] Commander-Engine |
+| **Best Role** | [[fantasista]] Fantasista |
+| **Role Score** | 93 |
 | **Level** | 46 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 The heart and soul of Il Grande Torino — boundless energy with commanding leadership. Dominated matches from the left wing with pace, power, and inspirational performances.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Fantasista` with model support score `93`.
+- Best-fit role is [[fantasista]] Fantasista with model support score `93`.
 - Primary archetype leans toward `Commander` behaviour from a `WF` base.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -43,10 +52,11 @@ The heart and soul of Il Grande Torino — boundless energy with commanding lead
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -57,8 +67,8 @@ The heart and soul of Il Grande Torino — boundless energy with commanding lead
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

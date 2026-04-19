@@ -2,12 +2,12 @@
 title: Mthetheleli Mthiyane
 category: players
 tags: [CM, Stellenbosch FC, South Africa]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Stellenbosch FC. Archetype: None.
+summary: CM at Stellenbosch FC. Archetype: —.
 person_id: 28587
-backlinks: [stellenbosch-fc]
+backlinks: [mezzala, stellenbosch-fc]
 ---
 
 # Mthetheleli Mthiyane
@@ -20,19 +20,28 @@ backlinks: [stellenbosch-fc]
 | **Club** | Stellenbosch FC |
 | **Nation** | South Africa |
 | **Age** | 25 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 22 |
+| **Level** | — |
 | **Overall** | 22.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Mthetheleli Mthiyane projects primarily as a CM with a `None` lean. The strongest database support comes from Flair, Take Ons, and Blocking.
+Mthetheleli Mthiyane projects primarily as a CM with a `—` lean. The strongest database support comes from Flair, Take Ons, and Blocking.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `22`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `22`.
 - Most bankable strengths show up in Flair, Take Ons, and Blocking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +75,9 @@ Mthetheleli Mthiyane projects primarily as a CM with a `None` lean. The stronges
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Mthetheleli Mthiyane projects primarily as a CM with a `None` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

@@ -2,12 +2,12 @@
 title: Edoardo Goldaniga
 category: players
 tags: [CD, Como, Italy, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Como. Archetype: Destroyer-Passer.
 person_id: 10489
-backlinks: [destroyer, como]
+backlinks: [destroyer, distributor, como]
 ---
 
 # Edoardo Goldaniga
@@ -21,18 +21,26 @@ backlinks: [destroyer, como]
 | **Nation** | Italy |
 | **Age** | 32 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Italian journeyman centre-back who understands defensive positioning and rarely gets exposed to genuinely poor decisions. He's steady, unglamorous, and exactly what you need in a second-division title race—a player who won't cost you matches through individual error. He has no pace, though, so he's vulnerable to pace-in-behind tactics and high-press sequences where he has to move forward.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Aggression, Jumping, and Tackling.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -68,12 +76,13 @@ An Italian journeyman centre-back who understands defensive positioning and rare
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +107,7 @@ An Italian journeyman centre-back who understands defensive positioning and rare
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

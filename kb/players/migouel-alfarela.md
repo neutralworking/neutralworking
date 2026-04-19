@@ -2,12 +2,12 @@
 title: Migouel Alfarela
 category: players
 tags: [CF, Aris Thessaloniki FC, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Aris Thessaloniki FC. Archetype: Sprinter-Dribbler.
 person_id: 15138
-backlinks: [sprinter, aris-thessaloniki-fc]
+backlinks: [sprinter, seconda-punta, aris-thessaloniki-fc]
 ---
 
 # Migouel Alfarela
@@ -18,21 +18,29 @@ backlinks: [sprinter, aris-thessaloniki-fc]
 |---|---|
 | **Position** | CF |
 | **Club** | Aris Thessaloniki FC |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
 | **Level** | 76 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Migouel Alfarela is a mobile striker with a penchant for making inverted runs and using his shielding ability to hold up the ball, but his poor interceptions and marking abilities make him a liability in terms of defensive contribution. His pace and balance allow him to make dangerous runs, but his overall awareness and decision-making are suspect. As a poacher, he can be effective, but his limitations are clear.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta`.
+- Best-fit role is [[seconda-punta]] Seconda Punta.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Migouel Alfarela is a mobile striker with a penchant for making inverted runs an
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,7 +98,7 @@ Migouel Alfarela is a mobile striker with a penchant for making inverted runs an
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

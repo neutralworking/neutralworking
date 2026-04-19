@@ -2,12 +2,12 @@
 title: Carlos Baleba
 category: players
 tags: [DM, Brighton, Cameroon, Engine-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Brighton. Archetype: Engine-Destroyer.
 person_id: 9384
-backlinks: [engine, brighton]
+backlinks: [engine, ball-winner, brighton]
 ---
 
 # Carlos Baleba
@@ -21,6 +21,8 @@ backlinks: [engine, brighton]
 | **Nation** | Cameroon |
 | **Age** | 22 |
 | **Archetype** | [[engine]] Engine-Destroyer |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
 | **Pursuit** | Interested |
@@ -30,9 +32,16 @@ backlinks: [engine, brighton]
 
 Dynamic ball-winning midfielder. Exceptional intensity and work rate — presses relentlessly and wins the ball back in dangerous areas. Brighton development pathway proven (Caicedo, Bissouma). Technical quality on the ball is developing — not yet a Controller. At 21, upside is significant. Price point accessible. Verdict: Scout Further → Sign — fits Engine-Destroyer need.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `72`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `72`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in Physical, Intensity, and Pressing.
@@ -67,13 +76,14 @@ Dynamic ball-winning midfielder. Exceptional intensity and work rate — presses
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 52.2m |
+| Mid | EUR 67.0m |
+| Ceiling | EUR 80.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Dynamic ball-winning midfielder. Exceptional intensity and work rate — presses
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: O. Lavale
 category: players
 tags: [CF, Central Coast Mariners FC, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Central Coast Mariners FC. Archetype: Striker-Creator.
 person_id: 26667
-backlinks: [striker, central-coast-mariners-fc]
+backlinks: [striker, falso-nove, central-coast-mariners-fc]
 ---
 
 # O. Lavale
@@ -18,21 +18,30 @@ backlinks: [striker, central-coast-mariners-fc]
 |---|---|
 | **Position** | CF |
 | **Club** | Central Coast Mariners FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 O. Lavale projects primarily as a CF with a `Striker-Creator` lean. The strongest database support comes from Discipline, Tactical, and Communication.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove` with model support score `69`.
+- Best-fit role is [[falso-nove]] Falso Nove with model support score `69`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Discipline, Tactical, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ O. Lavale projects primarily as a CF with a `Striker-Creator` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +96,5 @@ O. Lavale projects primarily as a CF with a `Striker-Creator` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

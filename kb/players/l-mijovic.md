@@ -2,12 +2,12 @@
 title: L. Mijović
 category: players
 tags: [CF, Čukarički, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Čukarički. Archetype: Striker.
 person_id: 27435
-backlinks: [striker, cukaricki]
+backlinks: [striker, spearhead, cukaricki]
 ---
 
 # L. Mijović
@@ -18,21 +18,29 @@ backlinks: [striker, cukaricki]
 |---|---|
 | **Position** | CF |
 | **Club** | Čukarički |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
-| **Level** | None |
+| **Best Role** | [[spearhead]] Spearhead |
+| **Level** | — |
 | **Overall** | 32.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 L. Mijović is a Striker archetype, naturally fitting the Poacher role, with moderate technical skills, but limited tactical and mental abilities, and physicality. His strengths in take-ons, close-range finishing, and long-range shooting make him a threat in the box, but his lack of discipline, tactical awareness, and creativity may limit his overall impact. A team that values direct, counter-attacking football could benefit from his skills, but may need to provide him with more creative, attacking-minded players to unlock his full potential.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Skills, Drive, and Aggression.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ L. Mijović is a Striker archetype, naturally fitting the Poacher role, with mod
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +94,6 @@ L. Mijović is a Striker archetype, naturally fitting the Poacher role, with mod
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

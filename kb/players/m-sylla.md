@@ -2,12 +2,12 @@
 title: M. Sylla
 category: players
 tags: [CD, Livingston FC, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Livingston FC. Archetype: Destroyer.
 person_id: 22626
-backlinks: [destroyer, livingston-fc]
+backlinks: [destroyer, centrale, livingston-fc]
 ---
 
 # M. Sylla
@@ -18,21 +18,30 @@ backlinks: [destroyer, livingston-fc]
 |---|---|
 | **Position** | CD |
 | **Club** | Livingston FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[centrale]] Centrale |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 M. Sylla projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Carries, Skills, and Technical.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+
 ## Role Fit
 
-- Best-fit role is `Centrale` with model support score `72`.
+- Best-fit role is [[centrale]] Centrale with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Carries, Skills, and Technical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ M. Sylla projects primarily as a CD with a `Destroyer` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +104,6 @@ M. Sylla projects primarily as a CD with a `Destroyer` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 24 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,10 +2,10 @@
 title: Pat Jennings
 category: players
 tags: [GK, Northern Ireland, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: GK at None. Archetype: GK.
+summary: GK at —. Archetype: GK.
 person_id: 16106
 backlinks: [gk]
 ---
@@ -17,18 +17,25 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Northern Ireland |
 | **Age** | 80 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in the first half 1970s. He is one of the most consistent and longevity keeper of all-time with around 1,030 career top level games played across 2 decades in both club and national level, particularly holds the world record all-time most consecutive years of international caps. Jennings had amazing handling ability and his high jumping helping him to reach saving high-corner ball. He is rated as the greatest Goalkeeper in history of both Arsenal and Tottenham Hot Spurs club. However, his career met the fallen time when Tottenham relegated to second division as the worst place, conceding 72 goals in 1977 and decide to move for Arsenal. He also reached the 1974 UEFA Cup Finalist and 1980 Cup Winners Cup finalist. He holds the record most participation in qualification round of major international tournaments with incredible 11 times. Jennings was voted 13th World’s best goalkeeper of the century by IFFHS’s poll.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -46,10 +53,11 @@ GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in t
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -60,8 +68,8 @@ GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -72,6 +80,6 @@ GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in t
 {}
 ---
 
-GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in the first half 1970s. He is one of the most consistent and longevity keeper of all-time with around 1,030 career top level games played across 2 decades in both club and national level, particularly holds the world record all-time most consecutive years of international caps. Jennings had amazing handling ability and his high jumping helping him to reach saving high-corner ball. He is rated as the greatest Goalkeeper in history of both Arsenal and Tottenham Hot Spurs club. However, his career met the fallen time when Tottenham relegated to second division as the worst place, conceding 72 goals in 1977 and decide to move for Arsenal. He also reached the 1974 UEFA Cup Finalist and 1980 Cup Winners Cup finalist. He holds the record most participation in qualification round of major international tournaments with incredible 11 times. Jennings was voted 13th World’s best goalkeeper of the century by IFFHS’s poll.	
+GK					NIR	B	0.0		Pat Jennings was one of the best goalkeepers in the World in the first half 1970s. He is one of the most consistent and longevity keeper of all-time with around 1,030 career top level games played across 2 decades in both club and national level, particularly holds the world record all-time most consecutive years of international caps. Jennings had amazing handling ability and his high jumping helping him to reach saving high-corner ball. He is rated as the greatest Goalkeeper in history of both Arsenal and Tottenham Hot Spurs club. However, his career met the fallen time when Tottenham relegated to second division as the worst place, conceding 72 goals in 1977 and decide to move for Arsenal. He also reached the 1974 UEFA Cup Finalist and 1980 Cup Winners Cup finalist. He holds the record most participation in qualification round of major international tournaments with incredible 11 times. Jennings was voted 13th World’s best goalkeeper of the century by IFFHS’s poll.
 
 </details>

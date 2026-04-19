@@ -2,10 +2,10 @@
 title: Lily Yohannes
 category: players
 tags: [WF, Ajax]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at Ajax. Archetype: None.
+summary: WF at Ajax. Archetype: —.
 person_id: 13966
 backlinks: [ajax]
 ---
@@ -18,17 +18,24 @@ backlinks: [ajax]
 |---|---|
 | **Position** | WF |
 | **Club** | Ajax |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 18 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 59 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Young winger getting lower-league exposure with reasonable athleticism and directness in transition. Still very much learning the game's spacing and decision-making; her final product is unreliable and she can be dispossessed too easily by pressing. Potential there but nowhere near senior football at a higher level yet.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -41,10 +48,11 @@ Young winger getting lower-league exposure with reasonable athleticism and direc
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ Young winger getting lower-league exposure with reasonable athleticism and direc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

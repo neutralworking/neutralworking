@@ -2,12 +2,12 @@
 title: Richmond Boakye
 category: players
 tags: [CF, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Sprinter.
+summary: CF at —. Archetype: Sprinter.
 person_id: 6142
-backlinks: [sprinter]
+backlinks: [sprinter, spearhead]
 ---
 
 # Richmond Boakye
@@ -17,22 +17,30 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 33 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[spearhead]] Spearhead |
 | **Level** | 78 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Richmond Boakye projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Acceleration, Balance, and Jumping.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Richmond Boakye projects primarily as a CF with a `Sprinter` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 0.4m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +102,6 @@ Richmond Boakye projects primarily as a CF with a `Sprinter` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

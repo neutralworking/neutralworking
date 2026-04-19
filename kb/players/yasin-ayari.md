@@ -2,12 +2,12 @@
 title: Yasin Ayari
 category: players
 tags: [CM, Brighton, Sweden, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Brighton. Archetype: Creator-Passer.
 person_id: 18621
-backlinks: [creator, brighton]
+backlinks: [creator, tuttocampista, brighton]
 ---
 
 # Yasin Ayari
@@ -21,18 +21,27 @@ backlinks: [creator, brighton]
 | **Nation** | Sweden |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 78 |
 | **Level** | 86 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A Swedish central midfielder with legitimate technical security and the ability to carry the ball through midfield with purpose, operating with press resistance and showing genuine composure under suffocation. He's tidy in transition and understands spatial positioning well, though he lacks the dynamism or aggressive pressing to truly dominate lighter opponents and his range of passing can be conservative. A reliable, intelligent midfielder who'll hold his own in a well-structured system without ever demanding the ball in the biggest moments.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `78`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
@@ -67,13 +76,14 @@ A Swedish central midfielder with legitimate technical security and the ability 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 28.5m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ A Swedish central midfielder with legitimate technical security and the ability 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

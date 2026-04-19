@@ -1,13 +1,13 @@
 ---
 title: Rúben Vinagre
 category: players
-tags: [WM, Legia Warszawa, Sprinter-Dribbler]
-updated: 2026-04-17
+tags: [WD, Verona, Portugal]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WM at Legia Warszawa. Archetype: Sprinter-Dribbler.
-person_id: 16897
-backlinks: [sprinter, legia-warszawa]
+summary: WD at Verona. Archetype: —.
+person_id: 16896
+backlinks: [fullback, verona]
 ---
 
 # Rúben Vinagre
@@ -16,55 +16,67 @@ backlinks: [sprinter, legia-warszawa]
 
 | Field | Value |
 |---|---|
-| **Position** | WM |
-| **Club** | Legia Warszawa |
-| **Nation** | None |
+| **Position** | WD |
+| **Club** | Verona |
+| **Nation** | Portugal |
 | **Age** | 27 |
-| **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Level** | 80 |
-| **Overall** | 67.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Archetype** | — |
+| **Best Role** | [[fullback]] Fullback |
+| **Level** | 85 |
+| **Overall** | 79.0 |
+| **Pursuit** | — |
+| **Market Value Tier** | 3 |
 
 ## Snapshot
 
-A sprinter-dribbler winger whose balance, acceleration, pace, and first-touch shielding mark him as a direct carrier comfortable in wide transitions, though technical and tactical limitations confine him to straightforward attacking roles avoiding creative complexity. His flamboyance and strong mental makeup enable press-resistance, yet blocking and tactical awareness gaps expose him defensively in compact systems. Squad value highest in counter-dominant setups prioritizing direct running and defensive simplicity; poor fit for intricate positional pressing or possession-constructive environments.
+Portuguese left-back with legitimate attacking ambition and pace; decent first step makes him a threat going forward, though defensive positioning can be loose. Verona's primary attacking fullback.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `75`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
-- Most bankable strengths show up in Balance, Acceleration, and Shielding.
+- Best-fit role is [[fullback]] Fullback.
+- Most bankable strengths show up in Tactical, Technical, and Mental.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## In Possession
 
-- Ball-value indicators lean on Balance, Acceleration, and Shielding.
-- Style traits point toward Skill Moves, Flamboyant, and Pace in possession.
+- Ball-value indicators lean on Tactical, Technical, and Mental.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Scouting Indicators
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Jumping | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Tactical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Technical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Mental | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Awareness | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Creativity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Intensity | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Through Balls | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Vision | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -72,26 +84,17 @@ A sprinter-dribbler winger whose balance, acceleration, pace, and first-touch sh
 
 ## Personality
 
-- **Game Reading (EI)**: 45
-- **Motivation (SN)**: 47
-- **Social (TF)**: 60
-- **Pressure (JP)**: 44
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 56
+- **Social (TF)**: 55
+- **Pressure (JP)**: 56
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Skill Moves** (style) — severity 6/10
-- **Flamboyant** (style) — severity 4/10
-- **Pace** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
-- **Close Control** (style) — severity 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

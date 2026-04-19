@@ -2,12 +2,12 @@
 title: Matt O'Riley
 category: players
 tags: [CM, Brighton, Denmark, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Brighton. Archetype: Engine-Passer.
 person_id: 14800
-backlinks: [engine, brighton]
+backlinks: [engine, metodista, brighton]
 ---
 
 # Matt O'Riley
@@ -21,18 +21,27 @@ backlinks: [engine, brighton]
 | **Nation** | Denmark |
 | **Age** | 25 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 73 |
 | **Level** | 86 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A box-to-box midfielder with excellent technical security and the ability to influence play from deep positions through intelligent passing lanes and progressive carries; he's press-resistant and offers genuine midfield control. His limitation is physicality—he lacks the explosive power to dominate athletic midfielders—but his intelligence and range make him a valuable addition to Marseille's engine room.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `73`.
+- Best-fit role is [[metodista]] Metodista with model support score `73`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Stamina, First Touch, and Movement.
@@ -67,13 +76,14 @@ A box-to-box midfielder with excellent technical security and the ability to inf
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 48.0m |
+| Ceiling | EUR 57.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A box-to-box midfielder with excellent technical security and the ability to inf
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

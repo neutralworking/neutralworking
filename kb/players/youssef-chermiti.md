@@ -2,12 +2,12 @@
 title: Youssef Chermiti
 category: players
 tags: [CF, Rangers, Portugal, Target-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Rangers. Archetype: Target-Dribbler.
 person_id: 18684
-backlinks: [target, rangers]
+backlinks: [target, shadow-striker, rangers]
 ---
 
 # Youssef Chermiti
@@ -21,18 +21,27 @@ backlinks: [target, rangers]
 | **Nation** | Portugal |
 | **Age** | 21 |
 | **Archetype** | [[target]] Target-Dribbler |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Youssef Chermiti, a rising 21-year-old Marksman, presents as a physically dominant Target Man with strong technical, mental, and physical attributes, evidenced by his excellent jumping, heading, and composure in hold-up play. He offers a direct, durable counter-attack threat, yet his weaknesses in marking, discipline, and creative output suggest a more specialized forward role. Historically, he fits the classic number nine blueprint, leading the line in systems that leverage his aerial prowess and physical presence as a focal point. For a Director of Football, his strong pillar balance and rising career trajectory make him a valuable, extraverted investment for clubs seeking a robust, reliable attacking anchor, despite minor tactical deficiencies.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `79`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `79`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Physical, Jumping, and First Touch.
@@ -67,13 +76,14 @@ Youssef Chermiti, a rising 21-year-old Marksman, presents as a physically domina
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 41.0m |
+| Ceiling | EUR 49.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Youssef Chermiti, a rising 21-year-old Marksman, presents as a physically domina
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

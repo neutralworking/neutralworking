@@ -2,12 +2,12 @@
 title: Miguel Veloso
 category: players
 tags: [DM, Verona, Portugal, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Verona. Archetype: Creator.
 person_id: 15161
-backlinks: [creator, verona]
+backlinks: [creator, regista, verona]
 ---
 
 # Miguel Veloso
@@ -21,9 +21,10 @@ backlinks: [creator, verona]
 | **Nation** | Portugal |
 | **Age** | 39 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[regista]] Regista |
 | **Level** | 64 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -31,9 +32,16 @@ backlinks: [creator, verona]
 "Born in Coimbra, Miguel Veloso started his football career at S.L. Benfica, but was rejected for being slightly overweight at the time, entering Lisbon neighbours Sporting Clube de Portugal's youth system at the age of 14. There, he was promoted to the first team for the 2004–05 pre-season, which took place mainly in England; he started out as a central defender. In order to give him more playing time, Sporting loaned Veloso to C.D. Olivais e Moscavide in the third division, and he helped it promote to the second level with a career-best seven goals. As a result, he was recalled by the Lions – though it appeared difficult for him to grab a place in the starting team, because of the presence of players with much more experience such as Ânderson Polga, Tonel, Marco Caneira or Custódio – and ended up playing 23 league matches during the campaign as his team (again) finished second. He was equally impressive in his debut in the UEFA Champions League, a 1–0 home win against Inter Milan where he stopped Patrick Vieira and Luís Figo from playing effectively, earning Man of the match accolades in the process. In 2007–08 Veloso was ever-present in Sporting's central midfield, alongside fellow youth graduate João Moutinho. The club again lost the league to FC Porto, and the same befell in the following season, with the player being involved in some run-ins with manager Paulo Bento;[4] in the previous off-season and following January transfer window, he attracted interest from several Premier League sides, but nothing materialized. Veloso helped Sporting reach the last-16 in the 2009–10 UEFA Europa League, after scoring in both legs of the 4–2 aggregate win against Everton;[8][9] the club could only, however, finish fourth in the domestic league.
  On 30 July 2010, Veloso was sold to Genoa C.F.C. in Italy.[10] On 4 July 2012 he moved teams and countries again, signing a four-year contract with FC Dynamo Kyiv in the Ukrainian Premier League."
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista`.
+- Best-fit role is [[regista]] Regista.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Most bankable strengths show up in Pass Accuracy, Pass Range, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -68,13 +76,14 @@ backlinks: [creator, verona]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,11 +108,11 @@ backlinks: [creator, verona]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

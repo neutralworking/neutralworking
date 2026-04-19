@@ -2,12 +2,12 @@
 title: Timi Max Elšnik
 category: players
 tags: [CM, FK Crvena zvezda, Slovenia, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FK Crvena zvezda. Archetype: Striker-Creator.
 person_id: 17987
-backlinks: [striker, fk-crvena-zvezda]
+backlinks: [striker, playmaker, fk-crvena-zvezda]
 ---
 
 # Timi Max Elšnik
@@ -21,18 +21,27 @@ backlinks: [striker, fk-crvena-zvezda]
 | **Nation** | Slovenia |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physically robust and technically strong central midfielder, Elšnik operates as a Tuttocampista, excelling with his creativity and varied range of passing to contribute significantly to build-up play. While he possesses strong physical attributes and a flamboyant style, his overall pass accuracy and guile can sometimes let him down in tight spaces, and his blocking is limited. This type of all-action midfielder, blending physical presence with creative distribution, would thrive in dynamic systems demanding midfield dominance. At 27, he's a reliable asset for a team needing a primary midfield engine that contributes both offensively and physically, provided they can accommodate his occasional lack of precision due to tactical limitations.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `80`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Threat, Through Balls, and Creativity.
@@ -63,13 +72,14 @@ A physically robust and technically strong central midfielder, Elšnik operates 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A physically robust and technically strong central midfielder, Elšnik operates 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

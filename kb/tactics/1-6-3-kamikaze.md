@@ -2,7 +2,7 @@
 title: 1-6-3 (Kamikaze)
 category: tactics
 tags: [formation]
-updated: 2026-04-14
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Tactical analysis of the 1-6-3 (Kamikaze) formation.

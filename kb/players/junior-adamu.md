@@ -2,12 +2,12 @@
 title: Junior Adamu
 category: players
 tags: [CF, Freiburg, Austria, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Freiburg. Archetype: Striker.
 person_id: 13209
-backlinks: [striker, freiburg]
+backlinks: [striker, target-forward, freiburg]
 ---
 
 # Junior Adamu
@@ -21,18 +21,27 @@ backlinks: [striker, freiburg]
 | **Nation** | Austria |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Adamu offers physicality and a genuine desire to press from the front, making him useful in Celtic's system for wearing down opposition defences—he's willing and energetic rather than technically fluid. The problem is he's not a finisher; he occupies space, makes life difficult for centre-backs, but rarely converts the half-chances that come his way, and his touch in tight areas is inconsistent. He's a decent pressing forward for the Scottish Premiership, a squad player who doesn't embarrass himself but doesn't score the goals Celtic need from that position.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `76`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `76`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Adamu offers physicality and a genuine desire to press from the front, making hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 21.0m |
+| Ceiling | EUR 25.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Adamu offers physicality and a genuine desire to press from the front, making hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

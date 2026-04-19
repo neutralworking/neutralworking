@@ -2,12 +2,12 @@
 title: Timothy Weah
 category: players
 tags: [WF, Marseille, United States, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Marseille. Archetype: Dribbler-Sprinter.
 person_id: 17999
-backlinks: [dribbler, marseille]
+backlinks: [dribbler, wide-target-forward, marseille]
 ---
 
 # Timothy Weah
@@ -21,18 +21,27 @@ backlinks: [dribbler, marseille]
 | **Nation** | United States |
 | **Age** | 26 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[wide-target-forward]] Wide Target Forward |
+| **Role Score** | 59 |
 | **Level** | 86 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A winger with adequate pace and the ability to beat defenders with direct running, but his technical execution in the final third is inconsistent and his decision-making remains raw; he occasionally looks lost against compact defences. He's a useful squad option with obvious athleticism, but he needs significantly more development before warranting regular Ligue 1 action at a club with European ambitions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Target Forward` with model support score `59`.
+- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `59`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ A winger with adequate pace and the ability to beat defenders with direct runnin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 72.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +106,11 @@ A winger with adequate pace and the ability to beat defenders with direct runnin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -116,7 +126,5 @@ age: 23
 Lille
 €10.3M
 ```
-
-
 
 </details>

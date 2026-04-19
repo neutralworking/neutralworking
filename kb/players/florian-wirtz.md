@@ -2,12 +2,12 @@
 title: Florian Wirtz
 category: players
 tags: [AM, Liverpool, Germany, Dribbler-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Liverpool. Archetype: Dribbler-Engine.
 person_id: 11092
-backlinks: [dribbler, liverpool]
+backlinks: [dribbler, trequartista, liverpool]
 ---
 
 # Florian Wirtz
@@ -21,6 +21,8 @@ backlinks: [dribbler, liverpool]
 | **Nation** | Germany |
 | **Age** | 22 |
 | **Archetype** | [[dribbler]] Dribbler-Engine |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 84 |
 | **Level** | 88 |
 | **Overall** | 74.0 |
 | **Pursuit** | Watch |
@@ -30,9 +32,16 @@ backlinks: [dribbler, liverpool]
 
 Florian Wirtz is an artisan with exceptional technical and tactical abilities, making him a natural fit for the trequartista role. His vision, passing accuracy, and ability to control the tempo of the game are exceptional, but his weaknesses in blocking and clearances can be exposed in a high-intensity team. As a rising star, Wirtz's best role is in a team that values progressive, attacking football, where his strengths can be maximized, and his weaknesses mitigated, making him a strong fit for a club seeking a creative, dynamic playmaker.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `84`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `84`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Reactions, Creativity, and Pass Accuracy.
@@ -67,13 +76,14 @@ Florian Wirtz is an artisan with exceptional technical and tactical abilities, m
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 69.7m |
+| Mid | EUR 82.0m |
+| Ceiling | EUR 121m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ Florian Wirtz is an artisan with exceptional technical and tactical abilities, m
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 12 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 12 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

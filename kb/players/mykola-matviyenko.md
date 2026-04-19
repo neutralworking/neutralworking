@@ -2,12 +2,12 @@
 title: Mykola Matviyenko
 category: players
 tags: [CD, Shakhtar Donetsk, Ukraine, Cover-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Shakhtar Donetsk. Archetype: Cover-Dribbler.
 person_id: 15464
-backlinks: [cover, shakhtar-donetsk]
+backlinks: [cover, centrale, shakhtar-donetsk]
 ---
 
 # Mykola Matviyenko
@@ -21,18 +21,26 @@ backlinks: [cover, shakhtar-donetsk]
 | **Nation** | Ukraine |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[centrale]] Centrale |
 | **Level** | 86 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Center-back with strong physicality and positioning; reliable one-v-one defender with decent distribution. Solid top-5 league starter material, particularly in a back three or physical league like the Premier League.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Centrale`.
+- Best-fit role is [[centrale]] Centrale.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Awareness, Carries, and Clearances.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +70,14 @@ Center-back with strong physicality and positioning; reliable one-v-one defender
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +96,6 @@ Center-back with strong physicality and positioning; reliable one-v-one defender
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 19 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 19 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

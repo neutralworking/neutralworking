@@ -2,12 +2,12 @@
 title: Luka Ivanušec
 category: players
 tags: [WF, PAOK, Croatia, Dribbler-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at PAOK. Archetype: Dribbler-Powerhouse.
 person_id: 14179
-backlinks: [dribbler, paok]
+backlinks: [dribbler, wide-playmaker, paok]
 ---
 
 # Luka Ivanušec
@@ -21,18 +21,27 @@ backlinks: [dribbler, paok]
 | **Nation** | Croatia |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler-Powerhouse |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 65 |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Ivanušec, a Dribbler-Powerhouse Inventor, leverages strong mental attributes, balance, and acceleration to excel in take-ons and shielding the ball with an excellent first touch. However, his limited technical, tactical, and physical pillars, coupled with weaknesses in pressing and carries, suggest his impact is largely confined to individual moments of brilliance on the left flank, where he can be hot-headed and flamboyant. This player fits the mould of an individualistic wide creator, best suited to systems that offer him freedom to express his one-on-one ability as a designated 'wizard'. As a newcomer at 27, he offers an immediate but specialized solution, with his limitations and discipline issues presenting significant risk.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `65`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `65`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Shielding, Balance, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Ivanušec, a Dribbler-Powerhouse Inventor, leverages strong mental attributes, b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 49.0m |
+| Ceiling | EUR 58.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Ivanušec, a Dribbler-Powerhouse Inventor, leverages strong mental attributes, b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

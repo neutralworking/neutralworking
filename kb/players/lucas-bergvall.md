@@ -2,12 +2,12 @@
 title: Lucas Bergvall
 category: players
 tags: [CM, Tottenham Hotspur, Sweden, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Tottenham Hotspur. Archetype: Engine-Dribbler.
 person_id: 14077
-backlinks: [engine, tottenham-hotspur]
+backlinks: [engine, playmaker, tottenham-hotspur]
 ---
 
 # Lucas Bergvall
@@ -21,18 +21,27 @@ backlinks: [engine, tottenham-hotspur]
 | **Nation** | Sweden |
 | **Age** | 20 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 70 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Technically gifted Swedish midfielder with intelligent pressing triggers and progressive passing range, but physically slight and inconsistent in high-pressure moments. Early signs suggest he could develop into a solid mid-table regular, though elite-level consistency remains uncertain.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `70`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `70`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Pace, Acceleration, and First Touch.
@@ -67,13 +76,14 @@ Technically gifted Swedish midfielder with intelligent pressing triggers and pro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 38.0m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Technically gifted Swedish midfielder with intelligent pressing triggers and pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

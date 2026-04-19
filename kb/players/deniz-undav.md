@@ -2,12 +2,12 @@
 title: Deniz Undav
 category: players
 tags: [CF, Stuttgart, Germany, Striker-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Stuttgart. Archetype: Striker-Engine.
 person_id: 10229
-backlinks: [striker, stuttgart]
+backlinks: [striker, seconda-punta, stuttgart]
 ---
 
 # Deniz Undav
@@ -21,18 +21,27 @@ backlinks: [striker, stuttgart]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Engine |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A poacher's number nine with predatory positioning and movement in and around the box; he thrives on scraps and half-chances through intelligent checking and off-ball awareness. His hold-up play is limited, and he rarely creates for others, so he demands service—set him loose in a chaotic box and he'll profit, but he's not a focal point for build-up play. A very good finisher at a Bundesliga side, but not a complete forward.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `85`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `85`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in First Touch, Movement, and Reactions.
@@ -67,13 +76,14 @@ A poacher's number nine with predatory positioning and movement in and around th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 56.0m |
+| Ceiling | EUR 67.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A poacher's number nine with predatory positioning and movement in and around th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

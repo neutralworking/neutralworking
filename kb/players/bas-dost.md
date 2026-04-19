@@ -2,12 +2,12 @@
 title: Bas Dost
 category: players
 tags: [CF, NEC, Netherlands, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at NEC. Archetype: Striker.
 person_id: 728
-backlinks: [striker, nec]
+backlinks: [striker, falso-nove, nec]
 ---
 
 # Bas Dost
@@ -21,18 +21,26 @@ backlinks: [striker, nec]
 | **Nation** | Netherlands |
 | **Age** | 36 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 55 |
 | **Overall** | 52.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A back-to-the-goal number nine who thrives on service into the box rather than ball progression—his aerial presence and finishing instincts remain sharp at 36, but he's become a passenger in build-up play and lacks the lateral mobility to operate effectively in transition or half-space combinations. His role at NEC is purely functional: occupy centre-backs, win headers, convert chances. That's still useful in the Eredivisie, but he's no longer a starter at this level; more a reliable finisher off the bench or in specific matchups.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Aerial Duels, Heading, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +70,14 @@ A back-to-the-goal number nine who thrives on service into the box rather than b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.6m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +102,7 @@ A back-to-the-goal number nine who thrives on service into the box rather than b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

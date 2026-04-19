@@ -1,18 +1,32 @@
 ---
 title: Wrexham
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Wrexham. 38 players in database.
+summary: Wrexham. 37 players in database.
 ---
 
 # Wrexham
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 38
+**League**: —  
+**Nation**: —  
+**Players in DB**: 37
+
+## Identity
+
+- Database coverage is deepest in CM (12), GK (6), and CF (6), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (9), Powerhouse (7), and Gk (5) across the current squad.
+- Average available overall grade sits at 67.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -26,33 +40,32 @@ summary: Wrexham. 38 players in database.
 | [[k-moore]] K. Moore | CF | Striker-Creator | 67.0 |
 | [[ryan-hardie]] Ryan Hardie | CF | Sprinter | 76.0 |
 | [[steven-fletcher]] Steven Fletcher | CF | Target-Dribbler | 72.0 |
-| [[andy-cannon]] Andy Cannon | CM | Powerhouse | None |
+| [[andy-cannon]] Andy Cannon | CM | Powerhouse | — |
 | [[c-doyle]] C. Doyle | CM | Destroyer-Striker | 68.0 |
 | [[g-dobson]] G. Dobson | CM | Powerhouse-Destroyer | 68.0 |
 | [[george-thomason]] George Thomason | CM | Cover | 70.0 |
 | [[james-mcclean]] James McClean | CM | Powerhouse | 60.0 |
-| [[jonny-smith]] Jonny Smith | CM | Sprinter | None |
+| [[jonny-smith]] Jonny Smith | CM | Sprinter | — |
 | [[l-brunt]] L. Brunt | CM | Destroyer-Powerhouse | 68.0 |
 | [[lewis-obrien]] Lewis O'Brien | CM | Creator | 74.0 |
-| [[matty-james]] Matty James | CM | Cover | 63.0 |
 | [[max-cleworth]] Max Cleworth | CM | Cover | 69.0 |
 | [[oliver-rathbone]] Oliver Rathbone | CM | Powerhouse | 75.0 |
 | [[ryan-barnett]] Ryan Barnett | CM | Sprinter | 72.0 |
-| [[s-smith]] S. Smith | CM | None | 35.0 |
-| [[arthur-okonkwo]] Arthur Okonkwo | GK | GK | None |
+| [[s-smith]] S. Smith | CM | — | 35.0 |
+| [[arthur-okonkwo]] Arthur Okonkwo | GK | GK | — |
 | [[danny-ward]] Danny Ward | GK | Powerhouse | 74.0 |
-| [[liam-hall]] Liam Hall | GK | GK | None |
-| [[luke-mcnicholas]] Luke McNicholas | GK | GK | None |
-| [[mark-howard]] Mark Howard | GK | GK | None |
-| [[rob-lainton]] Rob Lainton | GK | GK | None |
+| [[liam-hall]] Liam Hall | GK | GK | — |
+| [[luke-mcnicholas]] Luke McNicholas | GK | GK | — |
+| [[mark-howard]] Mark Howard | GK | GK | — |
+| [[rob-lainton]] Rob Lainton | GK | GK | — |
 | [[issa-kabore]] Issa Kaboré | WD | Cover-Sprinter | 68.0 |
 | [[liberato-cacace]] Liberato Cacace | WD | Sprinter-Engine | 70.0 |
 | [[r-longman]] R. Longman | WM | Sprinter-Dribbler | 67.0 |
-| [[aaron-james]] Aaron James | None | Sprinter | None |
-| [[daniel-davies]] Daniel Davies | None | None | None |
-| [[jacob-mendy]] Jacob Mendy | None | Sprinter | None |
-| [[jake-bickerstaff]] Jake Bickerstaff | None | None | None |
-| [[james-jones]] James Jones | None | Sprinter | None |
-| [[jordan-davies]] Jordan Davies | None | Powerhouse | None |
-| [[owen-cushion]] Owen Cushion | None | None | None |
-| [[scott-butler]] Scott Butler | None | None | None |
+| Aaron James | — | Sprinter | — |
+| Daniel Davies | — | — | — |
+| Jacob Mendy | — | Sprinter | — |
+| Jake Bickerstaff | — | — | — |
+| James Jones | — | Sprinter | — |
+| Jordan Davies | — | Powerhouse | — |
+| Owen Cushion | — | — | — |
+| Scott Butler | — | — | — |

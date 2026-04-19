@@ -2,12 +2,12 @@
 title: Y. Kalley
 category: players
 tags: [CM, Estrela da Amadora, Powerhouse-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Estrela da Amadora. Archetype: Powerhouse-Creator.
 person_id: 24686
-backlinks: [powerhouse, estrela-da-amadora]
+backlinks: [powerhouse, ball-winner, estrela-da-amadora]
 ---
 
 # Y. Kalley
@@ -18,21 +18,30 @@ backlinks: [powerhouse, estrela-da-amadora]
 |---|---|
 | **Position** | CM |
 | **Club** | Estrela da Amadora |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Creator |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Y. Kalley projects primarily as a CM with a `Powerhouse-Creator` lean. The strongest database support comes from Acceleration, Pace, and Shielding.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `73`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `73`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Pace, and Shielding.
@@ -63,13 +72,14 @@ Y. Kalley projects primarily as a CM with a `Powerhouse-Creator` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +105,6 @@ Y. Kalley projects primarily as a CM with a `Powerhouse-Creator` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

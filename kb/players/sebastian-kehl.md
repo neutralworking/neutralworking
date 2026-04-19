@@ -2,12 +2,12 @@
 title: Sebastian Kehl
 category: players
 tags: [CM, Borussia Dortmund, Germany, Engine-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Borussia Dortmund. Archetype: Engine-Sprinter.
 person_id: 6553
-backlinks: [engine, borussia-dortmund]
+backlinks: [engine, metodista, borussia-dortmund]
 ---
 
 # Sebastian Kehl
@@ -21,18 +21,26 @@ backlinks: [engine, borussia-dortmund]
 | **Nation** | Germany |
 | **Age** | 46 |
 | **Archetype** | [[engine]] Engine-Sprinter |
+| **Best Role** | [[metodista]] Metodista |
 | **Level** | 44 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Sebastian Kehl projects primarily as a CM with a `Engine-Sprinter` lean. The strongest database support comes from Balance, Shielding, and Aerial Duels.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista`.
+- Best-fit role is [[metodista]] Metodista.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Aerial Duels.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,10 +74,11 @@ Sebastian Kehl projects primarily as a CM with a `Engine-Sprinter` lean. The str
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +102,6 @@ Sebastian Kehl projects primarily as a CM with a `Engine-Sprinter` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

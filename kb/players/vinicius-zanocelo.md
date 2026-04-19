@@ -2,12 +2,12 @@
 title: Vinicius Zanocelo
 category: players
 tags: [CM, Ceará SC, Brazil, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Ceará SC. Archetype: Cover-Striker.
 person_id: 18382
-backlinks: [cover, ceara-sc]
+backlinks: [cover, metodista, ceara-sc]
 ---
 
 # Vinicius Zanocelo
@@ -21,18 +21,27 @@ backlinks: [cover, ceara-sc]
 | **Nation** | Brazil |
 | **Age** | 25 |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A physically mature Brazilian connector whose composure and awareness create a functional base for tuttocampista deployment, though his tackling strength is undermined by limited blocking and a conspicuous absence of guile in transition orchestration. His long-range technical quality suggests capacity for defensive-to-progressive carries, but weak vision restricts his utility as a secondary playmaker, making him best suited to teams that deploy tuttocampistas primarily as recovery operators. At 25 with strong mentality, he remains developable, but the gap between tactical limitation and technical strength indicates a player built for systems with pre-structured movement rather than fluid positional rotation.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `73`.
+- Best-fit role is [[metodista]] Metodista with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Composure, and Skills.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ A physically mature Brazilian connector whose composure and awareness create a f
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.9m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +98,6 @@ A physically mature Brazilian connector whose composure and awareness create a f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

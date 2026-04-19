@@ -2,12 +2,12 @@
 title: Robert Lewandowski
 category: players
 tags: [CF, Barcelona, Poland, Engine-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Barcelona. Archetype: Engine-Striker.
 person_id: 16710
-backlinks: [engine, barcelona]
+backlinks: [engine, prima-punta, barcelona]
 ---
 
 # Robert Lewandowski
@@ -21,18 +21,27 @@ backlinks: [engine, barcelona]
 | **Nation** | Poland |
 | **Age** | 37 |
 | **Archetype** | [[engine]] Engine-Striker |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 67 |
 | **Level** | 84 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Ageless Polish striker. Positioning, finishing, and movement are still world-class. Pace has gone but the brain compensates.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `67`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `67`.
 - Primary archetype leans toward `Engine` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in First Touch, Jumping, and Reactions.
@@ -67,13 +76,14 @@ Ageless Polish striker. Positioning, finishing, and movement are still world-cla
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
+| Floor | EUR 2.5m |
 | Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Ceiling | EUR 8.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,19 +117,16 @@ Ageless Polish striker. Positioning, finishing, and movement are still world-cla
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
-
-  
 
 Tactical Attributes: Finishing (20), Off the Ball (18), Anticipation (17), Composure (17), Work Rate (16)
 

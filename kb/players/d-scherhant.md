@@ -2,12 +2,12 @@
 title: D. Scherhant
 category: players
 tags: [CF, Freiburg, Creator-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Freiburg. Archetype: Creator-Sprinter.
 person_id: 20592
-backlinks: [creator, freiburg]
+backlinks: [creator, seconda-punta, freiburg]
 ---
 
 # D. Scherhant
@@ -18,21 +18,30 @@ backlinks: [creator, freiburg]
 |---|---|
 | **Position** | CF |
 | **Club** | Freiburg |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Sprinter |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 75 |
 | **Level** | 75 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 D. Scherhant embodies a potent Complete Forward, showcasing strong technical and tactical abilities with impressive pace, acceleration, balance, and take-on skills, complemented by his jumping prowess. While a direct threat in the final third, his limited mental pillar and distinct weaknesses in tackling, awareness, and interceptions highlight a purely offensive profile. He fits the historical blueprint of a traditional, line-leading striker who thrives on direct attacks and individual brilliance rather than complex link-up play. For a Director of Football, he offers an exciting, albeit introverted, attacking asset, but careful system design is necessary to mitigate his defensive shortcomings and mental limitations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `75`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `75`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ D. Scherhant embodies a potent Complete Forward, showcasing strong technical and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,7 +100,7 @@ D. Scherhant embodies a potent Complete Forward, showcasing strong technical and
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: David Trezeguet
 category: players
 tags: [CF]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 18923
 ---
 
@@ -16,18 +16,25 @@ person_id: 18923
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Trezeguet was a prolific, complete, and talented striker, who was gifted with pace, power, instinct, and an eye for goal.[39] He was excellent at taking advantage of chances in the area, and excelled in the air. He was capable of scoring with either foot, despite being naturally right footed, as well as with his head. He was also known for his positional sense, anticipation, reactions, offensive movement, and his ability to lose his markers, as well as his skill at playing with his back to goal.[40] Regarded as one of the best strikers of all time, due to the number of goals he scored for Juventus he gained the nicknames: Cobra
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -37,13 +44,14 @@ Trezeguet was a prolific, complete, and talented striker, who was gifted with pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 1.5m |
+| Ceiling | EUR 3.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,8 +62,8 @@ Trezeguet was a prolific, complete, and talented striker, who was gifted with pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -72,6 +80,6 @@ nation: FRA
 tier: B
 level: 81.8
 ---
-Trezeguet was a prolific, complete, and talented striker, who was gifted with pace, power, instinct, and an eye for goal.[39] He was excellent at taking advantage of chances in the area, and excelled in the air. He was capable of scoring with either foot, despite being naturally right footed, as well as with his head. He was also known for his positional sense, anticipation, reactions, offensive movement, and his ability to lose his markers, as well as his skill at playing with his back to goal.[40] Regarded as one of the best strikers of all time, due to the number of goals he scored for Juventus he gained the nicknames: Cobra		
+Trezeguet was a prolific, complete, and talented striker, who was gifted with pace, power, instinct, and an eye for goal.[39] He was excellent at taking advantage of chances in the area, and excelled in the air. He was capable of scoring with either foot, despite being naturally right footed, as well as with his head. He was also known for his positional sense, anticipation, reactions, offensive movement, and his ability to lose his markers, as well as his skill at playing with his back to goal.[40] Regarded as one of the best strikers of all time, due to the number of goals he scored for Juventus he gained the nicknames: Cobra
 
 </details>

@@ -2,12 +2,12 @@
 title: Etrit Berisha
 category: players
 tags: [GK, BK Häcken, Albania, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at BK Häcken. Archetype: GK.
 person_id: 10827
-backlinks: [gk, bk-hacken]
+backlinks: [gk, sweeper-keeper, bk-hacken]
 ---
 
 # Etrit Berisha
@@ -21,20 +21,26 @@ backlinks: [gk, bk-hacken]
 | **Nation** | Albania |
 | **Age** | 37 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 84 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalkeeper for the Italian Serie A club Empoli. He also captains the Albania national team. Berisha began his career at local club KF 2 Korriku and later joined Kalmar in 2008. In 2013, he joined Lazio in Serie A. Berisha has represented Albania at the international level and played a key role in their qualification for Euro 2016. [^1]
+Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalkeeper for the Italian Serie A club Empoli. He also captains the Albania national team. Berisha began his career at local club KF 2 Korriku and later joined Kalmar in 2008. In 2013, he joined Lazio in Serie A. Berisha has represented Albania at the international level and played a key role in their qualification for Euro 2016.
 
-[^1]: https://en.wikipedia.org/wiki/Etrit_Berisha
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Tactical, Mental, and Technical.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -68,13 +74,14 @@ Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalke
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,19 +107,17 @@ Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalke
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalkeeper for the Italian Serie A club Empoli. He also captains the Albania national team. Berisha began his career at local club KF 2 Korriku and later joined Kalmar in 2008. In 2013, he joined Lazio in Serie A. Berisha has represented Albania at the international level and played a key role in their qualification for Euro 2016. [^1]
-
-[^1]: https://en.wikipedia.org/wiki/Etrit_Berisha
+Etrit Fadil Berisha is an Albanian professional footballer who plays as a goalkeeper for the Italian Serie A club Empoli. He also captains the Albania national team. Berisha began his career at local club KF 2 Korriku and later joined Kalmar in 2008. In 2013, he joined Lazio in Serie A. Berisha has represented Albania at the international level and played a key role in their qualification for Euro 2016.
 
 </details>

@@ -2,12 +2,12 @@
 title: Bruno Guimarães
 category: players
 tags: [CM, Newcastle United, Brazil, Creator-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Newcastle United. Archetype: Creator-Engine.
 person_id: 20179
-backlinks: [creator, newcastle-united]
+backlinks: [creator, playmaker, newcastle-united]
 ---
 
 # Bruno Guimarães
@@ -21,6 +21,8 @@ backlinks: [creator, newcastle-united]
 | **Nation** | Brazil |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Engine |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 87 |
 | **Level** | 87 |
 | **Overall** | 75.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [creator, newcastle-united]
 
 A centre midfielder of genuine excellence who combines technical sophistication—his progressive carries and range of passing are legitimately world-class—with a surprisingly robust ball-winning presence. He glides through space with Brazillian elegance and rarely loses the ball in dangerous areas. The limitation is that he's not the most positionally disciplined defender, and against the very best pressing teams he can occasionally be hurried into mistakes.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `87`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `87`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Stamina, First Touch, and Reactions.
@@ -63,13 +72,14 @@ A centre midfielder of genuine excellence who combines technical sophistication�
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 63.8m |
+| Mid | EUR 75.0m |
+| Ceiling | EUR 90.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A centre midfielder of genuine excellence who combines technical sophistication�
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

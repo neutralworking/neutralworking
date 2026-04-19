@@ -2,12 +2,12 @@
 title: Paweł Wszołek
 category: players
 tags: [CM, Legia Warszawa, Poland, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Legia Warszawa. Archetype: Sprinter.
 person_id: 16218
-backlinks: [sprinter, legia-warszawa]
+backlinks: [sprinter, playmaker, legia-warszawa]
 ---
 
 # Paweł Wszołek
@@ -21,18 +21,27 @@ backlinks: [sprinter, legia-warszawa]
 | **Nation** | Poland |
 | **Age** | 33 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Wszołek is a Colossus archetype who excels in physical situations, using his stamina and acceleration to win headers and tackles. His jumping ability and pace are notable strengths, making him a threat from set pieces and on the counter-attack. However, his limited duels won and lack of guile hold him back from being a more dominant player, and his limited tactical awareness restricts his ability to read the game and make intelligent decisions.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `72`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
@@ -63,13 +72,14 @@ Wszołek is a Colossus archetype who excels in physical situations, using his st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.2m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Wszołek is a Colossus archetype who excels in physical situations, using his st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

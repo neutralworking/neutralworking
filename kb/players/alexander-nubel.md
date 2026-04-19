@@ -2,12 +2,12 @@
 title: Alexander Nübel
 category: players
 tags: [GK, Stuttgart, Germany, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Stuttgart. Archetype: GK.
 person_id: 8169
-backlinks: [gk, stuttgart]
+backlinks: [gk, comandante, stuttgart]
 ---
 
 # Alexander Nübel
@@ -21,18 +21,26 @@ backlinks: [gk, stuttgart]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[comandante]] Comandante |
 | **Level** | 86 |
 | **Overall** | 79.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely modern goalkeeper with excellent distribution and sweeper instincts; he's comfortable on the ball and reads space intelligently to play a line-breaking pass or sweep behind the defence. However, he lacks the elite shot-stopping reflexes that separate the very best keepers, and his positioning can occasionally be exposed against direct, clinical finishers. At 29, he's a complete, reliable number one at a top-six Bundesliga club, but not the generational talent his early reputation suggested.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Comandante`.
+- Best-fit role is [[comandante]] Comandante.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Jumping, and Acceleration.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +75,14 @@ A genuinely modern goalkeeper with excellent distribution and sweeper instincts;
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 11.4m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +111,7 @@ A genuinely modern goalkeeper with excellent distribution and sweeper instincts;
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

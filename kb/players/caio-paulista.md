@@ -2,12 +2,12 @@
 title: Caio Paulista
 category: players
 tags: [WM, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WM at None. Archetype: Destroyer-Striker.
+summary: WM at —. Archetype: Destroyer-Striker.
 person_id: 23871
-backlinks: [destroyer]
+backlinks: [destroyer, wide-playmaker]
 ---
 
 # Caio Paulista
@@ -17,22 +17,31 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
-| **Nation** | None |
+| **Club** | — |
+| **Nation** | — |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A tornante archetype built around technical security and defensive solidity rather than build-up play, Paulista's strength lies in one-v-one blocking and composed possession retention in tight spaces. His awareness and take-on ability enable defensive pressing and recovery possession, yet he lacks the guile and wide-angle vision needed for progressive play—close-range finishing and creative passing are genuine gaps. Teams playing a back-three or using inverted fullbacks benefit most from his defensive foundation, but he cannot function as a playmaker or false-9 outlet.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
 - Most bankable strengths show up in Duels, Pass Accuracy, and Aggression.
 
@@ -57,13 +66,14 @@ A tornante archetype built around technical security and defensive solidity rath
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 1.9m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 22.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,6 +93,6 @@ A tornante archetype built around technical security and defensive solidity rath
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

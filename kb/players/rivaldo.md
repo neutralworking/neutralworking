@@ -2,12 +2,12 @@
 title: Rivaldo
 category: players
 tags: [CF, SC Farense, Brazil, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at SC Farense. Archetype: Striker-Creator.
 person_id: 16675
-backlinks: [striker, sc-farense]
+backlinks: [striker, seconda-punta, sc-farense]
 ---
 
 # Rivaldo
@@ -21,9 +21,11 @@ backlinks: [striker, sc-farense]
 | **Nation** | Brazil |
 | **Age** | 46 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 92 |
 | **Level** | 46 |
 | **Overall** | 46.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -31,9 +33,16 @@ backlinks: [striker, sc-farense]
 CF	Inventive	Creator	Hurricane	Barcelona	BRA	B	80.9		Shot Power	
 Sócrates	CM		Playmaker	Doctor		BRA	A	84.5	Sócrates was a technical playmaker, known for great through passes and his vision on the field, as well as his physical strength. He was also a two-footed player and a prolific goal scorer. His ability to read the game was highly valued, and his signature move was the blind heel pass.[12] He was a key member of the Brazilian national team of the early to mid-1980s, "Jonathan Wilson said that ""Socrates was the brain of Brazil. He might not quite have had the flair of Zico", "but he was the central intelligence"".[13] Former coach at Fiorentina", Giancarlo De Sisti, "said: ""Socrates was a very intelligent man", "he had great class."""		Brazilian footballer who played as an attacking midfielder. His doctorate in medicine and his political awareness earned him the nickname "Doctor Socrates". Easily recognizable for his beard and headband, Sócrates became the "symbol of cool for a whole generation of football supporters". He was considered to be one of the greatest midfielders ever to play the game. In 1983, he was named South American Footballer of the Year. In 2004 he was named by Pelé in the FIFA 100 list of the world's greatest living players.Sócrates played for Brazil for seven years, scoring 22 goals and representing the nation in two World Cups. He captained the team in the 1982 FIFA World Cup; playing in midfield alongside Zico, Falcão and Éder, considered one of the greatest Brazilian national teams ever. He also appeared in the 1979 and 1983 Copa América. At club level, Sócrates played for Botafogo-SP before joining Corinthians in 1978. He moved to Italy to play for Fiorentina, returning to Brazil in 1985 to end his career.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `92`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `92`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Long Range Threat.
 - Most bankable strengths show up in First Touch, Mid Range, and Pass Accuracy.
@@ -64,13 +73,14 @@ Sócrates	CM		Playmaker	Doctor		BRA	A	84.5	Sócrates was a technical playmaker, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,11 +105,11 @@ Sócrates	CM		Playmaker	Doctor		BRA	A	84.5	Sócrates was a technical playmaker, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

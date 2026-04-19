@@ -2,10 +2,10 @@
 title: Ali Daei
 category: players
 tags: [CF, Iran]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at None. Archetype: None.
+summary: CF at —. Archetype: —.
 person_id: 8242
 ---
 
@@ -16,18 +16,25 @@ person_id: 8242
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Iran |
 | **Age** | 57 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 41 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker			IRN	C	0.0			He is the former captain of the Iran national football team, having played for clubs such as Bayern Munich and Hertha BSC, and is the world's all-time leading goalscorer in men's international matches. On 17 November 2004, he scored four goals against Laos in a World Cup qualifier, giving him 102 goals and making him the first male player to score 100 goals in international play. He has 149 caps for Iran and is ranked among the top 12 of world's most capped players. After playing for a couple of minor league teams, Taxirani and Bank Tejarat, in 1994 Daei joined one of country's premier squads, Persepolis Following his impressive performance in Asian Cup in 1996 as Arminia Bielefeld joined the Bundesliga, they signed a contract with Daei and his fellow Iranian national team-mate Karim Bagheri. Daei became the first Asian player to feature in a UEFA Champions League match. Yet at Bayern he found himself low in the pecking order. This couple with the Iranian national team's scheduling, Daei had found very little time for playing. Daei was unhappy with his position in the club and decided to make a move to Hertha BSC before the end of his three-year contract, when Bayern won the championship title in the 1999 Bundesliga. He scored his first and second goal in the UEFA Champions League on 22 September 1999 in group stage match against Chelsea won by Hertha with 2–1. His famous match against Chelsea gained him a lot of recognition.[citation needed] Yet even at Hertha he was not a hugely important player, since he was only amongst one of the squad's many successful players, who were to fulfill Hertha's Bundesliga and UEFA Champions League dreams.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -40,10 +47,11 @@ CF		Striker			IRN	C	0.0			He is the former captain of the Iran national football
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,8 +62,8 @@ CF		Striker			IRN	C	0.0			He is the former captain of the Iran national football
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

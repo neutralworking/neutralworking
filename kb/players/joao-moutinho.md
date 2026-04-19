@@ -2,12 +2,12 @@
 title: Joao Moutinho
 category: players
 tags: [CM, Braga, Portugal, Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Braga. Archetype: Passer.
 person_id: 12679
-backlinks: [passer, braga]
+backlinks: [passer, playmaker, braga]
 ---
 
 # Joao Moutinho
@@ -21,18 +21,27 @@ backlinks: [passer, braga]
 | **Nation** | Portugal |
 | **Age** | 39 |
 | **Archetype** | [[passer]] Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 50 |
 | **Level** | 84 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Joao Moutinho, at 39, embodies the Heartbeat Metronome, a player with exceptional tactical intelligence, composure, and passing range, making him a superb build-up contributor and progressive carrier despite limited physical and mental pillars. He is press-resistant and durable, but his weaknesses in duels and discipline suggest a role requiring protection from intense physical confrontations. Historically, he is a quintessential deep-lying playmaker, orchestrating play from midfield and perfectly suited for possession-based systems where his tactical brilliance as a Mezzala shines. For a Director of Football, he offers invaluable experience and immediate passing quality for a ball-dominant side, though his age and physical limitations necessitate careful deployment and a protected midfield role.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `50`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `50`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in First Touch, Aerial Duels, and Crossing.
@@ -67,13 +76,14 @@ Joao Moutinho, at 39, embodies the Heartbeat Metronome, a player with exceptiona
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Joao Moutinho, at 39, embodies the Heartbeat Metronome, a player with exceptiona
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

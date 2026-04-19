@@ -2,12 +2,12 @@
 title: M. Talovierov
 category: players
 tags: [CM, Stoke City, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Stoke City. Archetype: Destroyer.
 person_id: 21056
-backlinks: [destroyer, stoke-city]
+backlinks: [destroyer, tuttocampista, stoke-city]
 ---
 
 # M. Talovierov
@@ -18,21 +18,30 @@ backlinks: [destroyer, stoke-city]
 |---|---|
 | **Position** | CM |
 | **Club** | Stoke City |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Talovierov is a Terrier archetype, specifically a Ball Winner, suited to a Tuttocampista role, demonstrating strong technical ability and good physical presence, particularly in awareness, interceptions, and duels, making him effective at blocking passing lanes and contributing to a high press. His limited mental attributes, coupled with a hot-headed trait and poor discipline, often lead to errors and unnecessary fouls, while his vision and close-range attacking output are notably weak. His profile aligns with traditional defensive midfielders, a disruptor whose primary function is to break up play and shield the backline, rather than dictate tempo or initiate complex attacking moves. For Stoke City, he offers a robust, competitive presence, but his disciplinary record and limited creative vision represent significant risk factors for a club looking to build out from midfield; his value is tied to teams needing a pure destroyer who can be managed for his mental frailties.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Blocking, Duels, and Tackling.
@@ -62,13 +71,14 @@ Talovierov is a Terrier archetype, specifically a Ball Winner, suited to a Tutto
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Talovierov is a Terrier archetype, specifically a Ball Winner, suited to a Tutto
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

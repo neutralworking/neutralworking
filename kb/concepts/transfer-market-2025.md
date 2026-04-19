@@ -101,4 +101,4 @@ USD 28.6m in women's transfer fees is still tiny relative to men's, but the grow
 
 **Sources**: FIFA Global Transfer Report 2025 (published January 2026); FIFA agent fees release; ESPN; Inside World Football.
 
-**Related**: [[Valuation Model]], [[Pursuit Status]], [[Market Value Tier]]
+**Related**: Valuation Model, Pursuit Status, Market Value Tier

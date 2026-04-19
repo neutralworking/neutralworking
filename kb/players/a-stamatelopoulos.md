@@ -2,12 +2,12 @@
 title: A. Stamatelopoulos
 category: players
 tags: [CF, Motherwell, Powerhouse-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Motherwell. Archetype: Powerhouse-Creator.
 person_id: 24231
-backlinks: [powerhouse, motherwell]
+backlinks: [powerhouse, target-forward, motherwell]
 ---
 
 # A. Stamatelopoulos
@@ -18,21 +18,30 @@ backlinks: [powerhouse, motherwell]
 |---|---|
 | **Position** | CF |
 | **Club** | Motherwell |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Creator |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Stamatelopoulos is a Marksman archetype best deployed as a Complete Forward, leveraging his physicality, jumping, stamina, and intelligent movement to be a direct threat, capable of long-range efforts. His game is notably hindered by a lack of creativity, mental inconsistencies, and discipline issues, suggesting a high-variance performer. He embodies the traditional 'direct' center-forward role, focusing on physical presence, aerial ability, and goal-scoring movement rather than intricate link-up play, thriving in systems that prioritize quick transitions and supply into the box. Stamatelopoulos could be a valuable asset for a club in need of a powerful, direct focal point in attack, particularly one that can manage his limited mental attributes and discipline issues. His market value lies in his raw goalscoring potential and physical output, but the inherent risks mean a club with strong man-management and a clear tactical system for a 'direct' forward would benefit most.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `69`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `69`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Physical, Jumping, and Stamina.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ A. Stamatelopoulos is a Marksman archetype best deployed as a Complete Forward, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ A. Stamatelopoulos is a Marksman archetype best deployed as a Complete Forward, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

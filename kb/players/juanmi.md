@@ -2,12 +2,12 @@
 title: Juanmi
 category: players
 tags: [WF, Getafe, Spain, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Getafe. Archetype: Striker.
 person_id: 13147
-backlinks: [striker, getafe]
+backlinks: [striker, inverted-winger, getafe]
 ---
 
 # Juanmi
@@ -19,20 +19,28 @@ backlinks: [striker, getafe]
 | **Position** | WF |
 | **Club** | Getafe |
 | **Nation** | Spain |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A Spanish winger capable of delivering useful work in a structured system, with reasonable pace and the ability to cut inside or whip crosses, though he doesn't possess the technical security or in-game variability to be a playmaker. His decision-making in the final third is occasionally wasteful, and he can be predictable, inviting defenders to set traps. Juanmi is a squad winger — productive enough for a team operating with low ambition but not a player who would enhance a team with European aspirations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Heading.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A Spanish winger capable of delivering useful work in a structured system, with 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +105,7 @@ A Spanish winger capable of delivering useful work in a structured system, with 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

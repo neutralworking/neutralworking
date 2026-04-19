@@ -2,7 +2,7 @@
 title: 2-3-5 (Pyramid)
 category: tactics
 tags: [formation]
-updated: 2026-04-14
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Tactical analysis of the 2-3-5 (Pyramid) formation.
@@ -10,7 +10,7 @@ summary: Tactical analysis of the 2-3-5 (Pyramid) formation.
 
 # 2-3-5 (Pyramid)
 
-![[R - RSG/main 1/assets/Pasted image 20231211114542.png]]
+
 
 
 ### Pyramid (2–3–5)
@@ -19,9 +19,9 @@ summary: Tactical analysis of the 2-3-5 (Pyramid) formation.
 
 The Pyramid formation
 
-The first long-term successful formation was recorded in 1880.[[1]](https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-:0-1) In _Association Football_, however, published by Caxton in 1960, the following appears in Vol II, page 432: "[Wrexham](https://en.wikipedia.org/wiki/Wrexham "Wrexham") ... the first winner of the [Welsh Cup](https://en.wikipedia.org/wiki/Welsh_Cup "Welsh Cup") in 1877 ... for the first time certainly in Wales and probably in Britain, a team played three half-backs and five forwards ..."
+The first long-term successful formation was recorded in 1880.[1](https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-:0-1) In _Association Football_, however, published by Caxton in 1960, the following appears in Vol II, page 432: "[Wrexham](https://en.wikipedia.org/wiki/Wrexham "Wrexham") ... the first winner of the [Welsh Cup](https://en.wikipedia.org/wiki/Welsh_Cup "Welsh Cup") in 1877 ... for the first time certainly in Wales and probably in Britain, a team played three half-backs and five forwards ..."
 
-The 2–3–5 was originally known as the "Pyramid",[[2]](https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-2) with the numerical formation being referenced retrospectively. By the 1890s, it was the standard formation in England and had spread all over the world. With some variations, it was used by most top-level teams up to the 1930s.
+The 2–3–5 was originally known as the "Pyramid",[2](https://en.wikipedia.org/wiki/Formation_(association_football)#cite_note-2) with the numerical formation being referenced retrospectively. By the 1890s, it was the standard formation in England and had spread all over the world. With some variations, it was used by most top-level teams up to the 1930s.
 
 For the first time, a balance between attacking and defending was reached. When defending, halfback-trio were the first facing opposing forwards, when those were surpassed, then fullbacks met forwards as last line of defending.
 

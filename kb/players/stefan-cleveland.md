@@ -2,7 +2,7 @@
 title: Stefan Cleveland
 category: players
 tags: [GK, Chicago Fire, United States, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Chicago Fire. Archetype: GK.
@@ -22,13 +22,20 @@ backlinks: [gk, chicago-fire]
 | **Age** | 31 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 83 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A journeyman American goalkeeper now in his early thirties who has drifted through the lower reaches of MLS without ever establishing himself as a reliable starter at the top level. Cleveland possesses adequate shot-stopping reflexes and reads play competently in one-on-one situations, but his distribution remains pedestrian—he lacks the sweeping range and incisive passing range that modern full-backs and pressing-oriented defenders demand from their goalkeeper. At this stage of his career, he is a credible backup option for a mid-table MLS side, capable of stepping in for injury cover without catastrophe, but his ceiling is essentially reached and he carries the hallmarks of a player who will spend his remaining years circulating between reserve benches and occasional league appearances.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -60,13 +67,14 @@ A journeyman American goalkeeper now in his early thirties who has drifted throu
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,6 +95,6 @@ A journeyman American goalkeeper now in his early thirties who has drifted throu
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

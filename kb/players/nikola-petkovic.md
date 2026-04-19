@@ -2,12 +2,12 @@
 title: Nikola Petković
 category: players
 tags: [CM, Charlotte FC, Serbia, Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Charlotte FC. Archetype: Cover.
 person_id: 15738
-backlinks: [cover, charlotte-fc]
+backlinks: [cover, ball-winner, charlotte-fc]
 ---
 
 # Nikola Petković
@@ -21,18 +21,26 @@ backlinks: [cover, charlotte-fc]
 | **Nation** | Serbia |
 | **Age** | 28 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Nikola Petković projects primarily as a CM with a `Cover` lean. The strongest database support comes from Pass Accuracy, Awareness, and Balance.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Awareness, and Balance.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ Nikola Petković projects primarily as a CM with a `Cover` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,5 +98,5 @@ Nikola Petković projects primarily as a CM with a `Cover` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

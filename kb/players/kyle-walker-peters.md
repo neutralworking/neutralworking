@@ -2,12 +2,12 @@
 title: Kyle Walker-Peters
 category: players
 tags: [WD, West Ham United, England, Powerhouse-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at West Ham United. Archetype: Powerhouse-Engine.
 person_id: 13681
-backlinks: [powerhouse, west-ham-united]
+backlinks: [powerhouse, corner-back, west-ham-united]
 ---
 
 # Kyle Walker-Peters
@@ -21,18 +21,27 @@ backlinks: [powerhouse, west-ham-united]
 | **Nation** | England |
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse-Engine |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pacy, engaged right-back with decent defensive discipline; limited attacking thrust and occasional lapses in concentration prevent a higher rating—he's a squad-level top-flight player, better suited to a structured system.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `80`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `80`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -67,13 +76,14 @@ Pacy, engaged right-back with decent defensive discipline; limited attacking thr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 12.3m |
+| Mid | EUR 38.0m |
+| Ceiling | EUR 45.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ Pacy, engaged right-back with decent defensive discipline; limited attacking thr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

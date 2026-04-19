@@ -2,12 +2,12 @@
 title: Akim Zedadka
 category: players
 tags: [WD, Sabah FK, Algeria, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Sabah FK. Archetype: Sprinter.
 person_id: 7983
-backlinks: [sprinter, sabah-fk]
+backlinks: [sprinter, fullback, sabah-fk]
 ---
 
 # Akim Zedadka
@@ -21,18 +21,26 @@ backlinks: [sprinter, sabah-fk]
 | **Nation** | Algeria |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[fullback]] Fullback |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back operating in the Malaysian Super League at an age where most peers are either established starters or fading into the margins. Zedadka has the physical tools — pace, athleticism, a left foot that can find a pass — but he's spent his career in regional football and never made the jump to a competitive European league, which tells you something about the ceiling. He'll be functional at this level: he can recover, he can overlap, he understands the basics of defensive shape. The weakness is reading play in transition; against higher-quality attacking movements, he relies on his pace to rescue him rather than positioning. At 30, any upside is behind him. He's a decent squad option for a mid-table Malaysian club, nothing more.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Fullback`.
+- Best-fit role is [[fullback]] Fullback.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Stamina, Balance, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ A left-back operating in the Malaysian Super League at an age where most peers a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +101,7 @@ A left-back operating in the Malaysian Super League at an age where most peers a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Thibaut Courtois
 category: players
 tags: [GK, Real Madrid, Belgium, GK]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Real Madrid. Archetype: GK.
 person_id: 17901
-backlinks: [gk, real-madrid]
+backlinks: [gk, comandante, real-madrid]
 ---
 
 # Thibaut Courtois
@@ -21,6 +21,8 @@ backlinks: [gk, real-madrid]
 | **Nation** | Belgium |
 | **Age** | 33 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[comandante]] Comandante |
+| **Role Score** | 85 |
 | **Level** | 89 |
 | **Overall** | 82.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [gk, real-madrid]
 
 Thibaut Courtois is a Comandante who relies on his reactions, physicality, and positioning to make crucial saves, but his limitations in distributing the ball and initiating play from the back can be a hindrance. Historically, his role is part of a tradition that values shot-stoppers who prioritize defending the goal. Courtois would be an excellent fit for a team that does not require its goalkeeper to be heavily involved in build-up play, but his lack of creativity may necessitate adjustments in how the team plays out from the back.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Comandante` with model support score `85`.
+- Best-fit role is [[comandante]] Comandante with model support score `85`.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Agility, Footwork, and Handling.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -67,13 +76,14 @@ Thibaut Courtois is a Comandante who relies on his reactions, physicality, and p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.0m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | Medium |
+| Floor | EUR 17.1m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,11 +112,11 @@ Thibaut Courtois is a Comandante who relies on his reactions, physicality, and p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -116,7 +126,6 @@ Thibaut Courtois is a Comandante who relies on his reactions, physicality, and p
 ---
 class: goalkeeper
 ---
-
 
 After a shaky opening at [Real Madrid](https://www.90min.com/teams/real-madrid), Thibaut Courtois has been in exemplary form to convince any remaining doubters of his ability.  
   

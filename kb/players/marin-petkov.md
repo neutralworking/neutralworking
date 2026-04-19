@@ -2,12 +2,12 @@
 title: Marin Petkov
 category: players
 tags: [WF, Levski Sofia, Bulgaria, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Levski Sofia. Archetype: Sprinter-Dribbler.
 person_id: 14528
-backlinks: [sprinter, levski-sofia]
+backlinks: [sprinter, wide-playmaker, levski-sofia]
 ---
 
 # Marin Petkov
@@ -21,18 +21,27 @@ backlinks: [sprinter, levski-sofia]
 | **Nation** | Bulgaria |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 65.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 As a Virtuoso, Petkov's strengths lie in his physical abilities, acceleration, and long-range shots, making him a promising Inventor. However, his limited tactical awareness and creativity may hinder his development. His hot-headed trait also poses a risk, as discipline issues could arise. A team with a strong, structured approach could help him grow, but his weaknesses in duels and discipline need to be addressed. His extraverted personality may help him thrive in a team environment, but his overall development will depend on his ability to balance his strengths and weaknesses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `73`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Jumping, Acceleration, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ As a Virtuoso, Petkov's strengths lie in his physical abilities, acceleration, a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,7 +98,7 @@ As a Virtuoso, Petkov's strengths lie in his physical abilities, acceleration, a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

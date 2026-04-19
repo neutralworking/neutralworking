@@ -2,12 +2,12 @@
 title: Vinícius Júnior
 category: players
 tags: [WF, Real Madrid, Brazil, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Real Madrid. Archetype: Dribbler-Sprinter.
 person_id: 20177
-backlinks: [dribbler, real-madrid]
+backlinks: [dribbler, winger, real-madrid]
 ---
 
 # Vinícius Júnior
@@ -21,6 +21,8 @@ backlinks: [dribbler, real-madrid]
 | **Nation** | Brazil |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 88 |
 | **Level** | 89 |
 | **Overall** | 78.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [dribbler, real-madrid]
 
 Electrifying winger. Dribbling, pace, and big-game mentality are elite. Decision-making has matured enormously — now clinical in front of goal. Ballon d'Or winner. Brazil's talisman. Occasional temperament flashes. Not acquirable at any price.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `88`.
+- Best-fit role is [[winger]] Winger with model support score `88`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Flair, Acceleration, and Balance.
@@ -67,13 +76,14 @@ Electrifying winger. Dribbling, pace, and big-game mentality are elite. Decision
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 150m |
+| Mid | EUR 99.0m |
+| Ceiling | EUR 190m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ Electrifying winger. Dribbling, pace, and big-game mentality are elite. Decision
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

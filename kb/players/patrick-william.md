@@ -2,12 +2,12 @@
 title: Patrick William
 category: players
 tags: [CD, FC Porto, Brazil, Creator-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at FC Porto. Archetype: Creator-Target.
 person_id: 16136
-backlinks: [creator, fc-porto]
+backlinks: [creator, colossus, fc-porto]
 ---
 
 # Patrick William
@@ -21,18 +21,27 @@ backlinks: [creator, fc-porto]
 | **Nation** | Brazil |
 | **Age** | 28 |
 | **Archetype** | [[creator]] Creator-Target |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Patrick William projects primarily as a CD with a `Creator-Target` lean. The strongest database support comes from Jumping, Physical, and Mid Range.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `73`.
+- Best-fit role is [[colossus]] Colossus with model support score `73`.
 - Primary archetype leans toward `Creator` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Physical, and Mid Range.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Patrick William projects primarily as a CD with a `Creator-Target` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +106,6 @@ Patrick William projects primarily as a CD with a `Creator-Target` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

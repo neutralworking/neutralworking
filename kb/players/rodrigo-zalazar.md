@@ -2,12 +2,12 @@
 title: Rodrigo Zalazar
 category: players
 tags: [CM, Braga, Uruguay, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Braga. Archetype: Creator-Passer.
 person_id: 16774
-backlinks: [creator, braga]
+backlinks: [creator, playmaker, braga]
 ---
 
 # Rodrigo Zalazar
@@ -21,18 +21,27 @@ backlinks: [creator, braga]
 | **Nation** | Uruguay |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 83 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely progressive central midfielder who moves the ball forward with purpose and isn't afraid to carry it through pressure; he has genuine range from distance and the technical security to play in tight spaces without dithering. His game intelligence and willingness to take responsibility in possession elevate him above mere competence—he's orchestrating play for Braga rather than simply recycling it. The frustration is his defensive output; he's not lazy, but he's a liability when caught out of shape and lacks the physicality to genuinely shield a backline, which limits how high he can climb and what partners he needs around him.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `83`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `83`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Stamina.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A genuinely progressive central midfielder who moves the ball forward with purpo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 51.0m |
+| Ceiling | EUR 61.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A genuinely progressive central midfielder who moves the ball forward with purpo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

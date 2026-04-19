@@ -2,12 +2,12 @@
 title: Xavi Hernandez
 category: players
 tags: [CM, Spain, Controller-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Controller-Passer.
+summary: CM at —. Archetype: Controller-Passer.
 person_id: 18570
-backlinks: [controller]
+backlinks: [controller, metodista]
 ---
 
 # Xavi Hernandez
@@ -17,22 +17,31 @@ backlinks: [controller]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[controller]] Controller-Passer |
-| **Level** | None |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 93 |
+| **Level** | — |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The metronome of tiki-taka — unrivalled passing accuracy and spatial awareness. Controlled the tempo of every game with short, precise passes and impeccable positioning.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `93`.
+- Best-fit role is [[metodista]] Metodista with model support score `93`.
 - Primary archetype leans toward `Controller` behaviour from a `CM` base.
 - Most bankable strengths show up in Anticipation, Composure, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ The metronome of tiki-taka — unrivalled passing accuracy and spatial awareness
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +95,6 @@ The metronome of tiki-taka — unrivalled passing accuracy and spatial awareness
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

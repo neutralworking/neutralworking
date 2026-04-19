@@ -2,12 +2,12 @@
 title: Kerem Demirbay
 category: players
 tags: [DM, Fortuna Düsseldorf, Germany, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Fortuna Düsseldorf. Archetype: Creator.
 person_id: 13445
-backlinks: [creator, fortuna-dusseldorf]
+backlinks: [creator, segundo-volante, fortuna-dusseldorf]
 ---
 
 # Kerem Demirbay
@@ -21,18 +21,27 @@ backlinks: [creator, fortuna-dusseldorf]
 | **Nation** | Germany |
 | **Age** | 32 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 56 |
 | **Level** | 81 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 At 32, Demirbay remains a functional regista in the Pirlo mould—his long-range and through-ball accuracy, combined with composure under pressure, allow him to dictate tempo and thread attacking transitions from deep. His real limitation is defensive liability; poor positioning in one-on-one duels and weak blocking mean he requires intelligent cover rather than solo anchor duties. For ageing midfield rotations in ambitious sides that can afford a playmaking rather than defensive investment, he offers high availability and pressing intensity, though his disciplinary record and moderate mental resilience suggest risk in chaotic or high-intensity environments.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `56`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `56`.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in First Touch, Pass Range, and Stamina.
@@ -67,13 +76,14 @@ At 32, Demirbay remains a functional regista in the Pirlo mould—his long-range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ At 32, Demirbay remains a functional regista in the Pirlo mould—his long-range
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

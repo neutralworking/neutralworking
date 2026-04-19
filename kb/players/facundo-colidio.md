@@ -2,12 +2,12 @@
 title: Facundo Colidio
 category: players
 tags: [WF, River Plate, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at River Plate. Archetype: Sprinter-Dribbler.
 person_id: 18964
-backlinks: [sprinter, river-plate]
+backlinks: [sprinter, winger, river-plate]
 ---
 
 # Facundo Colidio
@@ -18,21 +18,30 @@ backlinks: [sprinter, river-plate]
 |---|---|
 | **Position** | WF |
 | **Club** | River Plate |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 66 |
 | **Level** | 71 |
 | **Overall** | 56.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A depth forward at a massive club, functional at pressing triggers and making intelligent runs in the box but not a player who'll change a game on his own. He's had limited meaningful minutes at Inter and represents the type of squad filler you need for rotation and European dead-rubber matches. Still developing, still searching for a settled position.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `66`.
+- Best-fit role is [[winger]] Winger with model support score `66`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Jumping, and First Touch.
@@ -63,13 +72,14 @@ A depth forward at a massive club, functional at pressing triggers and making in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 5.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,17 +107,16 @@ A depth forward at a massive club, functional at pressing triggers and making in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryArgentina
 
@@ -123,6 +132,6 @@ Internazionale signed an agreement with Boca Juniors for the striker in Septembe
   
 **October 2019 update** Over the summer Colidio was linked with moves to Newcastle, Leeds and Kilmarnock but after the English transfer window closed he moved instead to Sint-Truiden. He remains highly regarded at Inter and is expected to compete for a first-team place after his season in Belgium.  
   
-**October 2020 update** Played very little in the first half of his debut season on loan at Sint-Truiden in 2019-20, but broke into the side in December and was sufficiently impressive thereafter for the Belgian side to extend the loan into a second campaign. “Since January his numbers are much more than good,” they explained in announcing the news. He now seems established in the first team. “Hopefully he c...
+**October 2020 update** Played very little in the first half of his debut season on loan at Sint-Truiden in 2019-20, but broke into the side in December and was sufficiently impressive thereafter for the Belgian side to extend the loan into a second campaign. “Since January his numbers are much more than good,” they explained in announcing the news. He now seems established in the first team. “Hopefully he ca...
 
 </details>

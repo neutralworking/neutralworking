@@ -2,12 +2,12 @@
 title: Vinicius Souza
 category: players
 tags: [CM, Wolfsburg, Brazil, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Wolfsburg. Archetype: Destroyer-Passer.
 person_id: 18379
-backlinks: [destroyer, wolfsburg]
+backlinks: [destroyer, tuttocampista, wolfsburg]
 ---
 
 # Vinicius Souza
@@ -21,18 +21,27 @@ backlinks: [destroyer, wolfsburg]
 | **Nation** | Brazil |
 | **Age** | 26 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 56 |
 | **Level** | 85 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-RF, quite tall and powerful, decent technique and shot from distance. Loves a long shot! Just sits back and defends but really it's a ploy to take long shots. Seems quite emotional. I would describe him as a [[Lurker]]. Interesting purchase. He got hooked at 58' so either not fit or not defending well enough because they brought on [[Chris Basham]]. 
+RF, quite tall and powerful, decent technique and shot from distance. Loves a long shot! Just sits back and defends but really it's a ploy to take long shots. Seems quite emotional. I would describe him as a Lurker. Interesting purchase. He got hooked at 58' so either not fit or not defending well enough because they brought on [[chris-basham]] Chris Basham.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `56`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `56`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Physical, and Stamina.
@@ -63,13 +72,14 @@ RF, quite tall and powerful, decent technique and shot from distance. Loves a lo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 39.0m |
+| Ceiling | EUR 46.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,17 +105,17 @@ RF, quite tall and powerful, decent technique and shot from distance. Loves a lo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-RF, quite tall and powerful, decent technique and shot from distance. Loves a long shot! Just sits back and defends but really it's a ploy to take long shots. Seems quite emotional. I would describe him as a [[Lurker]]. Interesting purchase. He got hooked at 58' so either not fit or not defending well enough because they brought on [[Chris Basham]]. 
+RF, quite tall and powerful, decent technique and shot from distance. Loves a long shot! Just sits back and defends but really it's a ploy to take long shots. Seems quite emotional. I would describe him as a Lurker. Interesting purchase. He got hooked at 58' so either not fit or not defending well enough because they brought on [[chris-basham]] Chris Basham.
 
 </details>

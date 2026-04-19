@@ -2,12 +2,12 @@
 title: Pep Guardiola
 category: players
 tags: [CM, Spain, Controller-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at None. Archetype: Controller-Passer.
+summary: CM at —. Archetype: Controller-Passer.
 person_id: 16259
-backlinks: [controller]
+backlinks: [controller, regista]
 ---
 
 # Pep Guardiola
@@ -17,13 +17,15 @@ backlinks: [controller]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 55 |
 | **Archetype** | [[controller]] Controller-Passer |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 90 |
 | **Level** | 45 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -34,9 +36,16 @@ Guardiola played as a defensive midfielder and spent the majority of his career 
 
 While playing in Italy, he served a four-month ban for a positive drug test, although he was cleared of wrongdoing twice on appeal in 2009 before the Courts of Justice of the Italian Football Federation and the Federal Anti-Doping Courts of the Italian Olympic Committee (CONI). Guardiola was capped 47 times for Spain, winning the Olympic Gold Medal in 1992, and appeared at the 1994 FIFA World Cup. He also played friendly matches for Catalonia.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `90`.
+- Best-fit role is [[regista]] Regista with model support score `90`.
 - Primary archetype leans toward `Controller` behaviour from a `CM` base.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -51,10 +60,11 @@ While playing in Italy, he served a four-month ban for a positive drug test, alt
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -65,8 +75,8 @@ While playing in Italy, he served a four-month ban for a positive drug test, alt
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,12 +2,12 @@
 title: Stefano Sensi
 category: players
 tags: [CM, Anorthosis Famagusta FC, Italy, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Anorthosis Famagusta FC. Archetype: Creator.
 person_id: 17600
-backlinks: [creator, anorthosis-famagusta-fc]
+backlinks: [creator, playmaker, anorthosis-famagusta-fc]
 ---
 
 # Stefano Sensi
@@ -21,18 +21,26 @@ backlinks: [creator, anorthosis-famagusta-fc]
 | **Nation** | Italy |
 | **Age** | 30 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 77 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A technically gifted midfielder whose career trajectory has been defined by injury misfortune rather than lack of ability. Sensi moves elegantly through congested midfield spaces and has the kind of press resistance that comes from genuine technical security—he'll receive the ball in tight quarters and find the forward pass others would panic on. His range of passing is genuine; he can shift play or thread a vertical ball with economy. The problem, though, is durability and the wear that comes with constant injury layoffs: his positional discipline has become less razor-sharp, and he lacks the leg-drive in transition to consistently win the ball back or cover ground defensively the way a top-six midfielder needs to. At Anorthosis, he's a marquee signing in a mid-tier European league, which speaks to his commercial appeal rather than his current football level. He'll have nights where his technique reminds you why Sassuolo and Inter fancied him, but he's no longer the prospect who could anchor a Serie A midfield.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Creativity, Through Balls, and Vision.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +74,14 @@ A technically gifted midfielder whose career trajectory has been defined by inju
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ A technically gifted midfielder whose career trajectory has been defined by inju
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

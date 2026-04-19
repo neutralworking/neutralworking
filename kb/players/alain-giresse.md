@@ -2,10 +2,10 @@
 title: Alain Giresse
 category: players
 tags: [CM, France]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at None. Archetype: None.
+summary: CM at —. Archetype: —.
 person_id: 7993
 ---
 
@@ -16,13 +16,13 @@ person_id: 7993
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | France |
 | **Age** | 73 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -32,11 +32,18 @@ nation: FRA
 tier: C
 dob: 2/8/1952
 
-- He was [[French Footballer of the Year]] in 1982, 1983 and 1987.
-- Nominally an [[attacking midfielder]] or [[central midfielder]]. 
-- Giresse was an [[intelligent]] [[playmaker]] who possessed fine [[agility]] and [[acceleration]] due to his short frame.
+- He was French Footballer of the Year in 1982, 1983 and 1987.
+- Nominally an attacking midfielder or central midfielder. 
+- Giresse was an intelligent [[playmaker]] who possessed fine agility and acceleration due to his short frame.
 - He was a member of the Euro 84 winning team.
-- Alongside [[dev/main/men/Michel Platini]], [[Luis Fernández]] and [[dev/main/men/Jean Tigana]] formed the legendary [[Carré Magique]] (Magic Square) in midfield.
+- Alongside dev/main/men/Michel Platini, Luis Fernández and dev/main/men/Jean Tigana formed the legendary Carré Magique (Magic Square) in midfield.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -53,10 +60,11 @@ dob: 2/8/1952
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -67,8 +75,8 @@ dob: 2/8/1952
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -84,11 +92,10 @@ nation: FRA
 tier: C
 dob: 2/8/1952
 
-- He was [[French Footballer of the Year]] in 1982, 1983 and 1987.
-- Nominally an [[attacking midfielder]] or [[central midfielder]]. 
-- Giresse was an [[intelligent]] [[playmaker]] who possessed fine [[agility]] and [[acceleration]] due to his short frame.
+- He was French Footballer of the Year in 1982, 1983 and 1987.
+- Nominally an attacking midfielder or central midfielder. 
+- Giresse was an intelligent [[playmaker]] who possessed fine agility and acceleration due to his short frame.
 - He was a member of the Euro 84 winning team.
-- Alongside [[dev/main/men/Michel Platini]], [[Luis Fernández]] and [[dev/main/men/Jean Tigana]] formed the legendary [[Carré Magique]] (Magic Square) in midfield.
-
+- Alongside dev/main/men/Michel Platini, Luis Fernández and dev/main/men/Jean Tigana formed the legendary Carré Magique (Magic Square) in midfield.
 
 </details>

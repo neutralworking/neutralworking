@@ -2,12 +2,12 @@
 title: A. Boiro
 category: players
 tags: [CM, Athletic Bilbao, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Athletic Bilbao. Archetype: Cover.
 person_id: 21363
-backlinks: [cover, athletic-bilbao]
+backlinks: [cover, tuttocampista, athletic-bilbao]
 ---
 
 # A. Boiro
@@ -18,21 +18,30 @@ backlinks: [cover, athletic-bilbao]
 |---|---|
 | **Position** | CM |
 | **Club** | Athletic Bilbao |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Boiro, a Cover archetype fulfilling the Holding Midfielder blueprint as a Tuttocampista, offers strong tactical understanding and physical presence, making him adept at interceptions, awareness, and duel winning with high pass accuracy and composure. An extraverted and empathetic player, his positional discipline and high-press trait make him an excellent build-up contributor. However, his struggles with both close and long-range attacking actions, coupled with limited vision and mental fortitude, clearly define him as a defensive anchor rather than a creative force, needing support for offensive transitions.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `71`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and High Press.
 - Most bankable strengths show up in Interceptions, Pass Accuracy, and Pressing.
@@ -62,13 +71,14 @@ Boiro, a Cover archetype fulfilling the Holding Midfielder blueprint as a Tuttoc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 6.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Boiro, a Cover archetype fulfilling the Holding Midfielder blueprint as a Tuttoc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

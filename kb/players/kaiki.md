@@ -2,12 +2,12 @@
 title: Kaiki
 category: players
 tags: [CD, Cruzeiro, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Cruzeiro. Archetype: Cover.
 person_id: 21841
-backlinks: [cover, cruzeiro]
+backlinks: [cover, stopper, cruzeiro]
 ---
 
 # Kaiki
@@ -18,21 +18,30 @@ backlinks: [cover, cruzeiro]
 |---|---|
 | **Position** | CD |
 | **Club** | Cruzeiro |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Kaiki projects primarily as a CD with a `Cover` lean. The strongest database support comes from Aggression, Creativity, and Pass Accuracy.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `74`.
+- Best-fit role is [[stopper]] Stopper with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Aggression, Creativity, and Pass Accuracy.
@@ -66,13 +75,14 @@ Kaiki projects primarily as a CD with a `Cover` lean. The strongest database sup
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.4m |
+| Mid | EUR 18.0m |
+| Ceiling | EUR 21.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,6 +107,6 @@ Kaiki projects primarily as a CD with a `Cover` lean. The strongest database sup
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

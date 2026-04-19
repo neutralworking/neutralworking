@@ -2,12 +2,12 @@
 title: M. Zanotti
 category: players
 tags: [CM, Lugano, Creator-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lugano. Archetype: Creator-Powerhouse.
 person_id: 23099
-backlinks: [creator, lugano]
+backlinks: [creator, playmaker, lugano]
 ---
 
 # M. Zanotti
@@ -18,21 +18,30 @@ backlinks: [creator, lugano]
 |---|---|
 | **Position** | CM |
 | **Club** | Lugano |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator-Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 61 |
 | **Level** | 80 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 23-year-old warrior archetype with the physical tools—pace, aggression, balance, acceleration—to impose himself in tuttocampista roles, especially when paired with high-press and build-up systems where his energy translates into meaningful work. Mental inconsistency and discipline lapses are the red flags; he can be rushed into unnecessary duels or rash decisions when game state shifts. His upside depends entirely on tactical coaching that channels his intensity into structure; looser, more chaotic midfield environments will expose his concentration gaps.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `61`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `61`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
@@ -63,13 +72,14 @@ A 23-year-old warrior archetype with the physical tools—pace, aggression, bala
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ A 23-year-old warrior archetype with the physical tools—pace, aggression, bala
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Nino Žugelj
 category: players
 tags: [WF, Djurgårdens IF, Slovenia, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Djurgårdens IF. Archetype: Striker-Creator.
 person_id: 15754
-backlinks: [striker, djurgardens-if]
+backlinks: [striker, inverted-winger, djurgardens-if]
 ---
 
 # Nino Žugelj
@@ -21,18 +21,26 @@ backlinks: [striker, djurgardens-if]
 | **Nation** | Slovenia |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Nino Žugelj projects primarily as a WF with a `Striker-Creator` lean. The strongest database support comes from Physical, Tactical, and Technical.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger`.
+- Best-fit role is [[inverted-winger]] Inverted Winger.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Physical, Tactical, and Technical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ Nino Žugelj projects primarily as a WF with a `Striker-Creator` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +95,5 @@ Nino Žugelj projects primarily as a WF with a `Striker-Creator` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

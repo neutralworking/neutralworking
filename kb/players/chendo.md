@@ -2,10 +2,10 @@
 title: Chendo
 category: players
 tags: [WD, Spain]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WD at None. Archetype: None.
+summary: WD at —. Archetype: —.
 person_id: 9525
 ---
 
@@ -16,18 +16,25 @@ person_id: 9525
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Spain |
 | **Age** | 64 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Real Madrid during seventeen professional seasons, winning seven La Liga titles (1986, 1987, 1988, 1989, 1990, 1995 and 1997), two Copa del Rey trophies (1989 and 1993), one UEFA Champions League (1998) and back-to-back UEFA Cups (1985 and 1986). He arrived in Real Madrid at the age of fifteen and was part of its junior ranks for five years, making his official debut for the first team on 11 April 1982 in a 2–1 win at CD Castellón. The following campaign, he would feature in two further league matches. At the beginning of 1983–84, Juan José dominated the right-back position, starting five out of the first six games: injuries then struck him, after which Chendo was given the starting spot. As Juan José returned to the first team Chendo returned to the bench, but finished the season again as first-choice, appearing in 26 contests overall. In his fourth year Chendo became the starter, playing 25 league matches and adding 11 in European competition. At the end of the season, Real Madrid won the UEFA Cup against Hungarian club Videoton FC by a 3–1 aggregate score, though losing the second leg at the Bernabéu 0–1, as well as the Spanish League Cup (4–3 aggregate win over Atlético Madrid), with the player starting both finals; the team finished 11th in the league, 17 points behind champions FC Barcelona. For the next eight seasons Chendo was the undisputed first-choice, starting in 297 games out of a possible 320 and being an integral part of a squad that collected five straight league titles. From 1992 to 1995, however, he would only amass 34 league appearances as only third-choice, losing his place to the likes of Nando, the reconverted Luis Enrique, Paco Llorente or Jesús Velasco; in the following years more of the same befell, as he played second-fiddle to Quique Sánchez Flores, Carlos Secretário and Christian Panucci – although he did play 23 matches in the 1995–96 campaign, as Real stumbled to a final sixth place; he served more as a moral support and bench captain, like Manuel Sanchís later, subbing rarely and starting even more rarely.[1] After Real Madrid lifted its seventh European Cup against Juventus F.C. on 20 May 1998 (he did not play in the decisive match), Chendo retired from professional football, aged almost 37. He immediately started working with the club as a match delegate, occupying that position for well over a decade. Chendo earned 26 caps for the Spanish national football team, and played in the 1986 and 1990 FIFA World Cups. Backing up Atlético Madrid's Tomás in the former and starting in the latter, he totalled five appearances. Chendo's debut came on 22 January 1986 in a friendly match with the Soviet Union, in Las Palmas.
+
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -44,10 +51,11 @@ Real Madrid during seventeen professional seasons, winning seven La Liga titles 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -58,8 +66,8 @@ Real Madrid during seventeen professional seasons, winning seven La Liga titles 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

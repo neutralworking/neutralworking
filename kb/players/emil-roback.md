@@ -2,10 +2,10 @@
 title: Emil Roback
 category: players
 tags: [CF, IFK Norrköping, Sweden]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at IFK Norrköping. Archetype: None.
+summary: CF at IFK Norrköping. Archetype: —.
 person_id: 10626
 backlinks: [ifk-norrkoping]
 ---
@@ -20,14 +20,13 @@ backlinks: [ifk-norrkoping]
 | **Club** | IFK Norrköping |
 | **Nation** | Sweden |
 | **Age** | 22 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 65 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubMilan
 
@@ -43,6 +42,12 @@ Swedish legend Zlatan Ibrahimovic plays for Milan and co-owns Hammarby, so it wa
   
 **October 2023 update** It did not work out for Roback in Denmark and he returned to Milan before joining Swedish side IFK Norrköping on loan for the 2023 season. But has played just a few Allsvenskan minutes at the time of writing and looks likely to be heading back to Italy to consider his options once again.**
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -56,13 +61,14 @@ Swedish legend Zlatan Ibrahimovic plays for Milan and co-owns Hammarby, so it wa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,16 +93,15 @@ Swedish legend Zlatan Ibrahimovic plays for Milan and co-owns Hammarby, so it wa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubMilan
 
@@ -111,6 +116,5 @@ Swedish legend Zlatan Ibrahimovic plays for Milan and co-owns Hammarby, so it wa
 **September 2022 update** After playing for Milan’s primavera side, Roback has this season joined Nordsjælland on loan for the 2022-23 campaign. The Danish club’s sporting director, Jan Laursen, said: “Emil is a really exciting player who we have followed for many years – from Hammarby and on in Milan – so several years of work are the basis for the fact that we have now succeeded in getting him to FC Nordsjælland.”  
   
 **October 2023 update** It did not work out for Roback in Denmark and he returned to Milan before joining Swedish side IFK Norrköping on loan for the 2023 season. But has played just a few Allsvenskan minutes at the time of writing and looks likely to be heading back to Italy to consider his options once again.**
-
 
 </details>

@@ -2,12 +2,12 @@
 title: Fabinho
 category: players
 tags: [CM, Farul Constanța, Brazil, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Farul Constanța. Archetype: Engine-Dribbler.
 person_id: 10874
-backlinks: [engine, farul-constanta]
+backlinks: [engine, playmaker, farul-constanta]
 ---
 
 # Fabinho
@@ -21,18 +21,27 @@ backlinks: [engine, farul-constanta]
 | **Nation** | Brazil |
 | **Age** | 26 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 41 |
 | **Level** | 86 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A ball-progressing midfielder who operates with decent technical security in the half-spaces, capable of hitting the occasional incisive pass through the lines. He's reasonably press-resistant and won't lose you the ball cheaply in midfield, but he lacks the dynamism and positional intelligence required to be a truly controlling presence at the highest level. His athleticism is functional rather than elite, and against genuine top-six competition he can be overrun — he's a solid depth option for a club operating in Brazil's upper tier, nothing more.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `41`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `41`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in Penalties, Stamina, and Marking.
@@ -67,13 +76,14 @@ A ball-progressing midfielder who operates with decent technical security in the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 12.3m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ A ball-progressing midfielder who operates with decent technical security in the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Lisandro Martínez
 category: players
 tags: [CD, Manchester United, Argentina, Target-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Manchester United. Archetype: Target-Passer.
 person_id: 20184
-backlinks: [target, manchester-united]
+backlinks: [target, distributor, manchester-united]
 ---
 
 # Lisandro Martínez
@@ -21,6 +21,8 @@ backlinks: [target, manchester-united]
 | **Nation** | Argentina |
 | **Age** | 28 |
 | **Archetype** | [[target]] Target-Passer |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 76.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +32,16 @@ backlinks: [target, manchester-united]
 
 Lisandro Martínez projects primarily as a CD with a `Target-Passer` lean. The strongest database support comes from Composure, Jumping, and Marking.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `79`.
+- Best-fit role is [[distributor]] Distributor with model support score `79`.
 - Primary archetype leans toward `Target` behaviour from a `CD` base.
 - Most bankable strengths show up in Composure, Jumping, and Marking.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Lisandro Martínez projects primarily as a CD with a `Target-Passer` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 12.0m |
+| Mid | EUR 22.0m |
+| Ceiling | EUR 35.0m |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Tier-based fallback from current level and market tier.
+- Discount factors: No direct fee or market-value anchor was available for this player.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,6 +108,6 @@ Lisandro Martínez projects primarily as a CD with a `Target-Passer` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

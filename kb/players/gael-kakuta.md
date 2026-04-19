@@ -1,13 +1,12 @@
 ---
 title: Gaël Kakuta
 category: players
-tags: [WF, DR Congo, Creator]
-updated: 2026-04-18
+tags: [CM, DR Congo]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: WF at None. Archetype: Creator.
-person_id: 2508
-backlinks: [creator]
+confidence: low
+summary: CM at —. Archetype: —.
+person_id: 28477
 ---
 
 # Gaël Kakuta
@@ -16,87 +15,56 @@ backlinks: [creator]
 
 | Field | Value |
 |---|---|
-| **Position** | WF |
-| **Club** | None |
+| **Position** | CM |
+| **Club** | — |
 | **Nation** | DR Congo |
 | **Age** | 34 |
-| **Archetype** | [[creator]] Creator |
-| **Level** | 74 |
-| **Overall** | 70.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Gaël Kakuta projects primarily as a WF with a `Creator` lean. The strongest database support comes from First Touch, Pace, and Skills.
+Gaël Kakuta is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
-- Primary archetype leans toward `Creator` behaviour from a `WF` base.
-- Most bankable strengths show up in First Touch, Pace, and Skills.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on First Touch, Pace, and Skills.
-- Style traits point toward Pace in possession.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Availability and Durability.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Pace | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Skills | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Take Ons | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Long Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Mid Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 38
-- **Motivation (SN)**: 57
-- **Social (TF)**: 75
-- **Pressure (JP)**: 36
-- **Competitiveness**: 2/10
-- **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Availability** (physical) — severity 10/10
-- **Pace** (style) — severity 4/10
-- **Durability** (physical) — severity 1/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

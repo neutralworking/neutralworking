@@ -2,12 +2,12 @@
 title: Castello Lukeba
 category: players
 tags: [CD, RB Leipzig, France, Destroyer-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at RB Leipzig. Archetype: Destroyer-Dribbler.
 person_id: 9441
-backlinks: [destroyer, rb-leipzig]
+backlinks: [destroyer, sweeper, rb-leipzig]
 ---
 
 # Castello Lukeba
@@ -21,18 +21,27 @@ backlinks: [destroyer, rb-leipzig]
 | **Nation** | France |
 | **Age** | 23 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 69 |
 | **Level** | 87 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Ball-playing centre-back with excellent composure on the ball and progressive passing range; physical limitations and occasional positional lapses prevent higher rating, but he's a genuine top-tier talent trajectory.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `69`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `69`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Jumping, Reactions, and Pass Range.
@@ -67,13 +76,14 @@ Ball-playing centre-back with excellent composure on the ball and progressive pa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 42.8m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -106,7 +116,7 @@ Ball-playing centre-back with excellent composure on the ball and progressive pa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Mohamed Salah
 category: players
 tags: [WF, Liverpool, Egypt, Dribbler-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Liverpool. Archetype: Dribbler-Engine.
 person_id: 15298
-backlinks: [dribbler, liverpool]
+backlinks: [dribbler, wide-playmaker, liverpool]
 ---
 
 # Mohamed Salah
@@ -21,6 +21,8 @@ backlinks: [dribbler, liverpool]
 | **Nation** | Egypt |
 | **Age** | 33 |
 | **Archetype** | [[dribbler]] Dribbler-Engine |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 78 |
 | **Level** | 87 |
 | **Overall** | 76.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [dribbler, liverpool]
 
 Even at 33, still operating at Ballon d'Or contention level, with a relentless goal-scoring and chance-creation output that remains unmatched in the Premier League. Salah's dribbling efficiency has declined marginally, and he occasionally plays too narrow for Liverpool's tactical shape, but his ability to manipulate space and manufacture opportunities in the box is genuinely elite. Age is finally catching up, but he remains one of the world's best forwards.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `78`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Reactions, Balance, and Movement.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Even at 33, still operating at Ballon d'Or contention level, with a relentless g
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 19.0m |
+| Ceiling | EUR 37.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,11 +107,11 @@ Even at 33, still operating at Ballon d'Or contention level, with a relentless g
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

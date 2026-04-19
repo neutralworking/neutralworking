@@ -2,12 +2,12 @@
 title: Gastón Ávila
 category: players
 tags: [CD, Ajax Amsterdam, Argentina, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Ajax Amsterdam. Archetype: Powerhouse-Cover.
 person_id: 11281
-backlinks: [powerhouse, ajax-amsterdam]
+backlinks: [powerhouse, sweeper, ajax-amsterdam]
 ---
 
 # Gastón Ávila
@@ -21,18 +21,27 @@ backlinks: [powerhouse, ajax-amsterdam]
 | **Nation** | Argentina |
 | **Age** | 24 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Aerially dominant centre-back with genuine pace to play a high line and the reading to snuff danger early. He's left-footed, which gives Ajax some build-up flexibility, and he'll step into midfield to break lines. Where he wobbles is in one-on-one situations when an attacker gets a yard of space—he can be a touch too eager, leaving him exposed.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `71`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Long Range, Jumping, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Aerially dominant centre-back with genuine pace to play a high line and the read
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ Aerially dominant centre-back with genuine pace to play a high line and the read
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Lamine Yamal
 category: players
 tags: [WF, Barcelona, Spain, Dribbler-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Barcelona. Archetype: Dribbler-Creator.
 person_id: 13705
-backlinks: [dribbler, barcelona]
+backlinks: [dribbler, wide-playmaker, barcelona]
 ---
 
 # Lamine Yamal
@@ -21,6 +21,8 @@ backlinks: [dribbler, barcelona]
 | **Nation** | Spain |
 | **Age** | 18 |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 96 |
 | **Level** | 91 |
 | **Overall** | 78.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [dribbler, barcelona]
 
 Generational talent. Already a Euro 2024 best young player at 16. Electric dribbler with elite vision for his age. Left foot is devastating from the right channel. First touch, close control, and decision-making all way beyond his years. Benchmark for Dribbler-Creator archetype. Not acquirable — Barcelona cornerstone.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `96`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `96`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Creativity, Flair, and Threat.
@@ -67,13 +76,14 @@ Generational talent. Already a Euro 2024 best young player at 16. Electric dribb
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 190m |
+| Mid | EUR 268m |
+| Ceiling | EUR 370m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,11 +117,11 @@ Generational talent. Already a Euro 2024 best young player at 16. Electric dribb
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 14 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 14 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -132,6 +142,5 @@ Positioning
 Strategy
 
 #11, #creator, #esp, #football
-
 
 </details>

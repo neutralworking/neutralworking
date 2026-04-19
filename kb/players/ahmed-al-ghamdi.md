@@ -1,97 +1,81 @@
 ---
-title: Ahmed Al Ghamdi
+title: Ahmed Al-Ghamdi
 category: players
-tags: [WF, Al-Ittihad, Sprinter-Dribbler]
-updated: 2026-04-17
+tags: [GK, Al Wehda, Saudi Arabia, GK]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: WF at Al-Ittihad. Archetype: Sprinter-Dribbler.
-person_id: 24182
-backlinks: [sprinter, al-ittihad]
+confidence: low
+summary: GK at Al Wehda. Archetype: GK.
+person_id: 7929
+backlinks: [gk, al-wehda]
 ---
 
-# Ahmed Al Ghamdi
+# Ahmed Al-Ghamdi
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | WF |
-| **Club** | Al-Ittihad |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Position** | GK |
+| **Club** | Al Wehda |
+| **Nation** | Saudi Arabia |
+| **Age** | 31 |
+| **Archetype** | [[gk]] GK |
 | **Level** | 75 |
-| **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Ahmed Al Ghamdi projects primarily as a WF with a `Sprinter-Dribbler` lean. The strongest database support comes from Balance, First Touch, and Jumping.
+Midfielder with a tidy touch and reasonable work rate, though he drifts in and out of games and rarely dictates tempo or orchestrates play with any authority. Pressed aggressively, he can be bullied off the ball due to limited physical presence. Appears more comfortable as a secondary option than a starting pivot in a side with aspirations.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `69`.
-- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
-- Most bankable strengths show up in Balance, First Touch, and Jumping.
-- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on Balance, First Touch, and Jumping.
-- Style traits point toward Two Footed, Finishing, and Pace in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Shielding | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Physical | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Stamina | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Movement | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 40
-- **Motivation (SN)**: 55
-- **Social (TF)**: 82
-- **Pressure (JP)**: 42
-- **Competitiveness**: 4/10
-- **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Finishing** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 56
+- **Social (TF)**: 55
+- **Pressure (JP)**: 56
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

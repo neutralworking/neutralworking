@@ -2,12 +2,12 @@
 title: Isak Hien
 category: players
 tags: [CD, Atalanta, Sweden, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Atalanta. Archetype: Cover-Dribbler.
 person_id: 12024
-backlinks: [cover, atalanta]
+backlinks: [cover, stopper, atalanta]
 ---
 
 # Isak Hien
@@ -21,18 +21,27 @@ backlinks: [cover, atalanta]
 | **Nation** | Sweden |
 | **Age** | 27 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 82 |
 | **Level** | 87 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-back who has become genuinely valuable to Atalanta through his ball-playing ability and calm under pressure. Hien's left foot is a weapon, and he's progressive in his carrying and passing — he's one of the few defenders in Serie A genuinely comfortable on the ball in dangerous situations. Defensively, he's adequate rather than exceptional; he relies on positioning and intelligence rather than explosive athleticism, which means he can be caught out by truly explosive forwards.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `82`.
+- Best-fit role is [[stopper]] Stopper with model support score `82`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Physical, Jumping, and Pace.
@@ -67,13 +76,14 @@ A centre-back who has become genuinely valuable to Atalanta through his ball-pla
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 55.0m |
+| Ceiling | EUR 66.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A centre-back who has become genuinely valuable to Atalanta through his ball-pla
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

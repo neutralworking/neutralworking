@@ -2,12 +2,12 @@
 title: Mathieu Choinière
 category: players
 tags: [CM, LAFC, Canada, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at LAFC. Archetype: Dribbler.
 person_id: 14758
-backlinks: [dribbler, lafc]
+backlinks: [dribbler, ball-winner, lafc]
 ---
 
 # Mathieu Choinière
@@ -21,18 +21,27 @@ backlinks: [dribbler, lafc]
 | **Nation** | Canada |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Mathieu Choinière is a Tuttocampista who excels in a deep-lying playmaker role, using his stamina and pass accuracy to control the tempo of the game, although his limited guile and defensive contribution can make him a liability in certain situations, and his weaknesses in duels and blocking restrict his overall impact, making him a better fit for a team that values possession and uses a patient, build-up style, where his strengths can be maximized, and his weaknesses mitigated, with a coach who can work on his tactical awareness and defensive discipline, and his extraverted personality making him a strong leader on the pitch, although his moderate physicality and technical ability may require careful management to maintain his performance levels at his peak.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `78`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `78`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Stamina, Balance, and Acceleration.
@@ -63,13 +72,14 @@ Mathieu Choinière is a Tuttocampista who excels in a deep-lying playmaker role,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 37.0m |
+| Ceiling | EUR 44.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Mathieu Choinière is a Tuttocampista who excels in a deep-lying playmaker role,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

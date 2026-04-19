@@ -2,10 +2,10 @@
 title: Rory Finneran
 category: players
 tags: [CM, Blackburn Rovers, Ireland]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Blackburn Rovers. Archetype: None.
+summary: CM at Blackburn Rovers. Archetype: —.
 person_id: 16849
 backlinks: [blackburn-rovers]
 ---
@@ -20,15 +20,22 @@ backlinks: [blackburn-rovers]
 | **Club** | Blackburn Rovers |
 | **Nation** | Ireland |
 | **Age** | 18 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 56 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Irish teenager showing promise with decent technical foundation and spatial awareness for his age, though he lacks the physicality and consistency to influence senior football yet. Early-stage development and likely several years away from regular involvement at this level.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ Irish teenager showing promise with decent technical foundation and spatial awar
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ Irish teenager showing promise with decent technical foundation and spatial awar
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

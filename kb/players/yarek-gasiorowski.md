@@ -2,12 +2,12 @@
 title: Yarek Gąsiorowski
 category: players
 tags: [CD, PSV, Spain, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at PSV. Archetype: Cover-Passer.
 person_id: 18616
-backlinks: [cover, psv]
+backlinks: [cover, sweeper, psv]
 ---
 
 # Yarek Gąsiorowski
@@ -21,18 +21,27 @@ backlinks: [cover, psv]
 | **Nation** | Spain |
 | **Age** | 21 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A technically strong, tactically limited ball-playing centre-back whose discipline and blocking ability exceed his vision for penetrative passing; at 21, his central positioning and press resistance sketch an interesting sweeper profile, though limited physical tools and moderate mental resilience suggest he thrives in structured, lower-intensity possession phases. His through-ball and long-range weaknesses rule out playmaking roles—he functions as a safe, interceptive passer rather than a creative fulcrum. Clubs seeking defensive stability over progression should monitor his development, but his current profile suits cup-tied squad depth rather than starter ambitions.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `81`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Aerial Duels, Blocking, and Discipline.
@@ -66,13 +75,14 @@ A technically strong, tactically limited ball-playing centre-back whose discipli
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 15.2m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ A technically strong, tactically limited ball-playing centre-back whose discipli
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

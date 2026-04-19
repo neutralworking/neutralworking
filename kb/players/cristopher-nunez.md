@@ -2,12 +2,12 @@
 title: Cristopher Núñez
 category: players
 tags: [CM, Nacional Asunción, Costa Rica]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Nacional Asunción. Archetype: None.
+summary: CM at Nacional Asunción. Archetype: —.
 person_id: 28361
-backlinks: [nacional-asuncion]
+backlinks: [tuttocampista, nacional-asuncion]
 ---
 
 # Cristopher Núñez
@@ -20,19 +20,28 @@ backlinks: [nacional-asuncion]
 | **Club** | Nacional Asunción |
 | **Nation** | Costa Rica |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 13 |
+| **Level** | — |
 | **Overall** | 13.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Cristopher Núñez projects primarily as a CM with a `None` lean. The strongest database support comes from Blocking, Communication, and Concentration.
+Cristopher Núñez projects primarily as a CM with a `—` lean. The strongest database support comes from Blocking, Communication, and Concentration.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `13`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `13`.
 - Most bankable strengths show up in Blocking, Communication, and Concentration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -61,13 +70,14 @@ Cristopher Núñez projects primarily as a CM with a `None` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.4m |
+| Mid | EUR 0.5m |
+| Ceiling | EUR 0.6m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Cristopher Núñez projects primarily as a CM with a `None` lean. The strongest 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

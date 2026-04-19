@@ -2,12 +2,12 @@
 title: Colby Donovan
 category: players
 tags: [CM, Celtic, Creator-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Celtic. Archetype: Creator-Destroyer.
 person_id: 25718
-backlinks: [creator, celtic]
+backlinks: [creator, playmaker, celtic]
 ---
 
 # Colby Donovan
@@ -18,21 +18,30 @@ backlinks: [creator, celtic]
 |---|---|
 | **Position** | CM |
 | **Club** | Celtic |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 19 |
 | **Archetype** | [[creator]] Creator-Destroyer |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A teenage architect at Celtic with genuine vision and dueling prowess unusual for his age, though his technical ceiling is constrained by limited long-range capability and a discipline problem that mirrors his hot-headed trait. The introverted profile suggests he processes rather than dominates, making him better suited as a complementary tuttocampista than a vocal leader; his tackling awareness indicates defensive competence, but raw athleticism cannot yet compensate for his physical limitations. High-ceiling prospect for clubs willing to develop him in a protected role, but immediate squad impact should not be expected.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Duels, Pressing, and Tackling.
@@ -62,13 +71,14 @@ A teenage architect at Celtic with genuine vision and dueling prowess unusual fo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.9m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ A teenage architect at Celtic with genuine vision and dueling prowess unusual fo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

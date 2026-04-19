@@ -2,12 +2,12 @@
 title: Victor Mow Froholdt
 category: players
 tags: [WM, FC Porto, Cover-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at FC Porto. Archetype: Cover-Sprinter.
 person_id: 20348
-backlinks: [cover, fc-porto]
+backlinks: [cover, false-winger, fc-porto]
 ---
 
 # Victor Mow Froholdt
@@ -18,21 +18,30 @@ backlinks: [cover, fc-porto]
 |---|---|
 | **Position** | WM |
 | **Club** | FC Porto |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 20 |
 | **Archetype** | [[cover]] Cover-Sprinter |
+| **Best Role** | [[false-winger]] False Winger |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Froholdt operates as a Winger and Wide Playmaker, an Architect who leverages exceptional pace, acceleration, and balance for effective shielding and accurate passing, supported by strong technical and physical foundations. His moderate tactical and mental pillars expose weaknesses in duels, blocking, and a general lack of guile, suggesting he relies more on athleticism than intricate playmaking. At 20, his high potential makes him an attractive prospect for clubs willing to develop his tactical intelligence and defensive engagement beyond his current reliance on speed and precision.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `False Winger` with model support score `81`.
+- Best-fit role is [[false-winger]] False Winger with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Pace, and Balance.
 
@@ -57,13 +66,14 @@ Froholdt operates as a Winger and Wide Playmaker, an Architect who leverages exc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 65.5m |
+| Mid | EUR 77.0m |
+| Ceiling | EUR 92.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -82,6 +92,6 @@ Froholdt operates as a Winger and Wide Playmaker, an Architect who leverages exc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

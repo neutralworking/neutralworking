@@ -2,12 +2,12 @@
 title: Fabio Quagliarella
 category: players
 tags: [CF, Sampdoria, Italy, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Sampdoria. Archetype: Striker.
 person_id: 10887
-backlinks: [striker, sampdoria]
+backlinks: [striker, falso-nove, sampdoria]
 ---
 
 # Fabio Quagliarella
@@ -21,18 +21,26 @@ backlinks: [striker, sampdoria]
 | **Nation** | Italy |
 | **Age** | 43 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 44 |
 | **Overall** | 43.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker			ITA	B	0.0	Quagliarella is primarily known for his accurate and powerful striking ability from distance, as well as his ability in the air, and his penchant for scoring spectacular goals.[27] He is capable of playing anywhere along the front line, and has previously been deployed as a winger, a second striker, and even as an attacking midfielder, due to his reliable technique and his tendency to provide assists for team-mates earlier on in his career		He represented Italy from under-18 to under-21 youth levels before his debut for the senior national team in 2007. He was part of the UEFA Euro 2008 and 2010 FIFA World Cup squads. He wears the number 27 in honour of Niccolò Galli, a former friend and youth academy teammate of his who used to wear this number; Galli died in a road accident in 2001.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +70,14 @@ CF		Striker			ITA	B	0.0	Quagliarella is primarily known for his accurate and pow
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,11 +102,11 @@ CF		Striker			ITA	B	0.0	Quagliarella is primarily known for his accurate and pow
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

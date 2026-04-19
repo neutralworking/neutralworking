@@ -2,12 +2,12 @@
 title: İrfan Kahveci
 category: players
 tags: [CM, Fenerbahçe, Turkey, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Fenerbahçe. Archetype: Creator-Passer.
 person_id: 11997
-backlinks: [creator, fenerbahce]
+backlinks: [creator, metodista, fenerbahce]
 ---
 
 # İrfan Kahveci
@@ -21,18 +21,27 @@ backlinks: [creator, fenerbahce]
 | **Nation** | Turkey |
 | **Age** | 30 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 89 |
 | **Level** | 88 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Kahveci effectively functions as a Metodista, demonstrating strong technical abilities in delivering precise through-balls, accurate mid-range passes, and proficient take-ons, all underpinned by a strong mental pillar. However, a surprising weakness in his overall technical execution, coupled with significant limitations in tactical understanding and blocking, highlights areas where his game lacks defensive consistency. As a rising talent at Fenerbahçe, his market value is appreciating for clubs needing a creative central midfielder who can unlock defenses, provided they have a robust defensive framework to compensate for his weaknesses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `89`.
+- Best-fit role is [[metodista]] Metodista with model support score `89`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Anticipation, Composure, and Decisions.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +72,14 @@ Kahveci effectively functions as a Metodista, demonstrating strong technical abi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Kahveci effectively functions as a Metodista, demonstrating strong technical abi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

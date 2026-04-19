@@ -2,12 +2,12 @@
 title: Callum McGregor
 category: players
 tags: [CM, Celtic, Scotland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Celtic. Archetype: Powerhouse.
 person_id: 9306
-backlinks: [powerhouse, celtic]
+backlinks: [powerhouse, playmaker, celtic]
 ---
 
 # Callum McGregor
@@ -21,18 +21,27 @@ backlinks: [powerhouse, celtic]
 | **Nation** | Scotland |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 57 |
 | **Level** | 82 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Callum McGregor, a 32-year-old Connector, operates as a highly effective Metodista, orchestrating play from deep with strong tactical and mental pillars, exhibiting exceptional stamina, composure, and press-resistant pass accuracy. While a flamboyant build-up contributor with great balance and shielding, his limited physical pillar results in struggles with aerial duels and a general lack of guile, coupled with disciplinary concerns. As a "newcomer," a Director of Football would target him as an immediate, experienced leader for a possession-dominant side, valuing his footballing intelligence and tempo control, while acknowledging his physical limitations and age suggest a short-term, high-impact signing.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `57`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `57`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Balance, First Touch, and Reactions.
@@ -67,13 +76,14 @@ Callum McGregor, a 32-year-old Connector, operates as a highly effective Metodis
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,7 +115,7 @@ Callum McGregor, a 32-year-old Connector, operates as a highly effective Metodis
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

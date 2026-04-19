@@ -2,12 +2,12 @@
 title: Emmanuel Adebayor
 category: players
 tags: [CF, Togo, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker.
+summary: CF at —. Archetype: Striker.
 person_id: 2138
-backlinks: [striker]
+backlinks: [striker, target-forward]
 ---
 
 # Emmanuel Adebayor
@@ -17,22 +17,30 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Togo |
 | **Age** | 42 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 44 |
 | **Overall** | 44.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker	Power Forward	Arsenal	TOG	C	0.0	A towering striker, "Adebayor is described as being ""tall", skilful, "strong in the air and with the ability to score and create."""	Mercenary	He previously played for English clubs Arsenal, Manchester City and Tottenham Hotspur, as well as Metz, Monaco and Real Madrid. He was voted African Footballer of the Year for 2008. Adebayor represented the Togo national team at the 2006 FIFA World Cup in Germany, the country's début, and to date only, appearance at the World Cup. In January 2010, Adebayor was one of the players involved when the Togo team's bus came under gunfire on the way to the 2010 Africa Cup of Nations in Angola, after which he retired from national team duty. In 2013 he returned to the Togo team for the 2013 African Cup of Nations in South Africa, where he helped them to qualify for the quarterfinals. He is currently Togo's all-time top goalscorer with 31 goals.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward`.
+- Best-fit role is [[target-forward]] Target Forward.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in First Touch, Skills, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ CF		Striker	Power Forward	Arsenal	TOG	C	0.0	A towering striker, "Adebayor is des
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.2m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,11 +99,11 @@ CF		Striker	Power Forward	Arsenal	TOG	C	0.0	A towering striker, "Adebayor is des
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -106,6 +115,5 @@ CF		Striker	Power Forward	Arsenal	TOG	C	0.0	A towering striker, "Adebayor is des
 ---
 
 CF		Striker	Power Forward	Arsenal	TOG	C	0.0	A towering striker, "Adebayor is described as being ""tall", skilful, "strong in the air and with the ability to score and create."""	Mercenary	He previously played for English clubs Arsenal, Manchester City and Tottenham Hotspur, as well as Metz, Monaco and Real Madrid. He was voted African Footballer of the Year for 2008. Adebayor represented the Togo national team at the 2006 FIFA World Cup in Germany, the country's début, and to date only, appearance at the World Cup. In January 2010, Adebayor was one of the players involved when the Togo team's bus came under gunfire on the way to the 2010 Africa Cup of Nations in Angola, after which he retired from national team duty. In 2013 he returned to the Togo team for the 2013 African Cup of Nations in South Africa, where he helped them to qualify for the quarterfinals. He is currently Togo's all-time top goalscorer with 31 goals.
-
 
 </details>

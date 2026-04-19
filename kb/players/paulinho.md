@@ -1,13 +1,13 @@
 ---
 title: Paulinho
 category: players
-tags: [CF, FC Midtjylland, Portugal, Sprinter]
-updated: 2026-04-17
+tags: [CM, Brazil]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at FC Midtjylland. Archetype: Sprinter.
-person_id: 16189
-backlinks: [sprinter, fc-midtjylland]
+summary: CM at —. Archetype: —.
+person_id: 5813
+backlinks: [ball-winner]
 ---
 
 # Paulinho
@@ -16,18 +16,18 @@ backlinks: [sprinter, fc-midtjylland]
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | FC Midtjylland |
-| **Nation** | Portugal |
-| **Age** | None |
-| **Archetype** | [[sprinter]] Sprinter |
-| **Level** | 76 |
-| **Overall** | 64.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | CM |
+| **Club** | — |
+| **Nation** | Brazil |
+| **Age** | 25 |
+| **Archetype** | — |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Level** | 87 |
+| **Overall** | 76.0 |
+| **Pursuit** | — |
+| **Market Value Tier** | 4 |
 
 ## Snapshot
-
 
 CountryBrazil
 
@@ -49,89 +49,69 @@ No one could imagine how fast Paulinho’s development would be. After an amazin
   
 **September 2022 update** Had his best season since arriving in Germany, making 31 appearances in all competitions and scoring four goals, but is currently out of the team after a move away this summer broke down. Is out of contract next summer.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `71`.
-- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Counter Attack Threat.
-- Most bankable strengths show up in Balance, Stamina, and Jumping.
+- Best-fit role is [[ball-winner]] Ball Winner.
+- Most bankable strengths show up in Physical, Drive, and Anticipation.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
 ## In Possession
 
-- Ball-value indicators lean on Balance, Stamina, and Jumping.
-- Style traits point toward Direct, Pace, and Acceleration in possession.
+- Ball-value indicators lean on Physical, Drive, and Anticipation.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Counter Attack Threat.
-
-## Athletic Profile
-
-- Physical indicators currently centre on Aerial Threat.
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Scouting Indicators
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
-| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Aerial Duels | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Awareness | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Physical | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Drive | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Anticipation | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Stamina | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tempo | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Composure | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 51.9m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Output may be more transition-dependent than possession-dominant environments want.
-
-## Personality
-
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 37
-- **Social (TF)**: 61
-- **Pressure (JP)**: 30
-- **Competitiveness**: 6/10
-- **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Aerial Threat** (physical) — severity 10/10
-- **Counter Attack Threat** (tactical) — severity 10/10
-- **Direct** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-- **Acceleration** (style) — severity 4/10
-- **Trickery** (style) — severity 4/10
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 15 graded indicators available. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 CountryBrazil
 
@@ -151,6 +131,6 @@ No one could imagine how fast Paulinho’s development would be. After an amazin
   
 **October 2021 update** It was a long road but he seems to have recovered fully from the cruciate injury suffered in 2020. Played well at the Olympics, where Brazil won gold and has started the Bundesliga season with one goal and four appearances at the time of writing.  
   
-**September 2022 update** Had his best season since arriving in Germany, making 31 appearances in all competitions and scoring four goals, but is currently out of the team after a move away this summer broke down....
+**September 2022 update** Had his best season since arriving in Germany, making 31 appearances in all competitions and scoring four goals, but is currently out of the team after a move away this summer broke down. ...
 
 </details>

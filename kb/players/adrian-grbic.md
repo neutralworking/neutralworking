@@ -2,12 +2,12 @@
 title: Adrian Grbić
 category: players
 tags: [CF, FC Luzern, Austria, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at FC Luzern. Archetype: Striker-Target.
 person_id: 7890
-backlinks: [striker, fc-luzern]
+backlinks: [striker, shadow-striker, fc-luzern]
 ---
 
 # Adrian Grbić
@@ -21,18 +21,27 @@ backlinks: [striker, fc-luzern]
 | **Nation** | Austria |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, direct centre-forward who thrives on the shoulder of defenders and in transitional moments, offering genuine presence in the box and a willingness to operate as a focal point for a counter-attacking system. His movement is intuitive rather than intricate—he reads space laterally and arrives at the near post with useful timing—but he's a limited technical footballer who struggles to drop deep meaningfully or link play in tight areas. At 29 and operating in the Swiss Super League after earlier spells in lower European tiers, he's a functional starter for a mid-table club, effective at what he does but lacking the all-around craft to suggest a step up; his aerial dominance masks a real poverty of touch under pressure.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `80`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Physical, Jumping, and Heading.
@@ -63,13 +72,14 @@ A physical, direct centre-forward who thrives on the shoulder of defenders and i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ A physical, direct centre-forward who thrives on the shoulder of defenders and i
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

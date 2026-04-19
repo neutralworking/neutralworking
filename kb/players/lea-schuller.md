@@ -2,12 +2,12 @@
 title: Lea Schüller
 category: players
 tags: [CF, Germany, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Powerhouse-Cover.
+summary: CF at —. Archetype: Powerhouse-Cover.
 person_id: 13770
-backlinks: [powerhouse]
+backlinks: [powerhouse, spearhead]
 ---
 
 # Lea Schüller
@@ -17,22 +17,30 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Germany |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[spearhead]] Spearhead |
 | **Level** | 85 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lea Schüller projects primarily as a CF with a `Powerhouse-Cover` lean. The strongest database support comes from Aggression, Stamina, and Awareness.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Aggression, Stamina, and Awareness.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ Lea Schüller projects primarily as a CF with a `Powerhouse-Cover` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 45.0m |
+| Mid | EUR 53.0m |
+| Ceiling | EUR 63.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -89,6 +98,6 @@ Lea Schüller projects primarily as a CF with a `Powerhouse-Cover` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

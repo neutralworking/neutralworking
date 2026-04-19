@@ -2,12 +2,12 @@
 title: M. Lowe
 category: players
 tags: [CM, Sheffield Wednesday, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Sheffield Wednesday. Archetype: Destroyer.
 person_id: 20796
-backlinks: [destroyer, sheffield-wednesday]
+backlinks: [destroyer, tuttocampista, sheffield-wednesday]
 ---
 
 # M. Lowe
@@ -18,21 +18,30 @@ backlinks: [destroyer, sheffield-wednesday]
 |---|---|
 | **Position** | CM |
 | **Club** | Sheffield Wednesday |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 M. Lowe is a classic Terrier archetype, best deployed as a Tuttocampista, excelling in defensive actions like blocking and interceptions with strong technical ability and good vision. His moderate physical attributes and awareness allow him to cover ground effectively, fitting a historical lineage of combative, industrious central midfielders. However, his limited mental pillar and absence of guile in offensive phases, coupled with poor close and long-range shooting, limit his impact as a true two-way threat. A club seeking a disciplined, possession-recycling presence rather than a creative fulcrum would find value, understanding the risk associated with his mental limitations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `71`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Interceptions, Awareness, and Blocking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ M. Lowe is a classic Terrier archetype, best deployed as a Tuttocampista, excell
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +98,6 @@ M. Lowe is a classic Terrier archetype, best deployed as a Tuttocampista, excell
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Altin Zeqiri
 category: players
 tags: [WM, Rizespor, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Rizespor. Archetype: Striker-Target.
 person_id: 8301
-backlinks: [striker, rizespor]
+backlinks: [striker, wide-playmaker, rizespor]
 ---
 
 # Altin Zeqiri
@@ -18,21 +18,30 @@ backlinks: [striker, rizespor]
 |---|---|
 | **Position** | WM |
 | **Club** | Rizespor |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 25 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Altin Zeqiri projects primarily as a WM with a `Striker-Target` lean. The strongest database support comes from Acceleration, Volleys, and Balance.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `73`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Volleys, and Balance.
 
@@ -58,13 +67,14 @@ Altin Zeqiri projects primarily as a WM with a `Striker-Target` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,6 +101,6 @@ Altin Zeqiri projects primarily as a WM with a `Striker-Target` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

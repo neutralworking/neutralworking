@@ -1,13 +1,13 @@
 ---
 title: Sokratis Papastathopoulos
 category: players
-tags: [CD, Real Betis, Greece]
-updated: 2026-04-18
+tags: [CD, Greece, Destroyer]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Real Betis. Archetype: None.
-person_id: 6786
-backlinks: [real-betis]
+summary: CD at —. Archetype: Destroyer.
+person_id: 17508
+backlinks: [destroyer, colossus]
 ---
 
 # Sokratis Papastathopoulos
@@ -17,28 +17,38 @@ backlinks: [real-betis]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | Real Betis |
+| **Club** | — |
 | **Nation** | Greece |
 | **Age** | 37 |
-| **Archetype** | [[—]] None |
-| **Level** | 68 |
-| **Overall** | 64.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Level** | 78 |
+| **Overall** | 75.0 |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-Sokratis Papastathopoulos projects primarily as a CD with a `None` lean. The strongest database support comes from Awareness, Intensity, and Tactical.
+Sokratis Papastathopoulos projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper`.
-- Most bankable strengths show up in Awareness, Intensity, and Tactical.
+- Best-fit role is [[colossus]] Colossus.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Most bankable strengths show up in Interceptions, Marking, and Tackling.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## In Possession
 
-- Ball-value indicators lean on Awareness, Intensity, and Tactical.
+- Ball-value indicators lean on Interceptions, Marking, and Tackling.
+- Style traits point toward Aerial Threat in possession.
 
 ## Out of Possession
 
@@ -48,14 +58,14 @@ Sokratis Papastathopoulos projects primarily as a CD with a `None` lean. The str
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Intensity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Carries | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
-| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Creativity | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
-| Through Balls | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Interceptions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Tackling | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Vision | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
 
 ## Valuation Range
 
@@ -64,18 +74,34 @@ Sokratis Papastathopoulos projects primarily as a CD with a `None` lean. The str
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
+## Personality
+
+- **Game Reading (EI)**: 63
+- **Motivation (SN)**: 45
+- **Social (TF)**: 30
+- **Pressure (JP)**: 71
+- **Competitiveness**: 8/10
+- **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Threat** (style) — severity 7/10
+
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Kerem Aktürkoğlu
 category: players
 tags: [WF, Benfica, Turkey, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Benfica. Archetype: Sprinter-Creator.
 person_id: 13443
-backlinks: [sprinter, benfica]
+backlinks: [sprinter, wide-playmaker, benfica]
 ---
 
 # Kerem Aktürkoğlu
@@ -21,18 +21,27 @@ backlinks: [sprinter, benfica]
 | **Nation** | Turkey |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 68 |
 | **Level** | 87 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Kerem Aktürkoğlu, a dynamic Sprinter-Creator, thrives as a Direct Winger or Extremo, boasting fantastic acceleration, pace, and balance to terrorise full-backs. His excellent stamina and shielding allow him to maintain high intensity and hold possession in wide areas. Despite his attacking prowess, his shockingly low discipline is a significant concern, constantly risking bookings or tactical fouls that undermine his overall contribution to team success.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `68`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `68`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Kerem Aktürkoğlu, a dynamic Sprinter-Creator, thrives as a Direct Winger or Ex
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 62.0m |
+| Ceiling | EUR 74.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +105,7 @@ Kerem Aktürkoğlu, a dynamic Sprinter-Creator, thrives as a Direct Winger or Ex
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

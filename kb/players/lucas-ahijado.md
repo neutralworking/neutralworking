@@ -2,12 +2,12 @@
 title: Lucas Ahijado
 category: players
 tags: [DM, Real Oviedo, Spain, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Real Oviedo. Archetype: Powerhouse-Destroyer.
 person_id: 21099
-backlinks: [powerhouse, real-oviedo]
+backlinks: [powerhouse, anchor, real-oviedo]
 ---
 
 # Lucas Ahijado
@@ -21,18 +21,27 @@ backlinks: [powerhouse, real-oviedo]
 | **Nation** | Spain |
 | **Age** | 31 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 76 |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ahijado at 31 is a fortress in deceleration rather than initiation: his pace, stamina, and balance make him a tireless defensive presence, though his tactical gaps and limited guile mean he cannot problem-solve when formation structure breaks. His right-sided positioning and shielding strength suit teams defending narrow, compact spaces where his strength matters more than reading angles. The discipline issues and high-press trait suggest a player best deployed in structured, ball-recovery systems where aggression is channeled predictably; his value as a veteran rotational piece for lower-league or struggling mid-tier clubs remains real, but his tactical ceiling prevents elevation to genuinely demanding environments.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `76`.
+- Best-fit role is [[anchor]] Anchor with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pace, Acceleration, and Balance.
@@ -63,13 +72,14 @@ Ahijado at 31 is a fortress in deceleration rather than initiation: his pace, st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Ahijado at 31 is a fortress in deceleration rather than initiation: his pace, st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

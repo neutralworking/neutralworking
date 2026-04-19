@@ -7,158 +7,40 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --dim: #555;
-  --mid: #888;
-  --accent: #00ff88;
-  --accent-dim: #00ff8822;
-  --rule: #ffffff15;
-  --grid: #ffffff06;
-}
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
 html { font-size: 15px; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'JetBrains Mono', monospace;
-  min-height: 100vh;
-  line-height: 1.65;
-  -webkit-font-smoothing: antialiased;
-}
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--grid) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none;
-  z-index: 0;
-}
-.wrap {
-  position: relative;
-  z-index: 1;
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 4rem 2rem 6rem;
-}
-header.topnav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  align-items: center;
-  margin-bottom: 3rem;
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--dim);
-}
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 {
-  font-size: 2rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 1.5rem;
-  color: #fff;
-}
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 {
-  font-size: 1.1rem;
-  font-weight: 500;
-  margin: 2.5rem 0 0.75rem;
-  color: #fff;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-}
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 {
-  font-size: 0.95rem;
-  font-weight: 500;
-  margin: 1.75rem 0 0.5rem;
-  color: #fff;
-}
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color .2s ease;
-}
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote {
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  border-left: 2px solid var(--accent);
-  color: var(--mid);
-  font-size: 0.82rem;
-  font-style: italic;
-}
-article code {
-  font-family: inherit;
-  background: #ffffff0a;
-  padding: 0.1rem 0.35rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--rule);
-}
-article pre {
-  background: #ffffff05;
-  border: 1px solid var(--rule);
-  padding: 1rem;
-  overflow-x: auto;
-  margin: 1rem 0;
-  font-size: 0.75rem;
-}
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
 article pre code { background: none; border: none; padding: 0; }
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.78rem;
-}
-article th, article td {
-  padding: 0.55rem 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid var(--rule);
-}
-article th {
-  color: var(--mid);
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  background: #ffffff04;
-}
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link {
-  display: inline-block;
-  margin-top: 3rem;
-  font-size: 0.7rem;
-  color: var(--dim);
-  text-decoration: none;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.25rem;
-  transition: color .2s ease, border-color .2s ease;
-}
+.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken {
-  color: var(--dim);
-  border-bottom: 1px dashed #333;
-}
-@media (max-width: 560px) {
-  .wrap { padding: 2.5rem 1.25rem 4rem; }
-  article h1 { font-size: 1.5rem; }
-}
+.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
 </style>
 </head>
 <body>
@@ -174,9 +56,23 @@ article strong { color: #fff; font-weight: 500; }
 </header>
 <article>
 <h1 id="ol">OL</h1>
-<p><strong>League</strong>: None<br />
-<strong>Nation</strong>: None<br />
-<strong>Players in DB</strong>: 109</p>
+<p><strong>League</strong>: —<br />
+<strong>Nation</strong>: —<br />
+<strong>Players in DB</strong>: 132</p>
+<h2 id="identity">Identity</h2>
+<ul>
+<li>Database coverage is deepest in CM (42), WM (10), and GK (9), which shapes the visible squad picture.</li>
+<li>The tracked archetype mix leans toward Creator (29), Destroyer (26), and Striker (16) across the current squad.</li>
+<li>Average available overall grade sits at 59.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.</li>
+</ul>
+<h2 id="canon-context">Canon Context</h2>
+<ul>
+<li><a href="../concepts/build-up.html">build-up</a> Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.</li>
+<li><a href="../concepts/rest-defense.html">rest-defense</a> Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.</li>
+<li><a href="../concepts/half-space.html">half-space</a> Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.</li>
+<li><a href="../concepts/occupation-of-five-lanes.html">occupation-of-five-lanes</a> Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.</li>
+<li><a href="../concepts/gegenpressing.html">gegenpressing</a> Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.</li>
+</ul>
 <h2 id="squad">Squad</h2>
 <table>
 <thead>
@@ -207,12 +103,6 @@ article strong { color: #fff; font-weight: 500; }
 <td>67.0</td>
 </tr>
 <tr>
-<td><a href="../players/mateo-silvetti.html">mateo-silvetti</a> Mateo Silvetti</td>
-<td>AM</td>
-<td>Creator</td>
-<td>62.0</td>
-</tr>
-<tr>
 <td><a href="../players/a-montero.html">a-montero</a> A. Montero</td>
 <td>CD</td>
 <td>Destroyer</td>
@@ -231,12 +121,6 @@ article strong { color: #fff; font-weight: 500; }
 <td>35.0</td>
 </tr>
 <tr>
-<td><a href="../players/a-arroyo.html">a-arroyo</a> A. Arroyo</td>
-<td>CF</td>
-<td>Creator-Striker</td>
-<td>61.0</td>
-</tr>
-<tr>
 <td><a href="../players/d-sturm.html">d-sturm</a> D. Šturm</td>
 <td>CF</td>
 <td>Striker-Creator</td>
@@ -247,12 +131,6 @@ article strong { color: #fff; font-weight: 500; }
 <td>CF</td>
 <td>Creator-Striker</td>
 <td>60.0</td>
-</tr>
-<tr>
-<td><a href="../players/j-fuentes.html">j-fuentes</a> J. Fuentes</td>
-<td>CF</td>
-<td>Cover-Striker</td>
-<td>20.0</td>
 </tr>
 <tr>
 <td><a href="../players/j-kliment.html">j-kliment</a> J. Kliment</td>
@@ -525,58 +403,58 @@ article strong { color: #fff; font-weight: 500; }
 <td>25.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">alex-muralha</span> Alex Muralha</td>
+<td><a href="../players/alex-muralha.html">alex-muralha</a> Alex Muralha</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">c-fiermarin</span> C. Fiermarín</td>
+<td><a href="../players/c-fiermarin.html">c-fiermarin</a> C. Fiermarín</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">f-mosquera</span> F. Mosquera</td>
+<td><a href="../players/f-mosquera.html">f-mosquera</a> F. Mosquera</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">jan-koutny</span> Jan Koutný</td>
+<td><a href="../players/jan-koutny.html">jan-koutny</a> Jan Koutný</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">k-tzolakis</span> K. Tzolakis</td>
+<td><a href="../players/k-tzolakis.html">k-tzolakis</a> K. Tzolakis</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">m-siampanis</span> M. Siampanis</td>
+<td><a href="../players/m-siampanis.html">m-siampanis</a> M. Siampanis</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">mohamed-yasser</span> Mohamed Yasser</td>
+<td><a href="../players/mohamed-yasser.html">mohamed-yasser</a> Mohamed Yasser</td>
 <td>GK</td>
 <td>Sprinter-Dribbler</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">neto-volpi</span> Neto Volpi</td>
+<td><a href="../players/neto-volpi.html">neto-volpi</a> Neto Volpi</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">w-cuesta</span> W. Cuesta</td>
+<td><a href="../players/w-cuesta.html">w-cuesta</a> W. Cuesta</td>
 <td>GK</td>
 <td>GK</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
 <td><a href="../players/a-tabares.html">a-tabares</a> A. Tabares</td>
@@ -699,148 +577,304 @@ article strong { color: #fff; font-weight: 500; }
 <td>70.0</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">a-dolznikov</span> A. Dolžnikov</td>
-<td>None</td>
+<td>A. Dolžnikov</td>
+<td>—</td>
 <td>Striker-Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">a-rusek</span> A. Růsek</td>
-<td>None</td>
+<td>A. Růsek</td>
+<td>—</td>
 <td>Creator-Powerhouse</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">antonio-zarzana</span> Antonio Zarzana</td>
-<td>None</td>
+<td>Amethyst Bradley Ralani</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Antonio Zarzana</td>
+<td>—</td>
 <td>Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">b-larregui</span> B. Larregui</td>
-<td>None</td>
+<td>Atisang Israel Batsi</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ayanda Lukhele</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>B. Larregui</td>
+<td>—</td>
 <td>Creator-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">emilio-aristizabal-chavarriaga</span> Emilio Aristizábal Chavarriaga</td>
-<td>None</td>
+<td>Christian Martín Flores Córdova</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Cristhian Andrés Tizón Correa</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Emiliano Agustín Villar Vidal</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Emilio Aristizábal Chavarriaga</td>
+<td>—</td>
 <td>Striker-Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">fabricio-daniel</span> Fabrício Daniel</td>
-<td>None</td>
+<td>Fabrício Daniel</td>
+<td>—</td>
 <td>Cover-Powerhouse</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">g-chiaverano</span> G. Chiaverano</td>
-<td>None</td>
+<td>Fabrizio Fernando Roca Reyes</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>G. Chiaverano</td>
+<td>—</td>
 <td>Striker-Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">g-migas</span> G. Migas</td>
-<td>None</td>
+<td>G. Migas</td>
+<td>—</td>
 <td>Creator-Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">i-mendez</span> I. Méndez</td>
-<td>None</td>
+<td>Given Thibedi</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Gustavo Ezequiel Machado Ferrando</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Gustavo Romario Aliaga Romero</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>I. Méndez</td>
+<td>—</td>
 <td>Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">iury-castilho</span> Iury Castilho</td>
-<td>None</td>
+<td>Iury Castilho</td>
+<td>—</td>
 <td>Striker-Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-jezierski</span> J. Jezierski</td>
-<td>None</td>
+<td>Iván Diego Santillán Atoche</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>J. Jezierski</td>
+<td>—</td>
 <td>Creator-Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-mattar</span> J. Mattar</td>
-<td>None</td>
+<td>J. Mattar</td>
+<td>—</td>
 <td>Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">j-navratil</span> J. Navrátil</td>
-<td>None</td>
+<td>J. Navrátil</td>
+<td>—</td>
 <td>Creator-Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">l-miranda</span> L. Miranda</td>
-<td>None</td>
+<td>Jack Kevin Durán Abán</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Jorge Jair Toledo Bravo</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Katlego Mkhabela</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>L. Miranda</td>
+<td>—</td>
 <td>Striker-Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">luiz-otavio</span> Luiz Otávio</td>
-<td>None</td>
+<td>Lebogang Lesako</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Luiz Otávio</td>
+<td>—</td>
 <td>Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">m-hadas</span> M. Hadaš</td>
-<td>None</td>
+<td>M. Hadaš</td>
+<td>—</td>
 <td>Creator</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">m-mikulenka</span> M. Mikulenka</td>
-<td>None</td>
+<td>M. Mikulenka</td>
+<td>—</td>
 <td>Creator-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">m-tijani</span> M. Tijani</td>
-<td>None</td>
+<td>M. Tijani</td>
+<td>—</td>
 <td>Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">matheus-bianqui</span> Matheus Bianqui</td>
-<td>None</td>
+<td>Matheus Bianqui</td>
+<td>—</td>
 <td>Striker-Destroyer</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">n-makni</span> N. Makni</td>
-<td>None</td>
+<td>Mauricio Affonso Prieto</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Monnapule Kenneth Saleng</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>N. Makni</td>
+<td>—</td>
 <td>Creator-Striker</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">renato-marques</span> Renato Marques</td>
-<td>None</td>
+<td>Nahuel Jeremy Rodríguez Meneses</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Olaoleng Mokgosi</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ramahlwe Mphahlele</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Realeboga Junior Potsana</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Renato Marques</td>
+<td>—</td>
 <td>Creator-Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">s-langer</span> Š. Langer</td>
-<td>None</td>
+<td>Renzo José Ignacio Alfani</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Š. Langer</td>
+<td>—</td>
 <td>Striker-Cover</td>
-<td>None</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">t-kostadinov</span> T. Kostadinov</td>
-<td>None</td>
-<td>Destroyer-Creator</td>
-<td>None</td>
+<td>Sekhoane Benedict Moerane</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 <tr>
-<td><span class="wikilink-broken">t-tsokanis</span> T. Tsokanis</td>
-<td>None</td>
+<td>T. Kostadinov</td>
+<td>—</td>
 <td>Destroyer-Creator</td>
-<td>None</td>
+<td>—</td>
+</tr>
+<tr>
+<td>T. Tsokanis</td>
+<td>—</td>
+<td>Destroyer-Creator</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Thuso Edgar Moleleki</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Tiago Cantoro Armentano</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Tshepo Brian Matsemela</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>

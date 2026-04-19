@@ -2,12 +2,12 @@
 title: Otto Rosengren
 category: players
 tags: [WM, Malmö FF, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Malmö FF. Archetype: Powerhouse.
 person_id: 16017
-backlinks: [powerhouse, malmo-ff]
+backlinks: [powerhouse, wide-playmaker, malmo-ff]
 ---
 
 # Otto Rosengren
@@ -18,21 +18,30 @@ backlinks: [powerhouse, malmo-ff]
 |---|---|
 | **Position** | WM |
 | **Club** | Malmö FF |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Otto Rosengren is an Artisan with a strong tactical foundation, making him a promising Tornante, but his technical limitations and tendency to lose duels can hinder his progress. His high_press trait and aggression make him a tenacious presence on the wing, capable of making shielding runs and using his acceleration to beat opponents. However, his lack of discipline and composure can lead to reckless decisions, making him a better fit for a team that values his energy and work rate.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Stamina, Balance, and Shielding.
@@ -63,13 +72,14 @@ Otto Rosengren is an Artisan with a strong tactical foundation, making him a pro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 28.0m |
+| Ceiling | EUR 33.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Otto Rosengren is an Artisan with a strong tactical foundation, making him a pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

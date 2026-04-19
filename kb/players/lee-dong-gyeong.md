@@ -1,103 +1,70 @@
 ---
-title: Lee Dong-Gyeong
+title: Lee Dong-gyeong
 category: players
-tags: [CF, Gimcheon Sangmu FC, Creator-Striker]
-updated: 2026-04-18
+tags: [CM, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CF at Gimcheon Sangmu FC. Archetype: Creator-Striker.
-person_id: 21859
-backlinks: [creator, gimcheon-sangmu-fc]
+confidence: low
+summary: CM at —. Archetype: —.
+person_id: 27968
 ---
 
-# Lee Dong-Gyeong
+# Lee Dong-gyeong
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | Gimcheon Sangmu FC |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[creator]] Creator-Striker |
-| **Level** | 75 |
-| **Overall** | 62.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | CM |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 28 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Lee Dong-Gyeong projects primarily as a CF with a `Creator-Striker` lean. The strongest database support comes from Through Balls, Carries, and Crossing.
+Lee Dong-gyeong is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `69`.
-- Primary archetype leans toward `Creator` behaviour from a `CF` base.
-- Tactical fit is strongest when the game asks for Set Piece Specialist.
-- Most bankable strengths show up in Through Balls, Carries, and Crossing.
-
-## In Possession
-
-- Ball-value indicators lean on Through Balls, Carries, and Crossing.
-- Style traits point toward Flamboyant and Direct in possession.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Set Piece Specialist.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Crossing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Threat | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Tactical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
-| Discipline | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-- Output may be more transition-dependent than possession-dominant environments want.
-
-## Personality
-
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 42
-- **Social (TF)**: 56
-- **Pressure (JP)**: 38
-- **Competitiveness**: 2/10
-- **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Flamboyant** (style) — severity 9/10
-- **Direct** (style) — severity 7/10
-- **Set Piece Specialist** (tactical) — severity 7/10
-- **Big Game Player** (behavioral) — severity 4/10
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

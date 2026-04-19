@@ -2,12 +2,12 @@
 title: Williot Swedberg
 category: players
 tags: [CF, Celta Vigo, Sweden, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Celta Vigo. Archetype: Striker-Creator.
 person_id: 18539
-backlinks: [striker, celta-vigo]
+backlinks: [striker, prima-punta, celta-vigo]
 ---
 
 # Williot Swedberg
@@ -21,18 +21,27 @@ backlinks: [striker, celta-vigo]
 | **Nation** | Sweden |
 | **Age** | 22 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[prima-punta]] Prima Punta |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young Swedish striker still learning the demands of La Liga football, with decent physical attributes and reasonable movement in the box. Shows willingness to work defensively and understands spatial awareness for his age. Needs meaningful minutes in a lower league to develop the finishing instinct and tactical maturity required for consistent senior competition at this level.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Prima Punta` with model support score `78`.
+- Best-fit role is [[prima-punta]] Prima Punta with model support score `78`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Balance, Acceleration, and Stamina.
@@ -67,13 +76,14 @@ Young Swedish striker still learning the demands of La Liga football, with decen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 35.0m |
+| Ceiling | EUR 42.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,29 +110,22 @@ Young Swedish striker still learning the demands of La Liga football, with decen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 ClubHammarby
 
 PositionMidfielder
 
 Born1 February 2004
-
-
-
-
-
-
 
 ********
 
@@ -131,6 +134,5 @@ Williot Swedberg sure has pedigree. His father, Hans Eskilsson, was an attacker 
 **September 2022 update** “Maybe I didn’t quite believe that it was going to be a war,” Swedberg said after his transfer to Lokomotiv Moscow collapsed in the spring. “But I don’t feel sorry for myself, I feel sorry for the people involved in the war.” A few months later he joined Celta Vigo in La Liga after seven goals in 29 top-flight games for Hammarby.  
   
 **October 2023 update** After a season lacking in opportunities and a summer full of rumours of a possible departure, Swedberg started the season more embeded in the first-team set-up than ever. Has been in all of Celta's matchday squads so far and scored an 87th minute winner against Almeria on matchday four after coming on as a substitute. Has also made his debut for the Sweden Under-21 side.**
-
 
 </details>

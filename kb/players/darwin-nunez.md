@@ -2,12 +2,12 @@
 title: Darwin Nunez
 category: players
 tags: [CF, Liverpool, Uruguay, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Liverpool. Archetype: Striker-Creator.
 person_id: 10049
-backlinks: [striker, liverpool]
+backlinks: [striker, shadow-striker, liverpool]
 ---
 
 # Darwin Nunez
@@ -21,18 +21,27 @@ backlinks: [striker, liverpool]
 | **Nation** | Uruguay |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 53 |
 | **Level** | 86 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Chaotic, electric striker. Devastating pace and movement, finishing wildly inconsistent. On his day, unplayable. On others, infuriating.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `53`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `53`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and Pace.
@@ -67,13 +76,14 @@ Chaotic, electric striker. Devastating pace and movement, finishing wildly incon
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 66.0m |
+| Ceiling | EUR 79.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -105,21 +115,18 @@ Chaotic, electric striker. Devastating pace and movement, finishing wildly incon
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
- Powerful talent, he’s a confidence player but he’s unstoppable when he’s on
+Powerful talent, he’s a confidence player but he’s unstoppable when he’s on
 ![](https://static.independent.co.uk/2022/06/14/19/SEI109763660.jpg)
-
-
-
 
 </details>

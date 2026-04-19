@@ -2,12 +2,12 @@
 title: Andrei Burcă
 category: players
 tags: [CD, Al-Okhdood, Romania, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Al-Okhdood. Archetype: Destroyer.
 person_id: 8470
-backlinks: [destroyer, al-okhdood]
+backlinks: [destroyer, sweeper, al-okhdood]
 ---
 
 # Andrei Burcă
@@ -21,18 +21,27 @@ backlinks: [destroyer, al-okhdood]
 | **Nation** | Romania |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Andrei Burcă projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Discipline, Blocking, and Composure.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `79`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `79`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Discipline, Blocking, and Composure.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -62,13 +71,14 @@ Andrei Burcă projects primarily as a CD with a `Destroyer` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -90,5 +100,5 @@ Andrei Burcă projects primarily as a CD with a `Destroyer` lean. The strongest 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 22 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

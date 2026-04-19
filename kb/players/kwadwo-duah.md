@@ -2,12 +2,12 @@
 title: Kwadwo Duah
 category: players
 tags: [CF, Ludogorets, Switzerland, Cover-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Ludogorets. Archetype: Cover-Sprinter.
 person_id: 13658
-backlinks: [cover, ludogorets]
+backlinks: [cover, shadow-striker, ludogorets]
 ---
 
 # Kwadwo Duah
@@ -21,18 +21,27 @@ backlinks: [cover, ludogorets]
 | **Nation** | Switzerland |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover-Sprinter |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Duah operates as a Poacher, combining solid physicality, acceleration, and jumping to make him a threat in the box and in transition. While he covers ground well, his extremely low creativity and poor discipline mean he rarely contributes to build-up play and can be a hothead at critical moments. Don't expect any fancy flicks or killer passes, just goals (hopefully).
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `81`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `81`.
 - Primary archetype leans toward `Cover` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Jumping, and Physical.
@@ -63,13 +72,14 @@ Duah operates as a Poacher, combining solid physicality, acceleration, and jumpi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 48.4m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Duah operates as a Poacher, combining solid physicality, acceleration, and jumpi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: O. Okeke
 category: players
 tags: [WF, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Creator.
+summary: WF at —. Archetype: Creator.
 person_id: 26014
-backlinks: [creator]
+backlinks: [creator, inverted-winger]
 ---
 
 # O. Okeke
@@ -17,22 +17,31 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
+| **Club** | — |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 O. Okeke projects primarily as a WF with a `Creator` lean. The strongest database support comes from Close Range, Aggression, and Flair.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `69`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Close Range, Aggression, and Flair.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ O. Okeke projects primarily as a WF with a `Creator` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,5 +96,5 @@ O. Okeke projects primarily as a WF with a `Creator` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,10 +2,10 @@
 title: Ouleymata Sarr
 category: players
 tags: [CF, Bordeaux, France]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CF at Bordeaux. Archetype: None.
+summary: CF at Bordeaux. Archetype: —.
 person_id: 16019
 backlinks: [bordeaux]
 ---
@@ -20,15 +20,22 @@ backlinks: [bordeaux]
 | **Club** | Bordeaux |
 | **Nation** | France |
 | **Age** | 30 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 82 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A veteran centre-forward whose best days are unmistakably behind him; at 30, Sarr still understands positioning and has a decent first touch, but he's lost the explosiveness that made him dangerous and his pace has become a genuine liability in transition. He can function as a squad option in Ligue 1, but asking him to carry a relegated team's attack is asking too much.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -38,13 +45,14 @@ A veteran centre-forward whose best days are unmistakably behind him; at 30, Sar
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -64,5 +72,5 @@ A veteran centre-forward whose best days are unmistakably behind him; at 30, Sar
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

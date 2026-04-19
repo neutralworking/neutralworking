@@ -2,12 +2,12 @@
 title: Viktor Johansson
 category: players
 tags: [GK, Stoke City, Sweden, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at Stoke City. Archetype: Powerhouse.
 person_id: 18359
-backlinks: [powerhouse, stoke-city]
+backlinks: [powerhouse, distributor, stoke-city]
 ---
 
 # Viktor Johansson
@@ -21,18 +21,26 @@ backlinks: [powerhouse, stoke-city]
 | **Nation** | Sweden |
 | **Age** | 27 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 79 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A composed, distributing goalkeeper with genuine shot-stopping credentials and the reflexes to bail out a leaky defence—he's made himself useful in the Allsvenskan with smart positioning and clean-sheet contributions. The concern, though, is whether his composure under pressure translates beyond the Swedish top flight; he can look vulnerable to the aerial bombardment typical of higher-level football, and his footwork under pressing isn't fluid enough to suggest he'd be comfortable in a possession-dominant system. At 27, he's at an age where he should be arriving at a competitive European second tier or consolidating a role in a top-flight side, but nothing about his profile screams future stardom.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Powerhouse` behaviour from a `GK` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -63,13 +71,14 @@ A composed, distributing goalkeeper with genuine shot-stopping credentials and t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 10.2m |
+| Mid | EUR 12.0m |
+| Ceiling | EUR 14.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ A composed, distributing goalkeeper with genuine shot-stopping credentials and t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

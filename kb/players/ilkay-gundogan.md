@@ -2,12 +2,12 @@
 title: İlkay Gündoğan
 category: players
 tags: [CM, Galatasaray, Germany, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Galatasaray. Archetype: Cover.
 person_id: 11962
-backlinks: [cover, galatasaray]
+backlinks: [cover, playmaker, galatasaray]
 ---
 
 # İlkay Gündoğan
@@ -21,18 +21,27 @@ backlinks: [cover, galatasaray]
 | **Nation** | Germany |
 | **Age** | 35 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 74 |
 | **Level** | 83 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Ilkay Gündogan's classification didn't have to be discussed for a second, the suggestion of world class was immediately appreciated by everyone. Anything else would be difficult to justify when the German national player not only wins the treble (championship, FA Cup and Champions League) as captain of Manchester City, but also plays a crucial role in this star ensemble on the way there. Not only does his nine goals and five assists in those three competitions speak for him - including both goals in the 2-1 FA Cup final victory over city rivals Manchester United - but also how he led the way as the team's leader. Because he was always ready to play, almost always had a good idea with the ball at his feet, but also without it, if he created space for himself or his colleagues through running paths. Because he fulfilled the complicated role of the (mostly left) eight at City, which should initially be wide, but then sprayed goal danger in the box, excellently. Hence his classification in attacking midfield. And because he - which is objectively visible - makes the players around him better.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `74`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Progressive Carrier.
 - Most bankable strengths show up in First Touch, Movement, and Pass Range.
@@ -67,13 +76,14 @@ Ilkay Gündogan's classification didn't have to be discussed for a second, the s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.7m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -107,7 +117,7 @@ Ilkay Gündogan's classification didn't have to be discussed for a second, the s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

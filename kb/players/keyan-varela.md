@@ -2,12 +2,12 @@
 title: Keyan Varela
 category: players
 tags: [CF, Servette, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Servette. Archetype: Striker.
 person_id: 26869
-backlinks: [striker, servette]
+backlinks: [striker, spearhead, servette]
 ---
 
 # Keyan Varela
@@ -18,21 +18,29 @@ backlinks: [striker, servette]
 |---|---|
 | **Position** | CF |
 | **Club** | Servette |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker |
-| **Level** | None |
+| **Best Role** | [[spearhead]] Spearhead |
+| **Level** | — |
 | **Overall** | 31.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Keyan Varela is a poacher who excels at taking on opponents and scoring from mid and long range, but his physical limitations and lack of creativity hinder his overall impact. As a striker, he is best utilized in a system that allows him to make runs behind the defense, where his discipline and finishing ability can be maximized. However, his limited technical and tactical abilities restrict his involvement in build-up play, making him a somewhat one-dimensional player. A club looking for a clinical finisher to lead the line could benefit from his services, but may need to adapt their system to accommodate his strengths.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Spearhead`.
+- Best-fit role is [[spearhead]] Spearhead.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Concentration, Skills, and Drive.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ Keyan Varela is a poacher who excels at taking on opponents and scoring from mid
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +94,6 @@ Keyan Varela is a poacher who excels at taking on opponents and scoring from mid
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 11 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 11 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

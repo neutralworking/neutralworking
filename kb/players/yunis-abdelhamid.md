@@ -2,12 +2,12 @@
 title: Yunis Abdelhamid
 category: players
 tags: [CD, FAR Rabat, Morocco, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at FAR Rabat. Archetype: Destroyer.
 person_id: 18698
-backlinks: [destroyer, far-rabat]
+backlinks: [destroyer, distributor, far-rabat]
 ---
 
 # Yunis Abdelhamid
@@ -21,18 +21,26 @@ backlinks: [destroyer, far-rabat]
 | **Nation** | Morocco |
 | **Age** | 38 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[distributor]] Distributor |
 | **Level** | 70 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran Moroccan centre-back operating in the twilight of his career at FAR Rabat, still capable of reading the game and organizing a defensive line through experience and positioning rather than athleticism. His distribution from the back remains composed—he can find a pass into midfield and won't panic under pressure. At 38, however, he's lost the recovery pace that once defined him, making him vulnerable to direct runners and inverted forward play; modern pressing will expose him, and he's no longer the dominant presence in the air he once was. In a Botola 1 Pro context where the pace of play is manageable, he's a serviceable depth option or squad leader for a mid-table side, but he's not a starter at any competitive level anymore.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor`.
+- Best-fit role is [[distributor]] Distributor.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Aggression, and Composure.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +75,14 @@ A veteran Moroccan centre-back operating in the twilight of his career at FAR Ra
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.3m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +110,7 @@ A veteran Moroccan centre-back operating in the twilight of his career at FAR Ra
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

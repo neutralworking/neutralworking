@@ -2,12 +2,12 @@
 title: Filip Đuričić
 category: players
 tags: [WF, Panathinaikos, Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Panathinaikos. Archetype: Dribbler.
 person_id: 2340
-backlinks: [dribbler, panathinaikos]
+backlinks: [dribbler, wide-target-forward, panathinaikos]
 ---
 
 # Filip Đuričić
@@ -18,21 +18,30 @@ backlinks: [dribbler, panathinaikos]
 |---|---|
 | **Position** | WF |
 | **Club** | Panathinaikos |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 34 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[wide-target-forward]] Wide Target Forward |
+| **Role Score** | 67 |
 | **Level** | 73 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Filip Đuričić projects primarily as a WF with a `Dribbler` lean. The strongest database support comes from Balance, Pass Range, and Shielding.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Target Forward` with model support score `67`.
+- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `67`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Balance, Pass Range, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -66,10 +75,11 @@ Filip Đuričić projects primarily as a WF with a `Dribbler` lean. The stronges
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,6 +109,6 @@ Filip Đuričić projects primarily as a WF with a `Dribbler` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

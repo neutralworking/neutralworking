@@ -2,12 +2,12 @@
 title: M. Diambou
 category: players
 tags: [CM, Red Bull Salzburg, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Red Bull Salzburg. Archetype: Powerhouse-Destroyer.
 person_id: 26342
-backlinks: [powerhouse, red-bull-salzburg]
+backlinks: [powerhouse, tuttocampista, red-bull-salzburg]
 ---
 
 # M. Diambou
@@ -18,21 +18,30 @@ backlinks: [powerhouse, red-bull-salzburg]
 |---|---|
 | **Position** | CM |
 | **Club** | Red Bull Salzburg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 78 |
 | **Level** | 83 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 M. Diambou, at 23, is a robust central midfielder with strong technical, mental, and physical pillars, demonstrating excellent balance, shielding, aggression, acceleration, and stamina, making him a potent high-presser and build-up contributor. While formidable in these aspects, his tactical pillar is limited, resulting in inconsistent mental fortitude, poor volleying, and a distinct lack of creativity from deep. He embodies the modern, athletic box-to-box midfielder suited for high-energy, vertical systems that prioritize intensity over intricate tactical execution. A Director of Football would value his extraverted competitiveness and core strengths, but must plan for his mental inconsistencies and limited tactical and creative range.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `78`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `78`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
@@ -62,13 +71,14 @@ M. Diambou, at 23, is a robust central midfielder with strong technical, mental,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 30.6m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ M. Diambou, at 23, is a robust central midfielder with strong technical, mental,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

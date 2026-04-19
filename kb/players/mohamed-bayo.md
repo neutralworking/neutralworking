@@ -2,12 +2,12 @@
 title: Mohamed Bayo
 category: players
 tags: [CF, Gaziantep, Guinea, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Gaziantep. Archetype: Striker-Cover.
 person_id: 15284
-backlinks: [striker, gaziantep]
+backlinks: [striker, shadow-striker, gaziantep]
 ---
 
 # Mohamed Bayo
@@ -21,18 +21,27 @@ backlinks: [striker, gaziantep]
 | **Nation** | Guinea |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, aggressive center-forward who leads the press and offers aerial presence in both boxes, but he's a one-dimensional striker reliant on service and lacks the touch, positioning, or movement patterns to consistently create space against organized defenses. Functional as a target man in a lower-table side, yet truly limited in terms of technical sophistication.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `80`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in First Touch, Jumping, and Volleys.
@@ -63,13 +72,14 @@ A physical, aggressive center-forward who leads the press and offers aerial pres
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 49.0m |
+| Ceiling | EUR 58.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ A physical, aggressive center-forward who leads the press and offers aerial pres
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

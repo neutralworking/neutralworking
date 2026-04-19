@@ -2,12 +2,12 @@
 title: Mateo Retegui
 category: players
 tags: [CF, Al Qadsia, Italy, Striker-Target]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Al Qadsia. Archetype: Striker-Target.
 person_id: 14718
-backlinks: [striker, al-qadsia]
+backlinks: [striker, shadow-striker, al-qadsia]
 ---
 
 # Mateo Retegui
@@ -21,18 +21,27 @@ backlinks: [striker, al-qadsia]
 | **Nation** | Italy |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Target |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A willing, somewhat ungainly number nine who works hard off the ball and can finish from close range with reasonable consistency, though his touch and technical security remain inconsistent. He thrives in a chaotic, physical system where intensity and positioning matter more than elegance. At 26, he's a decent starter for a mid-table European side but lacks the refinement or movement to play elite football.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `85`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `85`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Physical, Acceleration, and Balance.
@@ -67,13 +76,14 @@ A willing, somewhat ungainly number nine who works hard off the ball and can fin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 66.0m |
+| Ceiling | EUR 79.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A willing, somewhat ungainly number nine who works hard off the ball and can fin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: J. Lawrence
 category: players
 tags: [CM, WSG Wattens, Cover-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at WSG Wattens. Archetype: Cover-Striker.
 person_id: 23328
-backlinks: [cover, wsg-wattens]
+backlinks: [cover, tuttocampista, wsg-wattens]
 ---
 
 # J. Lawrence
@@ -18,21 +18,30 @@ backlinks: [cover, wsg-wattens]
 |---|---|
 | **Position** | CM |
 | **Club** | WSG Wattens |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[cover]] Cover-Striker |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 63 |
 | **Level** | 68 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 J. Lawrence, a 23-year-old Terrier, is best suited as a Tuttocampista, excelling in duels, interceptions, and blocking due to strong physical and technical attributes, alongside commendable positional discipline and composure. However, his limited tactical pillar, coupled with a lack of guile, vision, and take-on ability, restricts his capacity for creative playmaking. This player embodies the pure ball-winning midfielder, thriving in high-pressing systems that demand constant pressure and simple distribution. For clubs needing a reliable, high-energy midfield anchor, Lawrence is a solid option, but his lack of offensive flair means he would complement, rather than orchestrate, attacking phases.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `63`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `63`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and High Press.
 - Most bankable strengths show up in Duels, Interceptions, and Awareness.
@@ -62,13 +71,14 @@ J. Lawrence, a 23-year-old Terrier, is best suited as a Tuttocampista, excelling
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 25.5m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,7 +102,7 @@ J. Lawrence, a 23-year-old Terrier, is best suited as a Tuttocampista, excelling
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

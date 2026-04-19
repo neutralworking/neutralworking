@@ -2,12 +2,12 @@
 title: Thierry Lutonda
 category: players
 tags: [CD, RKC Waalwijk, Belgium, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at RKC Waalwijk. Archetype: Sprinter.
 person_id: 17906
-backlinks: [sprinter, rkc-waalwijk]
+backlinks: [sprinter, sweeper, rkc-waalwijk]
 ---
 
 # Thierry Lutonda
@@ -21,18 +21,27 @@ backlinks: [sprinter, rkc-waalwijk]
 | **Nation** | Belgium |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Thierry Lutonda projects primarily as a CD with a `Sprinter` lean. The strongest database support comes from Shielding, Balance, and Crossing.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `72`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Most bankable strengths show up in Shielding, Balance, and Crossing.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +72,14 @@ Thierry Lutonda projects primarily as a CD with a `Sprinter` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +104,6 @@ Thierry Lutonda projects primarily as a CD with a `Sprinter` lean. The strongest
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Sergio Ramos
 category: players
 tags: [CD, Bahia, Spain, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Bahia. Archetype: Cover.
 person_id: 17355
-backlinks: [cover, bahia]
+backlinks: [cover, colossus, bahia]
 ---
 
 # Sergio Ramos
@@ -21,18 +21,27 @@ backlinks: [cover, bahia]
 | **Nation** | Spain |
 | **Age** | 40 |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 60 |
 | **Level** | 65 |
 | **Overall** | 55.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Spanish veteran center-back whose leadership, aerial dominance and set-piece prowess remain valuable despite significant physical decline. Can no longer be relied upon for consistent 90-minute performances against elite attackers.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `60`.
+- Best-fit role is [[colossus]] Colossus with model support score `60`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Aerial Duels, Acceleration, and Pace.
@@ -69,11 +78,12 @@ Spanish veteran center-back whose leadership, aerial dominance and set-piece pro
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,17 +112,16 @@ Spanish veteran center-back whose leadership, aerial dominance and set-piece pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 Tactical Attributes: Marking (18), Positioning (17), Heading (17), Concentration (16), Anticipation (16)
 
@@ -124,6 +133,6 @@ Never received a red card while playing for the Spain National Team (As of today
 
   
 
-CD Determined Defender Caudillo Real Madrid ESP A 89.1 Ramos is a strong player who excels in the air, making him a goal threat on set-pieces, [50] and he is also a competent, aggressive tackler. He is gifted with pace, good technical ability, as well as good distribution and crossing ability. According to Spanish sports newspaper Marca, FIFA's official records confirmed that Ramos has been clocked at a sprinting speed of 30.6 kilometers per hour. He has been criticised, for his lack of discipline at times, and he holds the record for the most red cards obtained by a Real Madrid player. Due to his leadership, his athletic and technical prowess, his ability to excel both offensively and defensively, as well as his tactical versatility, he has also occasionally been deployed as a central or defensive midfielder, in particular under Ancelotti during the 2014–15 season. Born in Camas, Seville, Andalusia, Ramos began his career at local side Sevilla FC, emerging through the club's youth system alongside Jesús Navas and Antonio Puerta. He made his first-team – and La Liga – debut on 1 February 2004, coming on as a 64th-minute substitute for Francisco Gallardo in a 0–1 away loss against Deportivo de La Coruña. In the 2004–05 season, Ramos appeared in 41 games as Sevilla finished sixth and qualified to the UEFA Cup, scoring in home fixtures against Real Sociedad (2–1)[5] and Real Madrid (2–2).[6] In the season's edition of that European tournament, he scored his first continental goal, heading to conclude a 2–0 win over CD Nacional at the Estadio Ramon...
+CD Determined Defender Caudillo Real Madrid ESP A 89.1 Ramos is a strong player who excels in the air, making him a goal threat on set-pieces, [50] and he is also a competent, aggressive tackler. He is gifted with pace, good technical ability, as well as good distribution and crossing ability. According to Spanish sports newspaper Marca, FIFA's official records confirmed that Ramos has been clocked at a sprinting speed of 30.6 kilometers per hour. He has been criticised, for his lack of discipline at times, and he holds the record for the most red cards obtained by a Real Madrid player. Due to his leadership, his athletic and technical prowess, his ability to excel both offensively and defensively, as well as his tactical versatility, he has also occasionally been deployed as a central or defensive midfielder, in particular under Ancelotti during the 2014–15 season. Born in Camas, Seville, Andalusia, Ramos began his career at local side Sevilla FC, emerging through the club's youth system alongside Jesús Navas and Antonio Puerta. He made his first-team – and La Liga – debut on 1 February 2004, coming on as a 64th-minute substitute for Francisco Gallardo in a 0–1 away loss against Deportivo de La Coruña. In the 2004–05 season, Ramos appeared in 41 games as Sevilla finished sixth and qualified to the UEFA Cup, scoring in home fixtures against Real Sociedad (2–1)[5] and Real Madrid (2–2).[6] In the season's edition of that European tournament, he scored his first continental goal, heading to conclude a 2–0 win over CD Nacional at the Estadio Ramon ...
 
 </details>

@@ -2,12 +2,12 @@
 title: Paul Scholes
 category: players
 tags: [CM, Manchester United, England, Passer-Controller]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Manchester United. Archetype: Passer-Controller.
 person_id: 16179
-backlinks: [passer, manchester-united]
+backlinks: [passer, metodista, manchester-united]
 ---
 
 # Paul Scholes
@@ -21,18 +21,27 @@ backlinks: [passer, manchester-united]
 | **Nation** | England |
 | **Age** | 51 |
 | **Archetype** | [[passer]] Passer-Controller |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 93 |
 | **Level** | 46 |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CM	Prolific	Playmaker	Metronome	Man Utd	ENG	A	84.5	Scholes was highly regarded for his technical skills, renowned for his accurate passing, intelligent movement and powerful shooting from long range. A well-rounded, tenacious, and versatile box-to-box player, he was capable of playing in any midfield position, often alternating between defensive, offensive, and playmaking roles, due to his stamina, Vision, and work-rate, as well as his ability to make attacking runs. He also had a unique capacity to read the game, due to his tactical intelligence, and he was also adept at creating offensive plays after winning back possession. Many of his peers, including Zinedine Zidane and Edgar Davids, "have spoken about their admiration for his talent. Former Brazil international Sócrates was quoted as saying ""he is good enough to play for Brazil. I love to watch Scholes", to see him pass, "the boy with the red hair and the red shirt."" Former France and Arsenal captain Thierry Henry said", """Without any doubt the best player in the Premiership has to be Scholes ... He knows how to do everything."" When asked about Scholes", Bobby Charlton stated, Paul is always so in control and pin-point accurate with his passing – a beautiful player to watch, "movement and technique set examples to everyone."" Manchester United team mate Nani commented ""he's the best midfielder I've ever seen. He can pass", score goals with his left, right, "his head – he can do anything."" In February 2011", Barcelona midfielder Xavi rated Scholes as the best player in his position in the past two decades, "stating ""A role model. For me", and I really mean this, he's the best central midfielder I've seen in the last 15, 20 years. He's spectacular, he has it all, the last pass, goals, he's strong, he doesn't lose the ball, "vision. If he'd been Spanish he might have been rated more highly. Players love him."" This sentiment was echoed by former Barcelona manager", Josep Guardiola, who considered Scholes to be the best midfielder of his generation. The one aspect of his game frequently criticised was his tackling, which was recognised as inept by pundits, fans and Scholes himself. In addition, the potential for malicious intent in some of his tackles has been raised;[89] it has been suggested that he has escaped greater censure due to the admiration that pundits have for him. Recently, many including Scholes's national team-mates have said that Scholes was one of the few English players capable of 'pulling the strings' in midfield, dictating the flow of game where England often have been criticised for being nervous on the ball and giving away possession	He is the most decorated English footballer of all time, and one of the most successful footballers in history, having won a total of 25 trophies, featuring 11 Premier League titles and two Champions League titles. Born in Salford and raised in Langley from infancy, Scholes excelled in both cricket and football while at school. He first trained with Manchester United at the age of 14 after being spotted by a scout visiting his school, signing for them as an apprentice on leaving school in 1991, and turning professional in 1993. He made his full debut for United in the 1994–95 season. Scholes represented the England national team from 1997 to 2004, gaining 66 caps and participating in the 1998 and 2002 World Cups, as well as the UEFA Euro 2000 and Euro 2004 tournaments. Over his career, he has received praise from other managers and players, including Xavi, who called him "the best central midfielder I've seen in the last 15, 20 years".[6] Thierry Henry has cited Scholes as the greatest player in Premier League history.[7] However, Scholes has also been criticised for his disciplinary record, amassing the fourth-most yellow cards in Premier League history with 97, and the most yellow cards in Champions League history with 32. Scholes made 718 appearances for United, the third-highest number of appearances by any player for the club. Scholes announced his retirement from playing on 31 May 2011, receiving a testimonial match, and began his coaching career at the club from the 2011–12 season onward. However, he reversed this decision on 8 January 2012, and went on to play one more season before retiring again in May 2013.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `93`.
+- Best-fit role is [[metodista]] Metodista with model support score `93`.
 - Primary archetype leans toward `Passer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Long Range Threat.
 - Most bankable strengths show up in Anticipation, Composure, and Long Range.
@@ -65,10 +74,11 @@ CM	Prolific	Playmaker	Metronome	Man Utd	ENG	A	84.5	Scholes was highly regarded f
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,10 +94,10 @@ CM	Prolific	Playmaker	Metronome	Man Utd	ENG	A	84.5	Scholes was highly regarded f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

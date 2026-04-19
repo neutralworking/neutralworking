@@ -1,89 +1,70 @@
 ---
-title: Lee Tae-Seok
+title: Lee Tae-seok
 category: players
-tags: [WM, Austria Vienna, Creator]
-updated: 2026-04-18
+tags: [CD, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: WM at Austria Vienna. Archetype: Creator.
-person_id: 23369
-backlinks: [creator, austria-vienna]
+confidence: low
+summary: CD at —. Archetype: —.
+person_id: 27942
 ---
 
-# Lee Tae-Seok
+# Lee Tae-seok
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | WM |
-| **Club** | Austria Vienna |
-| **Nation** | None |
+| **Position** | CD |
+| **Club** | — |
+| **Nation** | South Korea |
 | **Age** | 23 |
-| **Archetype** | [[creator]] Creator |
-| **Level** | 80 |
-| **Overall** | 74.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-A creative, technically assured winger whose vision and one-on-one dynamism compensate for moderate tactical understanding and a lighter physical frame—his spontaneity and take-on quality suit him to free-form attacking roles where individual invention is prized. However, his guile deficiency and duel vulnerability expose him in defensive transitions or against aggressive full-backs, making him better suited to teams that defend by shape rather than individual tenacity. At 23 with introverted tendencies, he may struggle in high-tempo, compact pressing systems but could flourish in possession-dominant attacks where his technical creativity is the primary output.
+Lee Tae-seok is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `74`.
-- Primary archetype leans toward `Creator` behaviour from a `WM` base.
-- Most bankable strengths show up in Awareness, Interceptions, and Tackling.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
-## In Possession
+## Out of Possession
 
-- Ball-value indicators lean on Awareness, Interceptions, and Tackling.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Awareness | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Interceptions | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Personality
-
-- **Game Reading (EI)**: 35
-- **Motivation (SN)**: 58
-- **Social (TF)**: 69
-- **Pressure (JP)**: 36
-- **Competitiveness**: 2/10
-- **Coachability**: 1/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

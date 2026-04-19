@@ -2,12 +2,12 @@
 title: Mike van der Hoorn
 category: players
 tags: [CD, Utrecht, Netherlands, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Utrecht. Archetype: Destroyer.
 person_id: 15193
-backlinks: [destroyer, utrecht]
+backlinks: [destroyer, sweeper, utrecht]
 ---
 
 # Mike van der Hoorn
@@ -21,18 +21,27 @@ backlinks: [destroyer, utrecht]
 | **Nation** | Netherlands |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Mike van der Hoorn projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Jumping, Long Range, and Reactions.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `70`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `70`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Long Range, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -68,12 +77,13 @@ Mike van der Hoorn projects primarily as a CD with a `Destroyer` lean. The stron
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,6 +110,6 @@ Mike van der Hoorn projects primarily as a CD with a `Destroyer` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

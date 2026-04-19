@@ -2,12 +2,12 @@
 title: Ronald Araujo
 category: players
 tags: [CD, Barcelona, Uruguay, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Barcelona. Archetype: Destroyer-Powerhouse.
 person_id: 16825
-backlinks: [destroyer, barcelona]
+backlinks: [destroyer, stopper, barcelona]
 ---
 
 # Ronald Araujo
@@ -21,6 +21,8 @@ backlinks: [destroyer, barcelona]
 | **Nation** | Uruguay |
 | **Age** | 27 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[stopper]] Stopper |
+| **Role Score** | 74 |
 | **Level** | 85 |
 | **Overall** | 74.0 |
 | **Pursuit** | Interested |
@@ -30,9 +32,16 @@ backlinks: [destroyer, barcelona]
 
 Physically dominant CB. Raw pace, aerial power, and aggression in duels make him a nightmare for strikers. On-ball game improving under Xavi/Flick. Injury record a concern — long-term hamstring issues. Versatile enough to play RB in emergencies. Uruguay captain material.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Stopper` with model support score `74`.
+- Best-fit role is [[stopper]] Stopper with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Reactions, Aerial Duels, and Aggression.
@@ -67,13 +76,14 @@ Physically dominant CB. Raw pace, aerial power, and aggression in duels make him
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 52.5m |
+| Mid | EUR 45.0m |
+| Ceiling | EUR 54.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,11 +114,11 @@ Physically dominant CB. Raw pace, aerial power, and aggression in duels make him
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -118,7 +128,7 @@ Physically dominant CB. Raw pace, aerial power, and aggression in duels make him
 ---
 class: defender
 ---
-![[Pasted image 20240115012616.png]]
+!Pasted image 20240115012616.png
 
 During some pretty dark economic and playing days for Barcelona, the emergence of Ronald Araujo was one of their few bright moments.  
   

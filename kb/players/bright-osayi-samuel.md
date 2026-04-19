@@ -2,12 +2,12 @@
 title: Bright Osayi-Samuel
 category: players
 tags: [CF, Birmingham City, Nigeria, Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Birmingham City. Archetype: Sprinter.
 person_id: 9219
-backlinks: [sprinter, birmingham-city]
+backlinks: [sprinter, target-forward, birmingham-city]
 ---
 
 # Bright Osayi-Samuel
@@ -21,18 +21,27 @@ backlinks: [sprinter, birmingham-city]
 | **Nation** | Nigeria |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
+| **Best Role** | [[target-forward]] Target Forward |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Bright Osayi-Samuel is a quintessential Sprinter, offering terrifying acceleration and pace that makes him a direct threat as a Prima Punta. His robust physicality, stamina, and aerial ability from jumping also make him a handful for defenders. Yet, his virtually non-existent creativity means he offers nothing in terms of chance creation, and his poor discipline is a constant liability.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Target Forward` with model support score `72`.
+- Best-fit role is [[target-forward]] Target Forward with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Pace, Acceleration, and Stamina.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Bright Osayi-Samuel is a quintessential Sprinter, offering terrifying accelerati
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 8.1m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ Bright Osayi-Samuel is a quintessential Sprinter, offering terrifying accelerati
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

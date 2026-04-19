@@ -2,12 +2,12 @@
 title: Sergio Agüero
 category: players
 tags: [CF, Barcelona, Argentina, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Barcelona. Archetype: Striker-Sprinter.
 person_id: 17338
-backlinks: [striker, barcelona]
+backlinks: [striker, poacher, barcelona]
 ---
 
 # Sergio Agüero
@@ -21,18 +21,27 @@ backlinks: [striker, barcelona]
 | **Nation** | Argentina |
 | **Age** | 37 |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[poacher]] Poacher |
+| **Role Score** | 92 |
 | **Level** | 62 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CF	Prolific	Striker	Finisher	Man City	ARG	B	81.8	Often considered to be one of the best strikers in the world, Agüero is regarded as an all-out centre forward, but can also play as a second striker off another striker, which he often did at Atlético Madrid with Diego Forlán, due to his passing ability, tactical intelligence, and vision, which made him a capable assist-man. Agüero has a diminutive figure with a stocky build, which has led to comparisons with former Manchester City teammate Carlos Tevez and past strikers such as Romário, Del Piero, and Diego Maradona. When both were on the same team, some pundits called Agüero Tevez's heir apparent at City and others said that he was superior to his compatriot. His ex-manager at Manchester City, Roberto Mancini, has compared Agüero to former Brazilian striker, Romário, due to his pace, goalscoring ability, Positioning, and technique. Although naturally right footed, Agüero is also capable of striking well with his left foot, and can finish well both inside and outside the area with his powerful and accurate shot. Agüero is characterised by agility, acceleration and strength, "being described as ""sharp and clever"" by former Argentine player Osvaldo Ardiles; a view which is shared by his international captain Lionel Messi", "who believes Agüero possesses ""immense power", "strength and an incredible work ethic."" Combined with his close control", dribbling skills, and strength to keep the ball, "he has been described as ""a menace in the box""."	Shot Power/Accuracy/Selection, Acceleration, Turning, Off The Ball, Strength, Workrate, Agility, Dribbling, Premier League Golden Boot	On 5 July 2003, he became the youngest player to debut in the Argentine Primera División at 15 years and 35 days, breaking the record previously established by Diego Maradona in 1976. In 2006, Agüero moved to Europe to play for La Liga side Atlético Madrid, with Independiente accepting a fee of €23 million. He made a name for himself, attracting attention from Europe's top clubs by scoring 101 goals in 234 appearances while winning the UEFA Europa League and the UEFA Super Cup in 2010. Agüero moved to Premier League club Manchester City in July 2011 for an undisclosed fee thought to be in the region of £35 million. On the last day of his debut season with the club, Agüero scored a 94th-minute winner against Queens Park Rangers that earned City its first league title in 44 years. At the end of the 2014–15 season, of players who had played at least two seasons in the Premier League, Agüero had the highest goals per minute ratio in the history of the competition since its formation in 1992, averaging a goal every 109 minutes.[6] He also holds the joint-record for the most goals scored in a single Premier League match – five – and the fastest to do so, in 23 minutes and 34 seconds of match time.[7] He is the highest South American scorer in the history of the Premier League, and reached 100 goals in the division faster than any player other than Alan Shearer. At international level, Agüero represented the Argentina under-20 team at the FIFA U-20 World Cup in 2005 and in 2007, winning both tournaments.[8] Agüero played at the 2008 Beijing Olympics, scoring two goals in the 3–0 semi-final win against Brazil as Argentina went on to win the gold medal.[9] Agüero was selected to represent Argentina in the 2010 FIFA World Cup, the 2011 Copa América, the 2014 FIFA World Cup, and the 2015 Copa América.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Poacher` with model support score `92`.
+- Best-fit role is [[poacher]] Poacher with model support score `92`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Fox In The Box.
 - Most bankable strengths show up in First Touch, Skills, and Take Ons.
@@ -67,13 +76,14 @@ CF	Prolific	Striker	Finisher	Man City	ARG	B	81.8	Often considered to be one of t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.5m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 16.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ CF	Prolific	Striker	Finisher	Man City	ARG	B	81.8	Often considered to be one of t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

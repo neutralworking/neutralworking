@@ -2,12 +2,12 @@
 title: Mehdi Taremi
 category: players
 tags: [CF, Olympiacos, Iran, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Olympiacos. Archetype: Striker-Sprinter.
 person_id: 14989
-backlinks: [striker, olympiacos]
+backlinks: [striker, seconda-punta, olympiacos]
 ---
 
 # Mehdi Taremi
@@ -21,23 +21,27 @@ backlinks: [striker, olympiacos]
 | **Nation** | Iran |
 | **Age** | 33 |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 71 |
 | **Level** | 73 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Mehdi Taremi, a professional footballer who plays as a striker for Porto and the Iran national team, is known for his strong playing style. He is a [[Key Stuff That Was On HD/positions/subclasses/Poacher]], often finding himself in scoring positions inside the box and finishing off moves with precision [^1]. Taremi is tall, athletic, and exudes class and intelligence on the pitch [^2]. He is strong in areas such as holding on to the ball, making key passes, and winning aerial duels [^3]. Taremi is also known for his positional play and ability to create and attack spaces [^4].
+Mehdi Taremi, a professional footballer who plays as a striker for Porto and the Iran national team, is known for his strong playing style. He is a Key Stuff That Was On HD/positions/subclasses/Poacher, often finding himself in scoring positions inside the box and finishing off moves with precision . Taremi is tall, athletic, and exudes class and intelligence on the pitch . He is strong in areas such as holding on to the ball, making key passes, and winning aerial duels . Taremi is also known for his positional play and ability to create and attack spaces .
 
-[^1]: https://www.90min.com/posts/mehdi-taremi-things-to-know
-[^2]: https://www.worldsoccer.com/soccer-500-2020/player-profile-mehdi-taremi-410269
-[^3]: https://www.whoscored.com/Players/358801/Show/Mehdi-Taremi
-[^4]: https://www.portuguesefootballanalysis.com/under-the-microscope-how-iranian-mehdi-taremi-has-become-one-of-portos-biggest-assets
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `71`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `71`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Jumping, and Physical.
@@ -74,11 +78,12 @@ Mehdi Taremi, a professional footballer who plays as a striker for Porto and the
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -109,22 +114,17 @@ Mehdi Taremi, a professional footballer who plays as a striker for Porto and the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Mehdi Taremi, a professional footballer who plays as a striker for Porto and the Iran national team, is known for his strong playing style. He is a [[Key Stuff That Was On HD/positions/subclasses/Poacher]], often finding himself in scoring positions inside the box and finishing off moves with precision [^1]. Taremi is tall, athletic, and exudes class and intelligence on the pitch [^2]. He is strong in areas such as holding on to the ball, making key passes, and winning aerial duels [^3]. Taremi is also known for his positional play and ability to create and attack spaces [^4].
-
-[^1]: https://www.90min.com/posts/mehdi-taremi-things-to-know
-[^2]: https://www.worldsoccer.com/soccer-500-2020/player-profile-mehdi-taremi-410269
-[^3]: https://www.whoscored.com/Players/358801/Show/Mehdi-Taremi
-[^4]: https://www.portuguesefootballanalysis.com/under-the-microscope-how-iranian-mehdi-taremi-has-become-one-of-portos-biggest-assets
+Mehdi Taremi, a professional footballer who plays as a striker for Porto and the Iran national team, is known for his strong playing style. He is a Key Stuff That Was On HD/positions/subclasses/Poacher, often finding himself in scoring positions inside the box and finishing off moves with precision . Taremi is tall, athletic, and exudes class and intelligence on the pitch . He is strong in areas such as holding on to the ball, making key passes, and winning aerial duels . Taremi is also known for his positional play and ability to create and attack spaces .
 
 </details>

@@ -2,12 +2,12 @@
 title: Okay Yokuşlu
 category: players
 tags: [DM, Trabzonspor, Turkey, Target-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Trabzonspor. Archetype: Target-Destroyer.
 person_id: 15849
-backlinks: [target, trabzonspor]
+backlinks: [target, regista, trabzonspor]
 ---
 
 # Okay Yokuşlu
@@ -21,18 +21,27 @@ backlinks: [target, trabzonspor]
 | **Nation** | Turkey |
 | **Age** | 32 |
 | **Archetype** | [[target]] Target-Destroyer |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 43 |
 | **Level** | 84 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A metronome in the deepest midfield role—positionally sound, blessed with a natural reading of the game that keeps Trabzonspor's defensive shape intact. His range of passing is decent rather than sublime, and he lacks the explosive athleticism to cover ground against genuinely quick transitions. At 32, he's a reliable deputy in a Süper Lig title push, but he's not someone who will dominate possession or initiate attacks from deep; his value is in the simple, correct thing done repeatedly.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `43`.
+- Best-fit role is [[regista]] Regista with model support score `43`.
 - Primary archetype leans toward `Target` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Stamina, and First Touch.
@@ -63,13 +72,14 @@ A metronome in the deepest midfield role—positionally sound, blessed with a na
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 12.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A metronome in the deepest midfield role—positionally sound, blessed with a na
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

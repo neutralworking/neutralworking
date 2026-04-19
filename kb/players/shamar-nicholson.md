@@ -2,12 +2,12 @@
 title: Shamar Nicholson
 category: players
 tags: [CF, Club Tijuana, Jamaica, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Club Tijuana. Archetype: Striker-Cover.
 person_id: 17374
-backlinks: [striker, club-tijuana]
+backlinks: [striker, falso-nove, club-tijuana]
 ---
 
 # Shamar Nicholson
@@ -21,18 +21,26 @@ backlinks: [striker, club-tijuana]
 | **Nation** | Jamaica |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[falso-nove]] Falso Nove |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, direct centre-forward who thrives on the half-turn and quick transitions — the kind of number nine who makes defenders work for their supper through constant movement and aggression rather than technical subtlety. Nicholson's best asset is his willingness to occupy space and harry defenders, creating pockets of chaos that can unpick organised systems, particularly in the Mexican top flight where his physicality translates well. The problem is he's not a creator, and his touch can be heavy in tight spaces; he needs service and room to run into, which limits his value in a possession-dominated side. At 28, he's a functional starter at mid-table Liga MX level — useful enough in a scrappy cup tie or against a team trying to play out from the back, but not the sort of striker who'll solve problems for an ambitious outfit.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove`.
+- Best-fit role is [[falso-nove]] Falso Nove.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Carries, Creativity, and Intensity.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +66,14 @@ A physical, direct centre-forward who thrives on the half-turn and quick transit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.0m |
+| Mid | EUR 42.0m |
+| Ceiling | EUR 50.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +94,6 @@ A physical, direct centre-forward who thrives on the half-turn and quick transit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 17 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

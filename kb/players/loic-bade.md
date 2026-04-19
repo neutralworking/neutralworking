@@ -2,12 +2,12 @@
 title: Loïc Badé
 category: players
 tags: [CD, Bayer Leverkusen, France, Powerhouse-Engine]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Bayer Leverkusen. Archetype: Powerhouse-Engine.
 person_id: 13996
-backlinks: [powerhouse, bayer-leverkusen]
+backlinks: [powerhouse, sweeper, bayer-leverkusen]
 ---
 
 # Loïc Badé
@@ -21,18 +21,27 @@ backlinks: [powerhouse, bayer-leverkusen]
 | **Nation** | France |
 | **Age** | 26 |
 | **Archetype** | [[powerhouse]] Powerhouse-Engine |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 73 |
 | **Level** | 87 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-back with excellent positional sense and good ball-playing ability for the position; he's combative and reliable in a defensive block, capable of handling multiple attackers through intelligent positioning. Not particularly mobile laterally, and he can struggle if forced into frequent one-on-one situations against genuinely explosive forwards.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `73`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `73`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Physical, Jumping, and First Touch.
@@ -67,13 +76,14 @@ A centre-back with excellent positional sense and good ball-playing ability for 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 57.0m |
+| Ceiling | EUR 68.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ A centre-back with excellent positional sense and good ball-playing ability for 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

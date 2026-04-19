@@ -2,10 +2,10 @@
 title: Alain Baroja
 category: players
 tags: [GK, Bolivia]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: GK at None. Archetype: None.
+summary: GK at —. Archetype: —.
 person_id: 29035
 ---
 
@@ -16,18 +16,25 @@ person_id: 29035
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Bolivia |
 | **Age** | 36 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Alain Baroja projects primarily as a GK with a `None` lean. The strongest database support comes from the current evidence set.
+Alain Baroja projects primarily as a GK with a `—` lean. The strongest database support comes from the current evidence set.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,13 +52,14 @@ Alain Baroja projects primarily as a GK with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.3m |
+| Mid | EUR 0.3m |
+| Ceiling | EUR 0.6m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Observed market value, role scarcity, and age-related upside.
+- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -67,4 +75,4 @@ Alain Baroja projects primarily as a GK with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |

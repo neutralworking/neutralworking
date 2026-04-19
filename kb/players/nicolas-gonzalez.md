@@ -2,12 +2,12 @@
 title: Nicolás González
 category: players
 tags: [WF, Fiorentina, Argentina, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Fiorentina. Archetype: Dribbler.
 person_id: 15676
-backlinks: [dribbler, fiorentina]
+backlinks: [dribbler, wide-playmaker, fiorentina]
 ---
 
 # Nicolás González
@@ -21,18 +21,26 @@ backlinks: [dribbler, fiorentina]
 | **Nation** | Argentina |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 84 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Argentine winger with serious technical ability, explosive first steps, and a sudden ability to shift the ball and cut inside onto his right foot; he's dangerous in one-v-one situations and his crossing is precise. He works hard without the ball and understands movement. Durability is a concern — injuries have limited his ability to build consistency, and he's not yet proven he can be the primary playmaker in attack.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker.
 - Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +67,14 @@ An Argentine winger with serious technical ability, explosive first steps, and a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 39.9m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,18 +100,18 @@ An Argentine winger with serious technical ability, explosive first steps, and a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Argentina	LW / RW / CF	6 April 1998 (age 25)	Germany VfB Stuttgart	2021	2026	57	13	
+Argentina	LW / RW / CF	6 April 1998 (age 25)	Germany VfB Stuttgart	2021	2026	57	13	
 
 The Argentina winger certainly has high standards to maintain in the Conference League. In the same competition last season, the former Stuttgart ace was instrumental in Fiorentina’s march to the final, posting five goals and three assists. Equally devastating on either flank, his sprinter speed, ability to slalom with the ball and sheer unpredictability makes him so difficult to pin down. When on top of his game he literally carries the Viola, however he does have a tendency to blow hot and cold – leading to some to suggest he would be better employed as a second striker. Was the subject of a £35m bid from Brentford earlier in the summer, which Fiorentina rejected out of hand, insisting he wasn’t for sale.
 

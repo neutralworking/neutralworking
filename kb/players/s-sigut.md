@@ -2,12 +2,12 @@
 title: S. Šigut
 category: players
 tags: [WM, MFK Karviná, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at MFK Karviná. Archetype: Striker-Creator.
 person_id: 24396
-backlinks: [striker, mfk-karvina]
+backlinks: [striker, wide-playmaker, mfk-karvina]
 ---
 
 # S. Šigut
@@ -18,21 +18,30 @@ backlinks: [striker, mfk-karvina]
 |---|---|
 | **Position** | WM |
 | **Club** | MFK Karviná |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 S. Šigut projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Creativity, Threat, and Aggression.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `72`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `72`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Creativity, Threat, and Aggression.
 
@@ -57,13 +66,14 @@ S. Šigut projects primarily as a WM with a `Striker-Creator` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -84,5 +94,5 @@ S. Šigut projects primarily as a WM with a `Striker-Creator` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

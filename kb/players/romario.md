@@ -2,12 +2,12 @@
 title: Romario
 category: players
 tags: [CF, Brazil, Striker-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CF at None. Archetype: Striker-Sprinter.
+summary: CF at —. Archetype: Striker-Sprinter.
 person_id: 16810
-backlinks: [striker]
+backlinks: [striker, poacher]
 ---
 
 # Romario
@@ -17,13 +17,15 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Brazil |
-| **Age** | None |
+| **Age** | — |
 | **Archetype** | [[striker]] Striker-Sprinter |
+| **Best Role** | [[poacher]] Poacher |
+| **Role Score** | 92 |
 | **Level** | 78 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -33,35 +35,42 @@ Striker
 Marksman
 Barcelona
 
-[[Clinical]]/[[Lethal]] - Efficient Shooter 
-[[Prolific]] - Frequent Shooter
+Clinical/Lethal - Efficient Shooter 
+Prolific - Frequent Shooter
 
 nation: BRA
-[[Johan Cruyff]] defined him as a "genius of the goal area". 
-[[Ronaldo]]: Romário was the most decisive player who I played with"
+[[johan-cruyff]] Johan Cruyff defined him as a "genius of the goal area". 
+[[ronaldo]] Ronaldo: Romário was the most decisive player who I played with"
 
-[[11 - WF - Attacker]]
+11 - WF - Attacker
 
-Goal scorer, finisher, skilful, which inspired [[Neymar 1]]'s number at Santos (and now wears number 11 for Barcelona). 
-Along with Brazilian compatriot [[Ronaldo]] and African star [[George Weah]], Romário was seen as a new breed of striker in the 1990s who would also operate outside the penalty area before running with the ball towards goal, "with former France striker [[Thierry Henry]] stating; ""Ronaldo together with Romário and George Weah", reinvented the center-forward position. They were the first to drop from the penalty box to pick up the ball in midfield, switch to the flanks, attract and disorientate the central defenders with their runs, their accelerations, "their dribbling." [[Lionel Messi]] perfected the role later at Barcelona. 
+Goal scorer, finisher, skilful, which inspired Neymar 1's number at Santos (and now wears number 11 for Barcelona). 
+Along with Brazilian compatriot [[ronaldo]] Ronaldo and African star George Weah, Romário was seen as a new breed of striker in the 1990s who would also operate outside the penalty area before running with the ball towards goal, "with former France striker [[thierry-henry]] Thierry Henry stating; ""Ronaldo together with Romário and George Weah", reinvented the center-forward position. They were the first to drop from the penalty box to pick up the ball in midfield, switch to the flanks, attract and disorientate the central defenders with their runs, their accelerations, "their dribbling." [[lionel-messi]] Lionel Messi perfected the role later at Barcelona. 
 
-With his low center of gravity, Romário was known for his explosive acceleration, which enabled him to outrun opponents over short distances, and his dribbling skills saw him use elaborate feints, such as: dragging the ball around a defender without it leaving his foot, "and the flip flap. Although Romário built a reputation as an extremely opportunistic [[Striker - Poacher]], he was also known for his creativity and vision, with an ability to assist team-mates. 
+With his low center of gravity, Romário was known for his explosive acceleration, which enabled him to outrun opponents over short distances, and his dribbling skills saw him use elaborate feints, such as: dragging the ball around a defender without it leaving his foot, "and the flip flap. Although Romário built a reputation as an extremely opportunistic Striker - Poacher, he was also known for his creativity and vision, with an ability to assist team-mates. 
 
-[[Playing Partnerships]]
-Throughout his career he formed many notable attacking partnerships with other prolific, technically gifted forwards, such as Stoichkov, Bebeto, and Ronaldo. Romário was also criticised for his controversial character, and for his poor work-rate throughout his career, in particular for his vocal dislike of training. [[Lazy]]
+Playing Partnerships
+Throughout his career he formed many notable attacking partnerships with other prolific, technically gifted forwards, such as Stoichkov, Bebeto, and Ronaldo. Romário was also criticised for his controversial character, and for his poor work-rate throughout his career, in particular for his vocal dislike of training. Lazy
 
-Rivalry with [[Bebeto]] lead to increased competitive drive. Bebeto also moved to [[Deportivo la Coruna]] and was spearheading their golden era after promotion. They ended up playing together for Brazil and winning the [[FIFA World Cup]]. Romário starred for Brazil in their 1994 FIFA World Cup triumph, receiving the FIFA Golden Ball as player of the tournament. He was named FIFA World Player of the Year the same year. He came fifth in the FIFA Player of the Century internet poll in 1999, was chosen in the FIFA World Cup Dream Team in 2002, and was named in the FIFA 100 list of the world's greatest living players in 2004. At club level, after developing his early career in Brazil, Romário moved to PSV Eindhoven in the Netherlands in 1988.
+Rivalry with [[bebeto]] Bebeto lead to increased competitive drive. Bebeto also moved to Deportivo la Coruna and was spearheading their golden era after promotion. They ended up playing together for Brazil and winning the FIFA World Cup. Romário starred for Brazil in their 1994 FIFA World Cup triumph, receiving the FIFA Golden Ball as player of the tournament. He was named FIFA World Player of the Year the same year. He came fifth in the FIFA Player of the Century internet poll in 1999, was chosen in the FIFA World Cup Dream Team in 2002, and was named in the FIFA 100 list of the world's greatest living players in 2004. At club level, after developing his early career in Brazil, Romário moved to PSV Eindhoven in the Netherlands in 1988.
 
-During his five seasons at PSV the club became Eredivisie champions three times, and he scored a total of 165 goals in 167 games. In 1993 he moved to FC Barcelona and became part of Johan Cruyff's "Dream Team", forming a lethal strike partnership with [[Hristo Stoichkov]]. He won La Liga in his first season and finished top goalscorer with 30 goals in 33 matches. 
+During his five seasons at PSV the club became Eredivisie champions three times, and he scored a total of 165 goals in 167 games. In 1993 he moved to FC Barcelona and became part of Johan Cruyff's "Dream Team", forming a lethal strike partnership with [[hristo-stoichkov]] Hristo Stoichkov. He won La Liga in his first season and finished top goalscorer with 30 goals in 33 matches. 
 
 During the second half of his career Romário played for clubs within the city of Rio de Janeiro in Brazil. He won the Brazilian league title with CR Vasco da Gama in 2000 and was a three-time top scorer in the league. At the end of his career he also played briefly in Qatar, the United States and Australia.  With 55 goals in 70 appearances for Brazil, Romário is the third highest goalscorer for his national team, ranking behind Pelé and Ronaldo. He is second on the all-time list of Brazilian league's top scorers with a total of 154 goals. While finishing as a top goalscorer in many different competitions, he is one of very few strikers to surpass the mark of 1,000 goals, and is the second most prolific goalscorer in the history of football.
 
 Similar Players
-[[Gabriel Jesus]] (if he could finish)
+[[gabriel-jesus]] Gabriel Jesus (if he could finish)
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Poacher` with model support score `92`.
+- Best-fit role is [[poacher]] Poacher with model support score `92`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Fox In The Box.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
@@ -96,13 +105,14 @@ Similar Players
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 0.1m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -130,11 +140,11 @@ Similar Players
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -150,23 +160,23 @@ Striker
 Marksman
 Barcelona
 
-[[Clinical]]/[[Lethal]] - Efficient Shooter 
-[[Prolific]] - Frequent Shooter
+Clinical/Lethal - Efficient Shooter 
+Prolific - Frequent Shooter
 
 nation: BRA
-[[Johan Cruyff]] defined him as a "genius of the goal area". 
-[[Ronaldo]]: Romário was the most decisive player who I played with"
+[[johan-cruyff]] Johan Cruyff defined him as a "genius of the goal area". 
+[[ronaldo]] Ronaldo: Romário was the most decisive player who I played with"
 
-[[11 - WF - Attacker]]
+11 - WF - Attacker
 
-Goal scorer, finisher, skilful, which inspired [[Neymar 1]]'s number at Santos (and now wears number 11 for Barcelona). 
-Along with Brazilian compatriot [[Ronaldo]] and African star [[George Weah]], Romário was seen as a new breed of striker in the 1990s who would also operate outside the penalty area before running with the ball towards goal, "with former France striker [[Thierry Henry]] stating; ""Ronaldo together with Romário and George Weah", reinvented the center-forward position. They were the first to drop from the penalty box to pick up the ball in midfield, switch to the flanks, attract and disorientate the central defenders with their runs, their accelerations, "their dribbling." [[Lionel Messi]] perfected the role later at Barcelona. 
+Goal scorer, finisher, skilful, which inspired Neymar 1's number at Santos (and now wears number 11 for Barcelona). 
+Along with Brazilian compatriot [[ronaldo]] Ronaldo and African star George Weah, Romário was seen as a new breed of striker in the 1990s who would also operate outside the penalty area before running with the ball towards goal, "with former France striker [[thierry-henry]] Thierry Henry stating; ""Ronaldo together with Romário and George Weah", reinvented the center-forward position. They were the first to drop from the penalty box to pick up the ball in midfield, switch to the flanks, attract and disorientate the central defenders with their runs, their accelerations, "their dribbling." [[lionel-messi]] Lionel Messi perfected the role later at Barcelona. 
 
-With his low center of gravity, Romário was known for his explosive acceleration, which enabled him to outrun opponents over short distances, and his dribbling skills saw him use elaborate feints, such as: dragging the ball around a defender without it leaving his foot, "and the flip flap. Although Romário built a reputation as an extremely opportunistic [[Striker - Poacher]], he was also known for his creativity and vision, with an ability to assist team-mates. 
+With his low center of gravity, Romário was known for his explosive acceleration, which enabled him to outrun opponents over short distances, and his dribbling skills saw him use elaborate feints, such as: dragging the ball around a defender without it leaving his foot, "and the flip flap. Although Romário built a reputation as an extremely opportunistic Striker - Poacher, he was also known for his creativity and vision, with an ability to assist team-mates. 
 
-[[Playing Partnerships]]
-Throughout his career he formed many notable attacking partnerships with other prolific, technically gifted forwards, such as Stoichkov, Bebeto, and Ronaldo. Romário was also criticised for his controversial character, and for his poor work-rate throughout his career, in particular for his vocal dislike of training. [[Lazy]]
+Playing Partnerships
+Throughout his career he formed many notable attacking partnerships with other prolific, technically gifted forwards, such as Stoichkov, Bebeto, and Ronaldo. Romário was also criticised for his controversial character, and for his poor work-rate throughout his career, in particular for his vocal dislike of training. Lazy
 
-Rivalry with [[Bebeto]] lead to increased competitive drive. Bebeto also moved to [[Deportivo la Coruna]] and was spearheading their...
+Rivalry with [[bebeto]] Bebeto lead to increased competitive drive. Bebeto also moved to Deportivo la Coruna and was spearheading their...
 
 </details>

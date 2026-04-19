@@ -2,12 +2,12 @@
 title: E. Dijkstra
 category: players
 tags: [WM, AZ, Cover-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at AZ. Archetype: Cover-Creator.
 person_id: 21183
-backlinks: [cover, az]
+backlinks: [cover, tornante, az]
 ---
 
 # E. Dijkstra
@@ -18,21 +18,30 @@ backlinks: [cover, az]
 |---|---|
 | **Position** | WM |
 | **Club** | AZ |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Creator |
+| **Best Role** | [[tornante]] Tornante |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 E. Dijkstra is a tenacious Wide Midfielder with a strong work rate, exceling in tackling and interceptions, but his vision and ability to block opposition attacks are significant weaknesses. His high-pressing trait is an asset in a team that looks to win the ball back quickly, but his limited technical ability and moderate physicality mean he may struggle against more adept opponents. As a Tornante, he is best utilized in a system that emphasizes his defensive capabilities and provides cover for his limitations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Tornante` with model support score `71`.
+- Best-fit role is [[tornante]] Tornante with model support score `71`.
 - Primary archetype leans toward `Cover` behaviour from a `WM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pressing, Composure, and Discipline.
@@ -62,13 +71,14 @@ E. Dijkstra is a tenacious Wide Midfielder with a strong work rate, exceling in 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 7.6m |
+| Mid | EUR 9.0m |
+| Ceiling | EUR 10.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ E. Dijkstra is a tenacious Wide Midfielder with a strong work rate, exceling in 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

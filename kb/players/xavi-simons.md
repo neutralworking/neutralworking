@@ -2,12 +2,12 @@
 title: Xavi Simons
 category: players
 tags: [AM, Tottenham Hotspur, Netherlands, Creator-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Tottenham Hotspur. Archetype: Creator-Passer.
 person_id: 18571
-backlinks: [creator, tottenham-hotspur]
+backlinks: [creator, trequartista, tottenham-hotspur]
 ---
 
 # Xavi Simons
@@ -21,18 +21,27 @@ backlinks: [creator, tottenham-hotspur]
 | **Nation** | Netherlands |
 | **Age** | 22 |
 | **Archetype** | [[creator]] Creator-Passer |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 86 |
 | **Level** | 87 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Xavi Simons is a Tuttocampista who boasts an impressive balance of technical and physical attributes, including his acceleration and stamina, which makes him a versatile midfielder. His role has antecedents in the tradition of Dutch playmakers who are comfortable in various midfield roles. Simons would thrive in a team that requires a high level of technical proficiency and adaptability from its midfielders, although his current limitations in blocking and pressing may necessitate further development to reach his full potential.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `86`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `86`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Balance, Acceleration, and Reactions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +72,14 @@ Xavi Simons is a Tuttocampista who boasts an impressive balance of technical and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 47.5m |
+| Mid | EUR 61.0m |
+| Ceiling | EUR 73.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,17 +111,16 @@ Xavi Simons is a Tuttocampista who boasts an impressive balance of technical and
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubParis St-Germain
 
@@ -126,7 +135,6 @@ It was written in the stars that Xavi (yes, named after former Barcelona midfiel
 **September 2022 update** Apparently highly regarded by the big three at PSG – Messi, Neymar and Mbappè – but found it hard to force his way into the team, especially for the big games so has joined PSV, where he has made a record-breaking start with six goals in his first four games.  
   
 **October 2023 update** After a tremendous season at PSV he has been loaned out again, this time to RB Leipzig, where he will gain vital Champions League experience. "I got goosebumps when [Leipzig coach] Marco Rose told me how he wanted to use me," he said recently. Also made his Oranje debut at the World Cup in Qatar and has gone on to establish himself as a starter in Ronald Koeman's team.
-
 
 ---
 
@@ -164,6 +172,6 @@ Nike sponsor
 
 ### Professional Career
 
-Mino Raiola moved him to PSG for 1m...
+Mino Raiola moved him to PSG for 1m a...
 
 </details>

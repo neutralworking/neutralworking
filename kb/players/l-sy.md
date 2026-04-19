@@ -2,12 +2,12 @@
 title: L. Sy
 category: players
 tags: [CM, Auxerre, Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Auxerre. Archetype: Cover.
 person_id: 20992
-backlinks: [cover, auxerre]
+backlinks: [cover, tuttocampista, auxerre]
 ---
 
 # L. Sy
@@ -18,21 +18,30 @@ backlinks: [cover, auxerre]
 |---|---|
 | **Position** | CM |
 | **Club** | Auxerre |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 L. Sy, a Warrior Tuttocampista, demonstrates strong physical attributes combined with moderate technical and tactical pillars, excelling in defensive actions like tackling, interceptions, and duels, making him an effective ball-winner in central midfield. This profile evokes the relentless, high-energy midfielders of the high-press era, capable of covering immense ground and winning back possession, essential in systems prioritizing defensive intensity. Nevertheless, his limited mental pillar contributes to significant weaknesses in vision and both long and close-range passing, indicating a player more adept at disrupting than orchestrating. For a club seeking an aggressive, physically imposing midfielder who can relentlessly hound opponents, Sy presents a viable option, but his deficiencies in creative vision and range of passing mean he would require a midfield partner capable of providing the offensive impetus.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `73`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Composure, Discipline, and Duels.
@@ -62,13 +71,14 @@ L. Sy, a Warrior Tuttocampista, demonstrates strong physical attributes combined
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.0m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ L. Sy, a Warrior Tuttocampista, demonstrates strong physical attributes combined
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

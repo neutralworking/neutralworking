@@ -2,12 +2,12 @@
 title: Thalente Mbatha
 category: players
 tags: [CM, Orlando Pirates, South Africa]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Orlando Pirates. Archetype: None.
+summary: CM at Orlando Pirates. Archetype: —.
 person_id: 28584
-backlinks: [orlando-pirates]
+backlinks: [playmaker, orlando-pirates]
 ---
 
 # Thalente Mbatha
@@ -20,19 +20,28 @@ backlinks: [orlando-pirates]
 | **Club** | Orlando Pirates |
 | **Nation** | South Africa |
 | **Age** | 26 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 32 |
+| **Level** | — |
 | **Overall** | 26.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Thalente Mbatha projects primarily as a CM with a `None` lean. The strongest database support comes from Concentration, Interceptions, and Threat.
+Thalente Mbatha projects primarily as a CM with a `—` lean. The strongest database support comes from Concentration, Interceptions, and Threat.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `32`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `32`.
 - Most bankable strengths show up in Concentration, Interceptions, and Threat.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +75,9 @@ Thalente Mbatha projects primarily as a CM with a `None` lean. The strongest dat
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Thalente Mbatha projects primarily as a CM with a `None` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

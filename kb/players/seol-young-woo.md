@@ -1,101 +1,70 @@
 ---
-title: Seol Young-Woo
+title: Seol Young-woo
 category: players
-tags: [CM, FK Crvena zvezda, Creator-Cover]
-updated: 2026-04-18
+tags: [CD, South Korea]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CM at FK Crvena zvezda. Archetype: Creator-Cover.
-person_id: 22926
-backlinks: [creator, fk-crvena-zvezda]
+confidence: low
+summary: CD at —. Archetype: —.
+person_id: 27945
 ---
 
-# Seol Young-Woo
+# Seol Young-woo
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | FK Crvena zvezda |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[creator]] Creator-Cover |
-| **Level** | 78 |
-| **Overall** | 65.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 2 |
+| **Position** | CD |
+| **Club** | — |
+| **Nation** | South Korea |
+| **Age** | 27 |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Seol Young-Woo projects primarily as a CM with a `Creator-Cover` lean. The strongest database support comes from Through Balls, Pass Accuracy, and Vision.
+Seol Young-woo is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `73`.
-- Primary archetype leans toward `Creator` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
-- Most bankable strengths show up in Through Balls, Pass Accuracy, and Vision.
-
-## In Possession
-
-- Ball-value indicators lean on Through Balls, Pass Accuracy, and Vision.
-- Style traits point toward Patient in possession.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Build Up Contributor and Press Resistant.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
-| Pass Accuracy | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Close Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Creativity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Mid Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
-
-## Personality
-
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 53
-- **Social (TF)**: 44
-- **Pressure (JP)**: 44
-- **Competitiveness**: 3/10
-- **Coachability**: 2/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
-- **Patient** (style) — severity 5/10
-- **Press Resistant** (tactical) — severity 4/10
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

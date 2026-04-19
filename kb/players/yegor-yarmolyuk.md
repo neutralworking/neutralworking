@@ -2,12 +2,12 @@
 title: Yegor Yarmolyuk
 category: players
 tags: [CM, Brentford, Destroyer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Brentford. Archetype: Destroyer-Creator.
 person_id: 19344
-backlinks: [destroyer, brentford]
+backlinks: [destroyer, tuttocampista, brentford]
 ---
 
 # Yegor Yarmolyuk
@@ -18,21 +18,30 @@ backlinks: [destroyer, brentford]
 |---|---|
 | **Position** | CM |
 | **Club** | Brentford |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A young prospect with the physical profile and basic technical foundation that suggests potential, but at 22, he's still very much in that raw stage where game intelligence hasn't caught up with his abilities. Minutes at senior level have been sparse, and it's impossible to judge whether he'll develop the consistency and decision-making that top-flight football demands.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `81`.
+- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `81`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Aggression, Awareness, and Composure.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +71,14 @@ A young prospect with the physical profile and basic technical foundation that s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 28.5m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,28 +98,21 @@ A young prospect with the physical profile and basic technical foundation that s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-
 ClubDnipro-1
 
 PositionMidfielder
 
 Born1 March 2004
-
-
-
-
-
-
 
 ****************
 
@@ -118,6 +121,5 @@ Yarmolyuk is often compared to his compatriot, the West Ham player Andriy Yarmol
 **September 2022 update** After scoring four goals and making three assists in his past five games for Ukraine Under-19 side, Yarmolyuk signed a three-year contract with Brentford this July. Had a couple of appearances for the first team in pre-season before being placed with the B team.  
   
 **October 2023 update** Continues to progress after his move to Brentford last year. Is now a regular squad member for Thomas Frank’s team in the Premier League and his debut in the English top-flight is surely not far away. Speaking to zoryalondonsk.com about his time in England he said: "One thing I have noticed is that people do like to spend a lot of time in pubs here."**
-
 
 </details>

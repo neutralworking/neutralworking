@@ -2,12 +2,12 @@
 title: Petar Musa
 category: players
 tags: [CF, FC Dallas, Croatia, Target-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at FC Dallas. Archetype: Target-Passer.
 person_id: 16268
-backlinks: [target, fc-dallas]
+backlinks: [target, shadow-striker, fc-dallas]
 ---
 
 # Petar Musa
@@ -21,18 +21,27 @@ backlinks: [target, fc-dallas]
 | **Nation** | Croatia |
 | **Age** | 28 |
 | **Archetype** | [[target]] Target-Passer |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Petar Musa, a 28-year-old Marksman operating as a Complete Forward, is a direct, durable, and available striker who thrives as a counter-attack threat due to his impressive pace, acceleration, jumping, and close-range finishing. While physically moderate, his limited technical and mental pillars, coupled with weaknesses in guile, discipline, and duels, suggest he might struggle in intricate build-up play or against highly physical defenders. As a "newcomer," a Director of Football could see him as a value proposition for clubs employing a direct, transitional style, where his predatory instincts and athletic attributes can be maximized, provided his all-around game isn't overtaxed.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `80`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `80`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and First Touch.
@@ -67,13 +76,14 @@ Petar Musa, a 28-year-old Marksman operating as a Complete Forward, is a direct,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 48.0m |
+| Ceiling | EUR 57.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ Petar Musa, a 28-year-old Marksman operating as a Complete Forward, is a direct,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

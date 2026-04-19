@@ -2,12 +2,12 @@
 title: Harvey Elliott
 category: players
 tags: [CF, Liverpool, United Kingdom, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Liverpool. Archetype: Engine-Dribbler.
 person_id: 19362
-backlinks: [engine, liverpool]
+backlinks: [engine, seconda-punta, liverpool]
 ---
 
 # Harvey Elliott
@@ -21,18 +21,26 @@ backlinks: [engine, liverpool]
 | **Nation** | United Kingdom |
 | **Age** | 23 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
 | **Level** | 86 |
 | **Overall** | 82.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A creative midfielder/winger still piecing together a senior career at Liverpool. Elliott is technically gifted but has struggled with consistency and injury; he's not yet at the level where he's genuinely threatening on a weekly basis in elite company.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta`.
+- Best-fit role is [[seconda-punta]] Seconda Punta.
 - Primary archetype leans toward `Engine` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A creative midfielder/winger still piecing together a senior career at Liverpool
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 20.9m |
+| Mid | EUR 50.0m |
+| Ceiling | EUR 60.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ A creative midfielder/winger still piecing together a senior career at Liverpool
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

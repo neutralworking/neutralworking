@@ -2,12 +2,12 @@
 title: L. Ramazani
 category: players
 tags: [CF, Valencia, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Valencia. Archetype: Sprinter-Creator.
 person_id: 20996
-backlinks: [sprinter, valencia]
+backlinks: [sprinter, seconda-punta, valencia]
 ---
 
 # L. Ramazani
@@ -18,21 +18,30 @@ backlinks: [sprinter, valencia]
 |---|---|
 | **Position** | CF |
 | **Club** | Valencia |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 78 |
 | **Level** | 75 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Ramazani profiles as a direct Complete Forward, showcasing strong technical attributes with blistering acceleration, pace, and take-on ability that make him a constant threat in transition, further aided by excellent balance and shielding. However, he struggles in duels and exhibits a limited mental pillar, characterized by tactical lapses and a hot-headed disciplinary record. This individualistic striker thrives in high-transition or counter-attacking systems, exploiting space behind defenses with bursts of pace rather than intricate tactical understanding. For clubs needing a raw, pacey forward, Ramazani could be a valuable asset, though his significant risk profile demands careful management and a conducive environment to nurture his raw talent.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `78`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Ramazani profiles as a direct Complete Forward, showcasing strong technical attr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Ramazani profiles as a direct Complete Forward, showcasing strong technical attr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

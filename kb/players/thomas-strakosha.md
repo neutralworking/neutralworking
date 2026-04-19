@@ -2,12 +2,12 @@
 title: Thomas Strakosha
 category: players
 tags: [GK, AEK Athens FC, Albania, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: GK at AEK Athens FC. Archetype: GK.
 person_id: 17942
-backlinks: [gk, aek-athens-fc]
+backlinks: [gk, sweeper-keeper, aek-athens-fc]
 ---
 
 # Thomas Strakosha
@@ -21,20 +21,26 @@ backlinks: [gk, aek-athens-fc]
 | **Nation** | Albania |
 | **Age** | 31 |
 | **Archetype** | [[gk]] GK |
+| **Best Role** | [[sweeper-keeper]] Sweeper Keeper |
 | **Level** | 82 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Thomas Strakosha is a professional footballer who was born on March 19, 1995, in Athens. He currently plays as a goalkeeper for Premier League club Brentford and represents the Albania national team. Strakosha began his career at Panionios and later joined Italian club Lazio in 2012. He made his professional debut while on loan at Salernitana in August 2015. During his time at Lazio, he made 208 appearances and won the Coppa Italia and the Supercoppa Italiana twice each. Strakosha made his senior international debut for Albania in March 2017 against Italy. [^1]
+Thomas Strakosha is a professional footballer who was born on March 19, 1995, in Athens. He currently plays as a goalkeeper for Premier League club Brentford and represents the Albania national team. Strakosha began his career at Panionios and later joined Italian club Lazio in 2012. He made his professional debut while on loan at Salernitana in August 2015. During his time at Lazio, he made 208 appearances and won the Coppa Italia and the Supercoppa Italiana twice each. Strakosha made his senior international debut for Albania in March 2017 against Italy.
 
-[^1]: https://en.wikipedia.org/wiki/Thomas_Strakosha
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper Keeper`.
+- Best-fit role is [[sweeper-keeper]] Sweeper Keeper.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Jumping, and Pace.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -68,13 +74,14 @@ Thomas Strakosha is a professional footballer who was born on March 19, 1995, in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,19 +107,17 @@ Thomas Strakosha is a professional footballer who was born on March 19, 1995, in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Thomas Strakosha is a professional footballer who was born on March 19, 1995, in Athens. He currently plays as a goalkeeper for Premier League club Brentford and represents the Albania national team. Strakosha began his career at Panionios and later joined Italian club Lazio in 2012. He made his professional debut while on loan at Salernitana in August 2015. During his time at Lazio, he made 208 appearances and won the Coppa Italia and the Supercoppa Italiana twice each. Strakosha made his senior international debut for Albania in March 2017 against Italy. [^1]
-
-[^1]: https://en.wikipedia.org/wiki/Thomas_Strakosha
+Thomas Strakosha is a professional footballer who was born on March 19, 1995, in Athens. He currently plays as a goalkeeper for Premier League club Brentford and represents the Albania national team. Strakosha began his career at Panionios and later joined Italian club Lazio in 2012. He made his professional debut while on loan at Salernitana in August 2015. During his time at Lazio, he made 208 appearances and won the Coppa Italia and the Supercoppa Italiana twice each. Strakosha made his senior international debut for Albania in March 2017 against Italy.
 
 </details>

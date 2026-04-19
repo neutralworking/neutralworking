@@ -2,12 +2,12 @@
 title: Son Heung-min
 category: players
 tags: [WF, LAFC, South Korea, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at LAFC. Archetype: Striker-Creator.
 person_id: 17513
-backlinks: [striker, lafc]
+backlinks: [striker, winger, lafc]
 ---
 
 # Son Heung-min
@@ -21,6 +21,8 @@ backlinks: [striker, lafc]
 | **Nation** | South Korea |
 | **Age** | 33 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[winger]] Winger |
+| **Role Score** | 61 |
 | **Level** | 84 |
 | **Overall** | 68.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [striker, lafc]
 
 Korean legend. Still deadly — both feet, movement, finishing. The complete forward who can play across the front line.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Winger` with model support score `61`.
+- Best-fit role is [[winger]] Winger with model support score `61`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat and Progressive Carrier.
 - Most bankable strengths show up in Reactions, Stamina, and Acceleration.
@@ -63,13 +72,14 @@ Korean legend. Still deadly — both feet, movement, finishing. The complete for
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 8.5m |
+| Mid | EUR 10.0m |
+| Ceiling | EUR 21.5m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ Korean legend. Still deadly — both feet, movement, finishing. The complete for
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -115,6 +125,5 @@ Korean legend. Still deadly — both feet, movement, finishing. The complete for
 ---
 class: attacker
 ---
-
 
 </details>

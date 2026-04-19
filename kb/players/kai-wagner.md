@@ -2,12 +2,12 @@
 title: Kai Wagner
 category: players
 tags: [CD, Philadelphia Union, Germany, Creator-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Philadelphia Union. Archetype: Creator-Powerhouse.
 person_id: 13282
-backlinks: [creator, philadelphia-union]
+backlinks: [creator, colossus, philadelphia-union]
 ---
 
 # Kai Wagner
@@ -21,18 +21,27 @@ backlinks: [creator, philadelphia-union]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator-Powerhouse |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Kai Wagner presents an intriguing Creator-Powerhouse blend, bringing excellent stamina, pace, and acceleration for a Vorstopper. His surprising crossing ability adds an extra dimension, while his jumping ensures he's competitive in the air. Yet, his utterly dreadful dueling ability, coupled with shocking discipline and practically non-existent blocking, makes him a significant defensive liability.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `74`.
+- Best-fit role is [[colossus]] Colossus with model support score `74`.
 - Primary archetype leans toward `Creator` behaviour from a `CD` base.
 - Most bankable strengths show up in Crossing, Jumping, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Kai Wagner presents an intriguing Creator-Powerhouse blend, bringing excellent s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 12.8m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ Kai Wagner presents an intriguing Creator-Powerhouse blend, bringing excellent s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

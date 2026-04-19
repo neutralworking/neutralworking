@@ -2,10 +2,10 @@
 title: Sophie Howard
 category: players
 tags: [CD, 1899 Hoffenheim, Scotland]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at 1899 Hoffenheim. Archetype: None.
+summary: CD at 1899 Hoffenheim. Archetype: —.
 person_id: 17534
 backlinks: [1899-hoffenheim]
 ---
@@ -20,15 +20,22 @@ backlinks: [1899-hoffenheim]
 | **Club** | 1899 Hoffenheim |
 | **Nation** | Scotland |
 | **Age** | 32 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 73 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran centre-back with excellent reading of the game and genuine leadership presence—she organizes a defensive line and understands angles in a way that comes only with experience. Her physical decline is obvious now; she's lost half a yard of pace and will get exposed against pacey, direct forwards in any competitive league. She remains a squad depth option or a steady hand in a lower-tier women's side, but her Hoffenheim tenure feels like a final professional engagement rather than an active contribution to their first-team ambitions.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A veteran centre-back with excellent reading of the game and genuine leadership 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A veteran centre-back with excellent reading of the game and genuine leadership 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

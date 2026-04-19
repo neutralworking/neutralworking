@@ -2,12 +2,12 @@
 title: Andriy Yarmolenko
 category: players
 tags: [WF, Dynamo Kyiv, Ukraine, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Dynamo Kyiv. Archetype: Creator.
 person_id: 8515
-backlinks: [creator, dynamo-kyiv]
+backlinks: [creator, wide-playmaker, dynamo-kyiv]
 ---
 
 # Andriy Yarmolenko
@@ -21,18 +21,27 @@ backlinks: [creator, dynamo-kyiv]
 | **Nation** | Ukraine |
 | **Age** | 36 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 63 |
 | **Level** | 66 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran winger whose career has been defined by intelligent movement and precise delivery rather than explosive athleticism, Yarmolenko remains a functional operator in transition play and set-piece situations. At 36, he's lost the explosive step that made him dangerous in open play during his West Ham years, but he still reads defensive shape well and can pick a cross or diagonal pass with genuine quality. The problem is durability and recovery time—he's no longer the box-to-box outlet that justifies a starting berth at an ambitious club, and in Ukrainian football's current state of flux, he's become a squad depth piece rather than a lynchpin.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `63`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `63`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Penalties, Close Range, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -65,11 +74,12 @@ A veteran winger whose career has been defined by intelligent movement and preci
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 1.3m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ A veteran winger whose career has been defined by intelligent movement and preci
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: L. Verde
 category: players
 tags: [CF, Unión Santa Fe, Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Unión Santa Fe. Archetype: Creator.
 person_id: 25233
-backlinks: [creator, union-santa-fe]
+backlinks: [creator, falso-nove, union-santa-fe]
 ---
 
 # L. Verde
@@ -18,21 +18,30 @@ backlinks: [creator, union-santa-fe]
 |---|---|
 | **Position** | CF |
 | **Club** | Unión Santa Fe |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 L. Verde projects primarily as a CF with a `Creator` lean. The strongest database support comes from Carries, Tactical, and Aggression.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove` with model support score `69`.
+- Best-fit role is [[falso-nove]] Falso Nove with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Carries, Tactical, and Aggression.
@@ -63,13 +72,14 @@ L. Verde projects primarily as a CF with a `Creator` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 5.1m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,6 +106,6 @@ L. Verde projects primarily as a CF with a `Creator` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

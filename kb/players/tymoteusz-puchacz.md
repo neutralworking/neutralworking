@@ -2,12 +2,12 @@
 title: Tymoteusz Puchacz
 category: players
 tags: [WD, Sabah FK, Poland, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Sabah FK. Archetype: Powerhouse.
 person_id: 18218
-backlinks: [powerhouse, sabah-fk]
+backlinks: [powerhouse, fullback, sabah-fk]
 ---
 
 # Tymoteusz Puchacz
@@ -21,18 +21,26 @@ backlinks: [powerhouse, sabah-fk]
 | **Nation** | Poland |
 | **Age** | 27 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[fullback]] Fullback |
 | **Level** | 82 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Tymoteusz Puchacz projects primarily as a WD with a `Powerhouse` lean. The strongest database support comes from Stamina, Acceleration, and Balance.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Fullback`.
+- Best-fit role is [[fullback]] Fullback.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Tymoteusz Puchacz projects primarily as a WD with a `Powerhouse` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 1.4m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,6 +104,6 @@ Tymoteusz Puchacz projects primarily as a WD with a `Powerhouse` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: M'Baye Niang
 category: players
 tags: [WF, Gençlerbirligi, Senegal, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Gençlerbirligi. Archetype: Striker-Creator.
 person_id: 14267
-backlinks: [striker, genclerbirligi]
+backlinks: [striker, wide-target-forward, genclerbirligi]
 ---
 
 # M'Baye Niang
@@ -21,18 +21,27 @@ backlinks: [striker, genclerbirligi]
 | **Nation** | Senegal |
 | **Age** | 31 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[wide-target-forward]] Wide Target Forward |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 M'Baye Niang, a Striker-Creator, functions as an Inside Forward best deployed as an Inventor, showcasing impressive goal-scoring versatility across all ranges and exceptional guile. His strong mental and tactical pillars enable smart movement and clinical finishing, making him a dangerous threat from the left flank, despite a moderate physical profile. Niang embodies the modern inverted winger who seeks to cut inside and threaten goal directly, a role popularized in systems that utilize attacking players between the lines and in the half-spaces, with his right-footed presence on the left wing signifying a classic 'number 10' playing wide. At 31, and with traits like availability and durability, Niang offers an experienced and reliable goal threat for clubs seeking an immediate impact in their attacking third, though his limited pass accuracy and notable disciplinary weakness suggest he might not suit intricate possession-based systems.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Target Forward` with model support score `79`.
+- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `79`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Aggression, Penalties, and Duels.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +71,14 @@ M'Baye Niang, a Striker-Creator, functions as an Inside Forward best deployed as
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.8m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ M'Baye Niang, a Striker-Creator, functions as an Inside Forward best deployed as
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,10 +2,10 @@
 title: Jay-Jay Okocha
 category: players
 tags: [AM, Nigeria]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: AM at None. Archetype: None.
+summary: AM at —. Archetype: —.
 person_id: 12475
 ---
 
@@ -16,18 +16,25 @@ person_id: 12475
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Nigeria |
 | **Age** | 52 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 43 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is widely regarded as the best Nigerian player of his generation and one of the greatest African players of all time, Okocha was known for his pace on the ball, technique, Creativity, and dribbling skills, as well as his use of feints, in particular the stepover. Due to his skill, he was described as being 'so good that they named him twice' (a line immortalised in a terrace chant while Okocha played for Bolton Wanderers). He is a dual Nigerian-Turkish citizen, "having acquired Turkish citizenship as ""Muhammet Yavuz"" while playing for Süper Lig team Fenerbahçe. Instinctive", Risk-Taker, Quick Reactions, Very Skillful, Brazilian/Parisian/Street Style
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -40,10 +47,11 @@ CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is wide
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -54,8 +62,8 @@ CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is wide
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -66,6 +74,6 @@ CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is wide
 {}
 ---
 
-CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is widely regarded as the best Nigerian player of his generation and one of the greatest African players of all time, Okocha was known for his pace on the ball, technique, Creativity, and dribbling skills, as well as his use of feints, in particular the stepover. Due to his skill, he was described as being 'so good that they named him twice' (a line immortalised in a terrace chant while Okocha played for Bolton Wanderers). He is a dual Nigerian-Turkish citizen, "having acquired Turkish citizenship as ""Muhammet Yavuz"" while playing for Süper Lig team Fenerbahçe. Instinctive", Risk-Taker, Quick Reactions, Very Skillful, Brazilian/Parisian/Street Style		
+CM		Creator	Craque	Bol, PSG	NGA	B	0.0	A quick and skilful playmaker, who is widely regarded as the best Nigerian player of his generation and one of the greatest African players of all time, Okocha was known for his pace on the ball, technique, Creativity, and dribbling skills, as well as his use of feints, in particular the stepover. Due to his skill, he was described as being 'so good that they named him twice' (a line immortalised in a terrace chant while Okocha played for Bolton Wanderers). He is a dual Nigerian-Turkish citizen, "having acquired Turkish citizenship as ""Muhammet Yavuz"" while playing for Süper Lig team Fenerbahçe. Instinctive", Risk-Taker, Quick Reactions, Very Skillful, Brazilian/Parisian/Street Style
 
 </details>

@@ -2,12 +2,12 @@
 title: Marko Livaja
 category: players
 tags: [CF, HNK Hajduk Split, Target-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at HNK Hajduk Split. Archetype: Target-Striker.
 person_id: 19901
-backlinks: [target, hnk-hajduk-split]
+backlinks: [target, shadow-striker, hnk-hajduk-split]
 ---
 
 # Marko Livaja
@@ -18,21 +18,30 @@ backlinks: [target, hnk-hajduk-split]
 |---|---|
 | **Position** | CF |
 | **Club** | HNK Hajduk Split |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[target]] Target-Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 58 |
 | **Level** | 76 |
 | **Overall** | 59.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Marko Livaja is a Complete Forward who excels at using his physicality and jumping ability to win headers and provide a target for his team. However, his limited tactical awareness and lack of blocking ability are weaknesses that need to be addressed. As an Assassin, Livaja's strengths lie in his ability to provide a direct threat and capitalize on counter-attacks, but he must work on his vision and guile to become a more effective striker.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `58`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `58`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Shielding, and Acceleration.
@@ -63,13 +72,14 @@ Marko Livaja is a Complete Forward who excels at using his physicality and jumpi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Marko Livaja is a Complete Forward who excels at using his physicality and jumpi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

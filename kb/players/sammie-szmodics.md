@@ -2,12 +2,12 @@
 title: Sammie Szmodics
 category: players
 tags: [AM, Ipswich Town, Ireland, Striker-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Ipswich Town. Archetype: Striker-Destroyer.
 person_id: 17111
-backlinks: [striker, ipswich-town]
+backlinks: [striker, trequartista, ipswich-town]
 ---
 
 # Sammie Szmodics
@@ -21,18 +21,27 @@ backlinks: [striker, ipswich-town]
 | **Nation** | Ireland |
 | **Age** | 30 |
 | **Archetype** | [[striker]] Striker-Destroyer |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 49 |
 | **Level** | 86 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 An attacking midfielder who thrives in quick combinations through the middle and has the technical ability to find a pass in tight spaces. Szmodics can produce moments of brilliance in the final third, but he's not consistent enough to be a primary creator and he'll disappear for stretches when the opposition's pressure increases. At 30, this is his level: a useful depth option who might steal a game but won't carry a season.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `49`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `49`.
 - Primary archetype leans toward `Striker` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Shielding, Acceleration, and Balance.
@@ -67,13 +76,14 @@ An attacking midfielder who thrives in quick combinations through the middle and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 27.2m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ An attacking midfielder who thrives in quick combinations through the middle and
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

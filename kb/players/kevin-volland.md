@@ -2,12 +2,12 @@
 title: Kevin Volland
 category: players
 tags: [CF, Union Berlin, Germany, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Union Berlin. Archetype: Creator.
 person_id: 13498
-backlinks: [creator, union-berlin]
+backlinks: [creator, seconda-punta, union-berlin]
 ---
 
 # Kevin Volland
@@ -21,18 +21,26 @@ backlinks: [creator, union-berlin]
 | **Nation** | Germany |
 | **Age** | 33 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
 | **Level** | 76 |
 | **Overall** | 74.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A persistent, intelligent forward who's found a second wind at Union Berlin after his wanderings through Monaco and Roma. He's not quick enough to play the modern high-press game as a starter anymore—his burst is gone—but he's learned to operate in the half-spaces with real cunning, finding pockets between the lines where his reading of the game and link-up play become assets rather than luxuries. His movement off the ball is excellent; he knows how to create space for others and himself through positioning rather than acceleration. The problem is obvious: he cannot carry a team on his shoulders or transform games through individual brilliance, and in transition he's a liability on the press. For Union, in a functional 1. FC setup playing pragmatic football, he remains a useful squad piece and occasional starter, but he's a very good role player now, not a primary weapon.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta`.
+- Best-fit role is [[seconda-punta]] Seconda Punta.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Aggression, and First Touch.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -63,13 +71,14 @@ A persistent, intelligent forward who's found a second wind at Union Berlin afte
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.5m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,11 +105,11 @@ A persistent, intelligent forward who's found a second wind at Union Berlin afte
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

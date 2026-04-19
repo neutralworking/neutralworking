@@ -2,12 +2,12 @@
 title: Rodrigo Perez
 category: players
 tags: [CM, Costa del Este FC, Paraguay]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CM at Costa del Este FC. Archetype: None.
+summary: CM at Costa del Este FC. Archetype: —.
 person_id: 32054
-backlinks: [costa-del-este-fc]
+backlinks: [mezzala, costa-del-este-fc]
 ---
 
 # Rodrigo Perez
@@ -20,19 +20,28 @@ backlinks: [costa-del-este-fc]
 | **Club** | Costa del Este FC |
 | **Nation** | Paraguay |
 | **Age** | 29 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
+| **Archetype** | — |
+| **Best Role** | [[mezzala]] Mezzala |
+| **Role Score** | 31 |
+| **Level** | — |
 | **Overall** | 27.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | None |
+| **Pursuit** | — |
+| **Market Value Tier** | — |
 
 ## Snapshot
 
-Rodrigo Perez projects primarily as a CM with a `None` lean. The strongest database support comes from Communication, Concentration, and Flair.
+Rodrigo Perez projects primarily as a CM with a `—` lean. The strongest database support comes from Communication, Concentration, and Flair.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is `Mezzala` with model support score `31`.
+- Best-fit role is [[mezzala]] Mezzala with model support score `31`.
 - Most bankable strengths show up in Communication, Concentration, and Flair.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
 
@@ -66,8 +75,9 @@ Rodrigo Perez projects primarily as a CM with a `None` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Role scarcity, age curve, and available market evidence.
+- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -78,4 +88,4 @@ Rodrigo Perez projects primarily as a CM with a `None` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |

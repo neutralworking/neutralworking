@@ -2,10 +2,10 @@
 title: Robert Jonquet
 category: players
 tags: [CD, France]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at None. Archetype: None.
+summary: CD at —. Archetype: —.
 person_id: 16708
 ---
 
@@ -16,13 +16,13 @@ person_id: 16708
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | France |
 | **Age** | 100 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -32,6 +32,13 @@ Although he possessed the stength in tackles and and in the air that was vital t
 Stylish centre-half Robert Jonquet was one of the stars of the great Stade de Reims side who won a multitude of major domestic honours during the 1950s and were one of the leading sides in the early years of the European Cup.  Captain of France for several years, he also led his country through to the semi-finals of the 1958 World Cup in Sweden where he famously played on despite suffering a broken leg. Jonquet was born in Paris on 3 May 1925 and spent his early years in the city's southern suburbs.  He was a good all-round athlete and excelled in athletics as well as football. 
 
 During his youth he played for Le Plessis-Robinson and SS Voltaire before moving with his family at Reims at the age of 17.  Local side Stade de Reims quickly signed him up and Jonquet spent the remainder of the war years in the club's youth setup before moving into the senior side when competitive football resumed in 1945.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,10 +55,11 @@ During his youth he played for Le Plessis-Robinson and SS Voltaire before moving
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -62,8 +70,8 @@ During his youth he played for Le Plessis-Robinson and SS Voltaire before moving
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -81,6 +89,6 @@ Although he possessed the stength in tackles and and in the air that was vital t
 
 Stylish centre-half Robert Jonquet was one of the stars of the great Stade de Reims side who won a multitude of major domestic honours during the 1950s and were one of the leading sides in the early years of the European Cup.  Captain of France for several years, he also led his country through to the semi-finals of the 1958 World Cup in Sweden where he famously played on despite suffering a broken leg. Jonquet was born in Paris on 3 May 1925 and spent his early years in the city's southern suburbs.  He was a good all-round athlete and excelled in athletics as well as football. 
 
-During his youth he played for Le Plessis-Robinson and SS Voltaire before moving with his family at Reims at the age of 17.  Local side Stade de Reims quickly signed him up and Jonquet spent the remainder of the war years in the club's youth setup before moving into the senior side when competitive football resumed in 1945. 
+During his youth he played for Le Plessis-Robinson and SS Voltaire before moving with his family at Reims at the age of 17.  Local side Stade de Reims quickly signed him up and Jonquet spent the remainder of the war years in the club's youth setup before moving into the senior side when competitive football resumed in 1945.
 
 </details>

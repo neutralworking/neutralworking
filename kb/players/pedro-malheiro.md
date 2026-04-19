@@ -2,12 +2,12 @@
 title: Pedro Malheiro
 category: players
 tags: [WD, Boavista, Portugal, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Boavista. Archetype: Dribbler-Sprinter.
 person_id: 16236
-backlinks: [dribbler, boavista]
+backlinks: [dribbler, corner-back, boavista]
 ---
 
 # Pedro Malheiro
@@ -21,18 +21,26 @@ backlinks: [dribbler, boavista]
 | **Nation** | Portugal |
 | **Age** | 25 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 85 |
 | **Overall** | 81.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Pedro Malheiro is a Dribbler-Sprinter with electric pace, exceptional stamina, and a superb first touch, making him a potent force in take-ons down the flank as an Attacking Full-Back. Despite his athletic prowess, a concerning lack of overall technical finesse, tactical awareness, and mental resilience limits his effectiveness, often leading to poor decisions and execution that undermine his offensive output as a Carrilero.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back`.
+- Best-fit role is [[corner-back]] Corner Back.
 - Primary archetype leans toward `Dribbler` behaviour from a `WD` base.
 - Most bankable strengths show up in Pace, Acceleration, and Stamina.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -63,13 +71,14 @@ Pedro Malheiro is a Dribbler-Sprinter with electric pace, exceptional stamina, a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.2m |
+| Mid | EUR 43.0m |
+| Ceiling | EUR 51.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -95,7 +104,7 @@ Pedro Malheiro is a Dribbler-Sprinter with electric pace, exceptional stamina, a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

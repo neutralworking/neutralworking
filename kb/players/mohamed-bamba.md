@@ -2,12 +2,12 @@
 title: Mohamed Bamba
 category: players
 tags: [CF, Lorient, Ivory Coast, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Lorient. Archetype: Striker.
 person_id: 15283
-backlinks: [striker, lorient]
+backlinks: [striker, seconda-punta, lorient]
 ---
 
 # Mohamed Bamba
@@ -21,18 +21,27 @@ backlinks: [striker, lorient]
 | **Nation** | Ivory Coast |
 | **Age** | 24 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, direct center-forward operating in the Portuguese second tier who relies on aerial dominance and off-the-ball positioning rather than technical sophistication. He's the type who'll win you headers in the box and troubles defenders with his aggression, but lacks the movement patterns and positional intelligence to function effectively against organized defensive schemes. Without meaningful Primeira Liga or European experience, he remains a functional asset at this level rather than an emerging prospect with genuine upside.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `74`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `74`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Jumping, Pace, and Balance.
@@ -63,13 +72,14 @@ A physical, direct center-forward operating in the Portuguese second tier who re
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.4m |
+| Mid | EUR 13.0m |
+| Ceiling | EUR 15.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ A physical, direct center-forward operating in the Portuguese second tier who re
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

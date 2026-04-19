@@ -2,12 +2,12 @@
 title: Guilherme Manuel Serrão Montóia
 category: players
 tags: [WM, Estrela da Amadora, Cover-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Estrela da Amadora. Archetype: Cover-Creator.
 person_id: 27124
-backlinks: [cover, estrela-da-amadora]
+backlinks: [cover, tornante, estrela-da-amadora]
 ---
 
 # Guilherme Manuel Serrão Montóia
@@ -18,21 +18,29 @@ backlinks: [cover, estrela-da-amadora]
 |---|---|
 | **Position** | WM |
 | **Club** | Estrela da Amadora |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Creator |
-| **Level** | None |
+| **Best Role** | [[tornante]] Tornante |
+| **Level** | — |
 | **Overall** | 38.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Montóia is a hard-working winger who excels at using his vision to pick out passes and his discipline to track back and defend, but his technical and tactical limitations restrict his ability to beat opponents and create scoring opportunities. As a tornante, he is well-suited to a system that values width and direct running, but his lack of guile and limited mental attributes mean he can struggle to adapt to different situations. A team that prioritizes defensive solidity and quick transitions could find Montóia to be a valuable addition, but his limitations mean he may not be the best fit for a side that dominates possession.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Tornante`.
+- Best-fit role is [[tornante]] Tornante.
 - Primary archetype leans toward `Cover` behaviour from a `WM` base.
 - Most bankable strengths show up in Drive, Skills, and Concentration.
 
@@ -57,13 +65,14 @@ Montóia is a hard-working winger who excels at using his vision to pick out pas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,6 +92,6 @@ Montóia is a hard-working winger who excels at using his vision to pick out pas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

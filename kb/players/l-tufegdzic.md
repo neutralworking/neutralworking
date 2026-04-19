@@ -2,12 +2,12 @@
 title: L. Tufegdžić
 category: players
 tags: [AM, Čukarički, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Čukarički. Archetype: Creator-Striker.
 person_id: 23562
-backlinks: [creator, cukaricki]
+backlinks: [creator, enganche, cukaricki]
 ---
 
 # L. Tufegdžić
@@ -18,21 +18,30 @@ backlinks: [creator, cukaricki]
 |---|---|
 | **Position** | AM |
 | **Club** | Čukarički |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[enganche]] Enganche |
+| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 L. Tufegdžić is a creative Drifter type, best suited to a Trequartista role, where his vision and creativity can be fully expressed. While he has some technical limitations, his mental strengths and discipline make him a reliable presence in midfield. Historically, players like Tufegdžić have thrived in systems that emphasize possession and interplay, and he would be a strong fit for a club that values technical ability and tactical nuance. His market position is moderate due to his creative abilities, and his risk factors include potential struggles in more physical or direct systems.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Enganche` with model support score `72`.
+- Best-fit role is [[enganche]] Enganche with model support score `72`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Pressing, Aggression, and Through Balls.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -58,13 +67,14 @@ L. Tufegdžić is a creative Drifter type, best suited to a Trequartista role, w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -85,6 +95,6 @@ L. Tufegdžić is a creative Drifter type, best suited to a Trequartista role, w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

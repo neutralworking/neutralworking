@@ -1,6 +1,6 @@
 # Archetypes Index
 
-> 13 articles | 2,742 words | Last rebuilt: 2026-04-18
+> 13 articles | 4,872 words | Last rebuilt: 2026-04-19
 
 ## Articles
 

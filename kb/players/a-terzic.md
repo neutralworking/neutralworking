@@ -2,12 +2,12 @@
 title: A. Terzić
 category: players
 tags: [WM, Red Bull Salzburg, Sprinter-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Red Bull Salzburg. Archetype: Sprinter-Cover.
 person_id: 25222
-backlinks: [sprinter, red-bull-salzburg]
+backlinks: [sprinter, wide-playmaker, red-bull-salzburg]
 ---
 
 # A. Terzić
@@ -18,21 +18,30 @@ backlinks: [sprinter, red-bull-salzburg]
 |---|---|
 | **Position** | WM |
 | **Club** | Red Bull Salzburg |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Terzić's pace and acceleration make him a formidable Winger, capable of beating defenders with his first touch and crossing ability. However, his limited tactical awareness and lack of guile can lead to predictable play, and his weakness in blocking can leave his team exposed on the counter. A team that values direct, pacey attacks could benefit from his skills, but may need to provide additional support to compensate for his weaknesses.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `76`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Crossing, and First Touch.
 
@@ -58,13 +67,14 @@ Terzić's pace and acceleration make him a formidable Winger, capable of beating
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 22.1m |
+| Mid | EUR 26.0m |
+| Ceiling | EUR 31.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -87,7 +97,7 @@ Terzić's pace and acceleration make him a formidable Winger, capable of beating
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Ryan Gravenberch
 category: players
 tags: [CM, Liverpool, Netherlands, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Liverpool. Archetype: Engine-Dribbler.
 person_id: 16949
-backlinks: [engine, liverpool]
+backlinks: [engine, playmaker, liverpool]
 ---
 
 # Ryan Gravenberch
@@ -21,6 +21,8 @@ backlinks: [engine, liverpool]
 | **Nation** | Netherlands |
 | **Age** | 23 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 72 |
 | **Level** | 88 |
 | **Overall** | 69.0 |
 | **Pursuit** | Watch |
@@ -30,9 +32,16 @@ backlinks: [engine, liverpool]
 
 Gravenberch's technical ability and vision make him a strong fit as a Tuttocampista, where his passing range and movement can be fully utilized, but his limitations in terms of mental toughness and discipline are notable weaknesses. Historically, his role is reminiscent of traditional box-to-box midfielders, and he would thrive in systems that emphasize high-intensity pressing and quick transitions. As a rising player, his market value is relatively high, and a club seeking a creative, technical midfielder would be the best fit, although his lack of development in key areas is a risk factor.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `72`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `72`.
 - Primary archetype leans toward `Engine` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
 - Most bankable strengths show up in Close Range, Composure, and Intensity.
@@ -67,13 +76,14 @@ Gravenberch's technical ability and vision make him a strong fit as a Tuttocampi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 62.9m |
+| Mid | EUR 74.0m |
+| Ceiling | EUR 99.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,7 +114,7 @@ Gravenberch's technical ability and vision make him a strong fit as a Tuttocampi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 53 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 53 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

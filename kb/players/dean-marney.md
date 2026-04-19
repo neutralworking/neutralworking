@@ -2,12 +2,12 @@
 title: Dean Marney
 category: players
 tags: [CM, Fleetwood Town, England, Target]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Fleetwood Town. Archetype: Target.
 person_id: 10164
-backlinks: [target, fleetwood-town]
+backlinks: [target, ball-winner, fleetwood-town]
 ---
 
 # Dean Marney
@@ -21,18 +21,26 @@ backlinks: [target, fleetwood-town]
 | **Nation** | England |
 | **Age** | 42 |
 | **Archetype** | [[target]] Target |
+| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 42 |
 | **Overall** | 40.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dean Marney projects primarily as a CM with a `Target` lean. The strongest database support comes from Acceleration, First Touch, and Interceptions.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner`.
+- Best-fit role is [[ball-winner]] Ball Winner.
 - Primary archetype leans toward `Target` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Interceptions.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,10 +74,11 @@ Dean Marney projects primarily as a CM with a `Target` lean. The strongest datab
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +103,6 @@ Dean Marney projects primarily as a CM with a `Target` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

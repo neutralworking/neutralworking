@@ -2,12 +2,12 @@
 title: Oscar Gloukh
 category: players
 tags: [AM, Ajax, Israel, Dribbler-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Ajax. Archetype: Dribbler-Sprinter.
 person_id: 15986
-backlinks: [dribbler, ajax]
+backlinks: [dribbler, trequartista, ajax]
 ---
 
 # Oscar Gloukh
@@ -21,18 +21,27 @@ backlinks: [dribbler, ajax]
 | **Nation** | Israel |
 | **Age** | 22 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
+| **Best Role** | [[trequartista]] Trequartista |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Attacking midfielder with genuine invention and a willingness to try the unexpected from deep. He's got a lovely left foot and the spatial awareness to pick passes others miss. Physically, though, he's slight, and he'll get bullied off the ball in transition—he needs to play in a protected role or in a high-possession system.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista` with model support score `81`.
+- Best-fit role is [[trequartista]] Trequartista with model support score `81`.
 - Primary archetype leans toward `Dribbler` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
@@ -63,13 +72,14 @@ Attacking midfielder with genuine invention and a willingness to try the unexpec
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 14.2m |
+| Mid | EUR 58.0m |
+| Ceiling | EUR 69.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -99,7 +109,7 @@ Attacking midfielder with genuine invention and a willingness to try the unexpec
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

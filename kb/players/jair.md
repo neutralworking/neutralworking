@@ -1,13 +1,13 @@
 ---
 title: Jair
 category: players
-tags: [CD, Nottingham Forest, Cover]
-updated: 2026-04-17
+tags: [WM, Brazil, Dribbler]
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at Nottingham Forest. Archetype: Cover.
-person_id: 27926
-backlinks: [cover, nottingham-forest]
+summary: WM at —. Archetype: Dribbler.
+person_id: 12222
+backlinks: [dribbler]
 ---
 
 # Jair
@@ -16,81 +16,82 @@ backlinks: [cover, nottingham-forest]
 
 | Field | Value |
 |---|---|
-| **Position** | CD |
-| **Club** | Nottingham Forest |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[cover]] Cover |
-| **Level** | None |
-| **Overall** | 49.0 |
-| **Pursuit** | None |
-| **Market Value Tier** | 3 |
+| **Position** | WM |
+| **Club** | — |
+| **Nation** | Brazil |
+| **Age** | — |
+| **Archetype** | [[dribbler]] Dribbler |
+| **Level** | 78 |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-Jair projects primarily as a CD with a `Cover` lean. The strongest database support comes from Discipline, Blocking, and Composure.
+Jair projects primarily as a WM with a `Dribbler` lean. The strongest database support comes from First Touch, Long Range, and Mid Range.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `64`.
-- Primary archetype leans toward `Cover` behaviour from a `CD` base.
-- Most bankable strengths show up in Discipline, Blocking, and Composure.
-- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+- Primary archetype leans toward `Dribbler` behaviour from a `WM` base.
+- Most bankable strengths show up in First Touch, Long Range, and Mid Range.
 
 ## In Possession
 
-- Ball-value indicators lean on Discipline, Blocking, and Composure.
-
-## Out of Possession
-
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+- Ball-value indicators lean on First Touch, Long Range, and Mid Range.
 
 ## Scouting Indicators
 
 | Indicator | Value | Interpretation |
 |---|---|---|
-| Discipline | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
-| Blocking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Duels | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Marking | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
-| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
-| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Mid Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Skills | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Aerial Duels | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8m |
-| Mid | EUR 12m |
-| Ceiling | EUR 18m |
-| Confidence | Low |
+| Floor | EUR 11.9m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Coachability score is low enough to raise integration risk in demanding environments.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 58
-- **Motivation (SN)**: 61
-- **Social (TF)**: 31
-- **Pressure (JP)**: 62
-- **Competitiveness**: 4/10
-- **Coachability**: 3/10
+- **Game Reading (EI)**: 43
+- **Motivation (SN)**: 44
+- **Social (TF)**: 74
+- **Pressure (JP)**: 46
+- **Competitiveness**: 6/10
+- **Coachability**: 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -103,7 +104,6 @@ number: 10
 nation: BRA
 tier: c
 ```
-
 
 Small and slightly built, he did not seem to have the necessary physical attributes to make it as a footballer but his frail appearance hid an incredibly powerful left foot shot, the weapon around which he built his game.
 Initially a left winger, Jair began his football career as a teenager with the youth teams of Vasco da Gama but unable to break through to the senior teams, left the club and signed his first professional contract with Madureira in 1938.

@@ -2,12 +2,12 @@
 title: Samuel Lino
 category: players
 tags: [WF, Flamengo, Brazil, Engine-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Flamengo. Archetype: Engine-Creator.
 person_id: 17134
-backlinks: [engine, flamengo]
+backlinks: [engine, wide-playmaker, flamengo]
 ---
 
 # Samuel Lino
@@ -21,18 +21,27 @@ backlinks: [engine, flamengo]
 | **Nation** | Brazil |
 | **Age** | 26 |
 | **Archetype** | [[engine]] Engine-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left winger of genuine craft who operates with intelligence in the half-spaces, comfortable drifting infield to receive between the lines rather than hugging the touchline like a traditional wide man. His left foot is reliable—decent crosser, capable passer—and he reads the game well enough to make himself available for progressive possession sequences. The issue is a lack of explosive acceleration and an inconsistent end product; he'll thread a lovely through-ball one moment and then balloon a cross the next, which has kept him from the very top tier despite his technical fluidity. At Flamengo in the Brazilian league, he's a reliable, match-fit starter with Europa-League-quality attributes, but he hasn't yet shown the decisiveness or penetration to drive a title push single-handedly.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `80`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `80`.
 - Primary archetype leans toward `Engine` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Acceleration, Balance, and Stamina.
@@ -67,13 +76,14 @@ A left winger of genuine craft who operates with intelligence in the half-spaces
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 16.1m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -103,7 +113,7 @@ A left winger of genuine craft who operates with intelligence in the half-spaces
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Lukas Daschner
 category: players
 tags: [CM, FC St. Gallen, Germany, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at FC St. Gallen. Archetype: Sprinter-Dribbler.
 person_id: 14189
-backlinks: [sprinter, fc-st-gallen]
+backlinks: [sprinter, playmaker, fc-st-gallen]
 ---
 
 # Lukas Daschner
@@ -21,18 +21,27 @@ backlinks: [sprinter, fc-st-gallen]
 | **Nation** | Germany |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lukas Daschner is a Metodista who excels as a progressive carrier, using his balance, acceleration, and shielding to beat opponents and drive forward, although his limited tactical awareness and guile restrict his ability to pick out decisive passes, and his flamboyant trait can sometimes lead to careless mistakes, making him a high-risk, high-reward option for a team that values attacking flair, with his strong physicality and technical ability making him a handful for opponents, but his limited defensive contribution and tendency to overplay may require careful management to balance his attacking threat with defensive responsibility.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `79`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `79`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Balance, Acceleration, and Jumping.
@@ -63,13 +72,14 @@ Lukas Daschner is a Metodista who excels as a progressive carrier, using his bal
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +107,7 @@ Lukas Daschner is a Metodista who excels as a progressive carrier, using his bal
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Karim Konate
 category: players
 tags: [CF, Red Bull Salzburg, Côte d’Ivoire, Sprinter-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Red Bull Salzburg. Archetype: Sprinter-Dribbler.
 person_id: 13321
-backlinks: [sprinter, red-bull-salzburg]
+backlinks: [sprinter, shadow-striker, red-bull-salzburg]
 ---
 
 # Karim Konate
@@ -21,13 +21,14 @@ backlinks: [sprinter, red-bull-salzburg]
 | **Nation** | Côte d’Ivoire |
 | **Age** | 22 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
-
 
 ClubASEC Mimosas
 
@@ -41,10 +42,16 @@ ASEC Mimosas’s MimoSifcom of is one of the world’s most prolific academies. 
   
 **October 2023 update** Still only 18, he scored 19 goals for Red Bull Salzburg and FC Liefering last season. This year, he’s a regular starter for Salzburg and is projected to follow in the footsteps of Patson Daka, Sadio Mané and Erling Haaland as a major future club export.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Shadow Striker` with model support score `81`.
+- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `81`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -71,13 +78,14 @@ ASEC Mimosas’s MimoSifcom of is one of the world’s most prolific academies. 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 11.4m |
+| Mid | EUR 56.0m |
+| Ceiling | EUR 67.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +109,7 @@ ASEC Mimosas’s MimoSifcom of is one of the world’s most prolific academies. 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

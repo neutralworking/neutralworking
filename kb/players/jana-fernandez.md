@@ -2,10 +2,10 @@
 title: Jana Fernández
 category: players
 tags: [CD, Barcelona Femení, Spain]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CD at Barcelona Femení. Archetype: None.
+summary: CD at Barcelona Femení. Archetype: —.
 person_id: 12395
 backlinks: [barcelona-femeni]
 ---
@@ -20,15 +20,22 @@ backlinks: [barcelona-femeni]
 | **Club** | Barcelona Femení |
 | **Nation** | Spain |
 | **Age** | 24 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A left-sided centre-back with genuine technical security and an appetite for progressive carries that makes her more than just a defensive fixture. She reads the game well, positions intelligently, and has the footwork to play her way out of pressure in Barcelona's building phase. Her limitations emerge against the most ruthless finishers in Europe—she can be exposed by explosive direct play—and she occasionally drifts out of position when tempted into overambition on the ball.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A left-sided centre-back with genuine technical security and an appetite for pro
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A left-sided centre-back with genuine technical security and an appetite for pro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

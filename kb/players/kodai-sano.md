@@ -2,12 +2,12 @@
 title: Kodai Sano
 category: players
 tags: [WM, Mainz 05, Japan, Cover-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Mainz 05. Archetype: Cover-Sprinter.
 person_id: 13591
-backlinks: [cover, mainz-05]
+backlinks: [cover, wide-playmaker, mainz-05]
 ---
 
 # Kodai Sano
@@ -21,18 +21,27 @@ backlinks: [cover, mainz-05]
 | **Nation** | Japan |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover-Sprinter |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Kodai Sano, an Architect archetype operating as a Wide Midfielder, is a Tornante who combines strong technical, mental, and physical pillars, making him a dynamic force on the left side. His game is characterized by excellent acceleration, stamina, balance, and shielding, complemented by a good pass range, though a notable lack of guile, mental weaknesses, and limited creativity suggest he's more of a hardworking, direct runner than an intricate playmaker. As a Tornante with a high-press trait, Sano embodies the modern wide player who operates as a shuttler, providing both defensive work rate and forward thrust. As a 22-year-old one-club player, he represents a solid investment for clubs looking for a reliable, high-energy wide midfielder with strong physical attributes and defensive commitment.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `76`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `76`.
 - Primary archetype leans toward `Cover` behaviour from a `WM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Balance, and Stamina.
@@ -63,13 +72,14 @@ Kodai Sano, an Architect archetype operating as a Wide Midfielder, is a Tornante
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 11.4m |
+| Mid | EUR 24.0m |
+| Ceiling | EUR 28.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Kodai Sano, an Architect archetype operating as a Wide Midfielder, is a Tornante
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

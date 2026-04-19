@@ -2,12 +2,12 @@
 title: T. Bergvall
 category: players
 tags: [DM, Lausanne, Cover-Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Lausanne. Archetype: Cover-Creator.
 person_id: 27431
-backlinks: [cover, lausanne]
+backlinks: [cover, segundo-volante, lausanne]
 ---
 
 # T. Bergvall
@@ -18,21 +18,29 @@ backlinks: [cover, lausanne]
 |---|---|
 | **Position** | DM |
 | **Club** | Lausanne |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Creator |
-| **Level** | None |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Level** | — |
 | **Overall** | 41.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Bergvall's archetype as a Cover-Creator is characterized by his strong tackling and awareness, which allow him to break up opposition attacks and distribute the ball effectively. However, his limited physicality and composure can make him a liability in certain situations. As an Anchor, Bergvall can use his guile and creativity to pick out passes and start counter-attacks, but will need to work on his blocking and mental toughness to become a more effective defender. A team with a strong defensive unit could help bring out the best in Bergvall.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante`.
+- Best-fit role is [[segundo-volante]] Segundo Volante.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Skills, Concentration, and Drive.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -62,13 +70,14 @@ Bergvall's archetype as a Cover-Creator is characterized by his strong tackling 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,6 +97,6 @@ Bergvall's archetype as a Cover-Creator is characterized by his strong tackling 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Mert Müldür
 category: players
 tags: [WD, Fenerbahçe, Turkey, Engine-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Fenerbahçe. Archetype: Engine-Dribbler.
 person_id: 15031
-backlinks: [engine, fenerbahce]
+backlinks: [engine, wing-back, fenerbahce]
 ---
 
 # Mert Müldür
@@ -21,18 +21,27 @@ backlinks: [engine, fenerbahce]
 | **Nation** | Turkey |
 | **Age** | 27 |
 | **Archetype** | [[engine]] Engine-Dribbler |
+| **Best Role** | [[wing-back]] Wing-back |
+| **Role Score** | 57 |
 | **Level** | 86 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A progressive full-back with genuine appetite in possession—drives forward with purpose, completes inverted runs into midfield, and contributes defensively without being a liability. His crossing from advanced positions remains serviceable, though his decision-making at pace can be erratic and he's susceptible to pressing from organised teams. A very good domestic performer who would require careful management in a genuinely elite European environment.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back` with model support score `57`.
+- Best-fit role is [[wing-back]] Wing-back with model support score `57`.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Balance, Jumping, and Acceleration.
@@ -67,13 +76,14 @@ A progressive full-back with genuine appetite in possession—drives forward wit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 6.6m |
+| Mid | EUR 48.0m |
+| Ceiling | EUR 57.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A progressive full-back with genuine appetite in possession—drives forward wit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

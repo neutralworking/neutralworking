@@ -2,12 +2,12 @@
 title: Ellyes Skhiri
 category: players
 tags: [DM, Eintracht Frankfurt, Tunisia, Engine-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Eintracht Frankfurt. Archetype: Engine-Passer.
 person_id: 10590
-backlinks: [engine, eintracht-frankfurt]
+backlinks: [engine, anchor, eintracht-frankfurt]
 ---
 
 # Ellyes Skhiri
@@ -21,18 +21,27 @@ backlinks: [engine, eintracht-frankfurt]
 | **Nation** | Tunisia |
 | **Age** | 30 |
 | **Archetype** | [[engine]] Engine-Passer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 67 |
 | **Level** | 85 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A deep-lying midfielder who acts as the metronome in Frankfurt's engine room, distributing possession simply and effectively with an underrated reading of space and transition moments. His athleticism remains respectable for his age, but he's increasingly immobile against press-resistant opponents and rarely breaks the lines himself. Reliable caretaker rather than a midfielder driving attacks.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `67`.
+- Best-fit role is [[anchor]] Anchor with model support score `67`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Reactions, Pass Range, and Balance.
@@ -67,13 +76,14 @@ A deep-lying midfielder who acts as the metronome in Frankfurt's engine room, di
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 23.0m |
+| Ceiling | EUR 27.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A deep-lying midfielder who acts as the metronome in Frankfurt's engine room, di
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

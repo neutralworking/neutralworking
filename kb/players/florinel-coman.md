@@ -2,10 +2,10 @@
 title: Florinel Coman
 category: players
 tags: [WF, Al-Gharafa, Romania]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WF at Al-Gharafa. Archetype: None.
+summary: WF at Al-Gharafa. Archetype: —.
 person_id: 11096
 backlinks: [al-gharafa]
 ---
@@ -20,15 +20,22 @@ backlinks: [al-gharafa]
 | **Club** | Al-Gharafa |
 | **Nation** | Romania |
 | **Age** | 28 |
-| **Archetype** | [[—]] None |
+| **Archetype** | — |
 | **Level** | 85 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Florinel Coman projects primarily as a WF with a `None` lean. The strongest database support comes from the current evidence set.
+Florinel Coman projects primarily as a WF with a `—` lean. The strongest database support comes from the current evidence set.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -42,13 +49,14 @@ Florinel Coman projects primarily as a WF with a `None` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 45.9m |
+| Mid | EUR 54.0m |
+| Ceiling | EUR 64.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -74,5 +82,5 @@ Florinel Coman projects primarily as a WF with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Giorgi Gocholeishvili
 category: players
 tags: [WD, Hamburger SV, Georgia, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Hamburger SV. Archetype: Destroyer.
 person_id: 11420
-backlinks: [destroyer, hamburger-sv]
+backlinks: [destroyer, corner-back, hamburger-sv]
 ---
 
 # Giorgi Gocholeishvili
@@ -21,18 +21,27 @@ backlinks: [destroyer, hamburger-sv]
 | **Nation** | Georgia |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[corner-back]] Corner Back |
+| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 75.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-sided defender with a decent engine and the athleticism to cover ground, but tactically unreliable and a bit loose in his positioning. He'll make the occasional lung-busting recovery that papers over cracks, but you're not getting a player who reads the game and positions himself intelligently. His crosses are decent enough when he gets to the byline, yet he's not a threat in the final third and gets exposed in one-v-one situations; a squad player at best.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Corner Back` with model support score `77`.
+- Best-fit role is [[corner-back]] Corner Back with model support score `77`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Balance, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -64,12 +73,13 @@ A left-sided defender with a decent engine and the athleticism to cover ground, 
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Mid | EUR 36.0m |
+| Ceiling | EUR 43.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +104,7 @@ A left-sided defender with a decent engine and the athleticism to cover ground, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

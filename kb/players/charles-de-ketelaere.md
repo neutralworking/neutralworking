@@ -2,12 +2,12 @@
 title: Charles De Ketelaere
 category: players
 tags: [CF, Atalanta, Belgium, Engine-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Atalanta. Archetype: Engine-Creator.
 person_id: 9484
-backlinks: [engine, atalanta]
+backlinks: [engine, falso-nove, atalanta]
 ---
 
 # Charles De Ketelaere
@@ -21,18 +21,27 @@ backlinks: [engine, atalanta]
 | **Nation** | Belgium |
 | **Age** | 25 |
 | **Archetype** | [[engine]] Engine-Creator |
+| **Best Role** | [[falso-nove]] Falso Nove |
+| **Role Score** | 85 |
 | **Level** | 87 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-forward with technical intelligence and the ability to drop into midfield to facilitate play, which was his value at AC Milan before the move. De Ketelaere is excellent at finding pockets and rotating play, and he's a composed finisher in the box. However, his physicality doesn't match elite number nines — he can be bullied off the ball, and his lack of explosive power means he struggles as a pure target man in aerial situations.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Falso Nove` with model support score `85`.
+- Best-fit role is [[falso-nove]] Falso Nove with model support score `85`.
 - Primary archetype leans toward `Engine` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in First Touch, Stamina, and Balance.
@@ -67,13 +76,14 @@ A centre-forward with technical intelligence and the ability to drop into midfie
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 33.2m |
+| Mid | EUR 72.0m |
+| Ceiling | EUR 86.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A centre-forward with technical intelligence and the ability to drop into midfie
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

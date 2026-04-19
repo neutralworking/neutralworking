@@ -1,56 +1,66 @@
 ---
 title: Rizespor
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Rizespor. 36 players in database.
+summary: Rizespor. 32 players in database.
 ---
 
 # Rizespor
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 36
+**League**: —  
+**Nation**: —  
+**Players in DB**: 32
+
+## Identity
+
+- Database coverage is deepest in CM (8), GK (3), and CD (3), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Destroyer (8), Striker (4), and Gk (3) across the current squad.
+- Average available overall grade sits at 66.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[v-jurecka]] V. Jurečka | AM | Target-Dribbler | 63.0 |
 | [[attila-mocsi]] Attila Mocsi | CD | Destroyer | 66.0 |
 | [[modibo-sagnan]] Modibo Sagnan | CD | Destroyer | 65.0 |
 | [[samet-akaydin]] Samet Akaydin | CD | Destroyer-Powerhouse | 74.0 |
-| [[adolfo-gaich]] Adolfo Gaich | CF | Striker | 32.0 |
+| [[adedire-emmanuel-awokoya-mebude]] Adedire Emmanuel  Awokoya-Mebude | CF | Creator-Striker | 41.0 |
 | [[ali-sowe]] Ali Sowe | CF | Striker | 63.0 |
-| [[azubuike-okechukwu]] Azubuike Okechukwu | CM | None | None |
+| [[azubuike-okechukwu]] Azubuike Okechukwu | CM | — | — |
 | [[casper-hjer]] Casper Højer | CM | Cover-Passer | 68.0 |
 | [[dal-varesanovic]] Dal Varešanović | CM | Dribbler-Sprinter | 71.0 |
 | [[g-papanikolaou]] G. Papanikolaou | CM | Powerhouse-Dribbler | 66.0 |
-| [[loide-augusto]] Loide Augusto | CM | Sprinter | 69.0 |
 | [[m-buljubasic]] M. Buljubasic | CM | Destroyer | 68.0 |
 | [[mithat-pala]] Mithat Pala | CM | Sprinter-Cover | 70.0 |
 | [[muhammet-taha-sahin]] Muhammet Taha Şahin | CM | Creator-Powerhouse | 68.0 |
-| [[qazim-laci]] Qazim Laçi | CM | Sprinter-Dribbler | 70.0 |
 | [[taylan-antalyal]] Taylan Antalyalı | CM | Destroyer | 66.0 |
-| [[canberk-yurdakul]] Canberk Yurdakul | GK | GK | None |
-| [[erdem-canpolat]] Erdem Canpolat | GK | GK | None |
+| [[canberk-yurdakul]] Canberk Yurdakul | GK | GK | — |
+| [[erdem-canpolat]] Erdem Canpolat | GK | GK | — |
 | [[yahia-fofana]] Yahia Fofana | GK | GK | 69.0 |
-| [[jesurun-rak-sakyi]] Jesurun Rak-Sakyi | WF | Sprinter-Dribbler | 64.0 |
 | [[valentin-mihaila]] Valentin Mihăilă | WF | Striker-Sprinter | 69.0 |
 | [[altin-zeqiri]] Altin Zeqiri | WM | Striker-Target | 66.0 |
 | [[e-bulut]] E. Bulut | WM | Striker-Creator | 67.0 |
 | [[ibrahim-olawoyin]] Ibrahim Olawoyin | WM | Sprinter-Creator | 70.0 |
-| [[ali-kemal-aslankaya]] Ali Kemal Aslankaya | None | None | None |
-| [[benhur-keser]] Benhur Keser | None | Dribbler-Sprinter | None |
-| [[efe-tecimer]] Efe Tecimer | None | None | None |
-| [[emre-simsek]] Emre Şimşek | None | None | None |
-| [[eray-korkmaz]] Eray Korkmaz | None | Destroyer-Powerhouse | None |
-| [[guvenc-usta]] Güvenç Usta | None | None | None |
-| [[husniddin-aliqulov]] Husniddin Aliqulov | None | Cover | None |
-| [[janne-pekka-laine]] Janne-Pekka Laine | None | None | None |
-| [[k-alikulov]] K. Alikulov | None | Destroyer-Powerhouse | None |
-| [[mame-mor-faye]] Mame Mor Faye | None | None | None |
-| [[muammer-sarkaya]] Muammer Sarıkaya | None | None | None |
-| [[seyfettin-anl-yasar]] Seyfettin Anıl Yaşar | None | Destroyer-Powerhouse | None |
+| Ali Kemal Aslankaya | — | — | — |
+| Benhur Keser | — | Dribbler-Sprinter | — |
+| Efe Tecimer | — | — | — |
+| Emre Şimşek | — | — | — |
+| Eray Korkmaz | — | Destroyer-Powerhouse | — |
+| Güvenç Usta | — | — | — |
+| Husniddin Aliqulov | — | Cover | — |
+| Janne-Pekka Laine | — | — | — |
+| K. Alikulov | — | Destroyer-Powerhouse | — |
+| Mame Mor Faye | — | — | — |
+| Muammer Sarıkaya | — | — | — |
+| Seyfettin Anıl Yaşar | — | Destroyer-Powerhouse | — |

@@ -2,12 +2,12 @@
 title: Alphonso Davies
 category: players
 tags: [WD, Bayern Munich, Canada, Engine-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WD at Bayern Munich. Archetype: Engine-Sprinter.
 person_id: 8298
-backlinks: [engine, bayern-munich]
+backlinks: [engine, wing-back, bayern-munich]
 ---
 
 # Alphonso Davies
@@ -21,6 +21,8 @@ backlinks: [engine, bayern-munich]
 | **Nation** | Canada |
 | **Age** | 25 |
 | **Archetype** | [[engine]] Engine-Sprinter |
+| **Best Role** | [[wing-back]] Wing-back |
+| **Role Score** | 74 |
 | **Level** | 86 |
 | **Overall** | 72.0 |
 | **Pursuit** | Pass |
@@ -30,9 +32,16 @@ backlinks: [engine, bayern-munich]
 
 Elite athletic LB. Raw pace is top-tier in world football. Progressive carrying and 1v1 defending both strong. Moved to Real Madrid as a free agent. Defensive concentration can dip in low-tempo phases. Canada captain.
 
+## Canon Context
+
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Wing-back` with model support score `74`.
+- Best-fit role is [[wing-back]] Wing-back with model support score `74`.
 - Primary archetype leans toward `Engine` behaviour from a `WD` base.
 - Most bankable strengths show up in Reactions, Acceleration, and Composure.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Elite athletic LB. Raw pace is top-tier in world football. Progressive carrying 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 42.8m |
+| Mid | EUR 60.0m |
+| Ceiling | EUR 82.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,11 +110,11 @@ Elite athletic LB. Raw pace is top-tier in world football. Progressive carrying 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

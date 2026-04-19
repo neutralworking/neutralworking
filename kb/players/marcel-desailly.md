@@ -2,12 +2,12 @@
 title: Marcel Desailly
 category: players
 tags: [CD, France, Destroyer-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: CD at None. Archetype: Destroyer-Powerhouse.
+summary: CD at —. Archetype: Destroyer-Powerhouse.
 person_id: 14435
-backlinks: [destroyer]
+backlinks: [destroyer, zagueiro]
 ---
 
 # Marcel Desailly
@@ -17,13 +17,15 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | France |
 | **Age** | 57 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
+| **Best Role** | [[zagueiro]] Zagueiro |
+| **Role Score** | 93 |
 | **Level** | 46 |
 | **Overall** | 50.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -38,9 +40,16 @@ He had firstly done it with Olympique Marseile before going on his career in AC 
 
 He was a world-class deep-lying defensive midfielder in front of back-line.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Zagueiro` with model support score `93`.
+- Best-fit role is [[zagueiro]] Zagueiro with model support score `93`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Hard Man and Brick Wall.
 - Most bankable strengths show up in Aggression, Duels, and Physical.
@@ -68,10 +77,11 @@ He was a world-class deep-lying defensive midfielder in front of back-line.
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -86,10 +96,10 @@ He was a world-class deep-lying defensive midfielder in front of back-line.
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 3 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 3 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -115,6 +125,6 @@ Desailly was a few players in history to win 2 consecutive European Cup with dif
 
 He had firstly done it with Olympique Marseile before going on his career in AC Milan and won the second one.
 
-He was a world-class deep-lying defensive midfielder in front of back-line. 		
+He was a world-class deep-lying defensive midfielder in front of back-line.
 
 </details>

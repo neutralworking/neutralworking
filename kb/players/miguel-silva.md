@@ -2,12 +2,12 @@
 title: Miguel Silva
 category: players
 tags: [DM, Moreirense, Cover-Sprinter]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Moreirense. Archetype: Cover-Sprinter.
 person_id: 25355
-backlinks: [cover, moreirense]
+backlinks: [cover, segundo-volante, moreirense]
 ---
 
 # Miguel Silva
@@ -18,21 +18,30 @@ backlinks: [cover, moreirense]
 |---|---|
 | **Position** | DM |
 | **Club** | Moreirense |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[cover]] Cover-Sprinter |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Silva operates as a pure terrier anchor with genuine technical foundation—his stamina and tackling are urgent, his pace sharp—yet his limited tactical palette and weaker blocking ability restrict him to protection-first roles rather than box-to-box utility. The high-press trait and physical aggression suggest a player most suited to teams that compress space and rely on immediate ball recovery, minimizing the need for creative problem-solving or positional anticipation. His introverted structure and competitive drive mark him as a squad-depth option for lower-league or mid-tier clubs where tactical demands remain straightforward.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante` with model support score `74`.
+- Best-fit role is [[segundo-volante]] Segundo Volante with model support score `74`.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Pace, Stamina, and Acceleration.
@@ -63,13 +72,14 @@ Silva operates as a pure terrier anchor with genuine technical foundation—his 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 0.5m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,7 +103,7 @@ Silva operates as a pure terrier anchor with genuine technical foundation—his 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

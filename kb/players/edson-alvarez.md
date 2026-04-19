@@ -2,12 +2,12 @@
 title: Edson Álvarez
 category: players
 tags: [DM, West Ham United, Mexico, Cover-Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at West Ham United. Archetype: Cover-Powerhouse.
 person_id: 20190
-backlinks: [cover, west-ham-united]
+backlinks: [cover, segundo-volante, west-ham-united]
 ---
 
 # Edson Álvarez
@@ -21,6 +21,7 @@ backlinks: [cover, west-ham-united]
 | **Nation** | Mexico |
 | **Age** | 28 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
+| **Best Role** | [[segundo-volante]] Segundo Volante |
 | **Level** | 84 |
 | **Overall** | 76.0 |
 | **Pursuit** | Monitor |
@@ -30,9 +31,16 @@ backlinks: [cover, west-ham-united]
 
 Athletic, aggressive defensive midfielder with excellent work rate and ball progression for his role; limited technical subtlety and occasionally reckless in his challenges, but a reliable Premier League engine room player.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Segundo Volante`.
+- Best-fit role is [[segundo-volante]] Segundo Volante.
 - Primary archetype leans toward `Cover` behaviour from a `DM` base.
 - Most bankable strengths show up in Stamina, Interceptions, and Physical.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Athletic, aggressive defensive midfielder with excellent work rate and ball prog
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 25.5m |
+| Mid | EUR 30.0m |
+| Ceiling | EUR 36.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -97,7 +106,7 @@ Athletic, aggressive defensive midfielder with excellent work rate and ball prog
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

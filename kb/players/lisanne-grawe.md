@@ -2,10 +2,10 @@
 title: Lisanne Gräwe
 category: players
 tags: [CM, Eintracht Frankfurt Women, Germany]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: CM at Eintracht Frankfurt Women. Archetype: None.
+summary: CM at Eintracht Frankfurt Women. Archetype: —.
 person_id: 13984
 backlinks: [eintracht-frankfurt-women]
 ---
@@ -20,15 +20,22 @@ backlinks: [eintracht-frankfurt-women]
 | **Club** | Eintracht Frankfurt Women |
 | **Nation** | Germany |
 | **Age** | 23 |
-| **Archetype** | [[—]] None |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fullback or attacking midfielder of genuine versatility who brings directness and energy to whatever role she occupies. Gräwe's movement off the ball is intelligent and her ability to drive into space with the ball is a real threat, but her defensive positioning remains fundamentally reactive—she commits fouishly when uncertain and lacks the spatial reading to play a genuinely press-resistant role. A good player who flourishes in dynamic, open-play scenarios.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,10 +52,11 @@ A fullback or attacking midfielder of genuine versatility who brings directness 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -68,5 +76,5 @@ A fullback or attacking midfielder of genuine versatility who brings directness 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

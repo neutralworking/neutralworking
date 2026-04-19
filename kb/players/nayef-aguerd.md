@@ -2,12 +2,12 @@
 title: Nayef Aguerd
 category: players
 tags: [CD, West Ham United, Morocco, Destroyer-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at West Ham United. Archetype: Destroyer-Passer.
 person_id: 15578
-backlinks: [destroyer, west-ham-united]
+backlinks: [destroyer, distributor, west-ham-united]
 ---
 
 # Nayef Aguerd
@@ -21,18 +21,27 @@ backlinks: [destroyer, west-ham-united]
 | **Nation** | Morocco |
 | **Age** | 30 |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 62 |
 | **Level** | 86 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A centre-back with solid fundamentals, decent reading of the game, and genuine aerial authority in both boxes, but he's a touch ponderous in transition and can be exposed when teams play quick combinations against him. He's a reliable, experienced option for a Ligue 1 side seeking stability at the back, though not someone who'll consistently dominate elite forward play.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `62`.
+- Best-fit role is [[distributor]] Distributor with model support score `62`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Heading, Jumping, and Reactions.
@@ -67,13 +76,14 @@ A centre-back with solid fundamentals, decent reading of the game, and genuine a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 19.0m |
+| Mid | EUR 44.0m |
+| Ceiling | EUR 52.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,7 +112,7 @@ A centre-back with solid fundamentals, decent reading of the game, and genuine a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

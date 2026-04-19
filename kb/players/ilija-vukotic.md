@@ -2,12 +2,12 @@
 title: Ilija Vukotić
 category: players
 tags: [CM, OFI Crete, Montenegro, Cover-Passer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at OFI Crete. Archetype: Cover-Passer.
 person_id: 11958
-backlinks: [cover, ofi-crete]
+backlinks: [cover, tuttocampista, ofi-crete]
 ---
 
 # Ilija Vukotić
@@ -21,18 +21,26 @@ backlinks: [cover, ofi-crete]
 | **Nation** | Montenegro |
 | **Age** | 27 |
 | **Archetype** | [[cover]] Cover-Passer |
+| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 85 |
 | **Overall** | 77.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Vukotić, a tall Cover-Passer with strong physical and mental pillars, shows excellent heading, jumping, and aggression, making him dominant in aerial duels and a stamina monster. As a Holding Midfielder blueprint, he embodies a more physically imposing and direct type, capable of winning the ball through sheer presence, fitting systems that value a towering midfield presence. While technically strong and suited as a Tuttocampista, his actual dueling ability is weak, and he lacks guile and creativity from central midfield. As a newcomer at 27, he offers a commanding, left-footed presence for a club seeking power, but his limited tactical awareness suggests he's best deployed in a system that minimizes demands for intricate link-up play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Tuttocampista`.
+- Best-fit role is [[tuttocampista]] Tuttocampista.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Physical, Heading, and Jumping.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -63,13 +71,14 @@ Vukotić, a tall Cover-Passer with strong physical and mental pillars, shows exc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 40.0m |
+| Ceiling | EUR 48.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +105,7 @@ Vukotić, a tall Cover-Passer with strong physical and mental pillars, shows exc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 41 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 41 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

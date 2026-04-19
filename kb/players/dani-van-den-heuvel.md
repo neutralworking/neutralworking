@@ -2,7 +2,7 @@
 title: Dani van den Heuvel
 category: players
 tags: [GK, Club Brugge, GK]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: low
 summary: GK at Club Brugge. Archetype: GK.
@@ -18,17 +18,24 @@ backlinks: [gk, club-brugge]
 |---|---|
 | **Position** | GK |
 | **Club** | Club Brugge |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 22 |
 | **Archetype** | [[gk]] GK |
-| **Level** | None |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024	
+Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -43,13 +50,14 @@ Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.4m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -69,15 +77,15 @@ Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024	
+Delft, Netherlands	28 May 2003 (age 20)	GK	Netherlands U19s	2024
 
 </details>

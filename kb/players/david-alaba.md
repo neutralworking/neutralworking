@@ -2,12 +2,12 @@
 title: David Alaba
 category: players
 tags: [CD, Real Madrid, Austria, Cover-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Real Madrid. Archetype: Cover-Dribbler.
 person_id: 10057
-backlinks: [cover, real-madrid]
+backlinks: [cover, sweeper, real-madrid]
 ---
 
 # David Alaba
@@ -21,18 +21,27 @@ backlinks: [cover, real-madrid]
 | **Nation** | Austria |
 | **Age** | 33 |
 | **Archetype** | [[cover]] Cover-Dribbler |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 80 |
 | **Level** | 86 |
 | **Overall** | 80.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Austrian defender recovering from a long-term ACL injury. When fit, world-class: left-footed, composed, reads the game perfectly. Fitness is the question.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `80`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `80`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Pass Accuracy, Reactions, and Composure.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Austrian defender recovering from a long-term ACL injury. When fit, world-class:
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 3.3m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,11 +111,11 @@ Austrian defender recovering from a long-term ACL injury. When fit, world-class:
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -123,6 +133,6 @@ However, his incredible skill set makes him an ideal centre back - even if he is
   
 He continues to impress with Real Madrid and at international level with Austria, where he'll play anywhere from left back to attacking midfield.
 
-WD	Calm	Guardian	Provider	Bayern Munich, Real Madrid	AUT	A	87.3	He has played in a multitude of roles, including central midfield, central defence, right and left wing, but has since blossomed as a left-back.	
+WD	Calm	Guardian	Provider	Bayern Munich, Real Madrid	AUT	A	87.3	He has played in a multitude of roles, including central midfield, central defence, right and left wing, but has since blossomed as a left-back.
 
 </details>

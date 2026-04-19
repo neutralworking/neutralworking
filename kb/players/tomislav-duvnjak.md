@@ -2,12 +2,12 @@
 title: Tomislav Duvnjak
 category: players
 tags: [WM, NK Varaždin, Destroyer-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at NK Varaždin. Archetype: Destroyer-Creator.
 person_id: 19320
-backlinks: [destroyer, nk-varazdin]
+backlinks: [destroyer, wide-playmaker, nk-varazdin]
 ---
 
 # Tomislav Duvnjak
@@ -18,16 +18,17 @@ backlinks: [destroyer, nk-varazdin]
 |---|---|
 | **Position** | WM |
 | **Club** | NK Varaždin |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
+| **Best Role** | [[wide-playmaker]] Wide Playmaker |
+| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
-
 
 ClubDinamo Zagreb
 
@@ -43,10 +44,16 @@ Born5 Febuary 2003
   
 **October 2023 update** Injuries have hampered his development and he was unable to establish himself with Istra, so he was sent on loan to Sesvete in the second division. He still has the right attitude though, ready to fight his way back through hard work.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WM` base.
 - Most bankable strengths show up in Take Ons, Flair, and Tackling.
 
@@ -72,13 +79,14 @@ Born5 Febuary 2003
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.5m |
+| Mid | EUR 14.0m |
+| Ceiling | EUR 16.8m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,17 +110,16 @@ Born5 Febuary 2003
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubDinamo Zagreb
 
@@ -127,6 +134,5 @@ Born5 Febuary 2003
 **September 2022 update** Made a promising start of the season on loan at the league’s also-rans Istra but now a serious injury will keep him off the pitch for months.  
   
 **October 2023 update** Injuries have hampered his development and he was unable to establish himself with Istra, so he was sent on loan to Sesvete in the second division. He still has the right attitude though, ready to fight his way back through hard work.
-
 
 </details>

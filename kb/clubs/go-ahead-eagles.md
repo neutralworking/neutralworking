@@ -1,8 +1,8 @@
 ---
 title: Go Ahead Eagles
 category: clubs
-tags: [Eredivisie, None]
-updated: 2026-04-14
+tags: [Eredivisie]
+updated: 2026-04-19
 source: compiled
 confidence: medium
 summary: Go Ahead Eagles. 33 players in database.
@@ -11,8 +11,22 @@ summary: Go Ahead Eagles. 33 players in database.
 # Go Ahead Eagles
 
 **League**: Eredivisie  
-**Nation**: None  
+**Nation**: —  
 **Players in DB**: 33
+
+## Identity
+
+- Database coverage is deepest in CM (9), CF (8), and GK (4), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Sprinter (7), Destroyer (6), and Gk (4) across the current squad.
+- Average available overall grade sits at 66.7, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -38,16 +52,16 @@ summary: Go Ahead Eagles. 33 players in database.
 | [[j-dirksen]] J. Dirksen | CM | Destroyer-Powerhouse | 68.0 |
 | [[kenzo-goudmijn]] Kenzo Goudmijn | CM | Sprinter-Dribbler | 65.0 |
 | [[melle-meulensteen]] Melle Meulensteen | CM | Cover | 70.0 |
-| [[xander-blomme]] Xander Blomme | CM | None | None |
+| [[xander-blomme]] Xander Blomme | CM | — | — |
 | [[y-rahmouni]] Y. Rahmouni | CM | Destroyer | 66.0 |
-| [[erwin-mulder]] Erwin Mulder | GK | GK | None |
-| [[j-de-busser]] J. De Busser | GK | GK | None |
-| [[nando-verdoni]] Nando Verdoni | GK | GK | None |
-| [[sven-jansen]] Sven Jansen | GK | GK | None |
+| [[erwin-mulder]] Erwin Mulder | GK | GK | — |
+| [[j-de-busser]] J. De Busser | GK | GK | — |
+| [[nando-verdoni]] Nando Verdoni | GK | GK | — |
+| [[sven-jansen]] Sven Jansen | GK | GK | — |
 | [[alfons-sampsted]] Alfons Sampsted | WD | Sprinter-Dribbler | 75.0 |
 | [[o-sivertsen]] O. Sivertsen | WM | Sprinter-Creator | 42.0 |
-| [[jamal-amofa]] Jamal Amofa | None | Destroyer-Sprinter | None |
-| [[luca-everink]] Luca Everink | None | Powerhouse-Destroyer | None |
-| [[o-pettersson]] O. Pettersson | None | Creator-Cover | None |
-| [[philippe-rommens]] Philippe Rommens | None | None | None |
-| [[pim-saathof]] Pim Saathof | None | Powerhouse-Dribbler | None |
+| Jamal Amofa | — | Destroyer-Sprinter | — |
+| Luca Everink | — | Powerhouse-Destroyer | — |
+| O. Pettersson | — | Creator-Cover | — |
+| Philippe Rommens | — | — | — |
+| Pim Saathof | — | Powerhouse-Dribbler | — |

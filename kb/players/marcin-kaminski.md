@@ -2,12 +2,12 @@
 title: Marcin Kamiński
 category: players
 tags: [CM, Schalke 04, Poland, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Schalke 04. Archetype: Destroyer.
 person_id: 14454
-backlinks: [destroyer, schalke-04]
+backlinks: [destroyer, metodista, schalke-04]
 ---
 
 # Marcin Kamiński
@@ -21,18 +21,27 @@ backlinks: [destroyer, schalke-04]
 | **Nation** | Poland |
 | **Age** | 34 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 64.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Marcin Kamiński projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Heading, Jumping, and Marking.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `75`.
+- Best-fit role is [[metodista]] Metodista with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Heading, Jumping, and Marking.
@@ -67,13 +76,14 @@ Marcin Kamiński projects primarily as a CM with a `Destroyer` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
+| Floor | EUR 0.3m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,6 +110,6 @@ Marcin Kamiński projects primarily as a CM with a `Destroyer` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

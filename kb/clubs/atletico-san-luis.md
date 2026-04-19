@@ -1,18 +1,32 @@
 ---
 title: Atlético San Luis
 category: clubs
-tags: [None, None]
-updated: 2026-04-14
+tags: []
+updated: 2026-04-19
 source: compiled
 confidence: medium
-summary: Atlético San Luis. 16 players in database.
+summary: Atlético San Luis. 17 players in database.
 ---
 
 # Atlético San Luis
 
-**League**: None  
-**Nation**: None  
-**Players in DB**: 16
+**League**: —  
+**Nation**: —  
+**Players in DB**: 17
+
+## Identity
+
+- Database coverage is deepest in CM (5), AM (3), and CD (2), which shapes the visible squad picture.
+- The tracked archetype mix leans toward Creator (9), Destroyer (4), and Engine (1) across the current squad.
+- Average available overall grade sits at 62.6, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
+
+## Canon Context
+
+- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
+- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
+- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
+- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -29,8 +43,9 @@ summary: Atlético San Luis. 16 players in database.
 | [[e-aguila]] E.  Águila | CM | Destroyer-Striker | 61.0 |
 | [[o-macias]] Ó. Macías | CM | Creator-Striker | 59.0 |
 | [[rodrigo-dourado]] Rodrigo Dourado | CM | Destroyer-Creator | 63.0 |
+| [[s-munoz]] S. Muñóz | WF | Creator | 61.0 |
 | [[s-perez-bouquet]] S. Pérez Bouquet | WM | Creator-Striker | 60.0 |
-| [[b-galdames]] B. Galdames | None | Creator-Striker | None |
-| [[j-marchand]] J. Marchand | None | Destroyer | None |
-| [[m-klimowicz]] M. Klimowicz | None | Creator-Striker | None |
-| [[yan-phillipe]] Yan Phillipe | None | Creator-Striker | None |
+| B. Galdames | — | Creator-Striker | — |
+| J. Marchand | — | Destroyer | — |
+| M. Klimowicz | — | Creator-Striker | — |
+| Yan Phillipe | — | Creator-Striker | — |

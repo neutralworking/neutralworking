@@ -2,12 +2,12 @@
 title: Liam Morrison
 category: players
 tags: [CM, Aberdeen, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Aberdeen. Archetype: Destroyer.
 person_id: 19118
-backlinks: [destroyer, aberdeen]
+backlinks: [destroyer, metodista, aberdeen]
 ---
 
 # Liam Morrison
@@ -18,16 +18,17 @@ backlinks: [destroyer, aberdeen]
 |---|---|
 | **Position** | CM |
 | **Club** | Aberdeen |
-| **Nation** | None |
+| **Nation** | — |
 | **Age** | 23 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[metodista]] Metodista |
+| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 63.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubBayern Munich
 
@@ -43,10 +44,16 @@ Bayern’s focus on Scottish youth players has raised hopes that standards might
   
 **October 2023 update** Back in the UK now with Wigan, where he will spend the 2023-24 season on loan. "I really wanted to come to Wigan as soon as I heard of the interest. With the new owners coming in - and Shaun Maloney starting his first full season in charge - there feels like there is a lot of positivity in the club."
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
-- Best-fit role is `Metodista` with model support score `71`.
+- Best-fit role is [[metodista]] Metodista with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Balance, Heading, and Jumping.
@@ -81,13 +88,14 @@ Bayern’s focus on Scottish youth players has raised hopes that standards might
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.9m |
+| Mid | EUR 7.0m |
+| Ceiling | EUR 8.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -114,17 +122,16 @@ Bayern’s focus on Scottish youth players has raised hopes that standards might
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubBayern Munich
 
@@ -139,6 +146,5 @@ Bayern’s focus on Scottish youth players has raised hopes that standards might
 **September 2022 update** Had broken into the Scotland Under-19 side and had started the 2022-23 season playing for Bayern’s reserves when he suffered a serious knee injury against SpVgg Ansbach.  
   
 **October 2023 update** Back in the UK now with Wigan, where he will spend the 2023-24 season on loan. "I really wanted to come to Wigan as soon as I heard of the interest. With the new owners coming in - and Shaun Maloney starting his first full season in charge - there feels like there is a lot of positivity in the club."
-
 
 </details>

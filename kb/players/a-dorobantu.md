@@ -2,12 +2,12 @@
 title: A. Dorobanțu
 category: players
 tags: [CD, Unirea Slobozia FC, Sprinter-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Unirea Slobozia FC. Archetype: Sprinter-Creator.
 person_id: 23142
-backlinks: [sprinter, unirea-slobozia-fc]
+backlinks: [sprinter, sweeper, unirea-slobozia-fc]
 ---
 
 # A. Dorobanțu
@@ -18,21 +18,30 @@ backlinks: [sprinter, unirea-slobozia-fc]
 |---|---|
 | **Position** | CD |
 | **Club** | Unirea Slobozia FC |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[sprinter]] Sprinter-Creator |
+| **Best Role** | [[sweeper]] Sweeper |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Dorobanțu projects primarily as a CD with a `Sprinter-Creator` lean. The strongest database support comes from Acceleration, Balance, and Pace.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
+
 ## Role Fit
 
-- Best-fit role is `Sweeper` with model support score `71`.
+- Best-fit role is [[sweeper]] Sweeper with model support score `71`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
@@ -63,13 +72,14 @@ A. Dorobanțu projects primarily as a CD with a `Sprinter-Creator` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 9.3m |
+| Mid | EUR 11.0m |
+| Ceiling | EUR 13.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,6 +104,6 @@ A. Dorobanțu projects primarily as a CD with a `Sprinter-Creator` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

@@ -2,12 +2,12 @@
 title: Tomás Ángel
 category: players
 tags: [CF, Atlético Nacional, Colombia, Creator-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Atlético Nacional. Archetype: Creator-Striker.
 person_id: 18079
-backlinks: [creator, atletico-nacional]
+backlinks: [creator, seconda-punta, atletico-nacional]
 ---
 
 # Tomás Ángel
@@ -21,13 +21,14 @@ backlinks: [creator, atletico-nacional]
 | **Nation** | Colombia |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator-Striker |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
-
 
 ClubAtlético Nacional
 
@@ -44,11 +45,16 @@ Ever since he burst on the scene at the esteemed Pony Fútbol junior tournament 
   
 **October 2023 update** Controversially axed from the Colombia Under-20 squad for the South American qualifiers held on home soil at the start of the year, but then fired three goals after being brought back into the fold at the Argentina finals as Colombia’s No 9 in June. Still to find consistency for Nacional, but was the Medellín side’s hero in February’s epic 4-3 Super League win over Pereira, scoring twice and assisting an 87th-minute winner.
 
+## Canon Context
 
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `69`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Close Range, Tactical, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -74,13 +80,14 @@ Ever since he burst on the scene at the esteemed Pony Fútbol junior tournament 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 0.6m |
+| Mid | EUR 6.0m |
+| Ceiling | EUR 7.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,16 +108,15 @@ Ever since he burst on the scene at the esteemed Pony Fútbol junior tournament 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
-
 
 ClubAtlético Nacional
 
@@ -123,6 +129,6 @@ Ever since he burst on the scene at the esteemed Pony Fútbol junior tournament 
   
 **October 2021 update** Made his professional debut at the start of this year for Colombian giants Atlético Nacional and scored his first goal in his second start in March. Twenty seven-years earlier, his old man, Juan Pablo, had bagged his first professional goal playing for the same club. “This is a dream come true,” Angel Jr said. “I’m writing my own story, my own career, but hopefully I’ll be even better than him.” Received a call up to the Colombia under-20 squad in May.  
   
-**September 2022 update** Struggled a bit at the U23s Toulon tournament this summer where Colombia fielded a young U19s side, but he is still expected to be the team...
+**September 2022 update** Struggled a bit at the U23s Toulon tournament this summer where Colombia fielded a young U19s side, but he is still expected to be the team’...
 
 </details>

@@ -2,10 +2,10 @@
 title: Kiki Musampa
 category: players
 tags: [WF, Netherlands, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
-summary: WF at None. Archetype: Destroyer.
+summary: WF at —. Archetype: Destroyer.
 person_id: 13548
 backlinks: [destroyer]
 ---
@@ -17,18 +17,25 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Netherlands |
 | **Age** | 48 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 43 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kiki Musampa projects primarily as a WF with a `Destroyer` lean. The strongest database support comes from Pace, Acceleration, and Composure.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -60,10 +67,11 @@ Kiki Musampa projects primarily as a WF with a `Destroyer` lean. The strongest d
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,5 +91,5 @@ Kiki Musampa projects primarily as a WF with a `Destroyer` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

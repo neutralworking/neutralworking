@@ -2,12 +2,12 @@
 title: Angelo Fulgini
 category: players
 tags: [CM, Lens, France, Creator-Dribbler]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Lens. Archetype: Creator-Dribbler.
 person_id: 8550
-backlinks: [creator, lens]
+backlinks: [creator, playmaker, lens]
 ---
 
 # Angelo Fulgini
@@ -21,18 +21,27 @@ backlinks: [creator, lens]
 | **Nation** | France |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator-Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A dogged, positionally intelligent midfielder who thrives in a defined role at Ligue 1 level—the sort of player who'd disappear in a game and still rack up 47 tackles and 6 interceptions because he knows where danger lives before it announces itself. Fulgini's best work happens in transition; he'll break lines with a simple pass or a progressive carry, and his reading of space is genuinely astute for a player who'll never wow you with technical range. The genuine limitation is creative ceiling—he's not the guy threading a through-ball from deep or unlocking a congested defense with invention—and his passing distribution, while competent, lacks the tempo-setting quality you'd want from a midfielder anchoring a European competition side. At 29, operating in mid-table Ligue 1, he's a reliable cog, but he's also probably peaked as a functional rather than impactful operator.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `81`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `81`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in First Touch, Stamina, and Balance.
@@ -67,13 +76,14 @@ A dogged, positionally intelligent midfielder who thrives in a defined role at L
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 47.0m |
+| Ceiling | EUR 56.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A dogged, positionally intelligent midfielder who thrives in a defined role at L
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

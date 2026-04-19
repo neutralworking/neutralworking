@@ -2,12 +2,12 @@
 title: Max Kilman
 category: players
 tags: [CD, West Ham United, England, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at West Ham United. Archetype: Destroyer.
 person_id: 14911
-backlinks: [destroyer, west-ham-united]
+backlinks: [destroyer, distributor, west-ham-united]
 ---
 
 # Max Kilman
@@ -21,18 +21,27 @@ backlinks: [destroyer, west-ham-united]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 77 |
 | **Level** | 82 |
 | **Overall** | 71.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Composed, left-sided centre-back with excellent positional discipline and the ability to play out from the back; limited pace against explosive strikers and lacks the elite physical dominance of top defenders, but a reliable Premier League starter.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `77`.
+- Best-fit role is [[distributor]] Distributor with model support score `77`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Reactions, Jumping, and Pass Range.
@@ -63,13 +72,14 @@ Composed, left-sided centre-back with excellent positional discipline and the ab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 28.0m |
+| Ceiling | EUR 33.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -96,7 +106,7 @@ Composed, left-sided centre-back with excellent positional discipline and the ab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

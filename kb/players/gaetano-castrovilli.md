@@ -2,12 +2,12 @@
 title: Gaetano Castrovilli
 category: players
 tags: [CM, Bari, Italy, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Bari. Archetype: Dribbler.
 person_id: 11252
-backlinks: [dribbler, bari]
+backlinks: [dribbler, playmaker, bari]
 ---
 
 # Gaetano Castrovilli
@@ -21,18 +21,26 @@ backlinks: [dribbler, bari]
 | **Nation** | Italy |
 | **Age** | 29 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 84 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A technically sound central midfielder who thrives in possession-dominant systems, comfortable receiving on the half-turn and threading passes into the final third with genuine precision. He's a willing presser and reasonably mobile for his profile, but the athleticism has dimmed with age and he lacks the bite required to shield a backline against aggressive pressing—you'd be exposing him in a midfield two against any serious top-six side. At Bari, he's the conductor of a lower-table orchestra; the ability is there, but he's become more of a squad sophisticate than a game-changer.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker`.
+- Best-fit role is [[playmaker]] Playmaker.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, First Touch, and Movement.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +75,14 @@ A technically sound central midfielder who thrives in possession-dominant system
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 0.7m |
+| Mid | EUR 32.0m |
+| Ceiling | EUR 38.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,17 +109,17 @@ A technically sound central midfielder who thrives in possession-dominant system
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-	Italy	CM	17 February 1997 (age 26)	Italy Bari	2017	2024	105	11	
+Italy	CM	17 February 1997 (age 26)	Italy Bari	2017	2024	105	11
 
 </details>

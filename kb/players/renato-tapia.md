@@ -2,12 +2,12 @@
 title: Renato Tapia
 category: players
 tags: [CM, Celta Vigo, Peru, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Celta Vigo. Archetype: Striker-Creator.
 person_id: 16581
-backlinks: [striker, celta-vigo]
+backlinks: [striker, ball-winner, celta-vigo]
 ---
 
 # Renato Tapia
@@ -21,18 +21,27 @@ backlinks: [striker, celta-vigo]
 | **Nation** | Peru |
 | **Age** | 30 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[ball-winner]] Ball Winner |
+| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 62.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Peruvian midfielder who brings physicality and defensive solidity to midfield, with excellent positioning and an ability to shield the back four effectively. His passing is tidy without being creative, and he understands tactical positioning well. The limitation is athleticism and ball progression — he won't drive forward himself, and his lack of mobility gets exposed against higher-tempo pressing.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Ball Winner` with model support score `80`.
+- Best-fit role is [[ball-winner]] Ball Winner with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Carries, Intensity, and Blocking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -66,13 +75,14 @@ Peruvian midfielder who brings physicality and defensive solidity to midfield, w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 4.8m |
+| Mid | EUR 20.0m |
+| Ceiling | EUR 24.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -98,7 +108,7 @@ Peruvian midfielder who brings physicality and defensive solidity to midfield, w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

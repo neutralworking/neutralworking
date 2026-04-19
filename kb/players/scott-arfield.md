@@ -2,12 +2,12 @@
 title: Scott Arfield
 category: players
 tags: [CM, Falkirk, Canada, Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CM at Falkirk. Archetype: Striker.
 person_id: 17222
-backlinks: [striker, falkirk]
+backlinks: [striker, playmaker, falkirk]
 ---
 
 # Scott Arfield
@@ -21,18 +21,27 @@ backlinks: [striker, falkirk]
 | **Nation** | Canada |
 | **Age** | 37 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[playmaker]] Playmaker |
+| **Role Score** | 41 |
 | **Level** | 66 |
 | **Overall** | 52.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A Canadian veteran now at Falkirk after stints at Rangers, operating as a box-to-box midfielder with genuine leadership credentials and the kind of intelligence that doesn't fade with age. He's a tidy passer in tight spaces and understands positioning well enough to cover ground efficiently, but at 37 his legs have gone — he's no longer capable of the pressing intensity or explosive transitions that made him useful in the Scottish Premiership. For a lower-division side, he offers experience and nous as a squad player or occasional starter, but he's well past the point where you'd build anything around him.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Playmaker` with model support score `41`.
+- Best-fit role is [[playmaker]] Playmaker with model support score `41`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Movement, and Shielding.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -67,13 +76,14 @@ A Canadian veteran now at Falkirk after stints at Rangers, operating as a box-to
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.0m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -101,7 +111,7 @@ A Canadian veteran now at Falkirk after stints at Rangers, operating as a box-to
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 47 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 47 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

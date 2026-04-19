@@ -2,12 +2,12 @@
 title: Yusuf Yazıcı
 category: players
 tags: [AM, Olympiacos, Turkey, Striker-Creator]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: AM at Olympiacos. Archetype: Striker-Creator.
 person_id: 18715
-backlinks: [striker, olympiacos]
+backlinks: [striker, trequartista, olympiacos]
 ---
 
 # Yusuf Yazıcı
@@ -21,18 +21,26 @@ backlinks: [striker, olympiacos]
 | **Nation** | Turkey |
 | **Age** | 29 |
 | **Archetype** | [[striker]] Striker-Creator |
+| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Yazıcı operates as a Seconda Punta, a creative forward whose strong mental attributes manifest in excellent creativity, vision, and dangerous mid-range finishing. His limited physical pillar, underscored by weaknesses in clearances and aerial duels, means his impact is almost exclusively offensive, flourishing in central attacking pockets. This type of intelligent, shadow striker, in his peak, is ideal for clubs employing intricate attacking patterns and can provide the defensive coverage for his more specialized role.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Trequartista`.
+- Best-fit role is [[trequartista]] Trequartista.
 - Primary archetype leans toward `Striker` behaviour from a `AM` base.
 - Most bankable strengths show up in Technical, Skills, and Tactical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,13 +70,14 @@ Yazıcı operates as a Seconda Punta, a creative forward whose strong mental att
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | Medium |
+| Floor | EUR 3.8m |
+| Mid | EUR 41.0m |
+| Ceiling | EUR 49.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -94,7 +103,7 @@ Yazıcı operates as a Seconda Punta, a creative forward whose strong mental att
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

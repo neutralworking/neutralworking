@@ -2,12 +2,12 @@
 title: Connor Ronan
 category: players
 tags: [WF, Colorado Rapids, Ireland, Powerhouse]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WF at Colorado Rapids. Archetype: Powerhouse.
 person_id: 9730
-backlinks: [powerhouse, colorado-rapids]
+backlinks: [powerhouse, inverted-winger, colorado-rapids]
 ---
 
 # Connor Ronan
@@ -21,18 +21,27 @@ backlinks: [powerhouse, colorado-rapids]
 | **Nation** | Ireland |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse |
+| **Best Role** | [[inverted-winger]] Inverted Winger |
+| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 61.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Connor Ronan projects primarily as a WF with a `Powerhouse` lean. The strongest database support comes from Shielding, Stamina, and Acceleration.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
 ## Role Fit
 
-- Best-fit role is `Inverted Winger` with model support score `71`.
+- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WF` base.
 - Most bankable strengths show up in Shielding, Stamina, and Acceleration.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -59,13 +68,14 @@ Connor Ronan projects primarily as a WF with a `Powerhouse` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Floor | EUR 1.1m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -93,6 +103,6 @@ Connor Ronan projects primarily as a WF with a `Powerhouse` lean. The strongest 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

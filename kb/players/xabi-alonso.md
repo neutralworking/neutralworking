@@ -2,12 +2,12 @@
 title: Xabi Alonso
 category: players
 tags: [DM, Bayern Munich, Spain, Passer-Controller]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Bayern Munich. Archetype: Passer-Controller.
 person_id: 18566
-backlinks: [passer, bayern-munich]
+backlinks: [passer, regista, bayern-munich]
 ---
 
 # Xabi Alonso
@@ -21,9 +21,11 @@ backlinks: [passer, bayern-munich]
 | **Nation** | Spain |
 | **Age** | 44 |
 | **Archetype** | [[passer]] Passer-Controller |
+| **Best Role** | [[regista]] Regista |
+| **Role Score** | 92 |
 | **Level** | 46 |
 | **Overall** | 47.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -62,9 +64,16 @@ Following Spain's failure to progress out of the group stages at the 2014 World 
 
 His 114 caps make him the fifth-most capped player in the nation's history."
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista` with model support score `92`.
+- Best-fit role is [[regista]] Regista with model support score `92`.
 - Primary archetype leans toward `Passer` behaviour from a `DM` base.
 - Most bankable strengths show up in Pass Accuracy, Interceptions, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -97,11 +106,12 @@ His 114 caps make him the fifth-most capped player in the nation's history."
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -126,11 +136,11 @@ His 114 caps make him the fifth-most capped player in the nation's history."
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 28 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -174,6 +184,5 @@ On 23 June 2012, Alonso won his 100th cap for Spain in the quarter-final of Euro
 Following Spain's failure to progress out of the group stages at the 2014 World Cup, Alonso retired from international football on 27 August 2014.
 
 His 114 caps make him the fifth-most capped player in the nation's history."
-
 
 </details>

@@ -1,98 +1,80 @@
 ---
-title: Mohammed Al Khabrani
+title: Mohammed Al-Khabrani
 category: players
-tags: [CM, Destroyer]
-updated: 2026-04-17
+tags: [CD, Al Qadsia, Saudi Arabia]
+updated: 2026-04-19
 source: compiled
-confidence: high
-summary: CM at None. Archetype: Destroyer.
-person_id: 23090
-backlinks: [destroyer]
+confidence: low
+summary: CD at Al Qadsia. Archetype: —.
+person_id: 15321
+backlinks: [al-qadsia]
 ---
 
-# Mohammed Al Khabrani
+# Mohammed Al-Khabrani
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | None |
-| **Nation** | None |
-| **Age** | None |
-| **Archetype** | [[destroyer]] Destroyer |
-| **Level** | 75 |
-| **Overall** | 58.0 |
-| **Pursuit** | None |
+| **Position** | CD |
+| **Club** | Al Qadsia |
+| **Nation** | Saudi Arabia |
+| **Age** | 32 |
+| **Archetype** | — |
+| **Level** | 70 |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Mohammed Al Khabrani projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Blocking, Technical, and Communication.
+A left-back of the strictly functional variety, capable of fulfilling basic defensive duties and possessing serviceable passing range for a defender, though he offers virtually nothing creatively or dynamically. He's at his best in a deep, compact defensive setup and will struggle against any winger with genuine pace or trickery. At 32, he's a cup-game option and injury cover.
+
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `69`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Build Up Contributor.
-- Most bankable strengths show up in Blocking, Technical, and Communication.
-
-## In Possession
-
-- Ball-value indicators lean on Blocking, Technical, and Communication.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Blocking | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
-| Communication | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Concentration | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Discipline | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Drive | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Flair | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
-| Interceptions | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1m |
-| Mid | EUR 2m |
-| Ceiling | EUR 3m |
-| Confidence | Low |
+| Floor | EUR 0.2m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 60
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 30
 - **Social (TF)**: 55
-- **Pressure (JP)**: 42
-- **Competitiveness**: 1/10
-- **Coachability**: 1/10
-
-## Trait Ledger
-
-- **Build Up Contributor** (tactical) — severity 7/10
+- **Pressure (JP)**: 56
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

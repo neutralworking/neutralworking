@@ -2,12 +2,12 @@
 title: Mathys Tel
 category: players
 tags: [CF, Tottenham Hotspur, France, Striker-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Tottenham Hotspur. Archetype: Striker-Cover.
 person_id: 14765
-backlinks: [striker, tottenham-hotspur]
+backlinks: [striker, seconda-punta, tottenham-hotspur]
 ---
 
 # Mathys Tel
@@ -21,18 +21,27 @@ backlinks: [striker, tottenham-hotspur]
 | **Nation** | France |
 | **Age** | 20 |
 | **Archetype** | [[striker]] Striker-Cover |
+| **Best Role** | [[seconda-punta]] Seconda Punta |
+| **Role Score** | 78 |
 | **Level** | 86 |
 | **Overall** | 78.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 French teenage striker. Quick, skilful, instinctive. Needs consistent game time to develop.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Seconda Punta` with model support score `78`.
+- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `78`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Acceleration, Balance, and Jumping.
@@ -67,13 +76,14 @@ French teenage striker. Quick, skilful, instinctive. Needs consistent game time 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.2m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | Medium |
+| Floor | EUR 23.8m |
+| Mid | EUR 52.0m |
+| Ceiling | EUR 62.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -104,11 +114,11 @@ French teenage striker. Quick, skilful, instinctive. Needs consistent game time 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -124,6 +134,5 @@ Tel, a French talent, joined Bayern from Rennes. Set records for youngest goalsc
 
 ## October 2023 Update
 Became a cult hero at Bayern with three Bundesliga goals, including a late winner against Borussia Mönchengladbach.
-
 
 </details>

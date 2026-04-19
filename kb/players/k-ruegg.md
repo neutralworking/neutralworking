@@ -2,12 +2,12 @@
 title: K. Rüegg
 category: players
 tags: [DM, FC Basel 1893, Powerhouse-Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at FC Basel 1893. Archetype: Powerhouse-Destroyer.
 person_id: 25538
-backlinks: [powerhouse, fc-basel-1893]
+backlinks: [powerhouse, anchor, fc-basel-1893]
 ---
 
 # K. Rüegg
@@ -18,21 +18,30 @@ backlinks: [powerhouse, fc-basel-1893]
 |---|---|
 | **Position** | DM |
 | **Club** | FC Basel 1893 |
-| **Nation** | None |
-| **Age** | None |
+| **Nation** | — |
+| **Age** | — |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
+| **Best Role** | [[anchor]] Anchor |
+| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 70.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 As a Warrior Anchor, K. Rüegg brings significant physical attributes to the defensive midfield, exhibiting strong pace, acceleration, jumping, and shielding capabilities, perfect for a high-press system. His 'Warrior' traits fit the tradition of combative holding midfielders tasked with breaking up play and winning duels, providing a robust base. While technically strong in fundamental areas, his limited tactical understanding, lack of guile, and inconsistent discipline make him a player who requires clear instructions and structure, best suited for a pragmatic coach and a club prioritizing defensive solidity over intricate build-up from the pivot.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Anchor` with model support score `74`.
+- Best-fit role is [[anchor]] Anchor with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Pace, and Shielding.
@@ -62,13 +71,14 @@ As a Warrior Anchor, K. Rüegg brings significant physical attributes to the def
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3m |
-| Mid | EUR 5m |
-| Ceiling | EUR 8m |
-| Confidence | Low |
+| Floor | EUR 14.4m |
+| Mid | EUR 17.0m |
+| Ceiling | EUR 20.4m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -91,7 +101,7 @@ As a Warrior Anchor, K. Rüegg brings significant physical attributes to the def
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

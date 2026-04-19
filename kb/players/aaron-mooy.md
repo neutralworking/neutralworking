@@ -2,12 +2,12 @@
 title: Aaron Mooy
 category: players
 tags: [DM, Celtic, Australia, Creator]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: DM at Celtic. Archetype: Creator.
 person_id: 13
-backlinks: [creator, celtic]
+backlinks: [creator, regista, celtic]
 ---
 
 # Aaron Mooy
@@ -21,18 +21,26 @@ backlinks: [creator, celtic]
 | **Nation** | Australia |
 | **Age** | 35 |
 | **Archetype** | [[creator]] Creator |
+| **Best Role** | [[regista]] Regista |
 | **Level** | 75 |
 | **Overall** | 69.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Aaron Mooy projects primarily as a DM with a `Creator` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+
 ## Role Fit
 
-- Best-fit role is `Regista`.
+- Best-fit role is [[regista]] Regista.
 - Primary archetype leans toward `Creator` behaviour from a `DM` base.
 - Most bankable strengths show up in Acceleration, Pace, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -64,11 +72,12 @@ Aaron Mooy projects primarily as a DM with a `Creator` lean. The strongest datab
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 3.9m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -88,5 +97,5 @@ Aaron Mooy projects primarily as a DM with a `Creator` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 30 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

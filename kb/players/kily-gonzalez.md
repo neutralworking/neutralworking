@@ -2,10 +2,10 @@
 title: Kily González
 category: players
 tags: [WM, Argentina, Destroyer-Striker]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WM at None. Archetype: Destroyer-Striker.
+summary: WM at —. Archetype: Destroyer-Striker.
 person_id: 13557
 backlinks: [destroyer]
 ---
@@ -17,19 +17,26 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | None |
+| **Club** | — |
 | **Nation** | Argentina |
 | **Age** | 51 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
 | **Level** | 44 |
-| **Overall** | None |
-| **Pursuit** | None |
+| **Overall** | — |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Creator	Winger	Valencia	ARG	B	0.0	González was a quick and versatile midfielder, who was capable of playing both as a winger and as an attacking midfielder. His main attributes were his technical ability, his powerful and accurate striking ability from distance and his determination.		"He started his career with Rosario Central which he would represent in three different spells, moving to Spain in 1996 where he appeared for Zaragoza and Valencia, amassing La Liga totals of 182 games and 23 goals over the course of seven seasons and winning the national championship with the latter. He also spent three years in Italy with Inter Milan.
  González's spell in the Argentine national team lasted for ten years, in which he was selected for the 2002 World Cup and two Copa América tournaments, for a total of 56 caps."
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -42,10 +49,11 @@ WF		Creator	Winger	Valencia	ARG	B	0.0	González was a quick and versatile midfie
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -67,9 +75,9 @@ WF		Creator	Winger	Valencia	ARG	B	0.0	González was a quick and versatile midfie
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

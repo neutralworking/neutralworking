@@ -2,12 +2,12 @@
 title: Jermain Defoe
 category: players
 tags: [CF, Rangers FC, England, Striker]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CF at Rangers FC. Archetype: Striker.
 person_id: 12580
-backlinks: [striker, rangers-fc]
+backlinks: [striker, shadow-striker, rangers-fc]
 ---
 
 # Jermain Defoe
@@ -21,9 +21,10 @@ backlinks: [striker, rangers-fc]
 | **Nation** | England |
 | **Age** | 43 |
 | **Archetype** | [[striker]] Striker |
+| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 50 |
 | **Overall** | 48.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -31,9 +32,16 @@ backlinks: [striker, rangers-fc]
 CF		Striker	Dagger	Tottenham, Portsmouth	ENG	C	76.0			"Defoe began his career with Charlton Athletic, joining their youth team at age fourteen, before moving to West Ham United aged sixteen and rising through the ranks. He made his professional debut for West Ham in 2000, and after a season-long loan spell at Bournemouth during the 2000–01 season, established himself in the West Ham line-up. After West Ham's relegation in 2003, a move to Tottenham in January 2004 soon followed, where Defoe played for 4 years before being sold to Portsmouth in January 2008. He spent one season at Fratton Park before returning to Tottenham in the January 2009 transfer window. He played for Toronto FC of Major League Soccer in 2014, before returning to England in January 2015 to sign for Sunderland.
  In April 2011, Defoe became the 20th player to score a century of Premier League goals, and is currently the 11th highest goalscorer in Premier League history.[3] He became the fifth highest goalscorer in Tottenham's history in September 2013,[4] and the club's highest goalscorer in European competitions in November 2013.[5] Defoe also holds the Premier League record for the most goals scored as a substitute, with 22, as of 11 January 2014. Defoe made his England debut in 2004 and has made 55 appearances, scoring 19 goals,[7] including three appearances and a goal at the 2010 FIFA World Cup."
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Shadow Striker`.
+- Best-fit role is [[shadow-striker]] Shadow Striker.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Pace, First Touch, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -60,13 +68,14 @@ CF		Striker	Dagger	Tottenham, Portsmouth	ENG	C	76.0			"Defoe began his career wi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 0.4m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -92,11 +101,11 @@ CF		Striker	Dagger	Tottenham, Portsmouth	ENG	C	76.0			"Defoe began his career wi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-19 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,12 +2,12 @@
 title: Jakob Glesnes
 category: players
 tags: [CD, Philadelphia Union, Norway, Powerhouse-Cover]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Philadelphia Union. Archetype: Powerhouse-Cover.
 person_id: 12250
-backlinks: [powerhouse, philadelphia-union]
+backlinks: [powerhouse, distributor, philadelphia-union]
 ---
 
 # Jakob Glesnes
@@ -21,18 +21,27 @@ backlinks: [powerhouse, philadelphia-union]
 | **Nation** | Norway |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
+| **Best Role** | [[distributor]] Distributor |
+| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 68.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Jakob Glesnes projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Long Range, Jumping, and Mid Range.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Distributor` with model support score `76`.
+- Best-fit role is [[distributor]] Distributor with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Long Range, Jumping, and Mid Range.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -67,13 +76,14 @@ Jakob Glesnes projects primarily as a CD with a `Powerhouse-Cover` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 2.8m |
+| Mid | EUR 8.0m |
+| Ceiling | EUR 9.6m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -102,6 +112,6 @@ Jakob Glesnes projects primarily as a CD with a `Powerhouse-Cover` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |

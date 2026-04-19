@@ -1,13 +1,12 @@
 ---
 title: Jason Wilcox
 category: players
-tags: [WM, Blackpool]
-updated: 2026-04-18
+tags: [WF, England]
+updated: 2026-04-19
 source: compiled
 confidence: low
-summary: WM at Blackpool. Archetype: None.
-person_id: 18813
-backlinks: [blackpool]
+summary: WF at —. Archetype: —.
+person_id: 12436
 ---
 
 # Jason Wilcox
@@ -16,19 +15,30 @@ backlinks: [blackpool]
 
 | Field | Value |
 |---|---|
-| **Position** | WM |
-| **Club** | Blackpool |
-| **Nation** | None |
-| **Age** | 55 |
-| **Archetype** | [[—]] None |
-| **Level** | 42 |
-| **Overall** | None |
-| **Pursuit** | None |
-| **Market Value Tier** | 1 |
+| **Position** | WF |
+| **Club** | — |
+| **Nation** | England |
+| **Age** | — |
+| **Archetype** | — |
+| **Level** | — |
+| **Overall** | — |
+| **Pursuit** | — |
+| **Market Value Tier** | 2 |
 
 ## Snapshot
 
-Academy director and former player now aged 54, no longer competing at senior level. Not a player for current purposes.
+Jason Wilcox is currently a roster-level WF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
+
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
+- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+
+## Role Fit
+
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
 ## Valuation Range
 
@@ -37,13 +47,15 @@ Academy director and former player now aged 54, no longer competing at senior le
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
+- Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
@@ -51,4 +63,4 @@ Academy director and former player now aged 54, no longer competing at senior le
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Compile baseline | Chief Scout DB | 2026-04-19 | Low | Only roster-level identity fields were available at compile time. |

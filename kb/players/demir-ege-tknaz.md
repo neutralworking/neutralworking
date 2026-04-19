@@ -2,12 +2,12 @@
 title: Demir Ege Tıknaz
 category: players
 tags: [WM, Braga, Turkey, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: WM at Braga. Archetype: Dribbler.
 person_id: 10204
-backlinks: [dribbler, braga]
+backlinks: [dribbler, tornante, braga]
 ---
 
 # Demir Ege Tıknaz
@@ -21,18 +21,26 @@ backlinks: [dribbler, braga]
 | **Nation** | Turkey |
 | **Age** | 21 |
 | **Archetype** | [[dribbler]] Dribbler |
+| **Best Role** | [[tornante]] Tornante |
 | **Level** | 79 |
 | **Overall** | 73.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Demir Ege Tıknaz is a technically-gifted winger with a strong tactical awareness, allowing him to excel in the Winger role, using his vision and pace to beat opponents, but his limited physicality may be exposed in intense, high-pressing environments, and his moderate mental pillar means he can be reliable, but may not excel in high-pressure situations, making him a good fit for a team that values technical ability on the flanks and can provide defensive cover to allow him to focus on his attacking play.
 
+## Canon Context
+
+- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
+- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
+- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+
 ## Role Fit
 
-- Best-fit role is `Tornante`.
+- Best-fit role is [[tornante]] Tornante.
 - Primary archetype leans toward `Dribbler` behaviour from a `WM` base.
 - Most bankable strengths show up in First Touch, Pace, and Pass Accuracy.
 
@@ -57,13 +65,14 @@ Demir Ege Tıknaz is a technically-gifted winger with a strong tactical awarenes
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.6m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | Medium |
+| Floor | EUR 5.7m |
+| Mid | EUR 15.0m |
+| Ceiling | EUR 18.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -83,6 +92,6 @@ Demir Ege Tıknaz is a technically-gifted winger with a strong tactical awarenes
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 38 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |

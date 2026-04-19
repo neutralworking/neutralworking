@@ -2,12 +2,12 @@
 title: Steve Cook
 category: players
 tags: [CD, Queens Park Rangers, England, Destroyer]
-updated: 2026-04-17
+updated: 2026-04-19
 source: compiled
 confidence: high
 summary: CD at Queens Park Rangers. Archetype: Destroyer.
 person_id: 17643
-backlinks: [destroyer, queens-park-rangers]
+backlinks: [destroyer, colossus, queens-park-rangers]
 ---
 
 # Steve Cook
@@ -19,20 +19,29 @@ backlinks: [destroyer, queens-park-rangers]
 | **Position** | CD |
 | **Club** | Queens Park Rangers |
 | **Nation** | England |
-| **Age** | 34 |
+| **Age** | 35 |
 | **Archetype** | [[destroyer]] Destroyer |
+| **Best Role** | [[colossus]] Colossus |
+| **Role Score** | 72 |
 | **Level** | 77 |
 | **Overall** | 66.0 |
-| **Pursuit** | None |
+| **Pursuit** | — |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 At 34, he's a true journeyman defender—positionally intelligent, knows every trick in the book, and will rarely give you a calamitous moment. However, he's lost the athleticism to recover if his positioning is fractionally off, and against pressing triggers he can look creaky. He's a squad player now, useful for specific matchups or when you need experience, but not a long-term solution.
 
+## Canon Context
+
+- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
+- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
+- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
+- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+
 ## Role Fit
 
-- Best-fit role is `Colossus` with model support score `72`.
+- Best-fit role is [[colossus]] Colossus with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Physical, Heading, and Jumping.
@@ -69,11 +78,12 @@ At 34, he's a true journeyman defender—positionally intelligent, knows every t
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | Medium |
+| Ceiling | EUR 2.0m |
+| Confidence | High |
 
-- Value drivers: Role scarcity, current level, and available data depth.
-- Discount factors: Uncertainty in comparable fees and context portability.
+- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
+- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
 
 ## Risk Flags
 
@@ -100,7 +110,7 @@ At 34, he's a true journeyman defender—positionally intelligent, knows every t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-19 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-19 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-19 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-19 | Medium | Human-authored note incorporated into summary. |
