@@ -2,7 +2,7 @@
 title: Kike Pérez
 category: players
 tags: [CM, Venezia FC, Spain, Dribbler-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Venezia FC. Archetype: Dribbler-Creator.
@@ -19,23 +19,16 @@ backlinks: [dribbler, venezia-fc]
 | **Position** | CM |
 | **Club** | Venezia FC |
 | **Nation** | Spain |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[dribbler]] Dribbler-Creator |
 | **Level** | 76 |
 | **Overall** | 57.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Versatile midfielder-defender hybrid with useful defensive positioning and leadership qualities, though limited on the ball and not particularly influential in open play. The kind of experienced utility player that stabilizes a struggling side but doesn't elevate it.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +67,13 @@ Versatile midfielder-defender hybrid with useful defensive positioning and leade
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.1m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +101,7 @@ Versatile midfielder-defender hybrid with useful defensive positioning and leade
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

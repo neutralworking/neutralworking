@@ -23,18 +23,12 @@ backlinks: [powerhouse, heracles-almelo]
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Alec Van Hoorenbeeck projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Heading, Jumping, and Crossing.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Alec Van Hoorenbeeck projects primarily as a CD with a `Powerhouse-Cover` lean. 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 26.0m |
-| Ceiling | EUR 31.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

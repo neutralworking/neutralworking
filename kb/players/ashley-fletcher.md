@@ -23,19 +23,12 @@ backlinks: [sprinter, watford]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Journeyman striker who has bounced between Championship and lower Premier League clubs; physical presence and work rate are reliable, but lacks the technical quality or movement patterns to be a consistent top-flight scorer.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Journeyman striker who has bounced between Championship and lower Premier League
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

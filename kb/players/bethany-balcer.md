@@ -5,7 +5,7 @@ tags: [CF, Seattle Sounders FC, United States]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Seattle Sounders FC. Archetype: —.
+summary: CF at Seattle Sounders FC. Archetype: None.
 person_id: 9044
 backlinks: [seattle-sounders-fc]
 ---
@@ -20,22 +20,11 @@ backlinks: [seattle-sounders-fc]
 | **Club** | Seattle Sounders FC |
 | **Nation** | United States |
 | **Age** | 29 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 83 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
-
-## Snapshot
-
-Bethany Balcer is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -45,14 +34,13 @@ Bethany Balcer is currently a roster-level CF entry in the KB. The page should b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 26.3m |
-| Mid | EUR 31.0m |
-| Ceiling | EUR 37.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

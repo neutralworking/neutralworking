@@ -7,40 +7,158 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
 * { margin: 0; padding: 0; box-sizing: border-box; }
-:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+:root {
+  --bg: #0a0a0a;
+  --text: #e0e0e0;
+  --dim: #555;
+  --mid: #888;
+  --accent: #00ff88;
+  --accent-dim: #00ff8822;
+  --rule: #ffffff15;
+  --grid: #ffffff06;
+}
 html { font-size: 15px; }
-body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
-body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
-.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
-header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  min-height: 100vh;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+header.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 3rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dim);
+}
 header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
 header.topnav a:hover { color: var(--accent); }
 header.topnav .sep { color: #222; }
 header.topnav .crumb { color: var(--mid); }
-article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.5rem; color: #fff; }
+article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+  color: #fff;
+}
 article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
-article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 2.5rem 0 0.75rem;
+  color: #fff;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
 article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
-article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin: 1.75rem 0 0.5rem;
+  color: #fff;
+}
 article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
 article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
-article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s ease;
+}
 article a:hover { border-bottom-color: var(--accent); }
 article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
 article li { margin-bottom: 0.35rem; }
-article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
-article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
-article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; }
+article blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 2px solid var(--accent);
+  color: var(--mid);
+  font-size: 0.82rem;
+  font-style: italic;
+}
+article code {
+  font-family: inherit;
+  background: #ffffff0a;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.78rem;
+  border: 1px solid var(--rule);
+}
+article pre {
+  background: #ffffff05;
+  border: 1px solid var(--rule);
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1rem 0;
+  font-size: 0.75rem;
+}
 article pre code { background: none; border: none; padding: 0; }
-article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
-article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); }
-article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.78rem;
+}
+article th, article td {
+  padding: 0.55rem 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+}
+article th {
+  color: var(--mid);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  background: #ffffff04;
+}
 article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 article strong { color: #fff; font-weight: 500; }
-.source-link { display: inline-block; margin-top: 3rem; font-size: 0.7rem; color: var(--dim); text-decoration: none; letter-spacing: 0.1em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.source-link {
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 0.7rem;
+  color: var(--dim);
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.25rem;
+  transition: color .2s ease, border-color .2s ease;
+}
 .source-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
-.wikilink-broken { color: var(--dim); border-bottom: 1px dashed #333; }
-@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+.wikilink-broken {
+  color: var(--dim);
+  border-bottom: 1px dashed #333;
+}
+@media (max-width: 560px) {
+  .wrap { padding: 2.5rem 1.25rem 4rem; }
+  article h1 { font-size: 1.5rem; }
+}
 </style>
 </head>
 <body>
@@ -59,20 +177,6 @@ article strong { color: #fff; font-weight: 500; }
 <p><strong>League</strong>: Serie A<br />
 <strong>Nation</strong>: Italy<br />
 <strong>Players in DB</strong>: 47</p>
-<h2 id="identity">Identity</h2>
-<ul>
-<li>Database coverage is deepest in CD (11), CM (9), and GK (7), which shapes the visible squad picture.</li>
-<li>The tracked archetype mix leans toward Destroyer (9), Striker (8), and Gk (7) across the current squad.</li>
-<li>Average available overall grade sits at 68.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.</li>
-</ul>
-<h2 id="canon-context">Canon Context</h2>
-<ul>
-<li><a href="../concepts/build-up.html">build-up</a> Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.</li>
-<li><a href="../concepts/rest-defense.html">rest-defense</a> Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.</li>
-<li><a href="../concepts/half-space.html">half-space</a> Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.</li>
-<li><a href="../concepts/occupation-of-five-lanes.html">occupation-of-five-lanes</a> Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.</li>
-<li><a href="../concepts/gegenpressing.html">gegenpressing</a> Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.</li>
-</ul>
 <h2 id="squad">Squad</h2>
 <table>
 <thead>
@@ -91,10 +195,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>75.0</td>
 </tr>
 <tr>
-<td><a href="../players/alessandro-dellavalle.html">alessandro-dellavalle</a> Alessandro Dellavalle</td>
+<td><span class="wikilink-broken">alessandro-dellavalle</span> Alessandro Dellavalle</td>
 <td>CD</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/ardian-ismajli.html">ardian-ismajli</a> Ardian Ismajli</td>
@@ -103,10 +207,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>75.0</td>
 </tr>
 <tr>
-<td><a href="../players/fabio-desole.html">fabio-desole</a> Fabio Desole</td>
+<td><span class="wikilink-broken">fabio-desole</span> Fabio Desole</td>
 <td>CD</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/guillermo-maripan.html">guillermo-maripan</a> Guillermo Maripán</td>
@@ -115,10 +219,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>77.0</td>
 </tr>
 <tr>
-<td><a href="../players/jacopo-antolini.html">jacopo-antolini</a> Jacopo Antolini</td>
+<td><span class="wikilink-broken">jacopo-antolini</span> Jacopo Antolini</td>
 <td>CD</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/koffi-djidji.html">koffi-djidji</a> Koffi Djidji</td>
@@ -137,6 +241,12 @@ article strong { color: #fff; font-weight: 500; }
 <td>CD</td>
 <td>Destroyer-Passer</td>
 <td>77.0</td>
+</tr>
+<tr>
+<td><a href="../players/rafael-obrador.html">rafael-obrador</a> Rafael Obrador</td>
+<td>CD</td>
+<td>Sprinter</td>
+<td>73.0</td>
 </tr>
 <tr>
 <td><a href="../players/saba-sazonov.html">saba-sazonov</a> Saba Sazonov</td>
@@ -175,10 +285,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>74.0</td>
 </tr>
 <tr>
-<td><a href="../players/lado-akhalaia.html">lado-akhalaia</a> Lado Akhalaia</td>
+<td><span class="wikilink-broken">lado-akhalaia</span> Lado Akhalaia</td>
 <td>CF</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/pietro-pellegri.html">pietro-pellegri</a> Pietro Pellegri</td>
@@ -187,22 +297,16 @@ article strong { color: #fff; font-weight: 500; }
 <td>75.0</td>
 </tr>
 <tr>
-<td><a href="../players/s-kulenovic.html">s-kulenovic</a> S. Kulenović</td>
-<td>CF</td>
-<td>Striker</td>
-<td>64.0</td>
-</tr>
-<tr>
 <td><a href="../players/zakaria-aboukhlal.html">zakaria-aboukhlal</a> Zakaria Aboukhlal</td>
 <td>CF</td>
 <td>Striker</td>
 <td>71.0</td>
 </tr>
 <tr>
-<td><a href="../players/aaron-ciammaglichella.html">aaron-ciammaglichella</a> Aaron Ciammaglichella</td>
+<td><span class="wikilink-broken">aaron-ciammaglichella</span> Aaron Ciammaglichella</td>
 <td>CM</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/adrien-tameze.html">adrien-tameze</a> Adrien Tamèze</td>
@@ -241,10 +345,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>74.0</td>
 </tr>
 <tr>
-<td><a href="../players/jonathan-silva.html">jonathan-silva</a> Jonathan Silva</td>
+<td><span class="wikilink-broken">jonathan-silva</span> Jonathan Silva</td>
 <td>CM</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/kristjan-asllani.html">kristjan-asllani</a> Kristjan Asllani</td>
@@ -253,40 +357,40 @@ article strong { color: #fff; font-weight: 500; }
 <td>62.0</td>
 </tr>
 <tr>
-<td><a href="../players/a-paleari.html">a-paleari</a> A. Paleari</td>
+<td><span class="wikilink-broken">a-paleari</span> A. Paleari</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
-<td><a href="../players/franco-israel.html">franco-israel</a> Franco Israel</td>
+<td><span class="wikilink-broken">franco-israel</span> Franco Israel</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
-<td><a href="../players/luca-gemello.html">luca-gemello</a> Luca Gemello</td>
+<td><span class="wikilink-broken">luca-gemello</span> Luca Gemello</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
-<td><a href="../players/matteo-brezzo.html">matteo-brezzo</a> Matteo Brezzo</td>
+<td><span class="wikilink-broken">matteo-brezzo</span> Matteo Brezzo</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
-<td><a href="../players/pietro-passador.html">pietro-passador</a> Pietro Passador</td>
+<td><span class="wikilink-broken">pietro-passador</span> Pietro Passador</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
-<td><a href="../players/simone-servalli.html">simone-servalli</a> Simone Servalli</td>
+<td><span class="wikilink-broken">simone-servalli</span> Simone Servalli</td>
 <td>GK</td>
 <td>GK</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/vanja-milinkovic-savic.html">vanja-milinkovic-savic</a> Vanja Milinković-Savić</td>
@@ -307,10 +411,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>62.0</td>
 </tr>
 <tr>
-<td><a href="../players/come-bianay-balcot.html">come-bianay-balcot</a> Côme Bianay Balcot</td>
+<td><span class="wikilink-broken">come-bianay-balcot</span> Côme Bianay Balcot</td>
 <td>WD</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/cristiano-biraghi.html">cristiano-biraghi</a> Cristiano Biraghi</td>
@@ -319,10 +423,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>67.0</td>
 </tr>
 <tr>
-<td><a href="../players/kevin-haveri.html">kevin-haveri</a> Kevin Haveri</td>
+<td><span class="wikilink-broken">kevin-haveri</span> Kevin Haveri</td>
 <td>WD</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/marcus-pedersen.html">marcus-pedersen</a> Marcus Pedersen</td>
@@ -343,10 +447,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>56.0</td>
 </tr>
 <tr>
-<td><a href="../players/brian-bayeye.html">brian-bayeye</a> Brian Bayeye</td>
+<td><span class="wikilink-broken">brian-bayeye</span> Brian Bayeye</td>
 <td>WF</td>
 <td>Sprinter</td>
-<td>—</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/cyril-ngonge.html">cyril-ngonge</a> Cyril Ngonge</td>
@@ -355,10 +459,10 @@ article strong { color: #fff; font-weight: 500; }
 <td>76.0</td>
 </tr>
 <tr>
-<td><a href="../players/zanos-savva.html">zanos-savva</a> Zanos Savva</td>
+<td><span class="wikilink-broken">zanos-savva</span> Zanos Savva</td>
 <td>WF</td>
-<td>—</td>
-<td>—</td>
+<td>None</td>
+<td>None</td>
 </tr>
 <tr>
 <td><a href="../players/valentino-lazaro.html">valentino-lazaro</a> Valentino Lazaro</td>

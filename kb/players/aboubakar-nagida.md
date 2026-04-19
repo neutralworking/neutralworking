@@ -2,7 +2,7 @@
 title: Aboubakar Nagida
 category: players
 tags: [WD, Rennes, Cameroon, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Rennes. Archetype: Cover.
@@ -23,18 +23,12 @@ backlinks: [cover, rennes]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 62 |
 | **Overall** | 59.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young winger with decent pace and direct running ability, but currently raw and inconsistent in decision-making. Needs significant development time; has potential but isn't ready for consistent Ligue 1 minutes yet.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,11 +64,11 @@ Young winger with decent pace and direct running ability, but currently raw and 
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 6.6m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -97,7 +91,7 @@ Young winger with decent pace and direct running ability, but currently raw and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 22 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

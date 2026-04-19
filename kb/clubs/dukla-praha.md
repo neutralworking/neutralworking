@@ -1,32 +1,18 @@
 ---
 title: Dukla Praha
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Dukla Praha. 27 players in database.
+summary: Dukla Praha. 26 players in database.
 ---
 
 # Dukla Praha
 
-**League**: —  
-**Nation**: —  
-**Players in DB**: 27
-
-## Identity
-
-- Database coverage is deepest in CM (7), GK (2), and WD (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (8), Cover (6), and Destroyer (6) across the current squad.
-- Average available overall grade sits at 60.4, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**League**: None  
+**Nation**: None  
+**Players in DB**: 26
 
 ## Squad
 
@@ -41,21 +27,20 @@ summary: Dukla Praha. 27 players in database.
 | [[m-pourzitidis]] M. Pourzitídis | CM | Destroyer-Striker | 65.0 |
 | [[manssita-traore]] Manssita Traoré | CM | Cover-Striker | 65.0 |
 | [[s-tijani]] S. Tijani | CM | Cover | 65.0 |
-| [[h-backovsky]] H. Bačkovský | GK | GK | — |
-| [[r-matrevics]] R. Matrevics | GK | GK | — |
-| [[matej-hanousek]] Matěj Hanousek | WD | Cover | 64.0 |
+| [[h-backovsky]] H. Bačkovský | GK | GK | None |
+| [[r-matrevics]] R. Matrevics | GK | GK | None |
 | [[j-fokam-sandeu]] J. Fokam-Sandeu | WF | Creator-Striker | 30.0 |
 | [[m-cernak]] M. Černák | WM | Creator-Striker | 64.0 |
-| D. Gilbert | — | Striker | — |
-| D. Hašek | — | Destroyer-Creator | — |
-| D. Kreiker | — | Cover-Striker | — |
-| D. Velasquez | — | Creator-Striker | — |
-| J. Svozil | — | Destroyer-Creator | — |
-| K. Milla | — | Striker-Creator | — |
-| M. Žitný | — | Cover-Creator | — |
-| P. Gaszczyk | — | Destroyer-Striker | — |
-| S. Isife | — | Creator-Destroyer | — |
-| Š. Šebrle | — | Creator | — |
-| T. Jedlička | — | Creator-Cover | — |
-| [[tomas-pekhart]] Tomáš Pekhart | — | Cover-Striker | — |
-| Z. Šehović | — | Striker-Destroyer | — |
+| [[d-gilbert]] D. Gilbert | None | Striker | None |
+| [[d-hasek]] D. Hašek | None | Destroyer-Creator | None |
+| [[d-kreiker]] D. Kreiker | None | Cover-Striker | None |
+| [[d-velasquez]] D. Velasquez | None | Creator-Striker | None |
+| [[j-svozil]] J. Svozil | None | Destroyer-Creator | None |
+| [[k-milla]] K. Milla | None | Striker-Creator | None |
+| [[m-zitny]] M. Žitný | None | Cover-Creator | None |
+| [[p-gaszczyk]] P. Gaszczyk | None | Destroyer-Striker | None |
+| [[s-isife]] S. Isife | None | Creator-Destroyer | None |
+| [[s-sebrle]] Š. Šebrle | None | Creator | None |
+| [[t-jedlicka]] T. Jedlička | None | Creator-Cover | None |
+| [[tomas-pekhart]] Tomáš Pekhart | None | Cover-Striker | None |
+| [[z-sehovic]] Z. Šehović | None | Striker-Destroyer | None |

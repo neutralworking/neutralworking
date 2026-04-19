@@ -18,24 +18,17 @@ backlinks: [striker, new-england-revolution]
 |---|---|
 | **Position** | CF |
 | **Club** | New England Revolution |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 22 |
 | **Archetype** | [[striker]] Striker-Creator |
 | **Level** | 72 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dor Turgeman projects primarily as a CF with a `Striker-Creator` lean. The strongest database support comes from Physical, Skills, and Tactical.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Dor Turgeman projects primarily as a CF with a `Striker-Creator` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 5.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

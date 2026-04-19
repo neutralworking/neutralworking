@@ -22,20 +22,13 @@ backlinks: [sprinter, angers]
 | **Age** | 114 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 39 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Clearly not a real player, Moore is not a viable option at any level and is likely a fictional character.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,11 +64,10 @@ Clearly not a real player, Moore is not a viable option at any level and is like
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

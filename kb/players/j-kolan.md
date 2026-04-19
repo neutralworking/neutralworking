@@ -2,12 +2,12 @@
 title: J. Kolan
 category: players
 tags: [WD, Sprinter-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WD at —. Archetype: Sprinter-Cover.
+summary: WD at None. Archetype: Sprinter-Cover.
 person_id: 25749
-backlinks: [sprinter, corner-back]
+backlinks: [sprinter]
 ---
 
 # J. Kolan
@@ -17,31 +17,22 @@ backlinks: [sprinter, corner-back]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
-| **Best Role** | [[corner-back]] Corner Back |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 J. Kolan projects primarily as a WD with a `Sprinter-Cover` lean. The strongest database support comes from Shielding, Acceleration, and Pace.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back with model support score `69`.
+- Best-fit role is `Corner Back` with model support score `69`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Shielding, Acceleration, and Pace.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -71,14 +62,13 @@ J. Kolan projects primarily as a WD with a `Sprinter-Cover` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,5 +89,5 @@ J. Kolan projects primarily as a WD with a `Sprinter-Cover` lean. The strongest 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

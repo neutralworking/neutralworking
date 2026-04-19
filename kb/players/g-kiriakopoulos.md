@@ -2,7 +2,7 @@
 title: G. Kiriakopoulos
 category: players
 tags: [WM, Panathinaikos, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Panathinaikos. Archetype: Striker-Creator.
@@ -18,24 +18,17 @@ backlinks: [striker, panathinaikos]
 |---|---|
 | **Position** | WM |
 | **Club** | Panathinaikos |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 G. Kiriakopoulos projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Discipline, Flair, and Skills.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ G. Kiriakopoulos projects primarily as a WM with a `Striker-Creator` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -98,6 +90,6 @@ G. Kiriakopoulos projects primarily as a WM with a `Striker-Creator` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

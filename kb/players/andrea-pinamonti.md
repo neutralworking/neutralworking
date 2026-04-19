@@ -2,7 +2,7 @@
 title: Andrea Pinamonti
 category: players
 tags: [CF, Sassuolo, Italy, Striker-Target]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Sassuolo. Archetype: Striker-Target.
@@ -23,19 +23,12 @@ backlinks: [striker, sassuolo]
 | **Archetype** | [[striker]] Striker-Target |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Technically gifted, quick-thinking forward with decent movement in the box and decent link-up play, but lacks the physical presence or finishing consistency to consistently threaten top-flight defenses.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Technically gifted, quick-thinking forward with decent movement in the box and d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.2m |
-| Mid | EUR 53.0m |
-| Ceiling | EUR 63.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,7 +97,7 @@ Technically gifted, quick-thinking forward with decent movement in the box and d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

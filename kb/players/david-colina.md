@@ -2,7 +2,7 @@
 title: David Colina
 category: players
 tags: [WM, NK Osijek, Sprinter-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at NK Osijek. Archetype: Sprinter-Cover.
@@ -18,15 +18,16 @@ backlinks: [sprinter, nk-osijek]
 |---|---|
 | **Position** | WM |
 | **Club** | NK Osijek |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
+
 
 CountryCroatia
 
@@ -35,6 +36,12 @@ ClubDinamo Zagreb
 PositionDefender
 
 Born19 July 2000
+
+
+
+
+
+
 
 ****
 
@@ -50,12 +57,6 @@ Dynamic, tactically sound in defence and attack, possessing a very good sense of
   
 **September 2022 update** Recently scored in his 100th appearance for Hajduk. Although these days often an off-the-bench option, he proved he is capable of playing in midfield or on the right and says he is happy he got an opportunity to show that. “I’m ready to play wherever the coach wants me,” he says.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -88,14 +89,13 @@ Dynamic, tactically sound in defence and attack, possessing a very good sense of
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -119,16 +119,17 @@ Dynamic, tactically sound in defence and attack, possessing a very good sense of
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 CountryCroatia
 
@@ -137,6 +138,12 @@ ClubDinamo Zagreb
 PositionDefender
 
 Born19 July 2000
+
+
+
+
+
+
 
 ****
 
@@ -151,5 +158,6 @@ Dynamic, tactically sound in defence and attack, possessing a very good sense of
 **October 2021 update** Has been a mainstay at left-back for both Hajduk and Croatia Under-21s. There have been rumours of foreign interest but not from any major European clubs as of yet.  
   
 **September 2022 update** Recently scored in his 100th appearance for Hajduk. Although these days often an off-the-bench option, he proved he is capable of playing in midfield or on the right and says he is happy he got an opportunity to show that. “I’m ready to play wherever the coach wants me,” he says.
+
 
 </details>

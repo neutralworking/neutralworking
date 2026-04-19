@@ -22,19 +22,13 @@ backlinks: [gk, new-york-city-fc]
 | **Age** | 25 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young American keeper with the physical tools and shot-stopping ability you'd want from an MLS backup, but without the distribution range or game-reading acuity to suggest he'll ever be more than a rotational option. His footwork is clunky and his decision-making under pressure—whether sweeping or playing out from the back—trails what you'd expect from a starter at a serious club. Decent reflexes on his line; vulnerable to intelligent pressing.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +60,13 @@ A young American keeper with the physical tools and shot-stopping ability you'd 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

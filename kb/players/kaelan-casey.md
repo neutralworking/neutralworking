@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Swansea City. Archetype: Destroyer.
 person_id: 13273
-backlinks: [destroyer, centrale, swansea-city]
+backlinks: [destroyer, swansea-city]
 ---
 
 # Kaelan Casey
@@ -21,26 +21,18 @@ backlinks: [destroyer, centrale, swansea-city]
 | **Nation** | England |
 | **Age** | 21 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[centrale]] Centrale |
 | **Level** | 57 |
 | **Overall** | 49.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young centre-back with promising physical profile and some defensive instinct, but raw and error-prone at this level. Developmental defender requiring loan spells to build confidence and consistency.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[centrale]] Centrale.
+- Best-fit role is `Centrale`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Drive, Skills, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -73,11 +65,10 @@ Young centre-back with promising physical profile and some defensive instinct, b
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

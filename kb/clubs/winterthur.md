@@ -1,32 +1,18 @@
 ---
 title: Winterthur
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Winterthur. 28 players in database.
+summary: Winterthur. 27 players in database.
 ---
 
 # Winterthur
 
-**League**: —  
-**Nation**: —  
-**Players in DB**: 28
-
-## Identity
-
-- Database coverage is deepest in CM (9), CD (4), and GK (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Destroyer (9), Creator (6), and Sprinter (4) across the current squad.
-- Average available overall grade sits at 63.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**League**: None  
+**Nation**: None  
+**Players in DB**: 27
 
 ## Squad
 
@@ -50,13 +36,12 @@ summary: Winterthur. 28 players in database.
 | [[s-diaby]] S. Diaby | CM | Destroyer-Powerhouse | 66.0 |
 | [[s-sidler]] S. Sidler | CM | Destroyer-Sprinter | 65.0 |
 | [[tibault-citherlet]] Tibault Citherlet | CM | Destroyer | 64.0 |
-| [[f-momoh]] F. Momoh | GK | GK | — |
-| [[marvin-keller]] Marvin Keller | GK | GK | — |
-| [[s-kapino]] S. Kapino | GK | GK | — |
-| [[matheus-martins]] Matheus Martins | WF | Creator-Striker | 66.0 |
+| [[f-momoh]] F. Momoh | GK | GK | None |
+| [[marvin-keller]] Marvin Keller | GK | GK | None |
+| [[s-kapino]] S. Kapino | GK | GK | None |
 | [[n-burkart]] N. Burkart | WF | Sprinter-Dribbler | 66.0 |
 | [[a-jankewitz]] A. Jankewitz | WM | Creator-Destroyer | 69.0 |
 | [[b-dansoko]] B. Dansoko | WM | Cover-Striker | 66.0 |
 | [[e-maluvunu]] E. Maluvunu | WM | Creator-Sprinter | 66.0 |
-| B. Beyer | — | Striker-Destroyer | — |
-| L. Maksutaj | — | Striker-Creator | — |
+| [[b-beyer]] B. Beyer | None | Striker-Destroyer | None |
+| [[l-maksutaj]] L. Maksutaj | None | Striker-Creator | None |

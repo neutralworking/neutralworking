@@ -2,10 +2,10 @@
 title: Anertey Abbey Nathaniel
 category: players
 tags: [CD, Ghana]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 30338
 ---
 
@@ -16,25 +16,18 @@ person_id: 30338
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Ghana |
-| **Age** | — |
-| **Archetype** | — |
-| **Level** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 42.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Anertey Abbey Nathaniel projects primarily as a CD with a `—` lean. The strongest database support comes from Shielding, Aerial Duels, and Awareness.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Anertey Abbey Nathaniel projects primarily as a CD with a `None` lean. The strongest database support comes from Shielding, Aerial Duels, and Awareness.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ Anertey Abbey Nathaniel projects primarily as a CD with a `—` lean. The strong
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,5 +85,5 @@ Anertey Abbey Nathaniel projects primarily as a CD with a `—` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 14 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 14 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |

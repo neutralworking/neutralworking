@@ -5,7 +5,7 @@ tags: [WD, Passer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WD at —. Archetype: Passer.
+summary: WD at None. Archetype: Passer.
 person_id: 1626
 backlinks: [passer]
 ---
@@ -17,25 +17,18 @@ backlinks: [passer]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
-| **Nation** | — |
+| **Club** | None |
+| **Nation** | None |
 | **Age** | 43 |
 | **Archetype** | [[passer]] Passer |
 | **Level** | 78 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Danny Pugh projects primarily as a WD with a `Passer` lean. The strongest database support comes from Pass Accuracy, Pass Range, and Vision.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Danny Pugh projects primarily as a WD with a `Passer` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

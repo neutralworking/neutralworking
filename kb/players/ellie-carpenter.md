@@ -5,7 +5,7 @@ tags: [WD, Portland Thorns, Australia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at Portland Thorns. Archetype: —.
+summary: WD at Portland Thorns. Archetype: None.
 person_id: 10572
 backlinks: [portland-thorns]
 ---
@@ -20,22 +20,11 @@ backlinks: [portland-thorns]
 | **Club** | Portland Thorns |
 | **Nation** | Australia |
 | **Age** | 25 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
-
-## Snapshot
-
-Ellie Carpenter is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -49,14 +38,13 @@ Ellie Carpenter is currently a roster-level WD entry in the KB. The page should 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 40.8m |
-| Mid | EUR 48.0m |
-| Ceiling | EUR 57.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

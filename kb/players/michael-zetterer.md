@@ -2,7 +2,7 @@
 title: Michael Zetterer
 category: players
 tags: [GK, Eintracht Frankfurt, Germany, GK]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Eintracht Frankfurt. Archetype: GK.
@@ -26,37 +26,60 @@ backlinks: [gk, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A German goalkeeper offering solid shot-stopping and fundamental technical security at lower-league level, now rotating at Bundesliga level. He's entirely adequate in a squad role but lacks the distribution range and elite reflexes required to be an undisputed starter. Dependable backup option.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Distributor`.
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Reactions, Jumping, and Pace.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Reactions, Jumping, and Pace.
+- Style traits point toward Two Footed, Far Throw, and Long Range Passing in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Pace | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Acceleration | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pass Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Stamina | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Mental | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Physical | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Reactions | ███████████████ 15/10 |
-| Jumping | █████████████ 13/10 |
-| Pace | █████████░ 9/10 |
-| Acceleration | ████████░░ 8/10 |
-| Pass Range | ████████░░ 8/10 |
-| Stamina | ████████░░ 8/10 |
-| Mental | ███████░░░ 7/10 |
-| Physical | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Technical | █████░░░░░ 5/10 |
-| Awareness | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Carries | ███░░░░░░░ 3/10 |
-| Creativity | █░░░░░░░░░ 1/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 9/10
-- **durability** (physical) — severity 6/10
-- **Far Throw** (style) — severity 5/10
-- **Long Range Passing** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -66,3 +89,20 @@ A German goalkeeper offering solid shot-stopping and fundamental technical secur
 - **Pressure (JP)**: 62
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 9/10
+- **Durability** (physical) — severity 6/10
+- **Far Throw** (style) — severity 5/10
+- **Long Range Passing** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

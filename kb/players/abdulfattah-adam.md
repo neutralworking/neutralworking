@@ -2,7 +2,7 @@
 title: Abdulfattah Adam
 category: players
 tags: [CF, Al Taawon, Saudi Arabia, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Al Taawon. Archetype: Sprinter.
@@ -23,19 +23,12 @@ backlinks: [sprinter, al-taawon]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A serviceable left-back in the Saudi Pro League mold — adequate going forward with a decent cross, but positionally suspect in deeper phases and vulnerable to quick, direct wingers. At 31, he's a squad depth option rather than a starting-quality fullback for any ambitious side.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ A serviceable left-back in the Saudi Pro League mold — adequate going forward 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ A serviceable left-back in the Saudi Pro League mold — adequate going forward 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

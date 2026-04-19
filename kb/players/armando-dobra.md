@@ -23,19 +23,12 @@ backlinks: [powerhouse, ipswich-town]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 80 |
 | **Overall** | 77.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A winger with electric pace and directness, but his decision-making in the final third is erratic and his defensive work often feels like an afterthought. He's the kind of player who can beat a man on his day and create chaos, but consistency and football intelligence are genuine weaknesses. Dobra plays for Ipswich, not Barcelona—there's a gap between ambition and execution.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,13 +63,13 @@ A winger with electric pace and directness, but his decision-making in the final
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 15.3m |
-| Mid | EUR 18.0m |
-| Ceiling | EUR 21.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

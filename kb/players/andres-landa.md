@@ -2,10 +2,10 @@
 title: Andres Landa
 category: players
 tags: [CD, Bolivia]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 29111
 ---
 
@@ -16,24 +16,18 @@ person_id: 29111
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Bolivia |
 | **Age** | 30 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 34.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Andres Landa projects primarily as a CD with a `None` lean. The strongest database support comes from Pass Accuracy, Discipline, and Drive.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,8 +65,8 @@ Andres Landa projects primarily as a CD with a `None` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -83,4 +77,4 @@ Andres Landa projects primarily as a CD with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

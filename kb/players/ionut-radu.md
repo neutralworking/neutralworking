@@ -2,7 +2,7 @@
 title: Ionut Radu
 category: players
 tags: [GK, Celta Vigo, Romania, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Celta Vigo. Archetype: GK.
@@ -19,23 +19,16 @@ backlinks: [gk, celta-vigo]
 | **Position** | GK |
 | **Club** | Celta Vigo |
 | **Nation** | Romania |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 74 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Capable shot-stopper with decent distribution for a reserve goalkeeper, but nothing marks him out as exceptional. Fine as a squad number two; unlikely to challenge for a starting berth at a club with genuine European ambitions given his lack of command of the area and vulnerability to crosses.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,14 +66,13 @@ Capable shot-stopper with decent distribution for a reserve goalkeeper, but noth
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 8.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -106,7 +98,7 @@ Capable shot-stopper with decent distribution for a reserve goalkeeper, but noth
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Kevin Nolan
 category: players
 tags: [AM, West Ham United, England, Target-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at West Ham United. Archetype: Target-Striker.
@@ -23,19 +23,12 @@ backlinks: [target, west-ham-united]
 | **Archetype** | [[target]] Target-Striker |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Kevin Nolan projects primarily as a AM with a `Target-Striker` lean. The strongest database support comes from Aerial Duels, Long Range, and Mid Range.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +59,13 @@ Kevin Nolan projects primarily as a AM with a `Target-Striker` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 2.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,6 +92,6 @@ Kevin Nolan projects primarily as a AM with a `Target-Striker` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

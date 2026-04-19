@@ -2,10 +2,10 @@
 title: Alan Sonora
 category: players
 tags: [CM, Cerro Porteño, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Cerro Porteño. Archetype: —.
+summary: CM at Cerro Porteño. Archetype: None.
 person_id: 30932
 backlinks: [cerro-porteno]
 ---
@@ -20,22 +20,15 @@ backlinks: [cerro-porteno]
 | **Club** | Cerro Porteño |
 | **Nation** | Paraguay |
 | **Age** | 27 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 50.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Alan Sonora projects primarily as a CM with a `None` lean. The strongest database support comes from Flair, Pass Range, and Skills.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,8 +65,8 @@ Alan Sonora projects primarily as a CM with a `None` lean. The strongest databas
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -90,5 +83,5 @@ Alan Sonora projects primarily as a CM with a `None` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 6 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |

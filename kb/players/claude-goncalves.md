@@ -23,19 +23,12 @@ backlinks: [powerhouse, legia-warszawa]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A right-back operating at Ligue 2 level with decent athleticism and positional discipline, though his reading of the game in transition is occasionally naive. He's functional in a defensive shape and can carry the ball forward into the half-space, but he lacks the explosive first step to consistently shut down quick wingers and his crossing is more hopeful than clinical. At 31, he's a dependable rotation option at this level—steady rather than inspiring.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A right-back operating at Ligue 2 level with decent athleticism and positional d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

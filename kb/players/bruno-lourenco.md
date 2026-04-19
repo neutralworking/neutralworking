@@ -2,7 +2,7 @@
 title: Bruno Lourenço
 category: players
 tags: [CM, Ceará SC, Portugal, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Ceará SC. Archetype: Striker-Creator.
@@ -23,19 +23,12 @@ backlinks: [striker, ceara-sc]
 | **Archetype** | [[striker]] Striker-Creator |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Lourenço, a left-footed central midfielder, demonstrates strong technical ability across all passing ranges and shows excellent creativity and composure, making him an effective Tuttocampista. His profile suggests a modern, attack-minded central player, capable of orchestrating play with varied passing and creating opportunities, fitting into systems that prioritize midfield dominance. Possessing strong mental and physical pillars, he's let down by his tackling, overall awareness, and discipline in defensive phases, revealing a clear imbalance in his defensive contributions. As a newcomer at 28, he represents a technically proficient and creative option for a club needing midfield impetus, but his limited tactical pillar and defensive weaknesses make him a potential liability without adequate support.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Lourenço, a left-footed central midfielder, demonstrates strong technical abili
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 42.0m |
-| Ceiling | EUR 50.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -96,6 +88,6 @@ Lourenço, a left-footed central midfielder, demonstrates strong technical abili
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

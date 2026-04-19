@@ -2,7 +2,7 @@
 title: Bart Verbruggen
 category: players
 tags: [GK, Brighton, Netherlands, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Brighton. Archetype: GK.
@@ -23,19 +23,12 @@ backlinks: [gk, brighton]
 | **Archetype** | [[gk]] GK |
 | **Level** | 87 |
 | **Overall** | 79.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely modern goalkeeper with exceptional distribution (his passing range and accuracy from open play is genuinely elite for his age) and the athleticism to command his box with confidence. He reads the game several seconds ahead of most, making intelligent sweeper passes that break opposition lines. His only real limitation is experience—at 23 he'll have moments where inexperience shows in the biggest situations, particularly against clinical finishers.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ A genuinely modern goalkeeper with exceptional distribution (his passing range a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 38.0m |
-| Mid | EUR 56.0m |
-| Ceiling | EUR 67.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -97,6 +89,6 @@ A genuinely modern goalkeeper with exceptional distribution (his passing range a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

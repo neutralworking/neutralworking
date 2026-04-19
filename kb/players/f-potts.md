@@ -2,7 +2,7 @@
 title: F. Potts
 category: players
 tags: [CM, West Ham United, Cover-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at West Ham United. Archetype: Cover-Creator.
@@ -18,24 +18,17 @@ backlinks: [cover, west-ham-united]
 |---|---|
 | **Position** | CM |
 | **Club** | West Ham United |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover-Creator |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 F. Potts functions as a Terrier and Holding Midfielder, characterized by strong tactical discipline and physical attributes, excelling in composure, passing accuracy, duels, awareness, and tackling. He is a classic defensive anchor, adept at breaking up play and screening the backline. His limited offensive contributions, particularly in take-ons and shooting from distance, mean he is best deployed in a dedicated defensive midfield role where his strengths in ball winning and retention can be fully utilized, rather than as a progressive or creative force.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ F. Potts functions as a Terrier and Holding Midfielder, characterized by strong 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -96,6 +88,6 @@ F. Potts functions as a Terrier and Holding Midfielder, characterized by strong 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -18,24 +18,17 @@ backlinks: [powerhouse, standard-liege]
 |---|---|
 | **Position** | CM |
 | **Club** | Standard Liège |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 77 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Alexandro Calut projects primarily as a CM with a `Powerhouse` lean. The strongest database support comes from Balance, Acceleration, and Shielding.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ Alexandro Calut projects primarily as a CM with a `Powerhouse` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 12.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

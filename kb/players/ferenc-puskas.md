@@ -2,10 +2,10 @@
 title: Ferenc Puskas
 category: players
 tags: [CF, Hungary, Striker-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Striker-Powerhouse.
+summary: CF at None. Archetype: Striker-Powerhouse.
 person_id: 10992
 backlinks: [striker]
 ---
@@ -17,25 +17,18 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Hungary |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Powerhouse |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 WF	Talismanic	Creator	Magician	Honved	HUN	A	81.8		Left Foot Wand, Trofeo Pichichi x4	Regularly mentioned in lists of the very best players of all time, Hungary's Ferenc Puskás was the dominant figure in European football for much of the 1950s.  Despite not looking like a natural athlete, he was the most inspirational figure in his country's greatest ever team which came so close to winning the World Cup in 1954.  He also went on to be a star of the great Real Madrid team which dominated the early years of the European Cup.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ WF	Talismanic	Creator	Magician	Honved	HUN	A	81.8		Left Foot Wand, Trofeo Pichich
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -88,6 +80,6 @@ WF	Talismanic	Creator	Magician	Honved	HUN	A	81.8		Left Foot Wand, Trofeo Pichich
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 5 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 5 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

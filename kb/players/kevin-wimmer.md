@@ -5,7 +5,7 @@ tags: [CD, Austria, Creator]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Creator.
+summary: CD at None. Archetype: Creator.
 person_id: 13499
 backlinks: [creator]
 ---
@@ -17,24 +17,18 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Austria |
 | **Age** | 33 |
 | **Archetype** | [[creator]] Creator |
 | **Level** | 77 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kevin Wimmer projects primarily as a CD with a `Creator` lean. The strongest database support comes from Tactical, Technical, and Mental.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ Kevin Wimmer projects primarily as a CD with a `Creator` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

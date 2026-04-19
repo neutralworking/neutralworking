@@ -2,7 +2,7 @@
 title: Farrend Rawson
 category: players
 tags: [CD, Derby County, England, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Derby County. Archetype: Cover.
@@ -23,19 +23,12 @@ backlinks: [cover, derby-county]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 78 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A right-back in the traditional mould—tough, predictable, gets the ball and whips a cross in or clears his lines with conviction. Offers nothing in pressing triggers or coverage when his full-back partner is caught high, and he's not sufficiently quick to recover against pace. He's a squad rotation player, no more; a League Two level footballer managing at the Championship because of character and a manager's faith.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A right-back in the traditional mould—tough, predictable, gets the ball and wh
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 10.2m |
-| Mid | EUR 12.0m |
-| Ceiling | EUR 14.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +93,7 @@ A right-back in the traditional mould—tough, predictable, gets the ball and wh
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

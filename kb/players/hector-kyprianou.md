@@ -2,7 +2,7 @@
 title: Hector Kyprianou
 category: players
 tags: [CM, Watford, Cyprus, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Watford. Archetype: Powerhouse.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, watford]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 70 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Defensive midfielder who reads the game acceptably and positions himself to cut out passes, but lacks the athleticism to win the ball back once it's loose. His passing range is limited—mostly sideways and backwards—and he struggles when asked to play on the half-turn under pressure. Functional at League One level, but exposed in the Premier League.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Defensive midfielder who reads the game acceptably and positions himself to cut 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +96,7 @@ Defensive midfielder who reads the game acceptably and positions himself to cut 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

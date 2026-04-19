@@ -2,7 +2,7 @@
 title: Alexander Prass
 category: players
 tags: [WD, 1899 Hoffenheim, Austria, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at 1899 Hoffenheim. Archetype: Creator.
@@ -23,19 +23,12 @@ backlinks: [creator, 1899-hoffenheim]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 81 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Energetic Austrian left-back with genuine pace and attacking thrust, though defensively naive and prone to being isolated; better as a wing-back in transitions than in a rigid defensive shape. Useful squad player for a mid-table Bundesliga side.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Energetic Austrian left-back with genuine pace and attacking thrust, though defe
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.6m |
-| Mid | EUR 22.0m |
-| Ceiling | EUR 26.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,7 +102,7 @@ Energetic Austrian left-back with genuine pace and attacking thrust, though defe
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

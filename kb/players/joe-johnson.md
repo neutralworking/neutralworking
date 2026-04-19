@@ -2,7 +2,7 @@
 title: Joe Johnson
 category: players
 tags: [WD, Luton Town, England, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Luton Town. Archetype: Powerhouse.
@@ -22,20 +22,13 @@ backlinks: [powerhouse, luton-town]
 | **Age** | 20 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 64 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young right-back getting modest exposure in the Premier League who shows athleticism but is still learning the positional nuances of the role. He'll charge forward eagerly but sometimes leaves space behind, and his crossing is still developing. Too early to judge conclusively, but he's a prospect rather than a solution.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ A young right-back getting modest exposure in the Premier League who shows athle
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -95,6 +87,6 @@ A young right-back getting modest exposure in the Premier League who shows athle
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

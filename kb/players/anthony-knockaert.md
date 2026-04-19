@@ -23,19 +23,12 @@ backlinks: [creator, fulham]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 64 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Anthony Knockaert projects primarily as a WF with a `Creator` lean. The strongest database support comes from Creativity, Mental, and Tactical.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -72,11 +65,10 @@ Anthony Knockaert projects primarily as a WF with a `Creator` lean. The stronges
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

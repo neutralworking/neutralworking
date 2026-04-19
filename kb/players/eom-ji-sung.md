@@ -1,70 +1,89 @@
 ---
-title: Eom Ji-sung
+title: Eom Ji-Sung
 category: players
-tags: [CM, South Korea]
+tags: [WM, Swansea City, Creator-Striker]
 updated: 2026-04-18
 source: compiled
-confidence: low
-summary: CM at —. Archetype: —.
-person_id: 27950
+confidence: high
+summary: WM at Swansea City. Archetype: Creator-Striker.
+person_id: 20200
+backlinks: [creator, swansea-city]
 ---
 
-# Eom Ji-sung
+# Eom Ji-Sung
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | — |
-| **Nation** | South Korea |
-| **Age** | 23 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Position** | WM |
+| **Club** | Swansea City |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[creator]] Creator-Striker |
+| **Level** | 76 |
+| **Overall** | 68.0 |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Eom Ji-sung is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Eom Ji-Sung projects primarily as a WM with a `Creator-Striker` lean. The strongest database support comes from Creativity, Discipline, and Aggression.
 
 ## Role Fit
 
-- Fits systems that value repeat involvement in build-up and defensive transitions.
+- Best-fit role is `Wide Playmaker` with model support score `70`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Creativity, Discipline, and Aggression.
 
-## Out of Possession
+## In Possession
 
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+- Ball-value indicators lean on Creativity, Discipline, and Aggression.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Aggression | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Composure | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Flair | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Long Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Take Ons | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | — |
-| Mid | — |
-| Ceiling | — |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
-- Metric coverage is shallow relative to a full dossier standard.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 - System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 45
+- **Motivation (SN)**: 58
+- **Social (TF)**: 62
+- **Pressure (JP)**: 45
+- **Competitiveness**: 3/10
+- **Coachability**: 2/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Compile baseline | Chief Scout DB | 2026-04-18 | Low | Only roster-level identity fields were available at compile time. |
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |

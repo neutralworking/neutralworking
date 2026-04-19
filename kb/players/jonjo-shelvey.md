@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Burnley. Archetype: Creator-Striker.
 person_id: 12881
-backlinks: [creator, playmaker, burnley]
+backlinks: [creator, burnley]
 ---
 
 # Jonjo Shelvey
@@ -21,26 +21,18 @@ backlinks: [creator, playmaker, burnley]
 | **Nation** | England |
 | **Age** | 34 |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 34-year-old midfielder whose passing range and set-piece delivery remain his assets, but he's become a liability in pressing situations and offers zero dynamism in transition or box-to-box running. He's a square peg in a modern game that demands more athleticism, and his minutes should be rationed strictly to specific scenarios where possession is guaranteed.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker.
+- Best-fit role is `Playmaker`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Pass Range, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -75,14 +67,13 @@ A 34-year-old midfielder whose passing range and set-piece delivery remain his a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

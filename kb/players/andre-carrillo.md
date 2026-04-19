@@ -5,7 +5,7 @@ tags: [CM, Peru]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 28043
 ---
 
@@ -16,25 +16,18 @@ person_id: 28043
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Peru |
 | **Age** | 34 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 58.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 André Carrillo projects primarily as a CM with a `None` lean. The strongest database support comes from Flair, Pace, and Pass Range.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +61,13 @@ André Carrillo projects primarily as a CM with a `None` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 0.9m |
-| Ceiling | EUR 12.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

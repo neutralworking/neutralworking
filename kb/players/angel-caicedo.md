@@ -2,10 +2,10 @@
 title: Ángel Caicedo
 category: players
 tags: [CM, Herrera FC, Panama]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Herrera FC. Archetype: —.
+summary: CM at Herrera FC. Archetype: None.
 person_id: 28427
 backlinks: [herrera-fc]
 ---
@@ -20,22 +20,15 @@ backlinks: [herrera-fc]
 | **Club** | Herrera FC |
 | **Nation** | Panama |
 | **Age** | 26 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 17.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Ángel Caicedo projects primarily as a CM with a `—` lean. The strongest database support comes from Discipline, Close Range, and Composure.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Ángel Caicedo projects primarily as a CM with a `None` lean. The strongest database support comes from Discipline, Close Range, and Composure.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ backlinks: [herrera-fc]
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,4 +78,4 @@ backlinks: [herrera-fc]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |

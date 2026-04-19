@@ -5,7 +5,7 @@ tags: [CD, Al Raed, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Al Raed. Archetype: —.
+summary: CD at Al Raed. Archetype: None.
 person_id: 7761
 backlinks: [al-raed]
 ---
@@ -20,21 +20,15 @@ backlinks: [al-raed]
 | **Club** | Al Raed |
 | **Nation** | Saudi Arabia |
 | **Age** | 36 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A 36-year-old midfielder operating in a diminishing capacity, still capable of organizing tempo and distributing from deep midfield but increasingly immobile in transition. His best years are firmly behind him; he's a squad rotation option with the football intelligence to coach from the pitch rather than contribute as a primary starter.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -51,10 +45,10 @@ A 36-year-old midfielder operating in a diminishing capacity, still capable of o
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

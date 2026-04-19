@@ -2,7 +2,7 @@
 title: Antoine Makoumbou
 category: players
 tags: [CM, Samsunspor, France, Engine-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Samsunspor. Archetype: Engine-Passer.
@@ -23,19 +23,12 @@ backlinks: [engine, samsunspor]
 | **Archetype** | [[engine]] Engine-Passer |
 | **Level** | 85 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A box-to-box midfielder with genuine athleticism and a willingness to cover ground that makes him useful in transition, but he's fundamentally a limited technician operating in a second-tier Turkish league where his deficiencies in passing range and spatial awareness don't get properly exposed. He's the sort of player who wins the ball back effectively and can carry it forward in a straight line, but asking him to play in the half-spaces or execute a 15-yard switch of play feels generous to his current skillset. At 27, with Samsunspor unlikely to offer European football, he's probably peaked as a functional Turkish Super Lig starter rather than someone capable of stepping up to a genuinely competitive five-league environment.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A box-to-box midfielder with genuine athleticism and a willingness to cover grou
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.8m |
-| Mid | EUR 39.0m |
-| Ceiling | EUR 46.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,7 +101,7 @@ A box-to-box midfielder with genuine athleticism and a willingness to cover grou
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

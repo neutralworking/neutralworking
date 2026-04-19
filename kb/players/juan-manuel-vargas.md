@@ -2,12 +2,12 @@
 title: Juan Manuel Vargas
 category: players
 tags: [WF, Puebla, Peru, Sprinter-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Puebla. Archetype: Sprinter-Destroyer.
 person_id: 3673
-backlinks: [sprinter, wide-target-forward, puebla]
+backlinks: [sprinter, puebla]
 ---
 
 # Juan Manuel Vargas
@@ -21,27 +21,18 @@ backlinks: [sprinter, wide-target-forward, puebla]
 | **Nation** | Peru |
 | **Age** | 42 |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
-| **Best Role** | [[wide-target-forward]] Wide Target Forward |
-| **Role Score** | 44 |
 | **Level** | 44 |
 | **Overall** | 40.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Juan Manuel Vargas projects primarily as a WF with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, First Touch, and Interceptions.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[wide-target-forward]] Wide Target Forward with model support score `44`.
+- Best-fit role is `Wide Target Forward` with model support score `44`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Interceptions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -72,14 +63,13 @@ Juan Manuel Vargas projects primarily as a WF with a `Sprinter-Destroyer` lean. 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,6 +95,6 @@ Juan Manuel Vargas projects primarily as a WF with a `Sprinter-Destroyer` lean. 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

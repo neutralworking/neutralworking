@@ -2,7 +2,7 @@
 title: Christos Mandas
 category: players
 tags: [GK, Bournemouth, Greece, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Bournemouth. Archetype: GK.
@@ -23,18 +23,12 @@ backlinks: [gk, bournemouth]
 | **Archetype** | [[gk]] GK |
 | **Level** | 72 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Goalkeeper with genuinely impressive distribution from the back and the technical security you need for a possession-based side; he's also command-y and confident in the air. The issue is shot-stopping — he can look slightly vulnerable to pace and precision when tested directly, and his positioning on long shots occasionally leaves him scrambling. Good modern keeper but not elite.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,13 +66,13 @@ Goalkeeper with genuinely impressive distribution from the back and the technica
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 11.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +98,7 @@ Goalkeeper with genuinely impressive distribution from the back and the technica
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

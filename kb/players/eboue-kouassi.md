@@ -2,7 +2,7 @@
 title: Eboue Kouassi
 category: players
 tags: [CM, Arouca, Côte d’Ivoire, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Arouca. Archetype: Cover.
@@ -23,19 +23,12 @@ backlinks: [cover, arouca]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 83 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Eboue Kouassi is a physical and aggressive midfielder who excels at winning the ball back and making interceptions. His balance and jumping ability make him a threat in the air, but his lack of tactical awareness and technical ability can leave him struggling to play progressive passes. Kouassi's mental limitations also make him prone to errors, often misjudging the pace of the game and making rash decisions.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Eboue Kouassi is a physical and aggressive midfielder who excels at winning the 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 26.0m |
-| Ceiling | EUR 31.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Eboue Kouassi is a physical and aggressive midfielder who excels at winning the 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

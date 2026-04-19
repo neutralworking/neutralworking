@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: AM at Galatasaray. Archetype: Creator.
 person_id: 13135
-backlinks: [creator, trequartista, galatasaray]
+backlinks: [creator, galatasaray]
 ---
 
 # Juan Mata
@@ -21,26 +21,18 @@ backlinks: [creator, trequartista, galatasaray]
 | **Nation** | Spain |
 | **Age** | 37 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 65 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM		Creator			ESP	C	0.0
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[trequartista]] Trequartista.
+- Best-fit role is `Trequartista`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in Creativity, Through Balls, and Vision.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -70,14 +62,13 @@ CM		Creator			ESP	C	0.0
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -117,6 +108,6 @@ CM		Creator			ESP	C	0.0
 {}
 ---
 
-CM		Creator			ESP	C	0.0
+CM		Creator			ESP	C	0.0			
 
 </details>

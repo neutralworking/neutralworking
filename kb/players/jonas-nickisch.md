@@ -19,23 +19,16 @@ backlinks: [gk, 1-fc-koln]
 | **Position** | GK |
 | **Club** | 1. FC Köln |
 | **Nation** | Germany |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 69 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A backup goalkeeper with the basics in place—decent distribution, reasonable agility—but without the elite claim on the number-one shirt that would make him pressing competition. He's a competent reserve option, the type you're comfortable with for a cup match, nothing beyond that.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,14 +60,13 @@ A backup goalkeeper with the basics in place—decent distribution, reasonable a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

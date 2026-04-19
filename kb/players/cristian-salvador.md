@@ -2,10 +2,10 @@
 title: Cristian Salvador
 category: players
 tags: [DM, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: DM at —. Archetype: Destroyer-Creator.
+summary: DM at None. Archetype: Destroyer-Creator.
 person_id: 23054
 backlinks: [destroyer]
 ---
@@ -17,25 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Cristian Salvador, a Terrier archetype, excels as an Anchor, showcasing strong technical ability in ball recovery with excellent tackling, interceptions, and defensive awareness. His high-press mentality and surprising vision for an enforcer allow him to initiate quick transitions after winning possession, embodying a modern disruptive midfielder. Despite a flamboyant trait and technical strengths, his tactical limitations and occasional lapses in discipline, coupled with weak long-range shooting, suggest he is best suited for a specialist defensive role in a manager’s high-intensity system.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Cristian Salvador, a Terrier archetype, excels as an Anchor, showcasing strong t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +93,7 @@ Cristian Salvador, a Terrier archetype, excels as an Anchor, showcasing strong t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

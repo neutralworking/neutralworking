@@ -2,7 +2,7 @@
 title: Khiry Shelton
 category: players
 tags: [CF, Sporting Kansas City, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Sporting Kansas City. Archetype: Sprinter.
@@ -18,24 +18,17 @@ backlinks: [sprinter, sporting-kansas-city]
 |---|---|
 | **Position** | CF |
 | **Club** | Sporting Kansas City |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 32 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Khiry Shelton projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Jumping, Pace, and Acceleration.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Khiry Shelton projects primarily as a CF with a `Sprinter` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,5 +85,5 @@ Khiry Shelton projects primarily as a CF with a `Sprinter` lean. The strongest d
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

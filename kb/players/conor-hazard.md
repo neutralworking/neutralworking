@@ -22,20 +22,13 @@ backlinks: [gk, celtic]
 | **Age** | 28 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Hazard is a capable backup goalkeeper who handles basic distribution with competence and shows decent positioning in one-on-one moments, but there's a reason he's been displaced twice by ageing rivals—his decision-making in build-up play lacks the sharpness you need against pressing teams. He's a perfectly serviceable fringe keeper who could start in the Championship without embarrassment, but Celtic's hierarchy clearly doesn't fancy him as a long-term solution. He's a depth option, nothing more.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,14 +60,13 @@ Hazard is a capable backup goalkeeper who handles basic distribution with compet
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

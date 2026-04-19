@@ -1,109 +1,72 @@
 ---
-title: Abdullah Al Hafith
+title: Abdullah Al-Hafith
 category: players
-tags: [CM, Destroyer-Target]
-updated: 2026-04-18
+tags: [CD, Al Wehda, Saudi Arabia]
+updated: 2026-04-17
 source: compiled
-confidence: high
-summary: CM at —. Archetype: Destroyer-Target.
-person_id: 24687
-backlinks: [destroyer]
+confidence: low
+summary: CD at Al Wehda. Archetype: None.
+person_id: 7749
+backlinks: [al-wehda]
 ---
 
-# Abdullah Al Hafith
+# Abdullah Al-Hafith
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
-| **Archetype** | [[destroyer]] Destroyer-Target |
-| **Level** | 75 |
-| **Overall** | 56.0 |
-| **Pursuit** | — |
+| **Position** | CD |
+| **Club** | Al Wehda |
+| **Nation** | Saudi Arabia |
+| **Age** | 33 |
+| **Archetype** | [[—]] None |
+| **Level** | 70 |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Abdullah Al Hafith projects primarily as a CM with a `Destroyer-Target` lean. The strongest database support comes from Stamina, Heading, and Jumping.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+Veteran defender still reliable at reading the game and positioning himself sensibly, though his physical decline is evident—he's being turned too easily by pacier forwards and doesn't have the leg speed to recover mistakes. Experienced enough to manage a game but no longer a commanding presence. Useful as a squad player in his mid-30s.
 
 ## Role Fit
 
-- Best-fit role is `Tuttocampista` with model support score `70`.
-- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
-- Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
-- Most bankable strengths show up in Stamina, Heading, and Jumping.
-
-## In Possession
-
-- Ball-value indicators lean on Stamina, Heading, and Jumping.
-- Style traits point toward Strength and Defensive Awareness in possession.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
 ## Out of Possession
 
-- Defensive or transition evidence is strongest in Positional Discipline and Build Up Contributor.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Stamina | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
-| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Jumping | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Marking | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Reactions | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
-| First Touch | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Coachability score is low enough to raise integration risk in demanding environments.
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 63
-- **Motivation (SN)**: 33
-- **Social (TF)**: 35
+- **Game Reading (EI)**: 56
+- **Motivation (SN)**: 56
+- **Social (TF)**: 55
 - **Pressure (JP)**: 56
-- **Competitiveness**: 4/10
-- **Coachability**: 3/10
-
-## Trait Ledger
-
-- **Positional Discipline** (tactical) — severity 6/10
-- **Build Up Contributor** (tactical) — severity 5/10
-- **Strength** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+- **Competitiveness**: 5/10
+- **Coachability**: 4/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

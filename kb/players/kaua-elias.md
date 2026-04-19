@@ -2,10 +2,10 @@
 title: Kaua Elias
 category: players
 tags: [CF, Shakhtar Donetsk, Brazil]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CF at Shakhtar Donetsk. Archetype: —.
+summary: CF at Shakhtar Donetsk. Archetype: None.
 person_id: 13373
 backlinks: [shakhtar-donetsk]
 ---
@@ -20,22 +20,15 @@ backlinks: [shakhtar-donetsk]
 | **Club** | Shakhtar Donetsk |
 | **Nation** | Brazil |
 | **Age** | 20 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 85 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Brazilian forward with decent finishing instincts and movement inside the box, but lacks the strength and tactical flexibility for top-5 league football. Squad depth option with limited upside.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Brazilian forward with decent finishing instincts and movement inside the box, b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.2m |
-| Mid | EUR 41.0m |
-| Ceiling | EUR 49.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -72,5 +64,5 @@ Brazilian forward with decent finishing instincts and movement inside the box, b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

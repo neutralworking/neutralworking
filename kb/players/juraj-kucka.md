@@ -2,12 +2,12 @@
 title: Juraj Kucka
 category: players
 tags: [CM, Slovan Bratislava, Slovakia, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Slovan Bratislava. Archetype: Striker.
 person_id: 13227
-backlinks: [striker, playmaker, slovan-bratislava]
+backlinks: [striker, slovan-bratislava]
 ---
 
 # Juraj Kucka
@@ -21,27 +21,18 @@ backlinks: [striker, playmaker, slovan-bratislava]
 | **Nation** | Slovakia |
 | **Age** | 39 |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 50 |
 | **Level** | 56 |
 | **Overall** | 48.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A weathered Slovak midfielder who still possesses the reading of the game and positional intelligence that kept him functional in the Premier League a decade ago, but whose legs have gone the way of all flesh—he's become a metronome rather than an engine, reliable in possession but immobile in transition and a liability when pressing is required. He can still pick a pass from deep and understands how to shield the ball in congested areas, but the explosiveness that once made him a viable ball-carrier has evaporated, leaving him suited only to the Slovak league where the pace is forgiving. At 39, he's a squad steadier and professional influence, but not a player you'd build anything around.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `50`.
+- Best-fit role is `Playmaker` with model support score `50`.
 - Primary archetype leans toward `Striker` behaviour from a `CM` base.
 - Most bankable strengths show up in Marking, First Touch, and Heading.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -78,12 +69,11 @@ A weathered Slovak midfielder who still possesses the reading of the game and po
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.3m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +98,7 @@ A weathered Slovak midfielder who still possesses the reading of the game and po
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

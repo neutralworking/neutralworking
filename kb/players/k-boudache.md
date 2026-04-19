@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WF at Nice. Archetype: Striker-Creator.
 person_id: 21487
-backlinks: [striker, inverted-winger, nice]
+backlinks: [striker, nice]
 ---
 
 # K. Boudache
@@ -18,29 +18,21 @@ backlinks: [striker, inverted-winger, nice]
 |---|---|
 | **Position** | WF |
 | **Club** | Nice |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[inverted-winger]] Inverted Winger |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 31.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 K. Boudache projects primarily as a WF with a `Striker-Creator` lean. The strongest database support comes from Skills, Concentration, and Drive.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[inverted-winger]] Inverted Winger.
+- Best-fit role is `Inverted Winger`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Skills, Concentration, and Drive.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -69,11 +61,10 @@ K. Boudache projects primarily as a WF with a `Striker-Creator` lean. The strong
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

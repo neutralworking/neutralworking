@@ -2,7 +2,7 @@
 title: Deveron Fonville
 category: players
 tags: [CM, NEC, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at NEC. Archetype: Destroyer-Creator.
@@ -18,24 +18,17 @@ backlinks: [destroyer, nec]
 |---|---|
 | **Position** | CM |
 | **Club** | NEC |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 22 |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Deveron Fonville's Terrier archetype and Ball Winner blueprint make him a tenacious midfielder, excelling in tackling and duels, but struggling with creativity. His limited mental pillar and moderate technical ability may hinder his development. Historically, players like Fonville thrive in high-intensity systems, and as a Tuttocampista, he could be an asset for a team that values relentless pressing. However, his limited mental abilities and lack of creativity may make him a riskier signing for clubs seeking a more well-rounded midfielder.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Deveron Fonville's Terrier archetype and Ball Winner blueprint make him a tenaci
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Deveron Fonville's Terrier archetype and Ball Winner blueprint make him a tenaci
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

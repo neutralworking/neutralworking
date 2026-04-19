@@ -2,7 +2,7 @@
 title: Leon Goretzka
 category: players
 tags: [CM, Bayern Munich, Germany, Dribbler-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Bayern Munich. Archetype: Dribbler-Powerhouse.
@@ -26,43 +26,58 @@ backlinks: [dribbler, bayern-munich]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Leon Goretzka is a Metodista who excels in his technical and physical abilities, offering a dynamic presence in midfield with his aggression and passing accuracy. His role has roots in the tradition of technically gifted midfielders who contribute to both phases of the game. Goretzka's best fit would be a team that requires a balance between defense and attack, but his discipline and pressing issues may necessitate specific coaching to maximize his potential.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Tuttocampista` with model support score `79`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Progressive Carrier and Build Up Contributor.
+- Most bankable strengths show up in Heading, Jumping, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Heading, Jumping, and Reactions.
+- Style traits point toward Two Footed, Patient, and Strength in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Progressive Carrier, Build Up Contributor, and Positional Discipline.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Heading | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Heading | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Reactions | █████████████████ 17/10 |
-| First Touch | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Marking | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Penalties | ████████████ 12/10 |
-| Intensity | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **progressive_carrier** (tactical) — severity 10/10
-- **availability** (physical) — severity 10/10
-- **build_up_contributor** (tactical) — severity 9/10
-- **Two Footed** (style) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **patient** (style) — severity 6/10
-- **press_resistant** (tactical) — severity 6/10
-- **Strength** (style) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -72,3 +87,26 @@ Leon Goretzka is a Metodista who excels in his technical and physical abilities,
 - **Pressure (JP)**: 43
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Progressive Carrier** (tactical) — severity 10/10
+- **Availability** (physical) — severity 10/10
+- **Build Up Contributor** (tactical) — severity 9/10
+- **Two Footed** (style) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Patient** (style) — severity 6/10
+- **Press Resistant** (tactical) — severity 6/10
+- **Strength** (style) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 11 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

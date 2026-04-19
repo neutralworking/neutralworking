@@ -2,7 +2,7 @@
 title: Gil
 category: players
 tags: [CM, Santos, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Santos. Archetype: Destroyer.
@@ -18,24 +18,17 @@ backlinks: [destroyer, santos]
 |---|---|
 | **Position** | CM |
 | **Club** | Santos |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 38 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 80 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gil is a veteran Tuttocampista with a strong physical presence, possessing strengths in composure, duels, and tackling, but his technical and tactical limitations are significant concerns. His lack of creativity and guile makes him a less effective player in systems that require intricate passing and movement. A team with a strong defensive structure could utilize his skills, but his limited technical ability is a risk factor that may hinder his development. Historically, players with similar profiles have thrived in systems that emphasize simplicity and directness, and his experience could be an asset in such a system.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Gil is a veteran Tuttocampista with a strong physical presence, possessing stren
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -96,6 +88,6 @@ Gil is a veteran Tuttocampista with a strong physical presence, possessing stren
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

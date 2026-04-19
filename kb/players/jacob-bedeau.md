@@ -23,19 +23,12 @@ backlinks: [sprinter, aston-villa]
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
 | **Level** | 78 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A squad-level centre-back operating at a respectable if unspectacular level. Bedeau is solid in the air and reasonably competent in possession, but he lacks the reading or athleticism to be a first-choice operator at a top-six club.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A squad-level centre-back operating at a respectable if unspectacular level. Bed
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

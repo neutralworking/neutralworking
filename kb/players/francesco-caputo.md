@@ -23,19 +23,12 @@ backlinks: [striker, empoli-fc]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 56 |
 | **Overall** | 55.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A striker who's survived in professional football through relentless positioning intelligence and an almost preternatural ability to sniff out half-chances in congested areas. At 38, he's no longer a volume finisher—his conversion rate has sagged, and he can't hold play up against aggressive centre-backs—but he remains a functional focal point for a lower-division attack, intelligent enough to create space for others through clever movement even when his own finishing has become streaky.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -72,11 +65,10 @@ A striker who's survived in professional football through relentless positioning
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

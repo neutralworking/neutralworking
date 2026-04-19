@@ -2,7 +2,7 @@
 title: Abdulrahman Al Sanbi
 category: players
 tags: [GK, Al-Ahli, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Al-Ahli. Archetype: Sprinter.
@@ -18,23 +18,17 @@ backlinks: [sprinter, al-ahli]
 |---|---|
 | **Position** | GK |
 | **Club** | Al-Ahli |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Abdulrahman Al Sanbi projects primarily as a GK with a `Sprinter` lean. The strongest database support comes from Acceleration, Jumping, and Physical.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,8 +65,8 @@ Abdulrahman Al Sanbi projects primarily as a GK with a `Sprinter` lean. The stro
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -94,5 +88,5 @@ Abdulrahman Al Sanbi projects primarily as a GK with a `Sprinter` lean. The stro
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

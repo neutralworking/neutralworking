@@ -5,7 +5,7 @@ tags: [CM, OM, Italy]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at OM. Archetype: —.
+summary: CM at OM. Archetype: None.
 person_id: 8802
 backlinks: [om]
 ---
@@ -20,22 +20,15 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | Italy |
 | **Age** | 29 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 81 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Versatile Italian attacker capable of playing across the front three with good movement and finishing instinct. Inconsistent in intensity and prone to disappearing in games; reliable starter but not game-changing at 29.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +42,13 @@ Versatile Italian attacker capable of playing across the front three with good m
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 16.1m |
-| Mid | EUR 19.0m |
-| Ceiling | EUR 22.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [CF, Al Wehda, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Al Wehda. Archetype: —.
+summary: CF at Al Wehda. Archetype: None.
 person_id: 12099
 backlinks: [al-wehda]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-wehda]
 | **Club** | Al Wehda |
 | **Nation** | Saudi Arabia |
 | **Age** | 28 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 71 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Defender with a steady approach to his positioning and reasonable awareness, though he lacks the agility to adjust quickly to sudden changes of direction from quick forwards. Set-piece defending is reliable but open-play distribution is laboured. A dependable squad operator in a static defensive system but vulnerable to pressing or dynamic attacking.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Defender with a steady approach to his positioning and reasonable awareness, tho
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

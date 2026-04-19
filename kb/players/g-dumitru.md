@@ -2,10 +2,10 @@
 title: G. Dumitru
 category: players
 tags: [DM, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: DM at —. Archetype: Destroyer.
+summary: DM at None. Archetype: Destroyer.
 person_id: 26500
 backlinks: [destroyer]
 ---
@@ -17,25 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Dumitru, a Warrior archetype and natural Anchor, exhibits strong technical prowess in defensive actions like tackling, interceptions, and blocking, coupled with impressive tactical awareness. However, his limited mental and physical pillars manifest as weaknesses in composure, creativity, and overall pass accuracy, suggesting he can be prone to errors under pressure and offers little in terms of progressive ball play. This player embodies the classical defensive midfielder whose primary role is disruption and protection of the backline, a tradition that prioritizes tactical discipline and ball-winning over intricate playmaking. A Director of Football looking for a pure defensive shield, particularly for a high-pressing system, would value Dumitru's exceptional defensive metrics and tactical understanding, but his struggles with composure and creativity mean a club must ensure sufficient playmaking talent exists elsewhere in the squad.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Dumitru, a Warrior archetype and natural Anchor, exhibits strong technical prowe
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Dumitru, a Warrior archetype and natural Anchor, exhibits strong technical prowe
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: L. Flø
 category: players
 tags: [WM, Vejle, Cover-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Vejle. Archetype: Cover-Powerhouse.
@@ -26,31 +26,54 @@ backlinks: [cover, vejle]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+L. Flø projects primarily as a WM with a `Cover-Powerhouse` lean. The strongest database support comes from Pace, Acceleration, and Reactions.
+
+## Role Fit
+
+- Best-fit role is `Wide Playmaker` with model support score `73`.
+- Primary archetype leans toward `Cover` behaviour from a `WM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Pace, Acceleration, and Reactions.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Acceleration, and Reactions.
+- Style traits point toward Flamboyant and Shot Stopping in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Reactions | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Balance | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Crossing | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| First Touch | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Physical | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | █████████████ 13/10 |
-| Acceleration | ████████████ 12/10 |
-| Reactions | ████████████ 12/10 |
-| Balance | ███████████ 11/10 |
-| Crossing | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Jumping | ███████████ 11/10 |
-| Physical | ███████████ 11/10 |
-| Stamina | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Marking | ██████████ 10/10 |
-| Movement | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Shielding | ██████████ 10/10 |
-| Discipline | ████████░░ 8/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 5/10
-- **high_press** (tactical) — severity 5/10
-- **Shot Stopping** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
 
 ## Personality
 
@@ -60,3 +83,17 @@ backlinks: [cover, vejle]
 - **Pressure (JP)**: 57
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 5/10
+- **High Press** (tactical) — severity 5/10
+- **Shot Stopping** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

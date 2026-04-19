@@ -5,7 +5,7 @@ tags: [GK, GK]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at —. Archetype: GK.
+summary: GK at None. Archetype: GK.
 person_id: 27659
 backlinks: [gk]
 ---
@@ -17,24 +17,14 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-A. Nunziante is currently a roster-level GK entry in the KB with a `GK` lean. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,22 +39,16 @@ A. Nunziante is currently a roster-level GK entry in the KB with a `GK` lean. Th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 1.5m |
-| Ceiling | EUR 3.0m |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
 | Confidence | Low |
 
-- Value drivers: Tier-based fallback from current level and market tier.
-- Discount factors: No direct fee or market-value anchor was available for this player.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Compile baseline | Chief Scout KB | 2026-04-18 | Low | Only roster-level identity fields were available in the existing article. |

@@ -2,12 +2,12 @@
 title: I. Laquintana
 category: players
 tags: [WM, Braga, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Braga. Archetype: Striker-Creator.
 person_id: 23171
-backlinks: [striker, wide-playmaker, braga]
+backlinks: [striker, braga]
 ---
 
 # I. Laquintana
@@ -18,30 +18,21 @@ backlinks: [striker, wide-playmaker, braga]
 |---|---|
 | **Position** | WM |
 | **Club** | Braga |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
-| **Role Score** | 78 |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Laquintana's Virtuoso archetype and False Winger role make him a creative force on the wing, with his mid-range ability, vision, and composure allowing him to pick out passes and create chances, but his limited physicality and technical ability in duels and blocking mean he's best suited to a team that can provide him with the freedom to roam and create, and a director of football may view him as a key signing for a club looking to add a dynamic element to their attack, with his introverted personality potentially making him a more reserved, but effective, player.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `78`.
+- Best-fit role is `Wide Playmaker` with model support score `78`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Close Range, Mid Range, and Threat.
 
@@ -66,14 +57,13 @@ Laquintana's Virtuoso archetype and False Winger role make him a creative force 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -94,6 +84,6 @@ Laquintana's Virtuoso archetype and False Winger role make him a creative force 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

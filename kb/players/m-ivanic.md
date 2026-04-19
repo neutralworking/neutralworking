@@ -2,7 +2,7 @@
 title: M. Ivanić
 category: players
 tags: [CF, FK Crvena zvezda, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at FK Crvena zvezda. Archetype: Striker.
@@ -26,34 +26,53 @@ backlinks: [striker, fk-crvena-zvezda]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 Ivanić is a Marksman archetype, an ideal Complete Forward with strong technical and tactical foundations, capable of scoring from all ranges and showing unexpected creativity despite being a direct player. While a big-game player, his limited mental attributes, coupled with weaknesses in take-ons, pass accuracy, and guile, prevent him from consistently influencing play beyond his prolific goalscoring. This player's directness and goal threat from various distances evoke a lineage of clinical, opportunistic forwards who operate efficiently within a structured attacking framework. For FK Crvena zvezda, he is a primary attacking asset, providing crucial goals, especially in high-stakes matches, which significantly boosts his intrinsic value; however, his limited physical and mental attributes suggest he might struggle in more physically demanding leagues or under sustained pressure where consistent creative contribution is required.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Seconda Punta` with model support score `69`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Most bankable strengths show up in Threat, Carries, and Close Range.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Threat, Carries, and Close Range.
+- Style traits point toward Direct in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Threat | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Carries | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Close Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Mid Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Long Range | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Penalties | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Threat | █████████░ 9/10 |
-| Carries | ████████░░ 8/10 |
-| Close Range | ████████░░ 8/10 |
-| Discipline | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Long Range | ███████░░░ 7/10 |
-| Penalties | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Composure | ██████░░░░ 6/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Creativity | ██████░░░░ 6/10 |
-| Pass Accuracy | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 7/10
-- **big_game_player** (behavioral) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -63,3 +82,17 @@ Ivanić is a Marksman archetype, an ideal Complete Forward with strong technical
 - **Pressure (JP)**: 45
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 7/10
+- **Big Game Player** (behavioral) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

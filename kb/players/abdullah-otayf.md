@@ -2,10 +2,10 @@
 title: Abdullah Otayf
 category: players
 tags: [CM, Al-Ahli, Saudi Arabia]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at Al-Ahli. Archetype: —.
+summary: CM at Al-Ahli. Archetype: None.
 person_id: 7769
 backlinks: [al-ahli]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-ahli]
 | **Club** | Al-Ahli |
 | **Nation** | Saudi Arabia |
 | **Age** | 33 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Attacking midfielder or winger at 33 who still shows moments of invention in the final third, particularly when given time to turn and face forward. His decision-making in the half-spaces remains respectable, but his legs have gone—he's a sitting duck on the counter and can't recover if caught out of position. Useful squad option for teams that control possession, useless when the game is open.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +42,13 @@ Attacking midfielder or winger at 33 who still shows moments of invention in the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -75,5 +68,5 @@ Attacking midfielder or winger at 33 who still shows moments of invention in the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

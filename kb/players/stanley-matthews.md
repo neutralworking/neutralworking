@@ -1,0 +1,74 @@
+---
+title: Stanley Matthews
+category: players
+tags: [WF, England, Dribbler-Controller]
+updated: 2026-04-17
+source: compiled
+confidence: low
+summary: WF at None. Archetype: Dribbler-Controller.
+person_id: 17569
+backlinks: [dribbler]
+---
+
+# Stanley Matthews
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | WF |
+| **Club** | None |
+| **Nation** | England |
+| **Age** | None |
+| **Archetype** | [[dribbler]] Dribbler-Controller |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 3 |
+
+## Snapshot
+
+WF	Enthusiastic	Creator	Wizard	Blackpool	ENG	A	84.5	Universally recognised as one of the most skilful wingers ever to play the game, England's Stanley Matthews became known as 'the wizard of dribble' because of his unique skills with the ball at his feet.  He is also remarkable for the longevity of his playing career. Although not the strongest of players, he had the ability to draw defenders into attempting a tackle and then go past them with an instant change of direction.		Although like many players of his generation he lost several years of his career to the Second World War, he was fit enough to continue appearing at the highest level until the age of 50. By 1937 he was also a regular for England, although some of his team-mates found his individual style difficult to play alongside.  In 1938 Matthews was part of the England team who were controversially ordered by their FA to give the Nazi salute before a friendly against Germany in Berlin.  He spoke of how firmly opposed the team were to doing this, before eventually reluctantly agreeing when they were told of how politically explosive a refusal might be. Matthews came close to leaving Stoke in 1938 after expressing his desire to win trophies, but the support of the club's fans persuaded him to stay.  At that point in his career, he drastically altered his style of play after finding himself tightly marked by opposing defenders.  He started to play in a deeper position and used his pinpoint crossing ability to create goals for team-mates rather than scoring so many himself. Sir Stanley Matthews is the greatest legend in history of English football. He is the only player to have been knighted while still playing, as well as being the first winner of both the European Footballer of the Year and the Football Writers' Association Footballer of the Year awards. A vegetarian teetotaller, he kept fit enough to play at the top level until he was 50 years old, the oldest player ever to play in England's top football division. He played his final competitive game in 1970, at the age of 55. The Second World War interrupted his career. After the war, he fell out with Stoke and was transferred to Blackpool at the age of 32. Matthews was a right-side midfielder who assisted many goals after done his great speed, stamina and dribble. He was voted 11th and 17th World player of the century by IFFHS and World Soccer’s poll, respectively.
+
+## Role Fit
+
+- Best-fit role is `Winger` with model support score `92`.
+- Primary archetype leans toward `Dribbler` behaviour from a `WF` base.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+---
+{}
+---
+
+WF	Enthusiastic	Creator	Wizard	Blackpool	ENG	A	84.5	Universally recognised as one of the most skilful wingers ever to play the game, England's Stanley Matthews became known as 'the wizard of dribble' because of his unique skills with the ball at his feet.  He is also remarkable for the longevity of his playing career. Although not the strongest of players, he had the ability to draw defenders into attempting a tackle and then go past them with an instant change of direction.		Although like many players of his generation he lost several years of his career to the Second World War, he was fit enough to continue appearing at the highest level until the age of 50. By 1937 he was also a regular for England, although some of his team-mates found his individual style difficult to play alongside.  In 1938 Matthews was part of the England team who were controversially ordered by their FA to give the Nazi salute before a friendly against Germany in Berlin.  He spoke of how firmly opposed the team were to doing this, before eventually reluctantly agreeing when they were told of how politically explosive a refusal might be. Matthews came close to leaving Stoke in 1938 after expressing his desire to win trophies, but the support of the club's fans persuaded him to stay.  At that point in his career, he drastically altered his style of play after finding himself tightly marked by opposing defenders.  He started to play in a deeper position and used his pinpoint crossing ability to create goals for team-mates rather than scoring so many himself. Sir Stanley Matthews is the greatest legend in history of English football. He is the only player to have been knighted while still playing, as well as being the first winner of both the European Footballer of the Year and the Football Writers' Association Footballer of the Year awards. A vegetarian teetotaller, he kept fit enough to play at the top level until he was 50 years old, the oldest player ever to play in England's to...
+
+</details>

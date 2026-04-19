@@ -5,7 +5,7 @@ tags: [WD, Argentina]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at —. Archetype: —.
+summary: WD at None. Archetype: None.
 person_id: 8038
 ---
 
@@ -16,24 +16,18 @@ person_id: 8038
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Argentina |
 | **Age** | 70 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WD		Wing Back			ARG	B	0.0	Argentine former football player and a 1978 FIFA World Cup champion. He played as a defensive left back early in his career, and later as a wing back. He rose through the Boca Juniors youth divisions in the early 1970s, and was noted for his afro hairdo and his large front teeth, "which earned him the nickname conejo (""rabbit"")."		Noted for his technical ability as well as stamina, Tarantini was best known for his fiery temper.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,10 +44,10 @@ WD		Wing Back			ARG	B	0.0	Argentine former football player and a 1978 FIFA World
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

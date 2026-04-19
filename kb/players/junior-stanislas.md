@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Bournemouth. Archetype: Creator-Striker.
 person_id: 3739
-backlinks: [creator, playmaker, bournemouth]
+backlinks: [creator, bournemouth]
 ---
 
 # Junior Stanislas
@@ -18,29 +18,21 @@ backlinks: [creator, playmaker, bournemouth]
 |---|---|
 | **Position** | CM |
 | **Club** | Bournemouth |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 36 |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 64 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Junior Stanislas projects primarily as a CM with a `Creator-Striker` lean. The strongest database support comes from Pace, First Touch, and Long Range.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker.
+- Best-fit role is `Playmaker`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Pace, First Touch, and Long Range.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ Junior Stanislas projects primarily as a CM with a `Creator-Striker` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

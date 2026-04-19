@@ -2,12 +2,12 @@
 title: Jure Balkovec
 category: players
 tags: [WD, Fatih Karagümrük, Slovenia, Passer-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Fatih Karagümrük. Archetype: Passer-Destroyer.
 person_id: 13228
-backlinks: [passer, fullback, fatih-karagumruk]
+backlinks: [passer, fatih-karagumruk]
 ---
 
 # Jure Balkovec
@@ -21,27 +21,18 @@ backlinks: [passer, fullback, fatih-karagumruk]
 | **Nation** | Slovenia |
 | **Age** | 31 |
 | **Archetype** | [[passer]] Passer-Destroyer |
-| **Best Role** | [[fullback]] Fullback |
-| **Role Score** | 79 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Jure Balkovec projects primarily as a WD with a `Passer-Destroyer` lean. The strongest database support comes from Jumping, Through Balls, and Acceleration.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[fullback]] Fullback with model support score `79`.
+- Best-fit role is `Fullback` with model support score `79`.
 - Primary archetype leans toward `Passer` behaviour from a `WD` base.
 - Most bankable strengths show up in Jumping, Through Balls, and Acceleration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -72,14 +63,13 @@ Jure Balkovec projects primarily as a WD with a `Passer-Destroyer` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.1m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,6 +95,6 @@ Jure Balkovec projects primarily as a WD with a `Passer-Destroyer` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

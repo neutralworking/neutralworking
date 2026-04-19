@@ -2,7 +2,7 @@
 title: Naci Ünüvar
 category: players
 tags: [CM, FC Twente, Turkey, Dribbler]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CM at FC Twente. Archetype: Dribbler.
@@ -26,7 +26,7 @@ backlinks: [dribbler, fc-twente]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubAjax
@@ -44,32 +44,52 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
 **October 2023 update** Injuries meant that Ünüvar did not get as much game time as he or Ajax would have hoped while on loan at Trabzonspor. Now with Twente on another temporary deal.
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker`.
+- Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
+- Most bankable strengths show up in Balance, Shielding, and Take Ons.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Take Ons.
+- Style traits point toward Skill Moves, Trickery, and Technical Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Through Balls | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Accuracy | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Vision | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| Through Balls | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Vision | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| Crossing | █████████████ 13/10 |
-| Long Range | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Close Range | ████████████ 12/10 |
-| Mid Range | ████████████ 12/10 |
-| Movement | ████████████ 12/10 |
-| Pace | ████████████ 12/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Skill Moves** (style) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -79,6 +99,23 @@ In August 2019, a couple of months after he turned 16, Ünüvar was named in an 
 - **Pressure (JP)**: 33
 - **Competitiveness**: 3/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Skill Moves** (style) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

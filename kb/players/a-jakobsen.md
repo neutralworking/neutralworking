@@ -2,7 +2,7 @@
 title: A. Jakobsen
 category: players
 tags: [CF, Brommapojkarna, Creator-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Brommapojkarna. Archetype: Creator-Sprinter.
@@ -18,24 +18,17 @@ backlinks: [creator, brommapojkarna]
 |---|---|
 | **Position** | CF |
 | **Club** | Brommapojkarna |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Sprinter |
 | **Level** | 75 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jakobsen, a Marksman best suited as a Complete Forward, presents a physically strong profile with excellent jumping, acceleration, pace, and balance, making him a direct threat. Despite strong technical attributes, his limited tactical and physical pillars manifest in weaknesses concerning marking, interceptions, and tackling, indicating a narrow focus on attacking duties and limited defensive contribution. His profile aligns with forwards who operate as primary offensive targets, relying on athletic attributes and direct play to break defenses, a style often seen in teams that favor quick transitions and aerial prowess. For a Director of Football, Jakobsen offers a project forward with significant athletic potential to lead the line and challenge defenses directly, but his minimal defensive contribution and tactical limitations mean a club acquiring him would need to surround him with tactically astute players.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Jakobsen, a Marksman best suited as a Complete Forward, presents a physically st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -98,7 +90,7 @@ Jakobsen, a Marksman best suited as a Complete Forward, presents a physically st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

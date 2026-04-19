@@ -2,12 +2,12 @@
 title: Ignacio
 category: players
 tags: [CM, Fluminense, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Fluminense. Archetype: Powerhouse-Destroyer.
 person_id: 24133
-backlinks: [powerhouse, metodista, fluminense]
+backlinks: [powerhouse, fluminense]
 ---
 
 # Ignacio
@@ -18,30 +18,21 @@ backlinks: [powerhouse, metodista, fluminense]
 |---|---|
 | **Position** | CM |
 | **Club** | Fluminense |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
-| **Best Role** | [[metodista]] Metodista |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A strong-bodied tuttocampista at 29 whose physical capabilities—balance, acceleration, pace, shielding—are undercut by poor discipline and limited technical range, making him a player who competes effectively but contributes little beyond defensive grit. His technical strength on paper is offset by weak creativity and inconsistent execution in possession; he's genuinely useful in compact, organized systems but quickly exposed in fluid, technical leagues. At this age with these constraints, he represents a cautious squad addition for clubs prioritizing physical presence over creative progression.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[metodista]] Metodista with model support score `75`.
+- Best-fit role is `Metodista` with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -72,14 +63,13 @@ A strong-bodied tuttocampista at 29 whose physical capabilities—balance, accel
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +92,7 @@ A strong-bodied tuttocampista at 29 whose physical capabilities—balance, accel
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

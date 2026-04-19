@@ -2,7 +2,7 @@
 title: Ahmed Sharahili
 category: players
 tags: [CD, Al-Ittihad, Saudi Arabia, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Al-Ittihad. Archetype: Cover.
@@ -23,19 +23,12 @@ backlinks: [cover, al-ittihad]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 80 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An attacker who has worked within Al Hilal's attacking ecosystem but lacks the explosive pace or elite technical ability to be a primary creator or finisher at this level. Sharahili moves intelligently and understands positioning, yet his decision-making in the final third is often pedestrian. He's a squad player filling depth roles rather than a driver of attacking play.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ An attacker who has worked within Al Hilal's attacking ecosystem but lacks the e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +95,7 @@ An attacker who has worked within Al Hilal's attacking ecosystem but lacks the e
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

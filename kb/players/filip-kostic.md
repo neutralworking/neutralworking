@@ -2,7 +2,7 @@
 title: Filip KostiÄ‡
 category: players
 tags: [WM, Juventus, Serbia, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Juventus. Archetype: Creator.
@@ -23,7 +23,7 @@ backlinks: [creator, juventus]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 78 |
 | **Overall** | 73.0 |
-| **Pursuit** | â€” |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -35,13 +35,6 @@ The Serbia international has always been good for a handful of goals every seaso
 Kostic is a throwback winger in that he loves to dart down the left flank, hit the byline and produce crosses at will. He made the switch to Juventus and there should be better to come after a modest first season.
 
 Serbia	LWB / LW	1 November 1992 (age 30)	2022	2026	Germany Eintracht Frankfurt	â‚¬12M[21]	53	3
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -82,12 +75,11 @@ Serbia	LWB / LW	1 November 1992 (age 30)	2022	2026	Germany Eintracht Frankfurt	â
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 3.9m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -114,11 +106,11 @@ Serbia	LWB / LW	1 November 1992 (age 30)	2022	2026	Germany Eintracht Frankfurt	â
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

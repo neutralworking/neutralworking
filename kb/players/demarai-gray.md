@@ -2,7 +2,7 @@
 title: Demarai Gray
 category: players
 tags: [WF, Birmingham City, Jamaica, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Birmingham City. Archetype: Creator-Passer.
@@ -23,19 +23,12 @@ backlinks: [creator, birmingham-city]
 | **Archetype** | [[creator]] Creator-Passer |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Demarai Gray epitomizes the Creator archetype, a dazzling Extremo whose electric acceleration, pace, and exquisite take-ons allow him to consistently beat his man. His excellent first touch and balance further enhance his ability to operate effectively in tight spaces. However, his alarming lack of intensity and poor progressive carries mean he often drifts out of games and struggles to drive the team forward with the ball at his feet.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Demarai Gray epitomizes the Creator archetype, a dazzling Extremo whose electric
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.4m |
-| Mid | EUR 45.0m |
-| Ceiling | EUR 54.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +96,7 @@ Demarai Gray epitomizes the Creator archetype, a dazzling Extremo whose electric
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

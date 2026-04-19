@@ -2,7 +2,7 @@
 title: Hwang Ui-jo
 category: players
 tags: [CF, Alanyaspor, South Korea, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Alanyaspor. Archetype: Striker.
@@ -23,19 +23,12 @@ backlinks: [striker, alanyaspor]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 73 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A savvy, experience-laden centre-forward who understands the geometry of the box and moves intelligently to create half-spaces for teammates, particularly in tight areas where his body control and three-touch passing become assets. His work-rate is genuine and his positioning memory is sharp, but he's no longer a dynamic threat—his first-step acceleration is gone, he won't burst past anyone, and his finishing has become streaky, making him better suited as a supporting forward in a possession system than as a primary goal source. At 33, he's a squad player at this level, reliable but limited.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ A savvy, experience-laden centre-forward who understands the geometry of the box
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,6 +85,6 @@ A savvy, experience-laden centre-forward who understands the geometry of the box
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

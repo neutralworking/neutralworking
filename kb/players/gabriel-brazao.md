@@ -18,24 +18,17 @@ backlinks: [sprinter, santos]
 |---|---|
 | **Position** | GK |
 | **Club** | Santos |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gabriel Brazão projects primarily as a GK with a `Sprinter-Dribbler` lean. The strongest database support comes from Balance, Shielding, and Acceleration.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Gabriel Brazão projects primarily as a GK with a `Sprinter-Dribbler` lean. The 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

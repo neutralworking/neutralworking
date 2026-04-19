@@ -5,7 +5,7 @@ tags: [DM, France]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: DM at —. Archetype: —.
+summary: DM at None. Archetype: None.
 person_id: 10672
 ---
 
@@ -16,25 +16,18 @@ person_id: 10672
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | France |
 | **Age** | 55 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Reliable	Playmaker	Pivote	Arsenal	FRA	A	86.4
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -51,11 +44,10 @@ CM	Reliable	Playmaker	Pivote	Arsenal	FRA	A	86.4
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -78,6 +70,6 @@ CM	Reliable	Playmaker	Pivote	Arsenal	FRA	A	86.4
 {}
 ---
 
-CM	Reliable	Playmaker	Pivote	Arsenal	FRA	A	86.4
+CM	Reliable	Playmaker	Pivote	Arsenal	FRA	A	86.4	
 
 </details>

@@ -18,24 +18,17 @@ backlinks: [sprinter, orlando-city-sc]
 |---|---|
 | **Position** | CM |
 | **Club** | Orlando City SC |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jeorgio Kocevski projects primarily as a CM with a `Sprinter` lean. The strongest database support comes from Pace, Physical, and Acceleration.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ Jeorgio Kocevski projects primarily as a CM with a `Sprinter` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

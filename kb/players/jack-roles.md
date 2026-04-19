@@ -22,20 +22,13 @@ backlinks: [sprinter, cambridge-united]
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 80 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A midfielder operating in a box-to-box role with decent athleticism and willingness to cover ground, though his technical ceiling is modest—he's a tidy passer at pace but lacks the range or vision to dictate play. Disciplined without the ball and competent on the ball, he's the definition of a functional squad player; you know what you're getting, but it's unlikely to be a revelation. Better suited to a side built around controlling games through shape rather than individual brilliance.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ A midfielder operating in a box-to-box role with decent athleticism and willingn
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 15.3m |
-| Mid | EUR 18.0m |
-| Ceiling | EUR 21.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

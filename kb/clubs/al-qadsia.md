@@ -1,8 +1,8 @@
 ---
 title: Al Qadsia
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Al Qadsia. 9 players in database.
@@ -10,34 +10,20 @@ summary: Al Qadsia. 9 players in database.
 
 # Al Qadsia
 
-**League**: —  
-**Nation**: —  
+**League**: None  
+**Nation**: None  
 **Players in DB**: 9
-
-## Identity
-
-- Database coverage is deepest in CM (4), CD (2), and WD (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Engine (1), Powerhouse (1), and Cover (1) across the current squad.
-- Average available overall grade sits at 65.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[abdulmohsen-fallatah]] Abdulmohsen Fallatah | CD | — | — |
-| [[mohammed-al-khabrani]] Mohammed Al-Khabrani | CD | — | — |
+| [[abdulmohsen-fallatah]] Abdulmohsen Fallatah | CD | None | None |
+| [[mohammed-al-khabrani]] Mohammed Al-Khabrani | CD | None | None |
 | [[mateo-retegui]] Mateo Retegui | CF | Striker-Target | 61.0 |
-| [[abdulmohsen-al-qahtani]] Abdulmohsen Al-Qahtani | CM | — | — |
+| [[abdulmohsen-al-qahtani]] Abdulmohsen Al-Qahtani | CM | None | None |
 | [[ali-hazazi]] Ali Hazazi | CM | Powerhouse-Dribbler | 76.0 |
-| [[musab-al-juwayr]] Musab Al-Juwayr | CM | — | — |
-| [[naif-hazazi]] Naif Hazazi | CM | Cover | — |
+| [[musab-al-juwayr]] Musab Al-Juwayr | CM | None | None |
+| [[naif-hazazi]] Naif Hazazi | CM | Cover | None |
 | [[julian-weigl]] Julian Weigl | DM | Engine-Passer | 58.0 |
-| [[ibrahim-al-shoeil]] Ibrahim Al-Shoeil | WD | — | — |
+| [[ibrahim-al-shoeil]] Ibrahim Al-Shoeil | WD | None | None |

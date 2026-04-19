@@ -2,7 +2,7 @@
 title: Dominic Calvert-Lewin
 category: players
 tags: [CF, Leeds United, England, Striker-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Leeds United. Archetype: Striker-Cover.
@@ -23,19 +23,12 @@ backlinks: [striker, leeds-united]
 | **Archetype** | [[striker]] Striker-Cover |
 | **Level** | 86 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 An English striker who remains a willing presence in the box with decent movement and the physical tools to bully defenders, but his injury history has eroded both his explosiveness and consistency. He's serviceable as a target man or impact sub, yet he's no longer the athletic force who could carry a team's attacking play. Backup option at best.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ An English striker who remains a willing presence in the box with decent movemen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 20.9m |
-| Mid | EUR 51.0m |
-| Ceiling | EUR 61.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,7 +101,7 @@ An English striker who remains a willing presence in the box with decent movemen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

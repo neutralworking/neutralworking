@@ -5,7 +5,7 @@ tags: [CD, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 13007
 ---
 
@@ -16,25 +16,18 @@ person_id: 13007
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
-| **Age** | — |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 CD					URU	B	0.0	At that time Santamaría usually played in a more advanced half-back position along the lines of a modern defensive midfielder, and it was in that role that he caught the attention of Nacional, one of the dominant forces in Uruguayan football. In 1950, Nacional's new manager Enrique Fernández recognised that Santamaría's strength, power and organisational skills made him ideally suited to play in the deeper position at centre-half, a role which would prove to be by far his best position and which he would play for the remainder of his career.		One of the finest central defenders in the world throughout the 1950s and 1960s, José Santamaría enjoyed an incredibly successful club career in Uruguay and Spain and represented both countries at the highest level of the international game. Although it was the attacking players who regularly claimed the headlines, Santamaria's defensive performances played a crucial role in the triumphs of the great Real Madrid team of the late 1950s and early 1960s. José Emilio Santamaría Iglesias was born in Montevideo on 31 July 1929, to parents who had migrated from Galicia in Spain at the beginning of the decade. Through his teens he studied accountancy and on leaving school began a career in banking, but also played junior football with local team Atlético Pocitos.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,14 +41,13 @@ CD					URU	B	0.0	At that time Santamaría usually played in a more advanced half
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

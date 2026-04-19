@@ -2,7 +2,7 @@
 title: David Soria
 category: players
 tags: [GK, Getafe, Spain, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Getafe. Archetype: GK.
@@ -23,19 +23,12 @@ backlinks: [gk, getafe]
 | **Archetype** | [[gk]] GK |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A La Liga veteran whose game management and experience are his strongest suits; he makes the saves he's supposed to make and rarely commits catastrophic errors, though his reflexes have naturally declined with age. His distribution is functional rather than progressive, and he won't be sweeping constantly or playing out from the back with confidence. Soria is a steady, unspectacular presence who minimises drama, which in the context of Getafe's pragmatic football is exactly what's required — he's simply not going to win you anything on his own.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A La Liga veteran whose game management and experience are his strongest suits; 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +94,7 @@ A La Liga veteran whose game management and experience are his strongest suits; 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

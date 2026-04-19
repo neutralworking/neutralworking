@@ -2,12 +2,12 @@
 title: Jhon Durán
 category: players
 tags: [CF, Fenerbahçe, Colombia, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Fenerbahçe. Archetype: Striker-Creator.
 person_id: 19044
-backlinks: [striker, shadow-striker, fenerbahce]
+backlinks: [striker, fenerbahce]
 ---
 
 # Jhon Durán
@@ -21,14 +21,13 @@ backlinks: [striker, shadow-striker, fenerbahce]
 | **Nation** | Colombia |
 | **Age** | 22 |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
-| **Role Score** | 64 |
 | **Level** | 87 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
+
 
 ClubEnvigado
 
@@ -44,16 +43,10 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
   
 **October 2023 update** Signed for Aston Villa in an £18m deal at the start of the year, becoming Unai Emery’s back-up striker behind Ollie Watkins following Danny Ings’ departure to West Ham. "He will need to play matches, gain minutes and experiences and confidence," Emery gushed after the 18-year-old scored a late stunner to set Villa on their way to a 3-1 September win over Crystal Palace. "Scoring like he did today, it is coming quick. But the most important thing is his quality, his capacity, his skill, his big potential.” A regular in the Colombia squad, he also scored his first international goal against Japan in March.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `64`.
+- Best-fit role is `Shadow Striker` with model support score `64`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier and Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Acceleration, and First Touch.
@@ -88,14 +81,13 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 23.8m |
-| Mid | EUR 65.0m |
-| Ceiling | EUR 78.0m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -123,16 +115,17 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 ClubEnvigado
 
@@ -144,6 +137,6 @@ Aged 16 and already a towering 6ft tall, Jhon Jáder has made a habit of being a
   
 **October 2021 update** Became the youngest signing in MLS history when Chicago Fire swooped this year, thus stealing a headstart on several European clubs that had been sniffing around the young striker. “One of the best talents in world football is coming to Chicago,” the Fire tweeted upon announcing the deal. “Jhon is a very special and highly rated young talent,” sporting director Georg Heitz said. Unable to officially join the club until his 18th birthday at the start of next year he’s been progressing nicely as tiny Envigado punch above their weight at the top of the Colombian first division.  
   
-**September 2022 update** Recently called up to the ...
+**September 2022 update** Recently called up to the...
 
 </details>

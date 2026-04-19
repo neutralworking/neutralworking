@@ -22,20 +22,13 @@ backlinks: [powerhouse, coventry-city]
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 80 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 An aging utility midfielder-defender whose professionalism and game intelligence carry him, but he's lost the legs to consistently execute at pace. Works hard, understands positioning, and can fill gaps in a squad, but he's very much a squad rotation piece now rather than a key performer. Useful squad player, limited upside.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ An aging utility midfielder-defender whose professionalism and game intelligence
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

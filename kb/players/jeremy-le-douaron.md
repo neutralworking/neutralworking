@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CF at Brest. Archetype: Striker.
 person_id: 12567
-backlinks: [striker, target-forward, brest]
+backlinks: [striker, brest]
 ---
 
 # Jérémy Le Douaron
@@ -21,26 +21,18 @@ backlinks: [striker, target-forward, brest]
 | **Nation** | France |
 | **Age** | 27 |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 84 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Physical centre-forward, 27, who offers a focal point in the press and can harness his frame to hold play or power through a defender on occasion. Lacks the footwork or spatial intelligence to glide through defences; too often he relies on brute strength, which invites clever defending. A useful Plan B and someone opposition will respect aerially, but not a solution to sustained creation problems.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[target-forward]] Target Forward.
+- Best-fit role is `Target Forward`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in First Touch, Jumping, and Reactions.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -71,14 +63,13 @@ Physical centre-forward, 27, who offers a focal point in the press and can harne
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 43.0m |
-| Ceiling | EUR 51.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

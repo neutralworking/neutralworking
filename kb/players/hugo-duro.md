@@ -2,12 +2,12 @@
 title: Hugo Duro
 category: players
 tags: [CF, Valencia, Spain, Striker-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Valencia. Archetype: Striker-Destroyer.
 person_id: 11839
-backlinks: [striker, shadow-striker, valencia]
+backlinks: [striker, valencia]
 ---
 
 # Hugo Duro
@@ -21,27 +21,18 @@ backlinks: [striker, shadow-striker, valencia]
 | **Nation** | Spain |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker-Destroyer |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
-| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Physical, combative forward with strong hold-up play and aerial presence, but his finishing is inconsistent and he's not rapid enough to consistently create separation. Valuable as a plan-B target man or super-sub.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `80`.
+- Best-fit role is `Shadow Striker` with model support score `80`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Movement, and Reactions.
@@ -76,14 +67,13 @@ Physical, combative forward with strong hold-up play and aerial presence, but hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.4m |
-| Mid | EUR 52.0m |
-| Ceiling | EUR 62.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -112,7 +102,7 @@ Physical, combative forward with strong hold-up play and aerial presence, but hi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

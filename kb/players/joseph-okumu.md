@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Reims. Archetype: Cover-Dribbler.
 person_id: 13025
-backlinks: [cover, sweeper, reims]
+backlinks: [cover, reims]
 ---
 
 # Joseph Okumu
@@ -21,26 +21,18 @@ backlinks: [cover, sweeper, reims]
 | **Nation** | Kenya |
 | **Age** | 28 |
 | **Archetype** | [[cover]] Cover-Dribbler |
-| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 85 |
 | **Overall** | 80.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Solid, no-nonsense centre-back with good aerial dominance and reading of the game. Positionally intelligent but not particularly quick or technical; a reliable Ligue 1 starter who won't elevate a defense.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[sweeper]] Sweeper.
+- Best-fit role is `Sweeper`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Pace, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -75,14 +67,13 @@ Solid, no-nonsense centre-back with good aerial dominance and reading of the gam
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 36.0m |
-| Ceiling | EUR 43.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

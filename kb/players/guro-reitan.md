@@ -19,23 +19,16 @@ backlinks: [powerhouse, chelsea-wfc]
 | **Position** | WF |
 | **Club** | Chelsea WFC |
 | **Nation** | Norway |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 79 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A winger with genuine end-product and an understanding of how to arrive in the box at the right moment—her crossing from deep is accurate, and she moves intelligently into half-spaces to receive and turn. The limitation is her pace relative to elite company; she's not explosive enough to consistently beat a defender in a 1v1 situation, which forces her into more lateral play and means you need runners arriving consistently to make her effective.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ A winger with genuine end-product and an understanding of how to arrive in the b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 13.6m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

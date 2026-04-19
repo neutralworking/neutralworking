@@ -18,24 +18,17 @@ backlinks: [cover, degerfors-if]
 |---|---|
 | **Position** | CM |
 | **Club** | Degerfors IF |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 41.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Hedén Lindskog's discipline, awareness, and tackling ability make him a solid Tuttocampista, but his lack of composure and guile on the ball are significant weaknesses. As a Cover player, he fits into systems that require a high level of defensive awareness and physicality in midfield. For a club seeking to add depth and defensive solidity to their midfield, Hedén Lindskog's strengths make him a viable option, but his technical limitations may be exposed in more progressive, attacking-minded teams.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ Hedén Lindskog's discipline, awareness, and tackling ability make him a solid T
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

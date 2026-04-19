@@ -2,7 +2,7 @@
 title: Brandt Bronico
 category: players
 tags: [CM, Charlotte FC, United States, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Charlotte FC. Archetype: Powerhouse.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, charlotte-fc]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 80 |
 | **Overall** | 61.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 30-year-old terrier midfielder built for relentless box-to-box coverage, Bronico pairs exceptional stamina and shielding with reliable first touch and passing accuracy—the spine of a tuttocampista. His tactical intelligence and mental fortitude make him immediately deployable in high-press systems, though hot-headedness and occasional discipline lapses cost him in duels and can destabilize possession chains. For a mid-table or rebuilding MLS side, he represents serviceable midfield ballast: not dynamic enough to elevate a squad, but sufficiently robust to anchor transitions and carry water in structured systems.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A 30-year-old terrier midfielder built for relentless box-to-box coverage, Broni
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -107,7 +99,7 @@ A 30-year-old terrier midfielder built for relentless box-to-box coverage, Broni
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

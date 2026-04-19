@@ -23,19 +23,12 @@ backlinks: [dribbler, bohemians-1905]
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 80 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Jhon Mosquera is a physical presence in midfield, using his aggression and jumping ability to win headers and impose himself on the game, but his technical limitations mean he often struggles to pick a pass in tight spaces, and his lack of composure on the ball can lead to careless giveaways. His playing style is more suited to a destructive role, but as a Metodista, he is often expected to be the creative hub, which is not his strong suit. He relies heavily on his pace and power to beat opponents, rather than guile or finesse.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Jhon Mosquera is a physical presence in midfield, using his aggression and jumpi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

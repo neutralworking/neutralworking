@@ -5,7 +5,7 @@ tags: [CF, Brighton, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Brighton. Archetype: —.
+summary: CF at Brighton. Archetype: None.
 person_id: 10571
 backlinks: [brighton]
 ---
@@ -20,22 +20,15 @@ backlinks: [brighton]
 | **Club** | Brighton |
 | **Nation** | England |
 | **Age** | 27 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 72 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A centre-back operating in the women's game who reads defensive situations with decent awareness and commands her penalty area with reasonable authority. Her passing range is adequate rather than impressive, and her ball retention under pressure is functional. For women's football at this level she's a solid operator, but the physicality and technical demands are considerably different from elite men's football.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ A centre-back operating in the women's game who reads defensive situations with 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

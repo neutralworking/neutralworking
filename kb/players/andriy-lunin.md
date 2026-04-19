@@ -23,18 +23,12 @@ backlinks: [gk, real-madrid]
 | **Archetype** | [[gk]] GK |
 | **Level** | 86 |
 | **Overall** | 79.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Ukrainian keeper who deputised brilliantly. Good shot-stopper, brave, improving distribution. Solid number two.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ Ukrainian keeper who deputised brilliantly. Good shot-stopper, brave, improving 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.2m |
-| Mid | EUR 35.0m |
-| Ceiling | EUR 42.0m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

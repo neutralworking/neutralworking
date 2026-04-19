@@ -5,7 +5,7 @@ tags: [WF, OM, Australia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at OM. Archetype: —.
+summary: WF at OM. Archetype: None.
 person_id: 11755
 backlinks: [om]
 ---
@@ -20,22 +20,15 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | Australia |
 | **Age** | 31 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Experienced winger with pace, direct dribbling ability, and solid crossing consistency; her intelligence in pressing is commendable, though defensive positioning can be suspect. Reliable attacking option at 31.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Experienced winger with pace, direct dribbling ability, and solid crossing consi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

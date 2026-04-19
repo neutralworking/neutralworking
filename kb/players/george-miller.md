@@ -23,19 +23,12 @@ backlinks: [sprinter, middlesbrough]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 78 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Depth option and occasional starter who is fundamentally limited as a number nine; lacks the instinctive positioning, technical sharpness, and athleticism to be a genuine threat in the box. His hold-up play is serviceable but uninspired, and he rarely drives attacking phases or creates space for teammates through intelligent movement. Useful in specific tactical scenarios as a target man or short-term cover, but well below the standard of a Championship-calibre centre-forward.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Depth option and occasional starter who is fundamentally limited as a number nin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -5,7 +5,7 @@ tags: [WF, Bay FC, Nigeria]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at Bay FC. Archetype: —.
+summary: WF at Bay FC. Archetype: None.
 person_id: 8777
 backlinks: [bay-fc]
 ---
@@ -20,22 +20,11 @@ backlinks: [bay-fc]
 | **Club** | Bay FC |
 | **Nation** | Nigeria |
 | **Age** | 31 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
-
-## Snapshot
-
-Asisat Oshoala is currently a roster-level WF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -45,14 +34,13 @@ Asisat Oshoala is currently a roster-level WF entry in the KB. The page should b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

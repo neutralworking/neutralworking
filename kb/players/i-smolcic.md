@@ -2,12 +2,12 @@
 title: I. Smolčić
 category: players
 tags: [CM, Como, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Como. Archetype: Destroyer.
 person_id: 20790
-backlinks: [destroyer, metodista, como]
+backlinks: [destroyer, como]
 ---
 
 # I. Smolčić
@@ -18,30 +18,21 @@ backlinks: [destroyer, metodista, como]
 |---|---|
 | **Position** | CM |
 | **Club** | Como |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[metodista]] Metodista |
-| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 I. Smolčić is a robust Tuttocampista with a Connector archetype, excelling in midfield duels and demonstrating composure and accurate passing from mid-range, making him a reliable build-up contributor. While strong in tackling, his limited vision and lack of threat in close-range attacking areas restrict his overall impact in the final third. This player aligns with the profile of a dependable central midfielder who anchors the team, capable of winning possession and distributing reliably in systems that prioritize controlled possession. A valuable asset for teams seeking a consistent and robust presence in the engine room, his limited mental pillar and 'hot_headed' trait pose potential discipline risks under pressure.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[metodista]] Metodista with model support score `72`.
+- Best-fit role is `Metodista` with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Aggression, Awareness, and Blocking.
@@ -71,14 +62,13 @@ I. Smolčić is a robust Tuttocampista with a Connector archetype, excelling in 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +92,7 @@ I. Smolčić is a robust Tuttocampista with a Connector archetype, excelling in 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

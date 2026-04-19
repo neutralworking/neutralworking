@@ -23,18 +23,12 @@ backlinks: [destroyer, portsmouth]
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 82 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Solid left-sided defender with decent pace and concentration, but prone to concentration lapses and lacks the aggressive recovery pace needed at this level. Useful squad depth but unlikely to be a regular starter.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Solid left-sided defender with decent pace and concentration, but prone to conce
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.1m |
-| Mid | EUR 27.0m |
-| Ceiling | EUR 32.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

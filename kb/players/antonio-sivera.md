@@ -23,18 +23,12 @@ backlinks: [gk, alaves]
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Shot-stopper with decent reflexes and a reasonable handling footprint, though his distribution is pedestrian and his command of the box isn't commanding. He's a functional La Liga goalkeeper who stays afloat through consistency rather than excellence or modern sweeper-keeper traits.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ Shot-stopper with decent reflexes and a reasonable handling footprint, though hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.7m |
-| Mid | EUR 24.0m |
-| Ceiling | EUR 28.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

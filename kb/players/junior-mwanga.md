@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Strasbourg. Archetype: Destroyer.
 person_id: 13219
-backlinks: [destroyer, centrale, strasbourg]
+backlinks: [destroyer, strasbourg]
 ---
 
 # Junior Mwanga
@@ -21,26 +21,18 @@ backlinks: [destroyer, centrale, strasbourg]
 | **Nation** | France |
 | **Age** | 22 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[centrale]] Centrale |
 | **Level** | 80 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young wide attacker with electric dribbling ability in tight spaces and a dangerous left foot; he carries the ball with genuine flair and creates unpredictability in transition. His decision-making is scattered—he forces low-percentage shots and abandons his defensive shape regularly. Still very much a prospect learning the demands of senior football; needs consistency in his final-third choices before he becomes reliable.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[centrale]] Centrale.
+- Best-fit role is `Centrale`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Composure, Jumping, and Pass Accuracy.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -71,14 +63,13 @@ A young wide attacker with electric dribbling ability in tight spaces and a dang
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.7m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

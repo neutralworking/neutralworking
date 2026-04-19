@@ -2,10 +2,10 @@
 title: Blas Riveros
 category: players
 tags: [CD, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 28205
 ---
 
@@ -16,25 +16,18 @@ person_id: 28205
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Paraguay |
 | **Age** | 28 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 31.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Blas Riveros projects primarily as a CD with a `—` lean. The strongest database support comes from Discipline, Awareness, and Composure.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Blas Riveros projects primarily as a CD with a `None` lean. The strongest database support comes from Discipline, Awareness, and Composure.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ Blas Riveros projects primarily as a CD with a `—` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 2.1m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -90,5 +82,5 @@ Blas Riveros projects primarily as a CD with a `—` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

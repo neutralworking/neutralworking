@@ -2,12 +2,12 @@
 title: J. Sláma
 category: players
 tags: [CM, OL, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OL. Archetype: Destroyer-Creator.
 person_id: 24194
-backlinks: [destroyer, tuttocampista, ol]
+backlinks: [destroyer, ol]
 ---
 
 # J. Sláma
@@ -18,30 +18,21 @@ backlinks: [destroyer, tuttocampista, ol]
 |---|---|
 | **Position** | CM |
 | **Club** | OL |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Sláma's Warrior archetype indicates a player who excels in duels and tackling, but his limited technical ability and vision are weaknesses, and he would be well-suited to a direct, counter-attacking system, where his physicality and awareness can be leveraged, and a team seeking a rugged, defensive-minded midfielder would appreciate his skills, although his lack of discipline and long-range passing ability pose risks, and a club with a more refined, possession-based approach may not be the best fit, and his moderate physicality means he may struggle against more athletic opponents.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `73`.
+- Best-fit role is `Tuttocampista` with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Duels, Tackling, and Aggression.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +62,13 @@ Sláma's Warrior archetype indicates a player who excels in duels and tackling, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 12.8m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -98,6 +88,6 @@ Sláma's Warrior archetype indicates a player who excels in duels and tackling, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

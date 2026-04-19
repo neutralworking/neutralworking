@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CD at Cruzeiro. Archetype: Cover.
 person_id: 26639
-backlinks: [cover, centrale, cruzeiro]
+backlinks: [cover, cruzeiro]
 ---
 
 # Kauã Prates
@@ -18,29 +18,21 @@ backlinks: [cover, centrale, cruzeiro]
 |---|---|
 | **Position** | CD |
 | **Club** | Cruzeiro |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[centrale]] Centrale |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 21.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kauã Prates projects primarily as a CD with a `Cover` lean. The strongest database support comes from Skills, Communication, and Concentration.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[centrale]] Centrale.
+- Best-fit role is `Centrale`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Skills, Communication, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -70,14 +62,13 @@ Kauã Prates projects primarily as a CD with a `Cover` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 11.0m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

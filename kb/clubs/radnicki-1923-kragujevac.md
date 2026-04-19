@@ -1,8 +1,8 @@
 ---
 title: Radnički 1923 Kragujevac
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Radnički 1923 Kragujevac. 21 players in database.
@@ -10,23 +10,9 @@ summary: Radnički 1923 Kragujevac. 21 players in database.
 
 # Radnički 1923 Kragujevac
 
-**League**: —  
-**Nation**: —  
+**League**: None  
+**Nation**: None  
 **Players in DB**: 21
-
-## Identity
-
-- Database coverage is deepest in CM (8), WM (5), and WF (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Cover (7), Creator (7), and Striker (5) across the current squad.
-- Average available overall grade sits at 53.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
-- [[pressing-trigger]] Pressing Trigger: the squad balance is partly explained by who can activate or support pressure at the right moment.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -49,7 +35,7 @@ summary: Radnički 1923 Kragujevac. 21 players in database.
 | [[j-ilic]] J. Ilić | WM | Striker-Creator | 65.0 |
 | [[l-stankovski]] L. Stankovski | WM | Creator-Dribbler | 34.0 |
 | [[m-vidakov]] M. Vidakov | WM | Creator-Striker | 24.0 |
-| António Gomes | — | Cover-Creator | — |
-| Evandro | — | Cover-Striker | — |
-| L. Ben Hassine | — | Striker-Creator | — |
-| L. LijeskiÄ | — | Cover | — |
+| [[antonio-gomes]] António Gomes | None | Cover-Creator | None |
+| [[evandro]] Evandro | None | Cover-Striker | None |
+| [[l-ben-hassine]] L. Ben Hassine | None | Striker-Creator | None |
+| [[l-lijeskia]] L. LijeskiÄ | None | Cover | None |

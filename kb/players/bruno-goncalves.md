@@ -2,7 +2,7 @@
 title: Bruno Gonçalves
 category: players
 tags: [CM, Dender EH, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Dender EH. Archetype: Cover.
@@ -18,12 +18,12 @@ backlinks: [cover, dender-eh]
 |---|---|
 | **Position** | CM |
 | **Club** | Dender EH |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 23 |
 | **Archetype** | [[cover]] Cover |
 | **Level** | 78 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -43,12 +43,6 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
   
 **October 2023 update** Having had few chances to impress in 2022, Gonçalves sadly failed when he was given an opportunity to shine this year. RB Bragantino are having a tremendous campaign in the Brasileirão, being involved in the title fight, but Gonçalves has not been used as much as expected.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -83,14 +77,13 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -117,11 +110,11 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -142,5 +135,6 @@ Considered the best Brazilian footballer born in 2003, Bruno Gonçalves is a mix
 **September 2022 update** After a strong 2021-22 campaign, where he was part of the team that finished runners-up in the Copa Sudamericana, he has yet to feature for the first-team in the Brasileirão this season.  
   
 **October 2023 update** Having had few chances to impress in 2022, Gonçalves sadly failed when he was given an opportunity to shine this year. RB Bragantino are having a tremendous campaign in the Brasileirão, being involved in the title fight, but Gonçalves has not been used as much as expected.
+
 
 </details>

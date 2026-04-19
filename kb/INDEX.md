@@ -7,33 +7,33 @@
 
 | Category | Articles | Words | Last Updated |
 |---|---|---|---|
-| [Players](players/_index.md) | 21523 | 11,506,478 | 2026-04-18 |
-| [Archetypes](archetypes/_index.md) | 13 | 4,872 | 2026-04-18 |
-| [Tactics](tactics/_index.md) | 33 | 13,893 | 2026-04-18 |
-| [Clubs](clubs/_index.md) | 735 | 319,374 | 2026-04-18 |
-| [Concepts](concepts/_index.md) | 23 | 8,977 | 2026-04-18 |
+| [Players](players/_index.md) | 21523 | 9,550,634 | 2026-04-18 |
+| [Archetypes](archetypes/_index.md) | 13 | 2,742 | 2026-04-14 |
+| [Tactics](tactics/_index.md) | 33 | 13,893 | 2026-04-14 |
+| [Clubs](clubs/_index.md) | 665 | 188,686 | 2026-04-15 |
+| [Concepts](concepts/_index.md) | 1 | 891 | 2026-04-17 |
 | [Queries](queries/_index.md) | 0 | 0 | — |
-| **Total** | **22327** | **11,853,594** | |
+| **Total** | **22235** | **9,756,846** | |
 
 ## Recently Updated
 
-- [[a-abeid]] A. Abeid (players) — 2026-04-18
-- [[a-abid]] A. Abid (players) — 2026-04-18
-- [[a-aceves]] A. Aceves (players) — 2026-04-18
-- [[a-adelgaard]] A. Adelgaard (players) — 2026-04-18
-- [[a-ademi]] A. Ademi (players) — 2026-04-18
-- [[a-aganovic]] A. Aganović (players) — 2026-04-18
-- [[a-agyeman]] A. Agyeman (players) — 2026-04-18
-- [[a-ahmed-fatah]] A. Ahmed Fatah (players) — 2026-04-18
-- [[a-ait-boudlal]] A. Ait Boudlal (players) — 2026-04-18
-- [[a-ajdini]] A. Ajdini (players) — 2026-04-18
-- [[a-al-hamlawi]] A. Al Hamlawi (players) — 2026-04-18
 - [[a-al-yuhaybi]] A. Al Yuhaybi (players) — 2026-04-18
-- [[a-alaniz]] A. Alaniz (players) — 2026-04-18
-- [[a-alegue]] A. Alégué (players) — 2026-04-18
-- [[a-alvarado]] A. Alvarado (players) — 2026-04-18
 - [[a-amaimouni]] A. Amaimouni (players) — 2026-04-18
-- [[a-anagnostopoulos]] A. Anagnostopoulos (players) — 2026-04-18
-- [[a-andersson]] Å. Andersson (players) — 2026-04-18
-- [[a-angulo]] A. Angulo (players) — 2026-04-18
 - [[a-annous]] A. Annous (players) — 2026-04-18
+- [[a-anselmino]] A. Anselmino (players) — 2026-04-18
+- [[a-braman]] A. Braman (players) — 2026-04-18
+- [[a-britton]] A. Britton (players) — 2026-04-18
+- [[a-bryan]] A. Bryan (players) — 2026-04-18
+- [[a-carey]] A. Carey (players) — 2026-04-18
+- [[a-cassidy]] A. Cassidy (players) — 2026-04-18
+- [[a-castro-montes]] A. Castro-Montes (players) — 2026-04-18
+- [[a-chambers]] A. Chambers (players) — 2026-04-18
+- [[a-chovan]] A. Chovan (players) — 2026-04-18
+- [[a-connor-mcclean]] A. Connor-McClean (players) — 2026-04-18
+- [[a-crookston]] A. Crookston (players) — 2026-04-18
+- [[a-davies]] A. Davies (players) — 2026-04-18
+- [[a-diarra]] A. Diarra (players) — 2026-04-18
+- [[a-dieme]] A. Dieme (players) — 2026-04-18
+- [[a-diousse]] A. Dioussé (players) — 2026-04-18
+- [[a-golambeckis]] A. Golambeckis (players) — 2026-04-18
+- [[a-gueye]] A. Gueye (players) — 2026-04-18

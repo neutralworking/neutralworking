@@ -2,12 +2,12 @@
 title: Joe Mendes
 category: players
 tags: [CD, Samsunspor, Sweden, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Samsunspor. Archetype: Sprinter-Dribbler.
 person_id: 12727
-backlinks: [sprinter, colossus, samsunspor]
+backlinks: [sprinter, samsunspor]
 ---
 
 # Joe Mendes
@@ -21,27 +21,18 @@ backlinks: [sprinter, colossus, samsunspor]
 | **Nation** | Sweden |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[colossus]] Colossus |
-| **Role Score** | 73 |
 | **Level** | 79 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Joe Mendes projects primarily as a CD with a `Sprinter-Dribbler` lean. The strongest database support comes from Pace, Balance, and First Touch.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus with model support score `73`.
+- Best-fit role is `Colossus` with model support score `73`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Pace, Balance, and First Touch.
@@ -72,14 +63,13 @@ Joe Mendes projects primarily as a CD with a `Sprinter-Dribbler` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,6 +95,6 @@ Joe Mendes projects primarily as a CD with a `Sprinter-Dribbler` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

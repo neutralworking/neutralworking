@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WD at Sevilla. Archetype: Creator.
 person_id: 12610
-backlinks: [creator, fullback, sevilla]
+backlinks: [creator, sevilla]
 ---
 
 # Jesus Navas
@@ -21,26 +21,18 @@ backlinks: [creator, fullback, sevilla]
 | **Nation** | Spain |
 | **Age** | 40 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[fullback]] Fullback |
 | **Level** | 76 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CM Elegant Creator Flea Man City, Valencia ESP B 80.9 Chance Creation, Dribbling, Composure He has also begun scoring more, with his haul of 12 goals from the 2014-15 season representing the first time he has reached double figures in the Premier League. Injury has hampered him recently but when he has played he has elevated City's game to a higher plane, bringing out the the best in the gifted players around him, especially Sergio Agüero and, increasingly, Raheem Sterling. He helped Spain reached Euro 2016 and is likely to gain his 100th cap at the tournament.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[fullback]] Fullback.
+- Best-fit role is `Fullback`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Crossing, and Skills.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -75,14 +67,13 @@ CM Elegant Creator Flea Man City, Valencia ESP B 80.9 Chance Creation, Dribbling
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 2.8m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

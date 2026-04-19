@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WD at Blackpool. Archetype: Powerhouse-Cover.
 person_id: 12310
-backlinks: [powerhouse, corner-back, blackpool]
+backlinks: [powerhouse, blackpool]
 ---
 
 # James Husband
@@ -21,26 +21,18 @@ backlinks: [powerhouse, corner-back, blackpool]
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
-| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 75 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Left-back whose experience keeps him solid defensively and whose positioning is generally sound, but at 32 his recovery pace is compromised and his attacking contribution is minimal. He's competent in a deep block, exposed if asked to press high. Veteran squad piece, nothing aspirational.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back.
+- Best-fit role is `Corner Back`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Most bankable strengths show up in Awareness, Jumping, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -71,14 +63,13 @@ Left-back whose experience keeps him solid defensively and whose positioning is 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

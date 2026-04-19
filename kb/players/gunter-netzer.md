@@ -2,10 +2,10 @@
 title: Gunter Netzer
 category: players
 tags: [CM, Germany, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at —. Archetype: Creator-Passer.
+summary: CM at None. Archetype: Creator-Passer.
 person_id: 11559
 backlinks: [creator]
 ---
@@ -17,13 +17,13 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Germany |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Passer |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -39,13 +39,6 @@ class: playmaker
 - Soviet Union couldn’t get close to him as they were thrashed 3-0 in the Brussels showpiece.
 - Sadly, Netzer wouldn’t shine on the international stage again due to the presence of the great Wolfgang Overath, whom he was incompatible with.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
 - Best-fit role is `Metodista` with model support score `90`.
@@ -60,14 +53,13 @@ class: playmaker
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -78,8 +70,8 @@ class: playmaker
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

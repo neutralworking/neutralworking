@@ -2,31 +2,17 @@
 title: BSC Young Boys
 category: clubs
 tags: [Swiss Super League, Switzerland]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: BSC Young Boys. 29 players in database.
+summary: BSC Young Boys. 27 players in database.
 ---
 
 # BSC Young Boys
 
 **League**: Swiss Super League  
 **Nation**: Switzerland  
-**Players in DB**: 29
-
-## Identity
-
-- Database coverage is deepest in CM (8), WF (5), and GK (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Sprinter (9), Creator (6), and Destroyer (5) across the current squad.
-- Average available overall grade sits at 67.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 27
 
 ## Squad
 
@@ -43,12 +29,10 @@ summary: BSC Young Boys. 29 players in database.
 | [[edimilson-fernandes]] Edimilson Fernandes | CM | Destroyer-Passer | 64.0 |
 | [[kastriot-imeri]] Kastriot Imeri | CM | Sprinter | 74.0 |
 | [[r-raveloson]] R. Raveloson | CM | Destroyer-Target | 64.0 |
-| [[s-bukinac]] S. Bukinac | CM | Cover-Creator | 67.0 |
 | [[sandro-lauper]] Sandro Lauper | CM | Sprinter | 68.0 |
-| [[y-valery]] Y. Valery | CM | Sprinter-Destroyer | 66.0 |
-| [[dario-marzino]] Dario Marzino | GK | GK | — |
-| [[david-von-ballmoos]] David von Ballmoos | GK | GK | — |
-| [[marvin-keller]] Marvin Keller | GK | GK | — |
+| [[dario-marzino]] Dario Marzino | GK | GK | None |
+| [[david-von-ballmoos]] David von Ballmoos | GK | GK | None |
+| [[marvin-keller]] Marvin Keller | GK | GK | None |
 | [[loris-benito]] Loris Benito | WD | Engine | 66.0 |
 | [[ryan-andrews]] Ryan Andrews | WD | Sprinter | 61.0 |
 | [[saidy-janko]] Saidy Janko | WD | Sprinter | 64.0 |
@@ -58,6 +42,6 @@ summary: BSC Young Boys. 29 players in database.
 | [[ebrima-colley]] Ebrima Colley | WF | Creator | 70.0 |
 | [[joel-monteiro]] Joël Monteiro | WF | Sprinter-Dribbler | 68.0 |
 | [[d-pech]] D. Pech | WM | Creator-Cover | 68.0 |
-| O. Mambwa | — | Creator-Striker | — |
-| Rhodri Smith | — | Destroyer-Creator | — |
-| S. Córdova | — | Creator-Striker | — |
+| [[o-mambwa]] O. Mambwa | None | Creator-Striker | None |
+| [[rhodri-smith]] Rhodri Smith | None | Destroyer-Creator | None |
+| [[s-cordova]] S. Córdova | None | Creator-Striker | None |

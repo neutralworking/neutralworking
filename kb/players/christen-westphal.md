@@ -5,7 +5,7 @@ tags: [CD, Portland Thorns, United States]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Portland Thorns. Archetype: —.
+summary: CD at Portland Thorns. Archetype: None.
 person_id: 9575
 backlinks: [portland-thorns]
 ---
@@ -20,22 +20,11 @@ backlinks: [portland-thorns]
 | **Club** | Portland Thorns |
 | **Nation** | United States |
 | **Age** | 32 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-Christen Westphal is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,11 +41,10 @@ Christen Westphal is currently a roster-level CD entry in the KB. The page shoul
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

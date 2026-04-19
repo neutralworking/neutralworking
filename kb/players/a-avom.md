@@ -2,7 +2,7 @@
 title: A. Avom
 category: players
 tags: [WM, Lorient, Creator-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Lorient. Archetype: Creator-Cover.
@@ -18,24 +18,17 @@ backlinks: [creator, lorient]
 |---|---|
 | **Position** | WM |
 | **Club** | Lorient |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Cover |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A. Avom is a Warrior wide midfielder, suited to a Tornante role, combining strong physical attributes with surprising composure and creativity for his archetype, excelling in tackling and interceptions. However, his moderate technical and tactical pillars, alongside a limited mental aspect, suggest inconsistency and highlight weaknesses in long-range passing, blocking, and mid-range distribution. This player embodies the modern 'engine' wide midfielder, contributing significantly to the high press and covering ground. For a director, Avom presents a high-energy option for defensive work rate in wide areas, but his distribution limitations necessitate a system that simplifies his offensive decision-making.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A. Avom is a Warrior wide midfielder, suited to a Tornante role, combining stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +93,7 @@ A. Avom is a Warrior wide midfielder, suited to a Tornante role, combining stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

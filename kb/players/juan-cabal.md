@@ -2,12 +2,12 @@
 title: Juan Cabal
 category: players
 tags: [CD, Juventus, Colombia, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Juventus. Archetype: Destroyer.
 person_id: 13120
-backlinks: [destroyer, distributor, juventus]
+backlinks: [destroyer, juventus]
 ---
 
 # Juan Cabal
@@ -21,27 +21,18 @@ backlinks: [destroyer, distributor, juventus]
 | **Nation** | Colombia |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[distributor]] Distributor |
-| **Role Score** | 71 |
 | **Level** | 77 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Left-back who brings respectable pace and an ability to progress the ball through dribbling and positional intelligence down the flank. His defensive positioning is solid if unspectacular, and he reads the game competently, but he occasionally overcommits to attacking phases and his aerially vulnerable. A reliable Serie A starter with international pedigree, though not yet operating at the elite Cambiaso level.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[distributor]] Distributor with model support score `71`.
+- Best-fit role is `Distributor` with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Marking, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -76,14 +67,13 @@ Left-back who brings respectable pace and an ability to progress the ball throug
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ Left-back who brings respectable pace and an ability to progress the ball throug
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

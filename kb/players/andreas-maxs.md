@@ -2,7 +2,7 @@
 title: Andreas Maxsø
 category: players
 tags: [CD, Colorado Rapids, Denmark, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Colorado Rapids. Archetype: Powerhouse-Cover.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, colorado-rapids]
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
 | **Level** | 78 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Andreas Maxsø projects primarily as a CD with a `Powerhouse-Cover` lean. The strongest database support comes from Jumping, Stamina, and First Touch.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Andreas Maxsø projects primarily as a CD with a `Powerhouse-Cover` lean. The st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.1m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,6 +102,6 @@ Andreas Maxsø projects primarily as a CD with a `Powerhouse-Cover` lean. The st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

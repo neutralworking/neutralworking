@@ -5,7 +5,7 @@ tags: [CF, Exeter City, Zimbabwe]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Exeter City. Archetype: —.
+summary: CF at Exeter City. Archetype: None.
 person_id: 7877
 backlinks: [exeter-city]
 ---
@@ -20,22 +20,15 @@ backlinks: [exeter-city]
 | **Club** | Exeter City |
 | **Nation** | Zimbabwe |
 | **Age** | 27 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Industrious, physical number nine who operates with genuine intensity and makes intelligent runs into the half-spaces, but his touch can betray him under pressure and he rarely creates for teammates. A functional, honest worker rather than a creative or prolific finisher.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Industrious, physical number nine who operates with genuine intensity and makes 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

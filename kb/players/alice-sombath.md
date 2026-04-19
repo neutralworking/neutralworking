@@ -5,7 +5,7 @@ tags: [CD, OL Féminin, France]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at OL Féminin. Archetype: —.
+summary: CD at OL Féminin. Archetype: None.
 person_id: 8264
 backlinks: [ol-feminin]
 ---
@@ -20,21 +20,15 @@ backlinks: [ol-feminin]
 | **Club** | OL Féminin |
 | **Nation** | France |
 | **Age** | 22 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 82 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back with genuine attacking thrust—she's not just defending and hoofing it, but genuinely progressing play into the half-spaces with intelligent positioning and a willingness to invert into midfield. Her reading of the game is sharp, almost impish in how she threads passes through congestion. The weakness is stamina consistency over 90 minutes; she can drift out of matches when the tempo drops, and her defensive positioning against direct runners requires sharper anticipation than she currently shows.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,13 +42,13 @@ A left-back with genuine attacking thrust—she's not just defending and hoofing
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 27.2m |
-| Mid | EUR 32.0m |
-| Ceiling | EUR 38.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

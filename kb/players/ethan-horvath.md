@@ -2,7 +2,7 @@
 title: Ethan Horvath
 category: players
 tags: [GK, Sheffield Wednesday, United States, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Sheffield Wednesday. Archetype: GK.
@@ -22,20 +22,13 @@ backlinks: [gk, sheffield-wednesday]
 | **Age** | 30 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An American goalkeeper with solid shot-stopping credentials and adequate distribution for a mid-table Championship side, though his positioning in one-on-ones can be erratic and his claim on crosses is unreliable. He's a capable deputy or starter in a team that doesn't demand sweeper-keeper sophistication, but he lacks the commanding presence or ball-playing range that modern football increasingly requires even at this level. Dependable rather than dynamic.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,14 +60,13 @@ An American goalkeeper with solid shot-stopping credentials and adequate distrib
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ An American goalkeeper with solid shot-stopping credentials and adequate distrib
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

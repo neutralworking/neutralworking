@@ -2,7 +2,7 @@
 title: Christopher Wooh
 category: players
 tags: [CD, Rennes, Cameroon, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Rennes. Archetype: Cover.
@@ -23,18 +23,12 @@ backlinks: [cover, rennes]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 71 |
 | **Overall** | 63.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-sided centre-back with genuine athleticism and a willingness to carry the ball into the half-space—rare qualities for a defender in the Russian game. Wooh reads the room reasonably well and isn't afraid of the physical contest, but his decision-making under pressure remains inconsistent, and he can be susceptible to quick, direct play that forces him to commit early. For a 24-year-old at Spartak, he's a solid rotation option with room to grow, though his ceiling is probably a 82-84 player at a top-five league; he lacks the composure or positioning excellence you'd want from a true linchpin.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ A left-sided centre-back with genuine athleticism and a willingness to carry the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.3m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,7 +99,7 @@ A left-sided centre-back with genuine athleticism and a willingness to carry the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

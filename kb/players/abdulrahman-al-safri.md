@@ -5,7 +5,7 @@ tags: [CM, Al-Fayha, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Al-Fayha. Archetype: —.
+summary: CM at Al-Fayha. Archetype: None.
 person_id: 7790
 backlinks: [al-fayha]
 ---
@@ -20,22 +20,11 @@ backlinks: [al-fayha]
 | **Club** | Al-Fayha |
 | **Nation** | Saudi Arabia |
 | **Age** | 33 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-Abdulrahman Al-Safri is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +41,10 @@ Abdulrahman Al-Safri is currently a roster-level CM entry in the KB. The page sh
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

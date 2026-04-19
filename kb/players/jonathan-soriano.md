@@ -5,9 +5,9 @@ tags: [CF, Spain, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Sprinter.
+summary: CF at None. Archetype: Sprinter.
 person_id: 3540
-backlinks: [sprinter, target-forward]
+backlinks: [sprinter]
 ---
 
 # Jonathan Soriano
@@ -17,30 +17,22 @@ backlinks: [sprinter, target-forward]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 40 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 43 |
 | **Overall** | 45.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jonathan Soriano projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Acceleration, Aerial Duels, and Pace.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[target-forward]] Target Forward.
+- Best-fit role is `Target Forward`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Aerial Duels, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -70,11 +62,10 @@ Jonathan Soriano projects primarily as a CF with a `Sprinter` lean. The stronges
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

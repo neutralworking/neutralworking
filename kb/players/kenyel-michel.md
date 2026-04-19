@@ -5,7 +5,7 @@ tags: [CF, Costa Rica]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 28378
 ---
 
@@ -16,25 +16,14 @@ person_id: 28378
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Costa Rica |
 | **Age** | 21 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
-
-## Snapshot
-
-Kenyel Michel is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Role Fit
 
@@ -44,23 +33,16 @@ Kenyel Michel is currently a roster-level CF entry in the KB. The page should be
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.1m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
 - Live/reporting evidence is thin, so this page leans heavily on database output.
 - Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
-
-## Evidence Ledger
-
-| Evidence Type | Source | Date | Strength | Note |
-|---|---|---|---|---|
-| Compile baseline | Chief Scout DB | 2026-04-18 | Low | Only roster-level identity fields were available at compile time. |

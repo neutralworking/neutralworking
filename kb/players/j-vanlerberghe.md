@@ -5,7 +5,7 @@ tags: [CM, Powerhouse-Passer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at —. Archetype: Powerhouse-Passer.
+summary: CM at None. Archetype: Powerhouse-Passer.
 person_id: 26920
 backlinks: [powerhouse]
 ---
@@ -17,25 +17,18 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse-Passer |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 41.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Vanlerberghe is a Tuttocampista with a moderate physical presence and notable stamina, jumping, and marking abilities, suggesting a potential role as a destroyer or ball winner. However, his technical, tactical, and mental limitations are significant, and his lack of blocking and creative abilities makes him less effective in controlling the tempo of the game. A club seeking a basic, physically capable midfielder for depth might consider him, but his upside is limited.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Vanlerberghe is a Tuttocampista with a moderate physical presence and notable st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

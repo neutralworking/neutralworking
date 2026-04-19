@@ -23,19 +23,12 @@ backlinks: [striker, nac-breda]
 | **Archetype** | [[striker]] Striker-Cover |
 | **Level** | 85 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Energetic central forward who works hard pressing and linking play, but lacks elite finishing technique or consistent movement into dangerous areas. Fits the Reims profile as a functional striker rather than a difference-maker.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Energetic central forward who works hard pressing and linking play, but lacks el
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 51.0m |
-| Ceiling | EUR 61.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

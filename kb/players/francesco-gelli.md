@@ -23,19 +23,12 @@ backlinks: [creator, frosinone]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 83 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Deep midfielder entering the back nine of his career with a workmanlike approach to the position. Doesn't break lines with any regularity and his pass selection is safe to the point of being predictable. A substitute's role at a mid-table Serie A club suits him, not a starting position.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Deep midfielder entering the back nine of his career with a workmanlike approach
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 24.0m |
-| Ceiling | EUR 28.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

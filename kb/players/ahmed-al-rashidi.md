@@ -19,22 +19,16 @@ backlinks: [gk, al-wehda]
 | **Position** | GK |
 | **Club** | Al Wehda |
 | **Nation** | Saudi Arabia |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Goalkeeper whose basic shot-stopping is acceptable but whose distribution and presence suggest he's a reserve-level operator. Limited sweep ability and seems uncomfortable with high defensive lines or modern pressing demands. Fills the gap competently without the profile of a contemporary number one.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +46,10 @@ Goalkeeper whose basic shot-stopping is acceptable but whose distribution and pr
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

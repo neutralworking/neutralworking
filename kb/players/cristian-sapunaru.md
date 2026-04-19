@@ -2,10 +2,10 @@
 title: Cristian Săpunaru
 category: players
 tags: [WD, Romania, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WD at —. Archetype: Powerhouse-Cover.
+summary: WD at None. Archetype: Powerhouse-Cover.
 person_id: 9802
 backlinks: [powerhouse]
 ---
@@ -17,24 +17,18 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Romania |
 | **Age** | 42 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
 | **Level** | 65 |
 | **Overall** | 63.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Cristian Săpunaru projects primarily as a WD with a `Powerhouse-Cover` lean. The strongest database support comes from Aggression, Aerial Duels, and Physical.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ Cristian Săpunaru projects primarily as a WD with a `Powerhouse-Cover` lean. Th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,6 +94,6 @@ Cristian Săpunaru projects primarily as a WD with a `Powerhouse-Cover` lean. Th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

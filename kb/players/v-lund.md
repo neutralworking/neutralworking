@@ -2,7 +2,7 @@
 title: V. Lund
 category: players
 tags: [CM, Vejle, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Vejle. Archetype: Destroyer.
@@ -26,25 +26,55 @@ backlinks: [destroyer, vejle]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+V. Lund projects primarily as a CM with a `Destroyer` lean. The strongest database support comes from Blocking, Concentration, and Discipline.
+
+## Role Fit
+
+- Best-fit role is `Tuttocampista` with model support score `72`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Blocking, Concentration, and Discipline.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Blocking, Concentration, and Discipline.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Blocking | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Concentration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Discipline | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Communication | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Composure | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Drive | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Duels | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Leadership | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Blocking | ███████░░░ 7/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Discipline | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Composure | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
-| Leadership | █████░░░░░ 5/10 |
-| Pass Accuracy | █████░░░░░ 5/10 |
-| Tackling | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Awareness | ████░░░░░░ 4/10 |
-| Intensity | ████░░░░░░ 4/10 |
-| Interceptions | ████░░░░░░ 4/10 |
-| Mental | ████░░░░░░ 4/10 |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +84,10 @@ backlinks: [destroyer, vejle]
 - **Pressure (JP)**: 61
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

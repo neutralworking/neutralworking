@@ -2,10 +2,10 @@
 title: A. Dimitrov
 category: players
 tags: [GK, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: GK at —. Archetype: GK.
+summary: GK at None. Archetype: GK.
 person_id: 25083
 backlinks: [gk]
 ---
@@ -17,24 +17,18 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 75 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Dimitrov projects primarily as a GK with a `GK` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +43,13 @@ A. Dimitrov projects primarily as a GK with a `GK` lean. The strongest database 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -81,5 +75,5 @@ A. Dimitrov projects primarily as a GK with a `GK` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

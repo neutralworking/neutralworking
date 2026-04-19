@@ -2,10 +2,10 @@
 title: Claude Makélélé
 category: players
 tags: [DM, France, Destroyer-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: DM at —. Archetype: Destroyer-Passer.
+summary: DM at None. Archetype: Destroyer-Passer.
 person_id: 9661
 backlinks: [destroyer]
 ---
@@ -17,25 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | France |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Passer |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 CM	Calm	Guardian	Anchor	Real Madrid	FRA	B	85.5			In his playing career, which ended at Paris Saint-Germain, Makélélé also played for Nantes, Olympique de Marseille, Celta Vigo, Real Madrid and Chelsea. He won league titles in France, Spain and England. Makélélé was a French international for 13 years, and part of the team which reached the final of the 2006 FIFA World Cup.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -51,14 +44,13 @@ CM	Calm	Guardian	Anchor	Real Madrid	FRA	B	85.5			In his playing career, which en
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -69,4 +61,4 @@ CM	Calm	Guardian	Anchor	Real Madrid	FRA	B	85.5			In his playing career, which en
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

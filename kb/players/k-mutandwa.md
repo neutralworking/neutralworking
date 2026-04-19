@@ -2,12 +2,12 @@
 title: K. Mutandwa
 category: players
 tags: [CF, SV Ried, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at SV Ried. Archetype: Striker.
 person_id: 24021
-backlinks: [striker, prima-punta, sv-ried]
+backlinks: [striker, sv-ried]
 ---
 
 # K. Mutandwa
@@ -18,30 +18,21 @@ backlinks: [striker, prima-punta, sv-ried]
 |---|---|
 | **Position** | CF |
 | **Club** | SV Ried |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[prima-punta]] Prima Punta |
-| **Role Score** | 71 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 K. Mutandwa is a quintessential Poacher, demonstrating strong finishing instincts from both close and long range, underscored by excellent composure in front of goal and reliability from the spot. While his pass accuracy is surprisingly good, a notable lack of guile and creativity limits his ability to contribute outside of pure goalscoring chances. His directness and focus on goalscoring align with traditional number nine roles, fitting best into systems designed to get the ball into dangerous areas for him to convert. A striker whose primary value is putting the ball in the net, he offers clear offensive output for teams seeking a dedicated goal threat, but his limited mental pillar and issues with discipline represent risk factors.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[prima-punta]] Prima Punta with model support score `71`.
+- Best-fit role is `Prima Punta` with model support score `71`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Penalties, and Carries.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -68,14 +59,13 @@ K. Mutandwa is a quintessential Poacher, demonstrating strong finishing instinct
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +91,7 @@ K. Mutandwa is a quintessential Poacher, demonstrating strong finishing instinct
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

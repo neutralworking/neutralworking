@@ -2,10 +2,10 @@
 title: Chancel Mbemba
 category: players
 tags: [CD, DR Congo]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 28454
 ---
 
@@ -16,24 +16,18 @@ person_id: 28454
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | DR Congo |
 | **Age** | 31 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 49.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Chancel Mbemba projects primarily as a CD with a `None` lean. The strongest database support comes from Pass Range, Aerial Duels, and Awareness.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,13 +61,13 @@ Chancel Mbemba projects primarily as a CD with a `None` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.1m |
-| Mid | EUR 2.5m |
-| Ceiling | EUR 21.0m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -90,5 +84,5 @@ Chancel Mbemba projects primarily as a CD with a `None` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 10 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 10 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |

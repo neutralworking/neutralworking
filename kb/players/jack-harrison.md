@@ -2,12 +2,12 @@
 title: Jack Harrison
 category: players
 tags: [WF, Leeds United, England, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Leeds United. Archetype: Creator.
 person_id: 12123
-backlinks: [creator, wide-playmaker, leeds-united]
+backlinks: [creator, leeds-united]
 ---
 
 # Jack Harrison
@@ -21,27 +21,18 @@ backlinks: [creator, wide-playmaker, leeds-united]
 | **Nation** | England |
 | **Age** | 29 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
-| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An English winger capable of sustaining possession and working intelligent angles down the flank, with good crossing ability and the fitness to influence entire matches. That said, he lacks explosive pace to consistently beat defenders one-on-one and can look pedestrian against high-intensity pressing. Reliable squad option rather than a game-changer.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `79`.
+- Best-fit role is `Wide Playmaker` with model support score `79`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -72,14 +63,13 @@ An English winger capable of sustaining possession and working intelligent angle
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 7.6m |
-| Mid | EUR 31.0m |
-| Ceiling | EUR 37.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -107,11 +97,11 @@ An English winger capable of sustaining possession and working intelligent angle
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

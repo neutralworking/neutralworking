@@ -22,20 +22,13 @@ backlinks: [sprinter, queens-park-rangers]
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 83 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Direct, explosive winger with genuine pace and dribbling skills; creates chaos in transition but inconsistent finishing and defensive effort limit him—flaky mentality on display regularly.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Direct, explosive winger with genuine pace and dribbling skills; creates chaos i
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 24.0m |
-| Ceiling | EUR 28.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

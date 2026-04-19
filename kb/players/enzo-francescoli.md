@@ -2,10 +2,10 @@
 title: Enzo Francescoli
 category: players
 tags: [CM, Italy]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 10715
 ---
 
@@ -16,25 +16,18 @@ person_id: 10715
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Italy |
 | **Age** | 64 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 41 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM					URU	B	0.0		Elegance	He played 73 times for the Uruguay national team between 1982 and his retirement in 1997, making him the most capped outfield player in Uruguayan international football at the time. He is regarded as one of the greatest players of Uruguay, perhaps the greatest to have never played for the two biggest clubs in the country. He was known for his classic and elegant style, like El Príncipe, in reference to Hannibal Ciocca, a former Uruguayan player from the 1930s and 40. He later was the only Uruguayan included by Pelé in the FIFA 100 list, and was chosen by the International Federation of Football History and Statistics as the sixth greatest player of his country and 24th of South America in the Twentieth Century. An attacking midfielder, he was considered an elite playmaker in a decadent period for the Celeste. With the Uruguay national football team, he participated in two World Cups, in 1986 and 1990, where Uruguay were defeated in the round of 16 on both occasions (against South American rivals and eventual champions Argentina, and hosts and semi-finalists Italy, respectively), after qualifying for the second round, in both cases, as one of the best third-placed teams in the first round. In his later career, Uruguay failed to qualify for the world cups of 1994 and 1998. Altogether, he played in eight World Cup matches, winning only one - against the then very inexperienced South Korea, and only 1–0. One of his greatest triumphs, while wearing the Celeste jersey, was saving the team in the 1989 Copa América. Francescoli played in four of the five games, winning three of those, and helped Uruguay to reach the final round with his performances, losing only to Brazil, who had the home field advantage. The Uruguayan team placed second overall in the tournament, with Francescoli scoring the first and last goals for the Celeste. Francescoli admired his rival Argentina, where he felt more appreciated than in his own homeland, where none of his three titles were much celebrated. In neighbouring Argentina, where he now lives, he played for the club River Plate, being one of the biggest fans of the club, with whom he played for many years; he was the leading scorer and a key player for the club's second Copa Libertadores triumph, and also won a total of five Argentine titles in the six years in which he served for the team. He later enjoyed success with two teams while playing in France, despite the bad results of his first French club, Racing Paris, and his ephemeral passage with his second French Club, Olympique de Marseille, where his performances proved decisive as the team won the title
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -51,11 +44,10 @@ CM					URU	B	0.0		Elegance	He played 73 times for the Uruguay national team betw
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -66,8 +58,8 @@ CM					URU	B	0.0		Elegance	He played 73 times for the Uruguay national team betw
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

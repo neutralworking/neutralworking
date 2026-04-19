@@ -5,7 +5,7 @@ tags: [CF, Cheltenham Town, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Cheltenham Town. Archetype: —.
+summary: CF at Cheltenham Town. Archetype: None.
 person_id: 9069
 backlinks: [cheltenham-town]
 ---
@@ -20,22 +20,15 @@ backlinks: [cheltenham-town]
 | **Club** | Cheltenham Town |
 | **Nation** | England |
 | **Age** | 31 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 69 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Aging fullback whose reading of the game keeps him functional at this level, but the legs have gone — he's neither quick enough to recover when caught high nor explosive enough in the final third to influence play. Positional awareness and set-piece delivery are his anchors, but you can't hide 31 years old in modern football. A depth piece, nothing more.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -48,11 +41,10 @@ Aging fullback whose reading of the game keeps him functional at this level, but
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

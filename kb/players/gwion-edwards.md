@@ -23,19 +23,12 @@ backlinks: [sprinter, ross-county]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 78 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gwion Edwards projects primarily as a CM with a `Sprinter` lean. The strongest database support comes from Balance, Acceleration, and Shielding.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Gwion Edwards projects primarily as a CM with a `Sprinter` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

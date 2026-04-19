@@ -2,31 +2,17 @@
 title: Udinese
 category: clubs
 tags: [Serie A, Italy]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Udinese. 37 players in database.
+summary: Udinese. 36 players in database.
 ---
 
 # Udinese
 
 **League**: Serie A  
 **Nation**: Italy  
-**Players in DB**: 37
-
-## Identity
-
-- Database coverage is deepest in CM (11), CD (5), and CF (4), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (7), Destroyer (6), and Cover (6) across the current squad.
-- Average available overall grade sits at 71.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 36
 
 ## Squad
 
@@ -35,14 +21,14 @@ summary: Udinese. 37 players in database.
 | [[christian-kabasele]] Christian Kabasele | CD | Destroyer | 69.0 |
 | [[enzo-ebosse]] Enzo Ebosse | CD | Destroyer | 72.0 |
 | [[jordan-zemura]] Jordan Zemura | CD | Creator-Sprinter | 68.0 |
-| [[neheun-perez]] Neheun Perez | CD | — | — |
+| [[neheun-perez]] Neheun Perez | CD | None | None |
 | [[saba-goglichidze]] Saba Goglichidze | CD | Destroyer-Passer | 54.0 |
 | [[adam-buksa]] Adam Buksa | CF | Target-Striker | 76.0 |
 | [[iker-bravo]] Iker Bravo | CF | Target-Dribbler | 68.0 |
 | [[keinan-davis]] Keinan Davis | CF | Creator-Striker | 78.0 |
 | [[vakoun-bayo]] Vakoun Bayo | CF | Creator | 77.0 |
 | [[arthur-atta]] Arthur Atta | CM | Creator-Dribbler | 75.0 |
-| [[david-pejicic]] David Pejičić | CM | — | — |
+| [[david-pejicic]] David Pejičić | CM | None | None |
 | [[hassane-kamara]] Hassane Kamara | CM | Powerhouse | 72.0 |
 | [[j-karlstrom]] J. Karlström | CM | Powerhouse-Destroyer | 68.0 |
 | [[jakub-piotrowski]] Jakub Piotrowski | CM | Cover-Creator | 78.0 |
@@ -60,12 +46,11 @@ summary: Udinese. 37 players in database.
 | [[gerard-deulofeu]] Gerard Deulofeu | WF | Creator | 75.0 |
 | [[isaac-success]] Isaac Success | WF | Creator | 79.0 |
 | [[nicolo-zaniolo]] Nicolo Zaniolo | WF | Striker-Creator | 76.0 |
-| [[j-arizala]] J. Arizala | WM | Cover-Striker | 60.0 |
-| Antonio Tikvić | — | Cover | — |
-| Bor Žunec | — | — | — |
-| Federico Mosca | — | — | — |
-| J. Ekkelenkamp | — | Powerhouse-Creator | — |
-| Joel Malusà | — | — | — |
-| Matteo Palma | — | Cover | — |
-| Raymond Asante | — | Cover | — |
-| Samuel John Nwachukwu | — | — | — |
+| [[antonio-tikvic]] Antonio Tikvić | None | Cover | None |
+| [[bor-zunec]] Bor Žunec | None | None | None |
+| [[federico-mosca]] Federico Mosca | None | None | None |
+| [[j-ekkelenkamp]] J. Ekkelenkamp | None | Powerhouse-Creator | None |
+| [[joel-malusa]] Joel Malusà | None | None | None |
+| [[matteo-palma]] Matteo Palma | None | Cover | None |
+| [[raymond-asante]] Raymond Asante | None | Cover | None |
+| [[samuel-john-nwachukwu]] Samuel John Nwachukwu | None | None | None |

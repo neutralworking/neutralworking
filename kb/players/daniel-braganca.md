@@ -1,11 +1,13 @@
 ---
 title: Daniel Bragança
 category: players
-tags: [CM, Sporting CP, Portugal, Dribbler-Sprinter]
-updated: 2026-04-18
+tags: [CM, Sporting CP
+, Portugal, Dribbler-Sprinter]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Sporting CP. Archetype: Dribbler-Sprinter.
+summary: CM at Sporting CP
+. Archetype: Dribbler-Sprinter.
 person_id: 9911
 backlinks: [dribbler, sporting-cp]
 ---
@@ -17,25 +19,19 @@ backlinks: [dribbler, sporting-cp]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Sporting CP |
+| **Club** | Sporting CP
+ |
 | **Nation** | Portugal |
 | **Age** | 26 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 82 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Bragança's Dribbler-Sprinter archetype is marked by his exceptional technical ability, pace, and acceleration, making him a formidable opponent in one-on-one situations, but his limited tactical awareness and mental discipline may lead to issues with maintaining focus and providing defensive solidity, suggesting that he would thrive in a team that values technical proficiency and can provide him with a clear, structured role to excel in, with a director of football likely to view him as a valuable asset in a midfield requiring a high level of creativity and flair.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +66,13 @@ Bragança's Dribbler-Sprinter archetype is marked by his exceptional technical a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 9.5m |
-| Mid | EUR 27.0m |
-| Ceiling | EUR 32.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +98,7 @@ Bragança's Dribbler-Sprinter archetype is marked by his exceptional technical a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 39 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 39 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

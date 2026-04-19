@@ -2,31 +2,17 @@
 title: Flamengo
 category: clubs
 tags: [Campeonato Brasileiro Série A, Brazil]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Flamengo. 26 players in database.
+summary: Flamengo. 27 players in database.
 ---
 
 # Flamengo
 
 **League**: Campeonato Brasileiro Série A  
 **Nation**: Brazil  
-**Players in DB**: 26
-
-## Identity
-
-- Database coverage is deepest in CM (10), WF (5), and AM (2), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (10), Striker (5), and Cover (4) across the current squad.
-- Average available overall grade sits at 61.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 27
 
 ## Squad
 
@@ -46,7 +32,8 @@ summary: Flamengo. 26 players in database.
 | [[m-vina]] M. Viña | CM | Destroyer-Creator | 45.0 |
 | [[n-de-la-cruz]] N. de la Cruz | CM | Creator-Destroyer | 72.0 |
 | [[jorginho]] Jorginho | DM | Cover-Passer | 71.0 |
-| [[cleiton]] Cleiton | GK | Powerhouse-Dribbler | — |
+| [[cleiton]] Cleiton | GK | Powerhouse-Dribbler | None |
+| [[danilo]] Danilo | WD | Destroyer-Dribbler | 73.0 |
 | [[emerson-royal]] Emerson Royal | WD | Powerhouse-Cover | 80.0 |
 | [[g-de-arrascaeta]] G. de Arrascaeta | WF | Creator-Striker | 74.0 |
 | [[g-plata]] G. Plata | WF | Creator-Striker | 71.0 |
@@ -54,7 +41,7 @@ summary: Flamengo. 26 players in database.
 | [[michael]] Michael | WF | Sprinter | 67.0 |
 | [[samuel-lino]] Samuel Lino | WF | Engine-Creator | 78.0 |
 | [[gerson]] Gerson | WM | Creator-Striker | 75.0 |
-| Caio Andrade | — | Striker-Creator | — |
-| Felipe Teresa | — | Creator-Striker | — |
-| Felipe Vieira | — | Cover-Striker | — |
-| Lucas Furtado | — | Cover | — |
+| [[caio-andrade]] Caio Andrade | None | Striker-Creator | None |
+| [[felipe-teresa]] Felipe Teresa | None | Creator-Striker | None |
+| [[felipe-vieira]] Felipe Vieira | None | Cover-Striker | None |
+| [[lucas-furtado]] Lucas Furtado | None | Cover | None |

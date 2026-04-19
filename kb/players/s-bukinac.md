@@ -1,13 +1,13 @@
 ---
 title: S. Bukinac
 category: players
-tags: [CM, Vojvodina, Cover-Creator]
-updated: 2026-04-14
+tags: [CM, BSC Young Boys, Cover-Creator]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Vojvodina. Archetype: Cover-Creator.
+summary: CM at BSC Young Boys. Archetype: Cover-Creator.
 person_id: 23874
-backlinks: [cover, vojvodina]
+backlinks: [cover, bsc-young-boys]
 ---
 
 # S. Bukinac
@@ -17,7 +17,7 @@ backlinks: [cover, vojvodina]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Vojvodina |
+| **Club** | BSC Young Boys |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[cover]] Cover-Creator |
@@ -26,25 +26,56 @@ backlinks: [cover, vojvodina]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+S. Bukinac projects primarily as a CM with a `Cover-Creator` lean. The strongest database support comes from Discipline, Pressing, and Through Balls.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `72`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Discipline, Pressing, and Through Balls.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Discipline, Pressing, and Through Balls.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Discipline | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Through Balls | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Vision | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Composure | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Concentration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Creativity | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Discipline | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Vision | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Composure | ██████░░░░ 6/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Creativity | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Tackling | ██████░░░░ 6/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Communication | █████░░░░░ 5/10 |
-| Drive | █████░░░░░ 5/10 |
-| Duels | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +85,10 @@ backlinks: [cover, vojvodina]
 - **Pressure (JP)**: 43
 - **Competitiveness**: 3/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

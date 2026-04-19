@@ -22,19 +22,13 @@ backlinks: [gk, chesterfield]
 | **Age** | 30 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Goalkeeper in his early thirties with the experience to manage a lower-league dressing room and distribution adequate for his level. Distribution off his boot is functional rather than progressive, and reflexes have predictably diminished with age. A safe pair of hands but nothing more—the definition of a journeyman stopper.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,13 +61,13 @@ Goalkeeper in his early thirties with the experience to manage a lower-league dr
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 15.3m |
-| Mid | EUR 18.0m |
-| Ceiling | EUR 21.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

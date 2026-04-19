@@ -5,7 +5,7 @@ tags: [CD, Portland Thorns]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Portland Thorns. Archetype: —.
+summary: CD at Portland Thorns. Archetype: None.
 person_id: 8925
 backlinks: [portland-thorns]
 ---
@@ -18,23 +18,13 @@ backlinks: [portland-thorns]
 |---|---|
 | **Position** | CD |
 | **Club** | Portland Thorns |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 40 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-Becky Sauerbrunn is currently a roster-level CD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -51,10 +41,10 @@ Becky Sauerbrunn is currently a roster-level CD entry in the KB. The page should
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: Kerim-Sam Alajbegović
 category: players
 tags: [CF, Red Bull Salzburg, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Red Bull Salzburg. Archetype: Striker-Creator.
 person_id: 24024
-backlinks: [striker, seconda-punta, red-bull-salzburg]
+backlinks: [striker, red-bull-salzburg]
 ---
 
 # Kerim-Sam Alajbegović
@@ -18,30 +18,21 @@ backlinks: [striker, seconda-punta, red-bull-salzburg]
 |---|---|
 | **Position** | CF |
 | **Club** | Red Bull Salzburg |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[seconda-punta]] Seconda Punta |
-| **Role Score** | 82 |
 | **Level** | 76 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Alajbegović, an Artisan destined for a Complete Forward role, exhibits strong technical skills, particularly in take-ons, composure, and passing accuracy, complemented by general physical strength that aids in duels. His guile allows him to navigate complex attacking situations, making him a direct threat. However, despite his overall strong physical attributes, he possesses specific physical weaknesses, coupled with limited tactical understanding and disciplinary concerns. This player's profile suggests a versatile attacker capable of operating across the front line, blending technical finesse with direct play, fitting into systems that value fluid attacking movement and individual brilliance. With an unknown age and career stage, Alajbegović presents an intriguing, raw talent for a club willing to develop a forward who combines flair and directness, despite significant risk factors.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `82`.
+- Best-fit role is `Seconda Punta` with model support score `82`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Duels, Aggression, and Creativity.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -68,14 +59,13 @@ Alajbegović, an Artisan destined for a Complete Forward role, exhibits strong t
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,7 +90,7 @@ Alajbegović, an Artisan destined for a Complete Forward role, exhibits strong t
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [CF, Portland Thorns]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Portland Thorns. Archetype: —.
+summary: CF at Portland Thorns. Archetype: None.
 person_id: 12095
 backlinks: [portland-thorns]
 ---
@@ -18,24 +18,13 @@ backlinks: [portland-thorns]
 |---|---|
 | **Position** | CF |
 | **Club** | Portland Thorns |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 24 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-Izzy D'Aquila is currently a roster-level CF entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -48,11 +37,10 @@ Izzy D'Aquila is currently a roster-level CF entry in the KB. The page should be
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

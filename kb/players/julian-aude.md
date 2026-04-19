@@ -2,12 +2,12 @@
 title: Julián Aude
 category: players
 tags: [WD, Los Angeles Galaxy, Argentina, Dribbler-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Los Angeles Galaxy. Archetype: Dribbler-Sprinter.
 person_id: 13166
-backlinks: [dribbler, wing-back, los-angeles-galaxy]
+backlinks: [dribbler, los-angeles-galaxy]
 ---
 
 # Julián Aude
@@ -21,27 +21,18 @@ backlinks: [dribbler, wing-back, los-angeles-galaxy]
 | **Nation** | Argentina |
 | **Age** | 23 |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
-| **Best Role** | [[wing-back]] Wing-back |
-| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Julián Aude is a dynamic, left-footed attacker who excels at making inverted runs into half-spaces, creating opportunities for himself and others with his intelligent movement. He has a tendency to drift centrally, which can sometimes leave his team exposed on the flanks, but his ability to beat defenders with his quick feet and agility is a significant asset. Aude's decision-making in the final third can be erratic at times, leading to wasted chances, but his overall impact on the game is undeniable.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[wing-back]] Wing-back with model support score `74`.
+- Best-fit role is `Wing-back` with model support score `74`.
 - Primary archetype leans toward `Dribbler` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
@@ -72,14 +63,13 @@ Julián Aude is a dynamic, left-footed attacker who excels at making inverted ru
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 20.0m |
-| Ceiling | EUR 24.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +94,7 @@ Julián Aude is a dynamic, left-footed attacker who excels at making inverted ru
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

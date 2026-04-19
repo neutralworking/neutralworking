@@ -2,10 +2,10 @@
 title: Henry Riquelme
 category: players
 tags: [CM, 2 de Mayo, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at 2 de Mayo. Archetype: —.
+summary: CM at 2 de Mayo. Archetype: None.
 person_id: 30083
 backlinks: [2-de-mayo]
 ---
@@ -20,22 +20,15 @@ backlinks: [2-de-mayo]
 | **Club** | 2 de Mayo |
 | **Nation** | Paraguay |
 | **Age** | 18 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 18.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Henry Riquelme projects primarily as a CM with a `—` lean. The strongest database support comes from Discipline, Through Balls, and Vision.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Henry Riquelme projects primarily as a CM with a `None` lean. The strongest database support comes from Discipline, Through Balls, and Vision.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ Henry Riquelme projects primarily as a CM with a `—` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,4 +78,4 @@ Henry Riquelme projects primarily as a CM with a `—` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 24 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 24 graded indicators available. |

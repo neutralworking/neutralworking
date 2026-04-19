@@ -2,12 +2,12 @@
 title: Idrissa Gueye
 category: players
 tags: [DM, Everton, Senegal, Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Everton. Archetype: Engine.
 person_id: 11917
-backlinks: [engine, anchor, everton]
+backlinks: [engine, everton]
 ---
 
 # Idrissa Gueye
@@ -21,27 +21,18 @@ backlinks: [engine, anchor, everton]
 | **Nation** | Senegal |
 | **Age** | 19 |
 | **Archetype** | [[engine]] Engine |
-| **Best Role** | [[anchor]] Anchor |
-| **Role Score** | 73 |
 | **Level** | 62 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young Senegalese defensive midfielder with physical presence and press intensity, but extremely limited Serie A experience at 19. Has potential trajectory as a box-to-box player but currently too green for regular top-flight deployment.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[anchor]] Anchor with model support score `73`.
+- Best-fit role is `Anchor` with model support score `73`.
 - Primary archetype leans toward `Engine` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Balance, First Touch, and Marking.
@@ -78,12 +69,11 @@ Young Senegalese defensive midfielder with physical presence and press intensity
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 4.4m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ Young Senegalese defensive midfielder with physical presence and press intensity
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

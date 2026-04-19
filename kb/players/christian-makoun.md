@@ -2,7 +2,7 @@
 title: Christian Makoun
 category: players
 tags: [CM, Levski Sofia, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Levski Sofia. Archetype: Striker.
@@ -18,15 +18,16 @@ backlinks: [striker, levski-sofia]
 |---|---|
 | **Position** | CM |
 | **Club** | Levski Sofia |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 26 |
 | **Archetype** | [[striker]] Striker |
 | **Level** | 76 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
+
 
 CountryVenezuela
 
@@ -35,6 +36,12 @@ ClubZamora
 PositionDefender/defensive midfield
 
 Born05 March 2000
+
+
+
+
+
+
 
 **
 
@@ -52,12 +59,9 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
  
 **September 2022 update** Makoun is now a familiar name in the MLS. After featuring 30 times for Inter Miami, he joined Charlotte FC at the start of 2022 before moving on to New England Revolution in August. There he is slowly settling in. “The players and coaches have welcomed me really well, it’s a big club, so I feel good here,” he said. Makoun made his debut for the Venezuela national team in March 2022, when he played 90 minutes in the World Cup qualifier against Argentina and picked up his second cap shortly after.
 
-## Canon Context
 
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
+
+
 
 ## Role Fit
 
@@ -92,14 +96,13 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -126,16 +129,17 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 CountryVenezuela
 
@@ -144,6 +148,12 @@ ClubZamora
 PositionDefender/defensive midfield
 
 Born05 March 2000
+
+
+
+
+
+
 
 **
 
@@ -159,6 +169,6 @@ A tall and strong left-footed defensive midfielder of Cameroonian origin, Makoun
  
 **October 2021 update** 2021 has been Makoun’s breakthrough year at Inter Miami with the centre-back being one of manager Phil Neville’s first names on the teamsheet. “We got him back for double sessions, by driving him every single day with his work ethic and now he’s an absolute fitness machine,” the Inter Miami coach explained. “He’s now at the level where technically, tactically and mentally he can play in any league in the world.” For the October World Cup qualifiers, Makoun was called up to the Venezuela squad for the first time.
  
-**September 2022 update** Makoun is now a familiar name ...
+**September 2022 update** Makoun is now a familia...
 
 </details>

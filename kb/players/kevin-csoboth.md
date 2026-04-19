@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WF at FC St. Gallen. Archetype: Sprinter.
 person_id: 13464
-backlinks: [sprinter, winger, fc-st-gallen]
+backlinks: [sprinter, fc-st-gallen]
 ---
 
 # Kevin Csoboth
@@ -21,26 +21,18 @@ backlinks: [sprinter, winger, fc-st-gallen]
 | **Nation** | Hungary |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[winger]] Winger |
 | **Level** | 84 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Kevin Csoboth projects primarily as a WF with a `Sprinter` lean. The strongest database support comes from Shielding, Balance, and Movement.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[winger]] Winger.
+- Best-fit role is `Winger`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Shielding, Balance, and Movement.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -67,14 +59,13 @@ Kevin Csoboth projects primarily as a WF with a `Sprinter` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 43.0m |
-| Ceiling | EUR 51.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

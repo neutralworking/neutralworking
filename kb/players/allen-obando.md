@@ -2,7 +2,7 @@
 title: Allen Obando
 category: players
 tags: [CF, Inter Miami CF, Ecuador, Target]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Inter Miami CF. Archetype: Target.
@@ -23,19 +23,12 @@ backlinks: [target, inter-miami-cf]
 | **Archetype** | [[target]] Target |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Allen Obando presents as a quintessential Target Man, whose exceptional jumping and heading ability make him a constant threat in the aerial duels, complemented by impressive composure and close-range finishing for his age. He consistently provides a physical focal point, linking play and converting chances effectively within the penalty area. However, his virtually non-existent contribution to defensive phases, particularly in marking and interceptions, means he offers little to nothing when possession is lost.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Allen Obando presents as a quintessential Target Man, whose exceptional jumping 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -97,7 +89,7 @@ Allen Obando presents as a quintessential Target Man, whose exceptional jumping 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

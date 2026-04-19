@@ -2,12 +2,12 @@
 title: Josué Casimir
 category: players
 tags: [WD, Auxerre, Guadeloupe, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Auxerre. Archetype: Creator.
 person_id: 13104
-backlinks: [creator, fullback, auxerre]
+backlinks: [creator, auxerre]
 ---
 
 # Josué Casimir
@@ -21,27 +21,18 @@ backlinks: [creator, fullback, auxerre]
 | **Nation** | Guadeloupe |
 | **Age** | 24 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[fullback]] Fullback |
-| **Role Score** | 75 |
 | **Level** | 81 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A winger-defender from the Caribbean who combines decent athleticism with a combative edge, though he's a rather raw article technically. His crossing is inconsistent and his ability to progress the ball through the half-spaces is limited, making him reliant on directness and athleticism. He's young enough that development is possible, but he'll need considerable work.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[fullback]] Fullback with model support score `75`.
+- Best-fit role is `Fullback` with model support score `75`.
 - Primary archetype leans toward `Creator` behaviour from a `WD` base.
 - Most bankable strengths show up in Pace, Acceleration, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -76,14 +67,13 @@ A winger-defender from the Caribbean who combines decent athleticism with a comb
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.3m |
-| Mid | EUR 21.0m |
-| Ceiling | EUR 25.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,7 +99,7 @@ A winger-defender from the Caribbean who combines decent athleticism with a comb
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

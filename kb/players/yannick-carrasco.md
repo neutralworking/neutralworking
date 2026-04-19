@@ -2,7 +2,7 @@
 title: Yannick Carrasco
 category: players
 tags: [WM, Al Shabab, Belgium, Creator-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Al Shabab. Archetype: Creator-Dribbler.
@@ -26,42 +26,53 @@ backlinks: [creator, al-shabab]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A left-sided winger with genuine directness—he still carries the ball with intent and will take defenders on the outside shoulder, which is rarer than it should be at this level. His deliveries from the byline remain dangerous, and he's disciplined enough to track back when required. The problem is his decision-making remains scattered; he'll force three passes into traffic when a simple switch is available, and his right foot is theatrical rather than functional. For a competitive Saudi side, he's a capable rotation piece with just enough craft to unlock a tired defence.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `65`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Pace, Acceleration, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Pace, Acceleration, and Balance.
+- Style traits point toward Two Footed, Direct, and Skill Moves in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pace | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Penalties | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pace | ██████████████████ 18/10 |
-| Acceleration | █████████████████ 17/10 |
-| Balance | █████████████████ 17/10 |
-| First Touch | █████████████████ 17/10 |
-| Movement | ████████████████ 16/10 |
-| Penalties | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Jumping | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Shielding | ██████████████ 14/10 |
-| Marking | ████████████ 12/10 |
-| Heading | ███████████ 11/10 |
-| Creativity | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **direct** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Trivela** (style) — severity 5/10
-- **Crossing Ability** (style) — severity 5/10
-- **big_game_player** (behavioral) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -71,3 +82,25 @@ A left-sided winger with genuine directness—he still carries the ball with int
 - **Pressure (JP)**: 35
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Direct** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Trivela** (style) — severity 5/10
+- **Crossing Ability** (style) — severity 5/10
+- **Big Game Player** (behavioral) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

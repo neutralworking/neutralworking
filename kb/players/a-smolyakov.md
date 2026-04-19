@@ -2,7 +2,7 @@
 title: A. Smolyakov
 category: players
 tags: [CM, LAFC, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at LAFC. Archetype: Cover.
@@ -18,24 +18,17 @@ backlinks: [cover, lafc]
 |---|---|
 | **Position** | CM |
 | **Club** | LAFC |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his awareness and tackling to break up opposition attacks, although his limited technical ability and guile restrict his ability to pick out decisive passes, and his weaknesses in creativity and blocking make him a liability in certain situations, making him a better fit for a team that values defensive solidity and uses a direct style, where his strengths can be maximized, and his weaknesses mitigated, with a coach who can work on his tactical awareness and technical ability, and his introverted personality requiring careful management to bring out his best performances.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -94,6 +87,6 @@ A. Smolyakov is a Metodista who excels in a deep-lying playmaker role, using his
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

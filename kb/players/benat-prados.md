@@ -23,19 +23,12 @@ backlinks: [cover, athletic-bilbao]
 | **Archetype** | [[cover]] Cover-Dribbler |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Tidy central midfielder with good positional discipline and reliable short-range passing, functioning as a safe option in Bilbao's engine room. Lacks dynamism and doesn't progress play quickly enough to unlock defences; best deployed as a supporting player rather than a ball-carrier.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +67,13 @@ Tidy central midfielder with good positional discipline and reliable short-range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 17.1m |
-| Mid | EUR 42.0m |
-| Ceiling | EUR 50.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

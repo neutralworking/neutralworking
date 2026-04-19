@@ -23,19 +23,12 @@ backlinks: [gk, bournemouth]
 | **Archetype** | [[gk]] GK |
 | **Level** | 72 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced goalkeeper whose primary value is as a clear-headed locker room presence and injury cover rather than an active player in a title race; his distribution is serviceable and he reads the game intelligently. At 38, his physical tools have inevitably declined — he's not commanding the area as he once did, and sharp forwards will find openings. Professional veteran, nothing more.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,14 +66,13 @@ Experienced goalkeeper whose primary value is as a clear-headed locker room pres
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

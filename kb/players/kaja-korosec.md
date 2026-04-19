@@ -5,7 +5,7 @@ tags: [CM, Paris FC, Slovenia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Paris FC. Archetype: —.
+summary: CM at Paris FC. Archetype: None.
 person_id: 13291
 backlinks: [paris-fc]
 ---
@@ -20,22 +20,15 @@ backlinks: [paris-fc]
 | **Club** | Paris FC |
 | **Nation** | Slovenia |
 | **Age** | 24 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 75 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Defender with competitive mentality and physicality but struggles with positioning discipline and can be exposed by skilled attackers in one-on-one situations.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Defender with competitive mentality and physicality but struggles with positioni
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,12 +2,11 @@
 title: K. Amani
 category: players
 tags: [CF, Ivory Coast]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 29167
-backlinks: [falso-nove]
 ---
 
 # K. Amani
@@ -17,30 +16,22 @@ backlinks: [falso-nove]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Ivory Coast |
 | **Age** | 27 |
-| **Archetype** | — |
-| **Best Role** | [[falso-nove]] Falso Nove |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 26.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-K. Amani projects primarily as a CF with a `—` lean. The strongest database support comes from Close Range, Composure, and Discipline.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+K. Amani projects primarily as a CF with a `None` lean. The strongest database support comes from Close Range, Composure, and Discipline.
 
 ## Role Fit
 
-- Best-fit role is [[falso-nove]] Falso Nove.
+- Best-fit role is `Falso Nove`.
 - Most bankable strengths show up in Close Range, Composure, and Discipline.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -70,9 +61,8 @@ K. Amani projects primarily as a CF with a `—` lean. The strongest database su
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -83,4 +73,4 @@ K. Amani projects primarily as a CF with a `—` lean. The strongest database su
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 22 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |

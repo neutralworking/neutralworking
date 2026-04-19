@@ -1,32 +1,18 @@
 ---
 title: Rapid
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Rapid. 35 players in database.
+summary: Rapid. 37 players in database.
 ---
 
 # Rapid
 
-**League**: —  
-**Nation**: —  
-**Players in DB**: 35
-
-## Identity
-
-- Database coverage is deepest in CM (10), WM (6), and WF (4), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Sprinter (10), Creator (8), and Cover (4) across the current squad.
-- Average available overall grade sits at 60.4, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**League**: None  
+**Nation**: None  
+**Players in DB**: 37
 
 ## Squad
 
@@ -40,6 +26,7 @@ summary: Rapid. 35 players in database.
 | [[c-braun]] C. Braun | CM | Sprinter-Passer | 60.0 |
 | [[catalin-vulturar]] Catalin Vulturar | CM | Sprinter | 65.0 |
 | [[constantin-grameni]] Constantin Grameni | CM | Powerhouse | 65.0 |
+| [[j-horn]] J. Horn | CM | Creator-Destroyer | 61.0 |
 | [[j-hromada]] J. Hromada | CM | Powerhouse-Creator | 64.0 |
 | [[k-ahoussou]] K. Ahoussou | CM | Destroyer-Powerhouse | 71.0 |
 | [[l-kramer]] L. Kramer | CM | Destroyer | 63.0 |
@@ -47,9 +34,10 @@ summary: Rapid. 35 players in database.
 | [[n-cvetkovic]] N. Cvetković | CM | Destroyer-Striker | 75.0 |
 | [[r-onea]] R. Onea | CM | Sprinter-Destroyer | 62.0 |
 | [[s-raux-yao]] S. Raux-Yao | CM | Destroyer-Powerhouse | 68.0 |
-| [[m-aioani]] M. Aioani | GK | GK | — |
-| [[p-gartler]] P. Gartler | GK | GK | — |
-| [[t-jambor]] T. Jambor | GK | Sprinter-Striker | — |
+| [[franz-stolz]] Franz Stolz | GK | GK | None |
+| [[m-aioani]] M. Aioani | GK | GK | None |
+| [[p-gartler]] P. Gartler | GK | GK | None |
+| [[t-jambor]] T. Jambor | GK | Sprinter-Striker | None |
 | [[a-baroan]] A. Baroan | WF | Sprinter-Creator | 65.0 |
 | [[l-schaub]] L. Schaub | WF | Powerhouse-Dribbler | 40.0 |
 | [[nikolaus-wurmbrand]] Nikolaus Wurmbrand | WF | Striker-Creator | 69.0 |
@@ -60,10 +48,10 @@ summary: Rapid. 35 players in database.
 | [[r-amane]] R. Amané | WM | Creator-Powerhouse | 69.0 |
 | [[r-pop]] R. Pop | WM | Sprinter-Dribbler | 32.0 |
 | [[t-christensen]] T. Christensen | WM | Creator-Striker | 64.0 |
-| A. Radulović | — | Striker-Creator | — |
-| C. Micovschi | — | Creator-Sprinter | — |
-| D. Hazrollaj | — | Creator-Striker | — |
-| E. Koljić | — | Target-Striker | — |
-| R. Bădescu | — | Cover | — |
-| T. Børkeeiet | — | Creator-Destroyer | — |
-| Talisson | — | Cover-Creator | — |
+| [[a-radulovic]] A. Radulović | None | Striker-Creator | None |
+| [[c-micovschi]] C. Micovschi | None | Creator-Sprinter | None |
+| [[d-hazrollaj]] D. Hazrollaj | None | Creator-Striker | None |
+| [[e-koljic]] E. Koljić | None | Target-Striker | None |
+| [[r-badescu]] R. Bădescu | None | Cover | None |
+| [[t-brkeeiet]] T. Børkeeiet | None | Creator-Destroyer | None |
+| [[talisson]] Talisson | None | Cover-Creator | None |

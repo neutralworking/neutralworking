@@ -23,19 +23,12 @@ backlinks: [striker, werder-bremen]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 44 |
 | **Overall** | 45.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker			PER	B	0.0	He is known for his scoring ability and headers.		He has spent most of his career in the Bundesliga, in two spells at Bayern Munich and three at Werder Bremen, winning 19 major trophies, 17 of which at Bayern. On 23 October 2010, Pizarro surpassed the 133 goals record previously reached by Giovane Élber, making him the top foreign scorer in German football history, when he scored with his team, Werder Bremen against Borussia Mönchengladbach.[4] As of 3 March 2016, Pizarro is the fifth highest goalscorer in Bundesliga history with 186 goals. A full international since 1999, Pizarro represented the Peru national football team at four Copa América tournaments.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ CF		Striker			PER	B	0.0	He is known for his scoring ability and headers.		He has
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Roland Sallai
 category: players
 tags: [WF, Galatasaray, Hungary, Striker-Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Galatasaray. Archetype: Striker-Engine.
@@ -26,38 +26,55 @@ backlinks: [striker, galatasaray]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 Sallai embodies the Virtuoso archetype, operating as an Inventor from an Inside Forward blueprint, demonstrating intelligent movement, exquisite first touch, and balance to excel in tight spaces and close-range finishing. His strong mental pillar allows him to be patient and composed in attacking situations, a hallmark of perceptive wide forwards. While tactically strong, his moderate technical pillar, coupled with weaknesses in discipline, clearances, and blocking, suggest he is a luxury player best deployed in systems that shield his defensive frailties. At peak career, he's a valuable, durable asset for a club that can integrate a creative, goal-threatening wide player from an R side market.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Target Forward` with model support score `59`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, First Touch, and Movement.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, First Touch, and Movement.
+- Style traits point toward Two Footed, Skill Moves, and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| First Touch | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Pace | ██████████████ 14/10 |
-| Physical | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Aggression | ████████░░ 8/10 |
-| Marking | ████████░░ 8/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **patient** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -67,3 +84,21 @@ Sallai embodies the Virtuoso archetype, operating as an Inventor from an Inside 
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Patient** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

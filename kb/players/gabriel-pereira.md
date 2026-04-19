@@ -2,7 +2,7 @@
 title: Gabriel Pereira
 category: players
 tags: [CM, Al-Rayyan, Brazil, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Al-Rayyan. Archetype: Cover.
@@ -23,19 +23,12 @@ backlinks: [cover, al-rayyan]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 80 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A heartbeat holding midfielder with the physical and tactical foundation to anchor possession phases—his awareness, reactions, and tackling create a defensive metronome, though limited mental range suggests predictability against press-resistant opponents. Strong in positional discipline and build-up progression, yet creativity absence and soft discipline record indicate he operates best in roles minimizing creative burden and defensive improvisation. Ideal for Copenhagen's high-press structure or comparable leagues where positional rigidity and reaction speed outweigh playmaking; poor fit for teams requiring midfield invention under chaos.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A heartbeat holding midfielder with the physical and tactical foundation to anch
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.2m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -106,7 +98,7 @@ A heartbeat holding midfielder with the physical and tactical foundation to anch
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [CM, New Zealand]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 28636
 ---
 
@@ -16,25 +16,18 @@ person_id: 28636
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | New Zealand |
 | **Age** | 26 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Callum McCowatt projects primarily as a CM with a `None` lean. The strongest database support comes from Close Range, Long Range, and Mid Range.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -62,13 +55,13 @@ Callum McCowatt projects primarily as a CM with a `None` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.3m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

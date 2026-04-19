@@ -2,12 +2,12 @@
 title: Josh Sargent
 category: players
 tags: [CF, Norwich City, United States, Target-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Norwich City. Archetype: Target-Dribbler.
 person_id: 13070
-backlinks: [target, shadow-striker, norwich-city]
+backlinks: [target, norwich-city]
 ---
 
 # Josh Sargent
@@ -21,27 +21,18 @@ backlinks: [target, shadow-striker, norwich-city]
 | **Nation** | United States |
 | **Age** | 26 |
 | **Archetype** | [[target]] Target-Dribbler |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
-| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 American number nine who runs well off the shoulder and creates space through movement in the box rather than outright technical brilliance. Touches can be heavy under pressure and he doesn't have the technical range to hold the ball up effectively or create for others; a penalty-box finisher first.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `80`.
+- Best-fit role is `Shadow Striker` with model support score `80`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Jumping, Physical, and Acceleration.
@@ -76,14 +67,13 @@ American number nine who runs well off the shoulder and creates space through mo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 19.0m |
-| Mid | EUR 52.0m |
-| Ceiling | EUR 62.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ American number nine who runs well off the shoulder and creates space through mo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

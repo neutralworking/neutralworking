@@ -22,20 +22,13 @@ backlinks: [powerhouse, heidenheim]
 | **Age** | 29 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 83 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An old-fashioned German number nine who thrives in chaotic box situations and aerial dominance. Kühlwetter's technical range is limited and he's immobile by modern standards, but he understands the darker arts of centre-forward play—screening the referee, occupying defenders, poaching at the far post. At 29 with limited sell-on value, he's pure utility.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ An old-fashioned German number nine who thrives in chaotic box situations and ae
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 26.0m |
-| Ceiling | EUR 31.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Ibrahim Šehić
 category: players
 tags: [GK, Konyaspor, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Konyaspor. Archetype: GK.
@@ -18,24 +18,17 @@ backlinks: [gk, konyaspor]
 |---|---|
 | **Position** | GK |
 | **Club** | Konyaspor |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 37 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 77 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran custodian still competent in the Süper Lig routine, Šehić remains a steady presence between the sticks with reliable hands and positional discipline on straightforward efforts. At 37, his reflexes have dulled perceptibly—expect him to struggle with direct pace and modern pressing triggers that demand quick distribution—and he's the sort of goalkeeper you'd rather have on familiar terrain than exposed to sustained chaos. He's a serviceable backup or placeholder for a mid-table side, nothing more.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,12 +63,11 @@ A veteran custodian still competent in the Süper Lig routine, Šehić remains a
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.3m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,7 +92,7 @@ A veteran custodian still competent in the Süper Lig routine, Šehić remains a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

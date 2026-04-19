@@ -19,22 +19,16 @@ backlinks: [gk, al-raed]
 | **Position** | GK |
 | **Club** | Al Raed |
 | **Nation** | Saudi Arabia |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A goalkeeper with decent shot-stopping instincts but unreliable distribution and positioning vulnerabilities that leave Al Raed exposed to pressure. He reads crosses reasonably well but struggles with sweeping duties and doesn't command his box with authority, limiting his value in modern positional play.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +43,13 @@ A goalkeeper with decent shot-stopping instincts but unreliable distribution and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,10 +2,10 @@
 title: Gaetan Laura
 category: players
 tags: [CF, Morocco]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 30850
 ---
 
@@ -16,25 +16,18 @@ person_id: 30850
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Morocco |
 | **Age** | 30 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Gaetan Laura projects primarily as a CF with a `—` lean. The strongest database support comes from Close Range and Mid Range.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Gaetan Laura projects primarily as a CF with a `None` lean. The strongest database support comes from Close Range and Mid Range.
 
 ## Role Fit
 
@@ -57,14 +50,13 @@ Gaetan Laura projects primarily as a CF with a `—` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
-| Mid | EUR 0.5m |
-| Ceiling | EUR 1.3m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -80,5 +72,5 @@ Gaetan Laura projects primarily as a CF with a `—` lean. The strongest databas
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 2 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 2 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

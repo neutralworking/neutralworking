@@ -2,7 +2,7 @@
 title: Andrew
 category: players
 tags: [GK, Gil Vicente, Brazil, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Gil Vicente. Archetype: Creator.
@@ -23,18 +23,12 @@ backlinks: [creator, gil-vicente]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 68 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Andrew projects primarily as a GK with a `Creator` lean. The strongest database support comes from Reactions, Jumping, and Acceleration.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Andrew projects primarily as a GK with a `Creator` lean. The strongest database 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
-| Ceiling | EUR 7.7m |
-| Confidence | High |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,6 +95,6 @@ Andrew projects primarily as a GK with a `Creator` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 18 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

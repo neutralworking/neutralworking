@@ -5,7 +5,7 @@ tags: [CF, Paraguay]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 28200
 ---
 
@@ -16,25 +16,18 @@ person_id: 28200
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Paraguay |
 | **Age** | 34 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 55.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Gabriel Ávalos projects primarily as a CF with a `—` lean. The strongest database support comes from First Touch, Aerial Duels, and Heading.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Gabriel Ávalos projects primarily as a CF with a `None` lean. The strongest database support comes from First Touch, Aerial Duels, and Heading.
 
 ## Role Fit
 
@@ -63,14 +56,13 @@ Gabriel Ávalos projects primarily as a CF with a `—` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 0.8m |
-| Ceiling | EUR 1.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

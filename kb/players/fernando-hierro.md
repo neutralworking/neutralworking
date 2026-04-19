@@ -2,10 +2,10 @@
 title: Fernando Hierro
 category: players
 tags: [CD, Spain, Commander-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CD at —. Archetype: Commander-Destroyer.
+summary: CD at None. Archetype: Commander-Destroyer.
 person_id: 11000
 backlinks: [commander]
 ---
@@ -17,25 +17,18 @@ backlinks: [commander]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 58 |
 | **Archetype** | [[commander]] Commander-Destroyer |
 | **Level** | 45 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he won five La Liga and three UEFA Champions League trophies over the course of nearly 15 years.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -54,11 +47,10 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -69,8 +61,8 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -82,5 +74,6 @@ CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he 
 ---
 
 	CD	Elegant	Presence	Distributor	Real Madrid	ESP	A	86.4			With the Merengues, he won five La Liga and three UEFA Champions League trophies over the course of nearly 15 years.
+
 
 </details>

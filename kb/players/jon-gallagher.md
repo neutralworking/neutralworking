@@ -2,12 +2,12 @@
 title: Jon Gallagher
 category: players
 tags: [CM, Austin FC, Ireland, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Austin FC. Archetype: Sprinter.
 person_id: 12835
-backlinks: [sprinter, playmaker, austin-fc]
+backlinks: [sprinter, austin-fc]
 ---
 
 # Jon Gallagher
@@ -21,27 +21,18 @@ backlinks: [sprinter, playmaker, austin-fc]
 | **Nation** | Ireland |
 | **Age** | 30 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Gallagher is a relentlessly energetic Relayeur, a true Sprinter whose exceptional pace and stamina allow him to cover every blade of grass and shield the ball effectively. However, his profound lack of discipline and poor tactical awareness often lead to needless fouls and mistimed interventions, making him a gamble in congested midfield duels.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `77`.
+- Best-fit role is `Playmaker` with model support score `77`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Pace, Stamina, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -72,14 +63,13 @@ Gallagher is a relentlessly energetic Relayeur, a true Sprinter whose exceptiona
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +93,7 @@ Gallagher is a relentlessly energetic Relayeur, a true Sprinter whose exceptiona
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

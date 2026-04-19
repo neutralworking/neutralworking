@@ -2,7 +2,7 @@
 title: Fredrik Sjøvold
 category: players
 tags: [CM, Bodø/Glimt, Norway, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Bodø/Glimt. Archetype: Powerhouse.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, bodglimt]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 71 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Sjøvold is a robust Powerhouse midfielder, excellent at shielding the ball and boasting admirable stamina, making him a reliable Relayeur in possession. While he can recycle play effectively with decent passing accuracy, his struggles with defensive blocking and profound lack of guile mean he often fails to break up opposition attacks or provide unpredictable attacking thrust.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Sjøvold is a robust Powerhouse midfielder, excellent at shielding the ball and 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 9.5m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -106,7 +98,7 @@ Sjøvold is a robust Powerhouse midfielder, excellent at shielding the ball and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

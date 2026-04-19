@@ -23,19 +23,12 @@ backlinks: [destroyer, bordeaux]
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 62 |
 | **Overall** | 57.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM				OL	FRA	C	0.0	His usual position is as a defensive midfielder, but he can also be utilized as a central defender. He is best known for his humble demeanor, simple distribution, good technique and effective tackling.[2]		Toulalan started his career at hometown club Nantes and made his debut in March 2002. His performances during the 2004–05 season earned him the UNFP Ligue 1 Player of the Year award and also an appearance in the Team of the Year. In May 2006, Toulalan joined Lyon on a four-year contract and helped the team win back-to-back league titles in 2007 and 2008. In June 2011, he joined Málaga. Toulalan is also a French international, having previously represented his country at youth level. He made his senior international debut in October 2006 and has represented his nation at two international tournaments: UEFA Euro 2008 and the 2010 FIFA World Cup.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ CM				OL	FRA	C	0.0	His usual position is as a defensive midfielder, but he can a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 2.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

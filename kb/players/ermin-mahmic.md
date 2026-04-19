@@ -2,7 +2,7 @@
 title: Ermin Mahmić
 category: players
 tags: [CF, Slovan Liberec, Creator-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Slovan Liberec. Archetype: Creator-Striker.
@@ -18,24 +18,17 @@ backlinks: [creator, slovan-liberec]
 |---|---|
 | **Position** | CF |
 | **Club** | Slovan Liberec |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Ermin Mahmić aligns with the Virtuoso archetype, a direct Complete Forward exhibiting strong technical ability, impressive creativity, and vision, complemented by effective finishing from both close and long range. His composure in front of goal is a notable asset, yet his limited tactical and physical pillars, alongside weaknesses in duels, mid-range shooting, and discipline, suggest a player who thrives in attacking freedom but struggles with physical contests and consistent defensive contribution. He fits a system that emphasizes individual attacking brilliance and provides service, reminiscent of forwards who rely on skill over physicality, offering a potentially high-impact, yet defensively light, option for a club looking to add a spark to their final third.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Ermin Mahmić aligns with the Virtuoso archetype, a direct Complete Forward exhi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Ermin Mahmić aligns with the Virtuoso archetype, a direct Complete Forward exhi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

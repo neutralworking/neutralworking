@@ -5,7 +5,7 @@ tags: [DM, Spain, Engine]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: DM at —. Archetype: Engine.
+summary: DM at None. Archetype: Engine.
 person_id: 12450
 backlinks: [engine]
 ---
@@ -17,25 +17,18 @@ backlinks: [engine]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 37 |
 | **Archetype** | [[engine]] Engine |
 | **Level** | 72 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD					ESP	B	0.0
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -76,12 +69,11 @@ CD					ESP	B	0.0
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.7m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

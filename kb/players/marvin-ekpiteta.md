@@ -2,7 +2,7 @@
 title: Marvin Ekpiteta
 category: players
 tags: [CD, Blackpool, England, Cover]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CD at Blackpool. Archetype: Cover.
@@ -26,35 +26,54 @@ backlinks: [cover, blackpool]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A physical, no-nonsense centre-back who reads the game with reasonable intelligence and uses his body well in one-on-one situations; Ekpiteta is a proper midtable defender, useful in a scrap but without the technical security or ability to play from deep that modern football increasingly demands. He'll win you headers and block crosses, yet he's not comfortable receiving the ball under pressure or initiating play through the thirds—a real ceiling for his career level.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Colossus`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Jumping, Awareness, and Interceptions.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Awareness, and Interceptions.
+- Style traits point toward Aerial Ability, Strength, and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Interceptions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Composure | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Marking | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Awareness | ██████████████ 14/10 |
-| Interceptions | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Composure | █████████████ 13/10 |
-| Heading | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Pass Accuracy | ████████████ 12/10 |
-| Stamina | ████████████ 12/10 |
-| First Touch | ███████████ 11/10 |
-| Acceleration | ██████████ 10/10 |
-| Pass Range | ██████████ 10/10 |
-| Take Ons | ██████████ 10/10 |
-| Shielding | █████████░ 9/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Aerial Ability** (style) — severity 5/10
-- **Strength** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +83,18 @@ A physical, no-nonsense centre-back who reads the game with reasonable intellige
 - **Pressure (JP)**: 61
 - **Competitiveness**: 7/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Aerial Ability** (style) — severity 5/10
+- **Strength** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

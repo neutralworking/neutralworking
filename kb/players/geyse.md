@@ -2,10 +2,10 @@
 title: Geyse
 category: players
 tags: [WF, Manchester United WFC, Brazil]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: WF at Manchester United WFC. Archetype: —.
+summary: WF at Manchester United WFC. Archetype: None.
 person_id: 11378
 backlinks: [manchester-united-wfc]
 ---
@@ -19,23 +19,16 @@ backlinks: [manchester-united-wfc]
 | **Position** | WF |
 | **Club** | Manchester United WFC |
 | **Nation** | Brazil |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A Brazilian winger with explosive acceleration and natural dribbling ability who can shift a full-back in tight spaces and creates genuine problems in the final third with her willingness to take people on. However, she's inconsistent in decision-making—sometimes holding the ball too long, sometimes taking a shot that a better finisher would have converted—and her off-the-ball work is sporadic, which limits her effectiveness in pressing triggers and transitions. She's a useful squad weapon with real upside, but not yet a guaranteed starter.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ A Brazilian winger with explosive acceleration and natural dribbling ability who
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -72,5 +64,5 @@ A Brazilian winger with explosive acceleration and natural dribbling ability who
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

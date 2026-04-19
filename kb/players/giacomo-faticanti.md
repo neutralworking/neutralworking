@@ -2,10 +2,10 @@
 title: Giacomo Faticanti
 category: players
 tags: [CM, Salento, Italy]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at Salento. Archetype: —.
+summary: CM at Salento. Archetype: None.
 person_id: 11383
 backlinks: [salento]
 ---
@@ -20,13 +20,14 @@ backlinks: [salento]
 | **Club** | Salento |
 | **Nation** | Italy |
 | **Age** | 21 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 67 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
+
 
 ClubRoma
 
@@ -40,12 +41,6 @@ A tough-tackling, hard-running midfielder who has worn the captain’s armband f
   
 **October 2023 update** A dream came true when he entered the pitch in the 77th minute of the Europa League game against HJK Helsinki in October 22. However, there were no further appearances for the Giallorossi and he was, somewhat surprisingly, sold to Lecce in the summer in a deal believed to have demanded a fee of €1m with Roma negotiating 35% of any sell-on fee. "As a Roma fan it was obviously difficult to leave the club but I realised there would be limited opportunities with the first team and was very interested in the project here at Lecce," he said during his presentation.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -62,11 +57,10 @@ A tough-tackling, hard-running midfielder who has worn the captain’s armband f
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,14 +80,15 @@ A tough-tackling, hard-running midfielder who has worn the captain’s armband f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 ClubRoma
 
@@ -106,5 +101,6 @@ A tough-tackling, hard-running midfielder who has worn the captain’s armband f
 **September 2022 update** An important member of the Under-19 team in 2021-22 he caught the eye of José Mourinho in the summer and has already been included in a few first-team matchday squads. Extended his Roma contract until 2026 in August.  
   
 **October 2023 update** A dream came true when he entered the pitch in the 77th minute of the Europa League game against HJK Helsinki in October 22. However, there were no further appearances for the Giallorossi and he was, somewhat surprisingly, sold to Lecce in the summer in a deal believed to have demanded a fee of €1m with Roma negotiating 35% of any sell-on fee. "As a Roma fan it was obviously difficult to leave the club but I realised there would be limited opportunities with the first team and was very interested in the project here at Lecce," he said during his presentation.
+
 
 </details>

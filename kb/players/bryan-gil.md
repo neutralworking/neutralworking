@@ -2,7 +2,7 @@
 title: Bryan Gil
 category: players
 tags: [WF, Girona, Spain, Creator-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Girona. Archetype: Creator-Dribbler.
@@ -23,19 +23,12 @@ backlinks: [creator, girona]
 | **Archetype** | [[creator]] Creator-Dribbler |
 | **Level** | 83 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Attack-minded winger with genuine technical gifts—excellent dribbler in tight spaces, good left foot, and an instinct to find the half-space where he can operate with invention. His inconsistency is frustrating, and defensively he's a genuine liability; he also doesn't deliver the goal-scoring numbers you'd want from someone with his talent. Capable of a brilliant forty-five minutes followed by invisibility. Thrilling but unreliable.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Attack-minded winger with genuine technical gifts—excellent dribbler in tight 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.4m |
-| Mid | EUR 34.0m |
-| Ceiling | EUR 40.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +95,7 @@ Attack-minded winger with genuine technical gifts—excellent dribbler in tight 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

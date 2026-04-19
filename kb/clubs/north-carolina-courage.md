@@ -1,8 +1,8 @@
 ---
 title: North Carolina Courage
 category: clubs
-tags: [National Women's Soccer League]
-updated: 2026-04-18
+tags: [National Women's Soccer League, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: North Carolina Courage. 23 players in database.
@@ -11,46 +11,33 @@ summary: North Carolina Courage. 23 players in database.
 # North Carolina Courage
 
 **League**: National Women's Soccer League  
-**Nation**: —  
+**Nation**: None  
 **Players in DB**: 23
-
-## Identity
-
-- Database coverage is deepest in GK (3), CD (3), and CM (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Gk (3), Sprinter (1), and Powerhouse (1) across the current squad.
-- This article is currently a roster-structure snapshot from database coverage rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
-| [[bianca-st-georges]] Bianca St-Georges | CD | — | — |
-| [[malia-berkely]] Malia Berkely | CD | — | — |
-| [[talia-staude]] Talia Staude | CD | — | — |
-| [[denise-osullivan]] Denise O'Sullivan | CF | Sprinter | — |
-| [[kerolin]] Kerolin | CF | — | — |
-| [[olivia-wingate]] Olivia Wingate | CF | — | — |
-| [[kaleigh-kurtz]] Kaleigh Kurtz | CM | — | — |
-| [[lauren-milliet]] Lauren Milliet | CM | — | — |
-| [[meredith-speck]] Meredith Speck | CM | — | — |
-| [[hensley-hancuff]] Hensley Hancuff | GK | GK | — |
-| [[katelyn-rowland]] Katelyn Rowland | GK | GK | — |
-| [[marisa-bova]] Marisa Bova | GK | GK | — |
-| [[ryan-spaulding]] Ryan Spaulding | WD | — | — |
-| Haley Hopkins | — | — | — |
-| Hannah Betfort | — | — | — |
-| Jenna Winebrenner | — | — | — |
-| Julia Dorsey | — | — | — |
-| Landy Mertz | — | — | — |
-| Manaka Matsukubo | — | — | — |
-| Maya McCutcheon | — | — | — |
-| Riley Jackson | — | — | — |
-| Ryan Williams | — | Powerhouse | — |
-| Sydney Collins | — | — | — |
+| [[bianca-st-georges]] Bianca St-Georges | CD | None | None |
+| [[malia-berkely]] Malia Berkely | CD | None | None |
+| [[talia-staude]] Talia Staude | CD | None | None |
+| [[denise-osullivan]] Denise O'Sullivan | CF | Sprinter | None |
+| [[kerolin]] Kerolin | CF | None | None |
+| [[olivia-wingate]] Olivia Wingate | CF | None | None |
+| [[kaleigh-kurtz]] Kaleigh Kurtz | CM | None | None |
+| [[lauren-milliet]] Lauren Milliet | CM | None | None |
+| [[meredith-speck]] Meredith Speck | CM | None | None |
+| [[hensley-hancuff]] Hensley Hancuff | GK | GK | None |
+| [[katelyn-rowland]] Katelyn Rowland | GK | GK | None |
+| [[marisa-bova]] Marisa Bova | GK | GK | None |
+| [[ryan-spaulding]] Ryan Spaulding | WD | None | None |
+| [[haley-hopkins]] Haley Hopkins | None | None | None |
+| [[hannah-betfort]] Hannah Betfort | None | None | None |
+| [[jenna-winebrenner]] Jenna Winebrenner | None | None | None |
+| [[julia-dorsey]] Julia Dorsey | None | None | None |
+| [[landy-mertz]] Landy Mertz | None | None | None |
+| [[manaka-matsukubo]] Manaka Matsukubo | None | None | None |
+| [[maya-mccutcheon]] Maya McCutcheon | None | None | None |
+| [[riley-jackson]] Riley Jackson | None | None | None |
+| [[ryan-williams]] Ryan Williams | None | Powerhouse | None |
+| [[sydney-collins]] Sydney Collins | None | None | None |

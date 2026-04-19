@@ -2,12 +2,12 @@
 title: James Bree
 category: players
 tags: [WD, Charlton Athletic, England, Sprinter-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Charlton Athletic. Archetype: Sprinter-Engine.
 person_id: 12290
-backlinks: [sprinter, corner-back, charlton-athletic]
+backlinks: [sprinter, charlton-athletic]
 ---
 
 # James Bree
@@ -21,27 +21,18 @@ backlinks: [sprinter, corner-back, charlton-athletic]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
-| **Best Role** | [[corner-back]] Corner Back |
-| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A right-back who has finally begun to marry his technical competence with consistent defending, offering genuine width and the ability to receive and carry the ball progressively. His injury history is a concern and his one-v-one defending still has gaps, yet he's become a proper contributor rather than a liability—a solid Championship starter.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back with model support score `78`.
+- Best-fit role is `Corner Back` with model support score `78`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Acceleration, Crossing, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -77,13 +68,12 @@ A right-back who has finally begun to marry his technical competence with consis
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 23.0m |
-| Ceiling | EUR 27.6m |
-| Confidence | High |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,7 +100,7 @@ A right-back who has finally begun to marry his technical competence with consis
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

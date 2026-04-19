@@ -1,13 +1,13 @@
 ---
 title: Luca Netz
 category: players
-tags: [WD, Borussia Mönchengladbach, Germany, Cover]
-updated: 2026-04-14
+tags: [WD, Nottingham Forest, Germany, Cover]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WD at Borussia Mönchengladbach. Archetype: Cover.
+summary: WD at Nottingham Forest. Archetype: Cover.
 person_id: 14062
-backlinks: [cover, borussia-monchengladbach]
+backlinks: [cover, nottingham-forest]
 ---
 
 # Luca Netz
@@ -17,7 +17,7 @@ backlinks: [cover, borussia-monchengladbach]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | Borussia Mönchengladbach |
+| **Club** | Nottingham Forest |
 | **Nation** | Germany |
 | **Age** | 22 |
 | **Archetype** | [[cover]] Cover |
@@ -26,35 +26,58 @@ backlinks: [cover, borussia-monchengladbach]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A left-back of genuine promise whose attacking contributions are more refined than his defensive duties, as evidenced by his progressive carries and ability to find the far-side winger in transition. He's still maturing defensively—positioning gaps and a tendency to be drawn too far forward occasionally expose him—but at 22, there's clear upward trajectory. He's a good young player who could become excellent if his concentration on the back foot improves.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `68`.
+- Primary archetype leans toward `Cover` behaviour from a `WD` base.
+- Most bankable strengths show up in Acceleration, Balance, and Crossing.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Balance, and Crossing.
+- Style traits point toward Long Throws in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Take Ons | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Reactions | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Acceleration | ███████████████ 15/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| Jumping | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Take Ons | ███████████████ 15/10 |
-| First Touch | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
-| Movement | █████████████ 13/10 |
-| Pass Range | █████████████ 13/10 |
-| Heading | ████████████ 12/10 |
-| Long Range | ████████████ 12/10 |
-| Penalties | ██████████ 10/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Long Throws** (style) — severity 5/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,6 +87,22 @@ A left-back of genuine promise whose attacking contributions are more refined th
 - **Pressure (JP)**: 43
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Long Throws** (style) — severity 5/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

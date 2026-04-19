@@ -2,7 +2,7 @@
 title: Henrich Ravas
 category: players
 tags: [GK, Cracovia Kraków, Slovakia, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
 summary: GK at Cracovia Kraków. Archetype: GK.
@@ -22,20 +22,13 @@ backlinks: [gk, cracovia-krakow]
 | **Age** | 28 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A 28-year-old Slovak keeper operating in the Polish top flight with the kind of experience that suggests competence without elite ceiling. Ravas is a solid shot-stopper with decent footwork for a goalkeeper playing in a progressive Polish side, and he reads the game with the steadiness you'd expect from someone in his late twenties. The issue is that he's not distinguishing himself as anything more than a reliable option—there's no sweeping authority, no distributional sophistication that suggests he could anchor a European-level club. He's a 1A at a mid-table Ekstraklasa side, which is entirely respectable, but the lack of any trajectory toward something more tells you his ceiling was hit some years ago.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,14 +43,13 @@ A 28-year-old Slovak keeper operating in the Polish top flight with the kind of 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 28.0m |
-| Ceiling | EUR 33.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -77,5 +69,5 @@ A 28-year-old Slovak keeper operating in the Polish top flight with the kind of 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

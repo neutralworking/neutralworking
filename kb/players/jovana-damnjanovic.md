@@ -5,7 +5,7 @@ tags: [CF, Bayern Munich Women, Serbia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Bayern Munich Women. Archetype: —.
+summary: CF at Bayern Munich Women. Archetype: None.
 person_id: 13114
 backlinks: [bayern-munich-women]
 ---
@@ -20,22 +20,15 @@ backlinks: [bayern-munich-women]
 | **Club** | Bayern Munich Women |
 | **Nation** | Serbia |
 | **Age** | 31 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 77 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Serbian forward whose physicality and positioning sense make her a constant menace in the box, with the kind of instinct for where the ball is going to be that defines proper number nines. She's better as a target-man finisher than a creator—hold-up play is where she thrives—and she's not the most elegant mover, which occasionally gets exposed against the very best defences. Still, at 31 and in form, she's a key player for a side chasing titles.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Serbian forward whose physicality and positioning sense make her a constant mena
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

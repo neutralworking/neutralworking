@@ -23,19 +23,12 @@ backlinks: [creator, fiorentina]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A talented young Italian No. 8 with excellent technical foundation, good close control, and the ability to move the ball vertically through congestion; he's comfortable on both feet and presses with intelligence. At 22, he's already showing tactical maturity. The downside is that he's still inconsistent in big moments and his physical presence in midfield is developing — elite midfielders are bullying him.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A talented young Italian No. 8 with excellent technical foundation, good close c
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 40.0m |
-| Ceiling | EUR 48.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

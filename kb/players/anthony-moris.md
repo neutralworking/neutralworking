@@ -5,7 +5,7 @@ tags: [GK, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at —. Archetype: Sprinter.
+summary: GK at None. Archetype: Sprinter.
 person_id: 544
 backlinks: [sprinter]
 ---
@@ -17,24 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
-| **Nation** | — |
+| **Club** | None |
+| **Nation** | None |
 | **Age** | 35 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 82 |
 | **Overall** | 80.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Anthony Moris projects primarily as a GK with a `Sprinter` lean. The strongest database support comes from Physical, Reactions, and Jumping.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Anthony Moris projects primarily as a GK with a `Sprinter` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

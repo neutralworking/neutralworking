@@ -5,7 +5,7 @@ tags: [CM, OM, Brazil]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at OM. Archetype: —.
+summary: CM at OM. Archetype: None.
 person_id: 8489
 backlinks: [om]
 ---
@@ -20,22 +20,15 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | Brazil |
 | **Age** | 33 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Experienced Brazilian midfielder bringing athleticism, press resistance, and creative spark from the engine room. At 33, slight decline in intensity, but remains a valuable engine in possession-based systems.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +42,13 @@ Experienced Brazilian midfielder bringing athleticism, press resistance, and cre
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

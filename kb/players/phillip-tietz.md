@@ -2,7 +2,7 @@
 title: Phillip Tietz
 category: players
 tags: [CF, Augsburg, Germany, Target-Striker]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: CF at Augsburg. Archetype: Target-Striker.
@@ -26,33 +26,51 @@ backlinks: [target, augsburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A German striker who works hard without the ball and competes physically for possession, showing the mentality of a proper centre-forward. Technically he's limited in his finishing—his composure in the box is average—and he lacks the movement to consistently find space, so he's more useful as a disruptive presence than a clinical finisher.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Falso Nove`.
+- Primary archetype leans toward `Target` behaviour from a `CF` base.
+- Most bankable strengths show up in Jumping, Long Range, and Movement.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Long Range, and Movement.
+- Style traits point toward Acrobatic in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Long Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Close Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Stamina | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | █████████████████ 17/10 |
-| Long Range | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Close Range | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Stamina | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Composure | ██████████████ 14/10 |
-| Acceleration | █████████████ 13/10 |
-| Balance | █████████████ 13/10 |
-| Mid Range | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Pass Accuracy | █████████████ 13/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Acrobatic** (style) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -62,6 +80,20 @@ A German striker who works hard without the ball and competes physically for pos
 - **Pressure (JP)**: 60
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Acrobatic** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

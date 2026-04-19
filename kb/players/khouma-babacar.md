@@ -2,10 +2,11 @@
 title: Khouma Babacar
 category: players
 tags: [CF, FC Copenhagen
+, Senegal, Striker]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at FC Copenhagen. Archetype: Striker.
+summary: CF at FC Copenhagen
 . Archetype: Striker.
 person_id: 3925
 backlinks: [striker, fc-copenhagen]
@@ -25,19 +26,12 @@ backlinks: [striker, fc-copenhagen]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 71 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran target man whose physical presence and aerial dominance remain genuine assets in the Danish Superliga, but whose touch and positional intelligence have dulled with age. He operates as a traditional number nine—back to goal, chest down, looking to hold play or convert from set pieces—but lacks the mobility or instinctive movement to function effectively in a pressing system. At 32, playing for Copenhagen, he's a useful squad option for specific matchups; a functional starter, not a cornerstone.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -68,14 +62,13 @@ A veteran target man whose physical presence and aerial dominance remain genuine
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

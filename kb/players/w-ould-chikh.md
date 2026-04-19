@@ -2,7 +2,7 @@
 title: W. Ould-Chikh
 category: players
 tags: [WM, Heracles, Creator-Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Heracles. Archetype: Creator-Cover.
@@ -26,34 +26,54 @@ backlinks: [creator, heracles]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 As a Tornante, Ould-Chikh excels in wide playmaking roles, leveraging his vision and guile to create scoring opportunities, but his pass accuracy and defensive contributions are areas for improvement, making him a liability in certain systems, and his flamboyant style may not suit every team's ethos, with a club needing to balance his creative freedom with tactical discipline.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `74`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Tactical fit is strongest when the game asks for High Press.
+- Most bankable strengths show up in Aggression, Creativity, and Duels.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Creativity, and Duels.
+- Style traits point toward Flamboyant in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Duels | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Flair | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Tackling | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Take Ons | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Skills | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | █████████░ 9/10 |
-| Creativity | █████████░ 9/10 |
-| Duels | █████████░ 9/10 |
-| Flair | █████████░ 9/10 |
-| Tackling | █████████░ 9/10 |
-| Take Ons | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Skills | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Close Range | ███████░░░ 7/10 |
-| Composure | ███████░░░ 7/10 |
-| Discipline | ███████░░░ 7/10 |
-| Intensity | ███████░░░ 7/10 |
-| Long Range | ███████░░░ 7/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 5/10
-- **high_press** (tactical) — severity 5/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -63,3 +83,17 @@ As a Tornante, Ould-Chikh excels in wide playmaking roles, leveraging his vision
 - **Pressure (JP)**: 53
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 5/10
+- **High Press** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

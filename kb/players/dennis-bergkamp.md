@@ -2,10 +2,10 @@
 title: Dennis Bergkamp
 category: players
 tags: [CF, Netherlands, Striker-Controller]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Striker-Controller.
+summary: CF at None. Archetype: Striker-Controller.
 person_id: 10230
 backlinks: [striker]
 ---
@@ -17,25 +17,18 @@ backlinks: [striker]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 56 |
 | **Archetype** | [[striker]] Striker-Controller |
 | **Level** | 46 |
 | **Overall** | 50.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable of functioning as playmaking attacking midfielder, due to his technical skills, Vision, and passing range.	Confidence, First Touch, Technique, Long Shots, Finishing Accuracy	Bergkamp was schooled in Total Football, a playing style and philosophy which relied on versatility. This was primarily to maximise the footballer's potential; players tried out every outfield position before finding one that suited them best. Every age group at Ajax played in the same style and formation as the first team – 3–4–3 – to allow individuals to slot in without effort when moving up the pyramid.Bergkamp "played in every position apart from goalie" and believed he benefited from the experience of playing as a defender, as it helped him "know how they think and how to beat them". When he made his debut as a substitute against Roda JC, Bergkamp was positioned on the right wing, where he remained for three years. During his time at Inter Milan, Bergkamp was switched to the position of a main striker, but failed to cooperate with his offensive partner Ruben Sosa, whom he later called "selfish". When Bergkamp joined Arsenal in 1995, he enjoyed a successful strike partnership with Wright, and in later seasons Anelka and Henry, playing in his preferred position as a creative second striker. The arrival of Overmars in the 1997–98 season enhanced Bergkamp's play, as he was getting more of the ball. Between August and October 1997, he scored seven goals in seven league matches. A similar rapport developed between him and Ljungberg during the 2001–02 season.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -67,11 +60,10 @@ CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable o
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -87,10 +79,10 @@ CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable o
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 6 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -101,6 +93,6 @@ CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable o
 {}
 ---
 
-CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable of functioning as playmaking attacking midfielder, due to his technical skills, Vision, and passing range.	Confidence, First Touch, Technique, Long Shots, Finishing Accuracy	Bergkamp was schooled in Total Football, a playing style and philosophy which relied on versatility. This was primarily to maximise the footballer's potential; players tried out every outfield position before finding one that suited them best. Every age group at Ajax played in the same style and formation as the first team – 3–4–3 – to allow individuals to slot in without effort when moving up the pyramid.Bergkamp "played in every position apart from goalie" and believed he benefited from the experience of playing as a defender, as it helped him "know how they think and how to beat them". When he made his debut as a substitute against Roda JC, Bergkamp was positioned on the right wing, where he remained for three years. During his time at Inter Milan, Bergkamp was switched to the position of a main striker, but failed to cooperate with his offensive partner Ruben Sosa, whom he later called "selfish". When Bergkamp joined Arsenal in 1995, he enjoyed a successful strike partnership with Wright, and in later seasons Anelka and Henry, playing in his preferred position as a creative second striker. The arrival of Overmars in the 1997–98 season enhanced Bergkamp's play, as he was getting more of the ball. Between August and October 1997, he scored seven goals in seven league matches. A similar rapport developed between him and Ljungberg during the 2001–02 season.
+CF	Cerebral	Finisher	Trequartista	Arsenal	NED	A	85.5	Bergkamp was also capable of functioning as playmaking attacking midfielder, due to his technical skills, Vision, and passing range.	Confidence, First Touch, Technique, Long Shots, Finishing Accuracy	Bergkamp was schooled in Total Football, a playing style and philosophy which relied on versatility. This was primarily to maximise the footballer's potential; players tried out every outfield position before finding one that suited them best. Every age group at Ajax played in the same style and formation as the first team – 3–4–3 – to allow individuals to slot in without effort when moving up the pyramid.Bergkamp "played in every position apart from goalie" and believed he benefited from the experience of playing as a defender, as it helped him "know how they think and how to beat them". When he made his debut as a substitute against Roda JC, Bergkamp was positioned on the right wing, where he remained for three years. During his time at Inter Milan, Bergkamp was switched to the position of a main striker, but failed to cooperate with his offensive partner Ruben Sosa, whom he later called "selfish". When Bergkamp joined Arsenal in 1995, he enjoyed a successful strike partnership with Wright, and in later seasons Anelka and Henry, playing in his preferred position as a creative second striker. The arrival of Overmars in the 1997–98 season enhanced Bergkamp's play, as he was getting more of the ball. Between August and October 1997, he scored seven goals in seven league matches. A similar rapport developed between him and Ljungberg during the 2001–02 season. 
 
 </details>

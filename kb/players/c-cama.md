@@ -5,7 +5,7 @@ tags: [CD, Cover]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Cover.
+summary: CD at None. Archetype: Cover.
 person_id: 27673
 backlinks: [cover]
 ---
@@ -17,24 +17,18 @@ backlinks: [cover]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 20.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 C. Cama projects primarily as a CD with a `Cover` lean. The strongest database support comes from Skills, Technical, and Aggression.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ C. Cama projects primarily as a CD with a `Cover` lean. The strongest database s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Diogo Costa
 category: players
 tags: [GK, FC Porto, Portugal, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at FC Porto. Archetype: GK.
@@ -23,7 +23,7 @@ backlinks: [gk, fc-porto]
 | **Archetype** | [[gk]] GK |
 | **Level** | 86 |
 | **Overall** | 82.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
@@ -31,13 +31,6 @@ backlinks: [gk, fc-porto]
 Still just 23 years old, Diogo Costa has been one of the most talked about goalkeepers in Europe for quite a while - and for good reason too.  
   
 Costa's the archetypal modern day goalkeeper, and will surely be the number one for one of the biggest clubs in Europe very, very soon.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,14 +65,13 @@ Costa's the archetypal modern day goalkeeper, and will surely be the number one 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 38.0m |
-| Mid | EUR 53.0m |
-| Ceiling | EUR 63.6m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,11 +97,11 @@ Costa's the archetypal modern day goalkeeper, and will surely be the number one 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 23 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 23 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -119,6 +111,7 @@ Costa's the archetypal modern day goalkeeper, and will surely be the number one 
 ---
 class: goalkeeper
 ---
+
 
 Still just 23 years old, Diogo Costa has been one of the most talked about goalkeepers in Europe for quite a while - and for good reason too.  
   

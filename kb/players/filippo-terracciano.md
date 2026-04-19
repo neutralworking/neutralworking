@@ -2,7 +2,7 @@
 title: Filippo Terracciano
 category: players
 tags: [WD, AC Milan, Italy, Sprinter-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at AC Milan. Archetype: Sprinter-Passer.
@@ -23,19 +23,12 @@ backlinks: [sprinter, ac-milan]
 | **Archetype** | [[sprinter]] Sprinter-Passer |
 | **Level** | 69 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young full-back with athletic promise and decent pace, but his decision-making in transition and his positioning off the ball are still raw. He attacks the line with enthusiasm but often lacks discipline in his shape, leaving gaps in behind; his defensive fundamentals need refinement. Developing prospect who benefits from a settled role and clear defensive structure; not yet reliable enough to thrust into a top-flight environment.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A young full-back with athletic promise and decent pace, but his decision-making
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.3m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 12.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -107,7 +99,7 @@ A young full-back with athletic promise and decent pace, but his decision-making
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 40 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 40 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

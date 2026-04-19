@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WF at Derby County. Archetype: Sprinter.
 person_id: 13379
-backlinks: [sprinter, winger, derby-county]
+backlinks: [sprinter, derby-county]
 ---
 
 # Kayden Jackson
@@ -21,26 +21,18 @@ backlinks: [sprinter, winger, derby-county]
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[winger]] Winger |
 | **Level** | 72 |
 | **Overall** | 65.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A wide forward in the twilight of his career who still has one good game in him every four matches. He's got quick feet and understands how to drift into half-spaces to create chaos, but his finishing has become unreliable and he's increasingly a luxury player rather than a necessity. At 32, he's useful as a pressure valve off the bench against tiring defenses, but expecting him to be a regular starter is asking for disappointment.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[winger]] Winger.
+- Best-fit role is `Winger`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Pace, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -70,11 +62,10 @@ A wide forward in the twilight of his career who still has one good game in him 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

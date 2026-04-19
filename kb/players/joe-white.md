@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Leyton Orient. Archetype: Dribbler.
 person_id: 12745
-backlinks: [dribbler, playmaker, leyton-orient]
+backlinks: [dribbler, leyton-orient]
 ---
 
 # Joe White
@@ -21,26 +21,18 @@ backlinks: [dribbler, playmaker, leyton-orient]
 | **Nation** | England |
 | **Age** | 27 |
 | **Archetype** | [[dribbler]] Dribbler |
-| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 80 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Box-to-box midfielder with reasonable work rate and the physical profile to cover ground, but his technique in congested areas is unremarkable and his decision-making lags behind the pace of play. He can execute a simple pass and make a tackle, which makes him solid depth, but he lacks the progressive ball-carrying or playmaking instinct to influence matches at this level.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker.
+- Best-fit role is `Playmaker`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in Pass Accuracy, Acceleration, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ Box-to-box midfielder with reasonable work rate and the physical profile to cove
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

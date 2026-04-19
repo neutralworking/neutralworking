@@ -23,19 +23,12 @@ backlinks: [dribbler, boca-juniors]
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 81 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Central midfielder with decent work rate and positioning but limited technical range—solid squad rotation option who doesn't impose himself on games. Typical journeyman type for a struggling Serie A side.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,13 +63,13 @@ Central midfielder with decent work rate and positioning but limited technical r
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 20.0m |
-| Ceiling | EUR 24.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

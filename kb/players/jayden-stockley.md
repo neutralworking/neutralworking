@@ -2,12 +2,12 @@
 title: Jayden Stockley
 category: players
 tags: [CF, Fleetwood Town, England, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Fleetwood Town. Archetype: Powerhouse.
 person_id: 12486
-backlinks: [powerhouse, prima-punta, fleetwood-town]
+backlinks: [powerhouse, fleetwood-town]
 ---
 
 # Jayden Stockley
@@ -21,26 +21,18 @@ backlinks: [powerhouse, prima-punta, fleetwood-town]
 | **Nation** | England |
 | **Age** | 32 |
 | **Archetype** | [[powerhouse]] Powerhouse |
-| **Best Role** | [[prima-punta]] Prima Punta |
 | **Level** | 76 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Target man striker at 32 who still knows how to hold the ball and create space for runners off him, though his touch has deteriorated slightly and his legs don't have the sharpness to make explosive movements. Useful for bringing others into play and winning aerial duels, but he's not scoring many himself anymore. A squad player who understands his role.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[prima-punta]] Prima Punta.
+- Best-fit role is `Prima Punta`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Physical, Aggression, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -67,14 +59,13 @@ Target man striker at 32 who still knows how to hold the ball and create space f
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +90,7 @@ Target man striker at 32 who still knows how to hold the ball and create space f
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

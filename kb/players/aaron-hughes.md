@@ -23,18 +23,12 @@ backlinks: [destroyer, heart-of-midlothian-fc]
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 54 |
 | **Overall** | 54.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Aaron Hughes projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Aaron Hughes projects primarily as a CD with a `Destroyer` lean. The strongest d
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

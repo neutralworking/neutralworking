@@ -2,31 +2,17 @@
 title: Fiorentina
 category: clubs
 tags: [Serie A, Italy]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Fiorentina. 38 players in database.
+summary: Fiorentina. 37 players in database.
 ---
 
 # Fiorentina
 
 **League**: Serie A  
 **Nation**: Italy  
-**Players in DB**: 38
-
-## Identity
-
-- Database coverage is deepest in CM (13), WD (6), and CD (5), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (9), Striker (5), and Sprinter (4) across the current squad.
-- Average available overall grade sits at 71.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 37
 
 ## Squad
 
@@ -39,18 +25,17 @@ summary: Fiorentina. 38 players in database.
 | [[mattia-viti]] Mattia Viti | CD | Powerhouse | 68.0 |
 | [[pablo-mari]] Pablo Marí | CD | Destroyer-Dribbler | 74.0 |
 | [[pietro-comuzzo]] Pietro Comuzzo | CD | Destroyer-Passer | 73.0 |
-| [[stine-ballisager-pedersen]] Stine Ballisager Pedersen | CD | — | — |
+| [[stine-ballisager-pedersen]] Stine Ballisager Pedersen | CD | None | None |
 | [[edin-dzeko]] Edin Džeko | CF | Striker | 40.0 |
 | [[mbala-nzola]] M'Bala Nzola | CF | Striker-Cover | 79.0 |
 | [[moise-kean]] Moise Kean | CF | Striker-Powerhouse | 73.0 |
 | [[roberto-piccoli]] Roberto Piccoli | CF | Striker-Destroyer | 73.0 |
 | [[abdelhamid-sabiri]] Abdelhamid Sabiri | CM | Striker | 71.0 |
 | [[alfred-duncan]] Alfred Duncan | CM | Creator | 70.0 |
-| [[amir-richardson]] Amir Richardson | CM | Sprinter-Dribbler | 70.0 |
 | [[cher-ndour]] Cher Ndour | CM | Cover-Dribbler | 68.0 |
-| [[emma-snerle]] Emma Snerle | CM | — | — |
+| [[emma-snerle]] Emma Snerle | CM | None | None |
 | [[giacomo-bonaventura]] Giacomo Bonaventura | CM | Creator | 66.0 |
-| [[gino-infantino]] Gino Infantino | CM | Dribbler-Sprinter | — |
+| [[gino-infantino]] Gino Infantino | CM | Dribbler-Sprinter | None |
 | [[hans-nicolussi]] Hans Nicolussi | CM | Creator | 67.0 |
 | [[hans-nicolussi-caviglia]] Hans Nicolussi Caviglia | CM | Passer | 67.0 |
 | [[jacopo-fazzini]] Jacopo Fazzini | CM | Creator | 71.0 |
@@ -58,9 +43,9 @@ summary: Fiorentina. 38 players in database.
 | [[rolando-mandragora]] Rolando Mandragora | CM | Creator-Passer | 68.0 |
 | [[s-sohm]] S. Sohm | CM | Creator-Destroyer | 68.0 |
 | [[david-de-gea]] David de Gea | GK | GK | 77.0 |
-| [[tommaso-martinelli]] Tommaso Martinelli | GK | GK | — |
-| [[tommaso-vannucchi]] Tommaso Vannucchi | GK | GK | — |
-| [[davide-faraoni]] Davide Faraoni | WD | — | — |
+| [[tommaso-martinelli]] Tommaso Martinelli | GK | GK | None |
+| [[tommaso-vannucchi]] Tommaso Vannucchi | GK | GK | None |
+| [[davide-faraoni]] Davide Faraoni | WD | None | None |
 | [[dodo]] Dodô | WD | Sprinter-Dribbler | 73.0 |
 | [[fabiano-parisi]] Fabiano Parisi | WD | Powerhouse-Engine | 76.0 |
 | [[luca-ranieri]] Luca Ranieri | WD | Powerhouse-Dribbler | 73.0 |

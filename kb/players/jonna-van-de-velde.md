@@ -5,9 +5,9 @@ tags: [CM, Netherlands, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CM at —. Archetype: Sprinter.
+summary: CM at None. Archetype: Sprinter.
 person_id: 12883
-backlinks: [sprinter, playmaker]
+backlinks: [sprinter]
 ---
 
 # Jonna van de Velde
@@ -17,30 +17,22 @@ backlinks: [sprinter, playmaker]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 24 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 75 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jonna van de Velde projects primarily as a CM with a `Sprinter` lean. The strongest database support comes from Balance, Shielding, and Acceleration.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker.
+- Best-fit role is `Playmaker`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Balance, Shielding, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ Jonna van de Velde projects primarily as a CM with a `Sprinter` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

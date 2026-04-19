@@ -2,7 +2,7 @@
 title: Anna Leat
 category: players
 tags: [GK, Aston Villa W.F.C., New Zealand, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
 summary: GK at Aston Villa W.F.C.. Archetype: GK.
@@ -22,19 +22,13 @@ backlinks: [gk, aston-villa-wfc]
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A composed shot-stopper who reads the game with maturity beyond her years, distributing out from the back with reasonable confidence and claiming crosses with authority in her box. The New Zealand international has the fundamentals of a modern keeper—decent footwork, quick reflexes, good positioning—but lacks the elite shot-stopping instinct or sweeper-keeper range that would elevate her beyond a capable understudy at this level. She's a reliable cup goalkeeper who won't cost you matches, but doesn't yet command the presence or decision-making speed required for a sustained run as a top-flight number one.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +46,10 @@ A composed shot-stopper who reads the game with maturity beyond her years, distr
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -75,5 +69,5 @@ A composed shot-stopper who reads the game with maturity beyond her years, distr
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

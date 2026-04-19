@@ -18,24 +18,17 @@ backlinks: [gk, internacional]
 |---|---|
 | **Position** | GK |
 | **Club** | Internacional |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 43.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Ivan projects primarily as a GK with a `GK` lean. The strongest database support comes from Creativity, Through Balls, and Carries.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Ivan projects primarily as a GK with a `GK` lean. The strongest database support
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.1m |
-| Mid | EUR 1.3m |
-| Ceiling | EUR 2.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

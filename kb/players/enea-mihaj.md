@@ -2,7 +2,7 @@
 title: Enea Mihaj
 category: players
 tags: [CD, Atlanta United FC, Albania, Destroyer-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Atlanta United FC. Archetype: Destroyer-Dribbler.
@@ -23,19 +23,12 @@ backlinks: [destroyer, atlanta-united-fc]
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
 | **Level** | 85 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Mihaj is a prototypical Vorstopper, bringing serious physicality and aggression to the backline, excelling in marking and tackling. He's fantastic in aerial duels, but his limited ability to block shots or win ground duels consistently can leave the defense vulnerable in the box. Furthermore, his abysmal creativity means he offers nothing in terms of progressive play out from the back.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Mihaj is a prototypical Vorstopper, bringing serious physicality and aggression 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.8m |
-| Mid | EUR 37.0m |
-| Ceiling | EUR 44.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +94,7 @@ Mihaj is a prototypical Vorstopper, bringing serious physicality and aggression 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

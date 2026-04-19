@@ -2,12 +2,12 @@
 title: Joel Ordóñez
 category: players
 tags: [CM, Técnico Universitario, Ecuador, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Técnico Universitario. Archetype: Destroyer-Powerhouse.
 person_id: 12761
-backlinks: [destroyer, metodista, tecnico-universitario]
+backlinks: [destroyer, tecnico-universitario]
 ---
 
 # Joel Ordóñez
@@ -21,27 +21,18 @@ backlinks: [destroyer, metodista, tecnico-universitario]
 | **Nation** | Ecuador |
 | **Age** | 21 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Best Role** | [[metodista]] Metodista |
-| **Role Score** | 69 |
 | **Level** | 74 |
 | **Overall** | 61.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Joel Ordóñez projects primarily as a CM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Physical, Jumping, and Pace.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[metodista]] Metodista with model support score `69`.
+- Best-fit role is `Metodista` with model support score `69`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Physical, Jumping, and Pace.
@@ -72,14 +63,13 @@ Joel Ordóñez projects primarily as a CM with a `Destroyer-Powerhouse` lean. Th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 36.3m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,6 +98,6 @@ Joel Ordóñez projects primarily as a CM with a `Destroyer-Powerhouse` lean. Th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -22,20 +22,13 @@ backlinks: [sprinter, liverpool]
 | **Age** | 20 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 65 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young center-forward with some athleticism and the usual Liverpool academy polish, though his senior football experience remains limited and his pathway to regular minutes at a top-six club is congested. Danns has shown promise in lower-level competition, but there's a significant gap between Liverpool's U23s and the Premier League. He's a prospect, nothing more.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -67,11 +60,10 @@ A young center-forward with some athleticism and the usual Liverpool academy pol
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

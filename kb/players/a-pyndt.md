@@ -2,7 +2,7 @@
 title: A. Pyndt
 category: players
 tags: [CM, Sirius, Sprinter-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sirius. Archetype: Sprinter-Cover.
@@ -18,24 +18,17 @@ backlinks: [sprinter, sirius]
 |---|---|
 | **Position** | CM |
 | **Club** | Sirius |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Cover |
 | **Level** | 78 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Pyndt is a skilled, positional Connector with strong technical skills, but his limited tactical awareness and dueling ability hold him back from being a more effective Tuttocampista. His acceleration, shielding, and balance allow him to make progressive carries, but his through balls and guile are areas for improvement. A team that values a practical, competitive approach could benefit from his skills, particularly in a system that emphasizes build-up play and positional discipline.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Pyndt is a skilled, positional Connector with strong technical skills, but his l
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,7 +92,7 @@ Pyndt is a skilled, positional Connector with strong technical skills, but his l
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

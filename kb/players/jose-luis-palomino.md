@@ -2,12 +2,12 @@
 title: José Luis Palomino
 category: players
 tags: [CD, Metz, Argentina, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Metz. Archetype: Cover.
 person_id: 12997
-backlinks: [cover, colossus, metz]
+backlinks: [cover, metz]
 ---
 
 # José Luis Palomino
@@ -21,27 +21,18 @@ backlinks: [cover, colossus, metz]
 | **Nation** | Argentina |
 | **Age** | 36 |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[colossus]] Colossus |
-| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 65.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Argentine centre-back at 36 with considerable experience and reasonable positional reading. His recovery pace is now minimal, and he cannot be exposed to direct attackers or pressing situations; his distribution is adequate but uninspired. A veteran reserve or emergency starter for a pragmatic side, but past his useful level for consistent Ligue 1 football.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus with model support score `72`.
+- Best-fit role is `Colossus` with model support score `72`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Shielding, Physical, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -75,14 +66,13 @@ Argentine centre-back at 36 with considerable experience and reasonable position
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +98,7 @@ Argentine centre-back at 36 with considerable experience and reasonable position
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: João Victor
 category: players
 tags: [CM, Vasco da Gama, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Vasco da Gama. Archetype: Cover.
 person_id: 21840
-backlinks: [cover, playmaker, vasco-da-gama]
+backlinks: [cover, vasco-da-gama]
 ---
 
 # João Victor
@@ -18,30 +18,21 @@ backlinks: [cover, playmaker, vasco-da-gama]
 |---|---|
 | **Position** | CM |
 | **Club** | Vasco da Gama |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 27 |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A technically sound metodista whose discipline and composure provide structural stability, but his tackling and interception deficiencies reveal a soft defender at 27—a critical liability for a role demanding physical recovery. His moderate physical profile and limited ambition in the tackle mark him as more suited to possession-heavy, low-intensity systems where coverage and positioning replace contested actions. Best fits French lower divisions or transitional roles in consolidating clubs; his archetype is disappearing, and age combined with athletic decline suggests narrow market value despite admirable professionalism.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
+- Best-fit role is `Playmaker` with model support score `75`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Threat, Carries, and Creativity.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +62,13 @@ A technically sound metodista whose discipline and composure provide structural 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.8m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,6 +89,6 @@ A technically sound metodista whose discipline and composure provide structural 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

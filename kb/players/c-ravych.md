@@ -2,7 +2,7 @@
 title: C. Ravych
 category: players
 tags: [CM, Cercle Brugge, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Cercle Brugge. Archetype: Destroyer-Powerhouse.
@@ -18,24 +18,17 @@ backlinks: [destroyer, cercle-brugge]
 |---|---|
 | **Position** | CM |
 | **Club** | Cercle Brugge |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 23 |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 C. Ravych, a Terrier archetype, is a robust Tuttocampista who excels through sheer physicality, aggression, and relentless tackling, complemented by strong heading and quick reactions. While his technical and tactical attributes are moderate to strong, his limited mental fortitude, combined with poor movement and a lack of creativity, suggests a player who is primarily a destructive force in midfield. This profile points to a traditional holding midfielder or ball-winner, reminiscent of the defensive anchors in classic British football. A club seeking a physically imposing, defensive-minded central midfielder to provide immediate steel would find Ravych appealing, but his restricted movement and creativity mean he's a specialist who requires creative partners.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ C. Ravych, a Terrier archetype, is a robust Tuttocampista who excels through she
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.4m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +96,7 @@ C. Ravych, a Terrier archetype, is a robust Tuttocampista who excels through she
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

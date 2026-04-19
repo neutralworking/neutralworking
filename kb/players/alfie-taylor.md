@@ -2,7 +2,7 @@
 title: Alfie Taylor
 category: players
 tags: [CD, Hull City, England, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Hull City. Archetype: Destroyer.
@@ -19,22 +19,16 @@ backlinks: [destroyer, hull-city]
 | **Position** | CD |
 | **Club** | Hull City |
 | **Nation** | England |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 65 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young central defender still learning the rhythm of senior football, showing decent positioning sense and aerial ability for his age. Likely operating at reserve or loan level given Hull's established defensive hierarchy, so minutes are sparse and match-sharpness is a genuine concern. His potential is present but raw; he needs consistent senior exposure to develop, not episodic cup outings.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,10 +64,10 @@ Young central defender still learning the rhythm of senior football, showing dec
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,6 +87,6 @@ Young central defender still learning the rhythm of senior football, showing dec
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

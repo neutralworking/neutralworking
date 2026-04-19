@@ -5,7 +5,7 @@ tags: [AM, Barcelona Femení, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: AM at Barcelona Femení. Archetype: —.
+summary: AM at Barcelona Femení. Archetype: None.
 person_id: 7970
 backlinks: [barcelona-femeni]
 ---
@@ -19,23 +19,16 @@ backlinks: [barcelona-femeni]
 | **Position** | AM |
 | **Club** | Barcelona Femení |
 | **Nation** | Spain |
-| **Age** | — |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A generational midfielder operating in Barcelona's engine room with the spatial awareness of someone playing three moves ahead. She glides through congested midfield spaces with implausible ease, picking progressive passes that seem to bend around defenders, and her ability to receive the ball under pressure and immediately turn it into something dangerous is genuinely elite. The weakness—and it's minor—is that she can occasionally drift into a passenger role against low blocks where her creativity gets suffocated, and she's not the most dogged presser when Barcelona have the upper hand.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,10 +41,10 @@ A generational midfielder operating in Barcelona's engine room with the spatial 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

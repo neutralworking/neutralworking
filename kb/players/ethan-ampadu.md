@@ -2,7 +2,7 @@
 title: Ethan Ampadu
 category: players
 tags: [CD, Leeds United, Wales, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Leeds United. Archetype: Powerhouse-Destroyer.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, leeds-united]
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A Welsh centre-back with excellent reading of the game and the technical security to play out from the back or carry the ball forward into midfield. His physical presence is respectable if unspectacular; he won't bully strikers but he won't be bullied either. Solid, intelligent defender—the type who elevates teammates through positioning and leadership rather than individual brilliance.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A Welsh centre-back with excellent reading of the game and the technical securit
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 23.8m |
-| Mid | EUR 48.0m |
-| Ceiling | EUR 57.6m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -113,7 +105,7 @@ A Welsh centre-back with excellent reading of the game and the technical securit
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

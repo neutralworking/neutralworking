@@ -23,19 +23,12 @@ backlinks: [engine, lens]
 | **Archetype** | [[engine]] Engine-Creator |
 | **Level** | 69 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Energetic right-sided defender who covers ground well and offers genuine defensive intensity in one-v-one situations. Distribution is functional rather than progressive, and his decision-making under pressure remains loose. Can be exposed on a back line that needs leadership or aerial dominance.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Energetic right-sided defender who covers ground well and offers genuine defensi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 3.1m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -1,13 +1,13 @@
 ---
 title: Max Alleyne
 category: players
-tags: [CD, Watford, Cover]
-updated: 2026-04-14
+tags: [CD, Manchester City, Cover]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Watford. Archetype: Cover.
+summary: CD at Manchester City. Archetype: Cover.
 person_id: 21042
-backlinks: [cover, watford]
+backlinks: [cover, manchester-city]
 ---
 
 # Max Alleyne
@@ -17,7 +17,7 @@ backlinks: [cover, watford]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | Watford |
+| **Club** | Manchester City |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[cover]] Cover |
@@ -26,25 +26,55 @@ backlinks: [cover, watford]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Max Alleyne projects primarily as a CD with a `Cover` lean. The strongest database support comes from Discipline, Duels, and Marking.
+
+## Role Fit
+
+- Best-fit role is `Sweeper` with model support score `72`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Discipline, Duels, and Marking.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Discipline, Duels, and Marking.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Discipline | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Duels | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Marking | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Pressing | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Blocking | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Drive | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Interceptions | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Discipline | ████████░░ 8/10 |
-| Duels | ███████░░░ 7/10 |
-| Marking | ███████░░░ 7/10 |
-| Pressing | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Blocking | ██████░░░░ 6/10 |
-| Drive | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Mental | ██████░░░░ 6/10 |
-| Skills | ██████░░░░ 6/10 |
-| Tackling | ██████░░░░ 6/10 |
-| Tactical | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Communication | █████░░░░░ 5/10 |
-| Composure | █████░░░░░ 5/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +84,10 @@ backlinks: [cover, watford]
 - **Pressure (JP)**: 58
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

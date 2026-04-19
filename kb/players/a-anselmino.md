@@ -18,24 +18,17 @@ backlinks: [cover, borussia-dortmund]
 |---|---|
 | **Position** | CM |
 | **Club** | Borussia Dortmund |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover-Striker |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 43.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Anselmino is a developing Tuttocampista, displaying a moderate physical and mental foundation, particularly in composure and awareness, allowing him to excel in close-range passing and interceptions with solid accuracy. His limited technical and tactical pillars, however, are evident in weaknesses such as long-range passing, vision, and creative output. This industrious midfielder fits a traditional, workhorse role in the center, contributing to breaking up play and secure possession in tight areas, thriving in systems that do not demand extensive creative burden. As a potentially low-cost acquisition, he could offer depth as a pragmatic, defensively-minded role player, with limited upside for transforming into a primary orchestrator.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,10 +65,10 @@ Anselmino is a developing Tuttocampista, displaying a moderate physical and ment
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

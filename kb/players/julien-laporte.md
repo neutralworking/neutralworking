@@ -2,12 +2,12 @@
 title: Julien Laporte
 category: players
 tags: [CD, FC Lorient, France, Destroyer-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at FC Lorient. Archetype: Destroyer-Dribbler.
 person_id: 13194
-backlinks: [destroyer, colossus, fc-lorient]
+backlinks: [destroyer, fc-lorient]
 ---
 
 # Julien Laporte
@@ -21,26 +21,18 @@ backlinks: [destroyer, colossus, fc-lorient]
 | **Nation** | France |
 | **Age** | 32 |
 | **Archetype** | [[destroyer]] Destroyer-Dribbler |
-| **Best Role** | [[colossus]] Colossus |
 | **Level** | 85 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Veteran centre-back still performing the basics competently—headers won, blocks made, simple distribution—but his decline is evident in his increasingly static positioning and lack of pace in transition. Entirely functional at Ligue 2 as a senior presence, but genuinely exposed if you ask him to play a progressive role or defend space in behind.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus.
+- Best-fit role is `Colossus`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Jumping, and Aggression.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -75,14 +67,13 @@ Veteran centre-back still performing the basics competently—headers won, block
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,7 +101,7 @@ Veteran centre-back still performing the basics competently—headers won, block
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 38 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 38 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

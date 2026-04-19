@@ -2,12 +2,12 @@
 title: J. Torunarigha
 category: players
 tags: [CM, Hamburger SV, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Hamburger SV. Archetype: Destroyer-Powerhouse.
 person_id: 20982
-backlinks: [destroyer, tuttocampista, hamburger-sv]
+backlinks: [destroyer, hamburger-sv]
 ---
 
 # J. Torunarigha
@@ -18,30 +18,21 @@ backlinks: [destroyer, tuttocampista, hamburger-sv]
 |---|---|
 | **Position** | CM |
 | **Club** | Hamburger SV |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 J. Torunarigha profiles as a Connector and Tuttocampista, possessing strong physical attributes like pace, acceleration, and jumping, complemented by a commendable pass range that makes him an elegant build-up contributor. His strong tactical pillar indicates good positional understanding, but his limited mental fortitude, lack of guile, creativity, and mid-range passing restrict his influence in complex midfield orchestration. He fits the mold of a pragmatic, deep-lying midfielder who recycles possession and initiates attacks with range, rather than a creative orchestrator. For clubs prioritizing physical presence and reliable deep distribution, Torunarigha offers value, but his creative limitations and mental fragility are key risk factors.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
+- Best-fit role is `Tuttocampista` with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Acceleration, and Physical.
@@ -72,14 +63,13 @@ J. Torunarigha profiles as a Connector and Tuttocampista, possessing strong phys
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 12.8m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,7 +99,7 @@ J. Torunarigha profiles as a Connector and Tuttocampista, possessing strong phys
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

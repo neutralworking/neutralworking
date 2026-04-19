@@ -1,8 +1,8 @@
 ---
 title: FK Pardubice
 category: clubs
-tags: [Czech First League]
-updated: 2026-04-18
+tags: [Czech First League, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: FK Pardubice. 24 players in database.
@@ -11,22 +11,8 @@ summary: FK Pardubice. 24 players in database.
 # FK Pardubice
 
 **League**: Czech First League  
-**Nation**: —  
+**Nation**: None  
 **Players in DB**: 24
-
-## Identity
-
-- Database coverage is deepest in CM (9), WM (3), and GK (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (9), Destroyer (6), and Cover (5) across the current squad.
-- Average available overall grade sits at 62.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -42,17 +28,17 @@ summary: FK Pardubice. 24 players in database.
 | [[s-bammens]] S. Bammens | CM | Cover | 69.0 |
 | [[s-simek]] S. Šimek | CM | Creator-Striker | 69.0 |
 | [[t-solil]] T. Solil | CM | Destroyer-Striker | 73.0 |
-| [[l-kharatishvili]] L. Kharatishvili | GK | GK | — |
+| [[l-kharatishvili]] L. Kharatishvili | GK | GK | None |
 | [[a-tanko]] A. Tanko | WF | Creator-Striker | 67.0 |
 | [[e-godwin]] E. Godwin | WM | Creator-Cover | 38.0 |
 | [[v-patrak]] V. Patrák | WM | Striker-Creator | 66.0 |
 | [[v-sychra]] V. Sychra | WM | Creator-Striker | 66.0 |
-| F. Sancl | — | Creator-Striker | — |
-| J. Trédl | — | Creator-Destroyer | — |
-| L. Krobot | — | Creator-Striker | — |
-| M. Lexa | — | Destroyer-Creator | — |
-| M. Surzyn | — | Destroyer-Creator | — |
-| R. Mahuta | — | Creator-Striker | — |
-| R. Saarma | — | Creator-Destroyer | — |
-| Štěpán Míšek | — | Cover | — |
-| V. Samuel | — | Striker | — |
+| [[f-sancl]] F. Sancl | None | Creator-Striker | None |
+| [[j-tredl]] J. Trédl | None | Creator-Destroyer | None |
+| [[l-krobot]] L. Krobot | None | Creator-Striker | None |
+| [[m-lexa]] M. Lexa | None | Destroyer-Creator | None |
+| [[m-surzyn]] M. Surzyn | None | Destroyer-Creator | None |
+| [[r-mahuta]] R. Mahuta | None | Creator-Striker | None |
+| [[r-saarma]] R. Saarma | None | Creator-Destroyer | None |
+| [[stepan-misek]] Štěpán Míšek | None | Cover | None |
+| [[v-samuel]] V. Samuel | None | Striker | None |

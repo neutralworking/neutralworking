@@ -2,7 +2,7 @@
 title: Curtis Jones
 category: players
 tags: [CM, Liverpool, England, Engine-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Liverpool. Archetype: Engine-Passer.
@@ -23,19 +23,12 @@ backlinks: [engine, liverpool]
 | **Archetype** | [[engine]] Engine-Passer |
 | **Level** | 86 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Homegrown midfielder with silk on the ball. Carries well, plays incisive passes. Consistency is the barrier to becoming a regular starter.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Homegrown midfielder with silk on the ball. Carries well, plays incisive passes.
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 33.2m |
-| Mid | EUR 51.0m |
-| Ceiling | EUR 61.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -115,16 +107,17 @@ Homegrown midfielder with silk on the ball. Carries well, plays incisive passes.
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 ClubLiverpool
 
@@ -142,6 +135,6 @@ A Liverpool-born, Liverpool-supporting midfielder with an eye for goal might fee
   
 **October 2021 update** Maintained his impressive development with 34 appearances for Jurgen Klopp’s team last season. Missed the start of this campaign with concussion and was also linked with a deadline day move to Aston Villa, although Liverpool had no intention of selling. Returned as a substitute in the Champions League group win over Milan.  
   
-**September 2022 update** Featured 27 ...
+**September 2022 update** Featured 27...
 
 </details>

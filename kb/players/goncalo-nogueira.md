@@ -2,7 +2,7 @@
 title: Gonçalo Nogueira
 category: players
 tags: [CM, Vitória Guimarães, Portugal, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Vitória Guimarães. Archetype: Creator.
@@ -23,19 +23,12 @@ backlinks: [creator, vitoria-guimaraes]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Gonçalo Nogueira, a 22-year-old Architect with a Playmaker blueprint, excels as a Mezzala, seamlessly blending creative vision and guile with diligent tackling and awareness. His high-press and build-up contributor traits make him ideal for possession-based systems demanding an intelligent half-space operator capable of intricate passing and proactive ball winning. Despite strong technical attributes and tactical promise, his limited mental pillar suggests he is a developing talent who would benefit from a supportive environment to fully realize his significant creative potential.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Gonçalo Nogueira, a 22-year-old Architect with a Playmaker blueprint, excels as
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.9m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,7 +92,7 @@ Gonçalo Nogueira, a 22-year-old Architect with a Playmaker blueprint, excels as
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,7 +2,7 @@
 title: Andres Jasson
 category: players
 tags: [WF, Aalborg BK, United States, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Aalborg BK. Archetype: Sprinter-Dribbler.
@@ -22,20 +22,13 @@ backlinks: [sprinter, aalborg-bk]
 | **Age** | 24 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Athletic left winger with genuine pace and a willingness to take defenders on in transition, though his decision-making in the final third remains frustratingly inconsistent. Works tirelessly off the ball and offers genuine defensive contribution, but at 24 and operating in the Danish Superliga, he needs to sharpen his end product considerably to justify interest from higher levels. His profile suggests a squad rotation option rather than a transformative talent.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Athletic left winger with genuine pace and a willingness to take defenders on in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -90,6 +82,6 @@ Athletic left winger with genuine pace and a willingness to take defenders on in
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

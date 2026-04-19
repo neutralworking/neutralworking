@@ -1,32 +1,18 @@
 ---
 title: São Paulo
 category: clubs
-tags: [Brazil]
-updated: 2026-04-18
+tags: [None, Brazil]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: São Paulo. 34 players in database.
+summary: São Paulo. 35 players in database.
 ---
 
 # São Paulo
 
-**League**: —  
+**League**: None  
 **Nation**: Brazil  
-**Players in DB**: 34
-
-## Identity
-
-- Database coverage is deepest in CM (17), WD (4), and CD (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Striker (10), Creator (8), and Cover (7) across the current squad.
-- Average available overall grade sits at 53.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 35
 
 ## Squad
 
@@ -36,6 +22,7 @@ summary: São Paulo. 34 players in database.
 | [[lucas-rafael]] Lucas Rafael | CD | Cover | 68.0 |
 | [[rafael-toloi]] Rafael Tolói | CD | Cover | 72.0 |
 | [[ruan-tressoldi]] Ruan Tressoldi | CD | Destroyer | 69.0 |
+| [[g-tapia]] G. Tapia | CF | Striker-Creator | 68.0 |
 | [[d-bobadilla]] D. Bobadilla | CM | Striker-Cover | 72.0 |
 | [[e-diaz]] E. Díaz | CM | Creator-Destroyer | 74.0 |
 | [[felipe-negrucci]] Felipe Negrucci | CM | Striker-Cover | 62.0 |
@@ -55,14 +42,14 @@ summary: São Paulo. 34 players in database.
 | [[sabino]] Sabino | CM | Cover-Striker | 76.0 |
 | [[alisson]] Alisson | GK | Target | 75.0 |
 | [[cedric-soares]] Cedric Soares | WD | Creator | 67.0 |
-| [[matheus-alves]] Matheus Alves | WD | — | 20.0 |
-| [[patryck-lanza]] Patryck Lanza | WD | — | — |
+| [[matheus-alves]] Matheus Alves | WD | None | 20.0 |
+| [[patryck-lanza]] Patryck Lanza | WD | None | None |
 | [[wendell]] Wendell | WD | Cover-Powerhouse | 71.0 |
 | [[emiliano-rigoni]] Emiliano Rigoni | WF | Creator-Striker | 64.0 |
 | [[ferreira]] Ferreira | WF | Creator-Striker | 73.0 |
 | [[lucca-marques-alencar]] Lucca Marques Alencar | WM | Striker | 21.0 |
 | [[mailton]] Maílton | WM | Creator-Cover | 34.0 |
 | [[ryan-francisco]] Ryan Francisco | WM | Striker | 29.0 |
-| Guilherme Batista | — | Striker-Cover | — |
-| Gustavo Santana | — | Striker | — |
-| Patryck | — | Striker-Creator | — |
+| [[guilherme-batista]] Guilherme Batista | None | Striker-Cover | None |
+| [[gustavo-santana]] Gustavo Santana | None | Striker | None |
+| [[patryck]] Patryck | None | Striker-Creator | None |

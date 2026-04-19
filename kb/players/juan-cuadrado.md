@@ -2,12 +2,12 @@
 title: Juan Cuadrado
 category: players
 tags: [WF, Pisa, Colombia, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Pisa. Archetype: Creator.
 person_id: 13126
-backlinks: [creator, wide-playmaker, pisa]
+backlinks: [creator, pisa]
 ---
 
 # Juan Cuadrado
@@ -21,26 +21,18 @@ backlinks: [creator, wide-playmaker, pisa]
 | **Nation** | Colombia |
 | **Age** | 37 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
 | **Level** | 64 |
 | **Overall** | 61.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Veteran right-winger still capable of dangerous crosses and defensive work rate despite advanced age, but physical decline is evident and his impact is now cameo-based rather than game-changing. Valuable experience and professionalism, but well past his elite years.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker.
+- Best-fit role is `Wide Playmaker`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Most bankable strengths show up in Creativity, Through Balls, and Vision.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -73,11 +65,10 @@ Veteran right-winger still capable of dangerous crosses and defensive work rate 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +93,7 @@ Veteran right-winger still capable of dangerous crosses and defensive work rate 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 17 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 17 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

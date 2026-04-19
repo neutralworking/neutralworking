@@ -22,19 +22,13 @@ backlinks: [sprinter, forest-green-rovers]
 | **Age** | 36 |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
 | **Level** | 58 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran centre-back approaching the twilight of his career, Tozer remains reasonably composed in possession and reads the game with the intelligence that comes from a decade-plus of professional football. His declining athleticism is now his ceiling; he can't recover from positional mistakes the way he once could, and his concentration has become more fragile under sustained pressure. For a relegation-battling side, he offers experience and a calming presence, but he's a luxury they cannot afford if the gap in quality between their backline and the Premier League widens further.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,10 +64,10 @@ A veteran centre-back approaching the twilight of his career, Tozer remains reas
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

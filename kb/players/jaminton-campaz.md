@@ -2,12 +2,12 @@
 title: Jaminton Campaz
 category: players
 tags: [WF, Rosario Central, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Rosario Central. Archetype: Sprinter-Dribbler.
 person_id: 19034
-backlinks: [sprinter, winger, rosario-central]
+backlinks: [sprinter, rosario-central]
 ---
 
 # Jaminton Campaz
@@ -18,17 +18,16 @@ backlinks: [sprinter, winger, rosario-central]
 |---|---|
 | **Position** | WF |
 | **Club** | Rosario Central |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 25 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[winger]] Winger |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
+
 
 CountryColombia
 
@@ -37,6 +36,12 @@ ClubDeportes Tolima
 PositionForward
 
 Born24 May 2000
+
+
+
+
+
+
 
 ****
 
@@ -52,16 +57,10 @@ The nimble and tricky winger scored on his professional debut this year when rif
   
 **September 2022 update** Could not prevent Brazilian giants Gremio sliding into the second division despite playing his part in a bold great-escape attempt. Has been ever-present in the Gremio first team as they fight for promotion this year and is still floating around the Colombian national team.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
-- Best-fit role is [[winger]] Winger with model support score `69`.
+- Best-fit role is `Winger` with model support score `69`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Pace, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -88,14 +87,13 @@ The nimble and tricky winger scored on his professional debut this year when rif
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -120,16 +118,17 @@ The nimble and tricky winger scored on his professional debut this year when rif
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 CountryColombia
 
@@ -138,6 +137,12 @@ ClubDeportes Tolima
 PositionForward
 
 Born24 May 2000
+
+
+
+
+
+
 
 ****
 
@@ -151,6 +156,6 @@ The nimble and tricky winger scored on his professional debut this year when rif
   
 **October 2021 update** Made his debut for Colombia at this summer’s Copa América a month after helping club side Deportes Tolima to only their third Colombian league championship. “He’s the best player in the league,” gloated manager Hernán Torres. “He’s out of this world.” Gremio manager Luis Felipe Scolari was convinced, paying $5m for the 21-year-old in August.  
   
-**September 2022 update** Could not prevent Brazilian giants Gremio sliding into the second division despite playing his part in a b...
+**September 2022 update** Could not prevent Brazilian giants Gremio sliding into the second division despite playing his part...
 
 </details>

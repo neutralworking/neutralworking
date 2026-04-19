@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CF at Fatih Karagümrük. Archetype: Striker.
 person_id: 13479
-backlinks: [striker, shadow-striker, fatih-karagumruk]
+backlinks: [striker, fatih-karagumruk]
 ---
 
 # Kevin Lasagna
@@ -21,26 +21,18 @@ backlinks: [striker, shadow-striker, fatih-karagumruk]
 | **Nation** | Italy |
 | **Age** | 33 |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 74 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran centre-forward who's lost a yard of pace but retains excellent movement in the box and an intelligent reading of defensive space—he still understands how to create separation in tight areas. His game now depends almost entirely on positioning and finishing rather than the pressing or high-tempo link-up play he may have offered in his prime; his ability to turn and drive at defenders has largely evaporated. At 33, he remains a functional option at this level, a squad striker who can exploit vulnerabilities in a back line if you feed him in the right moments, but he's no longer a player who can carry the load alone or create for others through dynamic movement.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker.
+- Best-fit role is `Shadow Striker`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Jumping, and Long Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -74,11 +66,10 @@ A veteran centre-forward who's lost a yard of pace but retains excellent movemen
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

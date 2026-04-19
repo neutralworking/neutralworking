@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WD at Dundee. Archetype: Destroyer.
 person_id: 13471
-backlinks: [destroyer, corner-back, dundee]
+backlinks: [destroyer, dundee]
 ---
 
 # Kevin Holt
@@ -21,26 +21,18 @@ backlinks: [destroyer, corner-back, dundee]
 | **Nation** | Scotland |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[corner-back]] Corner Back |
 | **Level** | 77 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kevin Holt projects primarily as a WD with a `Destroyer` lean. The strongest database support comes from Stamina, Jumping, and Physical.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back.
+- Best-fit role is `Corner Back`.
 - Primary archetype leans toward `Destroyer` behaviour from a `WD` base.
 - Most bankable strengths show up in Stamina, Jumping, and Physical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -71,14 +63,13 @@ Kevin Holt projects primarily as a WD with a `Destroyer` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

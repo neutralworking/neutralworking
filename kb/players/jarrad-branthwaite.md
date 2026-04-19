@@ -2,12 +2,12 @@
 title: Jarrad Branthwaite
 category: players
 tags: [CD, Everton, England, Destroyer-Target]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Everton. Archetype: Destroyer-Target.
 person_id: 12418
-backlinks: [destroyer, stopper, everton]
+backlinks: [destroyer, everton]
 ---
 
 # Jarrad Branthwaite
@@ -21,8 +21,6 @@ backlinks: [destroyer, stopper, everton]
 | **Nation** | England |
 | **Age** | 23 |
 | **Archetype** | [[destroyer]] Destroyer-Target |
-| **Best Role** | [[stopper]] Stopper |
-| **Role Score** | 71 |
 | **Level** | 81 |
 | **Overall** | 70.0 |
 | **Pursuit** | Priority |
@@ -32,16 +30,9 @@ backlinks: [destroyer, stopper, everton]
 
 Best young English CB prospect. Left-footed, aerially dominant at 6'5, excellent timing in the tackle. Leadership qualities beyond his years — Everton captain material. Injury concerns (groin) but recovers well. HG-eligible. Acquirable if Everton are relegated or need to sell.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[stopper]] Stopper with model support score `71`.
+- Best-fit role is `Stopper` with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Positional Discipline.
 - Most bankable strengths show up in Reactions, Aerial Duels, and Clearances.
@@ -76,14 +67,13 @@ Best young English CB prospect. Left-footed, aerially dominant at 6'5, excellent
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 42.8m |
-| Mid | EUR 60.0m |
-| Ceiling | EUR 72.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -113,7 +103,7 @@ Best young English CB prospect. Left-footed, aerially dominant at 6'5, excellent
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 8 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

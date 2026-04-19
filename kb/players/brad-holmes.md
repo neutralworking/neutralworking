@@ -2,10 +2,10 @@
 title: Brad Holmes
 category: players
 tags: [CF, Blackpool, England]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CF at Blackpool. Archetype: —.
+summary: CF at Blackpool. Archetype: None.
 person_id: 9135
 backlinks: [blackpool]
 ---
@@ -20,22 +20,15 @@ backlinks: [blackpool]
 | **Club** | Blackpool |
 | **Nation** | England |
 | **Age** | 23 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 72 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Poacher with instinctive movement in the box and a genuine hunger for chances, but he's not the player you want touching the ball 30 yards out. His link-up play is minimal and he doesn't offer much in the press. Works best as a substitute thrown on with a lead, not as your focal point—limited ceiling.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Poacher with instinctive movement in the box and a genuine hunger for chances, b
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -72,5 +64,5 @@ Poacher with instinctive movement in the box and a genuine hunger for chances, b
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

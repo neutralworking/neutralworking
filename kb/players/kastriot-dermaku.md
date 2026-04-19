@@ -2,12 +2,12 @@
 title: Kastriot Dermaku
 category: players
 tags: [CD, Lecce, Albania, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Lecce. Archetype: Striker.
 person_id: 13350
-backlinks: [striker, sweeper, lecce]
+backlinks: [striker, lecce]
 ---
 
 # Kastriot Dermaku
@@ -21,26 +21,18 @@ backlinks: [striker, sweeper, lecce]
 | **Nation** | Albania |
 | **Age** | 34 |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[sweeper]] Sweeper |
 | **Level** | 79 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 The 34-year-old Albanian center-back is a squad depth option who understands the game and positions himself sensibly, but his physical decline means he's increasingly a rotation player rather than a regular starter. His lack of pace leaves him vulnerable to any pressing trigger that forces him into transitions.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[sweeper]] Sweeper.
+- Best-fit role is `Sweeper`.
 - Primary archetype leans toward `Striker` behaviour from a `CD` base.
 - Most bankable strengths show up in Tactical, Awareness, and Intensity.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -74,14 +66,13 @@ The 34-year-old Albanian center-back is a squad depth option who understands the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -106,7 +97,7 @@ The 34-year-old Albanian center-back is a squad depth option who understands the
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

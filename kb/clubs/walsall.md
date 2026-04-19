@@ -2,7 +2,7 @@
 title: Walsall
 category: clubs
 tags: [League One, England]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Walsall. 19 players in database.
@@ -14,40 +14,26 @@ summary: Walsall. 19 players in database.
 **Nation**: England  
 **Players in DB**: 19
 
-## Identity
-
-- Database coverage is deepest in CM (4), GK (2), and CD (2), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Powerhouse (8), Cover (3), and Sprinter (3) across the current squad.
-- Average available overall grade sits at 73.8, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
-
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[liam-gordon]] Liam Gordon | CD | Powerhouse | 74.0 |
-| [[ryan-delaney]] Ryan Delaney | CD | Cover | — |
+| [[ryan-delaney]] Ryan Delaney | CD | Cover | None |
 | [[harry-williams]] Harry Williams | CF | Cover | 72.0 |
 | [[kieron-morris]] Kieron Morris | CF | Powerhouse | 73.0 |
-| [[brandon-comley]] Brandon Comley | CM | Powerhouse | — |
-| [[harvey-griffiths]] Harvey Griffiths | CM | Target | — |
+| [[brandon-comley]] Brandon Comley | CM | Powerhouse | None |
+| [[harvey-griffiths]] Harvey Griffiths | CM | Target | None |
 | [[liam-kinsella]] Liam Kinsella | CM | Powerhouse | 75.0 |
-| [[ross-tierney]] Ross Tierney | CM | Powerhouse | — |
-| [[jackson-smith]] Jackson Smith | GK | GK | — |
-| [[joe-willis]] Joe Willis | GK | GK | — |
+| [[ross-tierney]] Ross Tierney | CM | Powerhouse | None |
+| [[jackson-smith]] Jackson Smith | GK | GK | None |
+| [[joe-willis]] Joe Willis | GK | GK | None |
 | [[luke-leahy]] Luke Leahy | WD | Powerhouse | 78.0 |
 | [[anthony-forde]] Anthony Forde | WF | Sprinter | 71.0 |
-| Douglas James-Taylor | — | Sprinter | — |
-| Evan Weir | — | Powerhouse | — |
-| Jamie Jellis | — | — | — |
-| Joe Foulkes | — | — | — |
-| Priestley Farquharson | — | Cover | — |
-| Ronan Maher | — | Sprinter | — |
-| Ryan Stirk | — | Powerhouse | — |
+| [[douglas-james-taylor]] Douglas James-Taylor | None | Sprinter | None |
+| [[evan-weir]] Evan Weir | None | Powerhouse | None |
+| [[jamie-jellis]] Jamie Jellis | None | None | None |
+| [[joe-foulkes]] Joe Foulkes | None | None | None |
+| [[priestley-farquharson]] Priestley Farquharson | None | Cover | None |
+| [[ronan-maher]] Ronan Maher | None | Sprinter | None |
+| [[ryan-stirk]] Ryan Stirk | None | Powerhouse | None |

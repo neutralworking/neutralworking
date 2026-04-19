@@ -2,12 +2,12 @@
 title: Josh Risdon
 category: players
 tags: [DM, Perth Glory, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Perth Glory. Archetype: Destroyer-Powerhouse.
 person_id: 19520
-backlinks: [destroyer, ball-winner, perth-glory]
+backlinks: [destroyer, perth-glory]
 ---
 
 # Josh Risdon
@@ -18,30 +18,21 @@ backlinks: [destroyer, ball-winner, perth-glory]
 |---|---|
 | **Position** | DM |
 | **Club** | Perth Glory |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Best Role** | [[ball-winner]] Ball Winner |
-| **Role Score** | 73 |
 | **Level** | 78 |
 | **Overall** | 63.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Josh Risdon projects primarily as a DM with a `Destroyer-Powerhouse` lean. The strongest database support comes from Shielding, Physical, and Jumping.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[ball-winner]] Ball Winner with model support score `73`.
+- Best-fit role is `Ball Winner` with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Shielding, Physical, and Jumping.
@@ -72,14 +63,13 @@ Josh Risdon projects primarily as a DM with a `Destroyer-Powerhouse` lean. The s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -106,6 +96,6 @@ Josh Risdon projects primarily as a DM with a `Destroyer-Powerhouse` lean. The s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

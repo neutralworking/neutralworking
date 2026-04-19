@@ -2,7 +2,7 @@
 title: Maurits Kjærgaard
 category: players
 tags: [AM, Red Bull Salzburg, Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Red Bull Salzburg. Archetype: Creator.
@@ -26,7 +26,7 @@ backlinks: [creator, red-bull-salzburg]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 
 ClubRed Bull Salzburg
@@ -45,30 +45,50 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
 **October 2023 update** Has continued to develop and has, at the time of writing, a remarkable 73 first-team appearances for RB Salzburg. Captain of the Denmark Under-21 side, he was named Talent of the Year in his home country in February. Previous winners include Simon Kjaer, Christian Eriksen, Pierre-Emile Höjbjerg and Mikkel Damsgaard. "There are some incredibly big games on that list," he said. "But, as always, I won't put myself under any pressure."
 
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Enganche` with model support score `72`.
+- Primary archetype leans toward `Creator` behaviour from a `AM` base.
+- Tactical fit is strongest when the game asks for Set Piece Specialist.
+- Most bankable strengths show up in Pass Accuracy, Through Balls, and Composure.
+
+## In Possession
+
+- Ball-value indicators lean on Pass Accuracy, Through Balls, and Composure.
+- Style traits point toward Patient in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Set Piece Specialist.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pass Accuracy | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Through Balls | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Penalties | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Concentration | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pass Accuracy | ██████████ 10/10 |
-| Through Balls | ██████████ 10/10 |
-| Composure | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
-| Penalties | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Pressing | ████████░░ 8/10 |
-| Concentration | ███████░░░ 7/10 |
-| Creativity | ███████░░░ 7/10 |
-| Crossing | ███████░░░ 7/10 |
-| Long Range | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
-| Tactical | ███████░░░ 7/10 |
-| Technical | ███████░░░ 7/10 |
-| Threat | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **patient** (style) — severity 5/10
-- **set_piece_specialist** (tactical) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -78,6 +98,21 @@ When Maurits Kjærgaard was 16, he moved from Lyngby to Red Bull Salzburg. It wa
 - **Pressure (JP)**: 44
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Patient** (style) — severity 5/10
+- **Set Piece Specialist** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

@@ -2,10 +2,10 @@
 title: Estanis Pedrola
 category: players
 tags: [WF, Spain]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: WF at —. Archetype: —.
+summary: WF at None. Archetype: None.
 person_id: 10794
 ---
 
@@ -16,25 +16,18 @@ person_id: 10794
 | Field | Value |
 |---|---|
 | **Position** | WF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 22 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 67 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Estanis Pedrola projects primarily as a WF with a `—` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Estanis Pedrola projects primarily as a WF with a `None` lean. The strongest database support comes from the current evidence set.
 
 ## Role Fit
 
@@ -48,14 +41,13 @@ Estanis Pedrola projects primarily as a WF with a `—` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -81,5 +73,5 @@ Estanis Pedrola projects primarily as a WF with a `—` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

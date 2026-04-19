@@ -23,19 +23,12 @@ backlinks: [striker, sampdoria]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 44 |
 | **Overall** | 43.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF		Striker			ITA	B	0.0	Quagliarella is primarily known for his accurate and powerful striking ability from distance, as well as his ability in the air, and his penchant for scoring spectacular goals.[27] He is capable of playing anywhere along the front line, and has previously been deployed as a winger, a second striker, and even as an attacking midfielder, due to his reliable technique and his tendency to provide assists for team-mates earlier on in his career		He represented Italy from under-18 to under-21 youth levels before his debut for the senior national team in 2007. He was part of the UEFA Euro 2008 and 2010 FIFA World Cup squads. He wears the number 27 in honour of Niccolò Galli, a former friend and youth academy teammate of his who used to wear this number; Galli died in a road accident in 2001.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ CF		Striker			ITA	B	0.0	Quagliarella is primarily known for his accurate and pow
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

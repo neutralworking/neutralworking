@@ -5,7 +5,7 @@ tags: [CD, Como, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Como. Archetype: —.
+summary: CD at Como. Archetype: None.
 person_id: 12201
 backlinks: [como]
 ---
@@ -20,22 +20,15 @@ backlinks: [como]
 | **Club** | Como |
 | **Nation** | Spain |
 | **Age** | 21 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 86 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A 21-year-old Spanish centre-back getting senior football at Como, which speaks to either their faith in him or their desperation. He's got the physical profile and the positioning basics, but he's still learning the demands of top-flight defending—he's liable to be caught in possession and hesitant in one-v-one situations. Typical young defender: will either develop rapidly or disappear into lower divisions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,14 +65,13 @@ A 21-year-old Spanish centre-back getting senior football at Como, which speaks 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 23.8m |
-| Mid | EUR 52.0m |
-| Ceiling | EUR 62.4m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

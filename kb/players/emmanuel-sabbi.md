@@ -2,7 +2,7 @@
 title: Emmanuel Sabbi
 category: players
 tags: [CF, Vancouver Whitecaps, United States, Striker-Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Vancouver Whitecaps. Archetype: Striker-Sprinter.
@@ -23,19 +23,12 @@ backlinks: [striker, vancouver-whitecaps]
 | **Archetype** | [[striker]] Striker-Sprinter |
 | **Level** | 85 |
 | **Overall** | 65.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A physical, direct forward operating in MLS's mid-table ecosystem who thrives on high-intensity pressing and transitional chaos rather than positional sophistication. Sabbi has the athleticism and aggression to disrupt defenses and occasionally finish half-chances in the box, but his technical foundation—touch under pressure, nuance in tight spaces, ability to link play—remains limited for a center-forward at a higher level. At 28, he's a useful depth piece or a starter for sides that play to his strengths (chaos, counterattack), but the absence of a refined left foot or reliable positioning sense means he'll never be more than a functional MLS rotation option.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -75,13 +68,12 @@ A physical, direct forward operating in MLS's mid-table ecosystem who thrives on
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 47.0m |
-| Ceiling | EUR 56.4m |
-| Confidence | High |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -113,7 +105,7 @@ A physical, direct forward operating in MLS's mid-table ecosystem who thrives on
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

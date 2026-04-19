@@ -2,12 +2,12 @@
 title: James Sands
 category: players
 tags: [CM, FC St. Pauli, United States, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at FC St. Pauli. Archetype: Cover.
 person_id: 12327
-backlinks: [cover, tuttocampista, fc-st-pauli]
+backlinks: [cover, fc-st-pauli]
 ---
 
 # James Sands
@@ -21,27 +21,18 @@ backlinks: [cover, tuttocampista, fc-st-pauli]
 | **Nation** | United States |
 | **Age** | 25 |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A functional ball-winner who reads the game with decent positional sense but lacks the technical range to dictate play in a Bundesliga side fighting relegation. Sands operates as a destroyer rather than a builder—strong in the tackle, alert to second balls, but his passing range is limited and he won't progress the ball from deep with the regularity St. Pauli need if they're to control matches. He's the sort of midfielder you need next to someone far more creative; on his own, he's exposed.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `76`.
+- Best-fit role is `Tuttocampista` with model support score `76`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Jumping, Stamina, and First Touch.
@@ -76,14 +67,13 @@ A functional ball-winner who reads the game with decent positional sense but lac
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 20.0m |
-| Ceiling | EUR 24.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -112,7 +102,7 @@ A functional ball-winner who reads the game with decent positional sense but lac
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

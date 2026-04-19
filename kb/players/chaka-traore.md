@@ -5,7 +5,7 @@ tags: [WF, AC Milan, Côte d’Ivoire]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at AC Milan. Archetype: —.
+summary: WF at AC Milan. Archetype: None.
 person_id: 9478
 backlinks: [ac-milan]
 ---
@@ -19,23 +19,16 @@ backlinks: [ac-milan]
 | **Position** | WF |
 | **Club** | AC Milan |
 | **Nation** | Côte d’Ivoire |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young Ivorian winger still assembling his senior minutes; he has the frame and athleticism to suggest he could develop into a functional wing backup, but there's little evidence yet of the consistency or positional intelligence that mark a top-five league starter. His end product remains largely theoretical. Watch him rather than bank on him.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ A young Ivorian winger still assembling his senior minutes; he has the frame and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

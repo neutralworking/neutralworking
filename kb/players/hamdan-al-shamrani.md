@@ -5,7 +5,7 @@ tags: [CD, Al Ittihad, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Al Ittihad. Archetype: —.
+summary: CD at Al Ittihad. Archetype: None.
 person_id: 11625
 backlinks: [al-ittihad]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-ittihad]
 | **Club** | Al Ittihad |
 | **Nation** | Saudi Arabia |
 | **Age** | 29 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 75 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A centre-back whose primary virtue is reliability rather than brilliance—he reads the game adequately and positions himself sensibly. His ball-playing is straightforward without being crisp; he'll find a safe outlet rather than thread a progressive pass. Against Saudi league attackers he's perfectly adequate; against genuine pace and craft he's exposed because he lacks the athleticism to cover mistakes.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ A centre-back whose primary virtue is reliability rather than brilliance—he re
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

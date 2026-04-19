@@ -18,23 +18,17 @@ backlinks: [destroyer, fc-dallas]
 |---|---|
 | **Position** | CD |
 | **Club** | FC Dallas |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 73 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Amet Korça projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Physical, Jumping, and Balance.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,13 +61,13 @@ Amet Korça projects primarily as a CD with a `Destroyer` lean. The strongest da
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

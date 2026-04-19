@@ -5,7 +5,7 @@ tags: [CD, Bristol City, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Bristol City. Archetype: —.
+summary: CD at Bristol City. Archetype: None.
 person_id: 12514
 backlinks: [bristol-city]
 ---
@@ -19,23 +19,16 @@ backlinks: [bristol-city]
 | **Position** | CD |
 | **Club** | Bristol City |
 | **Nation** | England |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A young centre-back still establishing himself in senior football with reasonable positioning sense and physical tools, though his composure under pressure and distribution are underdeveloped. He reads the game reasonably well but will need several more seasons of regular minutes to become reliable.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ A young centre-back still establishing himself in senior football with reasonabl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

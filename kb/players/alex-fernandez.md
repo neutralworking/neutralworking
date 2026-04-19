@@ -23,19 +23,12 @@ backlinks: [passer, cadiz]
 | **Archetype** | [[passer]] Passer-Powerhouse |
 | **Level** | 76 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran midfielder at 33 whose legs have betrayed his technical understanding; he can still dictate tempo in patches and finds a pass, but he's laboured in transition and offers little defensive intensity anymore. Cádiz's inability to find midfield dynamism elsewhere shows why they keep him, but he's a depth option now rather than a solution. His best work comes in possession-heavy spells where he can hide his lack of mobility.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,13 +63,13 @@ A veteran midfielder at 33 whose legs have betrayed his technical understanding;
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

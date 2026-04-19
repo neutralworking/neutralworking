@@ -5,7 +5,7 @@ tags: [CD, Spain, Powerhouse-Passer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Powerhouse-Passer.
+summary: CD at None. Archetype: Powerhouse-Passer.
 person_id: 11007
 backlinks: [powerhouse]
 ---
@@ -17,25 +17,18 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 52 |
 | **Archetype** | [[powerhouse]] Powerhouse-Passer |
 | **Level** | 42 |
 | **Overall** | 42.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Fernando Sanz projects primarily as a CD with a `Powerhouse-Passer` lean. The strongest database support comes from Shielding, Long Range, and Physical.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -73,11 +66,10 @@ Fernando Sanz projects primarily as a CD with a `Powerhouse-Passer` lean. The st
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

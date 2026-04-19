@@ -1,32 +1,18 @@
 ---
 title: Levadiakos
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Levadiakos. 19 players in database.
+summary: Levadiakos. 20 players in database.
 ---
 
 # Levadiakos
 
-**League**: —  
-**Nation**: —  
-**Players in DB**: 19
-
-## Identity
-
-- Database coverage is deepest in CM (8), WF (6), and CF (2), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (6), Destroyer (4), and Striker (4) across the current squad.
-- Average available overall grade sits at 59.4, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**League**: None  
+**Nation**: None  
+**Players in DB**: 20
 
 ## Squad
 
@@ -35,6 +21,7 @@ summary: Levadiakos. 19 players in database.
 | [[p-simelidis]] P. Simelidis | CD | Destroyer | 71.0 |
 | [[a-ozbolt]] A. Ožbolt | CF | Striker | 64.0 |
 | [[f-pedrozo]] F. Pedrozo | CF | Striker | 68.0 |
+| [[a-tshibola]] A. Tshibola | CM | Creator-Cover | 29.0 |
 | [[e-cokaj]] E. Çokaj | CM | Powerhouse-Destroyer | 66.0 |
 | [[g-kornezos]] G. Kornezos | CM | Striker-Cover | 22.0 |
 | [[j-abu-hanna]] J. Abu Hanna | CM | Destroyer | 62.0 |
@@ -50,4 +37,4 @@ summary: Levadiakos. 19 players in database.
 | [[h-layous]] H. Layous | WF | Creator-Striker | 68.0 |
 | [[i-kosti]] I. Kosti | WF | Creator | 67.0 |
 | [[s-palacios]] S. Palacios | WF | Creator | 60.0 |
-| S. Jurić | — | Striker | — |
+| [[s-juric]] S. Jurić | None | Striker | None |

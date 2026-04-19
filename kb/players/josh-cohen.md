@@ -22,20 +22,13 @@ backlinks: [gk, maccabi-haifa-fc]
 | **Age** | 33 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A technically sound goalkeeper who reads the game well and distributes efficiently from the back—exactly what a modern MLS side needs operationally. At 33, Cohen is in that reliable veteran range where consistency matters more than spectacular saves; he won't steal you a match but won't lose one either. The issue is ceiling: he's never been a shot-stopper of the highest order, and his decision-making under pressure can be erratic, which limits his ceiling in genuinely high-leverage moments.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,14 +60,13 @@ A technically sound goalkeeper who reads the game well and distributes efficient
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

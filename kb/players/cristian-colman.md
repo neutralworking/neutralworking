@@ -2,10 +2,10 @@
 title: Cristian Colman
 category: players
 tags: [CF, Nacional Asunción, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Nacional Asunción. Archetype: —.
+summary: CF at Nacional Asunción. Archetype: None.
 person_id: 30994
 backlinks: [nacional-asuncion]
 ---
@@ -20,22 +20,15 @@ backlinks: [nacional-asuncion]
 | **Club** | Nacional Asunción |
 | **Nation** | Paraguay |
 | **Age** | 32 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 51.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Cristian Colman projects primarily as a CF with a `—` lean. The strongest database support comes from Pace, Acceleration, and Aerial Duels.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Cristian Colman projects primarily as a CF with a `None` lean. The strongest database support comes from Pace, Acceleration, and Aerial Duels.
 
 ## Role Fit
 
@@ -68,9 +61,8 @@ Cristian Colman projects primarily as a CF with a `—` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -88,5 +80,5 @@ Cristian Colman projects primarily as a CF with a `—` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 6 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 6 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |

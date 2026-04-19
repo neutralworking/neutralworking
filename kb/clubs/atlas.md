@@ -1,32 +1,18 @@
 ---
 title: Atlas
 category: clubs
-tags: [Mexico]
-updated: 2026-04-18
+tags: [None, Mexico]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Atlas. 16 players in database.
+summary: Atlas. 19 players in database.
 ---
 
 # Atlas
 
-**League**: —  
+**League**: None  
 **Nation**: Mexico  
-**Players in DB**: 16
-
-## Identity
-
-- Database coverage is deepest in CM (7), WM (2), and CF (2), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (8), Destroyer (3), and Cover (2) across the current squad.
-- Average available overall grade sits at 54.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 19
 
 ## Squad
 
@@ -37,14 +23,17 @@ summary: Atlas. 16 players in database.
 | [[a-mora]] A. Mora | CM | Destroyer-Striker | 60.0 |
 | [[a-rocha]] A. Rocha | CM | Creator-Destroyer | 60.0 |
 | [[e-zaldivar]] É. Zaldívar | CM | Creator-Striker | 25.0 |
+| [[g-aguirre]] G. Aguirre | CM | Destroyer | 62.0 |
 | [[gustavo-ferrareis]] Gustavo Ferrareis | CM | Creator-Cover | 62.0 |
 | [[paulo-ramirez]] Paulo Ramírez | CM | Striker-Destroyer | 61.0 |
 | [[rober-pier]] Róber Pier | CM | Cover-Passer | 31.0 |
 | [[v-raos]] V. RÃ­os | CM | Destroyer | 62.0 |
-| [[c-vargas]] C. Vargas | GK | GK | — |
+| [[c-vargas]] C. Vargas | GK | GK | None |
+| [[d-gonzalez]] D. González | WF | Creator | 64.0 |
 | [[e-aguirre]] E. Aguirre | WM | Creator-Striker | 62.0 |
 | [[g-del-prete]] G. del Prete | WM | Creator-Striker | 30.0 |
-| C. Orrantía | — | Creator-Striker | — |
-| Dória | — | Destroyer-Striker | — |
-| J. San Martín | — | Cover | — |
-| L. Gamboa | — | Creator | — |
+| [[s-hernandez]] S. Hernández | WM | Creator-Destroyer | 63.0 |
+| [[c-orrantia]] C. Orrantía | None | Creator-Striker | None |
+| [[doria]] Dória | None | Destroyer-Striker | None |
+| [[j-san-martin]] J. San Martín | None | Cover | None |
+| [[l-gamboa]] L. Gamboa | None | Creator | None |

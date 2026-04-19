@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Birmingham City. Archetype: Sprinter-Dribbler.
 person_id: 13312
-backlinks: [sprinter, ball-winner, birmingham-city]
+backlinks: [sprinter, birmingham-city]
 ---
 
 # Kanya Fujimoto
@@ -21,26 +21,18 @@ backlinks: [sprinter, ball-winner, birmingham-city]
 | **Nation** | Japan |
 | **Age** | 26 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[ball-winner]] Ball Winner |
 | **Level** | 81 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A Japanese midfielder or attacking midfielder with technical ability and the capacity to find spaces in the half-spaces; he moves the ball with intelligence and presses with purpose. However, his consistency is a concern, and he can disappear in matches against athletic sides who close him down quickly. Talented on his day, but unreliable as a weekly starter.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[ball-winner]] Ball Winner.
+- Best-fit role is `Ball Winner`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and First Touch.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ A Japanese midfielder or attacking midfielder with technical ability and the cap
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.8m |
-| Mid | EUR 21.0m |
-| Ceiling | EUR 25.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

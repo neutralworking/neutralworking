@@ -2,7 +2,7 @@
 title: Alisson
 category: players
 tags: [GK, São Paulo, Target]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at São Paulo. Archetype: Target.
@@ -18,12 +18,12 @@ backlinks: [target, sao-paulo]
 |---|---|
 | **Position** | GK |
 | **Club** | São Paulo |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 32 |
 | **Archetype** | [[target]] Target |
 | **Level** | 80 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
@@ -33,12 +33,6 @@ When [Liverpool](https://www.90min.com/teams/liverpool) spent nearly £70m on Al
 The Brazilian has proved to be a game-changing upgrade on Loris Karius at Anfield, perfectly straddling the attributes of both a sweeper-keeper and traditional stopper.  
   
 He's also played his part in Liverpool becoming Premier League, European and world champions in recent seasons. Worth the money, for sure.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -77,13 +71,13 @@ He's also played his part in Liverpool becoming Premier League, European and wor
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,11 +105,11 @@ He's also played his part in Liverpool becoming Premier League, European and wor
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -125,6 +119,7 @@ He's also played his part in Liverpool becoming Premier League, European and wor
 ---
 class: goalkeeper
 ---
+
 
 When [Liverpool](https://www.90min.com/teams/liverpool) spent nearly £70m on Alisson back in 2018, social media was awash with jibes from rival fans questioning the size of the fee. But they're not laughing now.  
   

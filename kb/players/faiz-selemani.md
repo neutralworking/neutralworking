@@ -5,7 +5,7 @@ tags: [CM, AZ, Comoros]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at AZ. Archetype: —.
+summary: CM at AZ. Archetype: None.
 person_id: 10925
 backlinks: [az]
 ---
@@ -20,22 +20,15 @@ backlinks: [az]
 | **Club** | AZ |
 | **Nation** | Comoros |
 | **Age** | 32 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 32-year-old midfielder from Comoros, almost certainly a short-term veteran presence in the squad. Limited athleticism for his age and vulnerable to modern pressing schemes; offers experience and positioning intelligence but isn't equipped for high-intensity English or Dutch football anymore. End-of-career journeyman.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -51,12 +44,11 @@ backlinks: [az]
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 2.8m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

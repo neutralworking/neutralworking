@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: AM at Cremonese. Archetype: Sprinter-Dribbler.
 person_id: 12573
-backlinks: [sprinter, trequartista, cremonese]
+backlinks: [sprinter, cremonese]
 ---
 
 # Jeremy Sarmiento
@@ -21,26 +21,18 @@ backlinks: [sprinter, trequartista, cremonese]
 | **Nation** | Ecuador |
 | **Age** | 23 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[trequartista]] Trequartista |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jeremy Sarmiento projects primarily as a AM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, Balance, and Pace.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[trequartista]] Trequartista.
+- Best-fit role is `Trequartista`.
 - Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Pace.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -71,14 +63,13 @@ Jeremy Sarmiento projects primarily as a AM with a `Sprinter-Dribbler` lean. The
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

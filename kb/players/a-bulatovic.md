@@ -2,7 +2,7 @@
 title: A. Bulatović
 category: players
 tags: [DM, Lens, Creator-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Lens. Archetype: Creator-Cover.
@@ -18,24 +18,17 @@ backlinks: [creator, lens]
 |---|---|
 | **Position** | DM |
 | **Club** | Lens |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Cover |
 | **Level** | 78 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Operating as a Terrier, Bulatović is a natural Anchor, showcasing strong technical abilities in tackling, awareness, and particularly, interceptions and mid-range passing, with guile being a clear strength. However, his limited tactical, mental, and physical pillars mean he struggles with take-ons, blocking, and close-range distribution, impacting his range of influence. He belongs to the lineage of deep-lying defensive midfielders who excel at breaking up play and initiating transitions, fitting perfectly into high-pressing systems that require a dedicated ball-winner to screen the defense. A Director of Football would target Bulatović for a team needing a specialist defensive presence to stabilize the midfield, especially in systems emphasizing aggressive ball recovery, though his limited physical ceiling and struggles in close-range attacking phases suggest he needs complementary midfielders.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Operating as a Terrier, Bulatović is a natural Anchor, showcasing strong techni
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.9m |
-| Mid | EUR 14.0m |
-| Ceiling | EUR 16.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Operating as a Terrier, Bulatović is a natural Anchor, showcasing strong techni
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

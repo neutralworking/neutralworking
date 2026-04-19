@@ -2,12 +2,12 @@
 title: J. Vondra
 category: players
 tags: [CM, Bohemians 1905, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Bohemians 1905. Archetype: Cover.
 person_id: 24247
-backlinks: [cover, tuttocampista, bohemians-1905]
+backlinks: [cover, bohemians-1905]
 ---
 
 # J. Vondra
@@ -18,30 +18,21 @@ backlinks: [cover, tuttocampista, bohemians-1905]
 |---|---|
 | **Position** | CM |
 | **Club** | Bohemians 1905 |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 30 |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Vondra is a Tuttocampista who excels in defensive situations, using his interceptions and blocking ability to win the ball back. His awareness and composure are notable strengths, allowing him to read the game and make intelligent decisions. However, his limited creativity and lack of take-ons hold him back from being a more dynamic player, and his limited long-range passing range restricts his team's ability to switch the point of attack and create scoring opportunities.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
+- Best-fit role is `Tuttocampista` with model support score `75`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Interceptions, Awareness, and Blocking.
@@ -71,14 +62,13 @@ Vondra is a Tuttocampista who excels in defensive situations, using his intercep
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.4m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +91,7 @@ Vondra is a Tuttocampista who excels in defensive situations, using his intercep
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

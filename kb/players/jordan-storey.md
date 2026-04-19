@@ -2,12 +2,12 @@
 title: Jordan Storey
 category: players
 tags: [CD, Preston North End, England, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Preston North End. Archetype: Powerhouse-Destroyer.
 person_id: 12933
-backlinks: [powerhouse, colossus, preston-north-end]
+backlinks: [powerhouse, preston-north-end]
 ---
 
 # Jordan Storey
@@ -21,27 +21,18 @@ backlinks: [powerhouse, colossus, preston-north-end]
 | **Nation** | England |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
-| **Best Role** | [[colossus]] Colossus |
-| **Role Score** | 76 |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Solid, reliable centre-back with good positioning and concentration; somewhat limited athletically and doesn't possess the technical range for elite teams, but consistent Championship-level performer.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus with model support score `76`.
+- Best-fit role is `Colossus` with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Heading, and Reactions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -76,14 +67,13 @@ Solid, reliable centre-back with good positioning and concentration; somewhat li
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 24.6m |
-| Mid | EUR 29.0m |
-| Ceiling | EUR 34.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,7 +100,7 @@ Solid, reliable centre-back with good positioning and concentration; somewhat li
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

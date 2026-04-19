@@ -22,19 +22,13 @@ backlinks: [gk, tottenham-hotspur]
 | **Age** | 23 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young Czech keeper with decent shot-stopping ability but raw decision-making between the sticks. Currently a development prospect competing for third-choice minutes; needs several years of regular football to determine if he's a viable top-flight option.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +60,13 @@ Young Czech keeper with decent shot-stopping ability but raw decision-making bet
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 12.3m |
-| Mid | EUR 30.0m |
-| Ceiling | EUR 36.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

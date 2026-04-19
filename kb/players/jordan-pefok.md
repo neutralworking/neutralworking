@@ -5,9 +5,9 @@ tags: [CF, Tondela, United States]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at Tondela. Archetype: —.
+summary: CF at Tondela. Archetype: None.
 person_id: 12923
-backlinks: [spearhead, tondela]
+backlinks: [tondela]
 ---
 
 # Jordan Pefok
@@ -20,27 +20,19 @@ backlinks: [spearhead, tondela]
 | **Club** | Tondela |
 | **Nation** | United States |
 | **Age** | 29 |
-| **Archetype** | — |
-| **Best Role** | [[spearhead]] Spearhead |
+| **Archetype** | [[—]] None |
 | **Level** | 86 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
-Jordan Pefok projects primarily as a CF with a `—` lean. The strongest database support comes from Physical, Anticipation, and Communication.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Jordan Pefok projects primarily as a CF with a `None` lean. The strongest database support comes from Physical, Anticipation, and Communication.
 
 ## Role Fit
 
-- Best-fit role is [[spearhead]] Spearhead.
+- Best-fit role is `Spearhead`.
 - Most bankable strengths show up in Physical, Anticipation, and Communication.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -65,14 +57,13 @@ Jordan Pefok projects primarily as a CF with a `—` lean. The strongest databas
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 49.0m |
-| Ceiling | EUR 58.8m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -19,23 +19,16 @@ backlinks: [sprinter, hull-city]
 | **Position** | WF |
 | **Club** | Hull City |
 | **Nation** | Mali |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Explosive ball-carrier with the kind of low centre of gravity and change-of-direction ability that leaves defenders grasping at air in transition. Operates best on the wing, where his acceleration and dribbling in tight spaces create chaos and avenue for cut-backs or inverted crosses. His finishing is genuinely poor, though, and he lacks any meaningful left foot — once defenders adjust to his pattern play (always cutting inside), he becomes considerably easier to contain.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Explosive ball-carrier with the kind of low centre of gravity and change-of-dire
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

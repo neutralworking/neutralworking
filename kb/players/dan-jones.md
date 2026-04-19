@@ -5,7 +5,7 @@ tags: [CD, England, Powerhouse]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Powerhouse.
+summary: CD at None. Archetype: Powerhouse.
 person_id: 9867
 backlinks: [powerhouse]
 ---
@@ -17,25 +17,18 @@ backlinks: [powerhouse]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | England |
 | **Age** | 31 |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Dan Jones projects primarily as a CD with a `Powerhouse` lean. The strongest database support comes from Jumping, Physical, and Aggression.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Dan Jones projects primarily as a CD with a `Powerhouse` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

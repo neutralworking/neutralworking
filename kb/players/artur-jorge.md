@@ -23,19 +23,12 @@ backlinks: [cover, al-shahaniya]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 40 |
 | **Overall** | 38.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Artur Jorge is a no-nonsense, old-school defender who excels in the air, with his impressive jumping ability and heading technique making him a threat from set pieces, but his lack of technical ability and close-range defensive skills are major concerns, often leaving him exposed in one-on-one situations. His aggressive approach can sometimes put him at risk of picking up unnecessary bookings. Despite his physical prowess, Jorge's limited mental attributes and poor decision-making can lead to costly mistakes, particularly when dealing with pacey opponents who can exploit the half-spaces.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Artur Jorge is a no-nonsense, old-school defender who excels in the air, with hi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

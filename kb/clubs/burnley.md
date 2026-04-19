@@ -2,7 +2,7 @@
 title: Burnley
 category: clubs
 tags: [Premier League, England]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Burnley. 41 players in database.
@@ -13,20 +13,6 @@ summary: Burnley. 41 players in database.
 **League**: Premier League  
 **Nation**: England  
 **Players in DB**: 41
-
-## Identity
-
-- Database coverage is deepest in CM (8), WD (6), and CD (6), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Destroyer (9), Creator (7), and Striker (5) across the current squad.
-- Average available overall grade sits at 69.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -51,20 +37,21 @@ summary: Burnley. 41 players in database.
 | [[josh-cullen]] Josh Cullen | CM | Engine | 73.0 |
 | [[josh-laurent]] Josh Laurent | CM | Destroyer-Sprinter | 73.0 |
 | [[o-sonne]] O. Sonne | CM | Destroyer-Sprinter | 31.0 |
-| [[thomas-marshall]] Thomas Marshall | CM | — | — |
+| [[thomas-marshall]] Thomas Marshall | CM | None | None |
 | [[florentino]] Florentino | DM | Cover-Dribbler | 72.0 |
 | [[florentino-luis]] Florentino Luís | DM | Creator | 75.0 |
 | [[lesley-ugochukwu]] Lesley Ugochukwu | DM | Destroyer-Dribbler | 73.0 |
-| [[aidan-stone]] Aidan Stone | GK | GK | — |
+| [[aidan-stone]] Aidan Stone | GK | GK | None |
 | [[martin-dubravka]] Martin Dúbravka | GK | GK | 70.0 |
-| [[vaclav-hladky]] Vaclav Hladky | GK | GK | — |
-| [[will-norris]] Will Norris | GK | GK | — |
+| [[vaclav-hladky]] Vaclav Hladky | GK | GK | None |
+| [[will-norris]] Will Norris | GK | GK | None |
 | [[connor-roberts]] Connor Roberts | WD | Powerhouse | 73.0 |
 | [[kyle-walker]] Kyle Walker | WD | Engine | 66.0 |
 | [[lucas-pires]] Lucas Pires | WD | Creator | 68.0 |
-| [[matt-lowton]] Matt Lowton | WD | — | — |
+| [[matt-lowton]] Matt Lowton | WD | None | None |
 | [[quilindschy-hartman]] Quilindschy Hartman | WD | Cover-Dribbler | 77.0 |
 | [[vitinho]] Vitinho | WD | Striker | 77.0 |
+| [[enock-agyei]] Enock Agyei | WF | Creator | 61.0 |
 | [[jacob-bruun-larsen]] Jacob Bruun Larsen | WF | Creator-Passer | 75.0 |
 | [[jaidon-anthony]] Jaidon Anthony | WF | Sprinter-Dribbler | 69.0 |
 | [[loum-tchaouna]] Loum Tchaouna | WF | Dribbler | 70.0 |
@@ -72,4 +59,3 @@ summary: Burnley. 41 players in database.
 | [[marcus-edwards]] Marcus Edwards | WF | Sprinter-Dribbler | 73.0 |
 | [[mike-tresor]] Mike Tresor | WF | Sprinter | 68.0 |
 | [[johann-berg-gudmundsson]] Johann Berg Gudmundsson | WM | Creator | 72.0 |
-| J. Banel | — | Creator-Sprinter | — |

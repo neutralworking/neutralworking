@@ -2,7 +2,7 @@
 title: Abdülkerim Bardakcı
 category: players
 tags: [CD, Galatasaray, Turkey, Cover-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Galatasaray. Archetype: Cover-Powerhouse.
@@ -23,18 +23,12 @@ backlinks: [cover, galatasaray]
 | **Archetype** | [[cover]] Cover-Powerhouse |
 | **Level** | 86 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A physical, aggressive 31-year-old stopper with exceptional heading and jumping but declining technical bandwidth; his elegance and stamina suggest enduring durability, yet pressing limitations and technical regression make him a pure defensive presence rather than a modern distributor. His left-footed build-up contribution remains functional without sophistication, marking him as a zero-nonsense centre-half for teams prizing physical dominance and positional discipline. Late-career acquisition for clubs in structural transitions or needing immediate defensive solidity, not progression.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ A physical, aggressive 31-year-old stopper with exceptional heading and jumping 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.2m |
-| Mid | EUR 19.0m |
-| Ceiling | EUR 22.8m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +105,7 @@ A physical, aggressive 31-year-old stopper with exceptional heading and jumping 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 50 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 50 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Juan Carlos Medina
 category: players
 tags: [WM, Independiente, Sprinter-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Independiente. Archetype: Sprinter-Passer.
 person_id: 3662
-backlinks: [sprinter, wide-playmaker, independiente]
+backlinks: [sprinter, independiente]
 ---
 
 # Juan Carlos Medina
@@ -18,30 +18,21 @@ backlinks: [sprinter, wide-playmaker, independiente]
 |---|---|
 | **Position** | WM |
 | **Club** | Independiente |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 42 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
-| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Juan Carlos Medina projects primarily as a WM with a `Sprinter-Passer` lean. The strongest database support comes from Acceleration, Pace, and Pass Range.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `70`.
+- Best-fit role is `Wide Playmaker` with model support score `70`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WM` base.
 - Most bankable strengths show up in Acceleration, Pace, and Pass Range.
 
@@ -73,11 +64,10 @@ Juan Carlos Medina projects primarily as a WM with a `Sprinter-Passer` lean. The
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,6 +93,6 @@ Juan Carlos Medina projects primarily as a WM with a `Sprinter-Passer` lean. The
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

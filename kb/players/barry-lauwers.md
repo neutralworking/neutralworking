@@ -2,7 +2,7 @@
 title: Barry Lauwers
 category: players
 tags: [GK, Volendam, Netherlands, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
 summary: GK at Volendam. Archetype: GK.
@@ -22,20 +22,13 @@ backlinks: [gk, volendam]
 | **Age** | 27 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 77 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A capable Dutch goalkeeper plying his trade in the Eerste Divisie, Lauwers is a functional shot-stopper with decent positioning and reasonable handling of set-piece situations. His distribution is acceptable but unremarkable—he'll find a free man but won't be threading progressive passes into midfield. The limiting factor is his footwork under pressure; he's not the type you'd want playing out of the back against a high press, and his angles can be uncertain when forced into modern sweeper-keeper demands.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,14 +43,13 @@ A capable Dutch goalkeeper plying his trade in the Eerste Divisie, Lauwers is a 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -77,5 +69,5 @@ A capable Dutch goalkeeper plying his trade in the Eerste Divisie, Lauwers is a 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

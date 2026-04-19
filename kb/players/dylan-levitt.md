@@ -23,19 +23,12 @@ backlinks: [dribbler, hibernian]
 | **Archetype** | [[dribbler]] Dribbler |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A technical midfielder with crisp range and distribution—both mid and long-range passing sit comfortably in his skillset—who operates best as a tuttocampista capable of threading play through the thirds. His balance and pass accuracy anchor possession play, though mental resilience and anticipatory guile remain shallow; he can be exposed in moments requiring reactive intelligence or physical commitment. At 25 with newcomer status, Levitt suits a possession-dominant system where structure compensates for his moderate tactical nous and he's shielded from defensive intensity. His practical temperament and structured approach make him coachable, but clubs expecting volatility or ball-carrying creativity should look elsewhere.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A technical midfielder with crisp range and distribution—both mid and long-ran
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

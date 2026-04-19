@@ -2,12 +2,12 @@
 title: Jonathan Gradit
 category: players
 tags: [CD, Lens, France, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Lens. Archetype: Destroyer.
 person_id: 12864
-backlinks: [destroyer, stopper, lens]
+backlinks: [destroyer, lens]
 ---
 
 # Jonathan Gradit
@@ -21,27 +21,18 @@ backlinks: [destroyer, stopper, lens]
 | **Nation** | France |
 | **Age** | 33 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[stopper]] Stopper |
-| **Role Score** | 79 |
 | **Level** | 84 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Experienced centre-back at 33 with solid positioning and a genuine understand of defensive shape. Still reads the game ahead of him well and can step out progressively when asked. But his decline in pace is noticeable, and modern attackers with genuine dynamic unpredictability will exploit him if he's not supported by aggressive pressing higher up.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[stopper]] Stopper with model support score `79`.
+- Best-fit role is `Stopper` with model support score `79`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Jumping, Reactions, and Heading.
@@ -76,14 +67,13 @@ Experienced centre-back at 33 with solid positioning and a genuine understand of
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -112,7 +102,7 @@ Experienced centre-back at 33 with solid positioning and a genuine understand of
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

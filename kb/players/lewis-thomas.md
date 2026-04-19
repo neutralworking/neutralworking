@@ -1,0 +1,92 @@
+---
+title: Lewis Thomas
+category: players
+tags: [GK, Forest Green Rovers, England, GK]
+updated: 2026-04-18
+source: compiled
+confidence: high
+summary: GK at Forest Green Rovers. Archetype: GK.
+person_id: 13908
+backlinks: [gk, forest-green-rovers]
+---
+
+# Lewis Thomas
+
+## Overview
+
+| Field | Value |
+|---|---|
+| **Position** | GK |
+| **Club** | Forest Green Rovers |
+| **Nation** | England |
+| **Age** | 29 |
+| **Archetype** | [[gk]] GK |
+| **Level** | 70 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
+
+## Snapshot
+
+A goalkeeper of adequate shot-stopping ability but limited presence and command in his area, Thomas is a competent reserve or lower-division starter whose reflexes are reasonably sharp but whose distribution and decision-making under pressure remain unrefined. He doesn't command his box with authority, and there's no evidence of the sweeper-keeper development that modern football increasingly demands. At 29, he has likely reached his ceiling: a backup goalkeeper with limited upside.
+
+## Role Fit
+
+- Primary archetype leans toward `GK` behaviour from a `GK` base.
+- Most bankable strengths show up in Acceleration, Jumping, and Pace.
+- Profile should be judged on shot-stopping, area command, and distribution fit to team style.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Jumping, and Pace.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Jumping | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Pace | ███████████ 11/10 | One of the stronger current indicators for this profile at 11/10. |
+| Reactions | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Physical | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Aggression | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Stamina | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Metric coverage is shallow relative to a full dossier standard.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 64
+- **Motivation (SN)**: 26
+- **Social (TF)**: 34
+- **Pressure (JP)**: 21
+- **Competitiveness**: 2/10
+- **Coachability**: 7/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WF at Stoke City. Archetype: Sprinter-Dribbler.
 person_id: 12344
-backlinks: [sprinter, inverted-winger, stoke-city]
+backlinks: [sprinter, stoke-city]
 ---
 
 # Jamie Donley
@@ -21,26 +21,18 @@ backlinks: [sprinter, inverted-winger, stoke-city]
 | **Nation** | Northern Ireland |
 | **Age** | 21 |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[inverted-winger]] Inverted Winger |
 | **Level** | 63 |
 | **Overall** | 56.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Pacy Northern Irish winger with directness and tenacity but minimal top-flight exposure suggests he's still several levels away from consistent Premier League action. Project player who may develop into a decent squad option but unlikely to become a key player.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[inverted-winger]] Inverted Winger.
+- Best-fit role is `Inverted Winger`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -66,14 +58,13 @@ Pacy Northern Irish winger with directness and tenacity but minimal top-flight e
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

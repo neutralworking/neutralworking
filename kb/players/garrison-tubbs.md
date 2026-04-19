@@ -2,7 +2,7 @@
 title: Garrison Tubbs
 category: players
 tags: [CD, Atlanta United FC, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Atlanta United FC. Archetype: Destroyer.
@@ -18,24 +18,17 @@ backlinks: [destroyer, atlanta-united-fc]
 |---|---|
 | **Position** | CD |
 | **Club** | Atlanta United FC |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 24 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 69 |
 | **Overall** | 57.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Tubbs is a traditional Destroyer, excelling in the physical aspects of the game, dominant in the air with strong jumping and heading, and competent in marking and tackling. However, his significant mental deficiencies are a glaring concern, impacting his decision-making and awareness. Furthermore, his inability to execute through balls or take-ons means he offers no offensive threat or distribution quality beyond basic clearances.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Tubbs is a traditional Destroyer, excelling in the physical aspects of the game,
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,7 +92,7 @@ Tubbs is a traditional Destroyer, excelling in the physical aspects of the game,
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

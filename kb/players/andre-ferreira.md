@@ -23,18 +23,12 @@ backlinks: [gk, moreirense]
 | **Archetype** | [[gk]] GK |
 | **Level** | 82 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 André Ferreira projects primarily as a GK with a `GK` lean. The strongest database support comes from Physical, Jumping, and Reactions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ André Ferreira projects primarily as a GK with a `GK` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 25.0m |
-| Ceiling | EUR 30.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

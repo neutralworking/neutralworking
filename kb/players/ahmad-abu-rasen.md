@@ -19,22 +19,16 @@ backlinks: [sprinter, al-hilal]
 | **Position** | GK |
 | **Club** | Al-Hilal |
 | **Nation** | Saudi Arabia |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 79 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Ahmad Abu Rasen projects primarily as a GK with a `Sprinter` lean. The strongest database support comes from Acceleration, Balance, and Pace.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -67,13 +61,13 @@ Ahmad Abu Rasen projects primarily as a GK with a `Sprinter` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.0m |
-| Mid | EUR 12.0m |
-| Ceiling | EUR 14.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

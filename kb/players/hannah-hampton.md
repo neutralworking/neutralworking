@@ -22,20 +22,13 @@ backlinks: [gk, aston-villa-wfc]
 | **Age** | 25 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 73 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 An England international with legitimate top-flight pedigree, Hampton combines genuine athleticism with excellent distribution—her passing out of possession is crisp and purposeful, and she's comfortable playing a high line or sweeping behind a pressing defence. Her shot-stopping is dependable rather than spectacular, and she occasionally hesitates on her line when facing inverted wingers cutting back for cutbacks, but her overall package—consistent performance, big-game composure, and ability to organize a back line—makes her a solid starter at a Championship-contending club. She won't steal you a final like a 90+ keeper might, but she's the sort of reliable guardian you build a defensive structure around.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,14 +43,13 @@ An England international with legitimate top-flight pedigree, Hampton combines g
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,6 +78,6 @@ An England international with legitimate top-flight pedigree, Hampton combines g
 <details>
 <summary>Raw scouting narrative</summary>
 
-16 November 2000 (age 22)	2	0	England Chelsea
+	16 November 2000 (age 22)	2	0	England Chelsea
 
 </details>

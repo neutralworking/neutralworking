@@ -23,19 +23,12 @@ backlinks: [gk, dinamo-tbilisi]
 | **Archetype** | [[gk]] GK |
 | **Level** | 65 |
 | **Overall** | 59.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran Georgian goalkeeper now in his 40th year, Loria remains a functional presence between the sticks for Dinamo Tbilisi—steady enough for domestic competition but without the reflexes or footwork required at a serious European level. His game is built on positioning and experience rather than athleticism; he reads the play early and rarely makes catastrophic errors, which matters in the Georgian Premier League's measured tempo. At this age, however, he's a step slow to his near post, struggles with modern pressing demands that require distribution into midfield, and represents a genuine weakness if Dinamo ever genuinely compete in European group stages.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ A veteran Georgian goalkeeper now in his 40th year, Loria remains a functional p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

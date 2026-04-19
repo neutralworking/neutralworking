@@ -2,12 +2,12 @@
 title: João Alves
 category: players
 tags: [CM, Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at —. Archetype: Dribbler.
+summary: CM at None. Archetype: Dribbler.
 person_id: 3391
-backlinks: [dribbler, tuttocampista]
+backlinks: [dribbler]
 ---
 
 # João Alves
@@ -17,31 +17,22 @@ backlinks: [dribbler, tuttocampista]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
-| **Nation** | — |
+| **Club** | None |
+| **Nation** | None |
 | **Age** | 45 |
 | **Archetype** | [[dribbler]] Dribbler |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 49 |
 | **Level** | 55 |
 | **Overall** | 49.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 João Alves projects primarily as a CM with a `Dribbler` lean. The strongest database support comes from First Touch, Pass Range, and Heading.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `49`.
+- Best-fit role is `Tuttocampista` with model support score `49`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Positional Discipline and Build Up Contributor.
 - Most bankable strengths show up in First Touch, Pass Range, and Heading.
@@ -79,11 +70,10 @@ João Alves projects primarily as a CM with a `Dribbler` lean. The strongest dat
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,6 +100,6 @@ João Alves projects primarily as a CM with a `Dribbler` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 33 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 33 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

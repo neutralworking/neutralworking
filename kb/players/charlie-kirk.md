@@ -2,10 +2,10 @@
 title: Charlie Kirk
 category: players
 tags: [CF, Crewe Alexandra, England]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CF at Crewe Alexandra. Archetype: —.
+summary: CF at Crewe Alexandra. Archetype: None.
 person_id: 9494
 backlinks: [crewe-alexandra]
 ---
@@ -20,22 +20,15 @@ backlinks: [crewe-alexandra]
 | **Club** | Crewe Alexandra |
 | **Nation** | England |
 | **Age** | 28 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Dependable right-back with good crossing ability and decent one-versus-one defending, though his positioning can drift when the press is coordinated. Offers genuine attacking thrust down the flank but isn't quick enough to recover consistently against genuine pace. Serviceable Championship depth, suited to a back four that stays organized rather than one asked to play with fluidity.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Dependable right-back with good crossing ability and decent one-versus-one defen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -72,5 +64,5 @@ Dependable right-back with good crossing ability and decent one-versus-one defen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

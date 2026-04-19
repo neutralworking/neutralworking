@@ -2,7 +2,7 @@
 title: Adam Gnezda Čerin
 category: players
 tags: [AM, Panathinaikos, Slovenia, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Panathinaikos. Archetype: Sprinter-Dribbler.
@@ -23,19 +23,12 @@ backlinks: [sprinter, panathinaikos]
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 86 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Čerin functions as a patient Playmaker and Trequartista, distinguishing himself through excellent stamina, intelligent movement, precise first touch, and impressive passing range. He dictates tempo and links play through distribution rather than dynamic carrying, fitting into possession-based systems that build methodically from midfield. His limited technical prowess for ball carrying and lack of creative spark could restrict his impact in more direct, aggressive attacking roles, making him a specialist acquisition for a club needing a midfield orchestrator rather than a progressive carrier.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +59,13 @@ backlinks: [sprinter, panathinaikos]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.3m |
-| Mid | EUR 53.0m |
-| Ceiling | EUR 63.6m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -97,7 +90,7 @@ backlinks: [sprinter, panathinaikos]
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

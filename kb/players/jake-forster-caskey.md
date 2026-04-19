@@ -23,19 +23,12 @@ backlinks: [powerhouse, milton-keynes-dons]
 | **Archetype** | [[powerhouse]] Powerhouse-Passer |
 | **Level** | 80 |
 | **Overall** | 77.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A midfielder in his early thirties who brings experience and leadership but is now more of a presence than a performer. He can still pass and control games in a methodical way, but he's not a ball carrier or dribbler, and his energy has diminished. Useful as a squad option and dressing-room voice.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ A midfielder in his early thirties who brings experience and leadership but is n
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.0m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

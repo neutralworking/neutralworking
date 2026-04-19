@@ -5,7 +5,7 @@ tags: [CF, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Sprinter.
+summary: CF at None. Archetype: Sprinter.
 person_id: 886
 backlinks: [sprinter]
 ---
@@ -17,25 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
-| **Nation** | — |
+| **Club** | None |
+| **Nation** | None |
 | **Age** | 43 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 51 |
 | **Overall** | 52.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Boubacar Sanogo projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Acceleration, Aerial Duels, and Pace.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -69,11 +62,10 @@ Boubacar Sanogo projects primarily as a CF with a `Sprinter` lean. The strongest
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

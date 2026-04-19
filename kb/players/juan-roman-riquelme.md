@@ -2,12 +2,12 @@
 title: Juan Román Riquelme
 category: players
 tags: [AM, Argentina, Creator-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: AM at —. Archetype: Creator-Passer.
+summary: AM at None. Archetype: Creator-Passer.
 person_id: 3677
-backlinks: [creator, enganche]
+backlinks: [creator]
 ---
 
 # Juan Román Riquelme
@@ -17,24 +17,23 @@ backlinks: [creator, enganche]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Argentina |
 | **Age** | 47 |
 | **Archetype** | [[creator]] Creator-Passer |
-| **Best Role** | [[enganche]] Enganche |
-| **Role Score** | 90 |
 | **Level** | 45 |
 | **Overall** | 47.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-DB/Docs 1/Players/Classes/Enganche
+[[DB/Docs 1/Players/Classes/Enganche]]
 
 Instinctive. 
 Genius. 
 La Nuestra/Potrero futbol. Skill, guile, imagination. Romanticism. As much about aesthetics than result. 
+
 
 Considered one of the most talented Argentine players of his generation, Riquelme is best known for his creative passing.
 An offensive midfield playmaker, he combined passing, Vision, and technical skills with goalscoring ability from midfield; he was also capable of playing as a deep-lying playmaker.
@@ -47,19 +46,13 @@ He was named the Argentine Footballer of the Year four times.
 
 An Argentine international for eleven years, Riquelme represented the nation at the 2006 World Cup and two Copa América tournaments, reaching the final in the 2007 edition; he also participated in the 2005 FIFA Confederations Cup with Argentina, reaching the final, and he led his country as captain to win a Gold medal at the 2008 Olympics.
 
+
 Riqueleme "never believed in tactics". 
-When he came into contact with the 'militaristic' (quote from Cruyff) Louis van Gaal, who said that the signing was 'political', he wasn't able to work within the system as the 'ten' or 'inside forward'.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+When he came into contact with the 'militaristic' (quote from Cruyff) [[Louis van Gaal]], who said that the signing was 'political', he wasn't able to work within the system as the 'ten' or 'inside forward'.
 
 ## Role Fit
 
-- Best-fit role is [[enganche]] Enganche with model support score `90`.
+- Best-fit role is `Enganche` with model support score `90`.
 - Primary archetype leans toward `Creator` behaviour from a `AM` base.
 - Most bankable strengths show up in First Touch, Long Range, and Mid Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -89,11 +82,10 @@ When he came into contact with the 'militaristic' (quote from Cruyff) Louis van 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -118,7 +110,7 @@ When he came into contact with the 'militaristic' (quote from Cruyff) Louis van 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

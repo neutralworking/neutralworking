@@ -2,7 +2,7 @@
 title: Dejan Ljubičić
 category: players
 tags: [CM, Dinamo Zagreb, Austria, Creator-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Dinamo Zagreb. Archetype: Creator-Engine.
@@ -19,23 +19,16 @@ backlinks: [creator, dinamo-zagreb]
 | **Position** | CM |
 | **Club** | Dinamo Zagreb |
 | **Nation** | Austria |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Engine |
 | **Level** | 77 |
 | **Overall** | 58.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An energetic midfielder who covers ground and isn't afraid of the ball, but his execution in possession can be sloppy and his decision-making lacks the consistency required for top-table sides. He's a useful rotation option for a club fighting relegation—gritty and willing—but there's a ceiling to his impact.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ An energetic midfielder who covers ground and isn't afraid of the ball, but his 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +100,7 @@ An energetic midfielder who covers ground and isn't afraid of the ball, but his 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

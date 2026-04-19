@@ -22,19 +22,13 @@ backlinks: [gk, monza]
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 67 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Young shot-stopper with decent fundamentals and a clean pair of hands, but he's operating in Serie A's basement and hasn't yet proved he can command a box with the authority a top-flight keeper needs. Distribution remains pedestrian—he'll win you nothing with his feet. Still in development; could become serviceable, but right now he's a backup learning on the job.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -66,13 +60,13 @@ Young shot-stopper with decent fundamentals and a clean pair of hands, but he's 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

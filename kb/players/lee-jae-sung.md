@@ -2,7 +2,7 @@
 title: Lee Jae-sung
 category: players
 tags: [CM, Mainz 05, South Korea, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Mainz 05. Archetype: Cover.
@@ -26,29 +26,54 @@ backlinks: [cover, mainz-05]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 South Korean midfielder with genuine technical fluency and an ability to drive forward with purpose, though his athleticism has waned. Increasingly reliant on positioning and intelligence rather than physical capacity; he can still control a game tactically but is vulnerable to pressing.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `72`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Most bankable strengths show up in Close Range, Discipline, and Mid Range.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Close Range, Discipline, and Mid Range.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Close Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Mid Range | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Long Range | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Pressing | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Threat | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Close Range | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
-| Mid Range | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
-| Pressing | ████████░░ 8/10 |
-| Threat | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Pass Accuracy | ███████░░░ 7/10 |
-| Through Balls | ███████░░░ 7/10 |
-| Aggression | ██████░░░░ 6/10 |
-| Communication | ██████░░░░ 6/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -58,3 +83,11 @@ South Korean midfielder with genuine technical fluency and an ability to drive f
 - **Pressure (JP)**: 53
 - **Competitiveness**: 4/10
 - **Coachability**: 3/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Kenus Godswill
 category: players
 tags: [CD, Stellenbosch FC, Nigeria]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Stellenbosch FC. Archetype: —.
+summary: CD at Stellenbosch FC. Archetype: None.
 person_id: 32347
-backlinks: [colossus, stellenbosch-fc]
+backlinks: [stellenbosch-fc]
 ---
 
 # Kenus Godswill
@@ -19,28 +19,20 @@ backlinks: [colossus, stellenbosch-fc]
 | **Position** | CD |
 | **Club** | Stellenbosch FC |
 | **Nation** | Nigeria |
-| **Age** | — |
-| **Archetype** | — |
-| **Best Role** | [[colossus]] Colossus |
-| **Level** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 17.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Kenus Godswill projects primarily as a CD with a `—` lean. The strongest database support comes from Aggression, Creativity, and Tackling.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Kenus Godswill projects primarily as a CD with a `None` lean. The strongest database support comes from Aggression, Creativity, and Tackling.
 
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus.
+- Best-fit role is `Colossus`.
 - Most bankable strengths show up in Aggression, Creativity, and Tackling.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -74,9 +66,8 @@ Kenus Godswill projects primarily as a CD with a `—` lean. The strongest datab
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -87,4 +78,4 @@ Kenus Godswill projects primarily as a CD with a `—` lean. The strongest datab
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |

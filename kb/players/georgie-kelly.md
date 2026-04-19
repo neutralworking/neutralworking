@@ -23,19 +23,12 @@ backlinks: [target, dundalk-fc]
 | **Archetype** | [[target]] Target |
 | **Level** | 76 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Experienced Irish forward with a genuine nose for the penalty box and reasonable movement off the ball, though his overall athleticism is now declining and his first touch can be heavy at times. Still capable of a goal from a half-chance due to his positioning, but he's operating as a poacher rather than a player who creates space or links play. Useful veteran at this level, nothing more.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ Experienced Irish forward with a genuine nose for the penalty box and reasonable
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.0m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

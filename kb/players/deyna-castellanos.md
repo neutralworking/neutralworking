@@ -5,7 +5,7 @@ tags: [CM, Venezuela]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 10263
 ---
 
@@ -16,25 +16,14 @@ person_id: 10263
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Venezuela |
 | **Age** | 27 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 82 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
-
-## Snapshot
-
-Deyna Castellanos is currently a roster-level CM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -48,14 +37,13 @@ Deyna Castellanos is currently a roster-level CM entry in the KB. The page shoul
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 25.5m |
-| Mid | EUR 30.0m |
-| Ceiling | EUR 36.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

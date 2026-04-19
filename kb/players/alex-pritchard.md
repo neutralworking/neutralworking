@@ -23,19 +23,12 @@ backlinks: [creator, sivasspor]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 78 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A journeyman English midfielder now plying his trade in Uruguayan amateur football, Pritchard is a tidy, press-resistant passer who understands positioning and doesn't panic on the ball. At 32, he retains the technical foundation that got him through the English Football League, but the athleticism that once allowed him to cover ground and drive into the box has visibly diminished. He's a functional operator in a lower-division midfield — good enough to keep possession ticking over and avoid turnovers — but he lacks the dynamism, penetration, or defensive recovery pace required for meaningful involvement at a competitive level. His best years were spent as a squad rotator at mid-table Championship clubs; he's now a depth option who can steady the ship in dead-rubber matches.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,13 +63,13 @@ A journeyman English midfielder now plying his trade in Uruguayan amateur footba
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

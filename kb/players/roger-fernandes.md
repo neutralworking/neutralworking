@@ -1,13 +1,13 @@
 ---
 title: Roger Fernandes
 category: players
-tags: [CF, Al-Ittihad, Guinea-Bissau, Sprinter-Passer]
-updated: 2026-04-14
+tags: [CF, Braga, Guinea-Bissau, Sprinter-Passer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Al-Ittihad. Archetype: Sprinter-Passer.
+summary: CF at Braga. Archetype: Sprinter-Passer.
 person_id: 16777
-backlinks: [sprinter, al-ittihad]
+backlinks: [sprinter, braga]
 ---
 
 # Roger Fernandes
@@ -17,7 +17,7 @@ backlinks: [sprinter, al-ittihad]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | Al-Ittihad |
+| **Club** | Braga |
 | **Nation** | Guinea-Bissau |
 | **Age** | 20 |
 | **Archetype** | [[sprinter]] Sprinter-Passer |
@@ -26,31 +26,52 @@ backlinks: [sprinter, al-ittihad]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Roger Fernandes projects primarily as a CF with a `Sprinter-Passer` lean. The strongest database support comes from Balance, Shielding, and Reactions.
+
+## Role Fit
+
+- Best-fit role is `Shadow Striker` with model support score `79`.
+- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
+- Most bankable strengths show up in Balance, Shielding, and Reactions.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Reactions.
+- Style traits point toward Finishing, Acceleration, and Pace in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Movement | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Stamina | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | █████████████████ 17/10 |
-| Reactions | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Stamina | █████████████ 13/10 |
-| Jumping | ███████████ 11/10 |
-| Volleys | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Acceleration | ████████░░ 8/10 |
-| Pace | ████████░░ 8/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Marking | ███████░░░ 7/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Finishing** (style) — severity 5/10
-- **Acceleration** (style) — severity 5/10
-- **Pace** (style) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -60,3 +81,17 @@ backlinks: [sprinter, al-ittihad]
 - **Pressure (JP)**: 42
 - **Competitiveness**: 4/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Finishing** (style) — severity 5/10
+- **Acceleration** (style) — severity 5/10
+- **Pace** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

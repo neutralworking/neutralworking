@@ -5,7 +5,7 @@ tags: [CD, Torino, Italy]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Torino. Archetype: —.
+summary: CD at Torino. Archetype: None.
 person_id: 10881
 backlinks: [torino]
 ---
@@ -20,22 +20,15 @@ backlinks: [torino]
 | **Club** | Torino |
 | **Nation** | Italy |
 | **Age** | 20 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 59 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young center-back in early development stages with decent physical tools but unreliable positioning and concentration. Needs substantial refinement in fundamentals before establishing himself at senior level.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,11 +45,10 @@ Young center-back in early development stages with decent physical tools but unr
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

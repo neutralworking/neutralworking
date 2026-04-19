@@ -2,12 +2,12 @@
 title: Jobe Bellingham
 category: players
 tags: [CM, Borussia Dortmund, England, Powerhouse-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Borussia Dortmund. Archetype: Powerhouse-Dribbler.
 person_id: 12700
-backlinks: [powerhouse, tuttocampista, borussia-dortmund]
+backlinks: [powerhouse, borussia-dortmund]
 ---
 
 # Jobe Bellingham
@@ -21,27 +21,18 @@ backlinks: [powerhouse, tuttocampista, borussia-dortmund]
 | **Nation** | England |
 | **Age** | 20 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Box-to-box midfielder showing excellent physical development and press resistance for his age, with the ability to carry the ball into the final third and arrive late in the box. His playmaking range is still developing and he occasionally makes the wrong choice in congested midfields, but at 20 with regular Champions League football, he's already among Dortmund's most important players and heading toward 89-90 territory.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `80`.
+- Best-fit role is `Tuttocampista` with model support score `80`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
 - Most bankable strengths show up in Stamina, Balance, and Jumping.
@@ -76,14 +67,13 @@ Box-to-box midfielder showing excellent physical development and press resistanc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 28.5m |
-| Mid | EUR 49.0m |
-| Ceiling | EUR 58.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -114,7 +104,7 @@ Box-to-box midfielder showing excellent physical development and press resistanc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 9 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 9 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

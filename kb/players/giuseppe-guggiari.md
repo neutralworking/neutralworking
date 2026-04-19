@@ -2,10 +2,10 @@
 title: Giuseppe Guggiari
 category: players
 tags: [CF, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 32249
 ---
 
@@ -16,25 +16,18 @@ person_id: 32249
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Paraguay |
 | **Age** | 18 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 21.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Giuseppe Guggiari projects primarily as a CF with a `—` lean. The strongest database support comes from Communication, Concentration, and Drive.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Giuseppe Guggiari projects primarily as a CF with a `None` lean. The strongest database support comes from Communication, Concentration, and Drive.
 
 ## Role Fit
 
@@ -68,9 +61,8 @@ Giuseppe Guggiari projects primarily as a CF with a `—` lean. The strongest da
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -81,4 +73,4 @@ Giuseppe Guggiari projects primarily as a CF with a `—` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |

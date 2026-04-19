@@ -2,7 +2,7 @@
 title: Lewis Ferguson
 category: players
 tags: [CM, Bologna, Scotland, Engine-Passer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Bologna. Archetype: Engine-Passer.
@@ -26,39 +26,58 @@ backlinks: [engine, bologna]
 | **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
-## Scouting Notes
+## Snapshot
 
 A Scottish midfielder who combines excellent technical quality with genuine box-to-box athleticism; he can drive through the middle, press aggressively, and execute the basic pass with precision. He occasionally overextends his dribbles or commits tactically foolish fouls when frustrated. A very good Serie A midfielder on an upward trajectory—capable of starring at a club with genuine ambition.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Metodista` with model support score `69`.
+- Primary archetype leans toward `Engine` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Stamina, First Touch, and Jumping.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, First Touch, and Jumping.
+- Style traits point toward Two Footed, Work Rate, and Anticipation in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Jumping | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Movement | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Penalties | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| First Touch | █████████████████ 17/10 |
-| Jumping | █████████████████ 17/10 |
-| Movement | █████████████████ 17/10 |
-| Balance | ████████████████ 16/10 |
-| Penalties | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Heading | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Shielding | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Marking | ██████████████ 14/10 |
-| Crossing | █████████████ 13/10 |
-| Pass Accuracy | ██████████ 10/10 |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **build_up_contributor** (tactical) — severity 7/10
-- **Work Rate** (style) — severity 5/10
-- **Anticipation** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 4/10
-- **durability** (physical) — severity 4/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -68,6 +87,26 @@ A Scottish midfielder who combines excellent technical quality with genuine box-
 - **Pressure (JP)**: 33
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Work Rate** (style) — severity 5/10
+- **Anticipation** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 4/10
+- **Durability** (physical) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

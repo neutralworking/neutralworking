@@ -1,8 +1,8 @@
 ---
 title: Trabzonspor
 category: clubs
-tags: [Süper Lig]
-updated: 2026-04-18
+tags: [Süper Lig, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Trabzonspor. 37 players in database.
@@ -11,22 +11,8 @@ summary: Trabzonspor. 37 players in database.
 # Trabzonspor
 
 **League**: Süper Lig  
-**Nation**: —  
+**Nation**: None  
 **Players in DB**: 37
-
-## Identity
-
-- Database coverage is deepest in CM (10), GK (5), and CF (5), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Sprinter (8), Gk (5), and Cover (5) across the current squad.
-- Average available overall grade sits at 68.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -47,7 +33,7 @@ summary: Trabzonspor. 37 players in database.
 | [[b-bouchouari]] B. Bouchouari | CM | Creator-Powerhouse | 33.0 |
 | [[danylo-sikan]] Danylo Sikan | CM | Sprinter | 70.0 |
 | [[edin-visca]] Edin Višća | CM | Sprinter-Dribbler | 67.0 |
-| [[kerem-sen]] Kerem Şen | CM | — | — |
+| [[kerem-sen]] Kerem Şen | CM | None | None |
 | [[muhammed-cham]] Muhammed Cham | CM | Sprinter-Dribbler | 74.0 |
 | [[mustafa-eskihellac]] Mustafa Eskihellaç | CM | Sprinter-Creator | 70.0 |
 | [[ozan-tufan]] Ozan Tufan | CM | Powerhouse-Striker | 66.0 |
@@ -55,17 +41,17 @@ summary: Trabzonspor. 37 players in database.
 | [[arif-bosluk]] Arif Boşluk | DM | Sprinter | 72.0 |
 | [[okay-yokuslu]] Okay Yokuşlu | DM | Target-Destroyer | 63.0 |
 | [[andre-onana]] Andre Onana | GK | GK | 79.0 |
-| [[kagan-moradaoglu]] Kağan Moradaoğlu | GK | GK | — |
-| [[muhammet-taha-tepe]] Muhammet Taha Tepe | GK | GK | — |
+| [[kagan-moradaoglu]] Kağan Moradaoğlu | GK | GK | None |
+| [[muhammet-taha-tepe]] Muhammet Taha Tepe | GK | GK | None |
 | [[ugurcan-cakr]] Uğurcan Çakır | GK | GK | 70.0 |
-| [[yavuz-aygun]] Yavuz Aygün | GK | GK | — |
-| [[serkan-asan]] Serkan Asan | WD | Powerhouse | — |
+| [[yavuz-aygun]] Yavuz Aygün | GK | GK | None |
+| [[serkan-asan]] Serkan Asan | WD | Powerhouse | None |
 | [[oleksandr-zubkov]] Oleksandr Zubkov | WF | Dribbler-Sprinter | 76.0 |
 | [[goktan-gurpuz]] Göktan Gürpüz | WM | Creator | 34.0 |
 | [[k-olaigbe]] K. Olaigbe | WM | Sprinter-Creator | 64.0 |
 | [[t-jabol-folcarelli]] T. Jabol-Folcarelli | WM | Creator-Dribbler | 70.0 |
-| Eren Elmali | — | — | — |
-| Mehmet-Can Aydın | — | — | — |
-| Onuralp Çevikkan | — | — | — |
-| Poyraz Yıldırım | — | Striker | — |
-| S. Malkoçoğlu | — | Cover | — |
+| [[eren-elmali]] Eren Elmali | None | None | None |
+| [[mehmet-can-aydn]] Mehmet-Can Aydın | None | None | None |
+| [[onuralp-cevikkan]] Onuralp Çevikkan | None | None | None |
+| [[poyraz-yldrm]] Poyraz Yıldırım | None | Striker | None |
+| [[s-malkocoglu]] S. Malkoçoğlu | None | Cover | None |

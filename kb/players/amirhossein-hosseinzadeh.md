@@ -2,10 +2,10 @@
 title: Amirhossein Hosseinzadeh
 category: players
 tags: [CF, Tractor Sazi, Iran]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Tractor Sazi. Archetype: —.
+summary: CF at Tractor Sazi. Archetype: None.
 person_id: 28003
 backlinks: [tractor-sazi]
 ---
@@ -20,22 +20,15 @@ backlinks: [tractor-sazi]
 | **Club** | Tractor Sazi |
 | **Nation** | Iran |
 | **Age** | 25 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 16.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Amirhossein Hosseinzadeh projects primarily as a CF with a `—` lean. The strongest database support comes from Pressing, Aggression, and Communication.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Amirhossein Hosseinzadeh projects primarily as a CF with a `None` lean. The strongest database support comes from Pressing, Aggression, and Communication.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Amirhossein Hosseinzadeh projects primarily as a CF with a `—` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 0.7m |
-| Ceiling | EUR 0.9m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -82,4 +74,4 @@ Amirhossein Hosseinzadeh projects primarily as a CF with a `—` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |

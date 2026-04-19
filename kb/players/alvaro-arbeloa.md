@@ -5,7 +5,7 @@ tags: [WD, West Ham United, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at West Ham United. Archetype: —.
+summary: WD at West Ham United. Archetype: None.
 person_id: 8302
 backlinks: [west-ham-united]
 ---
@@ -19,22 +19,16 @@ backlinks: [west-ham-united]
 | **Position** | WD |
 | **Club** | West Ham United |
 | **Nation** | Spain |
-| **Age** | — |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 WD		Guardian		Liverpool	ESP	C	0.0	Ambilateral
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,13 +42,13 @@ WD		Guardian		Liverpool	ESP	C	0.0	Ambilateral
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.7m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

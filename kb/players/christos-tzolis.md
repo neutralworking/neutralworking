@@ -2,7 +2,7 @@
 title: Christos Tzolis
 category: players
 tags: [WF, Club Brugge, Greece, Creator-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Club Brugge. Archetype: Creator-Dribbler.
@@ -23,19 +23,12 @@ backlinks: [creator, club-brugge]
 | **Archetype** | [[creator]] Creator-Dribbler |
 | **Level** | 87 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Tzolis, an Inventor operating as a No.10, brings strong physical traits like acceleration and stamina, combined with balance and an excellent first touch that make him a direct and potent counter-attack threat and set-piece specialist. Despite a strong overall technical pillar, specific technical applications, along with his discipline and low interception rate, suggest a player primarily focused on attacking output rather than defensive industry, with moderate tactical understanding. As a durable newcomer, he presents a low-risk, high-reward profile for clubs seeking immediate offensive impact from a dynamic attacker.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Tzolis, an Inventor operating as a No.10, brings strong physical traits like acc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 28.5m |
-| Mid | EUR 69.0m |
-| Ceiling | EUR 82.8m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -113,7 +105,7 @@ Tzolis, an Inventor operating as a No.10, brings strong physical traits like acc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 10 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 10 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

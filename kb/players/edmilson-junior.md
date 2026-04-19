@@ -2,10 +2,10 @@
 title: Edmilson Junior
 category: players
 tags: [CF, Al-Duhail SC, Qatar]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Al-Duhail SC. Archetype: —.
+summary: CF at Al-Duhail SC. Archetype: None.
 person_id: 28246
 backlinks: [al-duhail-sc]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-duhail-sc]
 | **Club** | Al-Duhail SC |
 | **Nation** | Qatar |
 | **Age** | 31 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 18.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Edmilson Junior projects primarily as a CF with a `—` lean. The strongest database support comes from Creativity, Long Range, and Pressing.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Edmilson Junior projects primarily as a CF with a `None` lean. The strongest database support comes from Creativity, Long Range, and Pressing.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Edmilson Junior projects primarily as a CF with a `—` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 7.4m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -82,4 +74,4 @@ Edmilson Junior projects primarily as a CF with a `—` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |

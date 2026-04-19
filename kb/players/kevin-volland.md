@@ -23,19 +23,12 @@ backlinks: [creator, union-berlin]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 76 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A persistent, intelligent forward who's found a second wind at Union Berlin after his wanderings through Monaco and Roma. He's not quick enough to play the modern high-press game as a starter anymore—his burst is gone—but he's learned to operate in the half-spaces with real cunning, finding pockets between the lines where his reading of the game and link-up play become assets rather than luxuries. His movement off the ball is excellent; he knows how to create space for others and himself through positioning rather than acceleration. The problem is obvious: he cannot carry a team on his shoulders or transform games through individual brilliance, and in transition he's a liability on the press. For Union, in a functional 1. FC setup playing pragmatic football, he remains a useful squad piece and occasional starter, but he's a very good role player now, not a primary weapon.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A persistent, intelligent forward who's found a second wind at Union Berlin afte
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

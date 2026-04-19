@@ -2,7 +2,7 @@
 title: Alexander Nübel
 category: players
 tags: [GK, Stuttgart, Germany, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Stuttgart. Archetype: GK.
@@ -23,18 +23,12 @@ backlinks: [gk, stuttgart]
 | **Archetype** | [[gk]] GK |
 | **Level** | 86 |
 | **Overall** | 79.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A genuinely modern goalkeeper with excellent distribution and sweeper instincts; he's comfortable on the ball and reads space intelligently to play a line-breaking pass or sweep behind the defence. However, he lacks the elite shot-stopping reflexes that separate the very best keepers, and his positioning can occasionally be exposed against direct, clinical finishers. At 29, he's a complete, reliable number one at a top-six Bundesliga club, but not the generational talent his early reputation suggested.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ A genuinely modern goalkeeper with excellent distribution and sweeper instincts;
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.4m |
-| Mid | EUR 32.0m |
-| Ceiling | EUR 38.4m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +102,7 @@ A genuinely modern goalkeeper with excellent distribution and sweeper instincts;
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

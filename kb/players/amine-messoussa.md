@@ -5,7 +5,7 @@ tags: [CF, Lille, France]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Lille. Archetype: —.
+summary: CF at Lille. Archetype: None.
 person_id: 8355
 backlinks: [lille]
 ---
@@ -20,22 +20,15 @@ backlinks: [lille]
 | **Club** | Lille |
 | **Nation** | France |
 | **Age** | 21 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A young centre-forward still assembling his game at 21, showing promise with decent hold-up play and the willingness to press from the front. Physically he's adequate rather than imposing, and his finishing remains raw — he's a prospect, not a solution.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ A young centre-forward still assembling his game at 21, showing promise with dec
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

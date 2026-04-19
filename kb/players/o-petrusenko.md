@@ -2,7 +2,7 @@
 title: O. Petrusenko
 category: players
 tags: [CM, NK Osijek, Cover-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at NK Osijek. Archetype: Cover-Creator.
@@ -26,31 +26,55 @@ backlinks: [cover, nk-osijek]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+O. Petrusenko projects primarily as a CM with a `Cover-Creator` lean. The strongest database support comes from Aggression, Intensity, and Interceptions.
+
+## Role Fit
+
+- Best-fit role is `Ball Winner` with model support score `71`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Aggression, Intensity, and Interceptions.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Intensity, and Interceptions.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Intensity | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Interceptions | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Tackling | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Awareness | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Flair | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pass Accuracy | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | ████████░░ 8/10 |
-| Intensity | ███████░░░ 7/10 |
-| Interceptions | ███████░░░ 7/10 |
-| Tackling | ███████░░░ 7/10 |
-| Awareness | ██████░░░░ 6/10 |
-| Flair | ██████░░░░ 6/10 |
-| Pass Accuracy | ██████░░░░ 6/10 |
-| Pressing | ██████░░░░ 6/10 |
-| Take Ons | ██████░░░░ 6/10 |
-| Concentration | █████░░░░░ 5/10 |
-| Physical | █████░░░░░ 5/10 |
-| Skills | █████░░░░░ 5/10 |
-| Tactical | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Blocking | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **hot_headed** (behavioral) — severity 6/10
-- **high_press** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -60,3 +84,17 @@ backlinks: [cover, nk-osijek]
 - **Pressure (JP)**: 53
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Hot Headed** (behavioral) — severity 6/10
+- **High Press** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

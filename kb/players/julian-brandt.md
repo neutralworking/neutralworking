@@ -2,12 +2,12 @@
 title: Julian Brandt
 category: players
 tags: [CM, Borussia Dortmund, Germany, Dribbler-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Borussia Dortmund. Archetype: Dribbler-Engine.
 person_id: 13169
-backlinks: [dribbler, playmaker, borussia-dortmund]
+backlinks: [dribbler, borussia-dortmund]
 ---
 
 # Julian Brandt
@@ -21,27 +21,18 @@ backlinks: [dribbler, playmaker, borussia-dortmund]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[dribbler]] Dribbler-Engine |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 80 |
 | **Level** | 87 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 German playmaker with silky technique. Creates from deep, scores from distance, sets the creative tempo. Inconsistency frustrates.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `80`.
+- Best-fit role is `Playmaker` with model support score `80`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Progressive Carrier.
 - Most bankable strengths show up in Balance, First Touch, and Reactions.
@@ -76,14 +67,13 @@ German playmaker with silky technique. Creates from deep, scores from distance, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 19.0m |
-| Mid | EUR 54.0m |
-| Ceiling | EUR 64.8m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -117,11 +107,11 @@ German playmaker with silky technique. Creates from deep, scores from distance, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 49 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 13 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 49 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 13 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

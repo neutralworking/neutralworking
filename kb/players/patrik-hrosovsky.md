@@ -1,13 +1,13 @@
 ---
 title: Patrik Hrošovský
 category: players
-tags: [CM, Genk, Slovakia, Passer]
-updated: 2026-04-14
+tags: [CM, Plzeň, Slovakia, Passer]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at Genk. Archetype: Passer.
+summary: CM at Plzeň. Archetype: Passer.
 person_id: 16140
-backlinks: [passer, genk]
+backlinks: [passer, plzen]
 ---
 
 # Patrik Hrošovský
@@ -17,7 +17,7 @@ backlinks: [passer, genk]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | Genk |
+| **Club** | Plzeň |
 | **Nation** | Slovakia |
 | **Age** | 33 |
 | **Archetype** | [[passer]] Passer |
@@ -26,32 +26,54 @@ backlinks: [passer, genk]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Patrik Hrošovský projects primarily as a CM with a `Passer` lean. The strongest database support comes from Stamina, Shielding, and Balance.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `73`.
+- Primary archetype leans toward `Passer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
+- Most bankable strengths show up in Stamina, Shielding, and Balance.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Shielding, and Balance.
+- Style traits point toward Long Range Passing and Patient in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and Positional Discipline.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pass Range | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Volleys | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ██████████████████ 18/10 |
-| Shielding | ████████████████ 16/10 |
-| Balance | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Volleys | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Reactions | ██████████████ 14/10 |
-| Jumping | █████████████ 13/10 |
-| Movement | █████████████ 13/10 |
-| Heading | ███████████ 11/10 |
-| Pace | ███████████ 11/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **positional_discipline** (tactical) — severity 6/10
-- **Long Range Passing** (style) — severity 5/10
-- **patient** (style) — severity 4/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
 
 ## Personality
 
@@ -61,3 +83,18 @@ backlinks: [passer, genk]
 - **Pressure (JP)**: 44
 - **Competitiveness**: 5/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **Positional Discipline** (tactical) — severity 6/10
+- **Long Range Passing** (style) — severity 5/10
+- **Patient** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

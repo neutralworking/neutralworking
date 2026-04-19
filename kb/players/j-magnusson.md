@@ -2,12 +2,12 @@
 title: J. Magnússon
 category: players
 tags: [CM, IF Elfsborg, Destroyer-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at IF Elfsborg. Archetype: Destroyer-Striker.
 person_id: 24235
-backlinks: [destroyer, playmaker, if-elfsborg]
+backlinks: [destroyer, if-elfsborg]
 ---
 
 # J. Magnússon
@@ -18,30 +18,21 @@ backlinks: [destroyer, playmaker, if-elfsborg]
 |---|---|
 | **Position** | CM |
 | **Club** | IF Elfsborg |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 J. Magnússon projects primarily as a CM with a `Destroyer-Striker` lean. The strongest database support comes from Blocking, Awareness, and Discipline.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `72`.
+- Best-fit role is `Playmaker` with model support score `72`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Blocking, Awareness, and Discipline.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +62,13 @@ J. Magnússon projects primarily as a CM with a `Destroyer-Striker` lean. The st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,5 +90,5 @@ J. Magnússon projects primarily as a CM with a `Destroyer-Striker` lean. The st
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

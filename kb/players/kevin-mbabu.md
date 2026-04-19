@@ -2,7 +2,7 @@
 title: Kevin Mbabu
 category: players
 tags: [WD, FC Midtjylland, Switzerland, Sprinter-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at FC Midtjylland. Archetype: Sprinter-Destroyer.
@@ -23,18 +23,12 @@ backlinks: [sprinter, fc-midtjylland]
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
 | **Level** | 83 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A tireless, technically adequate fullback who has squeezed every drop from his athleticism—quick recovery pace, willing to press high, and reliable in transition play. His ball-carrying is functional rather than inventive; he'll move it forward with a touch or two but won't unlock defences with a 40-yard diagonal. For a Danish Superliga side, he remains a sensible operator on either flank, though he's never been more than a squad option at top level, and his reading of space in more congested midfields remains his limitation.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,13 +67,13 @@ A tireless, technically adequate fullback who has squeezed every drop from his a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 16.0m |
-| Ceiling | EUR 19.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,7 +103,7 @@ A tireless, technically adequate fullback who has squeezed every drop from his a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

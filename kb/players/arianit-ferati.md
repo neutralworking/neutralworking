@@ -5,7 +5,7 @@ tags: [WF, Fortuna Sittard, Germany]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at Fortuna Sittard. Archetype: —.
+summary: WF at Fortuna Sittard. Archetype: None.
 person_id: 8679
 backlinks: [fortuna-sittard]
 ---
@@ -20,22 +20,15 @@ backlinks: [fortuna-sittard]
 | **Club** | Fortuna Sittard |
 | **Nation** | Germany |
 | **Age** | 28 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 83 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Arianit Ferati projects primarily as a WF with a `None` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Arianit Ferati projects primarily as a WF with a `None` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 28.0m |
-| Ceiling | EUR 33.6m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: John McGinn
 category: players
 tags: [CM, Aston Villa, Scotland, Creator-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Aston Villa. Archetype: Creator-Engine.
 person_id: 12813
-backlinks: [creator, playmaker, aston-villa]
+backlinks: [creator, aston-villa]
 ---
 
 # John McGinn
@@ -21,27 +21,18 @@ backlinks: [creator, playmaker, aston-villa]
 | **Nation** | Scotland |
 | **Age** | 31 |
 | **Archetype** | [[creator]] Creator-Engine |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 78 |
 | **Level** | 80 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 John McGinn embodies the Tuttocampista archetype, offering a unique blend of stamina, aggression, and passing range that makes him a valuable asset in both defense and attack. His historical roots lie in the tradition of British box-to-box midfielders. McGinn's best fit would be a team that requires a high level of energy and work rate from their midfielders, although his tactical limitations may be exposed against more sophisticated opponents.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `78`.
+- Best-fit role is `Playmaker` with model support score `78`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Shielding, and Marking.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -76,14 +67,13 @@ John McGinn embodies the Tuttocampista archetype, offering a unique blend of sta
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.2m |
-| Mid | EUR 25.0m |
-| Ceiling | EUR 30.0m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,30 +100,32 @@ John McGinn embodies the Tuttocampista archetype, offering a unique blend of sta
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 51 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 51 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Hunter (R - RSG/backend/research/models/players/tactical/Recovery) - Seeks the ball when out of possession. 
-- Mosquito - Relentless pressure when out of possession.  
+[[Hunter]] ([[R - RSG/backend/research/models/players/tactical/Recovery]]) - Seeks the ball when out of possession. 
+- [[Mosquito]] - [[Relentless]] pressure when out of possession.  
 
-Carrier (Carrying) - Drives forward with the ball and resists challenges.
-- Tank - Uses Powerful frame to bounce opponents off while Carrying.
+[[Carrier]] ([[Carrying]]) - Drives forward with the ball and resists challenges.
+- [[Tank]] - Uses [[Powerful]] frame to bounce opponents off while [[Carrying]].
 
-Sniper (Long Range Shooting) - Capable of scoring from outside the opponent's box.
-- Hammer - Power Shot - Capable of beating the keeper with power. 
+[[Sniper]] ([[Long Range Shooting]]) - Capable of scoring from outside the opponent's box.
+- [[Hammer]] - [[Power Shot]] - Capable of beating the keeper with power. 
 
-Key Stuff That Was On HD/positions/subclasses/Marksman (Mid Range Shooting)
+[[Key Stuff That Was On HD/positions/subclasses/Marksman]] ([[Mid Range Shooting]])
+
 
 Powerful, people bounce off him (he's a butt dribbler)
 Tenacity
 Engine
+
 
 </details>

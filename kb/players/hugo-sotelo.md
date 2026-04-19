@@ -2,7 +2,7 @@
 title: Hugo Sotelo
 category: players
 tags: [CM, Celta Vigo, Creator-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Celta Vigo. Archetype: Creator-Dribbler.
@@ -18,24 +18,17 @@ backlinks: [creator, celta-vigo]
 |---|---|
 | **Position** | CM |
 | **Club** | Celta Vigo |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Dribbler |
 | **Level** | 78 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Hugo Sotelo is a dynamic Tuttocampista, characterized by his Connector archetype and Ball Winner blueprint, showcasing impressive pace, acceleration, and quick reactions that enable effective interceptions and ball progression through take-ons. Despite a strong overall technical foundation and being press-resistant, his general lack of guile and occasional lapses in discipline, combined with a limited tactical pillar, suggests he's more functional than nuanced. He fits the mold of a high-energy box-to-box midfielder, valuable in transitional systems needing rapid movement and individual effort to break lines. With strengths in ball progression and winning possession, he offers a tenacious presence for dynamic midfields, but his limited physical and tactical pillars could challenge him against highly organized opponents.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Hugo Sotelo is a dynamic Tuttocampista, characterized by his Connector archetype
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 7.1m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +94,7 @@ Hugo Sotelo is a dynamic Tuttocampista, characterized by his Connector archetype
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

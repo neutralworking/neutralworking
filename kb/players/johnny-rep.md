@@ -5,7 +5,7 @@ tags: [CF, Netherlands, Dribbler]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Dribbler.
+summary: CF at None. Archetype: Dribbler.
 person_id: 12826
 backlinks: [dribbler]
 ---
@@ -17,25 +17,18 @@ backlinks: [dribbler]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 74 |
 | **Archetype** | [[dribbler]] Dribbler |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 WF		Winger			NED	A	0.0	Rep was noted for his high speed, movement and consistency scoring.		Johnny Rep was a right wing-forward who very much participated for Holland in their golden era. He currently holds the all time record for FIFA World Cup goals for the Netherlands with 7. Rep start his career with Ajax in their successful years. However, He was just a starter for his club after Ajax already won consecutive two European Cup titles. He was signed to Valencia and Bastia twice seasons a team and settled down for four years with Saint Etienne. He scored more than 150 goals in 450 games of his professional club career. All in all, He is widely rated as the best right-winger Netherlands has ever produced.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -67,11 +60,10 @@ WF		Winger			NED	A	0.0	Rep was noted for his high speed, movement and consistenc
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

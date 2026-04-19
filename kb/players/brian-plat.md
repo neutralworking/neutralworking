@@ -2,7 +2,7 @@
 title: Brian Plat
 category: players
 tags: [CM, Volendam, Netherlands, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Volendam. Archetype: Powerhouse-Cover.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, volendam]
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
 | **Level** | 78 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Brian Plat is a physical Colossus operating as a Tuttocampista, whose strong athletic profile, marked by excellent pace, acceleration, stamina, and jumping ability, allows him to cover significant ground and impose himself physically in midfield duels. However, his attacking contributions are severely hampered by poor finishing across all ranges, lacking precision in volleys and general shooting from close and mid-range. This player embodies the modern box-to-box midfielder in a purely physical sense, capable of relentless effort and robust defensive work, fitting well into high-energy, transitional systems that demand midfield dynamism over intricate tactical understanding. Clubs looking for a high-intensity engine with a strong mental approach and commanding physical presence in the engine room could benefit, but his limited tactical understanding and attacking output mean he would best suit a squad where creative responsibilities are delegated elsewhere.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Brian Plat is a physical Colossus operating as a Tuttocampista, whose strong ath
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 12.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +94,7 @@ Brian Plat is a physical Colossus operating as a Tuttocampista, whose strong ath
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

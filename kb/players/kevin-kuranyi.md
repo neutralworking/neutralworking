@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CF at 1899 Hoffenheim. Archetype: Striker.
 person_id: 13478
-backlinks: [striker, target-forward, 1899-hoffenheim]
+backlinks: [striker, 1899-hoffenheim]
 ---
 
 # Kevin Kurányi
@@ -21,26 +21,18 @@ backlinks: [striker, target-forward, 1899-hoffenheim]
 | **Nation** | Germany |
 | **Age** | 44 |
 | **Archetype** | [[striker]] Striker |
-| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 42 |
 | **Overall** | 42.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kevin Kurányi projects primarily as a CF with a `Striker` lean. The strongest database support comes from Acceleration, Long Range, and Mid Range.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[target-forward]] Target Forward.
+- Best-fit role is `Target Forward`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Acceleration, Long Range, and Mid Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -69,12 +61,11 @@ Kevin Kurányi projects primarily as a CF with a `Striker` lean. The strongest d
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.4m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

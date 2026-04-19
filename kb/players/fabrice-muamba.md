@@ -5,7 +5,7 @@ tags: [DM, United Kingdom, Destroyer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: DM at —. Archetype: Destroyer.
+summary: DM at None. Archetype: Destroyer.
 person_id: 2271
 backlinks: [destroyer]
 ---
@@ -17,25 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | DM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | United Kingdom |
 | **Age** | 38 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 71 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Fabrice Muamba projects primarily as a DM with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ Fabrice Muamba projects primarily as a DM with a `Destroyer` lean. The strongest
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

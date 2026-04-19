@@ -2,10 +2,10 @@
 title: Ahmed Abou El Fotouh
 category: players
 tags: [CD, Zamalek, Egypt]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Zamalek. Archetype: —.
+summary: CD at Zamalek. Archetype: None.
 person_id: 28145
 backlinks: [zamalek]
 ---
@@ -20,21 +20,15 @@ backlinks: [zamalek]
 | **Club** | Zamalek |
 | **Nation** | Egypt |
 | **Age** | 28 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 43.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Ahmed Abou El Fotouh projects primarily as a CD with a `None` lean. The strongest database support comes from Composure, Discipline, and Skills.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,8 +66,8 @@ Ahmed Abou El Fotouh projects primarily as a CD with a `None` lean. The stronges
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -84,4 +78,4 @@ Ahmed Abou El Fotouh projects primarily as a CD with a `None` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

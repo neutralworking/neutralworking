@@ -23,19 +23,12 @@ backlinks: [powerhouse, grasshoppers]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 68 |
 | **Overall** | 59.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A veteran metronome at 35, Abrashi still does the unglamorous work of controlling tempo and breaking lines with simple, effective passing—he's a steady hand in the middle of the park for a Swiss Super League side. His positioning is intelligent and his game reading remains sharp, but the legs have gone; he won't recover from mistakes quickly, and the intensity required to dominate possession in central areas is no longer there. He's a useful squad player for Grasshopper, the kind of midfielder who stops the bleeding in transitions and keeps things ticking, but he's long past any pretense of being a difference-maker in moments that matter.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +67,13 @@ A veteran metronome at 35, Abrashi still does the unglamorous work of controllin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

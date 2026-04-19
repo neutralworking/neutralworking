@@ -5,9 +5,9 @@ tags: [CF, Scotland, Powerhouse-Dribbler]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Powerhouse-Dribbler.
+summary: CF at None. Archetype: Powerhouse-Dribbler.
 person_id: 12827
-backlinks: [powerhouse, prima-punta]
+backlinks: [powerhouse]
 ---
 
 # Johnny Russell
@@ -17,30 +17,22 @@ backlinks: [powerhouse, prima-punta]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Scotland |
 | **Age** | 36 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
-| **Best Role** | [[prima-punta]] Prima Punta |
 | **Level** | 67 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Johnny Russell projects primarily as a CF with a `Powerhouse-Dribbler` lean. The strongest database support comes from Aggression, Aerial Duels, and Jumping.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[prima-punta]] Prima Punta.
+- Best-fit role is `Prima Punta`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CF` base.
 - Most bankable strengths show up in Aggression, Aerial Duels, and Jumping.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -67,14 +59,13 @@ Johnny Russell projects primarily as a CF with a `Powerhouse-Dribbler` lean. The
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

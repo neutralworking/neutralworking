@@ -2,12 +2,12 @@
 title: J. Taaje
 category: players
 tags: [CM, OM, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at OM. Archetype: Destroyer-Powerhouse.
 person_id: 22652
-backlinks: [destroyer, tuttocampista, om]
+backlinks: [destroyer, om]
 ---
 
 # J. Taaje
@@ -18,30 +18,21 @@ backlinks: [destroyer, tuttocampista, om]
 |---|---|
 | **Position** | CM |
 | **Club** | OM |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 74 |
 | **Level** | 79 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Taaje's Destroyer-Powerhouse archetype and Tuttocampista role suggest a player who excels in winning the ball back and using his physicality to overpower opponents, but his limited technical ability and creativity hold him back from being a more influential player. His jumping, heading, and stamina make him a strong target for long balls and set pieces, but he may struggle with more technical and possession-based opponents. A team that values directness and physicality in their midfield play could be a good fit for him.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `74`.
+- Best-fit role is `Tuttocampista` with model support score `74`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Most bankable strengths show up in Jumping, Stamina, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -72,14 +63,13 @@ Taaje's Destroyer-Powerhouse archetype and Tuttocampista role suggest a player w
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 12.8m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,7 +95,7 @@ Taaje's Destroyer-Powerhouse archetype and Tuttocampista role suggest a player w
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

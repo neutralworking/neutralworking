@@ -2,7 +2,7 @@
 title: Conor Gallagher
 category: players
 tags: [CM, Tottenham Hotspur, England, Engine-Passer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Tottenham Hotspur. Archetype: Engine-Passer.
@@ -23,19 +23,12 @@ backlinks: [engine, tottenham-hotspur]
 | **Archetype** | [[engine]] Engine-Passer |
 | **Level** | 87 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 Gallagher's Connector archetype and Box-to-Box blueprint make him a strong presence in midfield, with his exceptional stamina, aggression, and pass accuracy allowing him to control the tempo of the game. While his limited technical attributes may lead to weaknesses in pressing and clearances, his strong mental and physical skills make him a valuable asset in a team that emphasizes high-intensity pressing and quick transitions. A team that values build-up play and patient build-up could benefit from his availability and high-pressing abilities, using his tackling and take-ons to win the ball back and create scoring opportunities.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Gallagher's Connector archetype and Box-to-Box blueprint make him a strong prese
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 33.2m |
-| Mid | EUR 56.0m |
-| Ceiling | EUR 67.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +96,7 @@ Gallagher's Connector archetype and Box-to-Box blueprint make him a strong prese
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 52 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 52 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

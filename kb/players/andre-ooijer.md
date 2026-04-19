@@ -2,10 +2,10 @@
 title: André Ooijer
 category: players
 tags: [WD, Netherlands, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WD at —. Archetype: Destroyer.
+summary: WD at None. Archetype: Destroyer.
 person_id: 8429
 backlinks: [destroyer]
 ---
@@ -17,24 +17,18 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 51 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 77 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 André Ooijer projects primarily as a WD with a `Destroyer` lean. The strongest database support comes from Interceptions, Marking, and Tackling.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,10 +64,10 @@ André Ooijer projects primarily as a WD with a `Destroyer` lean. The strongest 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,5 +87,5 @@ André Ooijer projects primarily as a WD with a `Destroyer` lean. The strongest 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

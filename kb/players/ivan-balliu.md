@@ -23,19 +23,14 @@ backlinks: [powerhouse, rayo-vallecano]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 70 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Iván Balliu Campeny is a professional footballer who plays as a right-back for La Liga club Rayo Vallecano and the Albania national team. He started his career at Barcelona B and has since played in Spain, Portugal, and France. Balliu previously represented Spain at the youth level but later declared for Albania, qualifying through his father. He made his debut for the Albanian senior squad in October 2017.
+Iván Balliu Campeny is a professional footballer who plays as a right-back for La Liga club Rayo Vallecano and the Albania national team. He started his career at Barcelona B and has since played in Spain, Portugal, and France. Balliu previously represented Spain at the youth level but later declared for Albania, qualifying through his father. He made his debut for the Albanian senior squad in October 2017. [^1]
 
-## Canon Context
 
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -76,12 +71,11 @@ Iván Balliu Campeny is a professional footballer who plays as a right-back for 
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.3m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -117,6 +111,8 @@ Iván Balliu Campeny is a professional footballer who plays as a right-back for 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Iván Balliu Campeny is a professional footballer who plays as a right-back for La Liga club Rayo Vallecano and the Albania national team. He started his career at Barcelona B and has since played in Spain, Portugal, and France. Balliu previously represented Spain at the youth level but later declared for Albania, qualifying through his father. He made his debut for the Albanian senior squad in October 2017.
+Iván Balliu Campeny is a professional footballer who plays as a right-back for La Liga club Rayo Vallecano and the Albania national team. He started his career at Barcelona B and has since played in Spain, Portugal, and France. Balliu previously represented Spain at the youth level but later declared for Albania, qualifying through his father. He made his debut for the Albanian senior squad in October 2017. [^1]
+
+
 
 </details>

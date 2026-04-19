@@ -1,13 +1,13 @@
 ---
 title: Garang Kuol
 category: players
-tags: [CF, Volendam, Australia, Sprinter]
-updated: 2026-04-18
+tags: [WF, Newcastle United, Australia]
+updated: 2026-04-17
 source: compiled
-confidence: high
-summary: CF at Volendam. Archetype: Sprinter.
-person_id: 11261
-backlinks: [sprinter, volendam]
+confidence: low
+summary: WF at Newcastle United. Archetype: None.
+person_id: 11260
+backlinks: [newcastle-united]
 ---
 
 # Garang Kuol
@@ -16,88 +16,53 @@ backlinks: [sprinter, volendam]
 
 | Field | Value |
 |---|---|
-| **Position** | CF |
-| **Club** | Volendam |
+| **Position** | WF |
+| **Club** | Newcastle United |
 | **Nation** | Australia |
-| **Age** | 21 |
-| **Archetype** | [[sprinter]] Sprinter |
-| **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | 1 |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | 62 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Garang Kuol projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Acceleration, Pace, and Balance.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+An Australian winger with genuine athletic tools and an appealing directness that suggests real potential, though he's still very much in the developmental phase. His decision-making in the final third is still raw, and he's nowhere near consistent enough technically to command regular minutes at this level. Time in a lower division or a proper loan would serve him far better than sporadic Newcastle appearances.
 
 ## Role Fit
 
-- Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
-- Most bankable strengths show up in Acceleration, Pace, and Balance.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
-
-## In Possession
-
-- Ball-value indicators lean on Acceleration, Pace, and Balance.
-- Style traits point toward Two Footed and Pace in possession.
-
-## Scouting Indicators
-
-| Indicator | Value | Interpretation |
-|---|---|---|
-| Acceleration | ███████████████████ 19/10 | One of the stronger current indicators for this profile at 19/10. |
-| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
-| Balance | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| Shielding | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
-| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Take Ons | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
-| Movement | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
-| Pass Accuracy | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
-- Live/reporting evidence is thin, so this page leans heavily on database output.
-- Competitiveness score is soft for a high-pressure projection.
+- Metric coverage is shallow relative to a full dossier standard.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 43
-- **Motivation (SN)**: 57
-- **Social (TF)**: 74
-- **Pressure (JP)**: 38
-- **Competitiveness**: 3/10
+- **Game Reading (EI)**: 42
+- **Motivation (SN)**: 58
+- **Social (TF)**: 76
+- **Pressure (JP)**: 43
+- **Competitiveness**: 7/10
 - **Coachability**: 4/10
-
-## Trait Ledger
-
-- **Two Footed** (style) — severity 7/10
-- **Pace** (style) — severity 5/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

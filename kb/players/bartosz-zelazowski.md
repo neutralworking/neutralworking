@@ -2,7 +2,7 @@
 title: Bartosz Zelazowski
 category: players
 tags: [GK, OGC Nice, Poland, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
 summary: GK at OGC Nice. Archetype: GK.
@@ -22,19 +22,13 @@ backlinks: [gk, ogc-nice]
 | **Age** | 20 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 49 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Young Polish goalkeeper still acclimating to top-flight football with decent shot-stopping reflexes but questionable distribution for the modern game. Uncertain in his decision-making on set pieces and lacks the sweeping instincts demanded by contemporary pressing systems; backup material currently, potential to develop further with consistent game time.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +46,10 @@ Young Polish goalkeeper still acclimating to top-flight football with decent sho
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -75,5 +69,5 @@ Young Polish goalkeeper still acclimating to top-flight football with decent sho
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

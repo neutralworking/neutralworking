@@ -2,10 +2,10 @@
 title: Keny Arroyo
 category: players
 tags: [CM, Ecuador]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 28134
 ---
 
@@ -16,25 +16,18 @@ person_id: 28134
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Ecuador |
 | **Age** | 20 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Keny Arroyo projects primarily as a CM with a `—` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Keny Arroyo projects primarily as a CM with a `None` lean. The strongest database support comes from the current evidence set.
 
 ## Role Fit
 
@@ -52,14 +45,13 @@ Keny Arroyo projects primarily as a CM with a `—` lean. The strongest database
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 7.6m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.3m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -75,4 +67,4 @@ Keny Arroyo projects primarily as a CM with a `—` lean. The strongest database
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

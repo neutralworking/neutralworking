@@ -2,7 +2,7 @@
 title: M. Giger
 category: players
 tags: [CF, Unión, Destroyer-Sprinter]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Unión. Archetype: Destroyer-Sprinter.
@@ -26,36 +26,52 @@ backlinks: [destroyer, union]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 M. Giger is a physically dominant Striker with a strong stamina and aggression, making him a strong fit for a Poacher role. His moderate physical pillar is balanced by his strong technical and tactical abilities, allowing him to make intelligent runs and finish chances. However, his weaknesses in duels and guile may hinder his ability to dominate the opposition. His flamboyant trait and direct style suggest he would thrive in a team that values pace and directness in their attack.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Shadow Striker` with model support score `70`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CF` base.
+- Most bankable strengths show up in Stamina, Acceleration, and Awareness.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Stamina, Acceleration, and Awareness.
+- Style traits point toward Flamboyant, Direct, and Work Rate in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Awareness | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pace | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Tackling | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Stamina | ████████████████ 16/10 |
-| Acceleration | ██████████████ 14/10 |
-| Awareness | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Marking | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| First Touch | █████████████ 13/10 |
-| Jumping | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Crossing | ████████████ 12/10 |
-| Interceptions | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Movement | ███████████ 11/10 |
-| Pass Range | ███████████ 11/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **flamboyant** (style) — severity 6/10
-- **direct** (style) — severity 6/10
-- **hot_headed** (behavioral) — severity 6/10
-- **Work Rate** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -65,3 +81,19 @@ M. Giger is a physically dominant Striker with a strong stamina and aggression, 
 - **Pressure (JP)**: 57
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Flamboyant** (style) — severity 6/10
+- **Direct** (style) — severity 6/10
+- **Hot Headed** (behavioral) — severity 6/10
+- **Work Rate** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [GK, South Africa, GK]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: GK at —. Archetype: GK.
+summary: GK at None. Archetype: GK.
 person_id: 3044
 backlinks: [gk]
 ---
@@ -17,25 +17,18 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | South Africa |
 | **Age** | 38 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 79 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Itumeleng Khune projects primarily as a GK with a `GK` lean. The strongest database support comes from Pass Range, Close Range, and Reactions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Itumeleng Khune projects primarily as a GK with a `GK` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

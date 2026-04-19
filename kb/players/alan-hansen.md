@@ -23,18 +23,12 @@ backlinks: [cover, nordsjaelland]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 42 |
 | **Overall** | 39.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD		Defender			SCO	B	0.0	a beautifully balanced player who carries the ball with control and grace. He has a very measured, He was one of the most important player of “The Red Machine” Liverpool which is the most successful team in Europe for years between lately 1970s to early 1980s. Hansen played all 4 European Cup final matches and win 3 times. On the other hand, He unfortunately was not a long-period starter for Scotland national team after World Cup 1982 was ended just because of a compatible buddy of center-back from Aberdeen like Willie Miller and Alex Mcleish. But still, Hansen was still the best defender in Europe during his era. He played as sweeper, had never been frighten on his face, coolness like stagnant and reliable in every situations.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,10 +65,10 @@ CD		Defender			SCO	B	0.0	a beautifully balanced player who carries the ball with
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

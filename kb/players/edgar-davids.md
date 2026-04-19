@@ -2,10 +2,10 @@
 title: Edgar Davids
 category: players
 tags: [CM, Netherlands, Engine-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at —. Archetype: Engine-Powerhouse.
+summary: CM at None. Archetype: Engine-Powerhouse.
 person_id: 10479
 backlinks: [engine]
 ---
@@ -17,25 +17,18 @@ backlinks: [engine]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 53 |
 | **Archetype** | [[engine]] Engine-Powerhouse |
 | **Level** | 46 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM	Enthusiastic	Presence	Heartbeat	Juventus	NED	A	89.1	Edgar Davids was the great powerful dinamo midfielder, was noted for his tireless running, uncompromising and excellent agility. He was rated as one of the best defensive midfielders of the world during lately 1990s. Davids liked to support attacking game with his technical abilities and great acceleration. He had glaucoma, "and moved on to league rival Juventus. Juventus manager Marcello Lippi once described him as ""my one-man engine room.""  Davids also won the 1998 FIFA World Cup fourth place with Holland. On 17 May 2001", Davids was suspended for a year by FIFA when he tested positive for the banned anabolic steroid, nandrolone. His career performance has gone down after down.		13/3/1973
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -54,11 +47,10 @@ CM	Enthusiastic	Presence	Heartbeat	Juventus	NED	A	89.1	Edgar Davids was the grea
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -69,8 +61,8 @@ CM	Enthusiastic	Presence	Heartbeat	Juventus	NED	A	89.1	Edgar Davids was the grea
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -82,5 +74,6 @@ CM	Enthusiastic	Presence	Heartbeat	Juventus	NED	A	89.1	Edgar Davids was the grea
 ---
 
 CM	Enthusiastic	Presence	Heartbeat	Juventus	NED	A	89.1	Edgar Davids was the great powerful dinamo midfielder, was noted for his tireless running, uncompromising and excellent agility. He was rated as one of the best defensive midfielders of the world during lately 1990s. Davids liked to support attacking game with his technical abilities and great acceleration. He had glaucoma, "and moved on to league rival Juventus. Juventus manager Marcello Lippi once described him as ""my one-man engine room.""  Davids also won the 1998 FIFA World Cup fourth place with Holland. On 17 May 2001", Davids was suspended for a year by FIFA when he tested positive for the banned anabolic steroid, nandrolone. His career performance has gone down after down.		13/3/1973
+
 
 </details>

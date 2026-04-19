@@ -2,7 +2,7 @@
 title: Petros
 category: players
 tags: [CM, Creator-Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at None. Archetype: Creator-Destroyer.
@@ -26,29 +26,55 @@ backlinks: [creator]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Petros projects primarily as a CM with a `Creator-Destroyer` lean. The strongest database support comes from Flair, Mental, and Take Ons.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `69`.
+- Primary archetype leans toward `Creator` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor.
+- Most bankable strengths show up in Flair, Mental, and Take Ons.
+
+## In Possession
+
+- Ball-value indicators lean on Flair, Mental, and Take Ons.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Flair | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Mental | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Take Ons | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Technical | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Communication | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Concentration | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Creativity | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Drive | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Flair | █████░░░░░ 5/10 |
-| Mental | ████░░░░░░ 4/10 |
-| Take Ons | ████░░░░░░ 4/10 |
-| Technical | ████░░░░░░ 4/10 |
-| Communication | ███░░░░░░░ 3/10 |
-| Concentration | ███░░░░░░░ 3/10 |
-| Creativity | ███░░░░░░░ 3/10 |
-| Drive | ███░░░░░░░ 3/10 |
-| Leadership | ███░░░░░░░ 3/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Pressing | ███░░░░░░░ 3/10 |
-| Skills | ███░░░░░░░ 3/10 |
-| Tackling | ███░░░░░░░ 3/10 |
-| Tactical | ███░░░░░░░ 3/10 |
-| Through Balls | ███░░░░░░░ 3/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -58,3 +84,15 @@ backlinks: [creator]
 - **Pressure (JP)**: 56
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

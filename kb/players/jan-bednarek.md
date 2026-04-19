@@ -2,12 +2,12 @@
 title: Jan Bednarek
 category: players
 tags: [CD, FC Porto, Poland, Powerhouse-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at FC Porto. Archetype: Powerhouse-Dribbler.
 person_id: 12366
-backlinks: [powerhouse, colossus, fc-porto]
+backlinks: [powerhouse, fc-porto]
 ---
 
 # Jan Bednarek
@@ -21,27 +21,18 @@ backlinks: [powerhouse, colossus, fc-porto]
 | **Nation** | Poland |
 | **Age** | 30 |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
-| **Best Role** | [[colossus]] Colossus |
-| **Role Score** | 60 |
 | **Level** | 85 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A legitimate, no-nonsense centre-back who reads the game with proper intelligence and positions himself to intercept rather than lunge—his recovery pace is modest but his anticipation compensates. He's comfortable on the ball for a defender, capable of playing out from the back without vanity, though he won't thrive if asked to press aggressively in midfield or carry possession through the thirds. He's exactly the player you want in a stable back three or a deep-sitting four; ask him to be mobile and proactive, and his limitations become visible.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus with model support score `60`.
+- Best-fit role is `Colossus` with model support score `60`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Press Resistant.
 - Most bankable strengths show up in Jumping, Physical, and Reactions.
@@ -76,14 +67,13 @@ A legitimate, no-nonsense centre-back who reads the game with proper intelligenc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 10.4m |
-| Mid | EUR 34.0m |
-| Ceiling | EUR 40.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ A legitimate, no-nonsense centre-back who reads the game with proper intelligenc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 46 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -2,12 +2,12 @@
 title: Justen Glad
 category: players
 tags: [CD, Real Salt Lake, United States, Cover-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Real Salt Lake. Archetype: Cover-Powerhouse.
 person_id: 13239
-backlinks: [cover, colossus, real-salt-lake]
+backlinks: [cover, real-salt-lake]
 ---
 
 # Justen Glad
@@ -21,27 +21,18 @@ backlinks: [cover, colossus, real-salt-lake]
 | **Nation** | United States |
 | **Age** | 29 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
-| **Best Role** | [[colossus]] Colossus |
-| **Role Score** | 77 |
 | **Level** | 83 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Justen Glad projects primarily as a CD with a `Cover-Powerhouse` lean. The strongest database support comes from Jumping, Stamina, and Acceleration.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus with model support score `77`.
+- Best-fit role is `Colossus` with model support score `77`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Jumping, Stamina, and Acceleration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -76,14 +67,13 @@ Justen Glad projects primarily as a CD with a `Cover-Powerhouse` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 31.0m |
-| Ceiling | EUR 37.2m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,6 +100,6 @@ Justen Glad projects primarily as a CD with a `Cover-Powerhouse` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

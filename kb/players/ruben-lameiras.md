@@ -2,7 +2,7 @@
 title: Rúben Lameiras
 category: players
 tags: [WF, Casa Pia AC, Portugal, Sprinter-Dribbler]
-updated: 2026-04-14
+updated: 2026-04-18
 source: compiled
 confidence: high
 summary: WF at Casa Pia AC. Archetype: Sprinter-Dribbler.
@@ -26,35 +26,50 @@ backlinks: [sprinter, casa-pia-ac]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 Portuguese winger in his early thirties with reasonable one-foot dribbling ability and some capacity to create space on the flank. Tactical discipline is sketchy—doesn't track back reliably—and his speed has diminished noticeably. Squad rotation winger without sufficient defensive responsibility.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Inverted Winger`.
+- Primary archetype leans toward `Sprinter` behaviour from a `WF` base.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Skill Moves, Trickery, and Technical Ability in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Shielding | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Composure | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| First Touch | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Pace | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Through Balls | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ████████████████ 16/10 |
-| Shielding | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Composure | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Pace | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Through Balls | ███████████████ 15/10 |
-| Crossing | ██████████████ 14/10 |
-| Long Range | ██████████████ 14/10 |
-| Mid Range | ██████████████ 14/10 |
-| Movement | ██████████████ 14/10 |
-| Pass Accuracy | ██████████████ 14/10 |
-| Penalties | ██████████████ 14/10 |
-| Stamina | ██████████████ 14/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **Skill Moves** (style) — severity 6/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -64,3 +79,18 @@ Portuguese winger in his early thirties with reasonable one-foot dribbling abili
 - **Pressure (JP)**: 39
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Skill Moves** (style) — severity 6/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |

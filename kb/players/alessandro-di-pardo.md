@@ -23,18 +23,12 @@ backlinks: [sprinter, cagliari]
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 83 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A winger with decent technical tools and the willingness to take on a full-back in half-spaces, though his end product is wildly inconsistent. He can create moments through direct running but lacks the tactical discipline to sustain a high press or track runners with conviction. More a squad rotational option than a starting-XI fixture at this level.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -72,13 +66,13 @@ A winger with decent technical tools and the willingness to take on a full-back 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 32.0m |
-| Ceiling | EUR 38.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

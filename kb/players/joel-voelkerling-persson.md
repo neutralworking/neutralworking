@@ -2,12 +2,12 @@
 title: Joel Voelkerling Persson
 category: players
 tags: [CF, Sirius, Sweden, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Sirius. Archetype: Creator.
 person_id: 12771
-backlinks: [creator, seconda-punta, sirius]
+backlinks: [creator, sirius]
 ---
 
 # Joel Voelkerling Persson
@@ -21,27 +21,18 @@ backlinks: [creator, seconda-punta, sirius]
 | **Nation** | Sweden |
 | **Age** | 23 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[seconda-punta]] Seconda Punta |
-| **Role Score** | 61 |
 | **Level** | 67 |
 | **Overall** | 59.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Swedish defender who brings competence and commitment to Lecce's backline, comfortable at full-back or in a back three. However, his athleticism is moderate rather than elite, and he can get exposed against genuinely explosive wingers or when forced to cover significant ground in open play.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[seconda-punta]] Seconda Punta with model support score `61`.
+- Best-fit role is `Seconda Punta` with model support score `61`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Aggression, Composure, and Creativity.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -71,14 +62,13 @@ A Swedish defender who brings competence and commitment to Lecce's backline, com
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +93,7 @@ A Swedish defender who brings competence and commitment to Lecce's backline, com
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

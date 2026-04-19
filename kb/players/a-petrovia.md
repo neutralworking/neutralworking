@@ -2,10 +2,10 @@
 title: A. PetroviÄ
 category: players
 tags: [AM, Creator-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: AM at —. Archetype: Creator-Striker.
+summary: AM at None. Archetype: Creator-Striker.
 person_id: 26952
 backlinks: [creator]
 ---
@@ -17,25 +17,18 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | AM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Striker |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 32.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A. PetroviÄ projects primarily as a AM with a `Creator-Striker` lean. The strongest database support comes from Discipline, Communication, and Composure.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -65,13 +58,13 @@ A. PetroviÄ projects primarily as a AM with a `Creator-Striker` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,5 +86,5 @@ A. PetroviÄ projects primarily as a AM with a `Creator-Striker` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

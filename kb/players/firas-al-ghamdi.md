@@ -5,7 +5,7 @@ tags: [CF, Al-Ahli, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Al-Ahli. Archetype: —.
+summary: CF at Al-Ahli. Archetype: None.
 person_id: 11060
 backlinks: [al-ahli]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-ahli]
 | **Club** | Al-Ahli |
 | **Nation** | Saudi Arabia |
 | **Age** | 26 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 77 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Forward with genuine hold-up play ability and the physicality to bully defenders in tight spaces, giving Al Ahli an outlet when they need to press reset. His movement off the ball is intelligent in the box, but his conversion rate suggests he squanders good opportunities; he's a player who works hard rather than one who finishes cleanly. Useful squad option in a domestic league, not someone you'd back against elite defences.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Forward with genuine hold-up play ability and the physicality to bully defenders
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 9.3m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

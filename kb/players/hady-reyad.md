@@ -2,10 +2,10 @@
 title: Hady Reyad
 category: players
 tags: [CD, Petrojet, Egypt]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Petrojet. Archetype: —.
+summary: CD at Petrojet. Archetype: None.
 person_id: 28168
 backlinks: [petrojet]
 ---
@@ -20,22 +20,15 @@ backlinks: [petrojet]
 | **Club** | Petrojet |
 | **Nation** | Egypt |
 | **Age** | 27 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 56.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Hady Reyad projects primarily as a CD with a `—` lean. The strongest database support comes from Blocking, Duels, and Awareness.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Hady Reyad projects primarily as a CD with a `None` lean. The strongest database support comes from Blocking, Duels, and Awareness.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ Hady Reyad projects primarily as a CD with a `—` lean. The strongest database 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,4 +78,4 @@ Hady Reyad projects primarily as a CD with a `—` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

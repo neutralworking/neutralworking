@@ -2,10 +2,10 @@
 title: A. Zouzou
 category: players
 tags: [CD, Ivory Coast]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 29175
 ---
 
@@ -16,24 +16,18 @@ person_id: 29175
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Ivory Coast |
 | **Age** | 24 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 16.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 A. Zouzou projects primarily as a CD with a `None` lean. The strongest database support comes from Discipline, Composure, and Communication.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,8 +65,8 @@ A. Zouzou projects primarily as a CD with a `None` lean. The strongest database 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -83,4 +77,4 @@ A. Zouzou projects primarily as a CD with a `None` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 18 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 18 graded indicators available. |

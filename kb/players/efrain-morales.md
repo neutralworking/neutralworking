@@ -23,19 +23,12 @@ backlinks: [cover, atlanta-united-fc]
 | **Archetype** | [[cover]] Cover |
 | **Level** | 60 |
 | **Overall** | 52.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Efrain Morales is a young defender with a lot of potential, boasting impressive physical attributes and a strong tackling presence, but his technical ability and composure on the ball are significant weaknesses, often leading to panicked clearances and a lack of progressive carries from the back. As a modern centre-back, he has the potential to develop into a dominant force, but his current limitations in mid-range and close-range situations are a concern. His marking and interceptions are decent, but he can be exposed by clever movement from opposition attackers.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Efrain Morales is a young defender with a lot of potential, boasting impressive 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

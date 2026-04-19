@@ -19,22 +19,16 @@ backlinks: [gk, abha]
 | **Position** | GK |
 | **Club** | Abha |
 | **Nation** | Saudi Arabia |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A reserve goalkeeper whose limited exposure suggests he's third or fourth choice at Abha. No significant footage to draw from, but his placement on the bench indicates he's not an immediate threat to the first-team keepers. Likely a development prospect or career backup.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +43,13 @@ A reserve goalkeeper whose limited exposure suggests he's third or fourth choice
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

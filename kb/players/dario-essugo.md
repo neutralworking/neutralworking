@@ -23,19 +23,12 @@ backlinks: [powerhouse, chelsea]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A Portuguese left-back still very much in the development phase, showing decent athleticism and a willingness to engage going forward, but not yet operating at a level that would suggest imminent senior breakthrough. Classic academy project with potential but no meaningful senior minutes to suggest he's ready for English football's intensity.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A Portuguese left-back still very much in the development phase, showing decent 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 16.1m |
-| Mid | EUR 39.0m |
-| Ceiling | EUR 46.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

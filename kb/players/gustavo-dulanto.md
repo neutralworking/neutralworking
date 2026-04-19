@@ -2,10 +2,10 @@
 title: Gustavo Dulanto
 category: players
 tags: [CD, Universitario, Peru]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Universitario. Archetype: —.
+summary: CD at Universitario. Archetype: None.
 person_id: 28065
 backlinks: [universitario]
 ---
@@ -20,22 +20,15 @@ backlinks: [universitario]
 | **Club** | Universitario |
 | **Nation** | Peru |
 | **Age** | 30 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 17.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Gustavo Dulanto projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Discipline, and Pressing.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Gustavo Dulanto projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Discipline, and Pressing.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ Gustavo Dulanto projects primarily as a CD with a `—` lean. The strongest data
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.6m |
-| Mid | EUR 0.8m |
-| Ceiling | EUR 1.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,4 +78,4 @@ Gustavo Dulanto projects primarily as a CD with a `—` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

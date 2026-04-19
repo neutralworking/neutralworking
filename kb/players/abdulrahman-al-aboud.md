@@ -5,7 +5,7 @@ tags: [CM, Al Ittihad, Saudi Arabia]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at Al Ittihad. Archetype: —.
+summary: CM at Al Ittihad. Archetype: None.
 person_id: 7779
 backlinks: [al-ittihad]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-ittihad]
 | **Club** | Al Ittihad |
 | **Nation** | Saudi Arabia |
 | **Age** | 30 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 73 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fullback who understands his defensive duties adequately and won't embarrass himself in transition, but he's not a player who transforms attacking play through ball progression or pace. His crossing is functional rather than inventive, and he lacks the drive to consistently beat a man down the line. He's a rotational piece in a domestic context; international-level ambition would expose his limitations.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,12 +43,12 @@ A fullback who understands his defensive duties adequately and won't embarrass h
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 0.8m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

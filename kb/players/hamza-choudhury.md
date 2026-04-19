@@ -2,7 +2,7 @@
 title: Hamza Choudhury
 category: players
 tags: [CM, Leicester City, England, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Leicester City. Archetype: Powerhouse-Destroyer.
@@ -23,19 +23,12 @@ backlinks: [powerhouse, leicester-city]
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
 | **Level** | 83 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Box-to-box midfielder with genuine athleticism and a willingness to engage in the duel; he covers ground energetically and his forward runs can provide late-arriving threat. However, his technical ceiling is modest—he's not a playmaker and his progressive passing is limited to simple five-yard switches. He's valuable in a functional sense, but you wouldn't build a team's creativity around him.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Box-to-box midfielder with genuine athleticism and a willingness to engage in th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 27.0m |
-| Ceiling | EUR 32.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -110,7 +102,7 @@ Box-to-box midfielder with genuine athleticism and a willingness to engage in th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -1,36 +1,107 @@
 ---
 title: Lúcio
 category: players
-tags: [Cover-Powerhouse, hall-of-fame]
+tags: [CD, FC Goa, Brazil, Cover-Powerhouse]
 updated: 2026-04-17
-source: compiled-hof
+source: compiled
 confidence: high
-summary: Hall of Fame — Cover-Powerhouse. Zagueiro role archetype.
+summary: CD at FC Goa. Archetype: Cover-Powerhouse.
 person_id: 4379
-is_hof: true
-hof_tier: 3
-best_role: Zagueiro
-backlinks: [cover, zagueiro]
+backlinks: [cover, fc-goa]
 ---
 
 # Lúcio
 
-<!-- hof-enrichment:start -->
-
-## Hall of Fame
-
-> **Hall of Fame** — curated reference player.
+## Overview
 
 | Field | Value |
 |---|---|
+| **Position** | CD |
+| **Club** | FC Goa |
+| **Nation** | Brazil |
+| **Age** | 47 |
 | **Archetype** | [[cover]] Cover-Powerhouse |
-| **Best Role** | [[zagueiro]] Zagueiro |
-| **Best Role Score** | 92 |
-| **HoF Tier** | 3 |
-| **Nominated By** | curator |
+| **Level** | 46 |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | 1 |
 
-### Playing Style
+## Snapshot
 
-Ball-carrying centre-back with explosive forward runs and powerful aerial presence. Could score spectacular goals from defence and dominated opponents physically.
+CD	Dominant	Defender	Bulldozer	Bayer 04, Bayern Munich	BRA	A	88.2	Regarded as one of the best defenders of his generation, Lúcio is a tall, large, tenacious, and physically strong defender, who excels in the air, and is known for his heavy marking of opponents, as well as his hard-tackling style of play, and leadership; he is also highly regarded for his positioning, ability to read the game, and his adeptness at winning back possession in one on one situations. Gifted with good technical skills, and excellent distribution, although he is usually deployed as a centre-back, he has also been used as a defensive midfielder, where he has demonstrated his confidence in possession, and ability to play the ball out of defence. Although he is primarily known for his defensive skill and consistency, his pace, stamina and dribbling ability frequently enable him to get forward into good attacking positions, with his trademark long, surging, galloping runs on the ball, "which have earned him the nickname O Cavalo (""The Horse""", in Portuguese); these attributes, along with his powerful striking ability from distance and on set-pieces with his right foot, make him an additional offensive threat.
 
-<!-- hof-enrichment:end -->
+## Role Fit
+
+- Best-fit role is `Zagueiro` with model support score `92`.
+- Primary archetype leans toward `Cover` behaviour from a `CD` base.
+- Most bankable strengths show up in Acceleration, Pace, and Aerial Duels.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Acceleration, Pace, and Aerial Duels.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Acceleration | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Pace | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Aerial Duels | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Long Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Mid Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Skills | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
+|---|---|
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
+
+## Personality
+
+- **Game Reading (EI)**: 34
+- **Motivation (SN)**: 71
+- **Social (TF)**: 42
+- **Pressure (JP)**: 56
+- **Competitiveness**: 6/10
+- **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
+
+## Research Notes
+
+<details>
+<summary>Raw scouting narrative</summary>
+
+---
+{}
+---
+
+CD	Dominant	Defender	Bulldozer	Bayer 04, Bayern Munich	BRA	A	88.2	Regarded as one of the best defenders of his generation, Lúcio is a tall, large, tenacious, and physically strong defender, who excels in the air, and is known for his heavy marking of opponents, as well as his hard-tackling style of play, and leadership; he is also highly regarded for his positioning, ability to read the game, and his adeptness at winning back possession in one on one situations. Gifted with good technical skills, and excellent distribution, although he is usually deployed as a centre-back, he has also been used as a defensive midfielder, where he has demonstrated his confidence in possession, and ability to play the ball out of defence. Although he is primarily known for his defensive skill and consistency, his pace, stamina and dribbling ability frequently enable him to get forward into good attacking positions, with his trademark long, surging, galloping runs on the ball, "which have earned him the nickname O Cavalo (""The Horse""", in Portuguese); these attributes, along with his powerful striking ability from distance and on set-pieces with his right foot, make him an additional offensive threat.	
+
+</details>

@@ -2,12 +2,12 @@
 title: Juan Feliu
 category: players
 tags: [CD, 2 de Mayo, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at 2 de Mayo. Archetype: —.
+summary: CD at 2 de Mayo. Archetype: None.
 person_id: 30603
-backlinks: [centrale, 2-de-mayo]
+backlinks: [2-de-mayo]
 ---
 
 # Juan Feliu
@@ -20,28 +20,19 @@ backlinks: [centrale, 2-de-mayo]
 | **Club** | 2 de Mayo |
 | **Nation** | Paraguay |
 | **Age** | 25 |
-| **Archetype** | — |
-| **Best Role** | [[centrale]] Centrale |
-| **Role Score** | 36 |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 26.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Juan Feliu projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Communication, and Concentration.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Juan Feliu projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Communication, and Concentration.
 
 ## Role Fit
 
-- Best-fit role is [[centrale]] Centrale with model support score `36`.
+- Best-fit role is `Centrale` with model support score `36`.
 - Most bankable strengths show up in Skills, Communication, and Concentration.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -75,9 +66,8 @@ Juan Feliu projects primarily as a CD with a `—` lean. The strongest database 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -88,4 +78,4 @@ Juan Feliu projects primarily as a CD with a `—` lean. The strongest database 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

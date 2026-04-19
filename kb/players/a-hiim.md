@@ -18,24 +18,17 @@ backlinks: [creator, sarpsborg-08]
 |---|---|
 | **Position** | CM |
 | **Club** | Sarpsborg 08 |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Powerhouse |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 41.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Hiim's Creator-Powerhouse archetype is undermined by his technical and mental weaknesses, but his pace and stamina make him a useful asset for a counter-attacking team, where his ability to make progressive carries and deliver crosses into the box can be leveraged, however, his limited tactical awareness may lead to him being bypassed in more possession-oriented systems, and his blocking weaknesses could be a liability in a Tuttocampista role.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ Hiim's Creator-Powerhouse archetype is undermined by his technical and mental we
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

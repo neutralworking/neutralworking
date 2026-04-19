@@ -2,7 +2,7 @@
 title: Alexandru Cicâldău
 category: players
 tags: [CM, Universitatea Craiova, Romania, Creator-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Universitatea Craiova. Archetype: Creator-Striker.
@@ -23,19 +23,12 @@ backlinks: [creator, universitatea-craiova]
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 85 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 At peak career, Alexandru Cicâldău operates as a Mezzala, an Artisan midfielder who leverages strong mental and physical pillars to compensate for moderate technical foundations, showcasing excellent creativity, vision, and range in his passing. He is adept at picking out decisive passes over both short and long distances. However, his significant weaknesses in defensive aspects such as interceptions, awareness, and blocking mean he requires a robust midfield structure around him to cover his deficiencies, making him suitable for teams that prioritize offensive flair through central channels over defensive solidity from their creative midfielder.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,13 +63,12 @@ At peak career, Alexandru Cicâldău operates as a Mezzala, an Artisan midfielde
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 41.0m |
-| Ceiling | EUR 49.2m |
-| Confidence | High |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -97,6 +89,6 @@ At peak career, Alexandru Cicâldău operates as a Mezzala, an Artisan midfielde
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

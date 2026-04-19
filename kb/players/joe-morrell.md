@@ -5,7 +5,7 @@ tags: [CF, Lincoln City, Wales]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Lincoln City. Archetype: —.
+summary: CF at Lincoln City. Archetype: None.
 person_id: 12728
 backlinks: [lincoln-city]
 ---
@@ -20,22 +20,15 @@ backlinks: [lincoln-city]
 | **Club** | Lincoln City |
 | **Nation** | Wales |
 | **Age** | 29 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Joe Morrell projects primarily as a CF with a `—` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Joe Morrell projects primarily as a CF with a `None` lean. The strongest database support comes from the current evidence set.
 
 ## Role Fit
 
@@ -52,11 +45,10 @@ Joe Morrell projects primarily as a CF with a `—` lean. The strongest database
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

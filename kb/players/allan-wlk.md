@@ -2,10 +2,10 @@
 title: Allan Wlk
 category: players
 tags: [CF, Sportivo Ameliano, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Sportivo Ameliano. Archetype: —.
+summary: CF at Sportivo Ameliano. Archetype: None.
 person_id: 30195
 backlinks: [sportivo-ameliano]
 ---
@@ -20,22 +20,15 @@ backlinks: [sportivo-ameliano]
 | **Club** | Sportivo Ameliano |
 | **Nation** | Paraguay |
 | **Age** | 23 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 37.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Allan Wlk projects primarily as a CF with a `—` lean. The strongest database support comes from Close Range, Mid Range, and Threat.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Allan Wlk projects primarily as a CF with a `None` lean. The strongest database support comes from Close Range, Mid Range, and Threat.
 
 ## Role Fit
 
@@ -69,9 +62,8 @@ Allan Wlk projects primarily as a CF with a `—` lean. The strongest database s
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -82,4 +74,4 @@ Allan Wlk projects primarily as a CF with a `—` lean. The strongest database s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 25 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 25 graded indicators available. |

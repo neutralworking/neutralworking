@@ -23,18 +23,12 @@ backlinks: [creator, ipswich-town]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 81 |
 | **Overall** | 75.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A left-back competing at a decent level with solid defensive positioning and the ability to overlap, but his distribution is pedestrian and his recovery pace is just adequate. Williams doesn't have the technical range to operate as a quasi-midfielder as modern fullbacks increasingly must. He's a traditional defender in a game moving away from traditional defenders.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,12 +67,12 @@ A left-back competing at a decent level with solid defensive positioning and the
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 20.0m |
-| Ceiling | EUR 24.0m |
-| Confidence | High |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

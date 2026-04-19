@@ -5,7 +5,7 @@ tags: [CD, Eintracht Frankfurt, Ecuador]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at Eintracht Frankfurt. Archetype: —.
+summary: CD at Eintracht Frankfurt. Archetype: None.
 person_id: 10144
 backlinks: [eintracht-frankfurt]
 ---
@@ -20,22 +20,15 @@ backlinks: [eintracht-frankfurt]
 | **Club** | Eintracht Frankfurt |
 | **Nation** | Ecuador |
 | **Age** | 21 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 66 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 An Ecuadorian centre-back on loan finding his way in German football, showing decent technical ability and a willingness to defend. However, he's still acclimating to the pace and physicality of the Bundesliga, and his decision-making under pressure remains unreliable. Development-focused signing rather than an immediate solution.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ An Ecuadorian centre-back on loan finding his way in German football, showing de
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

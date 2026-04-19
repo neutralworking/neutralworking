@@ -2,10 +2,10 @@
 title: Alain Baroja
 category: players
 tags: [GK, Bolivia]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: GK at —. Archetype: —.
+summary: GK at None. Archetype: None.
 person_id: 29035
 ---
 
@@ -16,24 +16,18 @@ person_id: 29035
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Bolivia |
 | **Age** | 36 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
 Alain Baroja projects primarily as a GK with a `None` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -51,13 +45,13 @@ Alain Baroja projects primarily as a GK with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 0.3m |
-| Ceiling | EUR 0.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -73,4 +67,4 @@ Alain Baroja projects primarily as a GK with a `None` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |

@@ -23,18 +23,12 @@ backlinks: [powerhouse, stevenage]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 77 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Aging centre-back relying on experience and positioning rather than physical dominance anymore. At 33, he's a steady lower-league option but no longer has the pace or aggression to handle quick forwards in higher divisions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Aging centre-back relying on experience and positioning rather than physical dom
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

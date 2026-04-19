@@ -18,24 +18,17 @@ backlinks: [powerhouse, fc-st-pauli]
 |---|---|
 | **Position** | CM |
 | **Club** | FC St. Pauli |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 40.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 As a Powerhouse-Dribbler Tuttocampista, Metcalfe brings impressive physical attributes with strong stamina, pace, and balance, allowing him to cover ground and engage physically in midfield. However, his limited tactical guile and struggles with discipline suggest a player who needs careful management within a structured system to prevent him from becoming a liability rather than a dynamic presence. Clubs looking for a high-energy, box-to-box midfielder who can impose himself physically, rather than a tactically nuanced orchestrator, might find value, though his raw approach carries a clear risk of unnecessary fouls and positional indiscipline.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -73,10 +66,10 @@ As a Powerhouse-Dribbler Tuttocampista, Metcalfe brings impressive physical attr
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

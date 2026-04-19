@@ -5,9 +5,9 @@ tags: [CD, Lanús, Paraguay]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Lanús. Archetype: —.
+summary: CD at Lanús. Archetype: None.
 person_id: 28190
-backlinks: [sweeper, lanus]
+backlinks: [lanus]
 ---
 
 # Juan José Cáceres
@@ -20,27 +20,19 @@ backlinks: [sweeper, lanus]
 | **Club** | Lanús |
 | **Nation** | Paraguay |
 | **Age** | 25 |
-| **Archetype** | — |
-| **Best Role** | [[sweeper]] Sweeper |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 42.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Juan José Cáceres projects primarily as a CD with a `—` lean. The strongest database support comes from Positioning, Awareness, and Interceptions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Juan José Cáceres projects primarily as a CD with a `None` lean. The strongest database support comes from Positioning, Awareness, and Interceptions.
 
 ## Role Fit
 
-- Best-fit role is [[sweeper]] Sweeper.
+- Best-fit role is `Sweeper`.
 - Most bankable strengths show up in Positioning, Awareness, and Interceptions.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -69,14 +61,13 @@ Juan José Cáceres projects primarily as a CD with a `—` lean. The strongest 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.6m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

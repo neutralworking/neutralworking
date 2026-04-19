@@ -2,7 +2,7 @@
 title: Gustavo Garcia
 category: players
 tags: [DM, Famalicão, Powerhouse-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Famalicão. Archetype: Powerhouse-Dribbler.
@@ -18,24 +18,17 @@ backlinks: [powerhouse, famalicao]
 |---|---|
 | **Position** | DM |
 | **Club** | Famalicão |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse-Dribbler |
 | **Level** | 79 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Gustavo Garcia is a technically gifted holding midfielder who excels at shielding the ball and maintaining possession, but his limited tactical awareness and lack of physicality may hinder his ability to cope with intense pressure. As a Warrior archetype, he is well-suited to a Pivote role where he can utilize his technical skills to dictate the tempo of the game. Historically, his style of play is reminiscent of traditional registas who prioritize maintaining possession over winning the ball back, and he would thrive in a system that allows him to make progressive carries and exploit half-spaces. From a squad-building perspective, Garcia's market position is relatively low due to his limited physicality, making him an attractive option for smaller clubs looking to add technical quality to their midfield, but his lack of tactical awareness may be a risk factor for teams that rely on a strong defensive structure.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ Gustavo Garcia is a technically gifted holding midfielder who excels at shieldin
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.4m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -99,7 +91,7 @@ Gustavo Garcia is a technically gifted holding midfielder who excels at shieldin
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

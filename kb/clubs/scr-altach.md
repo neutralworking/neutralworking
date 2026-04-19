@@ -1,8 +1,8 @@
 ---
 title: SCR Altach
 category: clubs
-tags: [Austria]
-updated: 2026-04-18
+tags: [None, Austria]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: SCR Altach. 18 players in database.
@@ -10,23 +10,9 @@ summary: SCR Altach. 18 players in database.
 
 # SCR Altach
 
-**League**: —  
+**League**: None  
 **Nation**: Austria  
 **Players in DB**: 18
-
-## Identity
-
-- Database coverage is deepest in CM (6), WM (2), and WF (2), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Powerhouse (6), Creator (4), and Striker (4) across the current squad.
-- Average available overall grade sits at 66.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -45,8 +31,8 @@ summary: SCR Altach. 18 players in database.
 | [[o-diawara]] O. Diawara | WF | Striker-Creator | 68.0 |
 | [[m-mustapha]] M. Mustapha | WM | Creator-Striker | 66.0 |
 | [[m-ouedraogo]] M. Ouédraogo | WM | Creator-Powerhouse | 74.0 |
-| A. Fetahu | — | Striker-Creator | — |
-| A. Gorgon | — | Target-Creator | — |
-| D. Stojanovic | — | Powerhouse | — |
-| L. Gugganig | — | Destroyer-Powerhouse | — |
-| L. Lukačević | — | Creator-Powerhouse | — |
+| [[a-fetahu]] A. Fetahu | None | Striker-Creator | None |
+| [[a-gorgon]] A. Gorgon | None | Target-Creator | None |
+| [[d-stojanovic]] D. Stojanovic | None | Powerhouse | None |
+| [[l-gugganig]] L. Gugganig | None | Destroyer-Powerhouse | None |
+| [[l-lukacevic]] L. Lukačević | None | Creator-Powerhouse | None |

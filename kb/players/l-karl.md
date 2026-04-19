@@ -2,7 +2,7 @@
 title: L. Karl
 category: players
 tags: [WF, Bayern Munich, Striker-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Bayern Munich. Archetype: Striker-Creator.
@@ -26,33 +26,51 @@ backlinks: [striker, bayern-munich]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 L. Karl is an inventive inside forward with a strong technical foundation, allowing him to excel in tight spaces and pick out precise passes. His vision and composure on the ball make him a valuable asset in the final third, but his tactical and mental limitations can lead to inconsistencies in his decision-making. As an inventor, he is best suited to a system that affords him creative freedom, where he can use his direct approach to unlock defenses. A club with a strong tactical framework could help mitigate his weaknesses and unlock his full potential, but may need to be patient with his development.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Wide Playmaker` with model support score `75`.
+- Primary archetype leans toward `Striker` behaviour from a `WF` base.
+- Most bankable strengths show up in Pressing, Composure, and Discipline.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Pressing, Composure, and Discipline.
+- Style traits point toward Direct in possession.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pressing | ██████████ 10/10 | One of the stronger current indicators for this profile at 10/10. |
+| Composure | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Discipline | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Threat | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Through Balls | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Vision | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Creativity | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pressing | ██████████ 10/10 |
-| Composure | █████████░ 9/10 |
-| Discipline | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Threat | █████████░ 9/10 |
-| Through Balls | █████████░ 9/10 |
-| Vision | █████████░ 9/10 |
-| Creativity | ████████░░ 8/10 |
-| Long Range | ████████░░ 8/10 |
-| Mid Range | ████████░░ 8/10 |
-| Penalties | ████████░░ 8/10 |
-| Close Range | ███████░░░ 7/10 |
-| Concentration | ███████░░░ 7/10 |
-| Duels | ███████░░░ 7/10 |
-| Skills | ███████░░░ 7/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **direct** (style) — severity 4/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
+- Output may be more transition-dependent than possession-dominant environments want.
 
 ## Personality
 
@@ -62,3 +80,16 @@ L. Karl is an inventive inside forward with a strong technical foundation, allow
 - **Pressure (JP)**: 47
 - **Competitiveness**: 4/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Direct** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

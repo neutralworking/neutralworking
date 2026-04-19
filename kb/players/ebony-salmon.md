@@ -5,7 +5,7 @@ tags: [CF, Bristol City, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Bristol City. Archetype: —.
+summary: CF at Bristol City. Archetype: None.
 person_id: 10466
 backlinks: [bristol-city]
 ---
@@ -20,22 +20,15 @@ backlinks: [bristol-city]
 | **Club** | Bristol City |
 | **Nation** | England |
 | **Age** | 25 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 74 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A forward in the women's game with genuine athleticism and some intuition for getting into dangerous areas, though her technical execution and first touch are inconsistent. She can finish when service is clean but struggles to create space for herself or operate effectively with her back to goal.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ A forward in the women's game with genuine athleticism and some intuition for ge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -81,6 +73,7 @@ A forward in the women's game with genuine athleticism and some intuition for ge
 <details>
 <summary>Raw scouting narrative</summary>
 
-27 January 2001 (age 22)	4	0	United States Houston Dash	2023 Arnold Clark Cup
+	27 January 2001 (age 22)	4	0	United States Houston Dash	2023 Arnold Clark Cup
+
 
 </details>

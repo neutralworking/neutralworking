@@ -23,18 +23,12 @@ backlinks: [powerhouse, blackpool]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 84 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Solid left-back with decent positioning and an ability to organize defensively, but he's neither explosive nor particularly creative in the attacking phases. His reading of the game is his best asset, yet he's not commanding enough to be a leader. Mid-table Championship regular—dependable without being distinguishing.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Solid left-back with decent positioning and an ability to organize defensively, 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.1m |
-| Mid | EUR 29.0m |
-| Ceiling | EUR 34.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

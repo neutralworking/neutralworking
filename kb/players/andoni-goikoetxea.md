@@ -5,7 +5,7 @@ tags: [CD, Spain]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 8405
 ---
 
@@ -16,24 +16,18 @@ person_id: 8405
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Spain |
 | **Age** | 69 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 41 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CD		Centre Back			ESP	B	0.0	Goikoetxea was notorious for his aggressive style of play, "not least because of the two heavy fouls (see Maradona foul) on Maradona and Schuster which earned him the nickname ""Butcher of Bilbao"". In 2007", "English newspaper The Times named him the ""hardest defender of all times""."		Born in Alonsotegi, Biscay, Goikoetxea began playing football with local Arbuyo before joining Athletic Bilbao in 1973 where, after starting out at the reserve side, he soon established himself in the senior team squad. He scored four La Liga goals in 27 games in his debut season, but played a lesser role in the following three years with only 24 appearances combined.[1][2] During the 1980s, along with Dani, José Ramón Gallego, José Núñez, Manuel Sarabia and Andoni Zubizarreta, Goiko was a prominent member of the successful Bilbao side coached by Javier Clemente. In 1984 the Basque club renewed its league title, also achieving the double (league and Copa del Rey) in that year.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -50,10 +44,10 @@ CD		Centre Back			ESP	B	0.0	Goikoetxea was notorious for his aggressive style of
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

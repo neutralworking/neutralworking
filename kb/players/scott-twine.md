@@ -2,7 +2,7 @@
 title: Scott Twine
 category: players
 tags: [AM, Bristol City, England, Sprinter-Creator]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Bristol City. Archetype: Sprinter-Creator.
@@ -26,40 +26,58 @@ backlinks: [sprinter, bristol-city]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Intelligent attacking midfielder with excellent technical ability and the capacity to work both the half-spaces and final third with genuine creativity, though he can drift into periods of invisibility when teams press him aggressively. Good player, genuinely useful, but doesn't have the elite physicality or tempo-setting of the tier above.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Incursore` with model support score `78`.
+- Primary archetype leans toward `Sprinter` behaviour from a `AM` base.
+- Tactical fit is strongest when the game asks for Counter Attack Threat.
+- Most bankable strengths show up in Balance, Shielding, and Acceleration.
+
+## In Possession
+
+- Ball-value indicators lean on Balance, Shielding, and Acceleration.
+- Style traits point toward Two Footed, Set Piece Threat, and Trickery in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Counter Attack Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Durability, and Endurance.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Balance | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Shielding | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Crossing | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| First Touch | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Pass Range | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Volleys | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Balance | ██████████████████ 18/10 |
-| Shielding | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Crossing | ██████████████ 14/10 |
-| First Touch | ██████████████ 14/10 |
-| Pass Range | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Volleys | █████████████ 13/10 |
-| Jumping | ████████████ 12/10 |
-| Tackling | ████████████ 12/10 |
-| Awareness | ███████████ 11/10 |
-| Interceptions | ███████████ 11/10 |
-| Marking | ███████████ 11/10 |
-| Heading | ██████████ 10/10 |
-| Pressing | ████████░░ 8/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **durability** (physical) — severity 6/10
-- **counter_attack_threat** (tactical) — severity 5/10
-- **Set Piece Threat** (style) — severity 5/10
-- **Trickery** (style) — severity 5/10
-- **Technical Ability** (style) — severity 5/10
-- **endurance** (physical) — severity 5/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -69,3 +87,23 @@ Intelligent attacking midfielder with excellent technical ability and the capaci
 - **Pressure (JP)**: 41
 - **Competitiveness**: 5/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Durability** (physical) — severity 6/10
+- **Counter Attack Threat** (tactical) — severity 5/10
+- **Set Piece Threat** (style) — severity 5/10
+- **Trickery** (style) — severity 5/10
+- **Technical Ability** (style) — severity 5/10
+- **Endurance** (physical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

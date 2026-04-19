@@ -2,10 +2,11 @@
 title: Alisson Santos
 category: players
 tags: [WM, Sporting CP
-updated: 2026-04-18
+, Striker-Cover]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: WM at Sporting CP. Archetype: Striker-Cover.
+summary: WM at Sporting CP
 . Archetype: Striker-Cover.
 person_id: 20926
 backlinks: [striker, sporting-cp]
@@ -20,24 +21,17 @@ backlinks: [striker, sporting-cp]
 | **Position** | WM |
 | **Club** | Sporting CP
  |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Cover |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 43.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Alisson Santos projects primarily as a WM with a `Striker-Cover` lean. The strongest database support comes from Concentration, Communication, and Drive.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -68,12 +62,11 @@ Alisson Santos projects primarily as a WM with a `Striker-Cover` lean. The stron
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 14.3m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,5 +86,5 @@ Alisson Santos projects primarily as a WM with a `Striker-Cover` lean. The stron
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 12 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

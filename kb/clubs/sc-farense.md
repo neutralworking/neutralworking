@@ -1,47 +1,34 @@
 ---
 title: SC Farense
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: SC Farense. 13 players in database.
+summary: SC Farense. 14 players in database.
 ---
 
 # SC Farense
 
-**League**: —  
-**Nation**: —  
-**Players in DB**: 13
-
-## Identity
-
-- Database coverage is deepest in CM (3), WD (1), and CD (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Sprinter (3), Powerhouse (2), and Cover (1) across the current squad.
-- Average available overall grade sits at 70.5, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
+**League**: None  
+**Nation**: None  
+**Players in DB**: 14
 
 ## Squad
 
 | Player | Position | Archetype | Overall |
 |---|---|---|---|
 | [[ruben-fernandes]] Rúben Fernandes | CD | Cover | 64.0 |
+| [[cristian-ponde]] Cristian Ponde | CF | Creator | 64.0 |
 | [[claudio-falcao]] Claudio Falcão | CM | Powerhouse | 77.0 |
-| [[fabricio-isidoro]] Fabrício Isidoro | CM | — | — |
-| [[mattheus-oliveira]] Mattheus Oliveira | CM | — | — |
-| [[zach-muscat]] Zach Muscat | WD | — | — |
-| Brian Araújo | — | Sprinter | — |
-| Fran Delgado | — | — | — |
-| Gonçalo Silva | — | — | — |
-| Igor Rossi | — | — | — |
-| Marco Matias | — | Powerhouse | — |
-| Miguel Carvalho | — | Sprinter | — |
-| Talys | — | Sprinter-Destroyer | — |
-| Vítor Gonçalves | — | — | — |
+| [[fabricio-isidoro]] Fabrício Isidoro | CM | None | None |
+| [[mattheus-oliveira]] Mattheus Oliveira | CM | None | None |
+| [[zach-muscat]] Zach Muscat | WD | None | None |
+| [[brian-araujo]] Brian Araújo | None | Sprinter | None |
+| [[fran-delgado]] Fran Delgado | None | None | None |
+| [[goncalo-silva]] Gonçalo Silva | None | None | None |
+| [[igor-rossi]] Igor Rossi | None | None | None |
+| [[marco-matias]] Marco Matias | None | Powerhouse | None |
+| [[miguel-carvalho]] Miguel Carvalho | None | Sprinter | None |
+| [[talys]] Talys | None | Sprinter-Destroyer | None |
+| [[vitor-goncalves]] Vítor Gonçalves | None | None | None |

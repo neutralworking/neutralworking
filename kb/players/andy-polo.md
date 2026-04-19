@@ -2,10 +2,10 @@
 title: Andy Polo
 category: players
 tags: [CF, Universitario, Peru]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at Universitario. Archetype: —.
+summary: CF at Universitario. Archetype: None.
 person_id: 28103
 backlinks: [universitario]
 ---
@@ -20,22 +20,15 @@ backlinks: [universitario]
 | **Club** | Universitario |
 | **Nation** | Peru |
 | **Age** | 31 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 28.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Andy Polo projects primarily as a CF with a `—` lean. The strongest database support comes from Acceleration, Crossing, and Pace.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Andy Polo projects primarily as a CF with a `None` lean. The strongest database support comes from Acceleration, Crossing, and Pace.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Andy Polo projects primarily as a CF with a `—` lean. The strongest database s
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.7m |
-| Mid | EUR 0.8m |
-| Ceiling | EUR 2.1m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -90,5 +82,5 @@ Andy Polo projects primarily as a CF with a `—` lean. The strongest database s
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |

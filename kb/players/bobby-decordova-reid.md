@@ -5,7 +5,7 @@ tags: [WF, Leicester City, Jamaica]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WF at Leicester City. Archetype: —.
+summary: WF at Leicester City. Archetype: None.
 person_id: 9088
 backlinks: [leicester-city]
 ---
@@ -19,23 +19,16 @@ backlinks: [leicester-city]
 | **Position** | WF |
 | **Club** | Leicester City |
 | **Nation** | Jamaica |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Hardworking winger-turned-attacking midfielder who provides genuine effort in the press and transition but lacks the technical range to unlock a defense through the middle. He's at his best running in straight lines and using his athleticism; when the game requires him to slow down and manipulate the ball through a congested half-space, his limitations become apparent. A squad player who occasionally justifies a start through sheer industry.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Hardworking winger-turned-attacking midfielder who provides genuine effort in th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

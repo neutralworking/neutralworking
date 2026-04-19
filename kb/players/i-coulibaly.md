@@ -2,12 +2,12 @@
 title: I. Coulibaly
 category: players
 tags: [CM, LASK Linz, Destroyer-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at LASK Linz. Archetype: Destroyer-Striker.
 person_id: 25465
-backlinks: [destroyer, tuttocampista, lask-linz]
+backlinks: [destroyer, lask-linz]
 ---
 
 # I. Coulibaly
@@ -18,30 +18,21 @@ backlinks: [destroyer, tuttocampista, lask-linz]
 |---|---|
 | **Position** | CM |
 | **Club** | LASK Linz |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A methodista-profile connector whose mid-range distribution and composure suggest he was built for possession chains in settled phases, though his limited tactical ambition and poor take-on ability mean he cannot create advantage in transition. His hot-headedness is a recurring liability that interrupts flow; he'll shade passes unnecessarily or overcommit in pressing. As a 25-year-old at LASK, he fits best in leagues where build-up is methodical and opponents run lower defensive lines, where his awareness becomes functional rather than supplementary.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
+- Best-fit role is `Tuttocampista` with model support score `75`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
 - Most bankable strengths show up in Awareness, Interceptions, and Pass Accuracy.
@@ -71,14 +62,13 @@ A methodista-profile connector whose mid-range distribution and composure sugges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.4m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +93,7 @@ A methodista-profile connector whose mid-range distribution and composure sugges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

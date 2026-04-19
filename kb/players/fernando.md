@@ -23,19 +23,12 @@ backlinks: [sprinter, palmeiras]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 82 |
 | **Overall** | 77.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A functional deep midfielder who reads the game with reasonable intelligence and isn't afraid to make a tackle in the Brazilian midfield—he's the kind of player who keeps things ticking over without demanding the ball constantly. His positioning is solid rather than exceptional, and he'll screen the back four adequately, but he lacks the technical range to dominate possession or drive progressions through the half-spaces with any real conviction. At 27, he's hit his ceiling as a squad-rotation option at a mid-table South American side; he wouldn't be exposed against inferior opponents but would struggle badly against coordinated pressing from a European top-six midfield.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ A functional deep midfielder who reads the game with reasonable intelligence and
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 29.0m |
-| Ceiling | EUR 34.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

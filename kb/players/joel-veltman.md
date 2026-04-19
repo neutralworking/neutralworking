@@ -2,12 +2,12 @@
 title: Joel Veltman
 category: players
 tags: [WD, Brighton, Netherlands, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Brighton. Archetype: Powerhouse-Destroyer.
 person_id: 12770
-backlinks: [powerhouse, corner-back, brighton]
+backlinks: [powerhouse, brighton]
 ---
 
 # Joel Veltman
@@ -21,27 +21,18 @@ backlinks: [powerhouse, corner-back, brighton]
 | **Nation** | Netherlands |
 | **Age** | 34 |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
-| **Best Role** | [[corner-back]] Corner Back |
-| **Role Score** | 76 |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A right-back with excellent positional awareness and the technical security to progress the ball through either foot, capable of playing in a back four or five without losing anything in translation. He's reliable defensively and rarely gets dragged out of position. His athleticism is solid rather than exceptional, and he's better at preventing space than explosively closing it down against elite wide attackers.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back with model support score `76`.
+- Best-fit role is `Corner Back` with model support score `76`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `WD` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Reactions, Crossing, and First Touch.
@@ -76,14 +67,13 @@ A right-back with excellent positional awareness and the technical security to p
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -112,7 +102,7 @@ A right-back with excellent positional awareness and the technical security to p
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

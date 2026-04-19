@@ -2,12 +2,12 @@
 title: Jessy Deminguet
 category: players
 tags: [CM, Metz, France, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Metz. Archetype: Sprinter.
 person_id: 12602
-backlinks: [sprinter, metodista, metz]
+backlinks: [sprinter, metz]
 ---
 
 # Jessy Deminguet
@@ -21,27 +21,18 @@ backlinks: [sprinter, metodista, metz]
 | **Nation** | France |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[metodista]] Metodista |
-| **Role Score** | 56 |
 | **Level** | 79 |
 | **Overall** | 63.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Right-back or winger (28) with decent pace and a direct running style, capable of creating space in transition. His defensive positioning is functional but not sophisticated—he can be exposed in organised pressing situations—and his crossing accuracy is moderate. A capable squad rotation player, but without the technical range or defensive maturity for consistent starts at a top Ligue 1 side.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[metodista]] Metodista with model support score `56`.
+- Best-fit role is `Metodista` with model support score `56`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Balance, Shielding, and First Touch.
@@ -76,14 +67,13 @@ Right-back or winger (28) with decent pace and a direct running style, capable o
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 12.0m |
-| Ceiling | EUR 14.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -112,7 +102,7 @@ Right-back or winger (28) with decent pace and a direct running style, capable o
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 7 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 7 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

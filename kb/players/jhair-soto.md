@@ -5,9 +5,8 @@ tags: [CD, Peru]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 28067
-backlinks: [centrale]
 ---
 
 # Jhair Soto
@@ -17,30 +16,22 @@ backlinks: [centrale]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Peru |
 | **Age** | 22 |
-| **Archetype** | — |
-| **Best Role** | [[centrale]] Centrale |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 16.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Jhair Soto projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Concentration, and Awareness.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Jhair Soto projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Concentration, and Awareness.
 
 ## Role Fit
 
-- Best-fit role is [[centrale]] Centrale.
+- Best-fit role is `Centrale`.
 - Most bankable strengths show up in Skills, Concentration, and Awareness.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -74,9 +65,8 @@ Jhair Soto projects primarily as a CD with a `—` lean. The strongest database 
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

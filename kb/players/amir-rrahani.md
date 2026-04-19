@@ -2,10 +2,10 @@
 title: Amir Rrahani
 category: players
 tags: [CD, Napoli, Kosovo]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CD at Napoli. Archetype: —.
+summary: CD at Napoli. Archetype: None.
 person_id: 8361
 backlinks: [napoli]
 ---
@@ -19,22 +19,16 @@ backlinks: [napoli]
 | **Position** | CD |
 | **Club** | Napoli |
 | **Nation** | Kosovo |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A centre-back with reasonable positional sense and the physicality to compete for aerial duels, though his reading of space isn't particularly acute. He's functional in a defensive unit built around stronger personalities but lacks the ball-playing range to progress play meaningfully. Adequate for squad rotation at this level; nothing more.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -48,13 +42,13 @@ A centre-back with reasonable positional sense and the physicality to compete fo
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 11.0m |
-| Mid | EUR 13.0m |
-| Ceiling | EUR 15.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -74,5 +68,5 @@ A centre-back with reasonable positional sense and the physicality to compete fo
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

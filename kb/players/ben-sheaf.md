@@ -23,19 +23,12 @@ backlinks: [cover, coventry-city]
 | **Archetype** | [[cover]] Cover-Powerhouse |
 | **Level** | 83 |
 | **Overall** | 77.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A tidy, press-resistant midfielder who operates best in a two with real positional discipline and an underrated ability to break lines with simple, accurate passes. His range isn't wide and he'll never ghost a defense with a Hollywood ball, but he's the kind of player who makes a midfield function—tough in transition, good recovery pace for 28, and genuinely important to how Coventry retain shape. Can be a touch ponderous when forced to think quickly under heavy pressure.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A tidy, press-resistant midfielder who operates best in a two with real position
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.6m |
-| Mid | EUR 27.0m |
-| Ceiling | EUR 32.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -23,19 +23,12 @@ backlinks: [sprinter, fiorentina]
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
 | **Level** | 77 |
 | **Overall** | 70.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A composed, technical central midfielder with excellent positional sense and the ability to play through the thirds with both feet; he's press-resistant and moves between the lines intelligently. He's already a regular in Morocco's national team and understands responsibility. The limitation is physicality — he needs protection in the deep role and will struggle against the most aggressive pressing schemes without cover.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +67,13 @@ A composed, technical central midfielder with excellent positional sense and the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.3m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

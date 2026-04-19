@@ -2,7 +2,7 @@
 title: Cheikh Mamadou Diabaté
 category: players
 tags: [CM, Wolfsberger AC, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Wolfsberger AC. Archetype: Destroyer-Powerhouse.
@@ -18,24 +18,17 @@ backlinks: [destroyer, wolfsberger-ac]
 |---|---|
 | **Position** | CM |
 | **Club** | Wolfsberger AC |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
 | **Level** | 79 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Cheikh Mamadou Diabaté operates as a Terrier Tuttocampista, offering impressive pace, acceleration, and a physical presence that, combined with strong marking and jumping ability, makes him an effective build-up contributor in a high-press system. However, his effectiveness is hampered by a notable lack of guile and creativity in possession, alongside a hot-headed tendency that often leads to discipline issues. This player fits the mold of a modern defensive midfielder or box-to-box engine, providing disruptive energy and contributing to early build-up phases, a staple in transitional, athletic systems. For clubs seeking an energetic, physical presence in midfield to win back possession and initiate attacks from deep, Diabaté represents a cost-effective option, given his moderate mental and tactical balance; however, his consistent disciplinary problems and limited creative output mean he's a higher-risk acquisition best suited for a very structured role without significant playmaking responsibility.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Cheikh Mamadou Diabaté operates as a Terrier Tuttocampista, offering impressive
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 12.8m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +96,7 @@ Cheikh Mamadou Diabaté operates as a Terrier Tuttocampista, offering impressive
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

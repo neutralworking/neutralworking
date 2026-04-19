@@ -22,20 +22,13 @@ backlinks: [gk, aris-thessaloniki-fc]
 | **Age** | 26 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 73 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A German goalkeeper at 26 with senior experience in Greece, Dudu is a solid shot-stopper with reasonable distribution for modern demands. However, he appears to be a fringe or backup-level proposition—the kind of keeper you trust in lower-stakes matches but wouldn't build a season around at a competitive club. Without evidence of elite shot-stopping technique or exceptional command of his area, he sits squarely in the developing-to-competent range.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,14 +64,13 @@ A German goalkeeper at 26 with senior experience in Greece, Dudu is a solid shot
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.9m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

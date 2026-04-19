@@ -2,7 +2,7 @@
 title: Carlos Alberto
 category: players
 tags: [WD, Sport Recife, Brazil, Engine-Commander]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Sport Recife. Archetype: Engine-Commander.
@@ -23,19 +23,12 @@ backlinks: [engine, sport-recife]
 | **Archetype** | [[engine]] Engine-Commander |
 | **Level** | 83 |
 | **Overall** | 78.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control, dribbling, playmaking ability, brilliant positioning, great tackling and reading of the game. Carlos Alberto could play as sweeper as well.		Carlos Alberto Torres is widely regarded as the finest right wing-back of all-time. He selected as captain, was best remembered in world cup 1970 with his scorer in final match which has been regarded as one of the best score in world cup history because of a very beautiful co-ordination between several players before his finishing. However, His big getting injury affected him not to as great as he should have been. All in all, Carlos Alberto was not the best in his defensive skills but reputable for his first-rate skillful.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.2m |
-| Mid | EUR 34.0m |
-| Ceiling | EUR 40.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,11 +95,11 @@ WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 20 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 20 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -118,6 +110,6 @@ WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control
 {}
 ---
 
-WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control, dribbling, playmaking ability, brilliant positioning, great tackling and reading of the game. Carlos Alberto could play as sweeper as well.		Carlos Alberto Torres is widely regarded as the finest right wing-back of all-time. He selected as captain, was best remembered in world cup 1970 with his scorer in final match which has been regarded as one of the best score in world cup history because of a very beautiful co-ordination between several players before his finishing. However, His big getting injury affected him not to as great as he should have been. All in all, Carlos Alberto was not the best in his defensive skills but reputable for his first-rate skillful.
+WD		Presence	Leader		BRA	B	84.5	He was all-round full-back with his ball control, dribbling, playmaking ability, brilliant positioning, great tackling and reading of the game. Carlos Alberto could play as sweeper as well.		Carlos Alberto Torres is widely regarded as the finest right wing-back of all-time. He selected as captain, was best remembered in world cup 1970 with his scorer in final match which has been regarded as one of the best score in world cup history because of a very beautiful co-ordination between several players before his finishing. However, His big getting injury affected him not to as great as he should have been. All in all, Carlos Alberto was not the best in his defensive skills but reputable for his first-rate skillful. 
 
 </details>

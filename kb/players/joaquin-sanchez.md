@@ -5,7 +5,7 @@ tags: [WM]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WM at —. Archetype: —.
+summary: WM at None. Archetype: None.
 person_id: 19049
 ---
 
@@ -16,38 +16,26 @@ person_id: 19049
 | Field | Value |
 |---|---|
 | **Position** | WM |
-| **Club** | — |
-| **Nation** | — |
-| **Age** | — |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
-
-## Snapshot
-
-Joaquín Sánchez is currently a roster-level WM entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 1.5m |
-| Ceiling | EUR 3.0m |
-| Confidence | Low |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Tier-based fallback from current level and market tier.
-- Discount factors: No direct fee or market-value anchor was available for this player.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

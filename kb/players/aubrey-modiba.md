@@ -2,10 +2,10 @@
 title: Aubrey Modiba
 category: players
 tags: [CD, Mamelodi Sundowns FC, South Africa]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Mamelodi Sundowns FC. Archetype: —.
+summary: CD at Mamelodi Sundowns FC. Archetype: None.
 person_id: 28571
 backlinks: [mamelodi-sundowns-fc]
 ---
@@ -20,22 +20,15 @@ backlinks: [mamelodi-sundowns-fc]
 | **Club** | Mamelodi Sundowns FC |
 | **Nation** | South Africa |
 | **Age** | 30 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 20.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Aubrey Modiba projects primarily as a CD with a `—` lean. The strongest database support comes from Creativity, Skills, and Concentration.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Aubrey Modiba projects primarily as a CD with a `None` lean. The strongest database support comes from Creativity, Skills, and Concentration.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ Aubrey Modiba projects primarily as a CD with a `—` lean. The strongest databa
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -86,4 +78,4 @@ Aubrey Modiba projects primarily as a CD with a `—` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

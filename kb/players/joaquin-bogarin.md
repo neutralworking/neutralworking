@@ -2,12 +2,11 @@
 title: Joaquin Bogarin
 category: players
 tags: [CF, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 30964
-backlinks: [target-forward]
 ---
 
 # Joaquin Bogarin
@@ -17,30 +16,22 @@ backlinks: [target-forward]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Paraguay |
 | **Age** | 18 |
-| **Archetype** | — |
-| **Best Role** | [[target-forward]] Target Forward |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 16.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Joaquin Bogarin projects primarily as a CF with a `—` lean. The strongest database support comes from Take Ons, Flair, and Skills.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+Joaquin Bogarin projects primarily as a CF with a `None` lean. The strongest database support comes from Take Ons, Flair, and Skills.
 
 ## Role Fit
 
-- Best-fit role is [[target-forward]] Target Forward.
+- Best-fit role is `Target Forward`.
 - Most bankable strengths show up in Take Ons, Flair, and Skills.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
 
@@ -70,9 +61,8 @@ Joaquin Bogarin projects primarily as a CF with a `—` lean. The strongest data
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -83,4 +73,4 @@ Joaquin Bogarin projects primarily as a CF with a `—` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 21 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 21 graded indicators available. |

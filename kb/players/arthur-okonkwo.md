@@ -18,24 +18,18 @@ backlinks: [gk, wrexham]
 |---|---|
 | **Position** | GK |
 | **Club** | Wrexham |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[gk]] GK |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 ENG	GK (R)	9 September 2001 (age 21)	1.98 m[249]
 (6 ft 6 in)	2018[208]	England Arsenal Academy
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ ENG	GK (R)	9 September 2001 (age 21)	1.98 m[249]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -116,5 +110,6 @@ ENG	GK (R)	9 September 2001 (age 21)	1.98 m[249]
 ---
 ENG	GK (R)	9 September 2001 (age 21)	1.98 m[249]
 (6 ft 6 in)	2018[208]	England Arsenal Academy
+
 
 </details>

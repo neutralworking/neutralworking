@@ -5,7 +5,7 @@ tags: [CD, New Zealand]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: —.
+summary: CD at None. Archetype: None.
 person_id: 28631
 ---
 
@@ -16,25 +16,18 @@ person_id: 28631
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | New Zealand |
 | **Age** | 22 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 40.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Finn Surman projects primarily as a CD with a `—` lean. The strongest database support comes from Tackling, Duels, and Physical.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Finn Surman projects primarily as a CD with a `None` lean. The strongest database support comes from Tackling, Duels, and Physical.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Finn Surman projects primarily as a CD with a `—` lean. The strongest database
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.3m |
-| Mid | EUR 1.5m |
-| Ceiling | EUR 1.7m |
-| Confidence | Medium |
+| Floor | — |
+| Mid | — |
+| Ceiling | — |
+| Confidence | Low |
 
-- Value drivers: Observed market value, role scarcity, and age-related upside.
-- Discount factors: Public market values can lag negotiation reality or premium-club effects.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: WM at Athletic. Archetype: Cover.
 person_id: 26928
-backlinks: [cover, tornante, athletic]
+backlinks: [cover, athletic]
 ---
 
 # Kauã Moraes
@@ -18,29 +18,21 @@ backlinks: [cover, tornante, athletic]
 |---|---|
 | **Position** | WM |
 | **Club** | Athletic |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[tornante]] Tornante |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 31.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Kauã Moraes projects primarily as a WM with a `Cover` lean. The strongest database support comes from Drive, Skills, and Concentration.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[tornante]] Tornante.
+- Best-fit role is `Tornante`.
 - Primary archetype leans toward `Cover` behaviour from a `WM` base.
 - Most bankable strengths show up in Drive, Skills, and Concentration.
 
@@ -65,14 +57,13 @@ Kauã Moraes projects primarily as a WM with a `Cover` lean. The strongest datab
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

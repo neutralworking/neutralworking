@@ -18,24 +18,17 @@ backlinks: [destroyer, gfc-ajaccio]
 |---|---|
 | **Position** | WD |
 | **Club** | GFC Ajaccio |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 46 |
 | **Archetype** | [[destroyer]] Destroyer |
 | **Level** | 54 |
 | **Overall** | 51.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jérémie Bréchet projects primarily as a WD with a `Destroyer` lean. The strongest database support comes from Aerial Duels, Heading, and Interceptions.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ Jérémie Bréchet projects primarily as a WD with a `Destroyer` lean. The stron
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

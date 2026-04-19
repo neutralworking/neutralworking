@@ -23,19 +23,12 @@ backlinks: [creator, nantes]
 | **Archetype** | [[creator]] Creator |
 | **Level** | 83 |
 | **Overall** | 77.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A no-nonsense defensive midfielder who has reinvented himself as a ball-progressor in midfield rather than a pure destroyer; his distribution is functional and his work-rate remains excellent. At 34, he's become a slow-stepping operator who relies on positioning and experience rather than physical dominance. A useful rotating option in a midfield diamond, but not a regular starter at an ambitious club.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
 
 ## Role Fit
 
@@ -73,14 +66,13 @@ A no-nonsense defensive midfielder who has reinvented himself as a ball-progress
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

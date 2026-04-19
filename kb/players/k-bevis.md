@@ -2,12 +2,12 @@
 title: K. Bevis
 category: players
 tags: [WF, Radnički 1923 Kragujevac, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Radnički 1923 Kragujevac. Archetype: Creator.
 person_id: 24295
-backlinks: [creator, wide-playmaker, radnicki-1923-kragujevac]
+backlinks: [creator, radnicki-1923-kragujevac]
 ---
 
 # K. Bevis
@@ -18,30 +18,21 @@ backlinks: [creator, wide-playmaker, radnicki-1923-kragujevac]
 |---|---|
 | **Position** | WF |
 | **Club** | Radnički 1923 Kragujevac |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 An Artisan Inventor, this player demonstrates strong technical and tactical pillars, excelling in creativity, vision, and guile, making him a true set-piece specialist. He fits the mold of a classic wide playmaker who cuts inside, capable of dictating tempo and unlocking defenses with intricate passing and superb take-ons. While his mental strength is a positive, physical limitations and weaknesses in close-range finishing and discipline are notable concerns. For a possession-based side seeking a unique offensive hub, he could be a steal, though a club must manage the moderate risk associated with his disciplinary record.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `69`.
+- Best-fit role is `Wide Playmaker` with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `WF` base.
 - Tactical fit is strongest when the game asks for Set Piece Specialist.
 - Most bankable strengths show up in Creativity, Through Balls, and Vision.
@@ -71,14 +62,13 @@ An Artisan Inventor, this player demonstrates strong technical and tactical pill
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -102,7 +92,7 @@ An Artisan Inventor, this player demonstrates strong technical and tactical pill
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

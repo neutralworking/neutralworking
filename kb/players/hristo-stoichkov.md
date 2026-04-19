@@ -2,12 +2,12 @@
 title: Hristo Stoichkov
 category: players
 tags: [CF, Bulgaria, Striker-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Striker-Powerhouse.
+summary: CF at None. Archetype: Striker-Powerhouse.
 person_id: 11828
-backlinks: [striker, inverted-winger]
+backlinks: [striker]
 ---
 
 # Hristo Stoichkov
@@ -17,34 +17,22 @@ backlinks: [striker, inverted-winger]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Bulgaria |
 | **Age** | 60 |
 | **Archetype** | [[striker]] Striker-Powerhouse |
-| **Best Role** | [[inverted-winger]] Inverted Winger |
-| **Role Score** | 91 |
 | **Level** | 46 |
 | **Overall** | 47.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-CF		Creator	Dagger	Barcelona	BUL	A	0.0	Temperamental, but lethal in front of goal, Hristo Stoichkov proved the missing piece 
-of the jigsaw. A versatile forward who would dribble, pass and shoot from the left with unerring efficacy, the Dagger had what the Spanish call mala leche, ‘bad milk’ 
-meaning a confrontational character 
-that does anything to win. Stoichkov was a quick, creative, tenacious, and prolific left footed forward, who was primarily deployed as a striker, but was also capable of playing in a creative role, as an attacking midfielder, due to his ability to provide assists for team-mates.He was also deployed as a supporting striker throughout his career, forming a lethal strike partnership with Romário at Barcelona, and occasionally he played as a right winger during his time at the club, although he was also capable of playing on the left or through the middle. A powerful, physically strong, and technically gifted player, Stoichkov was known for his explosive acceleration, and his dribbling ability at speed, as well as for his tendency to take unpredictable, powerful shots on goal The top goalscorer at the 1994 FIFA World Cup, he was also notable at taking free kicks and penalties, as well as being a very good crosser and passer of the ball. Despite his talent, Stoichkov was criticised for his work-rate at times, and he also gained infamy because of his aggressive temper on the pitch; he could often be seen arguing with the referee, or with his opponents. In 2006, who coached D.C. United for whom Stoichkov played at the time, "called it a ""rash tackle"". Following an investigation by MLS", Stoichkov was suspended two games and fined $2, 000.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+CF		Creator	Dagger	Barcelona	BUL	A	0.0	Temperamental, but lethal in front of goal, Hristo Stoichkov proved the missing piece  of the jigsaw. A versatile forward who would dribble, pass and shoot from the left with unerring efficacy, the Dagger had what the Spanish call mala leche, ‘bad milk’  meaning a confrontational character  that does anything to win. Stoichkov was a quick, creative, tenacious, and prolific left footed forward, who was primarily deployed as a striker, but was also capable of playing in a creative role, as an attacking midfielder, due to his ability to provide assists for team-mates.He was also deployed as a supporting striker throughout his career, forming a lethal strike partnership with Romário at Barcelona, and occasionally he played as a right winger during his time at the club, although he was also capable of playing on the left or through the middle. A powerful, physically strong, and technically gifted player, Stoichkov was known for his explosive acceleration, and his dribbling ability at speed, as well as for his tendency to take unpredictable, powerful shots on goal The top goalscorer at the 1994 FIFA World Cup, he was also notable at taking free kicks and penalties, as well as being a very good crosser and passer of the ball. Despite his talent, Stoichkov was criticised for his work-rate at times, and he also gained infamy because of his aggressive temper on the pitch; he could often be seen arguing with the referee, or with his opponents. In 2006, who coached D.C. United for whom Stoichkov played at the time, "called it a ""rash tackle"". Following an investigation by MLS", Stoichkov was suspended two games and fined $2, 000.
 
 ## Role Fit
 
-- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `91`.
+- Best-fit role is `Inverted Winger` with model support score `91`.
 - Primary archetype leans toward `Striker` behaviour from a `CF` base.
 - Most bankable strengths show up in Balance, Close Range, and Penalties.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -74,11 +62,10 @@ that does anything to win. Stoichkov was a quick, creative, tenacious, and proli
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,11 +91,11 @@ that does anything to win. Stoichkov was a quick, creative, tenacious, and proli
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
@@ -119,9 +106,6 @@ that does anything to win. Stoichkov was a quick, creative, tenacious, and proli
 {}
 ---
 
-CF		Creator	Dagger	Barcelona	BUL	A	0.0	Temperamental, but lethal in front of goal, Hristo Stoichkov proved the missing piece 
-of the jigsaw. A versatile forward who would dribble, pass and shoot from the left with unerring efficacy, the Dagger had what the Spanish call mala leche, ‘bad milk’ 
-meaning a confrontational character 
-that does anything to win. Stoichkov was a quick, creative, tenacious, and prolific left footed forward, who was primarily deployed as a striker, but was also capable of playing in a creative role, as an attacking midfielder, due to his ability to provide assists for team-mates.He was also deployed as a supporting striker throughout his career, forming a lethal strike partnership with Romário at Barcelona, and occasionally he played as a right winger during his time at the club, although he was also capable of playing on the left or through the middle. A powerful, physically strong, and technically gifted player, Stoichkov was known for his explosive acceleration, and his dribbling ability at speed, as well as for his tendency to take unpredictable, powerful shots on goal The top goalscorer at the 1994 FIFA World Cup, he was also notable at taking free kicks and penalties, as well as being a very good crosser and passer of the ball. Despite his talent, Stoichkov was criticised for his work-rate at times, and he also gained infamy because of his aggressive temper on the pitch; he could often be seen arguing with the referee, or with his opponents. In 2006, who coached D.C. United for whom Stoichkov played at the time, "called it a ""rash tackle"". Following an investigation by MLS", Stoichkov was suspended two games and fined $2, 000.
+CF		Creator	Dagger	Barcelona	BUL	A	0.0	Temperamental, but lethal in front of goal, Hristo Stoichkov proved the missing piece  of the jigsaw. A versatile forward who would dribble, pass and shoot from the left with unerring efficacy, the Dagger had what the Spanish call mala leche, ‘bad milk’  meaning a confrontational character  that does anything to win. Stoichkov was a quick, creative, tenacious, and prolific left footed forward, who was primarily deployed as a striker, but was also capable of playing in a creative role, as an attacking midfielder, due to his ability to provide assists for team-mates.He was also deployed as a supporting striker throughout his career, forming a lethal strike partnership with Romário at Barcelona, and occasionally he played as a right winger during his time at the club, although he was also capable of playing on the left or through the middle. A powerful, physically strong, and technically gifted player, Stoichkov was known for his explosive acceleration, and his dribbling ability at speed, as well as for his tendency to take unpredictable, powerful shots on goal The top goalscorer at the 1994 FIFA World Cup, he was also notable at taking free kicks and penalties, as well as being a very good crosser and passer of the ball. Despite his talent, Stoichkov was criticised for his work-rate at times, and he also gained infamy because of his aggressive temper on the pitch; he could often be seen arguing with the referee, or with his opponents. In 2006, who coached D.C. United for whom Stoichkov played at the time, "called it a ""rash tackle"". Following an investigation by MLS", Stoichkov was suspended two games and fined $2, 000.		
 
 </details>

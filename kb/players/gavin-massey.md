@@ -2,10 +2,10 @@
 title: Gavin Massey
 category: players
 tags: [CM, Wigan Athletic, England]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at Wigan Athletic. Archetype: —.
+summary: CM at Wigan Athletic. Archetype: None.
 person_id: 11292
 backlinks: [wigan-athletic]
 ---
@@ -20,22 +20,15 @@ backlinks: [wigan-athletic]
 | **Club** | Wigan Athletic |
 | **Nation** | England |
 | **Age** | 33 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 70 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A winger-cum-attacking midfielder who relies on an older footballer's intelligence and set-piece delivery rather than dribbling or explosive acceleration. He can open a defence with a pass and won't give the ball away cheaply, but athletically he's declining—modern full-backs will expose him one-on-one, and his work rate in pressing is intermittent. A useful squad weapon for a mid-table EFL side.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -52,11 +45,10 @@ A winger-cum-attacking midfielder who relies on an older footballer's intelligen
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -76,5 +68,5 @@ A winger-cum-attacking midfielder who relies on an older footballer's intelligen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

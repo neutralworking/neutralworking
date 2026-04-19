@@ -2,12 +2,12 @@
 title: J. Koutroumbis
 category: players
 tags: [CM, Motherwell, Powerhouse-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Motherwell. Archetype: Powerhouse-Cover.
 person_id: 23475
-backlinks: [powerhouse, tuttocampista, motherwell]
+backlinks: [powerhouse, motherwell]
 ---
 
 # J. Koutroumbis
@@ -18,30 +18,21 @@ backlinks: [powerhouse, tuttocampista, motherwell]
 |---|---|
 | **Position** | CM |
 | **Club** | Motherwell |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 28 |
 | **Archetype** | [[powerhouse]] Powerhouse-Cover |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A 28-year-old connector whose physical and aerobic gifts—pace, acceleration, jumping, stamina—make him a tireless box-to-box presence, yet his tactical and mid-range passing limitations confine him to possession-friendly setups where he can recycle simple balls and apply pressure. His build-up contribution and flamboyant trait hint at a player comfortable on the ball but unreliable in complex passing sequences; the combination of strong technical rating alongside weak mid-range passing suggests inconsistency or context-dependent comfort. Motherwell's midfield demands suggest he is a squad player suited to league structures with compact pressing rather than positional play, where his athleticism and stamina mask his tactical ceiling.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `75`.
+- Best-fit role is `Tuttocampista` with model support score `75`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Acceleration, Jumping, and Pace.
@@ -72,14 +63,13 @@ A 28-year-old connector whose physical and aerobic gifts—pace, acceleration, j
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 14.4m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 3m |
+| Mid | EUR 5m |
+| Ceiling | EUR 8m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,7 +95,7 @@ A 28-year-old connector whose physical and aerobic gifts—pace, acceleration, j
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

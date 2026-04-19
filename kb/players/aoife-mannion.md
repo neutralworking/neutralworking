@@ -5,7 +5,7 @@ tags: [WD, Ireland]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at —. Archetype: —.
+summary: WD at None. Archetype: None.
 person_id: 8661
 ---
 
@@ -16,24 +16,14 @@ person_id: 8661
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Ireland |
 | **Age** | 30 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
-
-## Snapshot
-
-Aoife Mannion is currently a roster-level WD entry in the KB. The page should be treated as a low-evidence stub until richer grades, live notes, or research coverage land.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -47,13 +37,13 @@ Aoife Mannion is currently a roster-level WD entry in the KB. The page should be
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

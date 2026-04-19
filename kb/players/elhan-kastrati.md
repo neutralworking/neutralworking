@@ -2,7 +2,7 @@
 title: Elhan Kastrati
 category: players
 tags: [GK, Pescara, Albania, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Pescara. Archetype: GK.
@@ -22,20 +22,15 @@ backlinks: [gk, pescara]
 | **Age** | 29 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 84 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
-Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He plays as a goalkeeper for Italian club A.S. Cittadella and the Albania national team.
+Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He plays as a goalkeeper for Italian club A.S. Cittadella and the Albania national team. [^1]
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+[^1]: https://en.wikipedia.org/wiki/Elhan_Kastrati
 
 ## Role Fit
 
@@ -68,14 +63,13 @@ Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 24.6m |
-| Mid | EUR 29.0m |
-| Ceiling | EUR 34.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,17 +94,19 @@ Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 7 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 7 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
 
-Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He plays as a goalkeeper for Italian club A.S. Cittadella and the Albania national team.
+Elhan Kastrati (born 2 February 1997) is an Albanian professional footballer. He plays as a goalkeeper for Italian club A.S. Cittadella and the Albania national team. [^1]
+
+[^1]: https://en.wikipedia.org/wiki/Elhan_Kastrati
 
 </details>

@@ -5,7 +5,7 @@ tags: [CD, Sporting Cristal, Peru]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at Sporting Cristal. Archetype: —.
+summary: CD at Sporting Cristal. Archetype: None.
 person_id: 28061
 backlinks: [sporting-cristal]
 ---
@@ -20,22 +20,15 @@ backlinks: [sporting-cristal]
 | **Club** | Sporting Cristal |
 | **Nation** | Peru |
 | **Age** | 27 |
-| **Archetype** | — |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 19.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Gianfranco Chávez projects primarily as a CD with a `—` lean. The strongest database support comes from Skills, Drive, and Interceptions.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Gianfranco Chávez projects primarily as a CD with a `None` lean. The strongest database support comes from Skills, Drive, and Interceptions.
 
 ## Role Fit
 
@@ -73,9 +66,8 @@ Gianfranco Chávez projects primarily as a CD with a `—` lean. The strongest d
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

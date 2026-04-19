@@ -2,7 +2,7 @@
 title: Zlatan Ibrahimović
 category: players
 tags: [CF, AC Milan, Sweden, Striker-Target]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at AC Milan. Archetype: Striker-Target.
@@ -26,38 +26,58 @@ backlinks: [striker, ac-milan]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Scouting Notes
+## Snapshot
 
 CF	Athletic	Finisher	Maverick	AC Milan	SWE	A	87.3	"Ibrahimović has been described by ESPN as being ""good in the air", tall, strong and agile, he plays well with his back to goal and boasts some of the best finishing, Vision, "passing and ball control around."" Although he has been criticised for his work-rate in big matches", he has scored in some of the biggest matches in football including the Milan Derby in Italy, El Clásico in Spain, Le Classique in France, and UEFA Champions League and UEFA Euro Championship games against some of the strongest opponents in football. Ibrahimović is the only player to have scored for six different clubs in the Champions League. Tactically, Ibrahimović is capable of playing anywhere along the front line, although he is most often deployed as a striker, or as a creative supporting forward, which allows him to provide assists for team mates.Due to his prolific goal scoring and spectacular strikes, Ibrahimović is regarded by many in the sport to be one of the best players in the world and one of the most complete strikers of his generation. He has however been criticised for his aggression and rebellious character at times. In 2007, The Times placed him at number 44 in their list of the 50 hardest footballers in history. Due to his powerful shots and volleys from inside and outside the penalty area with both feet and on dead ball situations, his agility, acrobatic ability in the air, physicality, skill, finishing and technique, Ibrahimović has frequently been compared to Dutch legend Marco van Basten. Despite this comparison, Ibrahimović has stated that his main influence was his idol, former Brazilian superstar Ronaldo, whom he regards as the greatest player of all time.	Shot Power, Volleys, Flair, Chance Creation, Ambidexterity (Shooting), Large Aerial Attack Zone	Ibrahimović began his career at Malmö FF in the late 1990s before being signed by Ajax, where he made a name for himself. He signed for Juventus and excelled in Serie A in a strike partnership with David Trezeguet. In 2006, he signed for rival side Inter Milan and was named to the UEFA Team of the Year in both 2007 and 2009. In addition, Ibrahimović would finish as the league's top scorer in 2008–09 and win three straight Scudetti. In the summer of 2009, he transferred to Barcelona, before moving back to Serie A football the following season, joining A.C. Milan in a deal that made him one of the highest-paid players in the world.[5] After winning a further Scudetto with Milan in 2010–11, he signed with Paris Saint-Germain in July 2012. During his stay at PSG, Ibrahimović has won four consecutive Ligue 1 championships, two Coupes de la Ligue, and one Coupe de France. In October 2015, he became the club's all time leading goalscorer. Ubrahimović is one of ten players to have made 100 or more appearances for the Swedish national team. He is the country's all-time leading goalscorer with 62 goals. He represented Sweden at the 2002 and 2006 FIFA World Cups, as well as the 2004, 2008, and 2012 UEFA European Championships. He has been awarded Guldbollen (the Golden Ball), given to the Swedish player of the year, a record ten times, including nine consecutive times from 2007 and 2015. With his playing style and acrobatic finishing compared to Dutch legend Marco van Basten, Ibrahimović is widely regarded as one of the best strikers in the game and one of the best footballers of his generation.[8][9][10][11] His spectacular bicycle kick for Sweden against England won the 2013 FIFA Puskás Award for Goal of the Year.[12] Off the field he is known for his brash persona and outspoken comments, in addition to referring to himself in the third person.[13][14] In December 2013, Ibrahimović was ranked by The Guardian as the third-best player in the world, behind only Lionel Messi and Cristiano Ronaldo.[15] In December 2014, the Swedish newspaper Dagens Nyheter named him the second-greatest Swedish sportsperson of all time, after tennis player Björn Borg.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Prima Punta` with model support score `92`.
+- Primary archetype leans toward `Striker` behaviour from a `CF` base.
+- Tactical fit is strongest when the game asks for Long Range Threat.
+- Most bankable strengths show up in Mid Range, Volleys, and First Touch.
+
+## In Possession
+
+- Ball-value indicators lean on Mid Range, Volleys, and First Touch.
+- Style traits point toward Dribble Artist and Pace in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Long Range Threat.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability, Target Man, and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Mid Range | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Volleys | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| First Touch | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Skills | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Acceleration | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Aerial Duels | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Pass Accuracy | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Mid Range | ██████████████████ 18/10 |
-| Volleys | ██████████████████ 18/10 |
-| First Touch | █████████████████ 17/10 |
-| Skills | █████████████████ 17/10 |
-| Acceleration | ████████████████ 16/10 |
-| Aerial Duels | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Pass Accuracy | ████████████████ 16/10 |
-| Pass Range | ████████████████ 16/10 |
-| Interceptions | █████████████ 13/10 |
-| Marking | █████████████ 13/10 |
-| Tackling | █████████████ 13/10 |
-| Awareness | ████████░░ 8/10 |
-| Carries | ████████░░ 8/10 |
-| Creativity | ████████░░ 8/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **target_man** (physical) — severity 7/10
-- **long_range_threat** (tactical) — severity 7/10
-- **dribble_artist** (style) — severity 7/10
-- **Pace** (style) — severity 4/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- No major automated red flag surfaced from the current data slice.
 
 ## Personality
 
@@ -67,6 +87,25 @@ CF	Athletic	Finisher	Maverick	AC Milan	SWE	A	87.3	"Ibrahimović has been describ
 - **Pressure (JP)**: 44
 - **Competitiveness**: 6/10
 - **Coachability**: 5/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Target Man** (physical) — severity 7/10
+- **Long Range Threat** (tactical) — severity 7/10
+- **Dribble Artist** (style) — severity 7/10
+- **Pace** (style) — severity 4/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

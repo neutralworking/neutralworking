@@ -2,12 +2,12 @@
 title: Jean Michael Seri
 category: players
 tags: [CM, Hull City, Côte d’Ivoire, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Hull City. Archetype: Creator.
 person_id: 12495
-backlinks: [creator, playmaker, hull-city]
+backlinks: [creator, hull-city]
 ---
 
 # Jean Michael Seri
@@ -19,28 +19,20 @@ backlinks: [creator, playmaker, hull-city]
 | **Position** | CM |
 | **Club** | Hull City |
 | **Nation** | Côte d’Ivoire |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[playmaker]] Playmaker |
 | **Level** | 74 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Ivorian midfielder in the autumn of a career that never quite reached elite level, bringing experience and work-rate rather than technical distinction. He can still complete a press and cover ground, showing the kind of tenacity that prevents dominance in midfield transitions. His passing range has never been his strength and it hasn't improved with age — he's a player deployed when you need energy and aggression rather than subtlety.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker.
+- Best-fit role is `Playmaker`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Composure, and Pass Accuracy.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ Ivorian midfielder in the autumn of a career that never quite reached elite leve
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +95,7 @@ Ivorian midfielder in the autumn of a career that never quite reached elite leve
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 36 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 4 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 36 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [CF, Denmark, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Sprinter.
+summary: CF at None. Archetype: Sprinter.
 person_id: 12834
 backlinks: [sprinter]
 ---
@@ -17,25 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Denmark |
 | **Age** | 49 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 41 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CF					DEN	C	0.0	Known for his positional strength and fine finishing		Tomasson is of Danish, Finnish and Icelandic heritage. His most notable run of football came in his first stint at Feyenoord, with whom he won the 2002 UEFA Cup, and Italian club Milan, with whom he won the 2003 UEFA Champions League and reached the final in 2005. He was also honoured with the Danish Player of the Year award in both 2002 and 2004.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -68,11 +61,10 @@ CF					DEN	C	0.0	Known for his positional strength and fine finishing		Tomasson 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

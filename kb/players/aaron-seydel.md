@@ -5,7 +5,7 @@ tags: [CF, Aalborg BK, Germany]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Aalborg BK. Archetype: —.
+summary: CF at Aalborg BK. Archetype: None.
 person_id: 7678
 backlinks: [aalborg-bk]
 ---
@@ -20,22 +20,15 @@ backlinks: [aalborg-bk]
 | **Club** | Aalborg BK |
 | **Nation** | Germany |
 | **Age** | 30 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 81 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Aaron Seydel projects primarily as a CF with a `None` lean. The strongest database support comes from the current evidence set.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Aaron Seydel projects primarily as a CF with a `None` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

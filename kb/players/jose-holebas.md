@@ -5,9 +5,9 @@ tags: [WD, Greece, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: WD at —. Archetype: Sprinter.
+summary: WD at None. Archetype: Sprinter.
 person_id: 12992
-backlinks: [sprinter, fullback]
+backlinks: [sprinter]
 ---
 
 # José Holebas
@@ -17,30 +17,22 @@ backlinks: [sprinter, fullback]
 | Field | Value |
 |---|---|
 | **Position** | WD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Greece |
 | **Age** | 41 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[fullback]] Fullback |
 | **Level** | 43 |
 | **Overall** | 42.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 José Holebas projects primarily as a WD with a `Sprinter` lean. The strongest database support comes from Aerial Duels, First Touch, and Heading.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[fullback]] Fullback.
+- Best-fit role is `Fullback`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Aerial Duels, First Touch, and Heading.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -74,11 +66,10 @@ José Holebas projects primarily as a WD with a `Sprinter` lean. The strongest d
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

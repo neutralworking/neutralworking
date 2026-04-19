@@ -23,7 +23,7 @@ backlinks: [striker, fc-krasnodar]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 69 |
 | **Overall** | 65.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
@@ -31,14 +31,7 @@ backlinks: [striker, fc-krasnodar]
 Dozer - Power Forward (Driver/Attacker)
 Uses force to drive team down the pitch. 
 
-Guile
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
+[[Guile]]
 
 ## Role Fit
 
@@ -73,14 +66,13 @@ Guile
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
+| Floor | EUR 2.4m |
 | Mid | EUR 3.0m |
-| Ceiling | EUR 11.0m |
-| Confidence | High |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -120,6 +112,6 @@ Guile
 Dozer - Power Forward (Driver/Attacker)
 Uses force to drive team down the pitch. 
 
-Guile
+[[Guile]]
 
 </details>

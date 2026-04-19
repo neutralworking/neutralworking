@@ -2,7 +2,7 @@
 title: Ruslan Malinovskyi
 category: players
 tags: [AM, Genoa, Ukraine, Striker]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Genoa. Archetype: Striker.
@@ -26,40 +26,55 @@ backlinks: [striker, genoa]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 Ruslan Malinovskyi's Drifter archetype and Shadow Striker blueprint make him a technically gifted player, exceling in long-range shooting and through balls, but his discipline and tactical awareness are weaknesses. As an Enganche, Malinovskyi's best role would be in a system that allows him to roam freely behind the striker, and his tactical lineage is reminiscent of traditional number 10s. For a club seeking a creative, experienced midfielder, Malinovskyi may be a good fit, but his hot-headedness and lack of discipline may pose risks.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Trequartista` with model support score `77`.
+- Primary archetype leans toward `Striker` behaviour from a `AM` base.
+- Most bankable strengths show up in Crossing, Jumping, and Stamina.
+- Best used in roles that preserve final-third touches rather than heavy circulation duties.
+
+## In Possession
+
+- Ball-value indicators lean on Crossing, Jumping, and Stamina.
+- Style traits point toward Two Footed, Skill Moves, and Technical Ability in possession.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Crossing | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Jumping | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Stamina | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Movement | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Reactions | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Acceleration | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Balance | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Crossing | ████████████████ 16/10 |
-| Jumping | ████████████████ 16/10 |
-| Stamina | ████████████████ 16/10 |
-| Heading | ███████████████ 15/10 |
-| Movement | ███████████████ 15/10 |
-| Reactions | ███████████████ 15/10 |
-| Acceleration | ██████████████ 14/10 |
-| Balance | ██████████████ 14/10 |
-| Shielding | ██████████████ 14/10 |
-| Tackling | ██████████████ 14/10 |
-| Volleys | ██████████████ 14/10 |
-| Interceptions | █████████████ 13/10 |
-| Pace | █████████████ 13/10 |
-| Awareness | ███████████ 11/10 |
-| Marking | ██████████ 10/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Two Footed** (style) — severity 7/10
-- **Skill Moves** (style) — severity 6/10
-- **Technical Ability** (style) — severity 5/10
-- **Long Range Shooting** (style) — severity 5/10
-- **hot_headed** (behavioral) — severity 5/10
-- **Passing Ability** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -69,3 +84,23 @@ Ruslan Malinovskyi's Drifter archetype and Shadow Striker blueprint make him a t
 - **Pressure (JP)**: 42
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Two Footed** (style) — severity 7/10
+- **Skill Moves** (style) — severity 6/10
+- **Technical Ability** (style) — severity 5/10
+- **Long Range Shooting** (style) — severity 5/10
+- **Hot Headed** (behavioral) — severity 5/10
+- **Passing Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 8 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

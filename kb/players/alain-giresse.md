@@ -5,7 +5,7 @@ tags: [CM, France]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 7993
 ---
 
@@ -16,13 +16,13 @@ person_id: 7993
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | France |
 | **Age** | 73 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -32,18 +32,11 @@ nation: FRA
 tier: C
 dob: 2/8/1952
 
-- He was French Footballer of the Year in 1982, 1983 and 1987.
-- Nominally an attacking midfielder or central midfielder. 
-- Giresse was an intelligent playmaker who possessed fine agility and acceleration due to his short frame.
+- He was [[French Footballer of the Year]] in 1982, 1983 and 1987.
+- Nominally an [[attacking midfielder]] or [[central midfielder]]. 
+- Giresse was an [[intelligent]] [[playmaker]] who possessed fine [[agility]] and [[acceleration]] due to his short frame.
 - He was a member of the Euro 84 winning team.
-- Alongside dev/main/men/Michel Platini, Luis Fernández and dev/main/men/Jean Tigana formed the legendary Carré Magique (Magic Square) in midfield.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+- Alongside [[dev/main/men/Michel Platini]], [[Luis Fernández]] and [[dev/main/men/Jean Tigana]] formed the legendary [[Carré Magique]] (Magic Square) in midfield.
 
 ## Role Fit
 
@@ -60,10 +53,10 @@ dob: 2/8/1952
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -91,10 +84,11 @@ nation: FRA
 tier: C
 dob: 2/8/1952
 
-- He was French Footballer of the Year in 1982, 1983 and 1987.
-- Nominally an attacking midfielder or central midfielder. 
-- Giresse was an intelligent playmaker who possessed fine agility and acceleration due to his short frame.
+- He was [[French Footballer of the Year]] in 1982, 1983 and 1987.
+- Nominally an [[attacking midfielder]] or [[central midfielder]]. 
+- Giresse was an [[intelligent]] [[playmaker]] who possessed fine [[agility]] and [[acceleration]] due to his short frame.
 - He was a member of the Euro 84 winning team.
-- Alongside dev/main/men/Michel Platini, Luis Fernández and dev/main/men/Jean Tigana formed the legendary Carré Magique (Magic Square) in midfield.
+- Alongside [[dev/main/men/Michel Platini]], [[Luis Fernández]] and [[dev/main/men/Jean Tigana]] formed the legendary [[Carré Magique]] (Magic Square) in midfield.
+
 
 </details>

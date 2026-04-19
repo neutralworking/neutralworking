@@ -2,31 +2,17 @@
 title: FC Sion
 category: clubs
 tags: [Swiss Super League, Switzerland]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: FC Sion. 21 players in database.
+summary: FC Sion. 20 players in database.
 ---
 
 # FC Sion
 
 **League**: Swiss Super League  
 **Nation**: Switzerland  
-**Players in DB**: 21
-
-## Identity
-
-- Database coverage is deepest in CM (6), WM (3), and CF (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (6), Sprinter (5), and Destroyer (4) across the current squad.
-- Average available overall grade sits at 65.0, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 20
 
 ## Squad
 
@@ -48,8 +34,7 @@ summary: FC Sion. 21 players in database.
 | [[heinz-lindner]] Heinz Lindner | GK | GK | 80.0 |
 | [[j-lukembila]] J. Lukembila | WF | Sprinter-Dribbler | 66.0 |
 | [[l-chipperfield]] L. Chipperfield | WF | Creator-Sprinter | 66.0 |
-| [[f-surdez]] F. Surdez | WM | Creator-Sprinter | 35.0 |
 | [[n-hefti]] N. Hefti | WM | Sprinter-Cover | 66.0 |
 | [[t-bouchlarhem]] T. Bouchlarhem | WM | Creator-Sprinter | 36.0 |
-| A. Llukes | — | Destroyer | — |
-| T. Berdayes | — | Sprinter-Dribbler | — |
+| [[a-llukes]] A. Llukes | None | Destroyer | None |
+| [[t-berdayes]] T. Berdayes | None | Sprinter-Dribbler | None |

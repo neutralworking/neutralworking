@@ -2,12 +2,12 @@
 title: Juanma Ortiz
 category: players
 tags: [CM, Portland Timbers, Sprinter-Dribbler]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Portland Timbers. Archetype: Sprinter-Dribbler.
 person_id: 3683
-backlinks: [sprinter, tuttocampista, portland-timbers]
+backlinks: [sprinter, portland-timbers]
 ---
 
 # Juanma Ortiz
@@ -18,30 +18,21 @@ backlinks: [sprinter, tuttocampista, portland-timbers]
 |---|---|
 | **Position** | CM |
 | **Club** | Portland Timbers |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[sprinter]] Sprinter-Dribbler |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
-| **Role Score** | 72 |
 | **Level** | 78 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Juanma Ortiz projects primarily as a CM with a `Sprinter-Dribbler` lean. The strongest database support comes from Acceleration, First Touch, and Pace.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista with model support score `72`.
+- Best-fit role is `Tuttocampista` with model support score `72`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, First Touch, and Pace.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -75,14 +66,13 @@ Juanma Ortiz projects primarily as a CM with a `Sprinter-Dribbler` lean. The str
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.0m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 12.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -107,6 +97,6 @@ Juanma Ortiz projects primarily as a CM with a `Sprinter-Dribbler` lean. The str
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 32 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 32 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

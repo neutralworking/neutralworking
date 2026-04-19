@@ -18,24 +18,17 @@ backlinks: [cover, hull-city]
 |---|---|
 | **Position** | CM |
 | **Club** | Hull City |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 38.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 B. Williams is a limited but disciplined midfielder who excels in the Tuttocampista role, using his awareness, interceptions, and tackling to break up opposition attacks. However, his technical ability, creativity, and physical presence are all weaknesses, making him a liability in more complex or physically demanding setups. A club seeking a low-risk, defensive-minded midfielder may appreciate his strengths, but will need to be aware of his limitations and provide significant support to compensate for his weaknesses.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +62,13 @@ B. Williams is a limited but disciplined midfielder who excels in the Tuttocampi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

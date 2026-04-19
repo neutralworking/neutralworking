@@ -2,7 +2,7 @@
 title: O. HÃ¸jlund
 category: players
 tags: [CM, Eintracht Frankfurt, Cover]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Eintracht Frankfurt. Archetype: Cover.
@@ -26,30 +26,55 @@ backlinks: [cover, eintracht-frankfurt]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+O. HÃ¸jlund projects primarily as a CM with a `Cover` lean. The strongest database support comes from Aggression, Pass Accuracy, and Composure.
+
+## Role Fit
+
+- Best-fit role is `Metodista` with model support score `70`.
+- Primary archetype leans toward `Cover` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for Build Up Contributor and High Press.
+- Most bankable strengths show up in Aggression, Pass Accuracy, and Composure.
+
+## In Possession
+
+- Ball-value indicators lean on Aggression, Pass Accuracy, and Composure.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in Build Up Contributor and High Press.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Aggression | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Pass Accuracy | █████████░ 9/10 | One of the stronger current indicators for this profile at 9/10. |
+| Composure | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Tackling | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Through Balls | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Vision | ████████░░ 8/10 | One of the stronger current indicators for this profile at 8/10. |
+| Awareness | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Concentration | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Aggression | █████████░ 9/10 |
-| Pass Accuracy | █████████░ 9/10 |
-| Composure | ████████░░ 8/10 |
-| Tackling | ████████░░ 8/10 |
-| Through Balls | ████████░░ 8/10 |
-| Vision | ████████░░ 8/10 |
-| Awareness | ███████░░░ 7/10 |
-| Concentration | ██████░░░░ 6/10 |
-| Duels | ██████░░░░ 6/10 |
-| Interceptions | ██████░░░░ 6/10 |
-| Physical | ██████░░░░ 6/10 |
-| Pressing | ██████░░░░ 6/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Communication | █████░░░░░ 5/10 |
-| Creativity | █████░░░░░ 5/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **build_up_contributor** (tactical) — severity 7/10
-- **high_press** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [cover, eintracht-frankfurt]
 - **Pressure (JP)**: 55
 - **Competitiveness**: 2/10
 - **Coachability**: 2/10
+
+## Trait Ledger
+
+- **Build Up Contributor** (tactical) — severity 7/10
+- **High Press** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

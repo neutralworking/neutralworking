@@ -2,10 +2,10 @@
 title: Abdulellah Al-Malki
 category: players
 tags: [CM, Al Hilal, Saudi Arabia]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CM at Al Hilal. Archetype: —.
+summary: CM at Al Hilal. Archetype: None.
 person_id: 7732
 backlinks: [al-hilal]
 ---
@@ -20,22 +20,15 @@ backlinks: [al-hilal]
 | **Club** | Al Hilal |
 | **Nation** | Saudi Arabia |
 | **Age** | 31 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A fullback operating in Saudi football's upper tier, Al-Malki offers decent athleticism and positioning sense down the flank, though his crossing consistency has always been his limitation. He's a reliable outlet in transition but lacks the explosive acceleration to consistently beat defenders in one-v-one situations. For a 31-year-old in a domestic league, he remains a functional squad piece rather than a championship-level starter.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -49,13 +42,13 @@ A fullback operating in Saudi football's upper tier, Al-Malki offers decent athl
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.5m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -75,5 +68,5 @@ A fullback operating in Saudi football's upper tier, Al-Malki offers decent athl
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [CM, OM, Canada]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at OM. Archetype: —.
+summary: CM at OM. Archetype: None.
 person_id: 12601
 backlinks: [om]
 ---
@@ -20,22 +20,15 @@ backlinks: [om]
 | **Club** | OM |
 | **Nation** | Canada |
 | **Age** | 28 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 72 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Composed, intelligent midfielder who dictates play from deep with accurate passing and strong positional awareness; rarely loses the ball but can be conservative in attack. Reliable starter, though not a creator.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Composed, intelligent midfielder who dictates play from deep with accurate passi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 3.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

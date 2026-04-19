@@ -18,24 +18,17 @@ backlinks: [sprinter, america-de-cali]
 |---|---|
 | **Position** | GK |
 | **Club** | América de Cali |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 37 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 78 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Josue Soto projects primarily as a GK with a `Sprinter` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -75,11 +68,10 @@ Josue Soto projects primarily as a GK with a `Sprinter` lean. The strongest data
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

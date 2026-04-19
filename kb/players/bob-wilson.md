@@ -5,7 +5,7 @@ tags: [GK, Scotland, GK]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: GK at —. Archetype: GK.
+summary: GK at None. Archetype: GK.
 person_id: 9084
 backlinks: [gk]
 ---
@@ -17,24 +17,18 @@ backlinks: [gk]
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Scotland |
 | **Age** | 82 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 41 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 GK					SCO	B	0.0	Putting Body On The Line		Bravery and intelligence. One of the first to delay getting up after a save to waste time when winning.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +46,10 @@ GK					SCO	B	0.0	Putting Body On The Line		Bravery and intelligence. One of the 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Clement Bischoff
 category: players
 tags: [AM, Red Bull Salzburg, Creator-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Red Bull Salzburg. Archetype: Creator-Powerhouse.
@@ -18,24 +18,17 @@ backlinks: [creator, red-bull-salzburg]
 |---|---|
 | **Position** | AM |
 | **Club** | Red Bull Salzburg |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 20 |
 | **Archetype** | [[creator]] Creator-Powerhouse |
 | **Level** | 82 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Clement Bischoff projects primarily as a AM with a `Creator-Powerhouse` lean. The strongest database support comes from Pace, Acceleration, and First Touch.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -65,14 +58,13 @@ Clement Bischoff projects primarily as a AM with a `Creator-Powerhouse` lean. Th
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.8m |
-| Mid | EUR 32.0m |
-| Ceiling | EUR 38.4m |
-| Confidence | High |
+| Floor | EUR 8m |
+| Mid | EUR 12m |
+| Ceiling | EUR 18m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -92,5 +84,5 @@ Clement Bischoff projects primarily as a AM with a `Creator-Powerhouse` lean. Th
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

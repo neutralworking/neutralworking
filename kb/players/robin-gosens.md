@@ -2,7 +2,7 @@
 title: Robin Gosens
 category: players
 tags: [WD, Fiorentina, Germany, Engine]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Fiorentina. Archetype: Engine.
@@ -26,36 +26,58 @@ backlinks: [engine, fiorentina]
 | **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
-## Scouting Notes
+## Snapshot
 
 A German left-back with solid attacking instincts and the ability to overlap effectively; he's comfortable in possession and makes decent crosses. His physical tools are still present. At 31 and with a history of injuries, his reliability has become the real question — he's getting minutes but you're never quite sure which version of Gosens will show up.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Corner Back` with model support score `78`.
+- Primary archetype leans toward `Engine` behaviour from a `WD` base.
+- Most bankable strengths show up in Jumping, Stamina, and Close Range.
+- Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Stamina, and Close Range.
+- Style traits point toward Positioning and Tackling Ability in possession.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Athletic Profile
+
+- Physical indicators currently centre on Availability and Durability.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ██████████████████ 18/10 | One of the stronger current indicators for this profile at 18/10. |
+| Stamina | █████████████████ 17/10 | One of the stronger current indicators for this profile at 17/10. |
+| Close Range | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Heading | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Movement | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Reactions | ████████████████ 16/10 | One of the stronger current indicators for this profile at 16/10. |
+| Acceleration | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Crossing | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ██████████████████ 18/10 |
-| Stamina | █████████████████ 17/10 |
-| Close Range | ████████████████ 16/10 |
-| Heading | ████████████████ 16/10 |
-| Movement | ████████████████ 16/10 |
-| Reactions | ████████████████ 16/10 |
-| Acceleration | ███████████████ 15/10 |
-| Crossing | ███████████████ 15/10 |
-| First Touch | ███████████████ 15/10 |
-| Long Range | ███████████████ 15/10 |
-| Pass Range | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Balance | ██████████████ 14/10 |
-| Mid Range | ██████████████ 14/10 |
-| Pace | ██████████████ 14/10 |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **availability** (physical) — severity 10/10
-- **Positioning** (style) — severity 5/10
-- **Tackling Ability** (style) — severity 5/10
-- **durability** (physical) — severity 1/10
+## Risk Flags
+
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -65,3 +87,19 @@ A German left-back with solid attacking instincts and the ability to overlap eff
 - **Pressure (JP)**: 30
 - **Competitiveness**: 6/10
 - **Coachability**: 4/10
+
+## Trait Ledger
+
+- **Availability** (physical) — severity 10/10
+- **Positioning** (style) — severity 5/10
+- **Tackling Ability** (style) — severity 5/10
+- **Durability** (physical) — severity 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 46 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

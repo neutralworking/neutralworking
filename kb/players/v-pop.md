@@ -1,13 +1,13 @@
 ---
 title: V. Pop
 category: players
-tags: [CM, Destroyer-Striker]
-updated: 2026-04-14
+tags: [CM, Unirea Slobozia FC, Destroyer-Striker]
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at None. Archetype: Destroyer-Striker.
+summary: CM at Unirea Slobozia FC. Archetype: Destroyer-Striker.
 person_id: 22837
-backlinks: [destroyer]
+backlinks: [destroyer, unirea-slobozia-fc]
 ---
 
 # V. Pop
@@ -17,7 +17,7 @@ backlinks: [destroyer]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | None |
+| **Club** | Unirea Slobozia FC |
 | **Nation** | None |
 | **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Striker |
@@ -26,25 +26,56 @@ backlinks: [destroyer]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+V. Pop projects primarily as a CM with a `Destroyer-Striker` lean. The strongest database support comes from Pressing, Tackling, and Aggression.
+
+## Role Fit
+
+- Best-fit role is `Playmaker` with model support score `70`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Most bankable strengths show up in Pressing, Tackling, and Aggression.
+- Fits systems that value repeat involvement in build-up and defensive transitions.
+
+## In Possession
+
+- Ball-value indicators lean on Pressing, Tackling, and Aggression.
+
+## Out of Possession
+
+- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Pressing | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Tackling | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Aggression | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Blocking | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Close Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Discipline | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Flair | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Long Range | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Pressing | ██████░░░░ 6/10 |
-| Tackling | ██████░░░░ 6/10 |
-| Aggression | █████░░░░░ 5/10 |
-| Blocking | █████░░░░░ 5/10 |
-| Close Range | █████░░░░░ 5/10 |
-| Discipline | █████░░░░░ 5/10 |
-| Flair | █████░░░░░ 5/10 |
-| Long Range | █████░░░░░ 5/10 |
-| Skills | █████░░░░░ 5/10 |
-| Take Ons | █████░░░░░ 5/10 |
-| Technical | █████░░░░░ 5/10 |
-| Threat | █████░░░░░ 5/10 |
-| Awareness | ████░░░░░░ 4/10 |
-| Communication | ████░░░░░░ 4/10 |
-| Concentration | ████░░░░░░ 4/10 |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
+
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
+
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
+- System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
@@ -54,3 +85,10 @@ backlinks: [destroyer]
 - **Pressure (JP)**: 54
 - **Competitiveness**: 3/10
 - **Coachability**: 1/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

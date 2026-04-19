@@ -5,7 +5,7 @@ tags: [CD, Netherlands, Sprinter]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Sprinter.
+summary: CD at None. Archetype: Sprinter.
 person_id: 556
 backlinks: [sprinter]
 ---
@@ -17,24 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Netherlands |
 | **Age** | 38 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 68 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Anthony Vanden Borre projects primarily as a CD with a `Sprinter` lean. The strongest database support comes from Acceleration, Pace, and First Touch.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -69,13 +63,13 @@ Anthony Vanden Borre projects primarily as a CD with a `Sprinter` lean. The stro
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

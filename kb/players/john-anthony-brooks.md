@@ -5,7 +5,7 @@ tags: [CD, United States, Sprinter-Destroyer]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CD at —. Archetype: Sprinter-Destroyer.
+summary: CD at None. Archetype: Sprinter-Destroyer.
 person_id: 3453
 backlinks: [sprinter]
 ---
@@ -17,25 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CD |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | United States |
 | **Age** | 33 |
 | **Archetype** | [[sprinter]] Sprinter-Destroyer |
 | **Level** | 81 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 John Anthony Brooks projects primarily as a CD with a `Sprinter-Destroyer` lean. The strongest database support comes from Acceleration, Interceptions, and Marking.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,14 +61,13 @@ John Anthony Brooks projects primarily as a CD with a `Sprinter-Destroyer` lean.
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

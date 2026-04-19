@@ -23,19 +23,12 @@ backlinks: [target, girona]
 | **Archetype** | [[target]] Target-Striker |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A veteran forward who's learned to be ruthlessly efficient in the box rather than relying on pace or explosiveness; his movement is intelligent, his finishing is clean, and he's a proper threat from set pieces. He's immobile in transition and can't press effectively with any consistency. At 36, he remains a goal threat for a team willing to play to his strengths, but he's purely a finisher now—no other dimension.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -66,14 +59,13 @@ A veteran forward who's learned to be ruthlessly efficient in the box rather tha
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 15.3m |
-| Mid | EUR 18.0m |
-| Ceiling | EUR 21.6m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

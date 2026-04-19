@@ -2,12 +2,12 @@
 title: J. Panzo
 category: players
 tags: [CM, Rio Ave, Destroyer-Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Rio Ave. Archetype: Destroyer-Powerhouse.
 person_id: 21138
-backlinks: [destroyer, metodista, rio-ave]
+backlinks: [destroyer, rio-ave]
 ---
 
 # J. Panzo
@@ -18,30 +18,21 @@ backlinks: [destroyer, metodista, rio-ave]
 |---|---|
 | **Position** | CM |
 | **Club** | Rio Ave |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Powerhouse |
-| **Best Role** | [[metodista]] Metodista |
-| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 65.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Panzo's aggression, tackling, and marking abilities make him a formidable Tuttocampista, but his discipline and lack of creativity are significant concerns. As a Ball Winner, he fits into systems that require a high level of intensity and physicality in midfield. However, his tendency to be hot-headed may lead to unnecessary bookings and suspensions, making him a riskier squad-building option, particularly for teams that struggle with discipline.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[metodista]] Metodista with model support score `71`.
+- Best-fit role is `Metodista` with model support score `71`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Jumping, Marking, and Pace.
@@ -72,14 +63,13 @@ Panzo's aggression, tackling, and marking abilities make him a formidable Tuttoc
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +94,7 @@ Panzo's aggression, tackling, and marking abilities make him a formidable Tuttoc
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

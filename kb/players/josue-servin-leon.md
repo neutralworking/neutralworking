@@ -2,12 +2,12 @@
 title: Josue Servin Leon
 category: players
 tags: [CD, Delfin SC, Paraguay]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CD at Delfin SC. Archetype: —.
+summary: CD at Delfin SC. Archetype: None.
 person_id: 31455
-backlinks: [colossus, delfin-sc]
+backlinks: [delfin-sc]
 ---
 
 # Josue Servin Leon
@@ -20,27 +20,19 @@ backlinks: [colossus, delfin-sc]
 | **Club** | Delfin SC |
 | **Nation** | Paraguay |
 | **Age** | 20 |
-| **Archetype** | — |
-| **Best Role** | [[colossus]] Colossus |
-| **Level** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
 | **Overall** | 10.0 |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Josue Servin Leon projects primarily as a CD with a `—` lean. The strongest database support comes from Creativity, Aggression, and Awareness.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Josue Servin Leon projects primarily as a CD with a `None` lean. The strongest database support comes from Creativity, Aggression, and Awareness.
 
 ## Role Fit
 
-- Best-fit role is [[colossus]] Colossus.
+- Best-fit role is `Colossus`.
 - Most bankable strengths show up in Creativity, Aggression, and Awareness.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
 
@@ -74,9 +66,8 @@ Josue Servin Leon projects primarily as a CD with a `—` lean. The strongest da
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -87,4 +78,4 @@ Josue Servin Leon projects primarily as a CD with a `—` lean. The strongest da
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 16 graded indicators available. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 16 graded indicators available. |

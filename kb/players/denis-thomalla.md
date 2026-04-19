@@ -19,23 +19,16 @@ backlinks: [dribbler, ael-limassol]
 | **Position** | CF |
 | **Club** | AEL Limassol |
 | **Nation** | Germany |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[dribbler]] Dribbler-Sprinter |
 | **Level** | 71 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A centre-forward plying his trade outside the top five leagues, Thomalla has the physical tools (height, presence in the box) but operates as a limited all-rounder rather than a lethal finisher or intelligent link-up player. His movement is straightforward and his touch isn't clean enough to generate space in tight areas; he's the kind of target man who works best when service is generous and direct, which rarely happens at the highest level. Lacks the intelligence or composure to be genuinely useful against organised defences.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -69,14 +62,13 @@ A centre-forward plying his trade outside the top five leagues, Thomalla has the
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.2m |
-| Mid | EUR 3.0m |
-| Ceiling | EUR 3.6m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

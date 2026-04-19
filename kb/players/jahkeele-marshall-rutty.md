@@ -2,7 +2,7 @@
 title: Jahkeele Marshall-Rutty
 category: players
 tags: [CF, CF Montréal, Canada, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at CF Montréal. Archetype: Sprinter.
@@ -23,10 +23,11 @@ backlinks: [sprinter, cf-montreal]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 64 |
 | **Overall** | 56.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
+
 
 ClubToronto FC
 
@@ -41,12 +42,6 @@ Most young players emerging from Canada are likely to be likened to a certain Al
   
 **October 2023 update** Remains at Toronto and has racked up nearly 50 MLS appearances at the time of writing. Asked in April what it was like being compared to Alphonso Davies and other players on the Guardian Next Generation list, he told TFC notebook: “I’ve said this from when I was a young age, it’s an honour to be compared to these players, but I don’t like to read those things. When I go home, that’s not what we talk about. It’s just how are you getting better every single day. When I come in, I just want to be the best version of myself and keep learning from these players."
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -77,14 +72,13 @@ Most young players emerging from Canada are likely to be likened to a certain Al
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -109,16 +103,17 @@ Most young players emerging from Canada are likely to be likened to a certain Al
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 37 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 37 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 
 <details>
 <summary>Raw scouting narrative</summary>
+
 
 ClubToronto FC
 
@@ -132,5 +127,6 @@ Most young players emerging from Canada are likely to be likened to a certain Al
 **September 2022 update** Held talks with Club Brugge in the summer after training with Liverpool and Arsenal last winter. Has clocked up various appearances for Toronto FC and was named in the MLS Team of the Week back in February.  
   
 **October 2023 update** Remains at Toronto and has racked up nearly 50 MLS appearances at the time of writing. Asked in April what it was like being compared to Alphonso Davies and other players on the Guardian Next Generation list, he told TFC notebook: “I’ve said this from when I was a young age, it’s an honour to be compared to these players, but I don’t like to read those things. When I go home, that’s not what we talk about. It’s just how are you getting better every single day. When I come in, I just want to be the best version of myself and keep learning from these players."
+
 
 </details>

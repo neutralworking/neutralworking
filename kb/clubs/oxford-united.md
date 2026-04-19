@@ -2,31 +2,17 @@
 title: Oxford United
 category: clubs
 tags: [Championship, England]
-updated: 2026-04-18
+updated: 2026-04-14
 source: compiled
 confidence: medium
-summary: Oxford United. 32 players in database.
+summary: Oxford United. 34 players in database.
 ---
 
 # Oxford United
 
 **League**: Championship  
 **Nation**: England  
-**Players in DB**: 32
-
-## Identity
-
-- Database coverage is deepest in CM (7), CD (5), and GK (4), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Powerhouse (6), Sprinter (6), and Cover (5) across the current squad.
-- Average available overall grade sits at 64.3, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
+**Players in DB**: 34
 
 ## Squad
 
@@ -38,7 +24,7 @@ summary: Oxford United. 32 players in database.
 | [[jamie-carson-mcdonnell]] Jamie Carson McDonnell | CD | Cover | 35.0 |
 | [[michal-helik]] Michal Helik | CD | Cover | 69.0 |
 | [[ruben-roosken]] Ruben Roosken | CD | Sprinter | 70.0 |
-| [[alex-macdonald]] Alex MacDonald | CF | Powerhouse | — |
+| [[alex-macdonald]] Alex MacDonald | CF | Powerhouse | None |
 | [[ole-romeny]] Ole Romeny | CF | Striker | 69.0 |
 | [[will-lankshear]] Will Lankshear | CF | Striker-Creator | 53.0 |
 | [[c-brannagan]] C. Brannagan | CM | Powerhouse-Creator | 68.0 |
@@ -49,18 +35,20 @@ summary: Oxford United. 32 players in database.
 | [[luke-harris]] Luke Harris | CM | Sprinter-Dribbler | 56.0 |
 | [[will-vaulks]] Will Vaulks | CM | Powerhouse | 66.0 |
 | [[yunus-emre-konak]] Yunus Emre Konak | DM | Powerhouse | 67.0 |
-| [[j-cumming]] J. Cumming | GK | GK | — |
-| [[jack-stevens]] Jack Stevens | GK | GK | — |
+| [[j-cumming]] J. Cumming | GK | GK | None |
+| [[jack-stevens]] Jack Stevens | GK | GK | None |
 | [[sam-long]] Sam Long | GK | Powerhouse | 78.0 |
-| [[sam-slocombe]] Sam Slocombe | GK | GK | — |
+| [[sam-slocombe]] Sam Slocombe | GK | GK | None |
+| [[ben-davies]] Ben Davies | WD | Cover | 69.0 |
 | [[g-leigh]] G. Leigh | WD | Cover-Sprinter | 69.0 |
 | [[hidde-ter-avest]] Hidde ter Avest | WD | Creator | 28.0 |
-| [[josh-ruffels]] Josh Ruffels | WD | Sprinter | — |
+| [[josh-ruffels]] Josh Ruffels | WD | Sprinter | None |
 | [[p-pacheta]] P. Płacheta | WF | Sprinter-Dribbler | 64.0 |
 | [[siriki-dembele]] Siriki Dembele | WF | Sprinter-Creator | 71.0 |
 | [[brian-de-keersmaecker]] Brian De Keersmaecker | WM | Cover-Sprinter | 62.0 |
+| [[myles-peart-harris]] Myles Peart-Harris | WM | Creator-Sprinter | 60.0 |
 | [[s-mills]] S. Mills | WM | Striker-Creator | 67.0 |
 | [[t-goodrham]] T. Goodrham | WM | Creator-Sprinter | 65.0 |
-| C. Makosso | — | Destroyer | — |
-| M. Harris | — | Striker | — |
-| N. Prelec | — | Creator-Sprinter | — |
+| [[c-makosso]] C. Makosso | None | Destroyer | None |
+| [[m-harris]] M. Harris | None | Striker | None |
+| [[n-prelec]] N. Prelec | None | Creator-Sprinter | None |

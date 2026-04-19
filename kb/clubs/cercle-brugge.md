@@ -1,8 +1,8 @@
 ---
 title: Cercle Brugge
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Cercle Brugge. 22 players in database.
@@ -10,23 +10,9 @@ summary: Cercle Brugge. 22 players in database.
 
 # Cercle Brugge
 
-**League**: —  
-**Nation**: —  
+**League**: None  
+**Nation**: None  
 **Players in DB**: 22
-
-## Identity
-
-- Database coverage is deepest in CM (8), GK (3), and WD (3), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Cover (4), Creator (4), and Gk (3) across the current squad.
-- Average available overall grade sits at 64.9, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
 
 ## Squad
 
@@ -34,7 +20,7 @@ summary: Cercle Brugge. 22 players in database.
 |---|---|---|---|
 | [[steve-ngoura]] Steve Ngoura | CF | Dribbler | 60.0 |
 | [[c-ravych]] C. Ravych | CM | Destroyer-Powerhouse | 69.0 |
-| [[dino-hotic]] Dino Hotić | CM | Powerhouse | — |
+| [[dino-hotic]] Dino Hotić | CM | Powerhouse | None |
 | [[e-utkus]] E. Utkus | CM | Cover-Target | 71.0 |
 | [[edan-diop]] Edan Diop | CM | Creator-Sprinter | 54.0 |
 | [[emmanuel-kakou]] Emmanuel Kakou | CM | Cover-Striker | 70.0 |
@@ -43,14 +29,14 @@ summary: Cercle Brugge. 22 players in database.
 | [[h-van-der-bruggen]] H. Van der Bruggen | CM | Powerhouse-Passer | 66.0 |
 | [[makaya-ibrahima-diaby]] Makaya Ibrahima Diaby | DM | Destroyer-Creator | 70.0 |
 | [[v-konate]] V. Konaté | DM | Cover-Creator | 42.0 |
-| [[eloy-room]] Eloy Room | GK | GK | — |
-| [[m-delanghe]] M. Delanghe | GK | GK | — |
-| [[warleson]] Warleson | GK | GK | — |
+| [[eloy-room]] Eloy Room | GK | GK | None |
+| [[m-delanghe]] M. Delanghe | GK | GK | None |
+| [[warleson]] Warleson | GK | GK | None |
 | [[ibrahim-diakite]] Ibrahim Diakité | WD | Sprinter-Dribbler | 65.0 |
-| [[jordan-semedo]] Jordan Semedo | WD | — | — |
+| [[jordan-semedo]] Jordan Semedo | WD | None | None |
 | [[l-agyekum]] L. Agyekum | WD | Sprinter-Dribbler | 69.0 |
 | [[a-minda]] A. Minda | WF | Sprinter-Cover | 66.0 |
 | [[o-adewumi]] O. Adewumi | WF | Striker | 65.0 |
-| A. Bayo | — | Creator-Sprinter | — |
-| H. Jurado | — | Creator-Cover | — |
-| N. De Wilde | — | Creator-Dribbler | — |
+| [[a-bayo]] A. Bayo | None | Creator-Sprinter | None |
+| [[h-jurado]] H. Jurado | None | Creator-Cover | None |
+| [[n-de-wilde]] N. De Wilde | None | Creator-Dribbler | None |

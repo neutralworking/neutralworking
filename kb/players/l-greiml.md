@@ -2,7 +2,7 @@
 title: L. Greiml
 category: players
 tags: [CM, NAC Breda, Destroyer-Powerhouse]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at NAC Breda. Archetype: Destroyer-Powerhouse.
@@ -26,36 +26,54 @@ backlinks: [destroyer, nac-breda]
 | **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
-## Scouting Notes
+## Snapshot
 
 A metodista-ball-winner whose physical dominance, jumping, and marking aggression position him as a competitive, territorial presence in the midfield base, yet moderate technical and tactical layers indicate he cannot function autonomously in buildup phases. His discipline weakness and limited creativity mean he operates best as a protective, single-role midfielder alongside a technical hub rather than as a two-phase midfielder; creativity simply does not exist in his profile. At 24, his high-press and build-up traits suggest positional adaptation is ongoing, but his ceiling appears bounded by limited mental flexibility and inconsistent technical range—suitable for high-intensity pressing systems but vulnerable to elite ball-keeping sides.
 
-## Attribute Grades
+## Role Fit
 
-| Attribute | Grade |
+- Best-fit role is `Playmaker` with model support score `71`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Jumping, Physical, and Marking.
+
+## In Possession
+
+- Ball-value indicators lean on Jumping, Physical, and Marking.
+- Style traits point toward Tackling Ability and Defensive Awareness in possession.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Jumping | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Physical | ███████████████ 15/10 | One of the stronger current indicators for this profile at 15/10. |
+| Marking | ██████████████ 14/10 | One of the stronger current indicators for this profile at 14/10. |
+| Heading | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Reactions | █████████████ 13/10 | One of the stronger current indicators for this profile at 13/10. |
+| Balance | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Pass Range | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+| Shielding | ████████████ 12/10 | One of the stronger current indicators for this profile at 12/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Jumping | ███████████████ 15/10 |
-| Physical | ███████████████ 15/10 |
-| Marking | ██████████████ 14/10 |
-| Heading | █████████████ 13/10 |
-| Reactions | █████████████ 13/10 |
-| Balance | ████████████ 12/10 |
-| Pass Range | ████████████ 12/10 |
-| Shielding | ████████████ 12/10 |
-| Acceleration | ███████████ 11/10 |
-| First Touch | ███████████ 11/10 |
-| Aggression | ██████████ 10/10 |
-| Blocking | ██████████ 10/10 |
-| Duels | ██████████ 10/10 |
-| Movement | ██████████ 10/10 |
-| Pace | ██████████ 10/10 |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 5/10
-- **build_up_contributor** (tactical) — severity 5/10
-- **Tackling Ability** (style) — severity 4/10
-- **Defensive Awareness** (style) — severity 4/10
+## Risk Flags
+
+- Coachability score is low enough to raise integration risk in demanding environments.
 
 ## Personality
 
@@ -65,3 +83,19 @@ A metodista-ball-winner whose physical dominance, jumping, and marking aggressio
 - **Pressure (JP)**: 63
 - **Competitiveness**: 6/10
 - **Coachability**: 3/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 5/10
+- **Build Up Contributor** (tactical) — severity 5/10
+- **Tackling Ability** (style) — severity 4/10
+- **Defensive Awareness** (style) — severity 4/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 4 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

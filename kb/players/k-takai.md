@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Borussia Mönchengladbach. Archetype: Cover.
 person_id: 21547
-backlinks: [cover, ball-winner, borussia-monchengladbach]
+backlinks: [cover, borussia-monchengladbach]
 ---
 
 # K. Takai
@@ -18,29 +18,21 @@ backlinks: [cover, ball-winner, borussia-monchengladbach]
 |---|---|
 | **Position** | CM |
 | **Club** | Borussia Mönchengladbach |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[ball-winner]] Ball Winner |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 40.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 K. Takai is a Tuttocampista with a strong foundation in pass accuracy and awareness, allowing him to dictate the tempo of the game from midfield. However, his limited technical and tactical abilities restrict his creativity and vision, making him more of a destroyer than a creator. His composure and tackling ability make him a solid option in a deep-lying role, but he may struggle to impose himself in more advanced positions.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[ball-winner]] Ball Winner.
+- Best-fit role is `Ball Winner`.
 - Primary archetype leans toward `Cover` behaviour from a `CM` base.
 - Most bankable strengths show up in Concentration, Communication, and Leadership.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -73,11 +65,10 @@ K. Takai is a Tuttocampista with a strong foundation in pass accuracy and awaren
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

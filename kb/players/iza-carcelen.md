@@ -19,23 +19,16 @@ backlinks: [powerhouse, cadiz]
 | **Position** | WD |
 | **Club** | Cadiz |
 | **Nation** | Spain |
-| **Age** | — |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 73 |
 | **Overall** | 68.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A full-back operating in La Liga's basement tier with adequate positional sense but insufficient pace to genuinely threaten down the flank in either direction. He's competent at managing one-on-one situations and can drive forward in possession, yet he's neither a ball-carrier of significant calibre nor a defensive wall. At his age, he's reached his potential as a squad option at a mid-table or lower club.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -70,14 +63,13 @@ A full-back operating in La Liga's basement tier with adequate positional sense 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.4m |
-| Mid | EUR 4.0m |
-| Ceiling | EUR 4.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

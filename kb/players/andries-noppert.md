@@ -23,18 +23,12 @@ backlinks: [passer, heerenveen]
 | **Archetype** | [[passer]] Passer |
 | **Level** | 84 |
 | **Overall** | 67.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A big, old-fashioned Dutch keeper who commands his box with the authority of someone who's seen a thousand crosses come his way. Noppert's reflexes remain sound for a 31-year-old and he distributes the ball competently into midfield, though his footwork under pressure isn't particularly clean and he can be vulnerable to modern pressing. At Heerenveen's level he's entirely serviceable—a reliable, unremarkable shot-stopper who won't cost you matches through carelessness—but his lack of genuine sweeping instinct and his occasionally erratic distribution mean he'd struggle against sides that aggressively attack the space in behind. He's a fringe international for the Netherlands, which tells you everything: solid professional, not a standout.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -68,13 +62,13 @@ A big, old-fashioned Dutch keeper who commands his box with the authority of som
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 12.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: Jayden Richardson
 category: players
 tags: [CD, St Mirren, England, Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at St Mirren. Archetype: Destroyer.
 person_id: 12485
-backlinks: [destroyer, sweeper, st-mirren]
+backlinks: [destroyer, st-mirren]
 ---
 
 # Jayden Richardson
@@ -21,27 +21,18 @@ backlinks: [destroyer, sweeper, st-mirren]
 | **Nation** | England |
 | **Age** | 25 |
 | **Archetype** | [[destroyer]] Destroyer |
-| **Best Role** | [[sweeper]] Sweeper |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jayden Richardson projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Discipline, Skills, and Technical.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[sweeper]] Sweeper with model support score `69`.
+- Best-fit role is `Sweeper` with model support score `69`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
 - Most bankable strengths show up in Discipline, Skills, and Technical.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -71,14 +62,13 @@ Jayden Richardson projects primarily as a CD with a `Destroyer` lean. The strong
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,5 +90,5 @@ Jayden Richardson projects primarily as a CD with a `Destroyer` lean. The strong
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 22 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

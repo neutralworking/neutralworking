@@ -2,12 +2,12 @@
 title: K. Nagasawa
 category: players
 tags: [CM, Wellington Phoenix, Creator-Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Wellington Phoenix. Archetype: Creator-Cover.
 person_id: 23801
-backlinks: [creator, playmaker, wellington-phoenix]
+backlinks: [creator, wellington-phoenix]
 ---
 
 # K. Nagasawa
@@ -18,30 +18,21 @@ backlinks: [creator, playmaker, wellington-phoenix]
 |---|---|
 | **Position** | CM |
 | **Club** | Wellington Phoenix |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Cover |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 70 |
 | **Level** | 76 |
 | **Overall** | 62.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 K. Nagasawa projects primarily as a CM with a `Creator-Cover` lean. The strongest database support comes from Discipline, Creativity, and Threat.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `70`.
+- Best-fit role is `Playmaker` with model support score `70`.
 - Primary archetype leans toward `Creator` behaviour from a `CM` base.
 - Most bankable strengths show up in Discipline, Creativity, and Threat.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +62,13 @@ K. Nagasawa projects primarily as a CM with a `Creator-Cover` lean. The stronges
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 6.8m |
-| Mid | EUR 8.0m |
-| Ceiling | EUR 9.6m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -100,5 +90,5 @@ K. Nagasawa projects primarily as a CM with a `Creator-Cover` lean. The stronges
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

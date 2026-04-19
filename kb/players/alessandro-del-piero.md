@@ -2,10 +2,10 @@
 title: Alessandro Del Piero
 category: players
 tags: [CF, Italy, Creator-Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Creator-Striker.
+summary: CF at None. Archetype: Creator-Striker.
 person_id: 8085
 backlinks: [creator]
 ---
@@ -17,13 +17,13 @@ backlinks: [creator]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Italy |
 | **Age** | 51 |
 | **Archetype** | [[creator]] Creator-Striker |
 | **Level** | 41 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -49,13 +49,6 @@ After beginning his career with Padova, he played with Juventus F.C. for 19 seas
 In 2004, he was named in the FIFA 100, a list of the 125 greatest living footballers selected by Pelé as a part of FIFA's centenary celebrations.
 
 In the same year, he was also voted into the UEFA Golden Jubilee Poll, a list of the 50 best European players of the past 50 years. Along with six awards in Italy for gentlemanly conduct, he has also won the Golden Foot award, which pertains to personality as well as playing ability. Del Piero has also represented the Italian national team at three FIFA World Cups and four UEFA European Football Championships, most notably winning the 2006 FIFA World Cup, and reaching the final of UEFA Euro 20
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -89,11 +82,10 @@ In the same year, he was also voted into the UEFA Golden Jubilee Poll, a list of
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -116,11 +108,11 @@ In the same year, he was also voted into the UEFA Golden Jubilee Poll, a list of
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 30 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 30 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

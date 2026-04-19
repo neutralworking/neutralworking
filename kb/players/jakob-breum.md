@@ -2,12 +2,12 @@
 title: Jakob Breum
 category: players
 tags: [AM, Go Ahead Eagles, Denmark, Powerhouse]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: AM at Go Ahead Eagles. Archetype: Powerhouse.
 person_id: 12248
-backlinks: [powerhouse, enganche, go-ahead-eagles]
+backlinks: [powerhouse, go-ahead-eagles]
 ---
 
 # Jakob Breum
@@ -21,27 +21,18 @@ backlinks: [powerhouse, enganche, go-ahead-eagles]
 | **Nation** | Denmark |
 | **Age** | 22 |
 | **Archetype** | [[powerhouse]] Powerhouse |
-| **Best Role** | [[enganche]] Enganche |
-| **Role Score** | 74 |
 | **Level** | 80 |
 | **Overall** | 74.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Jakob Breum's Artisan archetype and Playmaker blueprint indicate a player with a strong technical foundation and creative vision. His strengths in stamina, balance, and long-range passing make him a promising Enganche, but his weaknesses in discipline and guile may hinder his overall impact. A club that values possession-based football and can provide him with a clear role would be a good match, though his tendency to lose possession in tight spaces may require attention.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[enganche]] Enganche with model support score `74`.
+- Best-fit role is `Enganche` with model support score `74`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `AM` base.
 - Tactical fit is strongest when the game asks for Counter Attack Threat.
 - Most bankable strengths show up in Stamina, Acceleration, and Balance.
@@ -72,14 +63,13 @@ Jakob Breum's Artisan archetype and Playmaker blueprint indicate a player with a
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.3m |
-| Mid | EUR 17.0m |
-| Ceiling | EUR 20.4m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -103,7 +93,7 @@ Jakob Breum's Artisan archetype and Playmaker blueprint indicate a player with a
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 43 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 43 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

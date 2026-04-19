@@ -7,7 +7,7 @@ source: compiled
 confidence: high
 summary: CM at Kasımpaşa. Archetype: Powerhouse.
 person_id: 13300
-backlinks: [powerhouse, tuttocampista, kasmpasa]
+backlinks: [powerhouse, kasmpasa]
 ---
 
 # Kamil Çörekçi
@@ -21,26 +21,18 @@ backlinks: [powerhouse, tuttocampista, kasmpasa]
 | **Nation** | Turkey |
 | **Age** | 34 |
 | **Archetype** | [[powerhouse]] Powerhouse |
-| **Best Role** | [[tuttocampista]] Tuttocampista |
 | **Level** | 80 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Çörekçi embodies the functional terrier—quick, balanced, and defensively alert across the midfield—but his creative void and repeated disciplinary issues signal a player whose range is genuinely constrained. At 34 with moderate technical and tactical pillars, he's a steady shielder and presser best deployed in a tuttocampista role alongside more creative partners, his pace still serviceable in transitions despite age-related decline. A one-dimensional midfielder suited to Turkish or Benelux football where defensive solidity outweighs playmaking ambition; any club expecting him to drive progression up the pitch will be disappointed.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[tuttocampista]] Tuttocampista.
+- Best-fit role is `Tuttocampista`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `CM` base.
 - Most bankable strengths show up in Shielding, Pace, and Acceleration.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -71,14 +63,13 @@ backlinks: [powerhouse, tuttocampista, kasmpasa]
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 1.7m |
+| Floor | EUR 1.6m |
 | Mid | EUR 2.0m |
 | Ceiling | EUR 2.4m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

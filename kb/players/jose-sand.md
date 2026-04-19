@@ -5,9 +5,9 @@ tags: [CF, Target]
 updated: 2026-04-18
 source: compiled
 confidence: high
-summary: CF at —. Archetype: Target.
+summary: CF at None. Archetype: Target.
 person_id: 3614
-backlinks: [target, target-forward]
+backlinks: [target]
 ---
 
 # José Sand
@@ -17,30 +17,22 @@ backlinks: [target, target-forward]
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
-| **Nation** | — |
+| **Club** | None |
+| **Nation** | None |
 | **Age** | 45 |
 | **Archetype** | [[target]] Target |
-| **Best Role** | [[target-forward]] Target Forward |
 | **Level** | 75 |
 | **Overall** | 73.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 José Sand projects primarily as a CF with a `Target` lean. The strongest database support comes from Long Range, Mid Range, and Volleys.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[target-forward]] Target Forward.
+- Best-fit role is `Target Forward`.
 - Primary archetype leans toward `Target` behaviour from a `CF` base.
 - Most bankable strengths show up in Long Range, Mid Range, and Volleys.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -70,11 +62,10 @@ José Sand projects primarily as a CF with a `Target` lean. The strongest databa
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

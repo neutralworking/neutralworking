@@ -21,20 +21,14 @@ backlinks: [gk, eintracht-frankfurt-women]
 | **Nation** | Germany |
 | **Age** | 29 |
 | **Archetype** | [[gk]] GK |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A shot-stopper of genuine competence with sharp reflexes and an organised approach to her line. Bösl's weakness is her distribution—she can look uncertain playing out from the back and occasionally hesitates on crosses, which limits her in Frankfurt's possession-dominant phases. At 29, she's a solid, professional goalkeeper for a European club, but not one who will drive play through intelligent sweeping or ballplaying.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -52,10 +46,10 @@ A shot-stopper of genuine competence with sharp reflexes and an organised approa
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

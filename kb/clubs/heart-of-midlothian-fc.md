@@ -1,8 +1,8 @@
 ---
 title: Heart of Midlothian FC
 category: clubs
-tags: [Scotland]
-updated: 2026-04-18
+tags: [None, Scotland]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Heart of Midlothian FC. 7 players in database.
@@ -10,23 +10,9 @@ summary: Heart of Midlothian FC. 7 players in database.
 
 # Heart of Midlothian FC
 
-**League**: —  
+**League**: None  
 **Nation**: Scotland  
 **Players in DB**: 7
-
-## Identity
-
-- Database coverage is deepest in CM (2), GK (1), and CD (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Sprinter (2), Gk (1), and Cover (1) across the current squad.
-- Average available overall grade sits at 68.5, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[build-up]] Build-Up: the squad shape still depends on how the club exits the first line and distributes responsibility.
-- [[rest-defense]] Rest Defense: roster balance behind the ball affects whether the club can attack without exposing transitions.
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -34,8 +20,8 @@ summary: Heart of Midlothian FC. 7 players in database.
 |---|---|---|---|
 | [[toby-sibbick]] Toby Sibbick | CD | Cover | 71.0 |
 | [[michael-smith]] Michael Smith | CF | Target | 66.0 |
-| [[calem-nieuwenhof]] Calem Nieuwenhof | CM | Powerhouse | — |
-| [[kyosuke-tagawa]] Kyosuke Tagawa | CM | — | — |
-| [[harry-stone]] Harry Stone | GK | GK | — |
-| [[josh-ginnelly]] Josh Ginnelly | WF | Sprinter | — |
-| Finlay Pollock | — | Sprinter-Dribbler | — |
+| [[calem-nieuwenhof]] Calem Nieuwenhof | CM | Powerhouse | None |
+| [[kyosuke-tagawa]] Kyosuke Tagawa | CM | None | None |
+| [[harry-stone]] Harry Stone | GK | GK | None |
+| [[josh-ginnelly]] Josh Ginnelly | WF | Sprinter | None |
+| [[finlay-pollock]] Finlay Pollock | None | Sprinter-Dribbler | None |

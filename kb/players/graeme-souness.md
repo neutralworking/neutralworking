@@ -5,7 +5,7 @@ tags: [CM, Scotland]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CM at —. Archetype: —.
+summary: CM at None. Archetype: None.
 person_id: 11511
 ---
 
@@ -16,25 +16,18 @@ person_id: 11511
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Scotland |
 | **Age** | 72 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM		Presence	Destroyer		SCO	A	0.0
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
 
 ## Role Fit
 
@@ -51,11 +44,10 @@ CM		Presence	Destroyer		SCO	A	0.0
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -78,6 +70,6 @@ CM		Presence	Destroyer		SCO	A	0.0
 {}
 ---
 
-CM		Presence	Destroyer		SCO	A	0.0
+CM		Presence	Destroyer		SCO	A	0.0	
 
 </details>

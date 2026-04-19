@@ -2,12 +2,12 @@
 title: Julien Ngoy
 category: players
 tags: [CF, KV Mechelen, Belgium, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at KV Mechelen. Archetype: Sprinter.
 person_id: 13197
-backlinks: [sprinter, shadow-striker, kv-mechelen]
+backlinks: [sprinter, kv-mechelen]
 ---
 
 # Julien Ngoy
@@ -21,26 +21,18 @@ backlinks: [sprinter, shadow-striker, kv-mechelen]
 | **Nation** | Belgium |
 | **Age** | 28 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
 | **Level** | 77 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Julien Ngoy projects primarily as a CF with a `Sprinter` lean. The strongest database support comes from Pace, Jumping, and Physical.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker.
+- Best-fit role is `Shadow Striker`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CF` base.
 - Most bankable strengths show up in Pace, Jumping, and Physical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -67,14 +59,13 @@ Julien Ngoy projects primarily as a CF with a `Sprinter` lean. The strongest dat
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -98,6 +89,6 @@ Julien Ngoy projects primarily as a CF with a `Sprinter` lean. The strongest dat
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 35 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 35 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -23,19 +23,12 @@ backlinks: [powerhouse, cadiz]
 | **Archetype** | [[powerhouse]] Powerhouse |
 | **Level** | 41 |
 | **Overall** | 40.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 At 42, Fali is an anthropological curiosity—a defender whose longevity speaks to fitness levels and professionalism, but whose on-pitch effectiveness has surely declined to the point where he's purely a veteran presence and set-piece asset. His positional sense remains sharp, and he reads the game well, but pace has evaporated, and he'll be frequently exposed in one-on-one defending. Cádiz keeps him because Spanish clubs value experience, not because he's a legitimate defensive solution.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -76,12 +69,11 @@ At 42, Fali is an anthropological curiosity—a defender whose longevity speaks 
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 2.2m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

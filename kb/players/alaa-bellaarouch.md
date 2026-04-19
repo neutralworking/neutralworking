@@ -22,19 +22,13 @@ backlinks: [gk, braga]
 | **Age** | 24 |
 | **Archetype** | [[gk]] GK |
 | **Level** | 71 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A competent shot-stopper with decent reflexes and adequate distribution for Liga Portugal standard, but lacks the command of his box and sweeper instincts you'd want from an ambitious club's number one. He's functional rather than commanding—good positioning on routine saves, but vulnerable to crosses and tends to stay rooted rather than proactively dominate his area. At 24 there's time to develop, but right now he's a squad-level goalkeeper treading water rather than pushing for a top-club move.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -70,13 +64,13 @@ A competent shot-stopper with decent reflexes and adequate distribution for Liga
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

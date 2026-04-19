@@ -2,12 +2,12 @@
 title: Jorge Luiz
 category: players
 tags: [WM, Pohang Steelers, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WM at Pohang Steelers. Archetype: Striker-Creator.
 person_id: 21790
-backlinks: [striker, wide-playmaker, pohang-steelers]
+backlinks: [striker, pohang-steelers]
 ---
 
 # Jorge Luiz
@@ -18,30 +18,21 @@ backlinks: [striker, wide-playmaker, pohang-steelers]
 |---|---|
 | **Position** | WM |
 | **Club** | Pohang Steelers |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[wide-playmaker]] Wide Playmaker |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 61.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jorge Luiz projects primarily as a WM with a `Striker-Creator` lean. The strongest database support comes from Threat, Creativity, and Through Balls.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[wide-playmaker]] Wide Playmaker with model support score `69`.
+- Best-fit role is `Wide Playmaker` with model support score `69`.
 - Primary archetype leans toward `Striker` behaviour from a `WM` base.
 - Most bankable strengths show up in Threat, Creativity, and Through Balls.
 
@@ -66,14 +57,13 @@ Jorge Luiz projects primarily as a WM with a `Striker-Creator` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -95,5 +85,5 @@ Jorge Luiz projects primarily as a WM with a `Striker-Creator` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

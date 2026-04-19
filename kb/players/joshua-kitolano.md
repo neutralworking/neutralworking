@@ -2,12 +2,12 @@
 title: Joshua Kitolano
 category: players
 tags: [CM, Sparta Rotterdam, Norway, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Sparta Rotterdam. Archetype: Sprinter.
 person_id: 13093
-backlinks: [sprinter, playmaker, sparta-rotterdam]
+backlinks: [sprinter, sparta-rotterdam]
 ---
 
 # Joshua Kitolano
@@ -21,27 +21,18 @@ backlinks: [sprinter, playmaker, sparta-rotterdam]
 | **Nation** | Norway |
 | **Age** | 24 |
 | **Archetype** | [[sprinter]] Sprinter |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 75 |
 | **Level** | 80 |
 | **Overall** | 71.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Kitolano is a 24-year-old central mezzala with the rare combination of technical strength, tactical solidity, and athletic vigor—his acceleration, balance, and stamina mark him as a genuine prospect. Mental fragility and surprising tactical contradictions in his profile (marked as tactically limited despite a strong pillar rating) introduce caution; his flamboyance hints at inconsistency in decision-making. One-club status and youth suggest he has room to cohere, but a move to a more demanding environment will test whether his technical tools translate without tactical improvement and emotional restraint.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `75`.
+- Best-fit role is `Playmaker` with model support score `75`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CM` base.
 - Most bankable strengths show up in Acceleration, Balance, and Shielding.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -72,14 +63,13 @@ Kitolano is a 24-year-old central mezzala with the rare combination of technical
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.4m |
-| Mid | EUR 15.0m |
-| Ceiling | EUR 18.0m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -107,7 +97,7 @@ Kitolano is a 24-year-old central mezzala with the rare combination of technical
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

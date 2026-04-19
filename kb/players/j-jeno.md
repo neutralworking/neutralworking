@@ -18,24 +18,17 @@ backlinks: [creator, unirea-slobozia-fc]
 |---|---|
 | **Position** | WM |
 | **Club** | Unirea Slobozia FC |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[creator]] Creator-Cover |
-| **Level** | — |
+| **Level** | None |
 | **Overall** | 38.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jeno operates as a Creator-Cover Tornante, a physically aggressive midfielder strong in tackling, jumping, and winning duels, possessing a decent first touch. His profile aligns with a more direct, industrious style of play, capable of disrupting opposition attacks and making aggressive transitions. However, his overall technical inconsistencies, limited mental resilience, and struggles with blocking restrict his effectiveness in more possession-oriented or nuanced systems. He's a lower-market option for clubs seeking pure tenacity and physicality in midfield, but his developmental challenges indicate he would require a specific tactical setup to thrive.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Jeno operates as a Creator-Cover Tornante, a physically aggressive midfielder st
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.8m |
-| Mid | EUR 1.0m |
-| Ceiling | EUR 1.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,7 +2,7 @@
 title: Abdullah Radif
 category: players
 tags: [CF, Al-Shabab, Saudi Arabia, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Al-Shabab. Archetype: Sprinter.
@@ -23,19 +23,12 @@ backlinks: [sprinter, al-shabab]
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 68 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Abdullah Radif is a speedy poacher who thrives on the shoulder of the last defender, using his pace and jumping ability to get in behind and finish chances, but his all-round game is hindered by a lack of awareness and poor tackling and interception skills. He often finds himself isolated from the rest of the team, and his inability to link play or make runs into the channels can make him a frustrating player to watch. While he can be a potent finisher, his limitations mean he is not a striker who can lead the line or create for others.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -64,14 +57,13 @@ Abdullah Radif is a speedy poacher who thrives on the shoulder of the last defen
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -91,6 +83,6 @@ Abdullah Radif is a speedy poacher who thrives on the shoulder of the last defen
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 34 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 34 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

@@ -5,7 +5,7 @@ tags: [CF, Romania]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at —. Archetype: —.
+summary: CF at None. Archetype: None.
 person_id: 7896
 ---
 
@@ -16,13 +16,13 @@ person_id: 7896
 | Field | Value |
 |---|---|
 | **Position** | CF |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Romania |
 | **Age** | 47 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
@@ -47,13 +47,6 @@ Due to breach of contract for failing a drug test, he was released and returned 
 He was included in their squads at the European Championship in 2000 and 2008. A four-time winner of the Romanian Footballe of the Year Award, only Gheorghe Popescu and Gheorghe Hagi have won the award 
 more times, with six and seven wins respectively.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -62,14 +55,13 @@ more times, with six and seven wins respectively.
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

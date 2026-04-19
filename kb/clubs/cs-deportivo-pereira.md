@@ -1,8 +1,8 @@
 ---
 title: CS Deportivo Pereira
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: CS Deportivo Pereira. 14 players in database.
@@ -10,23 +10,9 @@ summary: CS Deportivo Pereira. 14 players in database.
 
 # CS Deportivo Pereira
 
-**League**: —  
-**Nation**: —  
+**League**: None  
+**Nation**: None  
 **Players in DB**: 14
-
-## Identity
-
-- Database coverage is deepest in CM (6), CF (2), and AM (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Creator (8), Destroyer (2), and Cover (2) across the current squad.
-- Average available overall grade sits at 55.2, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
-- [[pressing-trigger]] Pressing Trigger: the squad balance is partly explained by who can activate or support pressure at the right moment.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -41,8 +27,8 @@ summary: CS Deportivo Pereira. 14 players in database.
 | [[j-moya]] J. Moya | CM | Destroyer-Striker | 58.0 |
 | [[w-pacheco]] W. Pacheco | CM | Creator-Destroyer | 59.0 |
 | [[y-suarez]] Y. Súarez | CM | Striker | 59.0 |
-| E. Arízalas | — | Creator-Destroyer | — |
-| Eber Moreno | — | Creator-Cover | — |
-| J. Bazan | — | Sprinter-Dribbler | — |
-| S. Aguilar | — | Cover-Creator | — |
-| S. Ichazo | — | Cover-Striker | — |
+| [[e-arizalas]] E. Arízalas | None | Creator-Destroyer | None |
+| [[eber-moreno]] Eber Moreno | None | Creator-Cover | None |
+| [[j-bazan]] J. Bazan | None | Sprinter-Dribbler | None |
+| [[s-aguilar]] S. Aguilar | None | Cover-Creator | None |
+| [[s-ichazo]] S. Ichazo | None | Cover-Striker | None |

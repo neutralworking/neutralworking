@@ -2,12 +2,12 @@
 title: Keaton Parks
 category: players
 tags: [CM, New York City FC, United States, Dribbler-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at New York City FC. Archetype: Dribbler-Destroyer.
 person_id: 13395
-backlinks: [dribbler, playmaker, new-york-city-fc]
+backlinks: [dribbler, new-york-city-fc]
 ---
 
 # Keaton Parks
@@ -21,27 +21,18 @@ backlinks: [dribbler, playmaker, new-york-city-fc]
 | **Nation** | United States |
 | **Age** | 28 |
 | **Archetype** | [[dribbler]] Dribbler-Destroyer |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 80 |
 | **Level** | 85 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Keaton Parks, a Dribbler-Destroyer and Tuttocampista, offers a composed and technically sound presence in midfield with good first touch and pass accuracy, leveraging his physical frame despite surprising struggles in duels. While possessing a strong tactical pillar, a specific weakness in tactical application along with discipline issues can be concerning, suggesting inconsistencies in adherence to game plans. As a "newcomer" at 28, a Director of Football might eye him as a budget-friendly option for a possession-oriented side in a competitive league seeking a midfielder who can link play and maintain composure under pressure, though his disciplinary record poses a clear risk.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `80`.
+- Best-fit role is `Playmaker` with model support score `80`.
 - Primary archetype leans toward `Dribbler` behaviour from a `CM` base.
 - Most bankable strengths show up in First Touch, Physical, and Movement.
 - Fits systems that value repeat involvement in build-up and defensive transitions.
@@ -72,14 +63,13 @@ Keaton Parks, a Dribbler-Destroyer and Tuttocampista, offers a composed and tech
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 42.0m |
-| Ceiling | EUR 50.4m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,7 +95,7 @@ Keaton Parks, a Dribbler-Destroyer and Tuttocampista, offers a composed and tech
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

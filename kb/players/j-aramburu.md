@@ -2,12 +2,12 @@
 title: J. Aramburu
 category: players
 tags: [DM, Real Sociedad, Powerhouse-Destroyer]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: DM at Real Sociedad. Archetype: Powerhouse-Destroyer.
 person_id: 20358
-backlinks: [powerhouse, anchor, real-sociedad]
+backlinks: [powerhouse, real-sociedad]
 ---
 
 # J. Aramburu
@@ -18,30 +18,21 @@ backlinks: [powerhouse, anchor, real-sociedad]
 |---|---|
 | **Position** | DM |
 | **Club** | Real Sociedad |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
-| **Best Role** | [[anchor]] Anchor |
-| **Role Score** | 71 |
 | **Level** | 76 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 J. Aramburu, a Warrior Anchor, provides an energetic and robust presence in defensive midfield, with strong acceleration, pace, and stamina allowing him to cover ground effectively and excel in interceptions and shielding. This archetype aligns with the lineage of pressing midfielders who disrupt opposition play high up the pitch, fitting well into modern aggressive systems. However, his limited mental attributes, lack of creativity, and discipline issues mean he is best suited to a clear, disciplined role where his primary task is defensive solidity, making him a targeted acquisition for clubs needing a destructive presence rather than a deep-lying playmaker.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[anchor]] Anchor with model support score `71`.
+- Best-fit role is `Anchor` with model support score `71`.
 - Primary archetype leans toward `Powerhouse` behaviour from a `DM` base.
 - Tactical fit is strongest when the game asks for High Press.
 - Most bankable strengths show up in Acceleration, Pace, and Shielding.
@@ -72,14 +63,13 @@ J. Aramburu, a Warrior Anchor, provides an energetic and robust presence in defe
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 7.6m |
-| Mid | EUR 9.0m |
-| Ceiling | EUR 10.8m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +94,7 @@ J. Aramburu, a Warrior Anchor, provides an energetic and robust presence in defe
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 45 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 45 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

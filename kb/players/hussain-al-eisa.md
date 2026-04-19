@@ -1,80 +1,89 @@
 ---
-title: Hussain Al-Eisa
+title: Hussain Al Eisa
 category: players
-tags: [CM, Al Wehda, Saudi Arabia]
-updated: 2026-04-18
+tags: [WM, Creator-Striker]
+updated: 2026-04-17
 source: compiled
-confidence: low
-summary: CM at Al Wehda. Archetype: —.
-person_id: 11856
-backlinks: [al-wehda]
+confidence: high
+summary: WM at None. Archetype: Creator-Striker.
+person_id: 27132
+backlinks: [creator]
 ---
 
-# Hussain Al-Eisa
+# Hussain Al Eisa
 
 ## Overview
 
 | Field | Value |
 |---|---|
-| **Position** | CM |
-| **Club** | Al Wehda |
-| **Nation** | Saudi Arabia |
-| **Age** | 25 |
-| **Archetype** | — |
-| **Level** | 74 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Position** | WM |
+| **Club** | None |
+| **Nation** | None |
+| **Age** | None |
+| **Archetype** | [[creator]] Creator-Striker |
+| **Level** | None |
+| **Overall** | 30.0 |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
-Midfielder showing encouraging signs of tactical discipline and a willingness to cover ground, though his creativity remains limited and he can be overrun when isolated against better-organised sides. Progressive passing exists but isn't consistent enough to be relied upon. Has the foundation of a solid squad player but nothing more yet.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
+Hussain Al Eisa projects primarily as a WM with a `Creator-Striker` lean. The strongest database support comes from Skills, Technical, and Aggression.
 
 ## Role Fit
 
-- Fits systems that value repeat involvement in build-up and defensive transitions.
+- Best-fit role is `Tornante`.
+- Primary archetype leans toward `Creator` behaviour from a `WM` base.
+- Most bankable strengths show up in Skills, Technical, and Aggression.
 
-## Out of Possession
+## In Possession
 
-- Current data is lighter on explicit defensive-trait tags than a full live-scout dossier would be.
+- Ball-value indicators lean on Skills, Technical, and Aggression.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | ███████░░░ 7/10 | One of the stronger current indicators for this profile at 7/10. |
+| Technical | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Drive | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Concentration | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Intensity | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Communication | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
+| Leadership | ██░░░░░░░░ 2/10 | One of the stronger current indicators for this profile at 2/10. |
 
 ## Valuation Range
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
-- Metric coverage is shallow relative to a full dossier standard.
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 - System dependence is hard to pin down because tactical trait evidence is limited.
 
 ## Personality
 
-- **Game Reading (EI)**: 56
-- **Motivation (SN)**: 56
-- **Social (TF)**: 55
-- **Pressure (JP)**: 56
-- **Competitiveness**: 5/10
-- **Coachability**: 4/10
+- **Game Reading (EI)**: 27
+- **Motivation (SN)**: 69
+- **Social (TF)**: 79
+- **Pressure (JP)**: 43
+- **Competitiveness**: 3/10
+- **Coachability**: 1/10
 
 ## Evidence Ledger
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 12 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

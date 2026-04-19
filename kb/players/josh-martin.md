@@ -5,7 +5,7 @@ tags: [CF, Norwich City, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Norwich City. Archetype: —.
+summary: CF at Norwich City. Archetype: None.
 person_id: 13063
 backlinks: [norwich-city]
 ---
@@ -20,22 +20,15 @@ backlinks: [norwich-city]
 | **Club** | Norwich City |
 | **Nation** | England |
 | **Age** | 24 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 76 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Attacking midfielder/winger with creative instincts and ball progression; inconsistent end product and work rate without the ball; capable cameo player but not yet a reliable starter.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Attacking midfielder/winger with creative instincts and ball progression; incons
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.5m |
-| Mid | EUR 7.0m |
-| Ceiling | EUR 8.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

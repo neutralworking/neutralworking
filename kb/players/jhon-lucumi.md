@@ -2,12 +2,12 @@
 title: Jhon Lucumí
 category: players
 tags: [CD, Bologna, Colombia, Sprinter-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Bologna. Archetype: Sprinter-Engine.
 person_id: 12620
-backlinks: [sprinter, distributor, bologna]
+backlinks: [sprinter, bologna]
 ---
 
 # Jhon Lucumí
@@ -21,27 +21,18 @@ backlinks: [sprinter, distributor, bologna]
 | **Nation** | Colombia |
 | **Age** | 27 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
-| **Best Role** | [[distributor]] Distributor |
-| **Role Score** | 81 |
 | **Level** | 86 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 4 |
 
 ## Snapshot
 
 A commanding Colombian centre-back with excellent physical presence and the speed to recover when caught out; his distribution is composed and multi-directional, and he rarely panics in possession. He can be vulnerable to exceptionally clever movement or feints from elite strikers who change pace sharply, and his positioning occasionally drifts when deep blocks become static. A very good defender at the right level.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-
 ## Role Fit
 
-- Best-fit role is [[distributor]] Distributor with model support score `81`.
+- Best-fit role is `Distributor` with model support score `81`.
 - Primary archetype leans toward `Sprinter` behaviour from a `CD` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor and Positional Discipline.
 - Most bankable strengths show up in Acceleration, Jumping, and Physical.
@@ -76,14 +67,13 @@ A commanding Colombian centre-back with excellent physical presence and the spee
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 23.8m |
-| Mid | EUR 46.0m |
-| Ceiling | EUR 55.2m |
-| Confidence | High |
+| Floor | EUR 3.2m |
+| Mid | EUR 4.0m |
+| Ceiling | EUR 4.8m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ A commanding Colombian centre-back with excellent physical presence and the spee
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

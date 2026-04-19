@@ -5,7 +5,7 @@ tags: [CF, OM]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at OM. Archetype: —.
+summary: CF at OM. Archetype: None.
 person_id: 13336
 backlinks: [om]
 ---
@@ -18,24 +18,17 @@ backlinks: [om]
 |---|---|
 | **Position** | CF |
 | **Club** | OM |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 29 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 78 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 Athletic defender with good speed and decent positioning; her aggression is sometimes reckless and concentration lapses are concerning. Solid backup option, though not reliable enough for consistent starting.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Athletic defender with good speed and decent positioning; her aggression is some
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 9.3m |
-| Mid | EUR 11.0m |
-| Ceiling | EUR 13.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

@@ -2,12 +2,12 @@
 title: J. Bartolo
 category: players
 tags: [WF, Asteras Tripolis, Striker-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WF at Asteras Tripolis. Archetype: Striker-Creator.
 person_id: 23225
-backlinks: [striker, inverted-winger, asteras-tripolis]
+backlinks: [striker, asteras-tripolis]
 ---
 
 # J. Bartolo
@@ -18,30 +18,21 @@ backlinks: [striker, inverted-winger, asteras-tripolis]
 |---|---|
 | **Position** | WF |
 | **Club** | Asteras Tripolis |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[striker]] Striker-Creator |
-| **Best Role** | [[inverted-winger]] Inverted Winger |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 66.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 J. Bartolo projects primarily as a WF with a `Striker-Creator` lean. The strongest database support comes from Flair, Take Ons, and Close Range.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[line-breaking-pass]] Line-Breaking Pass: the player's value often depends on advancing play beyond the obvious circulation line.
-
 ## Role Fit
 
-- Best-fit role is [[inverted-winger]] Inverted Winger with model support score `69`.
+- Best-fit role is `Inverted Winger` with model support score `69`.
 - Primary archetype leans toward `Striker` behaviour from a `WF` base.
 - Most bankable strengths show up in Flair, Take Ons, and Close Range.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -68,14 +59,13 @@ J. Bartolo projects primarily as a WF with a `Striker-Creator` lean. The stronge
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 5.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1m |
+| Mid | EUR 2m |
+| Ceiling | EUR 3m |
+| Confidence | Low |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,6 +91,6 @@ J. Bartolo projects primarily as a WF with a `Striker-Creator` lean. The stronge
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 26 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 26 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

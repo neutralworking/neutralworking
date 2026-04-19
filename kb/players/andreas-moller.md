@@ -2,10 +2,10 @@
 title: Andreas Möller
 category: players
 tags: [CM, Germany, Sprinter]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: CM at —. Archetype: Sprinter.
+summary: CM at None. Archetype: Sprinter.
 person_id: 8461
 backlinks: [sprinter]
 ---
@@ -17,25 +17,18 @@ backlinks: [sprinter]
 | Field | Value |
 |---|---|
 | **Position** | CM |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Germany |
 | **Age** | 58 |
 | **Archetype** | [[sprinter]] Sprinter |
 | **Level** | 44 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 CM		Creator			GER	A	0.0	A talented, versatile, and complete advanced playmaker, Möller was known for his range of passing, Creativity, Vision, and technical ability, as well being capable of playing the ball first time and striking powerfully with both feet. In addition to his creative abilities, he also known for his goalscoring and his ability in the air, which also allowed him to be deployed as a supporting striker or even as a winger. One of the Bundesliga’s most lightfooted offensive midfielders, a high-tempo dribbler of a certain elegance and a very fast acceleration who didn’t lose speed with the ball at his feet and who was known to score wonderful goals after his explosive solos. Playing in central midfield, Möller possessed strategic qualities, too, but didn’t feel at home in the role of a playmaker who showed others the way. Not a hard character at all, Möller would easily get weepy when he was hit by fouls. Unfortunately prone to diving, Möller’s club career slightly outweighed his international career.	Diverse Attacking Skill Set With Both Feet
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -71,10 +64,10 @@ CM		Creator			GER	A	0.0	A talented, versatile, and complete advanced playmaker, 
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -94,10 +87,10 @@ CM		Creator			GER	A	0.0	A talented, versatile, and complete advanced playmaker, 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 28 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
-| Research archive | docs/research/rsg.db | 2026-04-18 | Medium | Narrative source available for qualitative backfill. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 28 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
+| Research archive | docs/research/rsg.db | 2026-04-17 | Medium | Narrative source available for qualitative backfill. |
 
 ## Research Notes
 

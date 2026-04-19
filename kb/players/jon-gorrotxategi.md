@@ -2,12 +2,12 @@
 title: Jon Gorrotxategi
 category: players
 tags: [CM, Real Sociedad, Destroyer-Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CM at Real Sociedad. Archetype: Destroyer-Creator.
 person_id: 20520
-backlinks: [destroyer, playmaker, real-sociedad]
+backlinks: [destroyer, real-sociedad]
 ---
 
 # Jon Gorrotxategi
@@ -18,30 +18,21 @@ backlinks: [destroyer, playmaker, real-sociedad]
 |---|---|
 | **Position** | CM |
 | **Club** | Real Sociedad |
-| **Nation** | — |
-| **Age** | — |
+| **Nation** | None |
+| **Age** | None |
 | **Archetype** | [[destroyer]] Destroyer-Creator |
-| **Best Role** | [[playmaker]] Playmaker |
-| **Role Score** | 73 |
 | **Level** | 77 |
 | **Overall** | 72.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Gorrotxategi's interceptions, composure, and vision make him a strong Tuttocampista, capable of controlling the tempo of the game and dictating the flow of play. However, his weaknesses in discipline and long-range passing can be exposed if not supported by more technically gifted players. His build-up contributor ability and awareness make him an asset for a team that values possession football and intelligent midfield play.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-
 ## Role Fit
 
-- Best-fit role is [[playmaker]] Playmaker with model support score `73`.
+- Best-fit role is `Playmaker` with model support score `73`.
 - Primary archetype leans toward `Destroyer` behaviour from a `CM` base.
 - Tactical fit is strongest when the game asks for Build Up Contributor.
 - Most bankable strengths show up in Awareness, Interceptions, and Pass Accuracy.
@@ -71,14 +62,13 @@ Gorrotxategi's interceptions, composure, and vision make him a strong Tuttocampi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 8.5m |
-| Mid | EUR 10.0m |
-| Ceiling | EUR 27.5m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,7 +91,7 @@ Gorrotxategi's interceptions, composure, and vision make him a strong Tuttocampi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 29 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 29 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

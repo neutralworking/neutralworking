@@ -2,12 +2,12 @@
 title: Kasper Schmeichel
 category: players
 tags: [GK, Celtic, Denmark, GK]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: GK at Celtic. Archetype: GK.
 person_id: 13348
-backlinks: [gk, comandante, celtic]
+backlinks: [gk, celtic]
 ---
 
 # Kasper Schmeichel
@@ -21,27 +21,18 @@ backlinks: [gk, comandante, celtic]
 | **Nation** | Denmark |
 | **Age** | 39 |
 | **Archetype** | [[gk]] GK |
-| **Best Role** | [[comandante]] Comandante |
-| **Role Score** | 60 |
 | **Level** | 66 |
 | **Overall** | 57.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Schmeichel at 39 is a monument to positioning and experience; he reads the game intelligently, his hands remain reliable, and his distribution has become more assured over the years rather than less. The obvious limitation is athleticism—he's not recovering from crosses left and right, and his angles are set now rather than reactive, which makes him vulnerable to high, pressing teams. He's a decent veteran keeper making the smart play rather than the athletic one, still at a level to compete in the Scottish Premiership but increasingly dependent on others not testing him.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[comandante]] Comandante with model support score `60`.
+- Best-fit role is `Comandante` with model support score `60`.
 - Primary archetype leans toward `GK` behaviour from a `GK` base.
 - Most bankable strengths show up in Reactions, Pass Range, and Close Range.
 - Profile should be judged on shot-stopping, area command, and distribution fit to team style.
@@ -72,14 +63,13 @@ Schmeichel at 39 is a monument to positioning and experience; he reads the game 
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.3m |
+| Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -104,7 +94,7 @@ Schmeichel at 39 is a monument to positioning and experience; he reads the game 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 31 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 31 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

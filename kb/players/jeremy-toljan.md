@@ -2,12 +2,12 @@
 title: Jeremy Toljan
 category: players
 tags: [WD, Levante, Germany, Sprinter-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Levante. Archetype: Sprinter-Engine.
 person_id: 12575
-backlinks: [sprinter, corner-back, levante]
+backlinks: [sprinter, levante]
 ---
 
 # Jeremy Toljan
@@ -21,27 +21,18 @@ backlinks: [sprinter, corner-back, levante]
 | **Nation** | Germany |
 | **Age** | 31 |
 | **Archetype** | [[sprinter]] Sprinter-Engine |
-| **Best Role** | [[corner-back]] Corner Back |
-| **Role Score** | 76 |
 | **Level** | 81 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 2 |
 
 ## Snapshot
 
 A reliable, experienced right-back whose understanding of positioning and pressing triggers has kept him employable across multiple top-five leagues, but he's no longer the explosive athlete he was and won't beat anyone in a footrace anymore. His value now sits entirely in his reading of the game and his ability to slot into a defensive shape without glamour; perfectly functional, utterly unremarkable.
 
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-
 ## Role Fit
 
-- Best-fit role is [[corner-back]] Corner Back with model support score `76`.
+- Best-fit role is `Corner Back` with model support score `76`.
 - Primary archetype leans toward `Sprinter` behaviour from a `WD` base.
 - Most bankable strengths show up in Pace, Crossing, and First Touch.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -76,14 +67,13 @@ A reliable, experienced right-back whose understanding of positioning and pressi
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.1m |
-| Mid | EUR 6.0m |
-| Ceiling | EUR 7.2m |
-| Confidence | High |
+| Floor | EUR 1.6m |
+| Mid | EUR 2.0m |
+| Ceiling | EUR 2.4m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -111,7 +101,7 @@ A reliable, experienced right-back whose understanding of positioning and pressi
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 44 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 6 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 44 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 6 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

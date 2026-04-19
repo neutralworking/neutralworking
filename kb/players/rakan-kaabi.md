@@ -2,7 +2,7 @@
 title: Rakan Kaabi
 category: players
 tags: [CD, Al-Fayha, Saudi Arabia, Destroyer]
-updated: 2026-04-14
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at Al-Fayha. Archetype: Destroyer.
@@ -26,30 +26,55 @@ backlinks: [destroyer, al-fayha]
 | **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
-## Attribute Grades
+## Snapshot
 
-| Attribute | Grade |
+Rakan Kaabi projects primarily as a CD with a `Destroyer` lean. The strongest database support comes from Skills, Technical, and Mental.
+
+## Role Fit
+
+- Best-fit role is `Centrale` with model support score `69`.
+- Primary archetype leans toward `Destroyer` behaviour from a `CD` base.
+- Tactical fit is strongest when the game asks for High Press and Build Up Contributor.
+- Most bankable strengths show up in Skills, Technical, and Mental.
+
+## In Possession
+
+- Ball-value indicators lean on Skills, Technical, and Mental.
+
+## Out of Possession
+
+- Defensive or transition evidence is strongest in High Press and Build Up Contributor.
+
+## Scouting Indicators
+
+| Indicator | Value | Interpretation |
+|---|---|---|
+| Skills | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Technical | ██████░░░░ 6/10 | One of the stronger current indicators for this profile at 6/10. |
+| Mental | █████░░░░░ 5/10 | One of the stronger current indicators for this profile at 5/10. |
+| Aggression | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Creativity | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Tackling | ████░░░░░░ 4/10 | One of the stronger current indicators for this profile at 4/10. |
+| Blocking | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+| Communication | ███░░░░░░░ 3/10 | One of the stronger current indicators for this profile at 3/10. |
+
+## Valuation Range
+
+| Layer | Estimate |
 |---|---|
-| Skills | ██████░░░░ 6/10 |
-| Technical | ██████░░░░ 6/10 |
-| Mental | █████░░░░░ 5/10 |
-| Aggression | ████░░░░░░ 4/10 |
-| Creativity | ████░░░░░░ 4/10 |
-| Tackling | ████░░░░░░ 4/10 |
-| Blocking | ███░░░░░░░ 3/10 |
-| Communication | ███░░░░░░░ 3/10 |
-| Concentration | ███░░░░░░░ 3/10 |
-| Drive | ███░░░░░░░ 3/10 |
-| Leadership | ███░░░░░░░ 3/10 |
-| Marking | ███░░░░░░░ 3/10 |
-| Physical | ███░░░░░░░ 3/10 |
-| Pressing | ███░░░░░░░ 3/10 |
-| Tactical | ███░░░░░░░ 3/10 |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-## Traits
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
-- **high_press** (tactical) — severity 6/10
-- **build_up_contributor** (tactical) — severity 5/10
+## Risk Flags
+
+- Live/reporting evidence is thin, so this page leans heavily on database output.
+- Coachability score is low enough to raise integration risk in demanding environments.
+- Competitiveness score is soft for a high-pressure projection.
 
 ## Personality
 
@@ -59,3 +84,16 @@ backlinks: [destroyer, al-fayha]
 - **Pressure (JP)**: 42
 - **Competitiveness**: 2/10
 - **Coachability**: 1/10
+
+## Trait Ledger
+
+- **High Press** (tactical) — severity 6/10
+- **Build Up Contributor** (tactical) — severity 5/10
+
+## Evidence Ledger
+
+| Evidence Type | Source | Date | Strength | Note |
+|---|---|---|---|---|
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 22 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

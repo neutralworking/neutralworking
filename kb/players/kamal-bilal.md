@@ -2,10 +2,10 @@
 title: Kamal Bilal
 category: players
 tags: [GK, Morocco]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
-summary: GK at —. Archetype: —.
+summary: GK at None. Archetype: None.
 person_id: 32374
 ---
 
@@ -16,25 +16,18 @@ person_id: 32374
 | Field | Value |
 |---|---|
 | **Position** | GK |
-| **Club** | — |
+| **Club** | None |
 | **Nation** | Morocco |
 | **Age** | 25 |
-| **Archetype** | — |
-| **Level** | — |
-| **Overall** | — |
-| **Pursuit** | — |
-| **Market Value Tier** | — |
+| **Archetype** | [[—]] None |
+| **Level** | None |
+| **Overall** | None |
+| **Pursuit** | None |
+| **Market Value Tier** | None |
 
 ## Snapshot
 
-Kamal Bilal projects primarily as a GK with a `—` lean. The strongest database support comes from Flair, First Touch, and Skills.
-
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
+Kamal Bilal projects primarily as a GK with a `None` lean. The strongest database support comes from Flair, First Touch, and Skills.
 
 ## Role Fit
 
@@ -67,9 +60,8 @@ Kamal Bilal projects primarily as a GK with a `—` lean. The strongest database
 | Ceiling | — |
 | Confidence | Low |
 
-- Value drivers: Role scarcity, age curve, and available market evidence.
-- Discount factors: Context portability and uncertainty in true acquisition conditions.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -87,5 +79,5 @@ Kamal Bilal projects primarily as a GK with a `—` lean. The strongest database
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 3 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 3 tagged traits linked to style or tactical behaviour. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 3 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 3 tagged traits linked to style or tactical behaviour. |

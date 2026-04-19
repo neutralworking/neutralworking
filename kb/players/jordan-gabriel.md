@@ -5,7 +5,7 @@ tags: [WD, Blackpool, England]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: WD at Blackpool. Archetype: —.
+summary: WD at Blackpool. Archetype: None.
 person_id: 12905
 backlinks: [blackpool]
 ---
@@ -19,23 +19,16 @@ backlinks: [blackpool]
 | **Position** | WD |
 | **Club** | Blackpool |
 | **Nation** | England |
-| **Age** | — |
-| **Archetype** | — |
+| **Age** | None |
+| **Archetype** | [[—]] None |
 | **Level** | 74 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Right-back with athleticism and willingness to get forward, but his defensive positioning can be suspect and he's vulnerable to intelligent runners in behind. He's better going forward than coming back. Rotation option at this level, starter at a lower division.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -49,14 +42,13 @@ Right-back with athleticism and willingness to get forward, but his defensive po
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 4.2m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

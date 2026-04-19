@@ -2,7 +2,7 @@
 title: Andre Gray
 category: players
 tags: [CF, Al-Riyadh, Jamaica, Striker]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at Al-Riyadh. Archetype: Striker.
@@ -23,19 +23,12 @@ backlinks: [striker, al-riyadh]
 | **Archetype** | [[striker]] Striker |
 | **Level** | 70 |
 | **Overall** | 64.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A journeyman poacher whose greatest asset remains his predatory instinct in and around the box—he's still capable of a goal-poaching contribution in a mid-table or lower-tier environment. At 34, his mobility has noticeably diminished; he's no longer the explosive runner who terrorized defences in the Championship a decade ago, and his inability to create space through intelligent movement or hold-up play limits his effectiveness in systems requiring a more complete forward. Functionally, he remains a squad option or reliable backup for a club asking little beyond finishing from close range, but he's long since ceased being a starter at any respectable level.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[verticality]] Verticality: the role gains value when attacks can travel quickly through lines or into space.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -67,12 +60,11 @@ A journeyman poacher whose greatest asset remains his predatory instinct in and 
 |---|---|
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
-| Ceiling | EUR 1.4m |
-| Confidence | High |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -93,6 +85,6 @@ A journeyman poacher whose greatest asset remains his predatory instinct in and 
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 9 graded indicators available. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 9 graded indicators available. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

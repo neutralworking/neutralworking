@@ -2,12 +2,12 @@
 title: Joel Waterman
 category: players
 tags: [CD, CF Montréal, Canada, Cover]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CD at CF Montréal. Archetype: Cover.
 person_id: 12773
-backlinks: [cover, distributor, cf-montreal]
+backlinks: [cover, cf-montreal]
 ---
 
 # Joel Waterman
@@ -21,27 +21,18 @@ backlinks: [cover, distributor, cf-montreal]
 | **Nation** | Canada |
 | **Age** | 30 |
 | **Archetype** | [[cover]] Cover |
-| **Best Role** | [[distributor]] Distributor |
-| **Role Score** | 78 |
 | **Level** | 84 |
 | **Overall** | 69.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 Joel Waterman projects primarily as a CD with a `Cover` lean. The strongest database support comes from Physical, Reactions, and Jumping.
 
-## Canon Context
-
-- [[build-up]] Build-Up: first-phase circulation and release security are part of the role context.
-- [[rest-defense]] Rest Defense: structural protection behind the ball matters when projecting this profile.
-- [[build-up-vs-progression]] Build-Up vs Progression: separating first-phase security from true advancement sharpens the fit call.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
-
 ## Role Fit
 
-- Best-fit role is [[distributor]] Distributor with model support score `78`.
+- Best-fit role is `Distributor` with model support score `78`.
 - Primary archetype leans toward `Cover` behaviour from a `CD` base.
 - Most bankable strengths show up in Physical, Reactions, and Jumping.
 - Looks most comfortable when defensive spacing and duel timing matter as much as raw volume.
@@ -73,13 +64,12 @@ Joel Waterman projects primarily as a CD with a `Cover` lean. The strongest data
 | Layer | Estimate |
 |---|---|
 | Floor | EUR 2.4m |
-| Mid | EUR 22.0m |
-| Ceiling | EUR 26.4m |
-| Confidence | High |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -105,6 +95,6 @@ Joel Waterman projects primarily as a CD with a `Cover` lean. The strongest data
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 42 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 2 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 42 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 2 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

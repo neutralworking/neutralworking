@@ -5,7 +5,7 @@ tags: [CF, Wigan Athletic]
 updated: 2026-04-18
 source: compiled
 confidence: low
-summary: CF at Wigan Athletic. Archetype: —.
+summary: CF at Wigan Athletic. Archetype: None.
 person_id: 12914
 backlinks: [wigan-athletic]
 ---
@@ -18,24 +18,17 @@ backlinks: [wigan-athletic]
 |---|---|
 | **Position** | CF |
 | **Club** | Wigan Athletic |
-| **Nation** | — |
+| **Nation** | None |
 | **Age** | 30 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 72 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Winger at 30 still showing burst acceleration and willing to cut inside, but decision-making remains poor and defensive tracking is increasingly reluctant; effective against lower-tier defenses only.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -45,14 +38,13 @@ Winger at 30 still showing burst acceleration and willing to cut inside, but dec
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.4m |
-| Mid | EUR 2.0m |
-| Ceiling | EUR 2.4m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

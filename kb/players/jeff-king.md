@@ -2,12 +2,12 @@
 title: Jeff King
 category: players
 tags: [CF, St Mirren, England, Creator]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: CF at St Mirren. Archetype: Creator.
 person_id: 12522
-backlinks: [creator, shadow-striker, st-mirren]
+backlinks: [creator, st-mirren]
 ---
 
 # Jeff King
@@ -21,27 +21,18 @@ backlinks: [creator, shadow-striker, st-mirren]
 | **Nation** | England |
 | **Age** | 26 |
 | **Archetype** | [[creator]] Creator |
-| **Best Role** | [[shadow-striker]] Shadow Striker |
-| **Role Score** | 69 |
 | **Level** | 75 |
 | **Overall** | 60.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 Jeff King projects primarily as a CF with a `Creator` lean. The strongest database support comes from Carries, Pressing, and Tactical.
 
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-
 ## Role Fit
 
-- Best-fit role is [[shadow-striker]] Shadow Striker with model support score `69`.
+- Best-fit role is `Shadow Striker` with model support score `69`.
 - Primary archetype leans toward `Creator` behaviour from a `CF` base.
 - Most bankable strengths show up in Carries, Pressing, and Tactical.
 - Best used in roles that preserve final-third touches rather than heavy circulation duties.
@@ -68,14 +59,13 @@ Jeff King projects primarily as a CF with a `Creator` lean. The strongest databa
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 0.1m |
-| Mid | EUR 5.0m |
-| Ceiling | EUR 6.0m |
-| Confidence | High |
+| Floor | EUR 0.8m |
+| Mid | EUR 1.0m |
+| Ceiling | EUR 1.2m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -101,6 +91,6 @@ Jeff King projects primarily as a CF with a `Creator` lean. The strongest databa
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 27 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 1 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 27 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 1 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |

@@ -2,7 +2,7 @@
 title: Ben Chilwell
 category: players
 tags: [WD, Strasbourg, England, Passer-Engine]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: high
 summary: WD at Strasbourg. Archetype: Passer-Engine.
@@ -29,13 +29,6 @@ backlinks: [passer, strasbourg]
 ## Snapshot
 
 Once a top-tier attacking LB — excellent crosser, intelligent runner. ACL tear (Nov 2021) was the turning point. Recurring knee issues have limited him to ~30 PL appearances across three seasons combined. At 29, physical decline from chronic injury is severe — pace, acceleration, and recovery all diminished. Chelsea looking to move him on. High wages, low suitors. England career effectively over. Verdict: Pass — too much injury risk.
-
-## Canon Context
-
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
-- [[weak-side-occupation]] Weak-Side Occupation: far-side positioning often decides whether the player's movement has real tactical value.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
 
 ## Role Fit
 
@@ -74,14 +67,13 @@ Once a top-tier attacking LB — excellent crosser, intelligent runner. ACL tear
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 41.8m |
-| Mid | EUR 31.0m |
-| Ceiling | EUR 42.8m |
-| Confidence | High |
+| Floor | EUR 4.0m |
+| Mid | EUR 5.0m |
+| Ceiling | EUR 6.0m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -108,7 +100,7 @@ Once a top-tier attacking LB — excellent crosser, intelligent runner. ACL tear
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Attribute model | Chief Scout DB | 2026-04-18 | High | 48 graded indicators available. |
-| Trait model | Chief Scout DB | 2026-04-18 | High | 5 tagged traits linked to style or tactical behaviour. |
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Attribute model | Chief Scout DB | 2026-04-17 | High | 48 graded indicators available. |
+| Trait model | Chief Scout DB | 2026-04-17 | High | 5 tagged traits linked to style or tactical behaviour. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |

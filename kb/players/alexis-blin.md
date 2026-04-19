@@ -23,19 +23,12 @@ backlinks: [powerhouse, lecce]
 | **Archetype** | [[powerhouse]] Powerhouse-Destroyer |
 | **Level** | 85 |
 | **Overall** | 76.0 |
-| **Pursuit** | — |
+| **Pursuit** | None |
 | **Market Value Tier** | 3 |
 
 ## Snapshot
 
 A functional midfielder who does the unglamorous work that keeps Lecce stable in the engine room—tireless pressing, positional discipline, and the kind of two-footedness that lets him cover ground both ways. The problem is that he's limited in genuine progression; he'll win the ball and move it laterally with efficiency, but he's not the creative spark or the driving force through the lines that elevates a midfield from competent to dangerous.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[overload]] Overload: the profile benefits when the team can create local numerical superiority around the ball.
-- [[gegenpressing]] Gegenpressing: actions immediately after turnovers affect the team fit for this profile.
-- [[transfer-market-2025]] Transfer Market 2025: valuation bands still sit inside the current macro market environment.
 
 ## Role Fit
 
@@ -74,13 +67,13 @@ A functional midfielder who does the unglamorous work that keeps Lecce stable in
 
 | Layer | Estimate |
 |---|---|
-| Floor | EUR 2.8m |
-| Mid | EUR 40.0m |
-| Ceiling | EUR 48.0m |
-| Confidence | High |
+| Floor | EUR 2.4m |
+| Mid | EUR 3.0m |
+| Ceiling | EUR 3.6m |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 

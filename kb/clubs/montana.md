@@ -1,8 +1,8 @@
 ---
 title: Montana
 category: clubs
-tags: []
-updated: 2026-04-18
+tags: [None, None]
+updated: 2026-04-14
 source: compiled
 confidence: medium
 summary: Montana. 24 players in database.
@@ -10,23 +10,9 @@ summary: Montana. 24 players in database.
 
 # Montana
 
-**League**: —  
-**Nation**: —  
+**League**: None  
+**Nation**: None  
 **Players in DB**: 24
-
-## Identity
-
-- Database coverage is deepest in CM (8), WF (2), and WM (1), which shapes the visible squad picture.
-- The tracked archetype mix leans toward Cover (11), Creator (7), and Striker (5) across the current squad.
-- Average available overall grade sits at 58.7, so this article should be read as a roster-structure snapshot rather than a hand-written tactical dossier.
-
-## Canon Context
-
-- [[half-space]] Half-Space: the concentration of interior and wide attackers makes lane occupation a useful lens on squad fit.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: the balance of wide and interior profiles affects how the club can stretch or compress the attack.
-- [[gegenpressing]] Gegenpressing: the archetype mix suggests the club can be read through its post-turnover intensity and recovery profile.
-- [[pressing-trigger]] Pressing Trigger: the squad balance is partly explained by who can activate or support pressure at the right moment.
-- [[compactness]] Compactness: space management and defensive connectedness are important to understanding the club's profile.
 
 ## Squad
 
@@ -43,16 +29,16 @@ summary: Montana. 24 players in database.
 | [[b-dimitrov]] B. Dimitrov | WF | Striker | 62.0 |
 | [[p-ejike]] P. Ejike | WF | Creator-Striker | 63.0 |
 | [[i-kokonov]] I. Kokonov | WM | Creator-Cover | 64.0 |
-| A. Mršulja | — | Cover | — |
-| A. Todorov | — | Cover-Creator | — |
-| D. Burov | — | Cover-Striker | — |
-| E. Ekele | — | Destroyer | — |
-| Joel Berhane | — | Creator | — |
-| Márcio Rosa | — | Striker-Creator | — |
-| P. Atanasov | — | Striker-Creator | — |
-| S. James | — | Creator | — |
-| Tomás Azevedo | — | Creator-Striker | — |
-| Umaro Baldé | — | Cover-Striker | — |
-| V. Sakor | — | Creator-Cover | — |
-| V. Simeonov | — | Cover | — |
-| V. Tsekov | — | Striker | — |
+| [[a-mrsulja]] A. Mršulja | None | Cover | None |
+| [[a-todorov]] A. Todorov | None | Cover-Creator | None |
+| [[d-burov]] D. Burov | None | Cover-Striker | None |
+| [[e-ekele]] E. Ekele | None | Destroyer | None |
+| [[joel-berhane]] Joel Berhane | None | Creator | None |
+| [[marcio-rosa]] Márcio Rosa | None | Striker-Creator | None |
+| [[p-atanasov]] P. Atanasov | None | Striker-Creator | None |
+| [[s-james]] S. James | None | Creator | None |
+| [[tomas-azevedo]] Tomás Azevedo | None | Creator-Striker | None |
+| [[umaro-balde]] Umaro Baldé | None | Cover-Striker | None |
+| [[v-sakor]] V. Sakor | None | Creator-Cover | None |
+| [[v-simeonov]] V. Simeonov | None | Cover | None |
+| [[v-tsekov]] V. Tsekov | None | Striker | None |

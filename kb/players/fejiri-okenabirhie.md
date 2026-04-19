@@ -2,10 +2,10 @@
 title: Fejiri Okenabirhie
 category: players
 tags: [CF, Future FC, England]
-updated: 2026-04-18
+updated: 2026-04-17
 source: compiled
 confidence: low
-summary: CF at Future FC. Archetype: —.
+summary: CF at Future FC. Archetype: None.
 person_id: 10970
 backlinks: [future-fc]
 ---
@@ -20,22 +20,15 @@ backlinks: [future-fc]
 | **Club** | Future FC |
 | **Nation** | England |
 | **Age** | 30 |
-| **Archetype** | — |
+| **Archetype** | [[—]] None |
 | **Level** | 68 |
-| **Overall** | — |
-| **Pursuit** | — |
+| **Overall** | None |
+| **Pursuit** | None |
 | **Market Value Tier** | 1 |
 
 ## Snapshot
 
 A physical forward who relies on directness and physical presence rather than technical sophistication; he's useful battering ram stuff but doesn't offer much in terms of dropping deep, link-up play, or creating space for others. His positioning in the box is decent enough, but he's not someone who'll consistently find himself in dangerous positions through intelligent movement alone. At 30, he's what he is—a lower-league warhorse with limited upside.
-
-## Canon Context
-
-- [[half-space]] Half-Space: interior receiving lanes and body orientation influence the player's best usage.
-- [[third-man-run]] Third-Man Run: combination play and timing beyond the first receiver often shape this role.
-- [[pinning]] Pinning: stretching the line and fixing defenders helps explain the value of this role.
-- [[occupation-of-five-lanes]] Occupation of Five Lanes: width and lane discipline affect how the role creates or receives space.
 
 ## Role Fit
 
@@ -48,11 +41,10 @@ A physical forward who relies on directness and physical presence rather than te
 | Floor | EUR 0.8m |
 | Mid | EUR 1.0m |
 | Ceiling | EUR 1.2m |
-| Confidence | High |
+| Confidence | Medium |
 
-- Value drivers: Chief Scout valuation anchor, role scarcity, and acquisition context.
-- Discount factors: Negotiation premium, contract leverage, and league-to-league portability.
-- Market backdrop: [[transfer-market-2025]] frames the current inflation and fee-pressure environment.
+- Value drivers: Role scarcity, current level, and available data depth.
+- Discount factors: Uncertainty in comparable fees and context portability.
 
 ## Risk Flags
 
@@ -72,5 +64,5 @@ A physical forward who relies on directness and physical presence rather than te
 
 | Evidence Type | Source | Date | Strength | Note |
 |---|---|---|---|---|
-| Personality model | Chief Scout DB | 2026-04-18 | Medium | Psychological profile available for projection context. |
-| Scouting note | docs/Scouting or player_status | 2026-04-18 | Medium | Human-authored note incorporated into summary. |
+| Personality model | Chief Scout DB | 2026-04-17 | Medium | Psychological profile available for projection context. |
+| Scouting note | docs/Scouting or player_status | 2026-04-17 | Medium | Human-authored note incorporated into summary. |
