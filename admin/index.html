@@ -577,6 +577,150 @@
     font-size: 12px;
   }
 
+  /* ── brief (daily/weekly) panel ───────────────────────── */
+  .brief-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 18px;
+  }
+  .brief-card {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+    padding: 16px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .brief-card .head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  .brief-card .head .kind {
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--fg-2);
+  }
+  .brief-card .head .kind::before { content: "// "; color: var(--cmt); }
+  .brief-card .head .status {
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border: 1px solid var(--line-1);
+    border-radius: 2px;
+  }
+  .brief-card .head .status.delivered { color: var(--type); border-color: var(--type); }
+  .brief-card .head .status.failed    { color: var(--err);  border-color: var(--err); }
+  .brief-card .head .status.running   { color: var(--fn);   border-color: var(--fn); }
+  .brief-card .head .status.skipped   { color: var(--fg-2); }
+  .brief-card .when {
+    display: flex; align-items: baseline; gap: 8px;
+    color: var(--fg-1);
+  }
+  .brief-card .when .big { font-size: 20px; font-weight: 500; color: var(--fg-0); font-variant-numeric: tabular-nums; }
+  .brief-card .when .ch  { font-size: 11px; color: var(--var); }
+  .brief-card .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    border-top: 1px solid var(--line-0);
+    padding-top: 10px;
+  }
+  .brief-card .stats .s { display: flex; flex-direction: column; gap: 2px; }
+  .brief-card .stats .s .v { color: var(--num); font-size: 16px; font-variant-numeric: tabular-nums; }
+  .brief-card .stats .s .l { color: var(--fg-2); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; }
+  .brief-card .one-thing {
+    border-top: 1px solid var(--line-0);
+    padding-top: 10px;
+    color: var(--fg-1);
+    font-size: 12px;
+  }
+  .brief-card .one-thing .lab { color: var(--cmt); margin-right: 6px; }
+  .brief-card .one-thing .val { color: var(--str); }
+
+  .brief-sched {
+    margin-bottom: 18px;
+    color: var(--fg-2);
+    font-size: 11px;
+  }
+  .brief-sched .k { color: var(--cmt); }
+  .brief-sched .v { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+  .brief-sched .sep { color: var(--fg-3); margin: 0 8px; }
+
+  .brief-section-label {
+    font-size: 10px;
+    color: var(--fg-2);
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    margin: 10px 0 8px;
+  }
+  .brief-section-label::before { content: "// "; color: var(--cmt); }
+
+  .src-table {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+    margin-bottom: 18px;
+  }
+  .src-row {
+    display: grid;
+    grid-template-columns: 14px 110px 70px 110px 1fr;
+    gap: 14px;
+    align-items: center;
+    padding: 10px 16px;
+    border-top: 1px solid var(--line-0);
+    font-size: 12px;
+  }
+  .src-row:first-child { border-top: none; }
+  .src-row .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--fg-3); justify-self: center; }
+  .src-row .dot.ok   { background: var(--type); box-shadow: 0 0 6px var(--type); }
+  .src-row .dot.warn { background: var(--fn);   box-shadow: 0 0 6px var(--fn); }
+  .src-row .dot.err  { background: var(--err);  box-shadow: 0 0 6px var(--err); }
+  .src-row .name { color: var(--fg-0); }
+  .src-row .stat { color: var(--fg-1); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; }
+  .src-row .stat.ok   { color: var(--type); }
+  .src-row .stat.warn { color: var(--fn); }
+  .src-row .stat.err  { color: var(--err); }
+  .src-row .stat.off  { color: var(--fg-2); }
+  .src-row .when { color: var(--fg-2); font-size: 11px; font-variant-numeric: tabular-nums; }
+  .src-row .summary { color: var(--fg-1); font-size: 11px; }
+
+  .brief-recent {
+    background: var(--bg-1);
+    border: 1px solid var(--line-0);
+    border-radius: 2px;
+  }
+  .recent-row {
+    display: grid;
+    grid-template-columns: 90px 70px 90px 1fr 80px;
+    gap: 14px;
+    align-items: center;
+    padding: 9px 16px;
+    border-top: 1px solid var(--line-0);
+    font-size: 12px;
+  }
+  .recent-row:first-child {
+    border-top: none;
+    color: var(--fg-2);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    background: var(--bg-2);
+  }
+  .recent-row .id { color: var(--fg-2); font-variant-numeric: tabular-nums; font-size: 11px; }
+  .recent-row .kind.daily  { color: var(--kw); }
+  .recent-row .kind.weekly { color: var(--type); }
+  .recent-row .when { color: var(--fg-1); font-variant-numeric: tabular-nums; }
+  .recent-row .stat.delivered { color: var(--type); }
+  .recent-row .stat.failed    { color: var(--err); }
+  .recent-row .stat.running   { color: var(--fn); }
+  .recent-row .stat.skipped   { color: var(--fg-2); }
+  .recent-row .note { color: var(--fg-2); font-size: 11px; }
+
   /* ── not-wired empty state ────────────────────────────── */
   .not-wired {
     border: 1px dashed var(--line-1);
@@ -758,6 +902,7 @@
   .panel:nth-of-type(2) { animation-delay: 60ms; }
   .panel:nth-of-type(3) { animation-delay: 120ms; }
   .panel:nth-of-type(4) { animation-delay: 180ms; }
+  .panel:nth-of-type(5) { animation-delay: 240ms; }
 
   /* ── responsive ───────────────────────────────────────── */
   @media (max-width: 1100px) {
@@ -767,6 +912,7 @@
     .health-row .spark { display: none; }
     .kb-top { grid-template-columns: 1fr 1fr; }
     .kb-cats { grid-template-columns: 1fr 1fr; }
+    .src-row { grid-template-columns: 12px 90px 60px 90px 1fr; gap: 10px; }
   }
   @media (max-width: 860px) {
     .main { grid-template-columns: 1fr; }
@@ -780,6 +926,12 @@
     .q-head, .q-row { grid-template-columns: 80px 1.5fr 1fr 70px; }
     .q-row .age, .q-head > :nth-child(5) { display: none; }
     .terminal { height: 240px; }
+    .brief-grid { grid-template-columns: 1fr; }
+    .brief-card .stats { grid-template-columns: repeat(2, 1fr); }
+    .src-row { grid-template-columns: 12px 1fr 60px 1fr; gap: 10px; }
+    .src-row .when { display: none; }
+    .recent-row { grid-template-columns: 70px 60px 80px 1fr; gap: 10px; }
+    .recent-row > :nth-child(5) { display: none; }
   }
 </style>
 </head>
@@ -856,6 +1008,7 @@
       <div class="tree-section">
         <div class="section-label"><span class="caret">▾</span> PIPELINES</div>
         <ul>
+          <li><a class="tree-item" data-target="#panel-brief"><span class="dot live"></span><span>brief / daily</span></a></li>
           <li><a class="tree-item" data-target="#panel-kb"><span class="dot live"></span><span>kb / mirror</span></a></li>
           <li><a class="tree-item" data-target="#panel-studio"><span class="dot wip"></span><span>studio / queue</span></a></li>
         </ul>
@@ -902,10 +1055,28 @@
         <div class="kb-stale-list" id="kb-stale"></div>
       </div>
 
-      <!-- ── panel 3: studio queue ───────────────────────── -->
-      <div class="panel fade-up" id="panel-studio">
+      <!-- ── panel 3: founder/PO daily brief ─────────────── -->
+      <div class="panel fade-up" id="panel-brief">
         <div class="panel-header">
           <span class="kind">panel 03</span>
+          <h2><span class="tkw">brief</span><span class="tpunc">.</span><span class="tvar">status</span><span class="tpunc">()</span></h2>
+          <span class="spacer"></span>
+          <button class="btn" id="btn-brief-preview" title="generate without delivering">◐ preview</button>
+          <button class="btn primary" id="btn-brief-run-daily">⟳ run daily</button>
+          <button class="btn warn" id="btn-brief-run-weekly">⟳ run weekly</button>
+        </div>
+        <div class="brief-sched" id="brief-sched"></div>
+        <div class="brief-grid" id="brief-grid"></div>
+        <div class="brief-section-label">sources</div>
+        <div class="src-table" id="brief-sources"></div>
+        <div class="brief-section-label">recent deliveries</div>
+        <div class="brief-recent" id="brief-recent"></div>
+      </div>
+
+      <!-- ── panel 4: studio queue ───────────────────────── -->
+      <div class="panel fade-up" id="panel-studio">
+        <div class="panel-header">
+          <span class="kind">panel 04</span>
           <h2><span class="tkw">studio</span><span class="tpunc">.</span><span class="tvar">queue</span><span class="tpunc">[]</span></h2>
           <span class="spacer"></span>
           <button class="btn" id="btn-studio-refresh">⟳ refresh</button>
@@ -922,10 +1093,10 @@
         </div>
       </div>
 
-      <!-- ── panel 4: script runner ──────────────────────── -->
+      <!-- ── panel 5: script runner ──────────────────────── -->
       <div class="panel fade-up" id="panel-runner">
         <div class="panel-header">
-          <span class="kind">panel 04</span>
+          <span class="kind">panel 05</span>
           <h2><span class="tkw">scripts</span><span class="tpunc">.</span><span class="tvar">run</span><span class="tpunc">()</span></h2>
           <span class="spacer"></span>
           <span class="palette-hint">⌘K to focus · ↑↓ to navigate · ↵ to run</span>
@@ -999,12 +1170,27 @@
  *    POST /portfolio/recheck        → re-run all health checks
  *    GET  /kb/status                → { last_rebuild, categories, stale }
  *    POST /kb/rebuild               → kick off pipeline/96_kb_index.py
+ *    GET  /brief/status             → { schedule, last:{ daily, weekly },
+ *                                       sources:[...], recent:[...] }
+ *    POST /brief/run                → { kind: "daily"|"weekly",
+ *                                       preview?: bool } → { job_id }
  *    GET  /studio/queue             → [{ id, topic, stage, status,
  *                                        age_seconds, rejected_reason? }]
  *    POST /studio/rerun             → { id }
  *    GET  /workflows                → [{ id, label, desc, params:[...] }]
  *    POST /scripts/run              → { id, params } → { job_id }
  *    GET  /scripts/status?job_id    → { state, logs, exit_code? }
+ *
+ *  /brief/status sub-shape:
+ *    schedule: { daily: "07:00 UTC", weekly: "Sun 18:00 UTC" }
+ *    last.daily / last.weekly: {
+ *      delivered_at:int|null, status:"delivered"|"failed"|"running"|"skipped",
+ *      channel:"telegram"|"email"|"ntfy", stats:{...},
+ *      one_thing?:string  (daily only)
+ *    }
+ *    sources[]: { name, status:"ok"|"warn"|"err"|"off",
+ *                 last_sync:int|null, summary:string }
+ *    recent[]:  { id, kind:"daily"|"weekly", ts, status, error? }
  *
  *  If any endpoint returns 404, the owning panel falls back to a dashed
  *  "not wired" empty state with the exact path it tried. Nothing breaks.
@@ -1058,6 +1244,40 @@ const MOCK = {
       { slug: "3-4-3",      category: "tactics",    days_old: 10 },
     ],
   },
+  brief: {
+    schedule: { daily: "07:00 UTC", weekly: "Sun 18:00 UTC" },
+    last: {
+      daily: {
+        delivered_at: Date.now() - 1000*60*60*8,
+        status: "delivered",
+        channel: "telegram",
+        stats: { agenda: 3, followups: 5, overdue: 2, risks: 1 },
+        one_thing: "push kickoff clash beta to testflight",
+      },
+      weekly: {
+        delivered_at: Date.now() - 1000*60*60*24*2,
+        status: "delivered",
+        channel: "email",
+        stats: { shipped: 3, blocked: 1, attention: 4, next: 2 },
+      },
+    },
+    sources: [
+      { name: "gmail",    status: "ok",   last_sync: Date.now() - 1000*60*60*8,  summary: "12 unread starred · 2 labelled @brief" },
+      { name: "calendar", status: "ok",   last_sync: Date.now() - 1000*60*60*8,  summary: "3 today · 4 tomorrow" },
+      { name: "linear",   status: "ok",   last_sync: Date.now() - 1000*60*60*8,  summary: "11 assigned · 2 overdue" },
+      { name: "github",   status: "ok",   last_sync: Date.now() - 1000*60*60*8,  summary: "4 open prs · 1 mention" },
+      { name: "notes",    status: "warn", last_sync: Date.now() - 1000*60*60*48, summary: "no recent capture (48h)" },
+      { name: "slack",    status: "off",  last_sync: null,                       summary: "not connected" },
+    ],
+    recent: [
+      { id: "B-00042", kind: "daily",  ts: Date.now() - 1000*60*60*8,    status: "delivered" },
+      { id: "B-00041", kind: "daily",  ts: Date.now() - 1000*60*60*32,   status: "delivered" },
+      { id: "B-00040", kind: "daily",  ts: Date.now() - 1000*60*60*56,   status: "failed",    error: "linear api timeout · skipped overdue section" },
+      { id: "B-00039", kind: "weekly", ts: Date.now() - 1000*60*60*72,   status: "delivered" },
+      { id: "B-00038", kind: "daily",  ts: Date.now() - 1000*60*60*80,   status: "delivered" },
+      { id: "B-00037", kind: "daily",  ts: Date.now() - 1000*60*60*104,  status: "skipped",   error: "calendar empty · nothing to brief" },
+    ],
+  },
   studio: [
     { id: "T-00182", topic: "lenition in celtic languages",          stages: ["done","done","run","pending","pending"], stage: "tts",      age_seconds: 94,  status: "running" },
     { id: "T-00181", topic: "false friends: embarassada (pt→es)",    stages: ["done","done","done","done","done"],       stage: "ready",    age_seconds: 430, status: "ready"   },
@@ -1065,6 +1285,9 @@ const MOCK = {
     { id: "T-00179", topic: "the great vowel shift",                 stages: ["done","run","pending","pending","pending"], stage: "summarize", age_seconds: 22, status: "running" },
   ],
   workflows: [
+    { id: "brief.run_daily",  label: "brief · run daily",         desc: "ingest sources, summarise with claude, deliver morning brief", ico: "☀", params: [] },
+    { id: "brief.run_weekly", label: "brief · run weekly",        desc: "shipped / blocked / attention / next-week brief",            ico: "▦", params: [] },
+    { id: "brief.preview",    label: "brief · preview (dry-run)", desc: "generate today's brief without delivering",                  ico: "◐", params: [] },
     { id: "kb.rebuild",       label: "kb · rebuild mirror",       desc: "run pipeline/96_kb_index.py upstream and pull built output", ico: "⟳", params: [] },
     { id: "kb.import",        label: "kb · import source",        desc: "ingest a markdown source file into chief-scout",             ico: "↧", params: ["path"] },
     { id: "studio.rerun",     label: "studio · rerun topic",      desc: "re-queue a failed or rejected topic through the pipeline",   ico: "↻", params: ["topic_id"] },
@@ -1115,6 +1338,49 @@ const MOCK = {
       { t: 1500, cls: "dm", text: "→ probing n8n.neutralworking.com" },
       { t: 1680, cls: "ok", text: "  200 OK · 63ms" },
       { t: 1800, cls: "ok", text: "✓ 5/6 healthy · 1 wip", done: true },
+    ],
+    "brief.run_daily": [
+      { t: 0,    cls: "pl",   text: "$ brief.run_daily" },
+      { t: 200,  cls: "dm",   text: "─ ingest: gmail (label:brief, starred)" },
+      { t: 500,  cls: "ok",   text: "  ✓ 12 messages · 2 labelled @brief" },
+      { t: 700,  cls: "dm",   text: "─ ingest: google calendar (today + tomorrow)" },
+      { t: 980,  cls: "ok",   text: "  ✓ 3 events today · 4 events tomorrow" },
+      { t: 1100, cls: "dm",   text: "─ ingest: linear (assignee:me, due≤7d)" },
+      { t: 1400, cls: "ok",   text: "  ✓ 11 issues · 2 overdue · 3 due this week" },
+      { t: 1550, cls: "dm",   text: "─ ingest: github (open prs, mentions:lwarrington)" },
+      { t: 1850, cls: "ok",   text: "  ✓ 4 open prs · 1 mention" },
+      { t: 2000, cls: "dm",   text: "─ ingest: drafts (recent captures, 48h window)" },
+      { t: 2200, cls: "wn",   text: "  ⚠ 0 recent captures (last: 48h ago)" },
+      { t: 2400, cls: "cmt2", text: "# 32 input items · 4,108 tokens" },
+      { t: 2600, cls: "dm",   text: "─ summarise: claude-opus (extract agenda, follow-ups, risks)" },
+      { t: 4200, cls: "ok",   text: "  ✓ summary done · 1,180 tokens out" },
+      { t: 4400, cls: "dm",   text: "─ pick one-thing: focus block heuristic" },
+      { t: 4700, cls: "ok",   text: "  ✓ one_thing: push kickoff clash beta to testflight" },
+      { t: 4850, cls: "dm",   text: "─ render markdown · 1,420 chars" },
+      { t: 5000, cls: "dm",   text: "─ deliver: telegram @lwarrington" },
+      { t: 5300, cls: "ok",   text: "  ✓ delivered (msg_id=4218)" },
+      { t: 5400, cls: "dm",   text: "─ log: postgres decisions(brief_id=B-00043)" },
+      { t: 5550, cls: "ok",   text: "✓ daily brief B-00043 delivered in 5.55s", done: true },
+    ],
+    "brief.run_weekly": [
+      { t: 0,    cls: "pl",   text: "$ brief.run_weekly" },
+      { t: 300,  cls: "dm",   text: "─ ingest: git log across active repos (7d window)" },
+      { t: 700,  cls: "ok",   text: "  ✓ 3 shipped (chief-scout, nw landing, kickoff)" },
+      { t: 900,  cls: "dm",   text: "─ ingest: linear (closed:7d, blocked, attention)" },
+      { t: 1400, cls: "ok",   text: "  ✓ 1 blocked · 4 needs-attention · 2 priorities for next week" },
+      { t: 1600, cls: "dm",   text: "─ summarise: claude-opus (shipped/blocked/attention/next)" },
+      { t: 3200, cls: "ok",   text: "  ✓ summary done" },
+      { t: 3400, cls: "dm",   text: "─ deliver: email luke@neutralworking.com" },
+      { t: 3700, cls: "ok",   text: "✓ weekly brief delivered in 3.70s", done: true },
+    ],
+    "brief.preview": [
+      { t: 0,    cls: "pl",   text: "$ brief.preview (no delivery)" },
+      { t: 300,  cls: "dm",   text: "─ ingest sources (parallel)" },
+      { t: 1900, cls: "ok",   text: "  ✓ 32 input items" },
+      { t: 2100, cls: "dm",   text: "─ summarise · claude-opus" },
+      { t: 3600, cls: "ok",   text: "  ✓ summary done · 1,180 tokens out" },
+      { t: 3800, cls: "cmt2", text: "# preview mode — delivery skipped" },
+      { t: 3900, cls: "ok",   text: "✓ preview ready (B-00043-preview)", done: true },
     ],
     "default": [
       { t: 0,    cls: "pl", text: "$ running…" },
@@ -1218,6 +1484,14 @@ async function mockFetch(path, init) {
   }
   if (path === "/kb/status")       return structuredClone(MOCK.kb);
   if (path === "/kb/rebuild")      return { job_id: spawnJob("kb.rebuild", "kb · rebuild mirror") };
+  if (path === "/brief/status")    return structuredClone(MOCK.brief);
+  if (path === "/brief/run") {
+    const body = init.body ? JSON.parse(init.body) : {};
+    const kind = body.kind === "weekly" ? "weekly" : "daily";
+    const wfId = body.preview ? "brief.preview" : (kind === "weekly" ? "brief.run_weekly" : "brief.run_daily");
+    const label = body.preview ? "brief · preview" : (kind === "weekly" ? "brief · run weekly" : "brief · run daily");
+    return { job_id: spawnJob(wfId, label) };
+  }
   if (path === "/studio/queue")    return structuredClone(MOCK.studio);
   if (path === "/studio/rerun")    return { job_id: spawnJob("studio.rerun", "studio · rerun") };
   if (path === "/workflows")       return structuredClone(MOCK.workflows);
@@ -1446,6 +1720,100 @@ function renderKb(k) {
       <span class="age">${s.days_old}d</span>
     </div>`).join("");
 }
+/* ── panel: founder/PO daily brief ──────────────────────────────── */
+const briefSchedEl  = document.getElementById("brief-sched");
+const briefGridEl   = document.getElementById("brief-grid");
+const briefSrcEl    = document.getElementById("brief-sources");
+const briefRecentEl = document.getElementById("brief-recent");
+
+async function loadBrief() {
+  try {
+    const b = await nwFetch("/brief/status");
+    renderBrief(b);
+  } catch (e) {
+    if (e.code === 404) {
+      renderNotWired(briefGridEl, e);
+      briefSchedEl.innerHTML = ""; briefSrcEl.innerHTML = ""; briefRecentEl.innerHTML = "";
+    }
+  }
+}
+
+function renderBriefCard(kind, b) {
+  if (!b) {
+    return `<div class="brief-card">
+      <div class="head"><span class="kind">${kind}</span><span class="status skipped">no run yet</span></div>
+      <div class="when"><span class="big">—</span></div>
+    </div>`;
+  }
+  const status = b.status || "skipped";
+  const when   = b.delivered_at ? ago(b.delivered_at) : "—";
+  const stats  = b.stats || {};
+  const statsHtml = Object.entries(stats).map(([k, v]) =>
+    `<div class="s"><span class="v">${v}</span><span class="l">${escapeHtml(k)}</span></div>`
+  ).join("");
+  const oneThing = (kind === "daily" && b.one_thing)
+    ? `<div class="one-thing"><span class="lab">// one thing →</span><span class="val">${escapeHtml(b.one_thing)}</span></div>`
+    : "";
+  return `
+    <div class="brief-card">
+      <div class="head">
+        <span class="kind">${kind}</span>
+        <span class="status ${escapeHtml(status)}">${escapeHtml(status)}</span>
+      </div>
+      <div class="when">
+        <span class="big">${escapeHtml(when)}</span>
+        <span class="ch">via ${escapeHtml(b.channel || "—")}</span>
+      </div>
+      <div class="stats">${statsHtml}</div>
+      ${oneThing}
+    </div>`;
+}
+
+function renderBrief(b) {
+  const sch = b.schedule || {};
+  briefSchedEl.innerHTML = `
+    <span class="k">// next →</span>
+    <span class="v">daily ${escapeHtml(sch.daily || "—")}</span>
+    <span class="sep">·</span>
+    <span class="v">weekly ${escapeHtml(sch.weekly || "—")}</span>`;
+  briefGridEl.innerHTML =
+    renderBriefCard("daily",  b.last && b.last.daily) +
+    renderBriefCard("weekly", b.last && b.last.weekly);
+  briefSrcEl.innerHTML = (b.sources || []).map(s => `
+    <div class="src-row">
+      <div class="dot ${escapeHtml(s.status === "off" ? "" : s.status)}"></div>
+      <div class="name">${escapeHtml(s.name)}</div>
+      <div class="stat ${escapeHtml(s.status)}">${escapeHtml(s.status)}</div>
+      <div class="when">${s.last_sync ? ago(s.last_sync) : "never"}</div>
+      <div class="summary">${escapeHtml(s.summary || "")}</div>
+    </div>`).join("");
+  briefRecentEl.innerHTML = `
+    <div class="recent-row">
+      <span>id</span><span>kind</span><span>when</span><span>status</span><span></span>
+    </div>` + (b.recent || []).map(r => `
+    <div class="recent-row">
+      <span class="id">${escapeHtml(r.id)}</span>
+      <span class="kind ${escapeHtml(r.kind)}">${escapeHtml(r.kind)}</span>
+      <span class="when">${ago(r.ts)}</span>
+      <span class="stat ${escapeHtml(r.status)}">${escapeHtml(r.status)}</span>
+      <span class="note">${escapeHtml(r.error || "")}</span>
+    </div>`).join("");
+}
+
+async function runBrief(kind, preview) {
+  try {
+    const r = await nwFetch("/brief/run", { method: "POST", body: JSON.stringify({ kind, preview: !!preview }) });
+    const label = preview ? "brief · preview" : ("brief · " + kind);
+    attachJob(r.job_id, label);
+    toast((preview ? "preview" : kind + " brief") + " started", "ok");
+  } catch (e) {
+    toast("brief run failed: " + (e.message || ""), "err");
+  }
+}
+document.getElementById("btn-brief-run-daily").addEventListener("click",  () => runBrief("daily",  false));
+document.getElementById("btn-brief-run-weekly").addEventListener("click", () => runBrief("weekly", false));
+document.getElementById("btn-brief-preview").addEventListener("click",    () => runBrief("daily",  true));
+
 document.getElementById("btn-kb-rebuild").addEventListener("click", async () => {
   try {
     const r = await nwFetch("/kb/rebuild", { method: "POST" });
@@ -1730,7 +2098,7 @@ async function boot() {
   updateTokenDisplay();
   applyMode();
   updateJobsCount();
-  await Promise.all([loadHealth(), loadKb(), loadStudio(), loadWorkflows()]);
+  await Promise.all([loadHealth(), loadKb(), loadBrief(), loadStudio(), loadWorkflows()]);
   // background polling
   if (window.__nwPoll) clearInterval(window.__nwPoll);
   window.__nwPoll = setInterval(loadStudio, POLL_QUEUE_MS);
