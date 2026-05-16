@@ -99,6 +99,58 @@ Lower-confidence items the agents surfaced as questions rather than recommendati
 - **Distribution channel intros for CS-430** — Czech tech communities, indie product communities, an HN-ready peer who can post when the launch is real. Without distribution, Plausible cannot be verified live and the funnel math doesn't exist.
 - **A budget cap (operator hours) for non-revenue work.** Explicit number of Claude Code sessions or week-hours allocated to KC v2, Soft Power, and CS feature work outside CS-430 until the first NW services invoice is paid.
 
+## Board vote on the central strategic shift
+
+**Motion put to the board:** *"Declare NW (fractional PO services) as the commercial North Star for the next 90 days. Treat Chief Scout as a NW-revenue-funded internal product, not a fundraising candidate. Finish CS-430 honestly, then put CS on maintenance until services revenue is real."*
+
+**Tally:** 1 unconditional yes (CEO), 3 conditional yes (COO, CPO, CFO), 0 no. **Motion carries on condition.**
+
+| Agent | Vote | One-line rationale |
+|-------|------|--------------------|
+| CEO | **yes** | NW has priced offers + dogfood proof; CS can't earn a fundraising narrative in 90 days; single-operator capacity demands one North Star. |
+| COO | **conditional** | Direction is correct on capacity grounds, but without WIP cap + non-revenue hour budget, this reproduces the planning-blitz-zero-execution pattern. |
+| CPO | **conditional** | Yes to priority, but "maintenance" must be a hard build-quota or CS will quietly eat 60% of operator capacity under a new label. |
+| CFO | **conditional** | NW is the only credible 90-day cash path, but "NW-revenue-funded" is meaningless without a stated CS burn cap and an actual trigger to park it. |
+
+### Conditions for the motion to pass (consolidated from COO + CPO + CFO)
+
+These must be agreed at the same session as the motion. Any not adopted flips the conditional votes to no.
+
+1. **Hard WIP cap** of 2 active tickets across both teams for the 90 days; any third In Progress auto-blocks. (COO)
+2. **CS "maintenance" defined concretely** — proposed: ≤4 hours/week or ≤20% of weekly capacity, bugfix + inbox only, ring-fenced to CS-430 until close. Any work above the cap is a board-level exception. (CPO, CFO)
+3. **CS-430 placeholders → real tickets within 48 hours, OR slip the 2026-06-11 date this week** — no third option. (COO; reinforces existing recommendation #3)
+4. **CS-430 exit criteria frozen today** — legal + distribution + first-N-signups bar set on 2026-05-11 is not renegotiated under NW pressure. Otherwise the redefinition is theatre. (CPO)
+5. **Trigger conditions both ways:**
+   - **No-cash trigger (CFO):** if no NW invoice is signed by **2026-06-30**, NW-15 surface is cut further before any new CS feature work resumes.
+   - **Mid-point trigger (COO):** if no NW services invoice is paid by **2026-07-15** (60 days in), the board re-opens the CS-vs-NW priority question rather than coasting to day 90.
+   - **End-of-window trigger (CEO):** by **2026-08-14**, either the binary "NW services is real" condition is met (first paid Backlog Rescue invoice cleared AND one signed Retainer or AI Ops engagement) or CS moves to `someday`-freeze, not silent drift.
+6. **No-fundraise clause with written reopen bar** — fundraising for CS is off the table for the 90 days. The bar to reopen it (≥N verified signups + verified retention + first paid conversion) is written down, so it isn't quietly re-litigated mid-period. (CFO)
+7. **Domain decision (NW-31) resolved in the same session as this vote.** Services site on neutralworking.com is the wedge; portfolio (NW-9) becomes a subpage or subdomain; CS marketing stays on chief-scout.com. North Star declaration is not credible if three product framings still claim the same URL. (CPO; reinforces existing recommendation #1)
+
+### Additions to the plan proposed by the agents
+
+Cap is what each agent volunteered; deduplicated where multiple agents proposed the same thing.
+
+1. **Make NW-32 (Daily Brief dogfood) a public, dated proof asset on the NW-15 services site** — case study page plus a redacted brief sample — before any of the 15 implementation chunks (NW-37 → NW-51) ships paid copy. **(CEO, high confidence.)** Rationale: NW-32 is the only Done credibility lever NW owns today; it should lead the site, not sit in Linear. Especially leverageable while NW-27 (NDA case studies) is still gated.
+2. **Write a one-page "Chief Scout under NW maintenance" operating doc** — WIP cap of 1 CS ticket at a time outside CS-430, no new CS feature tickets accepted, KC v2 (CS-423) and CS-289 Fanatical Frank explicitly parked to `someday`. **(CEO, high.)** Without this, CS work continues to absorb sessions under cover of CS-430.
+3. **Pick the single NW v1 offer that ships first and name it on the homepage** — sequence Backlog Rescue (NW-17) as the visible wedge while AI Ops (NW-18) is still asset-library-blocked (NW-33). Defers the 5-vs-2.5 SKU fight by sequencing rather than cutting. **(CPO + CFO consensus, high.)**
+4. **Ship the positioning sentence to the homepage before any of NW-37 → NW-51 ships.** Copy gates IA, not the other way around. NW-29 (hero copy) is gating 15 already-cut implementation tickets. **(CPO, medium.)**
+5. **Publish a one-page 90-day cash plan** — target first invoice date, minimum monthly services revenue threshold that justifies continuing CS hosting/tooling spend, and the day-job-hours reduction trigger (the open question from the brief, now answered with a number). **(CFO, high.)**
+6. **Park KC v2 (CS-423) and Director of Football to `someday` in the same decision cycle as this vote**, with a written re-entry bar (e.g. paid pilot interest, or a NW Retainer client requesting it). **(CPO, high.)** Leaving them live re-creates the sprawl the vote is meant to end.
+7. **Inventory and cap CS-side recurring fixed costs** — hosting, domains, paid APIs, Plausible, SaaS — hard monthly cap until first NW invoice; cancel anything not required for CS-430 exit criteria. **(CFO, medium.)** "NW-funded CS" only works if CS's monthly cash burn is known and bounded.
+8. **"Definition of started" rule** mirroring the new "definition of launched" (CS-430): no umbrella may sit Open with placeholder children for more than 72 hours — children must be real tickets with owners and AC, or the umbrella is closed. **(COO, high.)**
+9. **Weekly "drift check" as a standing item in the Founder Weekly Brief (NW-35)** — list every ticket touched that is not on the NW-15 or CS-430 critical paths, and require an explicit park/kill/keep decision per item. **(COO, high.)**
+10. **Pinned default Linear kanban view** — shows only NW-15 critical path + CS-430 children. Everything else moves to a "parked" view requiring explicit unpark. **(COO, medium.)**
+11. **First paid NW invoice as the event-gate that unlocks any net-new CS product work beyond CS-430** — event-gated, not date-gated. **(CPO, high.)** Matches the discipline pattern that worked for the AI C-Suite rejection.
+12. **Explicit weekly operator-hour split** between CS-430 and NW-15 (e.g. 70/30 to NW-15 once CS-430's children exist) reviewed each Friday in the brief. **(CEO, medium.)** With a sole operator, the North Star is enforced by the calendar, not by intent.
+
+### Dissent / lingering concerns to keep on the table
+
+- **CEO:** A yes vote here doesn't resolve CPO's earlier framing question (is NW a separate business or the cashflow engine for CS through the World Cup window). The 90-day window ends 2026-08-14, before the World Cup; if CS-430 ships honestly but signups flatline, the board needs a pre-committed answer or it will drift back to CS-fundraising mode by reflex.
+- **COO:** Conditional rather than yes because the shift itself isn't a delivery call — the WIP cap and non-revenue hour budget are. Without them, the next brief reads identically: more priced offers, more umbrellas, same zero In Progress count.
+- **CPO:** Yielded the prior open-question framing because the evidence makes the priority unambiguous. Remaining concern: "maintenance" is the word that historically lets a beloved product quietly eat 60% of operator capacity. Without the cap, the strategy is indistinguishable from the status quo with new language — vote flips to no.
+- **CFO:** The vote treats "NW services revenue" as if it exists. It does not yet — no signed invoice, no pipeline, day-job is the actual funding source. Without the day-job reduction trigger and the CS burn cap named explicitly, in 90 days we are here again with one more offer sheet and still zero revenue.
+
 ---
 
 *Agents: CEO, COO, CPO, CFO synthesised by Chief of Staff. Where agents agreed, recommendations are marked "consensus". Where they disagreed, the trade-off is surfaced under the recommendation. Every recommendation cites Linear evidence and confidence level. No prose padding added beyond what each agent provided.*
