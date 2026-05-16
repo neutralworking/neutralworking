@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Brief · writing · neutral.working</title>
+<meta name="description" content="How I built my own founder/PO morning brief workflow before selling it to anyone — n8n + Claude + a postgres decision log.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 0.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article .meta { font-size: 0.7rem; color: var(--dim); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 2.5rem; }
+article .meta .draft { color: #ff8800; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article li strong { color: #fff; font-weight: 500; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; line-height: 1.5; }
+article pre code { background: none; border: none; padding: 0; }
+article pre .cmt { color: var(--mid); }
+article pre .acc { color: var(--accent); }
+article pre .dim { color: var(--dim); }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); vertical-align: top; }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article td code { font-size: 0.72rem; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.callout { border: 1px solid var(--rule); border-left: 2px solid var(--accent); padding: 0.9rem 1.1rem; margin: 1.25rem 0; background: #ffffff03; font-size: 0.8rem; color: var(--mid); }
+.callout .label { display: block; font-size: 0.65rem; color: var(--accent); letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.3rem; }
+.foot-nav { margin-top: 3.5rem; display: flex; justify-content: space-between; align-items: center; font-size: 0.7rem; color: var(--dim); letter-spacing: 0.1em; text-transform: uppercase; }
+.foot-nav a { color: var(--dim); text-decoration: none; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.foot-nav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="topnav">
+  <a href="/">neutral.working</a>
+  <span class="sep">/</span>
+  <a href="/">writing</a>
+  <span class="sep">/</span>
+  <span class="crumb">daily-brief</span>
+</header>
+
+<article>
+
+<h1 id="daily-brief">Founder/PO Daily Brief — dogfood first</h1>
+<div class="meta">
+  <span class="draft">draft</span> · 2026-05-16 · ~6 min read
+</div>
+
+<p>
+  The hardest part of selling "I'll build an AI ops layer for your team" is having a manual ops layer
+  yourself. So before pitching the AI Operations Setup service to anyone, I built the workflow I'd
+  want for me. This is the write-up.
+</p>
+
+<p>
+  Two outputs: a <strong>daily brief</strong> at 07:00 UTC and a <strong>weekly brief</strong> on Sunday
+  evening. Both arrive on my phone before I open a laptop. The daily one is opinionated — it picks the
+  single most important thing I should do today and tells me to do it. The weekly one is reflective —
+  what shipped, what's blocked, what needs attention, what's next.
+</p>
+
+<h2 id="why-this-first">Why this comes first</h2>
+
+<ul>
+  <li><strong>Demo for sales.</strong> A working brief delivered to my phone is a more honest pitch than a slide deck.</li>
+  <li><strong>Personal productivity.</strong> The portfolio is too wide to hold in my head — Chief Scout, Kickoff Clash, Crumble, Neutral Working all compete for attention.</li>
+  <li><strong>Reusable template.</strong> The same skeleton (ingest → summarise → deliver) is the foundation of the AI Ops System offer.</li>
+  <li><strong>Dogfood credibility.</strong> If I'm not running it on myself I shouldn't sell it.</li>
+</ul>
+
+<h2 id="inputs">Inputs</h2>
+
+<table>
+  <thead><tr><th>Source</th><th>What it answers</th><th>Filter</th></tr></thead>
+  <tbody>
+    <tr><td>Gmail</td><td>What's pending a reply from me?</td><td>starred + label <code>@brief</code></td></tr>
+    <tr><td>Google Calendar</td><td>What's on today and tomorrow?</td><td>events in next 48h</td></tr>
+    <tr><td>Linear</td><td>What's assigned, due, or overdue?</td><td>assignee:me, due ≤ 7d, status ≠ done</td></tr>
+    <tr><td>GitHub</td><td>What's waiting on review, who tagged me?</td><td>open PRs in active repos + mentions</td></tr>
+    <tr><td>Drafts / Notes</td><td>What did I capture but not act on?</td><td>recent captures, 48h window</td></tr>
+    <tr><td>Slack</td><td>Saved messages I haven't followed up on</td><td>not connected yet</td></tr>
+  </tbody>
+</table>
+
+<p>
+  Each source is a separate n8n credential and a separate node. If one fails, the brief still ships —
+  it just notes the missing section. Better a partial brief than no brief.
+</p>
+
+<h2 id="outputs">Outputs</h2>
+
+<h3 id="daily">Daily brief (07:00 UTC, Telegram)</h3>
+
+<ul>
+  <li>Today's agenda + a one-line prep note for each meeting</li>
+  <li>Outstanding follow-ups (you said you'd reply by today)</li>
+  <li>Overdue tasks across all projects</li>
+  <li>Suggested focus block — the <em>one thing</em> that moves things forward most</li>
+  <li>Cross-project risks / blockers</li>
+</ul>
+
+<h3 id="weekly">Weekly brief (Sunday 18:00 UTC, Email)</h3>
+
+<ul>
+  <li>What shipped this week (git log across active repos + closed Linear issues)</li>
+  <li>What's blocked and why</li>
+  <li>What needs attention before Monday</li>
+  <li>Next week's two priorities</li>
+</ul>
+
+<h2 id="stack">Stack</h2>
+
+<table>
+  <thead><tr><th>Piece</th><th>Choice</th><th>Why</th></tr></thead>
+  <tbody>
+    <tr><td>Orchestration</td><td>n8n on self-hosted Hetzner CAX31 (Coolify)</td><td>Already running, credentials already configured, free to re-run.</td></tr>
+    <tr><td>LLM</td><td>Claude API (Opus for summarise, Haiku for extract)</td><td>Best instruction-following for "rank these by importance"; tool-use is reliable.</td></tr>
+    <tr><td>Decision log</td><td>Postgres (shared instance)</td><td>So I can answer "what did the brief say last Tuesday?" later.</td></tr>
+    <tr><td>Delivery</td><td>Telegram (daily) + Email (weekly) + ntfy fallback</td><td>Telegram for phone-first morning; email for weekly because I want it scannable on the laptop.</td></tr>
+    <tr><td>Admin UI</td><td><a href="/admin/">admin.tsx</a> on this site</td><td>Source health, last delivery, manual rerun, preview.</td></tr>
+  </tbody>
+</table>
+
+<h2 id="shape">Workflow shape</h2>
+
+<pre><code><span class="cmt"># one n8n workflow, two triggers (daily 07:00 / weekly Sun 18:00)</span>
+
+cron → fan-out parallel ingest:
+  ├─ gmail        (label:@brief, starred)
+  ├─ calendar     (today + tomorrow)
+  ├─ linear       (assignee:me)
+  ├─ github       (open prs + mentions)
+  └─ drafts       (48h window)
+
+→ normalise to <span class="acc">{source, ts, kind, title, snippet, url}</span>
+→ rank by importance (claude haiku, cheap pass)
+→ summarise top N per section (claude opus)
+→ pick one_thing (heuristic + claude tie-break)
+→ render markdown
+→ deliver (telegram or email)
+→ log to postgres <span class="dim">decisions(id, kind, payload, delivered_at)</span></code></pre>
+
+<p>
+  Total runtime budget: 10 seconds. Anything slower than that and I'd rather skip a section than push
+  past the wake-up window.
+</p>
+
+<h2 id="rules">Rules I gave myself</h2>
+
+<ul>
+  <li><strong>Read-only on v1.</strong> No sending emails on my behalf. No auto-creating tickets. Suggest, don't act.</li>
+  <li><strong>Single user.</strong> Multi-account support is a productisation problem, not a dogfood one.</li>
+  <li><strong>Partial > none.</strong> If Linear is down, the brief ships without that section and flags it.</li>
+  <li><strong>Decisions are logged.</strong> Every brief and every "one thing" pick gets a row in Postgres so I can audit it.</li>
+  <li><strong>Boring observability.</strong> The <a href="/admin/">admin panel</a> shows the last 6 runs, source health, and a one-click rerun. Nothing more.</li>
+</ul>
+
+<div class="callout">
+  <span class="label">// out of scope for v1</span>
+  Sending mail on my behalf. Creating tickets automatically. Multi-account / multi-user.
+  Slack ingest is wired but not connected — added in v2 once I prove the daily one is useful.
+</div>
+
+<h2 id="lessons">Lessons (will fill in once it's been running a fortnight)</h2>
+
+<ul>
+  <li><em>Pending — coming back to this after the brief has shipped for two weeks of real mornings.</em></li>
+</ul>
+
+<h2 id="next">What this unlocks</h2>
+
+<p>
+  Once the daily brief is stable, the same skeleton becomes:
+</p>
+
+<ul>
+  <li><strong>Meeting-to-Tasks Bot</strong> — same ingest/summarise/deliver shape, narrower input (transcript) and richer output (Linear tickets). That's NW-34.</li>
+  <li><strong>AI Operations Setup</strong> service page — the productised offer pitched on the back of this dogfood (NW-18).</li>
+</ul>
+
+<p>
+  In other words: the brief isn't the product. The brief is the proof I can build the product.
+</p>
+
+<div class="foot-nav">
+  <a href="/">← back to /</a>
+  <a href="/admin/">see it run →</a>
+</div>
+
+</article>
+</div>
+</body>
+</html>

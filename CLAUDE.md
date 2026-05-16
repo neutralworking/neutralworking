@@ -6,12 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Pure static site served at `neutralworking.com`. No package.json, no build step, no test suite. Everything is hand-written HTML/CSS/JS in single self-contained files — there is no bundler, no framework, no dependency graph. To preview, open the file in a browser or run `python3 -m http.server` from the repo root.
 
-Four top-level surfaces, all linked from `index.html`:
+Five top-level surfaces, all linked from `index.html`:
 
 1. **`index.html`** — landing page for "Neutral Working" (Luke Warrington). Dark bg (`#0a0a0a`), `#00ff88` accent, JetBrains Mono, grid background, glow orb, cursor-follow glow, `auto-fit` project grid. A VS-Code-styled redesign was tried and reverted — do not revive it without explicit instruction.
-2. **`admin/index.html`** — ops dashboard (portfolio health, KB freshness, Studio queue, script runner) behind a shared-secret auth gate. This one still uses the VS Code High Contrast aesthetic (titlebar / tab strip / explorer / editor / status bar, Geist Mono, `#4FC1FF`/`#4EC9B0`/`#F48771` accents). It is currently the only file using that language.
+2. **`admin/index.html`** — ops dashboard (portfolio health, KB freshness, daily brief status, Studio queue, script runner) behind a shared-secret auth gate. This one still uses the VS Code High Contrast aesthetic (titlebar / tab strip / explorer / editor / status bar, Geist Mono, `#4FC1FF`/`#4EC9B0`/`#F48771` accents). It is currently the only file using that language.
 3. **`studio/`** — "Language Tidbits Studio", a single-file SPA (`studio/index.html`, ~875 lines).
 4. **`kb/`** — static mirror of the "Chief Scout Knowledge Base".
+5. **`writing/`** — long-form write-ups about workflows and systems (currently just `writing/daily-brief.html`). Uses the same green-terminal styling as the landing page and KB articles. No index page yet — articles are linked individually from the landing footer.
 
 ## `studio/` — how it works
 
@@ -65,11 +66,29 @@ const WEBHOOK_BASE = "/n8n/webhook/admin";
 | POST   | `/portfolio/recheck`        | force re-run of all checks                  |
 | GET    | `/kb/status`                | last rebuild + category counts + stale list |
 | POST   | `/kb/rebuild`               | kick off `pipeline/96_kb_index.py`, returns `job_id` |
+| GET    | `/brief/status`             | founder/PO brief: schedule + last daily/weekly + source health + recent runs |
+| POST   | `/brief/run`                | `{ kind: "daily"\|"weekly", preview?: bool }` → `{ job_id }` |
 | GET    | `/studio/queue`             | topics in flight, with 5-stage state        |
 | POST   | `/studio/rerun`             | `{ id }` → `job_id`                         |
 | GET    | `/workflows`                | script manifest: `[{ id, label, desc, params }]` |
 | POST   | `/scripts/run`              | `{ id, params }` → `{ job_id }`             |
 | GET    | `/scripts/status?job_id=…`  | `{ state, logs, exit_code }` (polled every 1.5s) |
+
+`/brief/status` response shape:
+
+```ts
+{
+  schedule: { daily: "07:00 UTC", weekly: "Sun 18:00 UTC" },
+  last: {
+    daily:  { delivered_at, status, channel, stats, one_thing? } | null,
+    weekly: { delivered_at, status, channel, stats }             | null,
+  },
+  sources: [{ name, status: "ok"|"warn"|"err"|"off", last_sync, summary }],
+  recent:  [{ id, kind: "daily"|"weekly", ts, status, error? }],
+}
+```
+
+Brief delivery statuses: `delivered`, `failed`, `running`, `skipped` (e.g. nothing to brief). Source statuses: `ok`, `warn`, `err`, `off` (not connected). The full write-up of what the brief workflow does and why lives at `writing/daily-brief.html` — if the inputs/outputs/stack change, update both that page and the mock data in `admin/index.html`.
 
 If any endpoint returns 404 in live mode, the owning panel renders a dashed "not wired" empty state showing the exact path it tried. The page never breaks on a missing backend.
 
@@ -77,9 +96,9 @@ The 5 Studio pipeline stage keys (`ingest`, `summarize`, `tts`, `render`, `ready
 
 ## Styling conventions
 
-Four surfaces, four deliberately distinct visual languages. **Do not unify** them without an explicit ask.
+Three deliberately distinct visual languages across five surfaces. **Do not unify** them without an explicit ask.
 
-- **Landing (`index.html`)** and **KB (`kb/**/*.html`)** share the original green-terminal look: `#0a0a0a` bg, `#00ff88` accent, JetBrains Mono, fixed grid background via `body::before`, article h1/h2/h3 prefixed with `#`/`##`/`###` in the accent color on KB pages. The landing also has a pulsing glow orb and a cursor-follow glow.
+- **Landing (`index.html`)**, **KB (`kb/**/*.html`)**, and **Writing (`writing/*.html`)** share the original green-terminal look: `#0a0a0a` bg, `#00ff88` accent, JetBrains Mono, fixed grid background via `body::before`, article h1/h2/h3 prefixed with `#`/`##`/`###` in the accent color. The landing also has a pulsing glow orb and a cursor-follow glow.
 - **Admin (`admin/index.html`)** uses VS Code High Contrast Dark: pure black bg, `--kw` `#4FC1FF`, `--type` `#4EC9B0`, `--fn` `#DCDCAA`, `--str` `#CE9178`, `--err` `#F48771`, `--cmt` `#7CAE6C`; 34px titlebar / 32px tab strip / 24px status bar chrome; `Geist Mono` primary font; scanline + SVG grain overlays. Self-contained in one file.
 - **Studio (`studio/index.html`)** uses a third palette (`#005FFF` accent, Helvetica, 13px base).
 
