@@ -1,0 +1,28 @@
+{
+  "enabledPlugins": {
+    "superpowers@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "printf 'Session started in neutralworking repo. Run the next-ticket skill to fetch the top Linear candidates from team Neutral Working and seed a plan for the chosen one. If the user has already given you a different task, ignore this and follow them.\\n'"
+          }
+        ]
+      },
+      {
+        "matcher": "clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "printf 'Context cleared. Run the next-ticket skill to refresh the working set from Linear.\\n'"
+          }
+        ]
+      }
+    ]
+  }
+}
