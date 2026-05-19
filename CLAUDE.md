@@ -6,13 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Pure static site served at `neutralworking.com`. No package.json, no build step, no test suite. Everything is hand-written HTML/CSS/JS in single self-contained files — there is no bundler, no framework, no dependency graph. To preview, open the file in a browser or run `python3 -m http.server` from the repo root.
 
-Five top-level surfaces, all linked from `index.html`:
+Five public top-level surfaces linked from `index.html`, plus one internal directory (`clients/`) that is intentionally unlinked:
 
 1. **`index.html`** — landing page for "Neutral Working" (Luke Warrington). Dark bg (`#0a0a0a`), `#00ff88` accent, JetBrains Mono, grid background, glow orb, cursor-follow glow, `auto-fit` project grid. A VS-Code-styled redesign was tried and reverted — do not revive it without explicit instruction.
 2. **`admin/index.html`** — ops dashboard (portfolio health, KB freshness, daily brief status, Studio queue, script runner) behind a shared-secret auth gate. This one still uses the VS Code High Contrast aesthetic (titlebar / tab strip / explorer / editor / status bar, Geist Mono, `#4FC1FF`/`#4EC9B0`/`#F48771` accents). It is currently the only file using that language.
 3. **`studio/`** — "Language Tidbits Studio", a single-file SPA (`studio/index.html`, ~875 lines).
 4. **`kb/`** — static mirror of the "Chief Scout Knowledge Base".
-5. **`writing/`** — long-form write-ups about workflows and systems (currently just `writing/daily-brief.html`). Uses the same green-terminal styling as the landing page and KB articles. No index page yet — articles are linked individually from the landing footer.
+5. **`writing/`** — long-form write-ups about workflows and systems. `writing/daily-brief.html` is the only one linked from the landing footer; `writing/morning-triage.html` exists but is intentionally unlinked (draft, not yet public). Uses the same green-terminal styling as the landing page and KB articles. No index page yet — articles are linked individually from the landing footer when ready.
+6. **`clients/`** — *internal, not linked from the landing page.* Scoping notes for retained client engagements; each subdirectory is one engagement. Currently contains `clients/numeto/` (pre-engagement; current employer being framed as the first retained client of Neutral Working, with a long-term direction of transitioning to Fractional PO for the same company). `clients/README.md` documents the conventions. Employer/client IP (ticket IDs, internal product names not already public, customer data, PRDs) does NOT live in this directory — it lives in the client's own systems and is referenced by link only.
 
 ## `studio/` — how it works
 
