@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morning triage · writing · neutral.working</title>
+<meta name="description" content="The morning routine I run on my own backlog — pull yesterday's standups, grill the tracker into honest state, push corrections back, draft today's standup.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --bg: #0a0a0a; --text: #e0e0e0; --dim: #555; --mid: #888; --accent: #00ff88; --rule: #ffffff15; --grid: #ffffff06; }
+html { font-size: 15px; }
+body { background: var(--bg); color: var(--text); font-family: 'JetBrains Mono', monospace; min-height: 100vh; line-height: 1.65; -webkit-font-smoothing: antialiased; }
+body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 60px 60px; pointer-events: none; z-index: 0; }
+.wrap { position: relative; z-index: 1; max-width: 780px; margin: 0 auto; padding: 4rem 2rem 6rem; }
+header.topnav { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; margin-bottom: 3rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); }
+header.topnav a { color: var(--dim); text-decoration: none; transition: color .2s ease; }
+header.topnav a:hover { color: var(--accent); }
+header.topnav .sep { color: #222; }
+header.topnav .crumb { color: var(--mid); }
+article h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 0.5rem; color: #fff; }
+article h1::before { content: '# '; color: var(--accent); opacity: 0.9; }
+article .meta { font-size: 0.7rem; color: var(--dim); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 2.5rem; }
+article .meta .draft { color: #ff8800; }
+article h2 { font-size: 1.1rem; font-weight: 500; margin: 2.5rem 0 0.75rem; color: #fff; padding-top: 1.25rem; border-top: 1px solid var(--rule); }
+article h2::before { content: '## '; color: var(--accent); opacity: 0.6; }
+article h3 { font-size: 0.95rem; font-weight: 500; margin: 1.75rem 0 0.5rem; color: #fff; }
+article h3::before { content: '### '; color: var(--accent); opacity: 0.45; }
+article p { margin: 0 0 1rem; font-size: 0.85rem; color: var(--text); }
+article a { color: var(--accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s ease; }
+article a:hover { border-bottom-color: var(--accent); }
+article ul, article ol { margin: 0 0 1rem 1.4rem; font-size: 0.85rem; }
+article li { margin-bottom: 0.35rem; }
+article li strong { color: #fff; font-weight: 500; }
+article blockquote { margin: 1rem 0; padding: 0.5rem 1rem; border-left: 2px solid var(--accent); color: var(--mid); font-size: 0.82rem; font-style: italic; }
+article code { font-family: inherit; background: #ffffff0a; padding: 0.1rem 0.35rem; font-size: 0.78rem; border: 1px solid var(--rule); }
+article pre { background: #ffffff05; border: 1px solid var(--rule); padding: 1rem; overflow-x: auto; margin: 1rem 0; font-size: 0.75rem; line-height: 1.5; }
+article pre code { background: none; border: none; padding: 0; }
+article pre .cmt { color: var(--mid); }
+article pre .acc { color: var(--accent); }
+article pre .dim { color: var(--dim); }
+article table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.78rem; }
+article th, article td { padding: 0.55rem 0.8rem; text-align: left; border-bottom: 1px solid var(--rule); vertical-align: top; }
+article th { color: var(--mid); font-weight: 500; text-transform: uppercase; font-size: 0.68rem; letter-spacing: 0.08em; background: #ffffff04; }
+article td code { font-size: 0.72rem; }
+article hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+article strong { color: #fff; font-weight: 500; }
+.callout { border: 1px solid var(--rule); border-left: 2px solid var(--accent); padding: 0.9rem 1.1rem; margin: 1.25rem 0; background: #ffffff03; font-size: 0.8rem; color: var(--mid); }
+.callout .label { display: block; font-size: 0.65rem; color: var(--accent); letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.3rem; }
+.foot-nav { margin-top: 3.5rem; display: flex; justify-content: space-between; align-items: center; font-size: 0.7rem; color: var(--dim); letter-spacing: 0.1em; text-transform: uppercase; }
+.foot-nav a { color: var(--dim); text-decoration: none; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; transition: color .2s ease, border-color .2s ease; }
+.foot-nav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+@media (max-width: 560px) { .wrap { padding: 2.5rem 1.25rem 4rem; } article h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="topnav">
+  <a href="/">neutral.working</a>
+  <span class="sep">/</span>
+  <a href="/">writing</a>
+  <span class="sep">/</span>
+  <span class="crumb">morning-triage</span>
+</header>
+
+<article>
+
+<h1 id="morning-triage">Morning triage — keeping the backlog honest</h1>
+<div class="meta">
+  <span class="draft">draft</span> · 2026-05-19 · ~5 min read
+</div>
+
+<p>
+  The morning routine I run on my own product backlog. Pull yesterday's standups, grill the tracker
+  into honest state, push corrections back, draft today's standup. Forty-five minutes on a clean week,
+  closer to ninety when the table has drifted.
+</p>
+
+<p>
+  Same logic as the <a href="/writing/daily-brief.html">daily brief</a>: dogfood before pitching. That
+  piece was the AI ops layer I'd want for me. This one is the Fractional PO discipline I'd want a
+  Fractional PO to have.
+</p>
+
+<h2 id="why-this-first">Why this comes first</h2>
+
+<ul>
+  <li><strong>Trackers lie if you don't ask them.</strong> Sprint tools accumulate inaccuracy unless someone walks them every day. Statuses go stale, "blocked on X" turns into "blocked on me writing X a message," "Live" hides three follow-up bugs.</li>
+  <li><strong>The discipline is the offer.</strong> "I'll keep your product backlog honest" is a stronger pitch than "I'll add another tool." A Fractional PO doesn't earn their fee on the days nothing's broken — they earn it on the days the table was about to lie to someone and didn't.</li>
+  <li><strong>Reusable across clients.</strong> The four-stage shape is portable. Different tracker, different tickets, same pattern.</li>
+</ul>
+
+<h2 id="the-four-stages">The four stages</h2>
+
+<pre><code><span class="cmt"># roughly 45 minutes, every weekday</span>
+
+1. <span class="acc">pull</span>     yesterday's standups + any new asks into the conversation
+2. <span class="acc">grill</span>    each row that moved — surface lies, lazy statuses, hidden blocks
+3. <span class="acc">push</span>     corrections back into the tracker (status, priority, notes, splits)
+4. <span class="acc">draft</span>    today's standup from the corrected state, not from memory</code></pre>
+
+<p>
+  The order matters. Drafting the standup before the grill is how you end up writing yesterday's lies
+  again. The standup is the artefact — the grill is what makes it true.
+</p>
+
+<h2 id="the-grill">The grill</h2>
+
+<p>
+  The most useful step. Three failure modes I look for, in order of frequency:
+</p>
+
+<h3 id="blocked-that-isnt">"Blocked" that isn't</h3>
+
+<p>
+  Most "blockers" are procrastinated tasks pretending to be external dependencies. "Blocked on X
+  approving the access" → actually, "blocked on me writing X a message asking for the access." The
+  table lets you hide behind that for weeks if you let it.
+</p>
+
+<p>
+  The grill question: <em>what does the next move look like, and whose desk does it sit on?</em> If the
+  answer is "mine, but I haven't done it," the status isn't Blocked, it's avoidance.
+</p>
+
+<h3 id="live-that-isnt">"Live" that isn't</h3>
+
+<p>
+  Tickets get marked Live when the code ships. But a feature that's deployed and gated behind a
+  Marketing email that hasn't gone out yet isn't <em>live</em> — it's staged. A feature shipped with a
+  known cosmetic bug isn't done — it's released with debt. Both deserve their own state. The status
+  vocabulary I've settled on:
+</p>
+
+<table>
+  <thead><tr><th>Status</th><th>Means</th></tr></thead>
+  <tbody>
+    <tr><td>Testing</td><td>QA in flight, not yet on prod</td></tr>
+    <tr><td>Ready to Release</td><td>On prod, gated on an external trigger (email send, embargo, dependency)</td></tr>
+    <tr><td>Live</td><td>Users have it, no follow-up trigger waiting</td></tr>
+    <tr><td>Done</td><td>Closed. No further action. Ticket goes to bed.</td></tr>
+  </tbody>
+</table>
+
+<p>
+  "Ready to Release" is the one most boards are missing. It's where a lot of half-shipped work lives,
+  mislabelled as Live.
+</p>
+
+<h3 id="priority-drift">Priority drift</h3>
+
+<p>
+  Stars haven't been reviewed since the work was scoped. The upstream context has moved — a dependent
+  feature shipped, a stakeholder lost interest, a competitor changed pricing — but the priority on the
+  row still says ⭐⭐⭐⭐⭐. A priority that hasn't been re-justified this week is a priority you don't
+  trust.
+</p>
+
+<h2 id="what-the-tracker-holds">What the tracker holds</h2>
+
+<p>
+  Whatever the tool, the columns are the same:
+</p>
+
+<table>
+  <thead><tr><th>Field</th><th>Why</th></tr></thead>
+  <tbody>
+    <tr><td>Ticket ID</td><td>The canonical reference. Separate field, not jammed into the title.</td></tr>
+    <tr><td>Title</td><td>Plain-English description. Should make sense without the ID.</td></tr>
+    <tr><td>Project</td><td>One-of, so cards group cleanly on a Kanban.</td></tr>
+    <tr><td>Type</td><td>Feature / Bug / QA / Ops / Research / Chore. Lets you filter "all bugs this week."</td></tr>
+    <tr><td>Status</td><td>From the list above. Honest, not aspirational.</td></tr>
+    <tr><td>Priority</td><td>Re-justified weekly, not anchored to the scoping moment.</td></tr>
+    <tr><td>Status Notes</td><td>One-paragraph latest state. Append-don't-rewrite is a rule.</td></tr>
+    <tr><td>Notes</td><td>Long-form context: PRDs, links to source documents, history.</td></tr>
+    <tr><td>URL</td><td>Pointer to the canonical ticket. Saves a search every time someone wants the source.</td></tr>
+  </tbody>
+</table>
+
+<p>
+  Views matter as much as fields. The minimum useful set:
+</p>
+
+<ul>
+  <li><strong>Kanban (Active)</strong> — group by Status, hide On Hold + Done. The day-to-day view.</li>
+  <li><strong>This week</strong> — Testing / Ready to Release / Development / Blocked, sorted by priority. The morning view.</li>
+  <li><strong>Blocked &amp; waiting</strong> — forces visibility of every external dependency. The audit view.</li>
+  <li><strong>Shipped recently</strong> — filtered to Done in the last 30 days. The standup-summary view.</li>
+</ul>
+
+<h2 id="rules">Rules I gave myself</h2>
+
+<ul>
+  <li><strong>Don't move a row without honest reasoning.</strong> If you can't say why the status changed in one sentence, the move isn't done.</li>
+  <li><strong>Append, don't rewrite.</strong> Status Notes is a log of state, not a fresh paragraph each morning.</li>
+  <li><strong>Splits over stuffing.</strong> If a row covers two pieces of work — feature + follow-up bug, design + implementation — split them. One ticket per addressable action.</li>
+  <li><strong>Closed should mean closed.</strong> If the ticket can be re-opened in a week, it isn't Done. Use a follow-up row.</li>
+  <li><strong>Read-only on automation, for now.</strong> The grill is a human pattern. A model can draft notes and surface mismatches, but the call to move a row stays with the human.</li>
+</ul>
+
+<div class="callout">
+  <span class="label">// out of scope for v1</span>
+  Auto-creating or auto-closing tickets. Auto-replying on review threads. Replacing the grill with a model.
+  Reading other people's backlogs. The output is honest state — that doesn't require automation, it
+  requires showing up.
+</div>
+
+<h2 id="what-this-unlocks">What this unlocks</h2>
+
+<p>
+  Once the morning routine is stable, the same pattern becomes:
+</p>
+
+<ul>
+  <li><strong>A retainable client offer</strong> — Fractional PO at a fixed weekly cadence, where the morning triage is the core service and everything else (roadmap, sprint planning, stakeholder management) sits on top of an honest tracker.</li>
+  <li><strong>A portable template</strong> — same tracker shape, same view set, same status vocabulary across clients. New engagement, one hour to stand the table up.</li>
+  <li><strong>A weekly artefact</strong> — the "shipped recently" view + the "blocked &amp; waiting" view, sent to whoever needs visibility. Less effort than a status email and more useful.</li>
+</ul>
+
+<p>
+  The brief isn't the product. The morning routine isn't the product either. The product is the table
+  not lying when someone looks at it.
+</p>
+
+<div class="foot-nav">
+  <a href="/">← back to /</a>
+  <a href="/writing/daily-brief.html">daily brief →</a>
+</div>
+
+</article>
+</div>
+</body>
+</html>
