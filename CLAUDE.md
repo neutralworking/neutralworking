@@ -2,6 +2,12 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Validation Harness
+
+No build step, no test suite, no linter. This repo is hand-written HTML/CSS/JS.
+
+`/cycle-exec` should skip validation entirely for this repo. All PRs require human review — do not mark any ticket `pr_ready` without human sign-off on the rendered output.
+
 ## Repo shape
 
 Pure static site served at `neutralworking.com`. No package.json, no build step, no test suite. Everything is hand-written HTML/CSS/JS in single self-contained files — there is no bundler, no framework, no dependency graph. To preview, open the file in a browser or run `python3 -m http.server` from the repo root.
