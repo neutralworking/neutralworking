@@ -101,7 +101,51 @@
     font-weight: 300;
     color: var(--dim);
     letter-spacing: 0.15em;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .role {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: var(--text);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+    text-align: center;
+  }
+
+  .ctas {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
     margin-bottom: 3rem;
+  }
+
+  .cta {
+    display: inline-block;
+    padding: 0.6rem 1.4rem;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .cta:hover {
+    background: var(--accent);
+    color: var(--bg);
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    font-weight: 300;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--dim);
+    margin-bottom: 1rem;
     text-align: center;
   }
 
@@ -249,7 +293,16 @@
 
   <h1>neutral<span class="accent">.</span>working</h1>
 
-  <p class="tagline cursor-blink">creative systems &amp; digital infrastructure</p>
+  <h2 class="role">Senior Product Owner</h2>
+
+  <p class="tagline cursor-blink">Data-rich products. Hands-on with the tech that ships them.</p>
+
+  <div class="ctas">
+    <a class="cta" href="{{LINKEDIN_URL}}">LinkedIn</a>
+    <a class="cta" href="mailto:luke@neutralworking.com">Email</a>
+  </div>
+
+  <p class="section-label">selected work</p>
 
   <div class="projects">
     <a class="project" href="https://softpower.neutralworking.com">
@@ -257,39 +310,23 @@
       <div class="project-type">interactive literature</div>
     </a>
     <a class="project" href="/studio/">
-      <div class="project-name"><span class="project-status live"></span>Studio</div>
-      <div class="project-type">language tidbits</div>
+      <div class="project-name"><span class="project-status wip"></span>Studio</div>
+      <div class="project-type">AI content pipeline</div>
     </a>
     <a class="project" href="/kb/">
       <div class="project-name"><span class="project-status live"></span>Knowledge Base</div>
       <div class="project-type">scouting reference</div>
     </a>
-    <a class="project" href="https://kickoff.neutralworking.com">
-      <div class="project-name"><span class="project-status wip"></span>Kickoff Clash</div>
-      <div class="project-type">game</div>
-    </a>
     <a class="project" href="https://scout.neutralworking.com">
       <div class="project-name"><span class="project-status wip"></span>Chief Scout</div>
-      <div class="project-type">internal tool</div>
-    </a>
-    <a class="project" href="https://chat.neutralworking.com">
-      <div class="project-name"><span class="project-status live"></span>Chat</div>
-      <div class="project-type">local llm interface</div>
-    </a>
-    <a class="project" href="https://n8n.neutralworking.com">
-      <div class="project-name"><span class="project-status live"></span>n8n</div>
-      <div class="project-type">automation engine</div>
+      <div class="project-type">AI data product</div>
     </a>
   </div>
 
   <div class="footer">
-    <a href="/writing/daily-brief.html">writing</a>
-    <div class="separator"></div>
     <a href="https://github.com/neutralworking">github</a>
     <div class="separator"></div>
     <a href="mailto:luke@neutralworking.com">contact</a>
-    <div class="separator"></div>
-    <a href="/admin/">admin</a>
   </div>
 </div>
 
