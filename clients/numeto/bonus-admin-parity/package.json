@@ -1,0 +1,14 @@
+{
+  "name": "bonus-admin-parity",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "login":   "node scripts/01-login.js",
+    "extract": "node scripts/02-extract.js",
+    "diff":    "node scripts/03-diff.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
