@@ -158,7 +158,8 @@ export default function App() {
   const [section, setSection] = useState("Deposit"),
     [hostPage, setHostPage] = useState("Lobby"),
     [menu, setMenu] = useState(false),
-    [search, setSearch] = useState("");
+    [search, setSearch] = useState(""),
+    [uccColour, setUccColour] = useState(false);
   const [paymentChoice, setPaymentChoice] = useState("card"),
     [paymentGroup, setPaymentGroup] = useState<PaymentGroup>("cards");
   const [receipt, setReceipt] = useState<{
@@ -427,10 +428,7 @@ export default function App() {
   );
   return (
     <>
-      <div className="app-shell">
-        <div className="champions-banner" aria-label="Champions of the Reels">
-          <button onClick={() => setHostPage("Tournaments")}>Join now</button>
-        </div>
+      <div className={`app-shell ${uccColour ? "is-colour" : "is-monochrome"}`}>
         <aside className={`sidebar ${menu ? "mobile-open" : ""}`}>
           <a
             className="brand"
@@ -529,6 +527,10 @@ export default function App() {
             hostPage === "Slots" || hostPage === "Table Games" || hostPage === "Video Poker" || hostPage === "Specialty" || hostPage === "Crash Games" ? (
               <>
                 <section className="promo">
+                  <picture aria-hidden="true">
+                    <source media="(max-width: 650px)" srcSet="/reelsucc-mobile-reference.png" />
+                    <img className="promo-image" src="/reelsucc-reference.png" alt="" />
+                  </picture>
                   <button aria-label="Claim offer" onClick={() => launch("KICKSTARTER")}>Claim now</button>
                 </section>
                 <div className="categories">
@@ -616,6 +618,13 @@ export default function App() {
             Inbox
           </button>
         </nav>
+        <button
+          className="ucc-style-toggle"
+          aria-pressed={uccColour}
+          onClick={() => setUccColour((value) => !value)}
+        >
+          {uccColour ? "Monochrome view" : "Colour view"}
+        </button>
       </div>
       {!open && debugPanel}
       {open && (
@@ -637,13 +646,9 @@ export default function App() {
             >
               <ArrowLeft size={19} />
             </button>
-            <div>
-              <span className="eyebrow">REELS GRANDE</span>
+            <div className="cashier-branding">
+              <img src="/reels-grande-logo.svg" alt="Reels Grande" />
               <h2 id="cashier-title">Cashier</h2>
-            </div>
-            <div className="cashier-balance">
-              <span>Cash balance</span>
-              <strong>{money(balance)}</strong>
             </div>
             <button
               className="icon-button"
@@ -652,8 +657,11 @@ export default function App() {
               onClick={close}
             >
               <X size={21} />
-            </button>
+              </button>
           </div>
+          <output className="cashier-balance-state" aria-label="Cash balance">
+            {money(balance)}
+          </output>
           <div className="cashier-layout">
             <nav className="cashier-nav" aria-label="Cashier sections">
               {["Deposit", "Withdraw", "Coupons", "Transactions"].map(

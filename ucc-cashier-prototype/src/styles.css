@@ -2326,3 +2326,155 @@ fieldset {
   }
   .review-controls { bottom: 82px; }
 }
+
+/* Mockup presentation mode and responsive corrections. */
+.champions-banner { display: none; }
+.app-shell { padding-top: 0; }
+.sidebar { top: 0; }
+.cashier-branding {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.cashier-branding img {
+  width: 96px;
+  height: 45px;
+  object-fit: contain;
+  filter: invert(1);
+}
+.cashier-branding h2 { margin: 0; }
+.cashier-header > .icon-button { margin-left: auto; }
+.cashier-balance-state {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.promo {
+  height: auto;
+  aspect-ratio: 1135 / 305;
+  background: #111;
+}
+.promo picture {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.promo-image {
+  display: block;
+  width: 167.224%;
+  max-width: none;
+  height: auto;
+  transform: translate(-27.397%, -15.991%);
+  transform-origin: 0 0;
+}
+.promo > button {
+  left: 14.1%;
+  top: 62.3%;
+  width: 26.4%;
+  height: 17.4%;
+}
+.ucc-style-toggle {
+  position: fixed;
+  z-index: 45;
+  right: 16px;
+  bottom: 16px;
+  min-height: 38px;
+  padding: 8px 13px;
+  border: 1px solid #777;
+  border-radius: 20px;
+  background: #fff;
+  color: #171717;
+  box-shadow: 0 4px 16px #0005;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.is-monochrome,
+.is-monochrome .host { background: #0a0a0a; }
+.is-monochrome .brand,
+.is-monochrome .host-header,
+.is-monochrome .promo-image,
+.is-monochrome .game-art { filter: grayscale(1); }
+.is-monochrome .sidebar { background: #1e1e1e; }
+.is-monochrome .brand,
+.is-monochrome .host-header,
+.is-monochrome .sidebar-tools { background-color: #111; border-color: #aaa; }
+.is-monochrome .sidebar nav button,
+.is-monochrome .sidebar-bottom button { background: #292929; color: #fff; }
+.is-monochrome .sidebar nav button:first-child,
+.is-monochrome .sidebar nav .selected,
+.is-monochrome .sidebar-bottom button:nth-child(2) { background: #e8e8e8; color: #111; }
+.is-monochrome .sidebar nav button:nth-child(11),
+.is-monochrome .sidebar nav button:nth-child(12),
+.is-monochrome .sidebar nav button:nth-child(13) { color: #fff; }
+.is-monochrome .categories { border-color: #777; }
+.is-monochrome .categories button { background: #202020; }
+.is-monochrome .categories button:first-child,
+.is-monochrome .categories button.active { background: #e7e7e7; color: #111; }
+.is-monochrome .categories button.active span,
+.is-monochrome .categories button:first-child span { color: #111; }
+.is-monochrome .game-row-title::before,
+.is-monochrome .view-all,
+.is-monochrome .game { background: #353535; }
+.is-monochrome .game-favorite { color: #111; }
+.is-monochrome .mobile-nav { background: #171717; }
+.is-monochrome .mobile-nav button,
+.is-monochrome .mobile-nav button:nth-child(1),
+.is-monochrome .mobile-nav button:nth-child(2) { color: #fff; }
+.is-monochrome .mobile-nav .wallet-nav span { background: #e7e7e7; color: #111; }
+
+@media (min-width: 651px) and (max-width: 1450px) {
+  .sidebar { width: 220px; padding-right: 10px; overflow-y: auto; }
+  .brand { width: 220px; }
+  .sidebar-tools { gap: 8px; }
+  .search { width: 168px; }
+  .host { margin-left: 220px; }
+  .host-header { background-color: #111; background-image: none; }
+  .host-header .header-actions > * { opacity: 1; }
+  .reward-progress { width: 210px; }
+  .lobby {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 18px 20px 46px;
+  }
+  .categories { overflow-x: auto; }
+  .games {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 8px;
+  }
+  .game { flex: 0 0 135px; }
+}
+
+@media (max-width: 650px) {
+  .app-shell { padding-top: 0; }
+  .promo {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 394 / 277;
+    background: #111;
+  }
+  .promo-image {
+    width: 114.975%;
+    transform: translate(-3.974%, -18.934%);
+  }
+  .promo > button {
+    left: 10.4%;
+    top: 73.6%;
+    width: 55.6%;
+    height: 14.8%;
+  }
+  .categories { width: 100%; }
+  .is-monochrome .categories::before { background: #fff; }
+  .ucc-style-toggle { right: 10px; bottom: 84px; min-height: 34px; padding: 7px 10px; }
+  .cashier-branding { gap: 8px; }
+  .cashier-branding img { width: 82px; height: 39px; }
+}

@@ -75,7 +75,7 @@ test("new card: validation, address edit, successful deposit and balance", async
     .getByRole("button", { name: "Deposit $64.25", exact: true })
     .click();
   await expect(page.getByText("Your deposit is complete")).toBeVisible();
-  await expect(page.locator(".cashier-balance")).toContainText("$88.75");
+  await expect(page.locator(".cashier-balance-state")).toContainText("$88.75");
   await page.getByRole("button", { name: "View transactions" }).click();
   await expect(page.locator(".transaction")).toHaveCount(1);
   await expect(page.locator(".transaction")).toContainText("$64.25");
@@ -133,7 +133,7 @@ test("saved card decline, retry and pending without crediting balance", async ({
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
   await expect(page.getByText("Your card was declined")).toBeVisible();
-  await expect(page.locator(".cashier-balance")).toContainText("$24.50");
+  await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
   await debug(page);
   await page.getByLabel("Payment outcome").selectOption("pending");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
@@ -142,7 +142,7 @@ test("saved card decline, retry and pending without crediting balance", async ({
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
   await expect(page.getByText("Your deposit is pending")).toBeVisible();
-  await expect(page.locator(".cashier-balance")).toContainText("$24.50");
+  await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
 test("debug presets retain custom amount; saved replacement; reset clears the scenario", async ({
   page,
@@ -170,7 +170,7 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await page.getByRole("button", { name: "Reset scenario" }).click();
   await expect(page.getByLabel("Selected amount")).toHaveValue("50");
   await expect(page.getByLabel("Amount presets")).toHaveValue("20, 30, 50");
-  await expect(page.locator(".cashier-balance")).toContainText("$24.50");
+  await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
 test("promo context, close clears card but keeps draft, focus and responsive bounds", async ({
   page,
@@ -252,7 +252,7 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
     page.getByRole("button", { name: "Close cashier" }),
   ).toBeDisabled();
   await expect(page.getByText("Your deposit is complete")).toBeVisible();
-  await expect(page.locator(".cashier-balance")).toContainText("$123.50");
+  await expect(page.locator(".cashier-balance-state")).toContainText("$123.50");
   expect(
     await page.evaluate(
       () =>
