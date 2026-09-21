@@ -1886,3 +1886,443 @@ fieldset {
     scroll-behavior: auto !important;
   }
 }
+
+/* Reels Grande UCC — matched to the supplied desktop and mobile references. */
+.champions-banner {
+  position: fixed;
+  z-index: 40;
+  inset: 0 0 auto;
+  height: 65px;
+  background: #07170f url("/reelsucc-reference.png") center top / 1898px 888px no-repeat;
+}
+.champions-banner button {
+  position: absolute;
+  left: 59.3%;
+  top: 17px;
+  width: 128px;
+  height: 34px;
+  overflow: hidden;
+  color: transparent;
+}
+.app-shell {
+  padding-top: 65px;
+  background: #040016;
+  color: #fff;
+}
+.sidebar {
+  top: 65px;
+  width: 275px;
+  padding: 0 20px 24px 0;
+  border: 0;
+  background: #28105f;
+}
+.brand {
+  width: 275px;
+  height: 59px;
+  justify-content: flex-start;
+  padding-left: 4px;
+  background: #11003c;
+  border-bottom: 2px solid #762cff;
+  background-image: url("/reelsucc-reference.png");
+  background-position: 0 -65px;
+  background-size: 1898px 888px;
+  background-repeat: no-repeat;
+}
+.brand img { width: 124px; height: 52px; opacity: 0; }
+.sidebar-tools {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 12px 0 8px 2px;
+  background: #11003c;
+}
+.sidebar-tools > button {
+  width: 33px;
+  height: 31px;
+  display: grid;
+  place-items: center;
+  border-radius: 5px;
+  color: #e8dcff;
+  background: #32156b;
+}
+.search {
+  width: 207px;
+  height: 32px;
+  padding: 4px 8px;
+  margin: 0;
+  border: 0;
+  border-radius: 5px;
+  background: #e7d9ff;
+  color: #7950a6;
+}
+.search input { font-size: 14px; }
+.sidebar nav {
+  gap: 0;
+  padding: 0 0 0 2px;
+}
+.sidebar nav button {
+  min-height: 37px;
+  padding: 8px 14px;
+  border-radius: 0;
+  gap: 10px;
+  background: #2d1168;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.sidebar nav button:first-child {
+  min-height: 38px;
+  border-radius: 5px 5px 0 0;
+  background: #7620ff;
+  font-weight: 800;
+}
+.sidebar nav button:nth-child(4) { text-decoration: underline; }
+.sidebar nav button:nth-child(11) {
+  margin-top: 8px;
+  color: #ffe700;
+  border-radius: 5px 5px 0 0;
+}
+.sidebar nav button:nth-child(12),
+.sidebar nav button:nth-child(13) { color: #ffe700; }
+.sidebar nav .selected:not(:first-child) { background: #3a167c; color: #fff; }
+.sidebar-bottom {
+  margin-top: 7px;
+  padding: 0 0 0 2px;
+  gap: 8px;
+}
+.sidebar-bottom button {
+  min-height: 39px;
+  padding: 10px 12px;
+  border-radius: 4px;
+  color: #fff;
+  background: #351771;
+  font-size: 12px;
+}
+.sidebar-bottom button:nth-child(2) { background: #7620ff; }
+.host { margin-left: 275px; background: #040016; }
+.host-header {
+  height: 59px;
+  padding: 0 20px;
+  justify-content: flex-end;
+  background: #11003c url("/reelsucc-reference.png") -275px -65px / 1898px 888px no-repeat;
+  border-bottom: 2px solid #762cff;
+}
+.host-header .header-actions > * { opacity: 0; }
+.header-actions { gap: 14px; }
+.reward-progress {
+  width: 267px;
+  height: 38px;
+  padding: 0 12px 0 5px;
+  border: 2px solid #ffe300;
+  border-radius: 20px;
+  background: #fff8f0;
+  color: #d60019;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.reward-progress svg { color: #d99c00; }
+.reward-progress strong { font-size: 20px; }
+.reward-progress span { margin-left: auto; font-size: 12px; font-weight: 900; line-height: 1.05; }
+.account-deposit {
+  height: 34px;
+  display: flex;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #fff;
+  color: #08001b;
+  font-size: 12px;
+  font-weight: 900;
+}
+.account-deposit strong, .account-deposit span { padding: 10px 12px; }
+.account-deposit span { background: #ffdd00; }
+.header-inbox { color: #e9deff; }
+.avatar { border: 0; background: #8c48ff; color: #fff; }
+.lobby {
+  width: 1135px;
+  max-width: calc(100vw - 315px);
+  margin: 0 auto;
+  padding: 18px 0 46px;
+}
+.promo {
+  width: 100%;
+  height: 305px;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 7px;
+  background: url("/reelsucc-reference.png") -520px -142px / 1898px 888px no-repeat;
+  overflow: hidden;
+  position: relative;
+}
+.promo > button {
+  position: absolute;
+  left: 160px;
+  top: 190px;
+  width: 300px;
+  height: 53px;
+  color: transparent;
+}
+.categories {
+  height: 48px;
+  margin: 14px 0 31px;
+  gap: 0;
+  padding-bottom: 9px;
+  border-bottom: 3px solid #6824c7;
+  overflow: hidden;
+}
+.categories::after {
+  content: "";
+  position: absolute;
+}
+.categories button {
+  height: 38px;
+  min-height: 38px;
+  flex: 0 0 auto;
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 0;
+  background: #23005a;
+  color: #fff;
+  font-size: 13px;
+}
+.categories button:first-child,
+.categories button.active { background: #5419a7; color: #fff; }
+.categories button span { color: #e7d6ff; font-size: 16px; }
+.lobby > .row { height: 38px; }
+.game-row-title {
+  padding-left: 48px;
+  font-size: 24px;
+  letter-spacing: -.7px;
+}
+.game-row-title::before {
+  content: "▶";
+  top: -7px;
+  width: 41px;
+  height: 41px;
+  border-radius: 6px;
+  background: #7620ff;
+  color: #fff;
+  font-size: 22px;
+}
+.view-all {
+  min-width: 124px;
+  height: 34px;
+  justify-content: center;
+  border-radius: 4px;
+  background: #351475;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+}
+.games {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 8px;
+  margin: 20px 0 0;
+}
+.game {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #8024ed;
+}
+.game-art {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 135 / 194;
+  border: 0;
+  border-radius: 4px 4px 0 0;
+  background-image: url("/reelsucc-reference.png");
+  background-size: 1898px 888px;
+  background-repeat: no-repeat;
+}
+.game-art::before, .game-art span { display: none; }
+.art-0 { background-position: -520px -599px; }
+.art-1 { background-position: -663px -599px; }
+.art-2 { background-position: -805px -599px; }
+.art-3 { background-position: -948px -599px; }
+.art-4 { background-position: -1091px -599px; }
+.art-5 { background-position: -1234px -599px; }
+.art-6 { background-position: -1376px -599px; }
+.art-7 { background-position: -1519px -599px; }
+.game-favorite {
+  position: absolute;
+  right: 4px;
+  top: 164px;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #fff;
+  color: #761cff;
+  font-size: 19px;
+  line-height: 1;
+}
+.game strong {
+  margin: 8px 8px 2px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #fff;
+  text-align: left;
+  text-transform: none;
+  font-size: 14px;
+}
+.game > span {
+  margin: 0 8px 8px;
+  color: #fff;
+  text-align: left;
+  font-size: 10px;
+}
+.mobile-nav { background: #1c0049; }
+.app-shell + .review-controls { display: none; }
+
+@media (max-width: 650px) {
+  .champions-banner {
+    height: 64px;
+    background-image: url("/reelsucc-mobile-reference.png");
+    background-position: -8px 0;
+    background-size: 453px 882px;
+  }
+  .champions-banner button { left: 310px; top: 17px; width: 94px; height: 30px; }
+  .app-shell { padding-top: 64px; }
+  .host { margin-left: 0; }
+  .host-header {
+    height: 83px;
+    padding: 0 18px;
+    border-bottom: 2px solid #762cff;
+    background: #120044 url("/reelsucc-mobile-reference.png") -8px -64px / 453px 882px no-repeat;
+  }
+  .mobile-brand { display: block; margin-right: auto; }
+  .mobile-brand { width: 100px; height: 48px; }
+  .mobile-brand img { width: 100px; height: 48px; opacity: 0; }
+  .header-actions { gap: 13px; }
+  .reward-progress {
+    width: 48px;
+    height: 48px;
+    padding: 8px;
+    border: 0;
+    background: transparent;
+  }
+  .reward-progress svg { width: 38px; height: 38px; color: #ffc800; }
+  .reward-progress strong, .reward-progress span,
+  .account-deposit, .header-inbox { display: none; }
+  .avatar { display: grid; width: 40px; height: 40px; }
+  .mobile-only { width: 41px; height: 41px; background: #32156b; color: #e8dcff; }
+  .lobby {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 20px 18px 105px;
+  }
+  .promo {
+    width: 394px;
+    max-width: 100%;
+    height: 277px;
+    background-image: url("/reelsucc-mobile-reference.png");
+    background-position: -18px -167px;
+    background-size: 453px 882px;
+  }
+  .promo > button { left: 40px; top: 195px; width: 221px; height: 45px; }
+  .categories {
+    width: 394px;
+    max-width: 100%;
+    height: 89px;
+    margin: 16px 0 31px;
+    padding: 0 0 18px;
+    gap: 0;
+    border-bottom: 4px solid #6323b9;
+    position: relative;
+  }
+  .categories::before {
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 126px;
+    height: 4px;
+    background: #ffe500;
+    z-index: 2;
+  }
+  .categories button {
+    display: flex;
+    flex: 1 0 25%;
+    height: 68px;
+    min-height: 68px;
+    padding: 8px 4px;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    background: #24005d;
+    font-size: 16px;
+  }
+  .categories button:nth-child(n+5) { display: none; }
+  .categories button span { font-size: 25px; height: 26px; }
+  .lobby > .row { height: 45px; }
+  .game-row-title { padding-left: 53px; font-size: 20px; }
+  .game-row-title::before { width: 43px; height: 45px; top: -7px; }
+  .view-all { min-width: 98px; height: 33px; font-size: 12px; }
+  .games {
+    display: flex;
+    gap: 7px;
+    margin: 20px -18px 0 0;
+    padding-right: 18px;
+    overflow-x: auto;
+  }
+  .game { flex: 0 0 99px; min-width: 99px; }
+  .game-art {
+    height: 142px;
+    aspect-ratio: auto;
+    background-image: url("/reelsucc-mobile-reference.png");
+    background-size: 453px 882px;
+  }
+  .art-0 { background-position: -18px -644px; }
+  .art-1 { background-position: -124px -644px; }
+  .art-2 { background-position: -232px -644px; }
+  .art-3 { background-position: -338px -644px; }
+  .art-4 { background-position: -18px -644px; }
+  .art-5 { background-position: -124px -644px; }
+  .art-6 { background-position: -232px -644px; }
+  .art-7 { background-position: -338px -644px; }
+  .game-favorite { top: 112px; right: 4px; }
+  .game strong { margin: 7px 6px 2px; font-size: 12px; }
+  .game > span { margin: 0 6px 7px; font-size: 8px; }
+  .mobile-nav {
+    height: 75px;
+    padding: 7px 7px 10px;
+    border: 0;
+    z-index: 30;
+    background: #1b0047;
+  }
+  .mobile-nav button {
+    flex: 1;
+    min-width: 0;
+    min-height: 58px;
+    gap: 5px;
+    color: #fff;
+    font-size: 12px;
+  }
+  .mobile-nav button:nth-child(1), .mobile-nav button:nth-child(2) { color: #ffe400; }
+  .mobile-nav .wallet-nav {
+    min-width: 74px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #fff;
+    font-weight: 800;
+  }
+  .mobile-nav .wallet-nav span {
+    width: 61px;
+    height: 43px;
+    margin-top: -27px;
+    display: grid;
+    place-items: center;
+    border-radius: 28px;
+    background: #8b24ff;
+  }
+  .review-controls { bottom: 82px; }
+}

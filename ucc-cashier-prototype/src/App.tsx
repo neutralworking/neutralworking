@@ -36,13 +36,15 @@ import type { Address, Card, Outcome, Step } from "./flow";
 
 const steps = ["Payment Method", "Bonus", "Amount", "Payment Details"];
 const games = [
-  "Electric Coins 2",
-  "Bubble or Broom",
-  "777 Football Hit",
-  "Coin Blitz 2",
-  "Buffalo Power",
-  "Book of Gold",
-];
+  ["Tiger Tumble", "Playnetic"],
+  ["Zhulong's Treasure", "Playnetic"],
+  ["Bonus Mania Plinko", "KA Gaming"],
+  ["Gold Rush Ultrahold", "Red Eagle"],
+  ["Golden Bull", "KA Gaming"],
+  ["Little Lord Rich", "Playnetic"],
+  ["Big Bounty Bandits", "Peter And Sons"],
+  ["Moon Of RA", "Fugaso"],
+] as const;
 const paymentMethods = [
   { id: "crypto", group: "crypto", mark: "◈", name: "Crypto", detail: "Bitcoin, Litecoin, Ethereum and more" },
   { id: "usdt", group: "crypto", mark: "₮", name: "USDT", detail: "Tether" },
@@ -426,6 +428,9 @@ export default function App() {
   return (
     <>
       <div className="app-shell">
+        <div className="champions-banner" aria-label="Champions of the Reels">
+          <button onClick={() => setHostPage("Tournaments")}>Join now</button>
+        </div>
         <aside className={`sidebar ${menu ? "mobile-open" : ""}`}>
           <a
             className="brand"
@@ -437,26 +442,33 @@ export default function App() {
           >
             <img src="/reels-grande-logo.svg" alt="Reels Grande" />
           </a>
-          <label className="search">
-            <Search size={16} />
-            <input
-              aria-label="Search games"
-              placeholder="Search games"
-              value={search}
-              onChange={(e) => {
-                setSearch(e.target.value);
-                setHostPage("Lobby");
-              }}
-            />
-          </label>
+          <div className="sidebar-tools">
+            <button aria-label="Open navigation"><Menu size={21} /></button>
+            <label className="search">
+              <Search size={20} />
+              <input
+                aria-label="Search games"
+                placeholder="Search"
+                value={search}
+                onChange={(e) => {
+                  setSearch(e.target.value);
+                  setHostPage("Lobby");
+                }}
+              />
+            </label>
+          </div>
           <nav>
             {[
+              ["Lobby", Home],
+              ["Favorites", Gift],
+              ["Suggested", Gift],
               ["Popular Slots", Home],
               ["New Games", Layers],
               ["Table Games", CreditCard],
               ["Video Poker", Layers],
               ["Specialty", Gift],
               ["Crash Games", Trophy],
+              ["All Games", Layers],
               ["Tournaments", Trophy],
               ["Promotions", Gift],
               ["Leaderboards", Trophy],
@@ -478,19 +490,23 @@ export default function App() {
             })}
           </nav>
           <div className="sidebar-bottom">
-            <button onClick={() => setHostPage("VIP Program")}>VIP Program</button>
-            <button onClick={() => setHostPage("Banking")}>Banking</button>
-            <button onClick={() => setHostPage("Support")}>Support</button>
+            <button onClick={() => setHostPage("Game Providers")}>⚛ &nbsp; GAME PROVIDERS</button>
+            <button onClick={() => setHostPage("More")}>▦ &nbsp; MORE</button>
+            <button onClick={() => setHostPage("Support")}>◉ &nbsp; LIVE SUPPORT</button>
+            <button onClick={() => setHostPage("Logout")}>↪ &nbsp; LOGOUT</button>
           </div>
         </aside>
         <div className="host">
           <header className="host-header">
             <div className="mobile-brand"><img src="/reels-grande-logo.svg" alt="Reels Grande" /></div>
-            <span className="desktop-label">CASINO GAMES</span>
             <div className="header-actions">
-              <button className="top-promotion" onClick={() => setHostPage("Promotions")}><Gift size={14} /> Promotions</button>
-              <Button onClick={() => setHostPage("My Account")}>Log in</Button>
-              <Button primary aria-label="Deposit" onClick={() => launch()}>Cashier</Button>
+              <button className="reward-progress" onClick={() => setHostPage("Promotions")} aria-label="Rewards progress">
+                <Trophy size={28} /><strong>0%</strong><span>20 FREE<br />SPINS</span>
+              </button>
+              <button className="account-deposit" aria-label="Deposit" onClick={() => launch()}>
+                <strong>$0.00</strong><span>DEPOSIT</span>
+              </button>
+              <button className="header-inbox" aria-label="Inbox" onClick={() => setHostPage("Inbox")}><Inbox size={24} /></button>
               <button
                 className="avatar"
                 aria-label="My account"
@@ -508,77 +524,51 @@ export default function App() {
             </div>
           </header>
           <main className="lobby">
-            {hostPage === "Lobby" || hostPage === "Popular Slots" || hostPage === "New Games" ||
+            {hostPage === "Lobby" || hostPage === "Popular Slots" || hostPage === "New Games" || hostPage === "Favorites" || hostPage === "Suggested" || hostPage === "All Games" ||
             hostPage === "Promotions" ||
             hostPage === "Slots" || hostPage === "Table Games" || hostPage === "Video Poker" || hostPage === "Specialty" || hostPage === "Crash Games" ? (
               <>
                 <section className="promo">
-                  <div className="promo-copy">
-                    <span className="eyebrow">WELCOME OFFER</span>
-                    <h2>GET 150%<br />NO RULES BONUS</h2>
-                    <p>Take all your winnings home. No limits.</p>
-                    <Button primary aria-label="Claim offer" onClick={() => launch("KICKSTARTER")}>
-                      CLAIM NOW
-                    </Button>
-                  </div>
-                  <div className="promo-art" aria-hidden="true">
-                    <div className="coin coin-one">$</div>
-                    <div className="slot-machine"><span>7</span><span>7</span><span>7</span></div>
-                    <div className="coin coin-two">$</div>
-                  </div>
+                  <button aria-label="Claim offer" onClick={() => launch("KICKSTARTER")}>Claim now</button>
                 </section>
-                <div className="carousel-dots" aria-hidden="true"><i></i><i></i><i></i></div>
                 <div className="categories">
                   {[
-                    ["Our Popular Picks", "♠"],
-                    ["Video Slots", "▦"],
-                    ["Card Games", "▰"],
-                    ["Specialty Games", "★"],
-                    ["Jackpots", "♛"],
-                    ["All Games", "⊞"],
+                    ["Lobby", "◆"],
+                    ["Promotions", "♛"],
+                    ["Favorites", "♥"],
+                    ["Suggested", "✦"],
+                    ["Popular Slots", "▦"],
+                    ["New Games", "NEW"],
+                    ["Table Games", "♣"],
+                    ["Video Poker", "♠"],
+                    ["Specialty", "★"],
                   ].map(([n, icon]) => (
                     <button
                       key={n}
-                      className={search === n ? "active" : ""}
-                      onClick={() => setSearch(search === n ? "" : n)}
+                      className={hostPage === n ? "active" : ""}
+                      onClick={() => setHostPage(n)}
                     >
                       <span aria-hidden="true">{icon}</span>{n}
                     </button>
                   ))}
                 </div>
                 <div className="row">
-                  <h2 className="game-row-title">
-                    {search &&
-                    !["Our Popular Picks", "Video Slots", "Card Games", "Specialty Games", "Jackpots", "All Games"].includes(
-                      search,
-                    )
-                      ? "Search results"
-                      : "Hottest Slots"}
-                  </h2>
-                  <button className="view-all">ALL <ChevronRight size={13} /></button>
+                  <h2 className="game-row-title">KEEP PLAYING</h2>
+                  <button className="view-all">VIEW ALL</button>
                 </div>
                 <div className="games">
                   {games
                     .filter(
                       (g) =>
                         !search ||
-                        [
-                          "Our Popular Picks",
-                          "Video Slots",
-                          "Card Games",
-                          "Specialty Games",
-                          "Jackpots",
-                          "All Games",
-                        ].includes(search) ||
-                        g.toLowerCase().includes(search.toLowerCase()),
+                        g[0].toLowerCase().includes(search.toLowerCase()),
                     )
-                    .map((g, i) => (
-                      <article className="game" key={g}>
-                        <div className={`game-art art-${i}`} aria-hidden="true">
-                          <span>{["COINS", "BROOM", "777", "BLITZ", "BUFFALO", "GOLD"][i]}</span>
-                        </div>
-                        <strong>{g}</strong>
-                        <span>{["FUGASO", "PLAYNETIC", "BF GAMES", "FUGASO", "PLAYSON", "BETSOFT"][i]}</span>
+                    .map(([name, provider], i) => (
+                      <article className="game" key={name}>
+                        <div className={`game-art art-${i}`} aria-hidden="true" />
+                        <button className="game-favorite" aria-label={`Favorite ${name}`}>♡</button>
+                        <strong>{name}</strong>
+                        <span>By: {provider}</span>
                       </article>
                     ))}
                 </div>
@@ -602,29 +592,28 @@ export default function App() {
                 <Button onClick={() => launch()}>Open cashier</Button>
               </section>
             )}
-            <footer className="host-footer">18+ · Play responsibly</footer>
           </main>
         </div>
         <nav className="mobile-nav">
-          <button onClick={() => setHostPage("Lobby")}>
-            <Home size={20} />
-            Lobby
+          <button onClick={() => setHostPage("Tournaments")}>
+            <Trophy size={24} />
+            Tournaments
           </button>
           <button onClick={() => setHostPage("Promotions")}>
-            <Gift size={20} />
-            Promos
+            <Gift size={24} />
+            Promotions
           </button>
-          <button className="wallet-nav" onClick={() => launch()}>
-            <Wallet size={21} />
-            {money(balance)}
+          <button className="wallet-nav" aria-label="$24.50" onClick={() => launch()}>
+            <span><Wallet size={31} /></span>
+            $0.00
+          </button>
+          <button onClick={() => setHostPage("Leaderboards")}>
+            <Trophy size={24} />
+            Leaderboards
           </button>
           <button onClick={() => setHostPage("Inbox")}>
-            <Inbox size={20} />
+            <Inbox size={25} />
             Inbox
-          </button>
-          <button onClick={() => setHostPage("My Account")}>
-            <User size={20} />
-            Account
           </button>
         </nav>
       </div>
