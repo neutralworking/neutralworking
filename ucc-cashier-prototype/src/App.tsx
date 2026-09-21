@@ -44,8 +44,10 @@ const games = [
   "Book of Gold",
 ];
 const paymentMethods = [
-  { id: "crypto", group: "crypto", mark: "₿", name: "Crypto", detail: "BTC, LTC & USDT" },
+  { id: "crypto", group: "crypto", mark: "◈", name: "Crypto", detail: "Bitcoin, Litecoin, Ethereum and more" },
+  { id: "usdt", group: "crypto", mark: "₮", name: "USDT", detail: "Tether" },
   { id: "changelly", group: "crypto", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
+  { id: "lightning", group: "crypto", mark: "ϟ", name: "Bitcoin Lightning", detail: "Fast Bitcoin payment" },
   { id: "cashapp", group: "other", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
   { id: "rewards", group: "other", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
 ] as const;
@@ -99,6 +101,32 @@ function Field({
         </span>
       )}
     </label>
+  );
+}
+
+function CardBrands() {
+  return (
+    <span
+      className="card-brands"
+      aria-label="Visa, Mastercard, American Express and Discover accepted"
+    >
+      <b>VISA</b>
+      <b className="mastercard-mark"><i /><i /></b>
+      <b>AMEX</b>
+      <b>DISCOVER</b>
+    </span>
+  );
+}
+
+function TrustPanel() {
+  return (
+    <aside className="cashier-trust" aria-label="Payment security">
+      <ShieldCheck size={34} />
+      <div>
+        <strong>Secure &amp; encrypted</strong>
+        <p>Your information is safe with 256-bit SSL encryption.</p>
+      </div>
+    </aside>
   );
 }
 
@@ -720,6 +748,10 @@ export default function App() {
                             <div className="step-body" id={`step-${i}`}>
                               {i === 0 && (
                                 <>
+                                  <TrustPanel />
+                                  <h3 className="payment-method-title">
+                                    Choose a payment method
+                                  </h3>
                                   <div
                                     className="payment-groups"
                                     aria-label="Payment categories"
@@ -734,7 +766,13 @@ export default function App() {
                                           aria-pressed={paymentGroup === group}
                                           onClick={() => {
                                             setPaymentGroup(group);
-                                            dispatch({ type: "method", method: "new" });
+                                            dispatch({
+                                              type: "method",
+                                              method:
+                                                group === "cards" && saved
+                                                  ? "saved"
+                                                  : "new",
+                                            });
                                             setPaymentChoice(
                                               group === "cards"
                                                 ? "card"
@@ -752,29 +790,37 @@ export default function App() {
                                   </div>
                                   <div className="method-grid">
                                     {paymentGroup === "cards" ? (
-                                      <>
+                                      <section className="card-method-panel">
                                         {saved && (
-                                          <button
-                                            className={`choice ${flow.method === "saved" ? "chosen" : ""}`}
-                                            aria-pressed={flow.method === "saved"}
-                                            onClick={() => {
-                                              dispatch({ type: "method", method: "saved" });
-                                              setPaymentChoice("card");
-                                              setCard(emptyCard());
-                                            }}
-                                          >
-                                            <span className="card-brands" aria-hidden="true">
-                                              <b>VISA</b><b>MC</b><b>AMEX</b><b>DISCOVER</b>
-                                            </span>
-                                            <strong>Visa •••• 4242</strong>
-                                            <small>Last used · expires 12/30</small>
-                                            <span className="choice-check">
-                                              {flow.method === "saved" ? <Check size={15} /> : null}
-                                            </span>
-                                          </button>
+                                          <>
+                                            <h4>Your last used credit card</h4>
+                                            <button
+                                              className={`card-method-row saved-card-row ${flow.method === "saved" ? "chosen" : ""}`}
+                                              aria-label="Visa •••• 4242 Last used credit card"
+                                              aria-pressed={flow.method === "saved"}
+                                              onClick={() => {
+                                                dispatch({ type: "method", method: "saved" });
+                                                setPaymentChoice("card");
+                                                setCard(emptyCard());
+                                              }}
+                                            >
+                                              <span className="selection-circle"><Check size={14} /></span>
+                                              <b>VISA</b>
+                                              <strong>•••• 4242</strong>
+                                              <span className="change-card-label">Change card</span>
+                                            </button>
+                                            <h4 className="different-card-title">Use a different card</h4>
+                                          </>
                                         )}
+                                        {!saved && <h4>Add a new credit card</h4>}
+                                        {!saved && <CardBrands />}
                                         <button
-                                          className={`choice ${flow.method === "new" ? "chosen" : ""}`}
+                                          className={`card-method-row new-card-row ${flow.method === "new" ? "chosen" : ""}`}
+                                          aria-label={
+                                            saved
+                                              ? "Add new credit card. Visa, Mastercard, American Express and Discover accepted"
+                                              : undefined
+                                          }
                                           aria-pressed={flow.method === "new"}
                                           onClick={() => {
                                             dispatch({ type: "method", method: "new" });
@@ -782,23 +828,30 @@ export default function App() {
                                             setCard(emptyCard());
                                           }}
                                         >
-                                          <span className="card-brands" aria-label="Visa, Mastercard, American Express and Discover accepted">
-                                            <b>VISA</b><b>MC</b><b>AMEX</b><b>DISCOVER</b>
-                                          </span>
-                                          <strong>Add a new card</strong>
-                                          <small>Enter card details securely</small>
-                                          <span className="choice-check">
-                                            {flow.method === "new" ? <Check size={15} /> : null}
-                                          </span>
+                                          {saved ? (
+                                            <span className="selection-circle">
+                                              {flow.method === "new" ? <Check size={14} /> : null}
+                                            </span>
+                                          ) : (
+                                            <span className="add-card-mark">+</span>
+                                          )}
+                                          {saved ? <CardBrands /> : <strong>Add new credit card</strong>}
+                                          {saved && <span className="pay-any-card">Pay with any card</span>}
+                                          <ChevronRight size={18} />
                                         </button>
-                                      </>
+                                        {!saved && (
+                                          <small className="save-card-note">
+                                            You can save your card for faster payments next time.
+                                          </small>
+                                        )}
+                                      </section>
                                     ) : (
                                       paymentMethods
                                         .filter((method) => method.group === paymentGroup)
                                         .map((method) => (
                                           <button
                                             key={method.id}
-                                            className={`choice method-choice ${paymentChoice === method.id ? "chosen" : ""}`}
+                                            className={`method-choice ${paymentChoice === method.id ? "chosen" : ""}`}
                                             aria-pressed={paymentChoice === method.id}
                                             onClick={() => {
                                               dispatch({ type: "method", method: "new" });
@@ -807,10 +860,9 @@ export default function App() {
                                             }}
                                           >
                                             <span className="method-mark" aria-hidden="true">{method.mark}</span>
-                                            <strong>{method.name}</strong>
-                                            <small>{method.detail}</small>
-                                            <span className="choice-check">
-                                              {paymentChoice === method.id ? <Check size={15} /> : null}
+                                            <span><strong>{method.name}</strong><small>{method.detail}</small></span>
+                                            <span className="selection-circle">
+                                              {paymentChoice === method.id ? <Check size={14} /> : null}
                                             </span>
                                           </button>
                                         ))
@@ -823,8 +875,7 @@ export default function App() {
                                         dispatch({ type: "advance" })
                                       }
                                     >
-                                      Continue & pick a bonus{" "}
-                                      <ArrowRight size={16} />
+                                      {saved ? "Continue & pick a bonus" : "Continue"}
                                     </Button>
                                   </div>
                                 </>
@@ -1095,6 +1146,7 @@ export default function App() {
                               )}
                               {i === 3 && (
                                 <>
+                                  <TrustPanel />
                                   <div className="payment-summary">
                                     <div>
                                       <span>Deposit</span>
@@ -1346,20 +1398,6 @@ export default function App() {
                       );
                     })}
                   </fieldset>
-                  <aside
-                    className="cashier-trust"
-                    aria-label="Payment security"
-                  >
-                    <ShieldCheck size={20} />
-                    <div>
-                      <strong>Secure and private payments</strong>
-                      <p>
-                        Payment details are encrypted and used only to process
-                        your transaction. Need help? Contact Support at any step.
-                      </p>
-                    </div>
-                    <small>18+ · Play responsibly</small>
-                  </aside>
                   {processing && (
                     <p className="processing" role="status">
                       Processing your deposit. Please wait…
@@ -1514,20 +1552,20 @@ export default function App() {
             <button
               onClick={() => {
                 close();
-                setHostPage("Lobby");
+                setHostPage("My Account");
               }}
             >
-              <Home size={20} />
-              Lobby
+              <User size={20} />
+              Refer &amp; Earn
             </button>
             <button
               onClick={() => {
                 close();
-                setHostPage("Promotions");
+                setHostPage("Tournaments");
               }}
             >
-              <Gift size={20} />
-              Promos
+              <Trophy size={20} />
+              Tournaments
             </button>
             <button
               className="wallet-nav"
@@ -1537,7 +1575,17 @@ export default function App() {
               }}
             >
               <Wallet size={21} />
-              {money(balance)}
+              <strong>{money(balance)}</strong>
+              Balance
+            </button>
+            <button
+              onClick={() => {
+                close();
+                setHostPage("Promotions");
+              }}
+            >
+              <Gift size={20} />
+              Promotions
             </button>
             <button
               onClick={() => {
@@ -1547,15 +1595,6 @@ export default function App() {
             >
               <Inbox size={20} />
               Inbox
-            </button>
-            <button
-              onClick={() => {
-                close();
-                setHostPage("My Account");
-              }}
-            >
-              <User size={20} />
-              Account
             </button>
           </nav>
           {debugPanel}

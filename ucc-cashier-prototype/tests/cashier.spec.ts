@@ -10,7 +10,9 @@ async function open(page: Page) {
   await expect(page.getByRole("dialog")).toBeVisible();
 }
 async function next(page: Page) {
-  await page.getByRole("button", { name: /Continue & pick a bonus/ }).click();
+  await page
+    .getByRole("button", { name: /^Continue(?: & pick a bonus)?$/i })
+    .click();
   await expect(page.getByRole("button", { name: /^2 Bonus/ })).toBeVisible();
 }
 async function noBonus(page: Page) {
@@ -143,7 +145,7 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await page.getByRole("button", { name: "Apply presets" }).click();
   await page.getByLabel("Selected amount").fill("72.5");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
-  await page.getByRole("button", { name: /Add a new card/ }).click();
+  await page.getByRole("button", { name: /Add new credit card/ }).click();
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   await expect(page.getByLabel("Custom amount (USD)")).toHaveValue("72.5");

@@ -657,23 +657,34 @@ fieldset {
 .flow-fields {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0 8px;
+  gap: 0;
+  position: relative;
+}
+.flow-fields::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  top: 15px;
+  left: 12.5%;
+  right: 12.5%;
+  height: 1px;
+  background: #aeb1a8;
 }
 .flow-fields .step { display: contents; }
 .flow-fields .step-heading {
   grid-row: 1;
   min-width: 0;
-  border: 1px solid var(--border);
-  border-radius: 6px 6px 0 0;
+  border: 0;
+  border-radius: 0;
   margin-bottom: 0;
+  z-index: 1;
 }
 .flow-fields .step-heading .step-title { font-size: 11px; }
 .flow-fields .step-body {
   grid-column: 1 / -1;
   grid-row: 2;
-  border: 1px solid #a7aba0;
-  border-top: 0;
-  border-radius: 0 0 6px 6px;
+  border: 0;
+  border-radius: 0;
   min-height: 0;
 }
 .content-intro {
@@ -701,31 +712,34 @@ fieldset {
 .step-heading {
   width: 100%;
   display: flex;
-  gap: 11px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
   align-items: center;
-  padding: 12px 14px;
-  text-align: left;
-  min-height: 54px;
-  background: #fafaf8;
+  padding: 0 4px 15px;
+  text-align: center;
+  min-height: 76px;
+  background: transparent;
 }
 .step-heading:disabled {
   opacity: 1;
   color: #94958f;
-  background: #fff;
+  background: transparent;
 }
 .expanded .step-heading {
-  background: #f0f1ec;
-  border-bottom: 1px solid var(--border);
+  background: transparent;
+  border-bottom: 0;
 }
 .step-number {
-  width: 23px;
-  height: 23px;
-  border: 1px solid #c6c9be;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #8d9187;
   border-radius: 50%;
-  font-size: 11px;
+  font-size: 13px;
   display: grid;
   place-items: center;
   flex-shrink: 0;
+  background: #fff;
 }
 .expanded .step-number {
   background: #30352b;
@@ -733,21 +747,25 @@ fieldset {
   border-color: #30352b;
 }
 .step-number.complete {
-  background: #e5e9df;
-  color: #536249;
-  border-color: #cbd3c3;
+  background: #fff;
+  color: var(--ink);
+  border-color: var(--ink);
 }
 .step-title {
   font-weight: 600;
-  font-size: 13px;
-  flex: 1;
+  font-size: 11px;
+  line-height: 1.2;
 }
 .step-title small {
-  display: block;
-  font-weight: 400;
-  font-size: 11px;
-  color: #777b6f;
-  margin-top: 3px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 .step-title small:empty {
   display: none;
@@ -755,15 +773,18 @@ fieldset {
 .rotate {
   transform: rotate(180deg);
 }
+.flow-fields .step-heading > svg {
+  display: none;
+}
 .step-body {
-  padding: 16px;
+  padding: 8px 0 0;
 }
 .step-body > .muted {
   margin-bottom: 14px;
 }
 .method-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 8px;
 }
 .choice {
@@ -790,45 +811,117 @@ fieldset {
   color: #4f534a;
 }
 .payment-groups {
-  display: flex;
-  justify-content: center;
-  gap: 30px;
-  border-bottom: 1px solid var(--border);
-  margin: -2px 0 12px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border: 1px solid #aeb1a8;
+  border-radius: 7px;
+  overflow: hidden;
+  margin: 0 0 12px;
 }
 .payment-groups button {
-  min-width: 72px;
-  min-height: 38px;
-  padding: 8px 15px;
-  color: #73766e;
-  border-bottom: 2px solid transparent;
-  font-size: 11px;
+  min-width: 0;
+  min-height: 46px;
+  padding: 8px 12px;
+  color: var(--ink);
+  border-right: 1px solid #aeb1a8;
+  font-size: 12px;
   font-weight: 600;
 }
+.payment-groups button:last-child { border-right: 0; }
+.payment-groups button::before { margin-right: 8px; font-size: 15px; }
+.payment-groups button:nth-child(1)::before { content: "▰"; }
+.payment-groups button:nth-child(2)::before { content: "₿"; }
+.payment-groups button:nth-child(3)::before { content: "•••"; letter-spacing: 2px; }
 .payment-groups .active {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
+  color: #fff;
+  background: #292d28;
+}
+.payment-method-title { font-size: 17px; margin: 18px 0 10px; }
+.card-method-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+}
+.card-method-panel h4 { font-size: 12px; }
+.different-card-title {
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
 }
 .card-brands {
   display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  padding-right: 22px;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 12px;
 }
 .card-brands b {
-  display: inline-grid;
-  min-width: 30px;
-  min-height: 21px;
-  padding: 3px 5px;
-  place-items: center;
-  border: 1px solid #aeb1a8;
-  border-radius: 3px;
-  background: #fff;
-  color: #4f534a;
-  font-size: 8px;
-  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  min-width: auto;
+  min-height: 22px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 10px;
+  font-weight: 900;
+  font-style: italic;
   line-height: 1;
 }
+.mastercard-mark { gap: 0; }
+.mastercard-mark i {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #333;
+}
+.mastercard-mark i + i { margin-left: -6px; background: #999; }
+.card-method-row,
+.method-choice {
+  width: 100%;
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-align: left;
+}
+.card-method-row > svg { margin-left: auto; }
+.card-method-row.chosen,
+.method-choice.chosen { border-color: #5e635a; background: #f7f7f4; }
+.card-method-row > strong { font-size: 12px; }
+.selection-circle,
+.add-card-mark {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  border: 1px solid #777c72;
+  border-radius: 50%;
+}
+.saved-card-row .selection-circle { background: #444941; color: #fff; }
+.add-card-mark { font-size: 22px; }
+.change-card-label {
+  margin-left: auto;
+  padding: 8px 10px;
+  border: 1px solid var(--ink);
+  border-radius: 4px;
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.pay-any-card { margin-left: auto; font-size: 10px; white-space: nowrap; }
+.save-card-note { color: var(--muted); font-size: 9px; }
+.method-choice > span:nth-child(2) { display: flex; flex-direction: column; gap: 3px; }
+.method-choice strong { font-size: 12px; }
+.method-choice small { color: var(--muted); font-size: 9px; }
+.method-choice .selection-circle { margin-left: auto; }
 .provider-handoff {
   display: flex;
   align-items: center;
@@ -889,7 +982,8 @@ fieldset {
   margin-top: 18px;
 }
 .actions > .primary:only-child {
-  margin-left: auto;
+  width: 100%;
+  margin-left: 0;
 }
 .actions > .primary {
   margin-left: auto;
@@ -1129,32 +1223,29 @@ fieldset {
   margin: 15px 0 3px;
 }
 .cashier-trust {
-  display: grid;
-  grid-template-columns: auto 1fr auto;
+  display: flex;
   align-items: center;
-  gap: 10px;
-  margin-top: 12px;
-  padding: 11px 13px;
+  gap: 14px;
+  margin: 0 0 16px;
+  padding: 14px 16px;
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 8px;
   background: #f7f7f4;
-  color: #656a5f;
+  color: var(--ink);
 }
 .cashier-trust > svg {
-  color: #56634e;
+  flex-shrink: 0;
+  color: var(--ink);
 }
 .cashier-trust strong {
   display: block;
   color: var(--ink);
+  font-size: 14px;
+}
+.cashier-trust p {
+  margin-top: 3px;
   font-size: 11px;
-}
-.cashier-trust p,
-.cashier-trust small {
-  font-size: 9px;
   line-height: 1.45;
-}
-.cashier-trust small {
-  white-space: nowrap;
 }
 .cashier-mobile-nav {
   display: none;
@@ -1544,7 +1635,7 @@ fieldset {
   .flow-fields {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 0 4px;
+    gap: 0;
   }
   .flow-fields .step {
     display: contents;
@@ -1552,28 +1643,27 @@ fieldset {
   .flow-fields .step-heading {
     display: flex;
     grid-row: 1;
-    border: 1px solid var(--border);
-    border-radius: 5px 5px 0 0;
+    border: 0;
+    border-radius: 0;
     margin-bottom: 0;
   }
   .flow-fields .step-body {
     grid-column: 1 / -1;
     grid-row: 2;
     min-height: 0;
-    border: 1px solid #a7aba0;
-    border-top: 0;
-    border-radius: 0 0 6px 6px;
+    border: 0;
+    border-radius: 0;
   }
   .step-body {
-    padding: 13px;
+    padding: 8px 0 0;
   }
   .step-heading {
-    gap: 5px;
-    padding: 7px 5px;
-    min-height: 46px;
+    gap: 7px;
+    padding: 0 3px 13px;
+    min-height: 70px;
   }
   .flow-fields .step-heading .step-title {
-    font-size: 9px;
+    font-size: 10px;
     line-height: 1.15;
     white-space: normal;
   }
@@ -1592,12 +1682,12 @@ fieldset {
     display: none;
   }
   .step-number {
-    width: 19px;
-    height: 19px;
-    font-size: 9px;
+    width: 26px;
+    height: 26px;
+    font-size: 11px;
   }
   .method-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr;
   }
   .choice {
     padding: 12px;
@@ -1634,25 +1724,28 @@ fieldset {
   .cashier-dialog > .review-controls {
     left: 0;
     bottom: calc(62px + env(safe-area-inset-bottom));
-    right: 0;
-    padding: 7px 14px max(7px, env(safe-area-inset-bottom));
-    background: #f5f5f1;
-    border-top: 1px solid var(--border);
+    right: auto;
+    padding: 0 0 0 8px;
+    background: transparent;
+    border: 0;
+    pointer-events: none;
   }
   .cashier-dialog .review-toggle {
-    max-width: none;
+    max-width: 138px;
     min-height: 40px;
     font-size: 10px;
     border: 0;
     box-shadow: none;
     background: none;
     padding: 8px 0;
+    pointer-events: auto;
   }
   .cashier-dialog .review-panel {
     left: 12px;
     bottom: calc(120px + env(safe-area-inset-bottom));
     max-height: calc(100dvh - 145px);
     width: min(300px, calc(100vw - 24px));
+    pointer-events: auto;
   }
   .saved-summary {
     gap: 6px;
@@ -1677,12 +1770,36 @@ fieldset {
     margin-top: 17px;
   }
   .cashier-trust {
-    grid-template-columns: auto 1fr;
-    margin-top: 9px;
-    padding: 9px 10px;
+    margin: 0 0 14px;
+    padding: 12px;
   }
-  .cashier-trust small {
-    grid-column: 2;
+  .cashier-trust strong { font-size: 13px; }
+  .cashier-trust p { font-size: 10px; }
+  .payment-method-title { margin-top: 14px; font-size: 16px; }
+  .payment-groups button {
+    min-height: 44px;
+    padding: 7px 5px;
+    font-size: 11px;
+  }
+  .payment-groups button::before { margin-right: 5px; }
+  .card-method-panel { padding: 12px; }
+  .card-brands { gap: 8px; }
+  .card-brands b { font-size: 8px; }
+  .mastercard-mark i { width: 16px; height: 16px; }
+  .change-card-label { padding: 7px 8px; }
+  .pay-any-card { font-size: 9px; }
+  .cashier-mobile-nav .wallet-nav {
+    min-width: 72px;
+    margin-top: 0;
+    padding: 6px 8px;
+    border: 1px solid var(--border);
+    background: #fff;
+    color: var(--ink);
+  }
+  .cashier-mobile-nav .wallet-nav strong { font-size: 11px; }
+  .cashier-mobile-nav button { min-width: 58px; }
+  .cashier-mobile-nav {
+    min-height: 62px;
   }
   .cashier-mobile-nav {
     display: flex;
