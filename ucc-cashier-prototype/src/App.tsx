@@ -43,6 +43,15 @@ const games = [
   "Buffalo Power",
   "Book of Gold",
 ];
+const paymentMethods = [
+  { id: "card", mark: "▰", name: "Cards", detail: "Visa & Mastercard" },
+  { id: "apple", mark: "●", name: "Apple Pay", detail: "Pay with Apple Pay" },
+  { id: "google", mark: "G", name: "Google Pay", detail: "Pay with Google Pay" },
+  { id: "crypto", mark: "₿", name: "Crypto", detail: "BTC, LTC & USDT" },
+  { id: "changelly", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
+  { id: "cashapp", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
+  { id: "rewards", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
+] as const;
 function Button({
   children,
   onClick,
@@ -122,6 +131,7 @@ export default function App() {
     [hostPage, setHostPage] = useState("Lobby"),
     [menu, setMenu] = useState(false),
     [search, setSearch] = useState("");
+  const [paymentChoice, setPaymentChoice] = useState("card");
   const [receipt, setReceipt] = useState<{
     amount: number;
     bonus: string | null;
@@ -164,6 +174,7 @@ export default function App() {
     setAmountTouched(false);
     setDebugError("");
     setSection("Deposit");
+    setPaymentChoice("card");
   }
   function launch(code?: string) {
     entry.current = document.activeElement as HTMLElement;
@@ -226,7 +237,10 @@ export default function App() {
   }
   async function pay() {
     if (paymentLock.current) return;
-    const issues = cardErrors(card, flow.method === "saved");
+    const issues =
+      paymentChoice === "card"
+        ? cardErrors(card, flow.method === "saved")
+        : {};
     if (amountIssue) {
       go(2);
       setAmountTouched(true);
@@ -263,7 +277,12 @@ export default function App() {
     paymentLock.current = false;
   }
   const summary = [
-    flow.method === "saved" ? "Visa •••• 4242" : "New debit / credit card",
+    paymentChoice === "card"
+      ? flow.method === "saved"
+        ? "Visa •••• 4242"
+        : "Cards"
+      : paymentMethods.find((method) => method.id === paymentChoice)?.name ??
+        "Payment method",
     flow.bonus === undefined
       ? "Choose an offer"
       : (flow.bonus ?? "Without a bonus"),
@@ -479,19 +498,21 @@ export default function App() {
                   </div>
                 </section>
                 <div className="carousel-dots" aria-hidden="true"><i></i><i></i><i></i></div>
-                <section className="casino-intro">
-                  <h1>WELCOME TO REELS GRANDE - PREMIUM ONLINE CASINO GAMING</h1>
-                  <strong>2100+ CASINO GAMES FROM THE BEST GAME PROVIDERS</strong>
-                  <div className="providers"><span>PLAYSON</span><span>booongo</span><span>BETSOFT</span><span>REEVO</span><span>KA Gaming</span></div>
-                </section>
                 <div className="categories">
-                  {["Our Popular Picks", "Video Slots", "Card Games", "Specialty Games", "Jackpots", "All Games"].map((n) => (
+                  {[
+                    ["Our Popular Picks", "♠"],
+                    ["Video Slots", "▦"],
+                    ["Card Games", "▰"],
+                    ["Specialty Games", "★"],
+                    ["Jackpots", "♛"],
+                    ["All Games", "⊞"],
+                  ].map(([n, icon]) => (
                     <button
                       key={n}
                       className={search === n ? "active" : ""}
                       onClick={() => setSearch(search === n ? "" : n)}
                     >
-                      {n}
+                      <span aria-hidden="true">{icon}</span>{n}
                     </button>
                   ))}
                 </div>
@@ -701,9 +722,15 @@ export default function App() {
                             <div className="step-body" id={`step-${i}`}>
                               {i === 0 && (
                                 <>
-                                  <p className="muted">
-                                    Choose how you’d like to pay.
-                                  </p>
+                                  <div className="payment-groups" aria-label="Payment categories">
+                                    <button className="active">Cards</button>
+                                    <button>Crypto</button>
+                                    <button>Other</button>
+                                  </div>
+                                  <div className="crypto-banner">
+                                    <strong>Fast deposits with crypto</strong>
+                                    <span>Choose Crypto, Changelly or Bitcoin Lightning.</span>
+                                  </div>
                                   <div className="method-grid">
                                     {saved && (
                                       <button
@@ -714,6 +741,7 @@ export default function App() {
                                             type: "method",
                                             method: "saved",
                                           });
+                                          setPaymentChoice("card");
                                           setCard(emptyCard());
                                         }}
                                       >
@@ -727,37 +755,25 @@ export default function App() {
                                         </span>
                                       </button>
                                     )}
-                                    <button
-                                      className={`choice ${flow.method === "new" ? "chosen" : ""}`}
-                                      aria-pressed={flow.method === "new"}
-                                      onClick={() => {
-                                        dispatch({
-                                          type: "method",
-                                          method: "new",
-                                        });
-                                        setCard(emptyCard());
-                                      }}
-                                    >
-                                      <CreditCard size={26} />
-                                      <strong>
-                                        {saved
-                                          ? "Use a different card"
-                                          : "Debit / credit card"}
-                                      </strong>
-                                      <small>Visa & Mastercard</small>
-                                      <span className="choice-check">
-                                        {flow.method === "new" ? (
-                                          <Check size={15} />
-                                        ) : null}
-                                      </span>
-                                    </button>
-                                  </div>
-                                  <div className="notice">
-                                    <ShieldCheck size={17} />
-                                    <span>
-                                      Your card details are entered at the final
-                                      step.
-                                    </span>
+                                    {paymentMethods.map((method) => (
+                                      <button
+                                        key={method.id}
+                                        className={`choice method-choice ${paymentChoice === method.id && flow.method === "new" ? "chosen" : ""}`}
+                                        aria-pressed={paymentChoice === method.id && flow.method === "new"}
+                                        onClick={() => {
+                                          dispatch({ type: "method", method: "new" });
+                                          setPaymentChoice(method.id);
+                                          setCard(emptyCard());
+                                        }}
+                                      >
+                                        <span className="method-mark" aria-hidden="true">{method.mark}</span>
+                                        <strong>{saved && method.id === "card" ? "Use a different card" : method.name}</strong>
+                                        <small>{method.detail}</small>
+                                        <span className="choice-check">
+                                          {paymentChoice === method.id && flow.method === "new" ? <Check size={15} /> : null}
+                                        </span>
+                                      </button>
+                                    ))}
                                   </div>
                                   <div className="actions">
                                     <Button
@@ -1063,7 +1079,7 @@ export default function App() {
                                       {amountIssue}
                                     </p>
                                   )}
-                                  <div className="demo-notice">
+                                  {paymentChoice === "card" && <div className="demo-notice">
                                     <button
                                       className="text-button"
                                       aria-label="Fill demo details"
@@ -1079,8 +1095,16 @@ export default function App() {
                                       >
                                       Fill card details
                                     </button>
-                                  </div>
-                                  {flow.method === "new" ? (
+                                  </div>}
+                                  {paymentChoice !== "card" ? (
+                                    <div className="provider-handoff">
+                                      <span className="method-mark">{paymentMethods.find((method) => method.id === paymentChoice)?.mark}</span>
+                                      <div>
+                                        <strong>{paymentMethods.find((method) => method.id === paymentChoice)?.name}</strong>
+                                        <p>You’ll continue securely with this payment provider.</p>
+                                      </div>
+                                    </div>
+                                  ) : flow.method === "new" ? (
                                     <>
                                       <Field
                                         label="Name on card"
@@ -1118,7 +1142,7 @@ export default function App() {
                                       </button>
                                     </div>
                                   )}
-                                  <div className="form-row">
+                                  {paymentChoice === "card" && <div className="form-row">
                                     {flow.method === "new" && (
                                       <Field
                                         label="Expiry date"
@@ -1148,8 +1172,8 @@ export default function App() {
                                         e: React.ChangeEvent<HTMLInputElement>,
                                       ) => changeCard("cvv", e.target.value)}
                                     />
-                                  </div>
-                                  <div className="billing">
+                                  </div>}
+                                  {paymentChoice === "card" && <div className="billing">
                                     <div className="row">
                                       <strong>Billing address</strong>
                                       {!editingAddress && (
@@ -1254,7 +1278,7 @@ export default function App() {
                                         {address.zip} · {address.country}
                                       </p>
                                     )}
-                                  </div>
+                                  </div>}
                                   {errors.address && (
                                     <p role="alert" className="error">
                                       {errors.address}
