@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 62" role="img" aria-labelledby="title">
+  <title id="title">Reels Grande</title>
+  <g fill="none" stroke="#fff" stroke-width="2">
+    <rect x="2" y="2" width="80" height="28" rx="2"/>
+    <rect x="2" y="32" width="102" height="28" rx="2"/>
+  </g>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="2">
+    <text x="8" y="23" font-size="20">REELS</text>
+    <text x="8" y="54" font-size="18">GRANDE</text>
+  </g>
+  <path fill="#fff" d="M92 6a9 9 0 1 1 0 18 9 9 0 0 1 0-18Zm-2 18h4v9h-4z"/>
+</svg>
