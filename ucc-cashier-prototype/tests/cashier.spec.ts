@@ -143,7 +143,7 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await page.getByRole("button", { name: "Apply presets" }).click();
   await page.getByLabel("Selected amount").fill("72.5");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
-  await page.getByRole("button", { name: /Use a different card/ }).click();
+  await page.getByRole("button", { name: /Add a new card/ }).click();
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   await expect(page.getByLabel("Custom amount (USD)")).toHaveValue("72.5");

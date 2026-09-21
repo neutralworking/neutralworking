@@ -44,14 +44,12 @@ const games = [
   "Book of Gold",
 ];
 const paymentMethods = [
-  { id: "card", mark: "▰", name: "Cards", detail: "Visa & Mastercard" },
-  { id: "apple", mark: "●", name: "Apple Pay", detail: "Pay with Apple Pay" },
-  { id: "google", mark: "G", name: "Google Pay", detail: "Pay with Google Pay" },
-  { id: "crypto", mark: "₿", name: "Crypto", detail: "BTC, LTC & USDT" },
-  { id: "changelly", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
-  { id: "cashapp", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
-  { id: "rewards", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
+  { id: "crypto", group: "crypto", mark: "₿", name: "Crypto", detail: "BTC, LTC & USDT" },
+  { id: "changelly", group: "crypto", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
+  { id: "cashapp", group: "other", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
+  { id: "rewards", group: "other", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
 ] as const;
+type PaymentGroup = "cards" | "crypto" | "other";
 function Button({
   children,
   onClick,
@@ -131,7 +129,8 @@ export default function App() {
     [hostPage, setHostPage] = useState("Lobby"),
     [menu, setMenu] = useState(false),
     [search, setSearch] = useState("");
-  const [paymentChoice, setPaymentChoice] = useState("card");
+  const [paymentChoice, setPaymentChoice] = useState("card"),
+    [paymentGroup, setPaymentGroup] = useState<PaymentGroup>("cards");
   const [receipt, setReceipt] = useState<{
     amount: number;
     bonus: string | null;
@@ -175,6 +174,7 @@ export default function App() {
     setDebugError("");
     setSection("Deposit");
     setPaymentChoice("card");
+    setPaymentGroup("cards");
   }
   function launch(code?: string) {
     entry.current = document.activeElement as HTMLElement;
@@ -322,6 +322,8 @@ export default function App() {
                   const value = e.target.value === "saved";
                   setSaved(value);
                   dispatch({ type: "method", method: value ? "saved" : "new" });
+                  setPaymentGroup("cards");
+                  setPaymentChoice("card");
                   setCard(emptyCard());
                   setErrors({});
                 }}
@@ -677,10 +679,6 @@ export default function App() {
             <div className="cashier-content">
               {section === "Deposit" && !result ? (
                 <>
-                  <div className="content-intro">
-                    <h3>Make a deposit</h3>
-                    <span>USD</span>
-                  </div>
                   <fieldset disabled={processing} className="flow-fields">
                     {steps.map((title, index) => {
                       const i = index as Step,
@@ -722,58 +720,101 @@ export default function App() {
                             <div className="step-body" id={`step-${i}`}>
                               {i === 0 && (
                                 <>
-                                  <div className="payment-groups" aria-label="Payment categories">
-                                    <button className="active">Cards</button>
-                                    <button>Crypto</button>
-                                    <button>Other</button>
-                                  </div>
-                                  <div className="crypto-banner">
-                                    <strong>Fast deposits with crypto</strong>
-                                    <span>Choose Crypto, Changelly or Bitcoin Lightning.</span>
+                                  <div
+                                    className="payment-groups"
+                                    aria-label="Payment categories"
+                                  >
+                                    {(["cards", "crypto", "other"] as const).map(
+                                      (group) => (
+                                        <button
+                                          key={group}
+                                          className={
+                                            paymentGroup === group ? "active" : ""
+                                          }
+                                          aria-pressed={paymentGroup === group}
+                                          onClick={() => {
+                                            setPaymentGroup(group);
+                                            dispatch({ type: "method", method: "new" });
+                                            setPaymentChoice(
+                                              group === "cards"
+                                                ? "card"
+                                                : group === "crypto"
+                                                  ? "crypto"
+                                                  : "cashapp",
+                                            );
+                                            setCard(emptyCard());
+                                          }}
+                                        >
+                                          {group[0].toUpperCase() + group.slice(1)}
+                                        </button>
+                                      ),
+                                    )}
                                   </div>
                                   <div className="method-grid">
-                                    {saved && (
-                                      <button
-                                        className={`choice ${flow.method === "saved" ? "chosen" : ""}`}
-                                        aria-pressed={flow.method === "saved"}
-                                        onClick={() => {
-                                          dispatch({
-                                            type: "method",
-                                            method: "saved",
-                                          });
-                                          setPaymentChoice("card");
-                                          setCard(emptyCard());
-                                        }}
-                                      >
-                                        <span className="visa">VISA</span>
-                                        <strong>Visa •••• 4242</strong>
-                                        <small>Last used · expires 12/30</small>
-                                        <span className="choice-check">
-                                          {flow.method === "saved" ? (
-                                            <Check size={15} />
-                                          ) : null}
-                                        </span>
-                                      </button>
+                                    {paymentGroup === "cards" ? (
+                                      <>
+                                        {saved && (
+                                          <button
+                                            className={`choice ${flow.method === "saved" ? "chosen" : ""}`}
+                                            aria-pressed={flow.method === "saved"}
+                                            onClick={() => {
+                                              dispatch({ type: "method", method: "saved" });
+                                              setPaymentChoice("card");
+                                              setCard(emptyCard());
+                                            }}
+                                          >
+                                            <span className="card-brands" aria-hidden="true">
+                                              <b>VISA</b><b>MC</b><b>AMEX</b><b>DISCOVER</b>
+                                            </span>
+                                            <strong>Visa •••• 4242</strong>
+                                            <small>Last used · expires 12/30</small>
+                                            <span className="choice-check">
+                                              {flow.method === "saved" ? <Check size={15} /> : null}
+                                            </span>
+                                          </button>
+                                        )}
+                                        <button
+                                          className={`choice ${flow.method === "new" ? "chosen" : ""}`}
+                                          aria-pressed={flow.method === "new"}
+                                          onClick={() => {
+                                            dispatch({ type: "method", method: "new" });
+                                            setPaymentChoice("card");
+                                            setCard(emptyCard());
+                                          }}
+                                        >
+                                          <span className="card-brands" aria-label="Visa, Mastercard, American Express and Discover accepted">
+                                            <b>VISA</b><b>MC</b><b>AMEX</b><b>DISCOVER</b>
+                                          </span>
+                                          <strong>Add a new card</strong>
+                                          <small>Enter card details securely</small>
+                                          <span className="choice-check">
+                                            {flow.method === "new" ? <Check size={15} /> : null}
+                                          </span>
+                                        </button>
+                                      </>
+                                    ) : (
+                                      paymentMethods
+                                        .filter((method) => method.group === paymentGroup)
+                                        .map((method) => (
+                                          <button
+                                            key={method.id}
+                                            className={`choice method-choice ${paymentChoice === method.id ? "chosen" : ""}`}
+                                            aria-pressed={paymentChoice === method.id}
+                                            onClick={() => {
+                                              dispatch({ type: "method", method: "new" });
+                                              setPaymentChoice(method.id);
+                                              setCard(emptyCard());
+                                            }}
+                                          >
+                                            <span className="method-mark" aria-hidden="true">{method.mark}</span>
+                                            <strong>{method.name}</strong>
+                                            <small>{method.detail}</small>
+                                            <span className="choice-check">
+                                              {paymentChoice === method.id ? <Check size={15} /> : null}
+                                            </span>
+                                          </button>
+                                        ))
                                     )}
-                                    {paymentMethods.map((method) => (
-                                      <button
-                                        key={method.id}
-                                        className={`choice method-choice ${paymentChoice === method.id && flow.method === "new" ? "chosen" : ""}`}
-                                        aria-pressed={paymentChoice === method.id && flow.method === "new"}
-                                        onClick={() => {
-                                          dispatch({ type: "method", method: "new" });
-                                          setPaymentChoice(method.id);
-                                          setCard(emptyCard());
-                                        }}
-                                      >
-                                        <span className="method-mark" aria-hidden="true">{method.mark}</span>
-                                        <strong>{saved && method.id === "card" ? "Use a different card" : method.name}</strong>
-                                        <small>{method.detail}</small>
-                                        <span className="choice-check">
-                                          {paymentChoice === method.id && flow.method === "new" ? <Check size={15} /> : null}
-                                        </span>
-                                      </button>
-                                    ))}
                                   </div>
                                   <div className="actions">
                                     <Button
@@ -1305,6 +1346,20 @@ export default function App() {
                       );
                     })}
                   </fieldset>
+                  <aside
+                    className="cashier-trust"
+                    aria-label="Payment security"
+                  >
+                    <ShieldCheck size={20} />
+                    <div>
+                      <strong>Secure and private payments</strong>
+                      <p>
+                        Payment details are encrypted and used only to process
+                        your transaction. Need help? Contact Support at any step.
+                      </p>
+                    </div>
+                    <small>18+ · Play responsibly</small>
+                  </aside>
                   {processing && (
                     <p className="processing" role="status">
                       Processing your deposit. Please wait…
@@ -1452,6 +1507,57 @@ export default function App() {
               )}
             </div>
           </div>
+          <nav
+            className="mobile-nav cashier-mobile-nav"
+            aria-label="Main navigation"
+          >
+            <button
+              onClick={() => {
+                close();
+                setHostPage("Lobby");
+              }}
+            >
+              <Home size={20} />
+              Lobby
+            </button>
+            <button
+              onClick={() => {
+                close();
+                setHostPage("Promotions");
+              }}
+            >
+              <Gift size={20} />
+              Promos
+            </button>
+            <button
+              className="wallet-nav"
+              onClick={() => {
+                setSection("Deposit");
+                setResult(null);
+              }}
+            >
+              <Wallet size={21} />
+              {money(balance)}
+            </button>
+            <button
+              onClick={() => {
+                close();
+                setHostPage("Inbox");
+              }}
+            >
+              <Inbox size={20} />
+              Inbox
+            </button>
+            <button
+              onClick={() => {
+                close();
+                setHostPage("My Account");
+              }}
+            >
+              <User size={20} />
+              Account
+            </button>
+          </nav>
           {debugPanel}
         </dialog>
       )}

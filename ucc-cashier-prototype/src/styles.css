@@ -634,19 +634,19 @@ fieldset {
 }
 .cashier-nav {
   width: 100%;
-  height: 52px;
+  height: 44px;
   flex-direction: row;
   align-items: stretch;
   border-right: 0;
   border-bottom: 1px solid var(--border);
-  padding: 4px 8px;
+  padding: 3px 8px;
   gap: 2px;
 }
 .cashier-nav > button {
   flex: 1;
   justify-content: center;
   padding: 6px 4px;
-  min-height: 40px;
+  min-height: 36px;
   font-size: 10px;
 }
 .cashier-nav .back-games,
@@ -791,11 +791,13 @@ fieldset {
 }
 .payment-groups {
   display: flex;
+  justify-content: center;
+  gap: 30px;
   border-bottom: 1px solid var(--border);
   margin: -2px 0 12px;
 }
 .payment-groups button {
-  min-width: 92px;
+  min-width: 72px;
   min-height: 38px;
   padding: 8px 15px;
   color: #73766e;
@@ -807,18 +809,26 @@ fieldset {
   color: var(--ink);
   border-bottom-color: var(--ink);
 }
-.crypto-banner {
+.card-brands {
   display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 12px;
-  margin-bottom: 12px;
-  background: #f3f3ef;
-  border: 1px solid #e0e1db;
-  font-size: 10px;
-  color: #767a70;
+  flex-wrap: wrap;
+  gap: 4px;
+  padding-right: 22px;
 }
-.crypto-banner strong { color: var(--ink); font-size: 11px; }
+.card-brands b {
+  display: inline-grid;
+  min-width: 30px;
+  min-height: 21px;
+  padding: 3px 5px;
+  place-items: center;
+  border: 1px solid #aeb1a8;
+  border-radius: 3px;
+  background: #fff;
+  color: #4f534a;
+  font-size: 8px;
+  font-weight: 800;
+  line-height: 1;
+}
 .provider-handoff {
   display: flex;
   align-items: center;
@@ -1117,6 +1127,37 @@ fieldset {
   align-items: center;
   gap: 5px;
   margin: 15px 0 3px;
+}
+.cashier-trust {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 10px;
+  margin-top: 12px;
+  padding: 11px 13px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #f7f7f4;
+  color: #656a5f;
+}
+.cashier-trust > svg {
+  color: #56634e;
+}
+.cashier-trust strong {
+  display: block;
+  color: var(--ink);
+  font-size: 11px;
+}
+.cashier-trust p,
+.cashier-trust small {
+  font-size: 9px;
+  line-height: 1.45;
+}
+.cashier-trust small {
+  white-space: nowrap;
+}
+.cashier-mobile-nav {
+  display: none;
 }
 .result {
   padding: 30px 10px;
@@ -1470,12 +1511,13 @@ fieldset {
     max-height: none;
     height: calc(100dvh - 74px);
     border-radius: 0;
-    padding-bottom: calc(57px + env(safe-area-inset-bottom));
+    padding-bottom: calc(68px + env(safe-area-inset-bottom));
   }
   .cashier-nav {
     width: 100%;
     flex-direction: row;
-    padding: 5px 12px;
+    height: 40px;
+    padding: 3px 10px;
     gap: 3px;
     border-right: 0;
     border-bottom: 1px solid var(--border);
@@ -1483,10 +1525,10 @@ fieldset {
     justify-content: space-between;
   }
   .cashier-nav > button {
-    font-size: 11px;
-    padding: 8px;
-    gap: 5px;
-    min-height: 44px;
+    font-size: 10px;
+    padding: 4px 6px;
+    gap: 4px;
+    min-height: 34px;
   }
   .cashier-nav svg {
     width: 14px;
@@ -1496,38 +1538,63 @@ fieldset {
     display: none;
   }
   .cashier-content {
-    padding: 17px 14px 14px;
+    padding: 12px 14px 14px;
     scrollbar-gutter: auto;
   }
   .flow-fields {
-    display: block;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0 4px;
   }
   .flow-fields .step {
-    display: block;
+    display: contents;
   }
   .flow-fields .step-heading {
     display: flex;
-    border: 0;
-    border-radius: 0;
+    grid-row: 1;
+    border: 1px solid var(--border);
+    border-radius: 5px 5px 0 0;
     margin-bottom: 0;
   }
   .flow-fields .step-body {
+    grid-column: 1 / -1;
+    grid-row: 2;
     min-height: 0;
-    border: 0;
-    border-radius: 0;
-  }
-  .content-intro {
-    margin-bottom: 14px;
-  }
-  .content-intro h3 {
-    font-size: 16px;
+    border: 1px solid #a7aba0;
+    border-top: 0;
+    border-radius: 0 0 6px 6px;
   }
   .step-body {
     padding: 13px;
   }
   .step-heading {
-    padding: 12px;
-    min-height: 53px;
+    gap: 5px;
+    padding: 7px 5px;
+    min-height: 46px;
+  }
+  .flow-fields .step-heading .step-title {
+    font-size: 9px;
+    line-height: 1.15;
+    white-space: normal;
+  }
+  .flow-fields .step-heading small {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .flow-fields .step-heading > svg {
+    display: none;
+  }
+  .step-number {
+    width: 19px;
+    height: 19px;
+    font-size: 9px;
   }
   .method-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1566,7 +1633,7 @@ fieldset {
   }
   .cashier-dialog > .review-controls {
     left: 0;
-    bottom: 0;
+    bottom: calc(62px + env(safe-area-inset-bottom));
     right: 0;
     padding: 7px 14px max(7px, env(safe-area-inset-bottom));
     background: #f5f5f1;
@@ -1583,7 +1650,7 @@ fieldset {
   }
   .cashier-dialog .review-panel {
     left: 12px;
-    bottom: 58px;
+    bottom: calc(120px + env(safe-area-inset-bottom));
     max-height: calc(100dvh - 145px);
     width: min(300px, calc(100vw - 24px));
   }
@@ -1608,6 +1675,18 @@ fieldset {
   .cashier-footnote {
     font-size: 9px;
     margin-top: 17px;
+  }
+  .cashier-trust {
+    grid-template-columns: auto 1fr;
+    margin-top: 9px;
+    padding: 9px 10px;
+  }
+  .cashier-trust small {
+    grid-column: 2;
+  }
+  .cashier-mobile-nav {
+    display: flex;
+    z-index: 4;
   }
   .transaction {
     gap: 8px;
