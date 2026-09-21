@@ -23,6 +23,18 @@ async function noBonus(page: Page) {
 async function debug(page: Page) {
   await page.getByRole("button", { name: "Prototype controls" }).click();
 }
+async function enterCustomAmount(page: Page, amount: string) {
+  const field = page.getByLabel("Enter custom amount");
+  if (!(await field.isVisible())) {
+    await page.getByRole("button", { name: /Custom\s*Amount/ }).click();
+  }
+  await field.fill(amount);
+}
+async function fillDemoCard(page: Page) {
+  await page.getByLabel("Card number", { exact: true }).fill("4242 4242 4242 4242");
+  await page.getByLabel("MM / YY").fill("12/30");
+  await page.getByLabel("CVV").fill("123");
+}
 test("new card: validation, address edit, successful deposit and balance", async ({
   page,
 }, info) => {
@@ -35,14 +47,14 @@ test("new card: validation, address edit, successful deposit and balance", async
     .first()
     .click();
   await page.getByRole("button", { name: "See more details" }).click();
-  await expect(page.getByText(/30× playthrough/)).toBeVisible();
+  await expect(page.getByText(/No playthrough requirement/)).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await page.getByLabel(/amount \(USD\)/).fill("5");
+  await enterCustomAmount(page, "5");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(
-    page.getByText("Minimum deposit $30.00 with SPINFEVER."),
+    page.getByText("Minimum deposit $30.00 with KICKSTARTER."),
   ).toBeVisible();
-  await page.getByLabel(/amount \(USD\)/).fill("64.25");
+  await enterCustomAmount(page, "64.25");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await page
     .getByRole("button", { name: "Deposit $64.25", exact: true })
@@ -50,14 +62,14 @@ test("new card: validation, address edit, successful deposit and balance", async
   await expect(
     page.getByText("Use the demo card 4242 4242 4242 4242."),
   ).toBeVisible();
-  await page.getByRole("button", { name: "Update address" }).click();
+  await page.getByRole("button", { name: "Edit" }).click();
   await page.getByLabel("Street address").fill("");
   await page.getByRole("button", { name: "Save address" }).click();
   await expect(page.getByText("This field is required.")).toBeVisible();
   await page.getByLabel("Street address").fill("42 Sample Avenue");
   await page.getByRole("button", { name: "Save address" }).click();
   await expect(page.getByText("42 Sample Avenue")).toBeVisible();
-  await page.getByRole("button", { name: "Fill demo details" }).click();
+  await fillDemoCard(page);
   await page.screenshot({ path: `docs/${info.project.name}-details.png` });
   await page
     .getByRole("button", { name: "Deposit $64.25", exact: true })
@@ -79,29 +91,29 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   await page.getByLabel("Coupon code", { exact: true }).fill("NOPE");
   await page.getByRole("button", { name: "Apply coupon" }).click();
   await expect(page.getByText(/This coupon is not available/)).toBeVisible();
-  await page.locator("#coupon-code").fill(" bandits400 ");
+  await page.locator("#coupon-code").fill(" bigwin420 ");
   await page.getByRole("button", { name: "Apply coupon" }).click();
-  await expect(page.getByRole("heading", { name: "BANDITS400" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "BIGWIN420" })).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(
-    page.getByText("Minimum deposit $89.00 with BANDITS400."),
+    page.getByText("Minimum deposit $99.00 with BIGWIN420."),
   ).toBeVisible();
-  await page.getByRole("button", { name: /Bonus BANDITS400/ }).click();
+  await page.getByRole("button", { name: /Bonus BIGWIN420/ }).click();
   await page.getByRole("button", { name: "Cancel coupon" }).click();
   await page.getByRole("button", { name: "Keep coupon" }).click();
-  await expect(page.getByRole("heading", { name: "BANDITS400" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "BIGWIN420" })).toBeVisible();
   await page.getByRole("button", { name: "Cancel coupon" }).click();
   await page.getByRole("button", { name: "Remove coupon" }).click();
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   for (const amount of ["9", "2001", "12.345", "abc"]) {
-    await page.getByLabel(/amount \(USD\)/).fill(amount);
+    await enterCustomAmount(page, amount);
     await page.getByRole("button", { name: "Continue", exact: true }).click();
     await expect(page.locator(".field .error")).toBeVisible();
   }
-  await page.getByLabel(/amount \(USD\)/).fill("10");
+  await enterCustomAmount(page, "10");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await expect(page.getByText("No bonus", { exact: true })).toBeVisible();
+  await expect(page.getByLabel("Card number", { exact: true })).toBeVisible();
 });
 test("saved card decline, retry and pending without crediting balance", async ({
   page,
@@ -115,9 +127,8 @@ test("saved card decline, retry and pending without crediting balance", async ({
     page.getByRole("button", { name: /Visa.*Last used/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await noBonus(page);
-  await expect(page.getByText("Visa ending in 4242")).toBeVisible();
+  await expect(page.getByText("Visa ••5602")).toBeVisible();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
-  await page.getByLabel("Security code").fill("123");
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
@@ -127,8 +138,6 @@ test("saved card decline, retry and pending without crediting balance", async ({
   await page.getByLabel("Payment outcome").selectOption("pending");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
   await page.getByRole("button", { name: "Retry by card" }).click();
-  await expect(page.getByLabel("Security code")).toHaveValue("");
-  await page.getByLabel("Security code").fill("123");
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
@@ -148,7 +157,7 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await page.getByRole("button", { name: /Add new credit card/ }).click();
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
-  await expect(page.getByLabel("Custom amount (USD)")).toHaveValue("72.5");
+  await expect(page.getByLabel("Enter custom amount")).toHaveValue("72.5");
   await expect(
     page.getByRole("button", { name: "$40", exact: true }),
   ).toBeVisible();
@@ -160,7 +169,7 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await debug(page);
   await page.getByRole("button", { name: "Reset scenario" }).click();
   await expect(page.getByLabel("Selected amount")).toHaveValue("50");
-  await expect(page.getByLabel("Amount presets")).toHaveValue("30, 50, 100");
+  await expect(page.getByLabel("Amount presets")).toHaveValue("20, 30, 50");
   await expect(page.locator(".cashier-balance")).toContainText("$24.50");
 });
 test("promo context, close clears card but keeps draft, focus and responsive bounds", async ({
@@ -170,10 +179,10 @@ test("promo context, close clears card but keeps draft, focus and responsive bou
   const claim = page.getByRole("button", { name: "Claim offer" });
   await claim.click();
   await next(page);
-  await expect(page.getByRole("heading", { name: "SPINFEVER" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "KICKSTARTER" })).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await page.getByRole("button", { name: "Fill demo details" }).click();
+  await fillDemoCard(page);
   await page.getByRole("button", { name: "Close cashier" }).click();
   await expect(claim).toBeFocused();
   const launch = page.getByRole("button", {
@@ -186,7 +195,7 @@ test("promo context, close clears card but keeps draft, focus and responsive bou
     page.getByRole("button", { name: "Deposit $50.00", exact: true }),
   ).toBeVisible();
   await expect(
-    page.getByRole("button", { name: /Bonus SPINFEVER/ }),
+    page.getByRole("button", { name: /Bonus KICKSTARTER/ }),
   ).toBeVisible();
   const bounds = await page.getByRole("dialog").boundingBox();
   const viewport = page.viewportSize()!;
@@ -223,16 +232,16 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
     .nth(1)
     .click();
   await page.getByRole("button", { name: /Payment Details/ }).click();
-  await page.getByRole("button", { name: "Fill demo details" }).click();
+  await fillDemoCard(page);
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
   await expect(
-    page.getByText("Minimum deposit $89.00 with BANDITS400."),
+    page.getByText("Minimum deposit $99.00 with BIGWIN420."),
   ).toBeVisible();
-  await page.getByLabel(/amount \(USD\)/).fill("99");
+  await enterCustomAmount(page, "99");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await page.getByRole("button", { name: "Fill demo details" }).click();
+  await fillDemoCard(page);
   await page
     .getByRole("button", { name: "Deposit $99.00", exact: true })
     .click();

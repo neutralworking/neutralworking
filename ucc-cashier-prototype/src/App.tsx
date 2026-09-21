@@ -140,8 +140,8 @@ export default function App() {
   const [address, setAddress] = useState<Address>(initialAddress),
     [draftAddress, setDraftAddress] = useState<Address>(initialAddress),
     [editingAddress, setEditingAddress] = useState(false);
-  const [presets, setPresets] = useState([30, 50, 100]),
-    [presetText, setPresetText] = useState("30, 50, 100"),
+  const [presets, setPresets] = useState([20, 30, 50]),
+    [presetText, setPresetText] = useState("20, 30, 50"),
     [debugError, setDebugError] = useState("");
   const [outcome, setOutcome] = useState<Outcome>("success"),
     [result, setResult] = useState<Outcome | null>(null),
@@ -190,8 +190,8 @@ export default function App() {
     setBalance(24.5);
     setTransactions([]);
     setReceipt(null);
-    setPresets([30, 50, 100]);
-    setPresetText("30, 50, 100");
+    setPresets([20, 30, 50]);
+    setPresetText("20, 30, 50");
     setOutcome("success");
     setCoupon("");
     setCouponOpen(false);
@@ -254,7 +254,7 @@ export default function App() {
     if (!found) {
       setCouponError(
         code
-          ? "This coupon is not available. Try SPINFEVER or BANDITS400."
+          ? "This coupon is not available. Try KICKSTARTER or BIGWIN420."
           : "Enter a coupon code.",
       );
       return;
@@ -307,7 +307,7 @@ export default function App() {
   const summary = [
     paymentChoice === "card"
       ? flow.method === "saved"
-        ? "Visa •••• 4242"
+        ? "Visa •••• 5602"
         : "Cards"
       : paymentMethods.find((method) => method.id === paymentChoice)?.name ??
         "Payment method",
@@ -517,7 +517,7 @@ export default function App() {
                     <span className="eyebrow">WELCOME OFFER</span>
                     <h2>GET 150%<br />NO RULES BONUS</h2>
                     <p>Take all your winnings home. No limits.</p>
-                    <Button primary aria-label="Claim offer" onClick={() => launch("SPINFEVER")}>
+                    <Button primary aria-label="Claim offer" onClick={() => launch("KICKSTARTER")}>
                       CLAIM NOW
                     </Button>
                   </div>
@@ -796,7 +796,7 @@ export default function App() {
                                             <h4>Your last used credit card</h4>
                                             <button
                                               className={`card-method-row saved-card-row ${flow.method === "saved" ? "chosen" : ""}`}
-                                              aria-label="Visa •••• 4242 Last used credit card"
+                                              aria-label="Visa •••• 5602 Last used credit card"
                                               aria-pressed={flow.method === "saved"}
                                               onClick={() => {
                                                 dispatch({ type: "method", method: "saved" });
@@ -806,7 +806,7 @@ export default function App() {
                                             >
                                               <span className="selection-circle"><Check size={14} /></span>
                                               <b>VISA</b>
-                                              <strong>•••• 4242</strong>
+                                              <strong>•••• 5602</strong>
                                               <span className="change-card-label">Change card</span>
                                             </button>
                                             <h4 className="different-card-title">Use a different card</h4>
@@ -952,56 +952,53 @@ export default function App() {
                                     </div>
                                   ) : (
                                     <>
-                                      <p className="muted">
-                                        Pick a little extra, or keep it simple.
-                                      </p>
+                                      <h3 className="flow-section-title">
+                                        Choose a bonus or coupon
+                                        <span aria-hidden="true">ⓘ</span>
+                                      </h3>
                                       <div className="offers">
                                         {offers.map((o) => (
                                           <article
                                             className="offer"
                                             key={o.code}
                                           >
-                                            <div className="offer-icon">
-                                              <Gift size={21} />
+                                            <button
+                                              className="offer-info"
+                                              aria-label={`Details for ${o.code}`}
+                                              onClick={() =>
+                                                setTerms(
+                                                  terms === o.code
+                                                    ? null
+                                                    : o.code,
+                                                )
+                                              }
+                                            >
+                                              ⓘ
+                                            </button>
+                                            <div className="offer-image" aria-hidden="true">
+                                              <span>▧</span>
                                             </div>
                                             <div className="offer-copy">
-                                              <span className="eyebrow">
-                                                {o.code}
-                                              </span>
                                               <h3>{o.title}</h3>
-                                              <p>
-                                                Min. deposit {money(o.minimum)}
-                                              </p>
-                                              <button
-                                                className="text-button"
-                                                onClick={() =>
-                                                  setTerms(
-                                                    terms === o.code
-                                                      ? null
-                                                      : o.code,
-                                                  )
-                                                }
-                                                aria-label={`Details for ${o.code}`}
+                                              <Button
+                                                aria-label="Select"
+                                                onClick={() => {
+                                                  dispatch({
+                                                    type: "bonus",
+                                                    code: o.code,
+                                                  });
+                                                  setTerms(null);
+                                                }}
                                               >
-                                                Offer details
-                                              </button>
+                                                {o.code}
+                                              </Button>
+                                              <p>Min. Deposit: {money(o.minimum).replace(".00", "")}</p>
                                               {terms === o.code && (
                                                 <p className="terms">
                                                   {o.terms}
                                                 </p>
                                               )}
                                             </div>
-                                            <Button
-                                              onClick={() => {
-                                                dispatch({
-                                                  type: "bonus",
-                                                  code: o.code,
-                                                });
-                                                setTerms(null);
-                                              }}
-                                            >
-                                              Select
-                                            </Button>
                                           </article>
                                         ))}
                                       </div>
@@ -1016,8 +1013,7 @@ export default function App() {
                                           setCouponOpen(!couponOpen)
                                         }
                                       >
-                                        <Gift size={17} />I have a coupon code{" "}
-                                        <ChevronDown size={15} />
+                                        I have a coupon code
                                       </button>
                                       {couponOpen && (
                                         <div className="coupon-entry">
@@ -1040,7 +1036,6 @@ export default function App() {
                                     </>
                                   )}
                                   <div className="actions">
-                                    <Button onClick={() => go(0)}>Back</Button>
                                     {offer ? (
                                       <Button
                                         primary
@@ -1051,8 +1046,8 @@ export default function App() {
                                         Continue <ArrowRight size={16} />
                                       </Button>
                                     ) : (
-                                      <Button
-                                        primary
+                                      <button
+                                        className="deposit-without"
                                         onClick={() => {
                                           dispatch({
                                             type: "bonus",
@@ -1061,27 +1056,17 @@ export default function App() {
                                           dispatch({ type: "advance" });
                                         }}
                                       >
-                                        Deposit without bonus{" "}
-                                        <ArrowRight size={16} />
-                                      </Button>
+                                        Deposit without bonus
+                                      </button>
                                     )}
                                   </div>
                                 </>
                               )}
                               {i === 2 && (
                                 <>
-                                  <p className="muted">
-                                    How much would you like to deposit?
-                                  </p>
-                                  {offer && (
-                                    <div className="notice">
-                                      <Gift size={17} />
-                                      <span>
-                                        {offer.code} · minimum{" "}
-                                        {money(offer.minimum)}
-                                      </span>
-                                    </div>
-                                  )}
+                                  <h3 className="flow-section-title">
+                                    Select deposit amount
+                                  </h3>
                                   <div className="amount-presets">
                                     {presets.map((n) => (
                                       <button
@@ -1100,37 +1085,59 @@ export default function App() {
                                           setAmountTouched(true);
                                         }}
                                       >
-                                        {money(n).replace(".00", "")}
+                                        <span>{money(n).replace(".00", "")}</span>
+                                        {n === 50 && <small>Most Popular</small>}
                                       </button>
                                     ))}
+                                    <button
+                                      aria-pressed={
+                                        !presets.includes(Number(flow.amount))
+                                      }
+                                      className={
+                                        !presets.includes(Number(flow.amount))
+                                          ? "chosen"
+                                          : ""
+                                      }
+                                      onClick={() => {
+                                        dispatch({ type: "amount", value: "5" });
+                                        setAmountTouched(true);
+                                      }}
+                                    >
+                                      <span>Custom<br />Amount</span>
+                                      {!presets.includes(Number(flow.amount)) && (
+                                        <i className="preset-check"><Check size={13} /></i>
+                                      )}
+                                    </button>
                                   </div>
-                                  <Field
-                                    label={
-                                      presets.includes(Number(flow.amount))
-                                        ? "Deposit amount (USD)"
-                                        : "Custom amount (USD)"
-                                    }
-                                    inputMode="decimal"
-                                    value={flow.amount}
-                                    error={
-                                      amountTouched ? amountIssue : undefined
-                                    }
-                                    onChange={(
-                                      e: React.ChangeEvent<HTMLInputElement>,
-                                    ) => {
-                                      dispatch({
-                                        type: "amount",
-                                        value: e.target.value,
-                                      });
-                                      setAmountTouched(true);
-                                    }}
-                                  />
-                                  <small className="muted">
-                                    {money(Math.max(10, offer?.minimum ?? 0))}{" "}
-                                    minimum · $2,000 maximum
-                                  </small>
+                                  {amountTouched &&
+                                    amountIssue &&
+                                    presets.includes(Number(flow.amount)) && (
+                                    <p role="alert" className="error amount-error">
+                                      {amountIssue}
+                                    </p>
+                                  )}
+                                  {!presets.includes(Number(flow.amount)) && (
+                                    <div className="custom-amount-entry">
+                                      <Field
+                                        label="Enter custom amount"
+                                        inputMode="decimal"
+                                        value={flow.amount}
+                                        error={
+                                          amountTouched ? amountIssue : undefined
+                                        }
+                                        onChange={(
+                                          e: React.ChangeEvent<HTMLInputElement>,
+                                        ) => {
+                                          dispatch({
+                                            type: "amount",
+                                            value: e.target.value,
+                                          });
+                                          setAmountTouched(true);
+                                        }}
+                                      />
+                                    </div>
+                                  )}
                                   <div className="actions">
-                                    <Button onClick={() => go(1)}>Back</Button>
                                     <Button
                                       primary
                                       onClick={() => {
@@ -1139,7 +1146,7 @@ export default function App() {
                                           dispatch({ type: "advance" });
                                       }}
                                     >
-                                      Continue <ArrowRight size={16} />
+                                      Continue
                                     </Button>
                                   </div>
                                 </>
@@ -1147,48 +1154,11 @@ export default function App() {
                               {i === 3 && (
                                 <>
                                   <TrustPanel />
-                                  <div className="payment-summary">
-                                    <div>
-                                      <span>Deposit</span>
-                                      <strong>
-                                        {money(Number(flow.amount) || 0)}
-                                      </strong>
-                                    </div>
-                                    <div>
-                                      <span>Bonus</span>
-                                      <strong>
-                                        {offer?.code ?? "No bonus"}
-                                      </strong>
-                                    </div>
-                                    <button
-                                      className="text-button"
-                                      onClick={() => go(2)}
-                                    >
-                                      Edit amount
-                                    </button>
-                                  </div>
                                   {amountIssue && (
                                     <p role="alert" className="error">
                                       {amountIssue}
                                     </p>
                                   )}
-                                  {paymentChoice === "card" && <div className="demo-notice">
-                                    <button
-                                      className="text-button"
-                                      aria-label="Fill demo details"
-                                      onClick={() => {
-                                        setCard({
-                                          number: "4242 4242 4242 4242",
-                                          expiry: "12/30",
-                                          cvv: "123",
-                                          name: "Alex Morgan",
-                                        });
-                                        setErrors({});
-                                      }}
-                                      >
-                                      Fill card details
-                                    </button>
-                                  </div>}
                                   {paymentChoice !== "card" ? (
                                     <div className="provider-handoff">
                                       <span className="method-mark">{paymentMethods.find((method) => method.id === paymentChoice)?.mark}</span>
@@ -1200,19 +1170,10 @@ export default function App() {
                                   ) : flow.method === "new" ? (
                                     <>
                                       <Field
-                                        label="Name on card"
-                                        value={card.name}
-                                        autoComplete="off"
-                                        error={errors.name}
-                                        onChange={(
-                                          e: React.ChangeEvent<HTMLInputElement>,
-                                        ) => changeCard("name", e.target.value)}
-                                      />
-                                      <Field
                                         label="Card number"
                                         inputMode="numeric"
                                         autoComplete="off"
-                                        placeholder="4242 4242 4242 4242"
+                                        placeholder="Card number"
                                         maxLength={23}
                                         value={card.number}
                                         error={errors.number}
@@ -1222,24 +1183,10 @@ export default function App() {
                                           changeCard("number", e.target.value)
                                         }
                                       />
-                                    </>
-                                  ) : (
-                                    <div className="saved-summary">
-                                      <span className="visa">VISA</span>
-                                      <strong>Visa ending in 4242</strong>
-                                      <button
-                                        className="text-button"
-                                        onClick={() => go(0)}
-                                      >
-                                        Change card
-                                      </button>
-                                    </div>
-                                  )}
-                                  {paymentChoice === "card" && <div className="form-row">
-                                    {flow.method === "new" && (
+                                      <div className="form-row">
                                       <Field
-                                        label="Expiry date"
-                                        placeholder="MM/YY"
+                                        label="MM / YY"
+                                        placeholder="MM / YY"
                                         inputMode="numeric"
                                         maxLength={5}
                                         autoComplete="off"
@@ -1251,21 +1198,28 @@ export default function App() {
                                           changeCard("expiry", e.target.value)
                                         }
                                       />
-                                    )}
-                                    <Field
-                                      label="Security code"
-                                      type="password"
-                                      inputMode="numeric"
-                                      placeholder="123"
-                                      maxLength={4}
-                                      autoComplete="off"
-                                      value={card.cvv}
-                                      error={errors.cvv}
-                                      onChange={(
-                                        e: React.ChangeEvent<HTMLInputElement>,
-                                      ) => changeCard("cvv", e.target.value)}
-                                    />
-                                  </div>}
+                                        <Field
+                                          label="CVV"
+                                          type="password"
+                                          inputMode="numeric"
+                                          placeholder="CVV"
+                                          maxLength={4}
+                                          autoComplete="off"
+                                          value={card.cvv}
+                                          error={errors.cvv}
+                                          onChange={(
+                                            e: React.ChangeEvent<HTMLInputElement>,
+                                          ) => changeCard("cvv", e.target.value)}
+                                        />
+                                      </div>
+                                    </>
+                                  ) : (
+                                    <div className="saved-payment-summary">
+                                      <div><span>Payment Method</span><strong>Visa ••5602</strong></div>
+                                      <div><span>Bonus / Coupon</span><strong>{offer ? `${offer.code} (${offer.title.split("%")[0]}%)` : "No bonus"}</strong></div>
+                                      <div><span>Deposit Amount</span><strong>{money(Number(flow.amount) || 0)}</strong></div>
+                                    </div>
+                                  )}
                                   {paymentChoice === "card" && <div className="billing">
                                     <div className="row">
                                       <strong>Billing address</strong>
@@ -1277,7 +1231,7 @@ export default function App() {
                                             setEditingAddress(true);
                                           }}
                                         >
-                                          Update address
+                                          Edit
                                         </button>
                                       )}
                                     </div>
@@ -1367,8 +1321,9 @@ export default function App() {
                                       <p>
                                         {address.line}
                                         <br />
-                                        {address.city}, {address.region}{" "}
-                                        {address.zip} · {address.country}
+                                        {address.city}, {address.region} {address.zip}
+                                        <br />
+                                        {address.country}
                                       </p>
                                     )}
                                   </div>}
@@ -1378,7 +1333,6 @@ export default function App() {
                                     </p>
                                   )}
                                   <div className="actions">
-                                    <Button onClick={() => go(2)}>Back</Button>
                                     <Button
                                       primary
                                       disabled={processing}
@@ -1390,6 +1344,9 @@ export default function App() {
                                       <LockKeyhole size={15} />
                                     </Button>
                                   </div>
+                                  <p className="deposit-footnote">
+                                    Funds are credited to your account quickly.
+                                  </p>
                                 </>
                               )}
                             </div>

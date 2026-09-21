@@ -9,20 +9,20 @@ export type Offer = {
 };
 export const offers: Offer[] = [
   {
-    code: "SPINFEVER",
-    title: "150% bonus + 30 free spins",
+    code: "KICKSTARTER",
+    title: "450% NO RULES BONUS",
     minimum: 30,
-    description: "A little extra for your next session.",
+    description: "450% no rules deposit bonus.",
     terms:
-      "150% match up to $300. 30 spins on Midnight Reels. Bonus and winnings carry a 30× playthrough requirement. Available once per account; expires after 7 days. Synthetic terms for prototype review.",
+      "Minimum deposit $30. Up to 75 spins on 777. Maximum cashout is 15 times the deposit. No playthrough requirement. Slots and Keno only. Up to four redemptions.",
   },
   {
-    code: "BANDITS400",
-    title: "400% deposit bonus",
-    minimum: 89,
-    description: "Make more of your next deposit.",
+    code: "BIGWIN420",
+    title: "420% NO RULES BONUS",
+    minimum: 99,
+    description: "420% no rules deposit bonus.",
     terms:
-      "400% match up to $800. Bonus and winnings carry a 40× playthrough requirement. Available once per account; expires after 7 days. Synthetic terms for prototype review.",
+      "Minimum deposit $99. Bonus and winnings are subject to the displayed offer conditions. Slots and Keno only. Synthetic terms for prototype review.",
   },
 ];
 export const money = (n: number) =>
@@ -96,9 +96,9 @@ export function cardErrors(card: Card, saved: boolean): Record<string, string> {
     if (card.number.replace(/\s/g, "") !== "4242424242424242")
       errors.number = "Use the demo card 4242 4242 4242 4242.";
     if (card.expiry !== "12/30") errors.expiry = "Use the demo expiry 12/30.";
-    if (!card.name.trim()) errors.name = "Enter a name for this demo card.";
   }
-  if (card.cvv !== "123") errors.cvv = "Use the demo security code 123.";
+  if (!saved && card.cvv !== "123")
+    errors.cvv = "Use the demo security code 123.";
   return errors;
 }
 export type Address = {
@@ -109,10 +109,10 @@ export type Address = {
   country: string;
 };
 export const initialAddress = (): Address => ({
-  line: "120 Example Street",
-  city: "Austin",
-  region: "TX",
-  zip: "78701",
+  line: "Goamer 23",
+  city: "Miami",
+  region: "Florida",
+  zip: "12000",
   country: "United States",
 });
 export function simulatePayment(outcome: Outcome): Promise<Outcome> {
