@@ -732,13 +732,15 @@ export default function App() {
             Inbox
           </button>
         </nav>
-        <button
-          className="ucc-style-toggle"
-          aria-pressed={uccColour}
-          onClick={() => setUccColour((value) => !value)}
-        >
-          {uccColour ? "Monochrome view" : "Colour view"}
-        </button>
+        {!(open && flow.step === 1 && offer) && (
+          <button
+            className="ucc-style-toggle"
+            aria-pressed={uccColour}
+            onClick={() => setUccColour((value) => !value)}
+          >
+            {uccColour ? "Monochrome view" : "Colour view"}
+          </button>
+        )}
       </div>
       {open && (
         <>
@@ -1300,7 +1302,7 @@ export default function App() {
                               )}
                               {i === 3 && (
                                 <>
-                                  {!isCryptoPayment && <TrustPanel />}
+                                  {!isCryptoPayment && paymentChoice !== "card" && <TrustPanel />}
                                   {amountIssue && (
                                     <p role="alert" className="error">
                                       {amountIssue}
@@ -1387,11 +1389,59 @@ export default function App() {
                                       </div>
                                     </div>
                                   ) : flow.method === "new" ? (
-                                    <div className="saved-payment-summary">
-                                      <div><span>Payment Method</span><strong>Visa •••• 4242</strong></div>
-                                      <div><span>Bonus / Coupon</span><strong>{offer ? `${offer.code} (${offer.title.split("%")[0]}%)` : "No bonus"}</strong></div>
-                                      <div><span>Deposit Amount</span><strong>{money(Number(flow.amount) || 0)}</strong></div>
-                                    </div>
+                                    <section className="payment-details-card">
+                                      <div className="payment-details-banner">
+                                        <b>4</b>
+                                        <strong>Payment Details</strong>
+                                        <ChevronDown size={16} />
+                                      </div>
+                                      <div className="payment-details-form">
+                                        <h3>Credit Card Information</h3>
+                                        <Field
+                                          label="Card Number"
+                                          aria-label="Card number"
+                                          inputMode="numeric"
+                                          autoComplete="off"
+                                          placeholder="Card Number"
+                                          maxLength={23}
+                                          value={card.number}
+                                          error={errors.number}
+                                          onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                            changeCard("number", e.target.value)
+                                          }
+                                        />
+                                        <div className="form-row">
+                                          <Field
+                                            label="Expiration Date"
+                                            aria-label="MM / YY"
+                                            placeholder="MM / YY"
+                                            inputMode="numeric"
+                                            maxLength={5}
+                                            autoComplete="off"
+                                            value={card.expiry}
+                                            error={errors.expiry}
+                                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                              changeCard("expiry", e.target.value)
+                                            }
+                                          />
+                                          <Field
+                                            label="CVV"
+                                            aria-label="CVV"
+                                            type="password"
+                                            placeholder="CVV"
+                                            inputMode="numeric"
+                                            maxLength={4}
+                                            autoComplete="off"
+                                            value={card.cvv}
+                                            error={errors.cvv}
+                                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                              changeCard("cvv", e.target.value)
+                                            }
+                                          />
+                                        </div>
+                                        <span className="payment-card-confirmation">Visa •••• 4242</span>
+                                      </div>
+                                    </section>
                                   ) : (
                                     <div className="saved-payment-summary">
                                       <div><span>Payment Method</span><strong>Visa ••5602</strong></div>
@@ -1401,16 +1451,17 @@ export default function App() {
                                   )}
                                   {paymentChoice === "card" && <div className="billing">
                                     <div className="row">
-                                      <strong>Billing address</strong>
+                                      <strong>Address on file</strong>
                                       {!editingAddress && (
                                         <button
                                           className="text-button"
+                                          aria-label="Edit"
                                           onClick={() => {
                                             setDraftAddress({ ...address });
                                             setEditingAddress(true);
                                           }}
                                         >
-                                          Edit
+                                          Update address
                                         </button>
                                       )}
                                     </div>
@@ -1945,7 +1996,7 @@ export default function App() {
           </dialog>
         </>
       )}
-      {debugPanel}
+      {!(open && flow.step === 1 && offer) && debugPanel}
     </>
   );
 }

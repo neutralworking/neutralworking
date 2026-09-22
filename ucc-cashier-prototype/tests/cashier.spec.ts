@@ -60,7 +60,6 @@ test("new card: validation, address edit, successful deposit and balance", async
     .getByRole("button", { name: "Select", exact: true })
     .first()
     .click();
-  await page.getByRole("button", { name: "See more details" }).click();
   await expect(page.getByText(/No playthrough requirement/)).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await enterCustomAmount(page, "5");
