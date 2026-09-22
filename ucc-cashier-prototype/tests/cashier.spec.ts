@@ -101,6 +101,15 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   await page.locator("#coupon-code").fill(" bigwin420 ");
   await page.getByRole("button", { name: "Apply coupon" }).click();
   await expect(page.getByRole("heading", { name: "BIGWIN420" })).toBeVisible();
+  const floatingContinue = page.locator(".floating-continue");
+  if (await floatingContinue.count()) {
+    await expect(floatingContinue).toBeVisible();
+    await page.locator(".cashier-content").evaluate((element) => {
+      element.scrollTop = element.scrollHeight;
+    });
+    await expect(floatingContinue).toHaveCount(0);
+  }
+  await expect(page.locator(".active-offer-continue")).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(

@@ -192,6 +192,7 @@ export default function App() {
     [couponError, setCouponError] = useState("");
   const [terms, setTerms] = useState<string | null>(null),
     [cancelCoupon, setCancelCoupon] = useState(false),
+    [activeContinueInView, setActiveContinueInView] = useState(false),
     [amountTouched, setAmountTouched] = useState(false);
   const [section, setSection] = useState("Deposit"),
     [hostPage, setHostPage] = useState("Lobby"),
@@ -220,6 +221,7 @@ export default function App() {
   >([]);
   const dialog = useRef<HTMLDialogElement>(null),
     entry = useRef<HTMLElement | null>(null),
+    activeContinueRef = useRef<HTMLButtonElement>(null),
     paymentLock = useRef(false),
     run = useRef(0);
   const offer = offers.find((o) => o.code === flow.bonus),
@@ -320,6 +322,28 @@ export default function App() {
     heading?.focus();
     heading?.scrollIntoView({ block: "nearest" });
   }, [flow.step, section, result]);
+  useEffect(() => {
+    if (!open || flow.step !== 1 || !offer || cancelCoupon) {
+      setActiveContinueInView(false);
+      return;
+    }
+    setActiveContinueInView(false);
+    let observer: IntersectionObserver | undefined;
+    const frame = requestAnimationFrame(() => {
+      const target = activeContinueRef.current;
+      const root = dialog.current?.querySelector(".cashier-content");
+      if (!target || !root) return;
+      observer = new IntersectionObserver(
+        ([entry]) => setActiveContinueInView(entry.intersectionRatio >= 0.9),
+        { root, threshold: [0, 0.9, 1] },
+      );
+      observer.observe(target);
+    });
+    return () => {
+      cancelAnimationFrame(frame);
+      observer?.disconnect();
+    };
+  }, [open, flow.step, offer, cancelCoupon]);
   function go(step: Step) {
     dispatch({ type: "navigate", step });
     setErrors({});
@@ -1098,13 +1122,24 @@ export default function App() {
                                           >
                                             Cancel coupon
                                           </button>
-                                          <Button
-                                            primary
+                                          <button
+                                            ref={activeContinueRef}
+                                            className="button primary active-offer-continue"
+                                            aria-hidden={!activeContinueInView}
+                                            tabIndex={activeContinueInView ? 0 : -1}
                                             onClick={() => dispatch({ type: "advance" })}
                                           >
                                             Continue
-                                          </Button>
+                                          </button>
                                         </div>
+                                      )}
+                                      {!cancelCoupon && !activeContinueInView && (
+                                        <button
+                                          className="button primary floating-continue"
+                                          onClick={() => dispatch({ type: "advance" })}
+                                        >
+                                          Continue
+                                        </button>
                                       )}
                                       </div>
                                     </div>

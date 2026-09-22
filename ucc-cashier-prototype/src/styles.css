@@ -1415,6 +1415,13 @@ fieldset {
 }
 .active-offer-actions > * { min-height: 40px; }
 .active-offer-actions .primary {
+  border-color: #00c96b;
+  border-radius: 22px;
+  background: #00c96b;
+  color: #fff;
+  text-transform: uppercase;
+}
+.floating-continue {
   position: fixed;
   z-index: 50;
   left: 50%;
@@ -1422,11 +1429,11 @@ fieldset {
   width: 160px;
   min-height: 44px;
   padding: 10px 24px;
-  border-color: #00c96b;
+  border-color: #00c96b !important;
   border-radius: 24px;
-  background: #00c96b;
+  background: #00c96b !important;
   box-shadow: 0 5px 14px rgba(0, 121, 63, .32);
-  color: #fff;
+  color: #fff !important;
   transform: translateX(-50%);
   text-transform: uppercase;
 }
@@ -1456,7 +1463,7 @@ fieldset {
     padding: 0 12px 48px;
   }
   .active-offer-actions .cancel-link { width: 100%; }
-  .active-offer-actions .primary {
+  .floating-continue {
     bottom: calc(72px + env(safe-area-inset-bottom));
   }
 }
