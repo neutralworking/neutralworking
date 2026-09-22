@@ -1042,37 +1042,26 @@ export default function App() {
                                 <>
                                   {offer ? (
                                     <div className="active-offer">
-                                      <div className="row">
-                                        <span className="eyebrow">
-                                          ACTIVE COUPON
-                                        </span>
-                                        <span className="status-pill">
-                                          <Check size={13} />
-                                          Selected
-                                        </span>
+                                      <div className="active-offer-banner">
+                                        <span><Check size={22} /></span>
+                                        <strong>Bonus</strong>
+                                        <b>{offer.code}</b>
+                                        <ChevronDown size={16} />
                                       </div>
-                                      <h3>{offer.code}</h3>
-                                      <strong>{offer.title}</strong>
-                                      <p>
-                                        Minimum deposit {money(offer.minimum)}
-                                      </p>
-                                      <button
-                                        className="text-button"
-                                        onClick={() =>
-                                          setTerms(
-                                            terms === offer.code
-                                              ? null
-                                              : offer.code,
-                                          )
-                                        }
-                                      >
-                                        {terms === offer.code
-                                          ? "Hide details"
-                                          : "See more details"}
-                                      </button>
-                                      {terms === offer.code && (
-                                        <p className="terms">{offer.terms}</p>
-                                      )}
+                                      <div className="active-offer-body">
+                                        <div className="active-coupon-notice">
+                                          <Check size={16} />
+                                          You have an active coupon code
+                                        </div>
+                                        <h3>{offer.code}</h3>
+                                        <dl className="active-offer-details">
+                                          <div><dt>Bonus Type</dt><dd>Percentage of next deposit</dd></div>
+                                          <div><dt>Minimum Deposit</dt><dd>{money(offer.minimum).replace(".00", "")}</dd></div>
+                                          <div><dt>Bonus Percentage</dt><dd>{offer.code === "BIGWIN420" ? "420%" : "450%"}</dd></div>
+                                          <div><dt>Free Spins</dt><dd>{offer.code === "BIGWIN420" ? "20 Spins on Khrysos Gold" : "75 Spins on 777"}</dd></div>
+                                          <div><dt>Max. Cashout</dt><dd>{offer.code === "BIGWIN420" ? "This bonus amount is non-cashable." : "15 times the deposit"}</dd></div>
+                                          <div><dt>Coupon Conditions</dt><dd>{offer.terms}</dd></div>
+                                        </dl>
                                       {cancelCoupon ? (
                                         <div className="confirm">
                                           <p>
@@ -1100,13 +1089,22 @@ export default function App() {
                                           </Button>
                                         </div>
                                       ) : (
-                                        <button
-                                          className="text-button cancel-link"
-                                          onClick={() => setCancelCoupon(true)}
-                                        >
-                                          Cancel coupon
-                                        </button>
+                                        <div className="active-offer-actions">
+                                          <button
+                                            className="cancel-link"
+                                            onClick={() => setCancelCoupon(true)}
+                                          >
+                                            Cancel coupon
+                                          </button>
+                                          <Button
+                                            primary
+                                            onClick={() => dispatch({ type: "advance" })}
+                                          >
+                                            Continue
+                                          </Button>
+                                        </div>
                                       )}
+                                      </div>
                                     </div>
                                   ) : (
                                     <>
@@ -1194,16 +1192,7 @@ export default function App() {
                                     </>
                                   )}
                                   <div className="actions">
-                                    {offer ? (
-                                      <Button
-                                        primary
-                                        onClick={() =>
-                                          dispatch({ type: "advance" })
-                                        }
-                                      >
-                                        Continue <ArrowRight size={16} />
-                                      </Button>
-                                    ) : (
+                                    {!offer && (
                                       <button
                                         className="deposit-without"
                                         onClick={() => {
