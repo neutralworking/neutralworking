@@ -1,15 +1,21 @@
 import { test, expect, Page } from "@playwright/test";
 async function open(page: Page) {
   await page.goto("/");
-  const desktop = await page
-    .getByRole("button", { name: "Deposit", exact: true })
-    .isVisible();
-  await page
-    .getByRole("button", { name: desktop ? "Deposit" : "$24.50", exact: true })
-    .click();
+  if (!(await page.getByRole("dialog").isVisible())) {
+    const desktop = await page
+      .getByRole("button", { name: "Deposit", exact: true })
+      .isVisible();
+    await page
+      .getByRole("button", { name: desktop ? "Deposit" : "$24.50", exact: true })
+      .click();
+  }
   await expect(page.getByRole("dialog")).toBeVisible();
 }
 async function next(page: Page) {
+  const cardNumber = page.getByLabel("Card number", { exact: true });
+  if ((await cardNumber.count()) && (await cardNumber.isVisible())) {
+    if (!(await cardNumber.inputValue())) await fillDemoCard(page);
+  }
   await page
     .getByRole("button", { name: /^Continue(?: & pick a bonus)?$/i })
     .click();
@@ -41,6 +47,14 @@ test("new card: validation, address edit, successful deposit and balance", async
   const consoleErrors: string[] = [];
   page.on("pageerror", (e) => consoleErrors.push(e.message));
   await open(page);
+  await debug(page);
+  await page.getByLabel("Card scenario").selectOption("new");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
+  await page.getByRole("button", { name: "Continue", exact: true }).click();
+  await expect(
+    page.getByText("Use the demo card 4242 4242 4242 4242."),
+  ).toBeVisible();
+  await fillDemoCard(page);
   await next(page);
   await page
     .getByRole("button", { name: "Select", exact: true })
@@ -56,12 +70,7 @@ test("new card: validation, address edit, successful deposit and balance", async
   ).toBeVisible();
   await enterCustomAmount(page, "64.25");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await page
-    .getByRole("button", { name: "Deposit $64.25", exact: true })
-    .click();
-  await expect(
-    page.getByText("Use the demo card 4242 4242 4242 4242."),
-  ).toBeVisible();
+  await expect(page.getByText("Visa •••• 4242")).toBeVisible();
   await page.getByRole("button", { name: "Edit" }).click();
   await page.getByLabel("Street address").fill("");
   await page.getByRole("button", { name: "Save address" }).click();
@@ -69,7 +78,6 @@ test("new card: validation, address edit, successful deposit and balance", async
   await page.getByLabel("Street address").fill("42 Sample Avenue");
   await page.getByRole("button", { name: "Save address" }).click();
   await expect(page.getByText("42 Sample Avenue")).toBeVisible();
-  await fillDemoCard(page);
   await page.screenshot({ path: `docs/${info.project.name}-details.png` });
   await page
     .getByRole("button", { name: "Deposit $64.25", exact: true })
@@ -113,14 +121,16 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   }
   await enterCustomAmount(page, "10");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await expect(page.getByLabel("Card number", { exact: true })).toBeVisible();
+  await expect(page.getByText("Visa ••5602")).toBeVisible();
 });
 test("saved card decline, retry and pending without crediting balance", async ({
   page,
 }) => {
   await open(page);
+  await expect(
+    page.getByRole("button", { name: /Visa.*Last used/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await debug(page);
-  await page.getByLabel("Card scenario").selectOption("saved");
   await page.getByLabel("Payment outcome").selectOption("declined");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
   await expect(
@@ -144,6 +154,28 @@ test("saved card decline, retry and pending without crediting balance", async ({
   await expect(page.getByText("Your deposit is pending")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
+test("crypto selection opens asset choice before matching payment details", async ({
+  page,
+}) => {
+  await open(page);
+  await page.getByRole("button", { name: /Crypto/ }).click();
+  await page.getByRole("button", { name: /USDT.*Tether/ }).click();
+  await next(page);
+  await page.getByRole("button", { name: /Deposit without bonus/ }).click();
+  await page.getByRole("button", { name: "Continue", exact: true }).click();
+  await expect(page.getByRole("heading", { name: "Choose your cryptocurrency" })).toBeVisible();
+  await expect(page.getByRole("button", { name: /Tether/ })).toHaveAttribute("aria-pressed", "true");
+  await page.getByRole("button", { name: "Deposit $50.00" }).click();
+  await expect(page.getByRole("heading", { name: "Deposit via Tether" })).toBeVisible();
+  await expect(
+    page.locator(".crypto-amount-summary").getByText("50.00", { exact: true }).first(),
+  ).toBeVisible();
+  await expect(page.getByLabel("Demo payment QR code")).toBeVisible();
+  await page.getByRole("button", { name: "Copy", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Copied", exact: true })).toBeVisible();
+  await page.getByRole("button", { name: /choose a different method/ }).click();
+  await expect(page.getByRole("heading", { name: "Choose your cryptocurrency" })).toBeVisible();
+});
 test("debug presets retain custom amount; saved replacement; reset clears the scenario", async ({
   page,
 }) => {
@@ -154,7 +186,9 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await page.getByRole("button", { name: "Apply presets" }).click();
   await page.getByLabel("Selected amount").fill("72.5");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
-  await page.getByRole("button", { name: /Add new credit card/ }).click();
+  await page.getByRole("button", { name: /Visa.*Last used/ }).click();
+  await expect(page.getByLabel("Card number", { exact: true })).toBeVisible();
+  await fillDemoCard(page);
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   await expect(page.getByLabel("Enter custom amount")).toHaveValue("72.5");
@@ -165,24 +199,86 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await expect(
     page.getByRole("button", { name: "Deposit $72.50", exact: true }),
   ).toBeVisible();
-  await expect(page.getByLabel("Card number", { exact: true })).toBeVisible();
+  await expect(page.getByText("Visa •••• 4242")).toBeVisible();
   await debug(page);
   await page.getByRole("button", { name: "Reset scenario" }).click();
   await expect(page.getByLabel("Selected amount")).toHaveValue("50");
   await expect(page.getByLabel("Amount presets")).toHaveValue("20, 30, 50");
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
+test("withdrawal scenarios lock empty accounts and submit funded requests", async ({
+  page,
+}) => {
+  await open(page);
+  await page.getByRole("button", { name: "Withdraw", exact: true }).click();
+  await expect(page.getByLabel("Withdrawable balance")).toContainText("$0.00");
+  await expect(
+    page.getByRole("button", { name: /Wire Transfer/ }),
+  ).toBeDisabled();
+  await expect(page.getByRole("button", { name: /^Bitcoin/ })).toBeDisabled();
+
+  await debug(page);
+  await page.getByLabel("Withdrawal scenario").selectOption("available");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
+  await expect(page.getByLabel("Withdrawable balance")).toContainText("$500.00");
+
+  await page.getByRole("button", { name: /^Bitcoin/ }).click();
+  await page.getByLabel("Withdrawal amount").fill("40");
+  await expect(page.getByText("Minimum withdrawal is $50.00.")).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Request $40.00 withdrawal" }),
+  ).toBeDisabled();
+  await page.getByLabel("Withdrawal amount").fill("125");
+  await page
+    .getByRole("button", { name: "Request $125.00 withdrawal" })
+    .click();
+  await expect(page.getByText("$125.00 is being reviewed")).toBeVisible();
+  await page.getByRole("button", { name: "View transactions" }).click();
+  await expect(page.locator(".transaction")).toContainText(
+    "Bitcoin withdrawal",
+  );
+  await expect(page.locator(".transaction")).toContainText("−$125.00");
+});
+test("coupon hub redeems codes and transaction dates refresh the empty state", async ({
+  page,
+}) => {
+  await open(page);
+  await page.getByRole("button", { name: "Transactions", exact: true }).click();
+  await expect(
+    page.getByText("No transactions in selected date range."),
+  ).toBeVisible();
+  await page.getByLabel("From").fill("2026-09-16");
+  await expect(page.getByText("Date range changed.")).toBeVisible();
+  await page.getByRole("button", { name: "Search", exact: true }).click();
+  await expect(
+    page.getByText("No transactions in selected date range."),
+  ).toBeVisible();
+
+  await page.getByRole("button", { name: "Coupons", exact: true }).click();
+  await page.getByLabel("Coupon code", { exact: true }).fill("NOPE");
+  await page.getByRole("button", { name: "Redeem" }).click();
+  await expect(page.getByText(/This coupon is not available/)).toBeVisible();
+  await page.getByLabel("Coupon code", { exact: true }).fill("kickstarter");
+  await page.getByRole("button", { name: "Redeem" }).click();
+  await expect(page.getByRole("button", { name: /^1 Payment Method/ })).toBeVisible();
+  await next(page);
+  await expect(page.getByRole("heading", { name: "KICKSTARTER" })).toBeVisible();
+});
 test("promo context, close clears card but keeps draft, focus and responsive bounds", async ({
   page,
 }, info) => {
   await page.goto("/");
+  await page.getByRole("button", { name: "Close cashier" }).click();
   const claim = page.getByRole("button", { name: "Claim offer" });
   await claim.click();
+  await debug(page);
+  await page.getByLabel("Card scenario").selectOption("new");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
   await next(page);
   await expect(page.getByRole("heading", { name: "KICKSTARTER" })).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await fillDemoCard(page);
+  await expect(page.getByText("Visa •••• 4242")).toBeVisible();
   await page.getByRole("button", { name: "Close cashier" }).click();
   await expect(claim).toBeFocused();
   const launch = page.getByRole("button", {
@@ -191,12 +287,6 @@ test("promo context, close clears card but keeps draft, focus and responsive bou
   });
   await launch.click();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveValue("");
-  await expect(
-    page.getByRole("button", { name: "Deposit $50.00", exact: true }),
-  ).toBeVisible();
-  await expect(
-    page.getByRole("button", { name: /Bonus KICKSTARTER/ }),
-  ).toBeVisible();
   const bounds = await page.getByRole("dialog").boundingBox();
   const viewport = page.viewportSize()!;
   expect(bounds!.width).toBeLessThanOrEqual(viewport.width);
@@ -232,7 +322,6 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
     .nth(1)
     .click();
   await page.getByRole("button", { name: /Payment Details/ }).click();
-  await fillDemoCard(page);
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
@@ -241,7 +330,6 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
   ).toBeVisible();
   await enterCustomAmount(page, "99");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await fillDemoCard(page);
   await page
     .getByRole("button", { name: "Deposit $99.00", exact: true })
     .click();

@@ -488,20 +488,27 @@ fieldset {
   padding: 0;
   border: 1px solid #cfcfc9;
   border-radius: 8px;
-  width: 960px;
-  height: min(820px, calc(100dvh - 32px));
+  width: 610px;
+  height: min(620px, calc(100dvh - 128px));
   max-width: calc(100vw - 48px);
-  max-height: calc(100dvh - 64px);
+  max-height: calc(100dvh - 128px);
   color: var(--ink);
   box-shadow: 0 18px 80px #0003;
-  overflow: visible;
+  overflow: hidden;
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  z-index: 30;
 }
-.cashier-dialog::backdrop {
+.cashier-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
   background: rgba(31, 33, 28, 0.48);
 }
 .cashier-header {
-  height: 72px;
-  padding: 14px 20px;
+  height: 64px;
+  padding: 10px 18px;
   display: flex;
   gap: 15px;
   align-items: center;
@@ -521,6 +528,7 @@ fieldset {
   font-size: 20px;
   margin-top: 4px;
 }
+.cashier-header h2:focus { outline: none; }
 .cashier-header .eyebrow {
   font-size: 9px;
 }
@@ -540,7 +548,7 @@ fieldset {
 }
 .cashier-layout {
   display: flex;
-  height: calc(100% - 72px);
+  height: calc(100% - 64px);
   max-height: none;
   min-height: 0;
   overflow: hidden;
@@ -629,26 +637,32 @@ fieldset {
 }
 /* Axure cashier: horizontal section tabs and horizontal deposit stages. */
 .cashier-layout {
-  display: block;
-  height: calc(100% - 72px);
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 64px);
+  min-height: 0;
+  overflow: hidden;
 }
 .cashier-nav {
   width: 100%;
-  height: 44px;
+  height: 35px;
   flex-direction: row;
   align-items: stretch;
   border-right: 0;
   border-bottom: 1px solid var(--border);
-  padding: 3px 8px;
+  padding: 2px 8px;
   gap: 2px;
+  flex-shrink: 0;
 }
 .cashier-nav > button {
   flex: 1;
   justify-content: center;
-  padding: 6px 4px;
-  min-height: 36px;
-  font-size: 10px;
+  padding: 4px;
+  min-height: 29px;
+  font-size: 8px;
+  line-height: 1;
 }
+.cashier-nav svg { width: 14px; height: 14px; }
 .cashier-nav .back-games,
 .cashier-nav .secure,
 .secure {
@@ -664,7 +678,7 @@ fieldset {
   content: "";
   position: absolute;
   z-index: 0;
-  top: 15px;
+  top: 12px;
   left: 12.5%;
   right: 12.5%;
   height: 1px;
@@ -679,13 +693,22 @@ fieldset {
   margin-bottom: 0;
   z-index: 1;
 }
-.flow-fields .step-heading .step-title { font-size: 11px; }
+.flow-fields .step-heading .step-title { font-size: 9px; }
 .flow-fields .step-body {
   grid-column: 1 / -1;
   grid-row: 2;
   border: 0;
   border-radius: 0;
   min-height: 0;
+  width: 100%;
+  max-width: 460px;
+  margin-inline: auto;
+}
+.cashier-content {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 14px 18px 8px;
 }
 .content-intro {
   display: flex;
@@ -714,11 +737,11 @@ fieldset {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 8px;
+  gap: 6px;
   align-items: center;
-  padding: 0 4px 15px;
+  padding: 0 4px 12px;
   text-align: center;
-  min-height: 76px;
+  min-height: 61px;
   background: transparent;
 }
 .step-heading:disabled {
@@ -731,11 +754,11 @@ fieldset {
   border-bottom: 0;
 }
 .step-number {
-  width: 30px;
-  height: 30px;
+  width: 24px;
+  height: 24px;
   border: 1px solid #8d9187;
   border-radius: 50%;
-  font-size: 13px;
+  font-size: 10px;
   display: grid;
   place-items: center;
   flex-shrink: 0;
@@ -777,7 +800,7 @@ fieldset {
   display: none;
 }
 .step-body {
-  padding: 8px 0 0;
+  padding: 6px 0 0;
 }
 .step-body > .muted {
   margin-bottom: 14px;
@@ -817,15 +840,15 @@ fieldset {
   border: 1px solid #aeb1a8;
   border-radius: 7px;
   overflow: hidden;
-  margin: 0 0 12px;
+  margin: 0 0 10px;
 }
 .payment-groups button {
   min-width: 0;
-  min-height: 46px;
-  padding: 8px 12px;
+  min-height: 37px;
+  padding: 6px 10px;
   color: var(--ink);
   border-right: 1px solid #aeb1a8;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 600;
 }
 .payment-groups button:last-child { border-right: 0; }
@@ -837,12 +860,12 @@ fieldset {
   color: #fff;
   background: #292d28;
 }
-.payment-method-title { font-size: 17px; margin: 18px 0 10px; }
+.payment-method-title { font-size: 16px; margin: 14px 0 8px; }
 .card-method-panel {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  padding: 14px;
+  gap: 8px;
+  padding: 12px;
   border: 1px solid var(--border);
   border-radius: 7px;
 }
@@ -882,11 +905,11 @@ fieldset {
 .card-method-row,
 .method-choice {
   width: 100%;
-  min-height: 52px;
+  min-height: 46px;
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 10px 12px;
+  gap: 10px;
+  padding: 8px 10px;
   border: 1px solid var(--border);
   border-radius: 6px;
   text-align: left;
@@ -931,6 +954,228 @@ fieldset {
   background: #f7f7f4;
 }
 .provider-handoff p { margin-top: 5px; color: var(--muted); font-size: 11px; }
+.inline-card-entry > .row { margin-bottom: 8px; }
+.inline-card-entry > .row h4 { margin: 0; }
+.inline-card-entry > .row .text-button { min-height: 32px; padding: 4px 0; }
+.inline-card-entry .card-brands { display: flex; margin: 0 0 12px; }
+.crypto-payment-details {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: #fff;
+}
+.crypto-payment-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+  background: #f7f7f4;
+}
+.crypto-payment-heading h3 { margin-top: 3px; }
+.crypto-payment-body {
+  display: grid;
+  grid-template-columns: 152px 1fr;
+  gap: 18px;
+  padding: 18px;
+}
+.demo-qr {
+  width: 152px;
+  height: 152px;
+  border: 10px solid #fff;
+  outline: 1px solid #c8c8c2;
+  background:
+    repeating-conic-gradient(#20211f 0 25%, #fff 0 50%) 0 0 / 18px 18px;
+}
+.crypto-payment-body dl { margin: 0; }
+.crypto-payment-body dl > div { padding: 0 0 12px; }
+.crypto-payment-body dt {
+  margin-bottom: 4px;
+  color: var(--muted);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  text-transform: uppercase;
+}
+.crypto-payment-body dd {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 650;
+}
+.crypto-destination {
+  overflow-wrap: anywhere;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 10px !important;
+  line-height: 1.45;
+}
+.crypto-quote-note {
+  padding: 10px 16px;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 10px;
+  text-align: center;
+}
+.crypto-asset-selection > h3 {
+  margin: 2px 0 12px;
+  text-align: center;
+  font-size: 15px;
+}
+.crypto-asset-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+.crypto-asset-grid > button {
+  position: relative;
+  min-width: 0;
+  min-height: 64px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border: 1px solid #cfd1c8;
+  border-radius: 7px;
+  text-align: left;
+}
+.crypto-asset-grid > button:last-child { grid-column: 2; }
+.crypto-asset-grid > button.selected {
+  border-color: #50554c;
+  background: #f1f2ee;
+}
+.crypto-asset-grid > button > svg {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 19px;
+  height: 19px;
+  padding: 3px;
+  border-radius: 50%;
+  background: #30352b;
+  color: #fff;
+}
+.crypto-asset-grid strong {
+  min-width: 0;
+  font-size: 10px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.crypto-asset-mark {
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: #4d514a;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 800;
+}
+.crypto-asset-mark.litecoin,
+.crypto-asset-mark.ethereum,
+.crypto-asset-mark.usdc { background: #777c72; }
+.crypto-asset-mark.dogecoin,
+.crypto-asset-mark.tether { background: #9a9d95; }
+.crypto-help {
+  max-width: 390px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 32px auto 0;
+  padding: 10px 12px;
+  border-radius: 6px;
+  background: #f0f1ed;
+  font-size: 11px;
+}
+.crypto-help p { flex: 1; line-height: 1.3; }
+.crypto-help button {
+  padding: 6px 12px;
+  border-radius: 16px;
+  background: #8f9689;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.crypto-final-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 10px;
+  text-align: center;
+}
+.crypto-final-details > h3 { font-size: 17px; }
+.crypto-change-method {
+  min-height: 36px;
+  color: var(--muted);
+  font-size: 11px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.crypto-amount-summary {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0 18px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: #eff0ec;
+  text-align: left;
+}
+.crypto-amount-summary > div {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 11px;
+}
+.crypto-amount-summary > div:last-child { text-align: right; }
+.crypto-amount-summary strong { color: #393d36; font-size: 14px; }
+.crypto-final-details .demo-qr {
+  width: 132px;
+  height: 132px;
+  background-size: 14px 14px;
+}
+.crypto-download {
+  min-height: 34px;
+  padding: 7px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.crypto-address {
+  width: 100%;
+  display: block;
+  margin: 4px 0 12px;
+  padding: 13px;
+  overflow-wrap: anywhere;
+  border-radius: 6px;
+  background: #eff0ec;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+.crypto-final-details > .button {
+  width: 160px;
+  min-height: 40px;
+  text-transform: uppercase;
+}
+.crypto-important {
+  width: 100%;
+  margin-top: 14px;
+  padding: 12px 14px;
+  border: 1px solid #aaaDA4;
+  border-radius: 6px;
+  background: #fafaf7;
+  text-align: left;
+  font-size: 10px;
+}
+.crypto-important ul { margin: 5px 0 0; padding-left: 16px; line-height: 1.45; }
+@media (max-width: 650px) {
+  .crypto-asset-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .crypto-asset-grid > button:last-child { grid-column: auto; }
+  .crypto-help { margin-top: 22px; }
+  .crypto-final-details .demo-qr { width: 132px; height: 132px; }
+}
 .choice strong {
   font-size: 12px;
 }
@@ -979,14 +1224,16 @@ fieldset {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  margin-top: 18px;
+  margin-top: 14px;
 }
 .actions > .primary:only-child {
-  width: 100%;
-  margin-left: 0;
+  width: 50%;
+  max-width: 50%;
+  margin-inline: auto;
 }
 .actions > .primary {
-  margin-left: auto;
+  max-width: 50%;
+  margin-inline: auto;
 }
 .flow-section-title {
   display: flex;
@@ -1296,9 +1543,9 @@ fieldset {
 .cashier-trust {
   display: flex;
   align-items: center;
-  gap: 14px;
-  margin: 0 0 16px;
-  padding: 14px 16px;
+  gap: 13px;
+  margin: 2px 0 14px;
+  padding: 15px 17px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: #f7f7f4;
@@ -1383,9 +1630,10 @@ fieldset {
 }
 .review-controls {
   position: fixed;
-  left: 244px;
+  left: 50%;
   bottom: 16px;
-  z-index: 10;
+  z-index: 40;
+  transform: translateX(-50%);
 }
 .review-toggle {
   display: flex;
@@ -1422,23 +1670,6 @@ fieldset {
 .review-panel .button {
   font-size: 11px;
 }
-.cashier-dialog > .review-controls {
-  position: absolute;
-  left: 12px;
-  bottom: 10px;
-}
-.cashier-dialog .review-toggle {
-  max-width: 138px;
-  padding: 8px;
-  font-size: 9px;
-  gap: 5px;
-}
-.cashier-dialog .review-toggle svg {
-  flex-shrink: 0;
-}
-.cashier-dialog .review-panel {
-  max-height: calc(100dvh - 170px);
-}
 @media (min-width: 1500px) {
   .lobby {
     padding-top: 48px;
@@ -1468,7 +1699,7 @@ fieldset {
     margin-left: 170px;
   }
   .review-controls {
-    left: 190px;
+    left: 50%;
   }
   .promo-copy { width: 68%; }
   .slot-machine span { font-size: 42px; }
@@ -1630,7 +1861,7 @@ fieldset {
     padding: 10px;
   }
   .review-controls {
-    left: 10px;
+    left: 50%;
     bottom: 88px;
   }
   .review-panel {
@@ -1678,8 +1909,8 @@ fieldset {
   .cashier-nav {
     width: 100%;
     flex-direction: row;
-    height: 40px;
-    padding: 3px 10px;
+    height: 32px;
+    padding: 2px 10px;
     gap: 3px;
     border-right: 0;
     border-bottom: 1px solid var(--border);
@@ -1687,10 +1918,10 @@ fieldset {
     justify-content: space-between;
   }
   .cashier-nav > button {
-    font-size: 10px;
-    padding: 4px 6px;
+    font-size: 8px;
+    padding: 3px 5px;
     gap: 4px;
-    min-height: 34px;
+    min-height: 27px;
   }
   .cashier-nav svg {
     width: 14px;
@@ -1729,12 +1960,12 @@ fieldset {
     padding: 8px 0 0;
   }
   .step-heading {
-    gap: 7px;
-    padding: 0 3px 13px;
-    min-height: 70px;
+    gap: 5px;
+    padding: 0 3px 10px;
+    min-height: 56px;
   }
   .flow-fields .step-heading .step-title {
-    font-size: 10px;
+    font-size: 8px;
     line-height: 1.15;
     white-space: normal;
   }
@@ -1753,9 +1984,9 @@ fieldset {
     display: none;
   }
   .step-number {
-    width: 26px;
-    height: 26px;
-    font-size: 11px;
+    width: 21px;
+    height: 21px;
+    font-size: 9px;
   }
   .method-grid {
     grid-template-columns: 1fr;
@@ -1772,7 +2003,7 @@ fieldset {
   }
   .actions {
     gap: 8px;
-    margin-top: 15px;
+    margin-top: 12px;
   }
   .actions .button {
     font-size: 12px;
@@ -1791,32 +2022,6 @@ fieldset {
   .offer .button {
     font-size: 11px;
     padding: 8px 10px;
-  }
-  .cashier-dialog > .review-controls {
-    left: 0;
-    bottom: calc(62px + env(safe-area-inset-bottom));
-    right: auto;
-    padding: 0 0 0 8px;
-    background: transparent;
-    border: 0;
-    pointer-events: none;
-  }
-  .cashier-dialog .review-toggle {
-    max-width: 138px;
-    min-height: 40px;
-    font-size: 10px;
-    border: 0;
-    box-shadow: none;
-    background: none;
-    padding: 8px 0;
-    pointer-events: auto;
-  }
-  .cashier-dialog .review-panel {
-    left: 12px;
-    bottom: calc(120px + env(safe-area-inset-bottom));
-    max-height: calc(100dvh - 145px);
-    width: min(300px, calc(100vw - 24px));
-    pointer-events: auto;
   }
   .saved-summary {
     gap: 6px;
@@ -1848,9 +2053,9 @@ fieldset {
   .cashier-trust p { font-size: 10px; }
   .payment-method-title { margin-top: 14px; font-size: 16px; }
   .payment-groups button {
-    min-height: 44px;
-    padding: 7px 5px;
-    font-size: 11px;
+    min-height: 35px;
+    padding: 5px;
+    font-size: 9px;
   }
   .payment-groups button::before { margin-right: 5px; }
   .card-method-panel { padding: 12px; }
@@ -2336,12 +2541,6 @@ fieldset {
   align-items: center;
   gap: 12px;
 }
-.cashier-branding img {
-  width: 96px;
-  height: 45px;
-  object-fit: contain;
-  filter: invert(1);
-}
 .cashier-branding h2 { margin: 0; }
 .cashier-header > .icon-button { margin-left: auto; }
 .cashier-balance-state {
@@ -2476,5 +2675,636 @@ fieldset {
   .is-monochrome .categories::before { background: #fff; }
   .ucc-style-toggle { right: 10px; bottom: 84px; min-height: 34px; padding: 7px 10px; }
   .cashier-branding { gap: 8px; }
-  .cashier-branding img { width: 82px; height: 39px; }
+  .crypto-payment-body {
+    grid-template-columns: 112px 1fr;
+    gap: 12px;
+    padding: 14px;
+  }
+  .demo-qr { width: 112px; height: 112px; background-size: 14px 14px; }
+}
+
+.withdrawal-view {
+  width: min(620px, 100%);
+  margin: 0 auto;
+  padding: 4px 0 24px;
+}
+.withdrawal-guidance,
+.withdrawal-balance,
+.withdrawal-methods,
+.withdrawal-request {
+  border: 1px solid #d5d5d0;
+  border-radius: 6px;
+  background: #fff;
+}
+.withdrawal-guidance {
+  padding: 17px 20px;
+  text-align: center;
+}
+.withdrawal-guidance h3 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e1e1dd;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.withdrawal-guidance p {
+  margin-top: 12px;
+  font-size: 12px;
+  line-height: 1.45;
+}
+.inline-link {
+  padding: 0;
+  color: #315a82;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.withdrawal-balance {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  padding: 17px 20px 15px;
+  text-align: center;
+}
+.withdrawal-balance > span {
+  color: #6f7478;
+  font-size: 15px;
+  font-weight: 700;
+}
+.withdrawal-balance > strong {
+  margin: 4px 0 7px;
+  font-size: 35px;
+  font-weight: 500;
+  letter-spacing: -1px;
+}
+.withdrawal-balance small {
+  max-width: 540px;
+  color: #666b6e;
+  font-size: 10px;
+  line-height: 1.35;
+}
+.withdrawal-methods {
+  margin-top: 14px;
+  overflow: hidden;
+}
+.withdrawal-methods > h3 {
+  padding: 15px;
+  color: #666b6e;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+.withdrawal-methods > button {
+  width: 100%;
+  min-height: 66px;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 10px 15px;
+  border-top: 1px solid #e1e1dd;
+  text-align: left;
+}
+.withdrawal-methods > button:hover:not(:disabled),
+.withdrawal-methods > button.selected { background: #f2f2ef; }
+.withdrawal-methods > button.selected { box-shadow: inset 3px 0 #252623; }
+.withdrawal-methods > button:disabled { opacity: .48; }
+.withdrawal-methods > button > span:nth-child(2) {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.withdrawal-methods > button strong { font-size: 13px; }
+.withdrawal-methods > button small { color: #737770; font-size: 10px; }
+.withdrawal-method-icon {
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: #e2e2de;
+  color: #4f524d;
+}
+.withdrawal-request {
+  display: grid;
+  grid-template-columns: 1fr 180px auto;
+  align-items: end;
+  gap: 14px;
+  margin-top: 14px;
+  padding: 16px;
+}
+.withdrawal-request .field { margin: 0; }
+.withdrawal-request .button { white-space: nowrap; }
+.withdrawal-confirmation {
+  padding: 42px 20px;
+  text-align: center;
+}
+.withdrawal-confirmation h3 { margin-top: 9px; font-size: 21px; }
+.withdrawal-confirmation p { margin: 10px auto; max-width: 430px; color: var(--muted); }
+.withdrawal-confirmation > small { color: var(--muted); }
+.withdrawal-confirmation .actions { justify-content: center; }
+
+@media (max-width: 650px) {
+  .withdrawal-view { padding-top: 0; }
+  .withdrawal-guidance { padding: 14px; }
+  .withdrawal-guidance h3 { font-size: 13px; }
+  .withdrawal-guidance p { font-size: 10px; }
+  .withdrawal-balance { padding: 14px; }
+  .withdrawal-balance > span { font-size: 13px; }
+  .withdrawal-balance > strong { font-size: 30px; }
+  .withdrawal-methods { margin-top: 10px; }
+  .withdrawal-methods > h3 { padding: 12px; font-size: 12px; }
+  .withdrawal-methods > button { min-height: 59px; padding: 8px 12px; }
+  .withdrawal-request {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    gap: 10px;
+    padding: 14px;
+  }
+  .withdrawal-confirmation { padding: 28px 8px; }
+}
+
+.coupon-hub,
+.transactions-view {
+  width: min(680px, 100%);
+  margin: 0 auto;
+  padding: 4px 0 28px;
+}
+.coupon-redeem {
+  padding: 14px;
+  border: 1px solid #d5d5d0;
+  border-radius: 6px;
+  background: #fff;
+}
+.coupon-redeem > h3 { margin-bottom: 10px; font-size: 14px; }
+.coupon-redeem-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+  gap: 10px;
+  padding: 8px;
+  border-radius: 6px;
+  background: #f1f1ee;
+}
+.coupon-redeem-row .field { margin: 0; }
+.coupon-redeem-row .field > span:first-child {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+.coupon-redeem-row input { background: #fff; }
+.coupon-featured {
+  min-height: 205px;
+  display: grid;
+  grid-template-columns: 1.1fr .9fr;
+  margin-top: 14px;
+  overflow: hidden;
+  border: 1px solid #c9c9c4;
+  border-radius: 6px;
+  background: #fff;
+}
+.coupon-featured-copy {
+  padding: 25px;
+  align-self: center;
+}
+.coupon-featured-copy h3 {
+  margin: 8px 0;
+  font-size: 25px;
+  letter-spacing: -.5px;
+}
+.coupon-featured-copy p { margin-bottom: 16px; color: var(--muted); }
+.coupon-art {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-left: 1px solid #d5d5d0;
+  background: #e7e7e3;
+  color: #6e716b;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.coupon-list-title { margin: 20px 0 10px; font-size: 15px; }
+.coupon-recommendations { display: grid; gap: 10px; }
+.coupon-card {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  overflow: hidden;
+  border: 1px solid #d5d5d0;
+  border-radius: 6px;
+  background: #fff;
+}
+.coupon-card-art {
+  min-height: 120px;
+  display: grid;
+  place-items: center;
+  border-right: 1px solid #d5d5d0;
+  background: #e7e7e3;
+  color: #4d504a;
+  font-size: 23px;
+  font-weight: 800;
+}
+.coupon-card > div:last-child { padding: 16px; }
+.coupon-card h3 { margin: 6px 0; font-size: 15px; }
+.coupon-card p { margin-bottom: 4px; color: var(--muted); font-size: 11px; }
+.transactions-view > h3 {
+  margin-bottom: 14px;
+  font-size: 18px;
+}
+.transaction-filters {
+  padding: 15px;
+  border: 1px solid #d5d5d0;
+  border-radius: 6px;
+  background: #fff;
+}
+.transaction-filter-label {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  padding: 7px 11px;
+  border: 1px solid #c9c9c4;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.transaction-filter-label::before { content: "▦"; margin-right: 7px; }
+.transaction-date-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin: 13px 0;
+}
+.transaction-date-fields .field { margin: 0; }
+.transaction-filters > .button {
+  min-width: 120px;
+  display: flex;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+.transaction-results {
+  margin-top: 16px;
+  padding: 0 15px;
+  border: 1px solid #d5d5d0;
+  border-radius: 6px;
+  background: #fff;
+}
+.transaction-empty {
+  padding: 38px 20px;
+  text-align: center;
+}
+.transaction-empty strong { font-size: 14px; }
+.transaction-empty p { margin-top: 12px; font-size: 13px; }
+
+@media (max-width: 650px) {
+  .coupon-hub,
+  .transactions-view { padding-top: 0; }
+  .coupon-redeem { padding: 10px; }
+  .coupon-redeem-row { grid-template-columns: 1fr auto; gap: 6px; }
+  .coupon-redeem-row .button { min-height: 40px; padding: 8px 12px; }
+  .coupon-featured {
+    min-height: 185px;
+    grid-template-columns: 1fr 112px;
+    margin-top: 12px;
+  }
+  .coupon-featured-copy { padding: 18px; }
+  .coupon-featured-copy h3 { font-size: 20px; }
+  .coupon-art { padding: 10px; text-align: center; }
+  .coupon-card { grid-template-columns: 105px 1fr; }
+  .coupon-card-art { min-height: 112px; font-size: 18px; }
+  .coupon-card > div:last-child { padding: 12px; }
+  .transaction-date-fields { gap: 8px; }
+  .transaction-date-fields .field { font-size: 10px; }
+  .transaction-date-fields input { padding: 9px 6px; font-size: 11px; }
+  .transaction-empty { padding: 34px 10px; }
+}
+
+/* Product Lab wireframe mode — based on the supplied UCC dashboard reference. */
+.is-monochrome,
+.is-monochrome .host {
+  background: #f4f4f4;
+  color: #111;
+}
+.is-monochrome .sidebar {
+  background: #fff;
+  border-right: 1px solid #d5d5d5;
+  color: #111;
+}
+.is-monochrome .brand,
+.is-monochrome .host-header,
+.is-monochrome .sidebar-tools {
+  background: #fff;
+  border-color: #d5d5d5;
+  filter: none;
+}
+.is-monochrome .brand {
+  position: relative;
+  gap: 10px;
+  padding: 0 12px;
+  justify-content: flex-start;
+  border-bottom: 1px solid #d5d5d5;
+  color: #111;
+}
+.is-monochrome .brand img { display: none; }
+.is-monochrome .brand::before {
+  content: "RG";
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  border-radius: 4px;
+  background: #191919;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: -.5px;
+}
+.is-monochrome .brand::after {
+  content: "Reels Grande";
+  font-size: 14px;
+  font-weight: 750;
+  letter-spacing: 0;
+}
+.is-monochrome .sidebar-tools {
+  padding: 12px 10px;
+  border-bottom: 1px solid #d5d5d5;
+}
+.is-monochrome .sidebar-tools > button {
+  border: 1px solid #c9c9c9;
+  background: #fff;
+  color: #333;
+}
+.is-monochrome .search {
+  border: 1px solid #c9c9c9;
+  background: #fff;
+  color: #555;
+}
+.is-monochrome .sidebar nav { padding: 0; }
+.is-monochrome .sidebar nav button,
+.is-monochrome .sidebar nav button:first-child,
+.is-monochrome .sidebar nav .selected,
+.is-monochrome .sidebar-bottom button,
+.is-monochrome .sidebar-bottom button:nth-child(2) {
+  min-height: 42px;
+  margin: 0;
+  padding: 9px 12px;
+  border-bottom: 1px solid #dedede;
+  border-radius: 0;
+  background: #fff;
+  color: #111;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: none;
+}
+.is-monochrome .sidebar nav button:hover,
+.is-monochrome .sidebar-bottom button:hover,
+.is-monochrome .sidebar nav .selected {
+  background: #f0f0f0;
+}
+.is-monochrome .sidebar nav .selected { box-shadow: inset 3px 0 #191919; }
+.is-monochrome .sidebar nav button:nth-child(4) { text-decoration: none; }
+.is-monochrome .sidebar nav button:nth-child(11),
+.is-monochrome .sidebar nav button:nth-child(12),
+.is-monochrome .sidebar nav button:nth-child(13) { color: #111; }
+.is-monochrome .sidebar-bottom {
+  gap: 0;
+  margin-top: auto;
+  padding: 0;
+  border-top: 1px solid #d5d5d5;
+}
+.is-monochrome .host-header {
+  height: 50px;
+  padding: 0 16px;
+  border-bottom: 1px solid #d5d5d5;
+}
+.is-monochrome .host-header .header-actions > * { opacity: 1; }
+.is-monochrome .reward-progress { display: none; }
+.is-monochrome .account-deposit {
+  height: 36px;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  background: #fff;
+  color: #111;
+}
+.is-monochrome .account-deposit strong,
+.is-monochrome .account-deposit span { padding: 9px 12px; }
+.is-monochrome .account-deposit span { background: #191919; color: #fff; }
+.is-monochrome .header-inbox,
+.is-monochrome .avatar {
+  width: 36px;
+  height: 36px;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  background: #fff;
+  color: #333;
+}
+.is-monochrome .lobby {
+  padding-top: 22px;
+  padding-bottom: 42px;
+}
+.is-monochrome .promo {
+  aspect-ratio: auto;
+  height: 218px;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background: #fff;
+}
+.is-monochrome .promo picture { display: none; }
+.is-monochrome .promo::before {
+  content: "PROMOTIONAL OFFER";
+  position: absolute;
+  left: 26px;
+  top: 55px;
+  color: #111;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -.5px;
+}
+.is-monochrome .promo::after {
+  content: "Campaign artwork placeholder";
+  position: absolute;
+  left: 26px;
+  top: 92px;
+  color: #707070;
+  font-size: 12px;
+}
+.is-monochrome .promo > button {
+  left: 26px;
+  top: 132px;
+  width: auto;
+  height: 38px;
+  padding: 0 18px;
+  border-radius: 4px;
+  background: #191919;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 750;
+  text-transform: uppercase;
+}
+.is-monochrome .categories {
+  height: auto;
+  margin: 14px 0 26px;
+  padding: 0;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background: #fff;
+}
+.is-monochrome .categories button,
+.is-monochrome .categories button:first-child,
+.is-monochrome .categories button.active {
+  height: 43px;
+  min-height: 43px;
+  border-right: 1px solid #dedede;
+  background: #fff;
+  color: #555;
+}
+.is-monochrome .categories button:hover,
+.is-monochrome .categories button.active,
+.is-monochrome .categories button:first-child { background: #f0f0f0; color: #111; }
+.is-monochrome .categories button.active { box-shadow: inset 0 -3px #191919; }
+.is-monochrome .categories button span,
+.is-monochrome .categories button.active span,
+.is-monochrome .categories button:first-child span { color: #555; }
+.is-monochrome .game-row-title {
+  padding-left: 0;
+  color: #111;
+  font-size: 15px;
+  letter-spacing: 0;
+}
+.is-monochrome .game-row-title::before { display: none; }
+.is-monochrome .view-all {
+  min-width: auto;
+  height: 34px;
+  padding: 0 13px;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  background: #fff;
+  color: #111;
+}
+.is-monochrome .games { gap: 10px; margin-top: 12px; }
+.is-monochrome .game {
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background: #fff;
+  color: #111;
+}
+.is-monochrome .game-art {
+  position: relative;
+  border-bottom: 1px solid #d5d5d5;
+  background: #e8e8e8;
+  filter: none;
+}
+.is-monochrome .game-art::after {
+  content: "GAME ART";
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: #777;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.is-monochrome .game-favorite {
+  border: 1px solid #c9c9c9;
+  background: #fff;
+  color: #111;
+}
+.is-monochrome .game strong,
+.is-monochrome .game > span { color: #111; }
+.is-monochrome .game > span { color: #666; }
+.is-monochrome .placeholder {
+  border: 1px solid #c9c9c9;
+  background: #fff;
+  color: #111;
+}
+.is-monochrome .mobile-nav {
+  border-top: 1px solid #c9c9c9;
+  background: #fff;
+}
+.is-monochrome .mobile-nav button,
+.is-monochrome .mobile-nav button:nth-child(1),
+.is-monochrome .mobile-nav button:nth-child(2) { color: #333; }
+.is-monochrome .mobile-nav .wallet-nav { color: #111; }
+.is-monochrome .mobile-nav .wallet-nav span {
+  border: 1px solid #191919;
+  background: #191919;
+  color: #fff;
+}
+.cashier-wireframe .cashier-mobile-nav {
+  border-top: 1px solid #c9c9c9;
+  background: #fff;
+}
+.cashier-wireframe .cashier-mobile-nav button {
+  color: #333;
+}
+.cashier-wireframe .cashier-mobile-nav .wallet-nav {
+  border-color: #191919;
+  background: #191919;
+  color: #fff;
+}
+
+@media (max-width: 650px) {
+  .is-monochrome .host-header {
+    height: 64px;
+    padding: 0 12px;
+    background: #fff;
+  }
+  .is-monochrome .mobile-brand {
+    position: relative;
+    width: auto;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .is-monochrome .mobile-brand img { display: none; }
+  .is-monochrome .mobile-brand::before {
+    content: "RG";
+    width: 32px;
+    height: 32px;
+    display: grid;
+    place-items: center;
+    border-radius: 4px;
+    background: #191919;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 900;
+  }
+  .is-monochrome .mobile-brand::after {
+    content: "Reels Grande";
+    color: #111;
+    font-size: 13px;
+    font-weight: 750;
+  }
+  .is-monochrome .avatar,
+  .is-monochrome .mobile-only { background: #fff; color: #333; border: 1px solid #c9c9c9; }
+  .is-monochrome .lobby { padding: 14px 14px 96px; }
+  .is-monochrome .promo { height: 190px; }
+  .is-monochrome .promo::before { left: 18px; top: 40px; font-size: 20px; }
+  .is-monochrome .promo::after { left: 18px; top: 72px; }
+  .is-monochrome .promo > button { left: 18px; top: 112px; width: auto; height: 38px; }
+  .is-monochrome .categories {
+    width: 100%;
+    height: 70px;
+    margin: 12px 0 25px;
+    border-bottom: 1px solid #c9c9c9;
+  }
+  .is-monochrome .categories::before { display: none; }
+  .is-monochrome .categories button,
+  .is-monochrome .categories button:first-child,
+  .is-monochrome .categories button.active {
+    height: 68px;
+    min-height: 68px;
+    background: #fff;
+    color: #555;
+  }
+  .is-monochrome .categories button.active,
+  .is-monochrome .categories button:first-child { background: #f0f0f0; color: #111; }
+  .is-monochrome .game-row-title { font-size: 15px; }
+  .is-monochrome .game-art { height: 132px; }
+  .is-monochrome .game-favorite { top: 102px; }
 }

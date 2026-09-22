@@ -3,9 +3,12 @@ import type { ReactNode } from "react";
 import {
   ArrowLeft,
   ArrowRight,
+  Bitcoin,
+  Building2,
   Check,
   ChevronDown,
   ChevronRight,
+  CircleHelp,
   CreditCard,
   Gift,
   Home,
@@ -16,6 +19,7 @@ import {
   Search,
   Settings2,
   ShieldCheck,
+  TicketCheck,
   Trophy,
   User,
   Wallet,
@@ -53,7 +57,41 @@ const paymentMethods = [
   { id: "cashapp", group: "other", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
   { id: "rewards", group: "other", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
 ] as const;
+const withdrawalMethods = [
+  {
+    id: "wire",
+    name: "Wire Transfer",
+    detail: "$100 – $2,500 per transaction",
+    minimum: 100,
+    Icon: Building2,
+  },
+  {
+    id: "check",
+    name: "Check",
+    detail: "$100 – $2,500 per transaction",
+    minimum: 100,
+    Icon: TicketCheck,
+  },
+  {
+    id: "bitcoin",
+    name: "Bitcoin",
+    detail: "$50 – $2,500 per transaction",
+    minimum: 50,
+    Icon: Bitcoin,
+  },
+] as const;
+const cryptoAssets = [
+  { id: "bitcoin", mark: "₿", name: "Bitcoin", ticker: "BTC", network: "Bitcoin", rate: 85869, destination: "bc1qetshauz3knuexv5g6nmc9p6xt7lu9p52lhq654" },
+  { id: "litecoin", mark: "Ł", name: "Litecoin", ticker: "LTC", network: "Litecoin", rate: 86, destination: "ltc1qdemo7cashier4prototype5x2n9" },
+  { id: "lightning", mark: "ϟ", name: "BTC Lightning", ticker: "BTC", network: "Bitcoin Lightning", rate: 85869, destination: "lnbc50000n1demo7cashier4prototype" },
+  { id: "dogecoin", mark: "Ð", name: "Dogecoin", ticker: "DOGE", network: "Dogecoin", rate: 0.1, destination: "DDemo7Cashier4Prototype9x2n5" },
+  { id: "ethereum", mark: "◆", name: "Ethereum", ticker: "ETH", network: "Ethereum", rate: 2400, destination: "0xDEMO84a19f03CASHIER72B6e91" },
+  { id: "usdc", mark: "$", name: "USD Coin", ticker: "USDC", network: "Ethereum (ERC-20)", rate: 1, destination: "0xUSDC84a19f03CASHIER72B6e91" },
+  { id: "tether", mark: "₮", name: "Tether", ticker: "USDT", network: "Ethereum (ERC-20)", rate: 1, destination: "0xUSDT84a19f03CASHIER72B6e91" },
+] as const;
+type CryptoAssetId = (typeof cryptoAssets)[number]["id"];
 type PaymentGroup = "cards" | "crypto" | "other";
+type WithdrawalScenario = "available" | "empty";
 function Button({
   children,
   onClick,
@@ -134,8 +172,8 @@ function TrustPanel() {
 
 export default function App() {
   const [flow, dispatch] = useReducer(reducer, undefined, initialFlow);
-  const [open, setOpen] = useState(false),
-    [saved, setSaved] = useState(false),
+  const [open, setOpen] = useState(true),
+    [saved, setSaved] = useState(true),
     [balance, setBalance] = useState(24.5);
   const [card, setCard] = useState<Card>(emptyCard),
     [errors, setErrors] = useState<Record<string, string>>({});
@@ -160,8 +198,19 @@ export default function App() {
     [menu, setMenu] = useState(false),
     [search, setSearch] = useState(""),
     [uccColour, setUccColour] = useState(false);
+  const [withdrawalScenario, setWithdrawalScenario] =
+      useState<WithdrawalScenario>("empty"),
+    [withdrawalMethod, setWithdrawalMethod] = useState(""),
+    [withdrawalAmount, setWithdrawalAmount] = useState("100"),
+    [withdrawalSubmitted, setWithdrawalSubmitted] = useState(false);
+  const [transactionFrom, setTransactionFrom] = useState("2026-09-15"),
+    [transactionTo, setTransactionTo] = useState("2026-09-22"),
+    [transactionSearchRun, setTransactionSearchRun] = useState(true);
   const [paymentChoice, setPaymentChoice] = useState("card"),
     [paymentGroup, setPaymentGroup] = useState<PaymentGroup>("cards");
+  const [cryptoAsset, setCryptoAsset] = useState<CryptoAssetId>("bitcoin"),
+    [cryptoStage, setCryptoStage] = useState<"select" | "details">("select"),
+    [cryptoCopied, setCryptoCopied] = useState(false);
   const [receipt, setReceipt] = useState<{
     amount: number;
     bonus: string | null;
@@ -206,6 +255,16 @@ export default function App() {
     setSection("Deposit");
     setPaymentChoice("card");
     setPaymentGroup("cards");
+    setCryptoAsset("bitcoin");
+    setCryptoStage("select");
+    setCryptoCopied(false);
+    setWithdrawalScenario("empty");
+    setWithdrawalMethod("");
+    setWithdrawalAmount("100");
+    setWithdrawalSubmitted(false);
+    setTransactionFrom("2026-09-15");
+    setTransactionTo("2026-09-22");
+    setTransactionSearchRun(true);
   }
   function launch(code?: string) {
     entry.current = document.activeElement as HTMLElement;
@@ -224,14 +283,30 @@ export default function App() {
     setErrors({});
     setEditingAddress(false);
     setDebug(false);
+    if (paymentChoice === "card" && flow.method === "new") {
+      dispatch({ type: "navigate", step: 0 });
+    }
   }
   useEffect(() => {
     if (!open) return;
     const el = dialog.current!;
-    el.showModal();
+    el.show();
     const old = document.body.style.overflow;
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key !== "Escape") return;
+      event.preventDefault();
+      close();
+    };
+    window.addEventListener("keydown", handleEscape);
     document.body.style.overflow = "hidden";
+    const focusFrame = requestAnimationFrame(() => {
+      dialog.current
+        ?.querySelector<HTMLElement>("#cashier-title")
+        ?.focus({ preventScroll: true });
+    });
     return () => {
+      cancelAnimationFrame(focusFrame);
+      window.removeEventListener("keydown", handleEscape);
       el.close();
       document.body.style.overflow = old;
       entry.current?.focus();
@@ -244,7 +319,7 @@ export default function App() {
     );
     heading?.focus();
     heading?.scrollIntoView({ block: "nearest" });
-  }, [flow.step, section, result, open]);
+  }, [flow.step, section, result]);
   function go(step: Step) {
     dispatch({ type: "navigate", step });
     setErrors({});
@@ -265,6 +340,11 @@ export default function App() {
     dispatch({ type: "bonus", code: found.code });
     setCouponError("");
     setCouponOpen(false);
+    if (section === "Coupons") {
+      setResult(null);
+      setSection("Deposit");
+      go(flow.reached >= 1 ? 1 : 0);
+    }
   }
   async function pay() {
     if (paymentLock.current) return;
@@ -320,6 +400,24 @@ export default function App() {
     amountIssue ? "Amount needs attention" : money(Number(flow.amount)),
     "Review & deposit",
   ];
+  const withdrawableBalance = withdrawalScenario === "available" ? 500 : 0;
+  const selectedWithdrawal = withdrawalMethods.find(
+    (method) => method.id === withdrawalMethod,
+  );
+  const withdrawalValue = Number(withdrawalAmount);
+  const withdrawalIssue = selectedWithdrawal
+    ? withdrawalValue < selectedWithdrawal.minimum
+      ? `Minimum withdrawal is ${money(selectedWithdrawal.minimum)}.`
+      : withdrawalValue > Math.min(2500, withdrawableBalance)
+        ? `Enter no more than ${money(Math.min(2500, withdrawableBalance))}.`
+        : ""
+    : "Choose a withdrawal method.";
+  const isCryptoPayment = ["crypto", "usdt", "lightning"].includes(paymentChoice);
+  const selectedCrypto = cryptoAssets.find((asset) => asset.id === cryptoAsset)!;
+  const quotedCryptoAmount =
+    selectedCrypto.rate === 1
+      ? Number(flow.amount || 0).toFixed(2)
+      : (Number(flow.amount || 0) / selectedCrypto.rate).toFixed(8);
   const debugPanel = (
     <div className="review-controls">
       <button
@@ -361,6 +459,22 @@ export default function App() {
               >
                 <option value="new">New card</option>
                 <option value="saved">Saved Visa</option>
+              </select>
+            </label>
+            <label className="field">
+              Withdrawal scenario
+              <select
+                aria-label="Withdrawal scenario"
+                value={withdrawalScenario}
+                onChange={(e) => {
+                  setWithdrawalScenario(e.target.value as WithdrawalScenario);
+                  setWithdrawalMethod("");
+                  setWithdrawalAmount("100");
+                  setWithdrawalSubmitted(false);
+                }}
+              >
+                <option value="empty">No withdrawable balance</option>
+                <option value="available">Withdrawable balance</option>
               </select>
             </label>
             <Field
@@ -626,17 +740,18 @@ export default function App() {
           {uccColour ? "Monochrome view" : "Colour view"}
         </button>
       </div>
-      {!open && debugPanel}
       {open && (
-        <dialog
-          ref={dialog}
-          aria-labelledby="cashier-title"
-          onCancel={(e) => {
-            e.preventDefault();
-            close();
-          }}
-          className="cashier-dialog"
-        >
+        <>
+          <div className="cashier-scrim" aria-hidden="true" onClick={close} />
+          <dialog
+            ref={dialog}
+            aria-labelledby="cashier-title"
+            onCancel={(e) => {
+              e.preventDefault();
+              close();
+            }}
+            className={`cashier-dialog ${uccColour ? "cashier-colour" : "cashier-wireframe"}`}
+          >
           <div className="cashier-header">
             <button
               className="cashier-back"
@@ -647,8 +762,7 @@ export default function App() {
               <ArrowLeft size={19} />
             </button>
             <div className="cashier-branding">
-              <img src="/reels-grande-logo.svg" alt="Reels Grande" />
-              <h2 id="cashier-title">Cashier</h2>
+              <h2 id="cashier-title" tabIndex={-1}>Cashier</h2>
             </div>
             <button
               className="icon-button"
@@ -777,6 +891,11 @@ export default function App() {
                                                   ? "crypto"
                                                   : "cashapp",
                                             );
+                                            if (group === "crypto") {
+                                              setCryptoAsset("bitcoin");
+                                              setCryptoStage("select");
+                                              setCryptoCopied(false);
+                                            }
                                             setCard(emptyCard());
                                           }}
                                         >
@@ -788,15 +907,15 @@ export default function App() {
                                   <div className="method-grid">
                                     {paymentGroup === "cards" ? (
                                       <section className="card-method-panel">
-                                        {saved && (
+                                        {saved && flow.method === "saved" ? (
                                           <>
                                             <h4>Your last used credit card</h4>
                                             <button
-                                              className={`card-method-row saved-card-row ${flow.method === "saved" ? "chosen" : ""}`}
+                                              className="card-method-row saved-card-row chosen"
                                               aria-label="Visa •••• 5602 Last used credit card"
-                                              aria-pressed={flow.method === "saved"}
+                                              aria-pressed="true"
                                               onClick={() => {
-                                                dispatch({ type: "method", method: "saved" });
+                                                dispatch({ type: "method", method: "new" });
                                                 setPaymentChoice("card");
                                                 setCard(emptyCard());
                                               }}
@@ -806,40 +925,71 @@ export default function App() {
                                               <strong>•••• 5602</strong>
                                               <span className="change-card-label">Change card</span>
                                             </button>
-                                            <h4 className="different-card-title">Use a different card</h4>
                                           </>
-                                        )}
-                                        {!saved && <h4>Add a new credit card</h4>}
-                                        {!saved && <CardBrands />}
-                                        <button
-                                          className={`card-method-row new-card-row ${flow.method === "new" ? "chosen" : ""}`}
-                                          aria-label={
-                                            saved
-                                              ? "Add new credit card. Visa, Mastercard, American Express and Discover accepted"
-                                              : undefined
-                                          }
-                                          aria-pressed={flow.method === "new"}
-                                          onClick={() => {
-                                            dispatch({ type: "method", method: "new" });
-                                            setPaymentChoice("card");
-                                            setCard(emptyCard());
-                                          }}
-                                        >
-                                          {saved ? (
-                                            <span className="selection-circle">
-                                              {flow.method === "new" ? <Check size={14} /> : null}
-                                            </span>
-                                          ) : (
-                                            <span className="add-card-mark">+</span>
-                                          )}
-                                          {saved ? <CardBrands /> : <strong>Add new credit card</strong>}
-                                          {saved && <span className="pay-any-card">Pay with any card</span>}
-                                          <ChevronRight size={18} />
-                                        </button>
-                                        {!saved && (
-                                          <small className="save-card-note">
-                                            You can save your card for faster payments next time.
-                                          </small>
+                                        ) : (
+                                          <div className="inline-card-entry">
+                                            <div className="row">
+                                              <h4>{saved ? "Enter a new credit card" : "Credit card details"}</h4>
+                                              {saved && (
+                                                <button
+                                                  className="text-button"
+                                                  onClick={() => {
+                                                    dispatch({ type: "method", method: "saved" });
+                                                    setCard(emptyCard());
+                                                    setErrors({});
+                                                  }}
+                                                >
+                                                  Use saved Visa
+                                                </button>
+                                              )}
+                                            </div>
+                                            <CardBrands />
+                                            <Field
+                                              label="Card number"
+                                              aria-label="Card number"
+                                              inputMode="numeric"
+                                              autoComplete="off"
+                                              placeholder="Card number"
+                                              maxLength={23}
+                                              value={card.number}
+                                              error={errors.number}
+                                              onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                                changeCard("number", e.target.value)
+                                              }
+                                            />
+                                            <div className="form-row">
+                                              <Field
+                                                label="MM / YY"
+                                                aria-label="MM / YY"
+                                                placeholder="MM / YY"
+                                                inputMode="numeric"
+                                                maxLength={5}
+                                                autoComplete="off"
+                                                value={card.expiry}
+                                                error={errors.expiry}
+                                                onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                                  changeCard("expiry", e.target.value)
+                                                }
+                                              />
+                                              <Field
+                                                label="CVV"
+                                                aria-label="CVV"
+                                                type="password"
+                                                inputMode="numeric"
+                                                placeholder="CVV"
+                                                maxLength={4}
+                                                autoComplete="off"
+                                                value={card.cvv}
+                                                error={errors.cvv}
+                                                onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                                                  changeCard("cvv", e.target.value)
+                                                }
+                                              />
+                                            </div>
+                                            <small className="save-card-note">
+                                              You can save your card for faster payments next time.
+                                            </small>
+                                          </div>
                                         )}
                                       </section>
                                     ) : (
@@ -853,6 +1003,11 @@ export default function App() {
                                             onClick={() => {
                                               dispatch({ type: "method", method: "new" });
                                               setPaymentChoice(method.id);
+                                              if (method.id === "crypto") setCryptoAsset("bitcoin");
+                                              if (method.id === "usdt") setCryptoAsset("tether");
+                                              if (method.id === "lightning") setCryptoAsset("lightning");
+                                              setCryptoStage("select");
+                                              setCryptoCopied(false);
                                               setCard(emptyCard());
                                             }}
                                           >
@@ -868,9 +1023,15 @@ export default function App() {
                                   <div className="actions">
                                     <Button
                                       primary
-                                      onClick={() =>
-                                        dispatch({ type: "advance" })
-                                      }
+                                      onClick={() => {
+                                        if (paymentChoice === "card" && flow.method === "new") {
+                                          const issues = cardErrors(card, false);
+                                          setErrors(issues);
+                                          if (Object.keys(issues).length) return;
+                                        }
+                                        setErrors({});
+                                        dispatch({ type: "advance" });
+                                      }}
                                     >
                                       {saved ? "Continue & pick a bonus" : "Continue"}
                                     </Button>
@@ -1150,13 +1311,85 @@ export default function App() {
                               )}
                               {i === 3 && (
                                 <>
-                                  <TrustPanel />
+                                  {!isCryptoPayment && <TrustPanel />}
                                   {amountIssue && (
                                     <p role="alert" className="error">
                                       {amountIssue}
                                     </p>
                                   )}
-                                  {paymentChoice !== "card" ? (
+                                  {isCryptoPayment ? (
+                                    cryptoStage === "select" ? (
+                                      <section className="crypto-asset-selection">
+                                        <h3>Choose your cryptocurrency</h3>
+                                        <div className="crypto-asset-grid">
+                                          {cryptoAssets.map((asset) => (
+                                            <button
+                                              key={asset.id}
+                                              className={cryptoAsset === asset.id ? "selected" : ""}
+                                              aria-pressed={cryptoAsset === asset.id}
+                                              onClick={() => {
+                                                setCryptoAsset(asset.id);
+                                                setCryptoCopied(false);
+                                              }}
+                                            >
+                                              <span className={`crypto-asset-mark ${asset.id}`}>
+                                                {asset.id === "bitcoin" ? <Bitcoin size={20} /> : asset.mark}
+                                              </span>
+                                              <strong>{asset.name}</strong>
+                                              {cryptoAsset === asset.id && <Check size={13} />}
+                                            </button>
+                                          ))}
+                                        </div>
+                                        <div className="actions">
+                                          <Button primary onClick={() => setCryptoStage("details")}>
+                                            Deposit {money(Number(flow.amount) || 0)}
+                                          </Button>
+                                        </div>
+                                        <aside className="crypto-help">
+                                          <CircleHelp size={16} aria-hidden="true" />
+                                          <p>Need help making your first crypto deposit?</p>
+                                          <button>Yes, please</button>
+                                        </aside>
+                                      </section>
+                                    ) : (
+                                      <section className="crypto-final-details">
+                                        <h3>Deposit via {selectedCrypto.name}</h3>
+                                        <button
+                                          className="crypto-change-method"
+                                          onClick={() => {
+                                            setCryptoStage("select");
+                                            setCryptoCopied(false);
+                                          }}
+                                        >
+                                          or choose a different method
+                                        </button>
+                                        <div className="crypto-amount-summary">
+                                          <div><span>USD</span><strong>{Number(flow.amount || 0).toFixed(2)}</strong></div>
+                                          <div><span>Amount in {selectedCrypto.ticker}</span><strong>{quotedCryptoAmount}</strong></div>
+                                        </div>
+                                        <div className="demo-qr" aria-label="Demo payment QR code" />
+                                        <button className="crypto-download">⇩ Download QR code</button>
+                                        <code className="crypto-address">{selectedCrypto.destination}</code>
+                                        <Button
+                                          primary
+                                          onClick={() => {
+                                            navigator.clipboard?.writeText(selectedCrypto.destination).catch(() => undefined);
+                                            setCryptoCopied(true);
+                                          }}
+                                        >
+                                          {cryptoCopied ? "Copied" : "Copy"}
+                                        </Button>
+                                        <aside className="crypto-important">
+                                          <strong>Important</strong>
+                                          <ul>
+                                            <li>Deposits below $20 will not be credited.</li>
+                                            <li>Confirmation time: 5–30 minutes.</li>
+                                            <li>Network fees may affect the final amount.</li>
+                                          </ul>
+                                        </aside>
+                                      </section>
+                                    )
+                                  ) : paymentChoice !== "card" ? (
                                     <div className="provider-handoff">
                                       <span className="method-mark">{paymentMethods.find((method) => method.id === paymentChoice)?.mark}</span>
                                       <div>
@@ -1165,51 +1398,11 @@ export default function App() {
                                       </div>
                                     </div>
                                   ) : flow.method === "new" ? (
-                                    <>
-                                      <Field
-                                        label="Card number"
-                                        inputMode="numeric"
-                                        autoComplete="off"
-                                        placeholder="Card number"
-                                        maxLength={23}
-                                        value={card.number}
-                                        error={errors.number}
-                                        onChange={(
-                                          e: React.ChangeEvent<HTMLInputElement>,
-                                        ) =>
-                                          changeCard("number", e.target.value)
-                                        }
-                                      />
-                                      <div className="form-row">
-                                      <Field
-                                        label="MM / YY"
-                                        placeholder="MM / YY"
-                                        inputMode="numeric"
-                                        maxLength={5}
-                                        autoComplete="off"
-                                        value={card.expiry}
-                                        error={errors.expiry}
-                                        onChange={(
-                                          e: React.ChangeEvent<HTMLInputElement>,
-                                        ) =>
-                                          changeCard("expiry", e.target.value)
-                                        }
-                                      />
-                                        <Field
-                                          label="CVV"
-                                          type="password"
-                                          inputMode="numeric"
-                                          placeholder="CVV"
-                                          maxLength={4}
-                                          autoComplete="off"
-                                          value={card.cvv}
-                                          error={errors.cvv}
-                                          onChange={(
-                                            e: React.ChangeEvent<HTMLInputElement>,
-                                          ) => changeCard("cvv", e.target.value)}
-                                        />
-                                      </div>
-                                    </>
+                                    <div className="saved-payment-summary">
+                                      <div><span>Payment Method</span><strong>Visa •••• 4242</strong></div>
+                                      <div><span>Bonus / Coupon</span><strong>{offer ? `${offer.code} (${offer.title.split("%")[0]}%)` : "No bonus"}</strong></div>
+                                      <div><span>Deposit Amount</span><strong>{money(Number(flow.amount) || 0)}</strong></div>
+                                    </div>
                                   ) : (
                                     <div className="saved-payment-summary">
                                       <div><span>Payment Method</span><strong>Visa ••5602</strong></div>
@@ -1329,21 +1522,27 @@ export default function App() {
                                       {errors.address}
                                     </p>
                                   )}
-                                  <div className="actions">
-                                    <Button
-                                      primary
-                                      disabled={processing}
-                                      onClick={pay}
-                                    >
-                                      {processing
-                                        ? "Processing…"
-                                        : `Deposit ${money(Number(flow.amount) || 0)}`}
-                                      <LockKeyhole size={15} />
-                                    </Button>
-                                  </div>
-                                  <p className="deposit-footnote">
-                                    Funds are credited to your account quickly.
-                                  </p>
+                                  {!isCryptoPayment && (
+                                    <>
+                                      <div className="actions">
+                                        <Button
+                                          primary
+                                          disabled={processing}
+                                          onClick={pay}
+                                        >
+                                          {processing
+                                            ? "Processing…"
+                                            : paymentChoice !== "card"
+                                              ? "Continue to provider"
+                                              : `Deposit ${money(Number(flow.amount) || 0)}`}
+                                          <LockKeyhole size={15} />
+                                        </Button>
+                                      </div>
+                                      <p className="deposit-footnote">
+                                        Funds are credited to your account quickly.
+                                      </p>
+                                    </>
+                                  )}
                                 </>
                               )}
                             </div>
@@ -1428,75 +1627,278 @@ export default function App() {
                     </button>
                   )}
                 </div>
-              ) : section === "Coupons" ? (
-                <>
-                  <h3 tabIndex={-1} data-active-heading>
-                    Your coupons
-                  </h3>
-                  <p className="muted">
-                    Choose a coupon in your deposit journey.
-                  </p>
-                  {offers.map((o) => (
-                    <article className="offer" key={o.code}>
-                      <div className="offer-copy">
-                        <strong>{o.code}</strong>
-                        <p>
-                          {o.title} · Min. {money(o.minimum)}
-                        </p>
+              ) : section === "Withdraw" ? (
+                <div className="withdrawal-view">
+                  {withdrawalSubmitted && selectedWithdrawal ? (
+                    <div className="withdrawal-confirmation" role="status">
+                      <span className="result-icon"><Check size={30} /></span>
+                      <span className="eyebrow">Withdrawal requested</span>
+                      <h3>{money(withdrawalValue)} is being reviewed</h3>
+                      <p>
+                        Your {selectedWithdrawal.name.toLowerCase()} request has
+                        been added to the transaction queue.
+                      </p>
+                      <small>Reference WD-0001</small>
+                      <div className="actions">
+                        <Button
+                          primary
+                          onClick={() => setSection("Transactions")}
+                        >
+                          View transactions
+                        </Button>
+                        <Button onClick={() => setWithdrawalSubmitted(false)}>
+                          Make another withdrawal
+                        </Button>
                       </div>
+                    </div>
+                  ) : (
+                    <>
+                      <section className="withdrawal-guidance">
+                        <h3 tabIndex={-1} data-active-heading>
+                          Verification and withdrawal
+                        </h3>
+                        <p>
+                          {withdrawalScenario === "empty"
+                            ? "To access your withdrawal methods and upload documents for account verification, you’ll need to have funds in your account. Once you make a deposit, these options will become available to you. We’re here to help you every step of the way!"
+                            : "Choose a withdrawal method below. Additional identity verification may be required before your request can be approved."}
+                        </p>
+                        <p>
+                          If you need assistance, contact us through{" "}
+                          <button
+                            className="inline-link"
+                            onClick={() => {
+                              close();
+                              setHostPage("Support");
+                            }}
+                          >
+                            Live Chat
+                          </button>
+                          .
+                        </p>
+                      </section>
+
+                      <section className="withdrawal-balance" aria-label="Withdrawable balance">
+                        <span>Withdrawable balance*</span>
+                        <strong>{money(withdrawableBalance)}</strong>
+                        <small>
+                          * This is your current casino balance, though the
+                          approved withdrawal amount may differ due to maximum
+                          cash-out limits or removal of casino bonus cash.
+                        </small>
+                      </section>
+
+                      <section className="withdrawal-methods">
+                        <h3>Withdrawal methods</h3>
+                        {withdrawalMethods.map((method) => {
+                          const MethodIcon = method.Icon;
+                          const locked = withdrawalScenario === "empty";
+                          const selected = withdrawalMethod === method.id;
+                          return (
+                            <button
+                              key={method.id}
+                              className={selected ? "selected" : ""}
+                              disabled={locked}
+                              aria-pressed={selected}
+                              onClick={() => {
+                                setWithdrawalMethod(method.id);
+                                setWithdrawalAmount(String(method.minimum));
+                              }}
+                            >
+                              <span className="withdrawal-method-icon">
+                                <MethodIcon size={20} />
+                              </span>
+                              <span>
+                                <strong>{method.name}</strong>
+                                <small>{method.detail}</small>
+                              </span>
+                              {locked ? (
+                                <LockKeyhole size={20} />
+                              ) : selected ? (
+                                <Check size={20} />
+                              ) : (
+                                <ChevronRight size={20} />
+                              )}
+                            </button>
+                          );
+                        })}
+                      </section>
+
+                      {withdrawalScenario === "available" && selectedWithdrawal && (
+                        <section className="withdrawal-request">
+                          <div>
+                            <span className="eyebrow">Selected method</span>
+                            <h3>{selectedWithdrawal.name}</h3>
+                          </div>
+                          <Field
+                            label="Withdrawal amount"
+                            type="number"
+                            min={selectedWithdrawal.minimum}
+                            max={Math.min(2500, withdrawableBalance)}
+                            step="1"
+                            value={withdrawalAmount}
+                            error={withdrawalIssue || undefined}
+                            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+                              setWithdrawalAmount(e.target.value)
+                            }
+                          />
+                          <Button
+                            primary
+                            disabled={!!withdrawalIssue}
+                            onClick={() => setWithdrawalSubmitted(true)}
+                          >
+                            Request {money(withdrawalValue || 0)} withdrawal
+                          </Button>
+                        </section>
+                      )}
+                    </>
+                  )}
+                </div>
+              ) : section === "Coupons" ? (
+                <div className="coupon-hub">
+                  <section className="coupon-redeem">
+                    <h3 tabIndex={-1} data-active-heading>
+                      Enter your coupon code
+                    </h3>
+                    <div className="coupon-redeem-row">
+                      <Field
+                        label="Coupon code"
+                        aria-label="Coupon code"
+                        placeholder="Coupon code"
+                        value={coupon}
+                        error={couponError}
+                        onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+                          setCoupon(e.target.value);
+                          setCouponError("");
+                        }}
+                      />
+                      <Button primary onClick={applyCoupon}>Redeem</Button>
+                    </div>
+                  </section>
+
+                  <section className="coupon-featured">
+                    <div className="coupon-featured-copy">
+                      <span className="eyebrow">Featured promotion</span>
+                      <h3>{offers[0].title}</h3>
+                      <p>{offers[0].description}</p>
                       <Button
+                        primary
                         onClick={() => {
                           setResult(null);
-                          dispatch({ type: "bonus", code: o.code });
+                          dispatch({ type: "bonus", code: offers[0].code });
                           setSection("Deposit");
                           go(flow.reached >= 1 ? 1 : 0);
                         }}
                       >
-                        Use coupon
+                        Claim now
                       </Button>
-                    </article>
-                  ))}
-                </>
-              ) : section === "Transactions" ? (
-                <>
-                  <h3 tabIndex={-1} data-active-heading>
-                    Transactions
-                  </h3>
-                  <p className="muted">This session’s deposit activity</p>
-                  {transactions.length ? (
-                    transactions
-                      .slice()
-                      .reverse()
-                      .map((t) => (
-                        <div className="transaction" key={t.id}>
-                          <div>
-                            <strong>Card deposit</strong>
-                            <small>RG-{String(t.id).padStart(4, "0")}</small>
-                          </div>
-                          <strong>{money(t.amount)}</strong>
-                          <span className="status-pill">{t.status}</span>
+                    </div>
+                    <div className="coupon-art" aria-hidden="true">
+                      <Gift size={32} />
+                      <span>Promotion artwork</span>
+                    </div>
+                  </section>
+
+                  <h3 className="coupon-list-title">Recommended promotions</h3>
+                  <div className="coupon-recommendations">
+                    {offers.map((o) => (
+                      <article className="coupon-card" key={o.code}>
+                        <div className="coupon-card-art" aria-hidden="true">
+                          {o.title.split(" ")[0]}
                         </div>
-                      ))
+                        <div>
+                          <span className="eyebrow">Code {o.code}</span>
+                          <h3>{o.title}</h3>
+                          <p>{o.description} Minimum deposit {money(o.minimum)}.</p>
+                          <button
+                            className="inline-link"
+                            onClick={() => {
+                              setResult(null);
+                              dispatch({ type: "bonus", code: o.code });
+                              setSection("Deposit");
+                              go(flow.reached >= 1 ? 1 : 0);
+                            }}
+                          >
+                            Use promotion
+                          </button>
+                        </div>
+                      </article>
+                    ))}
+                  </div>
+                </div>
+              ) : section === "Transactions" ? (
+                <div className="transactions-view">
+                  <h3 tabIndex={-1} data-active-heading>
+                    My transactions
+                  </h3>
+                  <section className="transaction-filters">
+                    <span className="transaction-filter-label">Dates</span>
+                    <div className="transaction-date-fields">
+                      <Field
+                        label="From"
+                        type="date"
+                        value={transactionFrom}
+                        max={transactionTo}
+                        onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+                          setTransactionFrom(e.target.value);
+                          setTransactionSearchRun(false);
+                        }}
+                      />
+                      <Field
+                        label="To"
+                        type="date"
+                        value={transactionTo}
+                        min={transactionFrom}
+                        onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+                          setTransactionTo(e.target.value);
+                          setTransactionSearchRun(false);
+                        }}
+                      />
+                    </div>
+                    <Button primary onClick={() => setTransactionSearchRun(true)}>
+                      Search
+                    </Button>
+                  </section>
+
+                  {transactionSearchRun &&
+                  (transactions.length || withdrawalSubmitted) ? (
+                    <section className="transaction-results" aria-label="Transaction results">
+                      {withdrawalSubmitted && selectedWithdrawal && (
+                        <div className="transaction">
+                          <div>
+                            <strong>{selectedWithdrawal.name} withdrawal</strong>
+                            <small>WD-0001 · 22 Sep 2026</small>
+                          </div>
+                          <strong>−{money(withdrawalValue)}</strong>
+                          <span className="status-pill">pending</span>
+                        </div>
+                      )}
+                      {transactions
+                        .slice()
+                        .reverse()
+                        .map((t) => (
+                          <div className="transaction" key={t.id}>
+                            <div>
+                              <strong>Card deposit</strong>
+                              <small>RG-{String(t.id).padStart(4, "0")} · 22 Sep 2026</small>
+                            </div>
+                            <strong>{money(t.amount)}</strong>
+                            <span className="status-pill">{t.status}</span>
+                          </div>
+                        ))}
+                    </section>
+                  ) : transactionSearchRun ? (
+                    <div className="transaction-empty">
+                      <strong>No transactions in selected date range.</strong>
+                      <p>Please select a new date range for different results.</p>
+                    </div>
                   ) : (
-                    <div className="empty-state">
-                      No deposits yet. Your first deposit will appear here.
+                    <div className="transaction-empty">
+                      <strong>Date range changed.</strong>
+                      <p>Select Search to refresh your transactions.</p>
                     </div>
                   )}
-                  <Button onClick={() => setSection("Deposit")}>
-                    Return to deposit
-                  </Button>
-                </>
-              ) : (
-                <>
-                  <h3 tabIndex={-1} data-active-heading>
-                    Withdraw
-                  </h3>
-                  <p>Withdrawal options will appear here.</p>
-                  <Button onClick={() => setSection("Deposit")}>
-                    Return to deposit
-                  </Button>
-                </>
-              )}
+                </div>
+              ) : null}
             </div>
           </div>
           <nav
@@ -1551,9 +1953,10 @@ export default function App() {
               Inbox
             </button>
           </nav>
-          {debugPanel}
-        </dialog>
+          </dialog>
+        </>
       )}
+      {debugPanel}
     </>
   );
 }

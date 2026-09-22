@@ -39,7 +39,7 @@ export type Flow = {
 export const initialFlow = (): Flow => ({
   step: 0,
   reached: 0,
-  method: "new",
+  method: "saved",
   bonus: undefined,
   amount: "50",
 });
