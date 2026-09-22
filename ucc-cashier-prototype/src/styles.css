@@ -1415,9 +1415,19 @@ fieldset {
 }
 .active-offer-actions > * { min-height: 40px; }
 .active-offer-actions .primary {
+  position: fixed;
+  z-index: 50;
+  left: 50%;
+  bottom: max(78px, calc((100dvh - 620px) / 2 + 14px));
+  width: 160px;
+  min-height: 44px;
+  padding: 10px 24px;
   border-color: #00c96b;
+  border-radius: 24px;
   background: #00c96b;
+  box-shadow: 0 5px 14px rgba(0, 121, 63, .32);
   color: #fff;
+  transform: translateX(-50%);
   text-transform: uppercase;
 }
 .cancel-link {
@@ -1447,16 +1457,7 @@ fieldset {
   }
   .active-offer-actions .cancel-link { width: 100%; }
   .active-offer-actions .primary {
-    position: fixed;
-    z-index: 50;
-    left: 50%;
     bottom: calc(72px + env(safe-area-inset-bottom));
-    width: 160px;
-    min-height: 44px;
-    padding: 10px 24px;
-    border-radius: 24px;
-    box-shadow: 0 5px 14px rgba(0, 121, 63, .32);
-    transform: translateX(-50%);
   }
 }
 .deposit-without {
