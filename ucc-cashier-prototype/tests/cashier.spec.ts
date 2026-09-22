@@ -167,11 +167,13 @@ test("crypto selection opens asset choice before matching payment details", asyn
 }) => {
   await open(page);
   await page.getByRole("button", { name: /Crypto/ }).click();
-  await page.getByRole("button", { name: /USDT.*Tether/ }).click();
+  await expect(page.getByRole("button", { name: /USDT.*Tether/ })).toHaveCount(0);
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(page.getByRole("heading", { name: "Choose your cryptocurrency" })).toBeVisible();
+  await expect(page.getByRole("button", { name: /Tether/ })).toHaveAttribute("aria-pressed", "false");
+  await page.getByRole("button", { name: /Tether/ }).click();
   await expect(page.getByRole("button", { name: /Tether/ })).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Deposit $50.00" }).click();
   await expect(page.getByRole("heading", { name: "Deposit via Tether" })).toBeVisible();

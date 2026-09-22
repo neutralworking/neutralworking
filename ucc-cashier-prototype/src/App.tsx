@@ -51,7 +51,6 @@ const games = [
 ] as const;
 const paymentMethods = [
   { id: "crypto", group: "crypto", mark: "◈", name: "Crypto", detail: "Bitcoin, Litecoin, Ethereum and more" },
-  { id: "usdt", group: "crypto", mark: "₮", name: "USDT", detail: "Tether" },
   { id: "changelly", group: "crypto", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
   { id: "lightning", group: "crypto", mark: "ϟ", name: "Bitcoin Lightning", detail: "Fast Bitcoin payment" },
   { id: "cashapp", group: "other", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
@@ -436,7 +435,7 @@ export default function App() {
         ? `Enter no more than ${money(Math.min(2500, withdrawableBalance))}.`
         : ""
     : "Choose a withdrawal method.";
-  const isCryptoPayment = ["crypto", "usdt", "lightning"].includes(paymentChoice);
+  const isCryptoPayment = ["crypto", "lightning"].includes(paymentChoice);
   const selectedCrypto = cryptoAssets.find((asset) => asset.id === cryptoAsset)!;
   const quotedCryptoAmount =
     selectedCrypto.rate === 1
@@ -1030,7 +1029,6 @@ export default function App() {
                                               dispatch({ type: "method", method: "new" });
                                               setPaymentChoice(method.id);
                                               if (method.id === "crypto") setCryptoAsset("bitcoin");
-                                              if (method.id === "usdt") setCryptoAsset("tether");
                                               if (method.id === "lightning") setCryptoAsset("lightning");
                                               setCryptoStage("select");
                                               setCryptoCopied(false);
