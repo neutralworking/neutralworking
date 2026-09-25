@@ -211,7 +211,8 @@ export default function App() {
     [transactionSearchRun, setTransactionSearchRun] = useState(true);
   const [paymentChoice, setPaymentChoice] = useState("card"),
     [currency, setCurrency] = useState<AccountCurrency>("USD"),
-    [cardEligible, setCardEligible] = useState(true);
+    [cardEligible, setCardEligible] = useState(true),
+    [providerWindow, setProviderWindow] = useState<string | null>(null);
   const [cryptoAsset, setCryptoAsset] = useState<CryptoAssetId>("bitcoin"),
     [cryptoStage, setCryptoStage] = useState<"select" | "details">("select"),
     [cryptoCopied, setCryptoCopied] = useState(false);
@@ -226,6 +227,7 @@ export default function App() {
     entry = useRef<HTMLElement | null>(null),
     activeContinueRef = useRef<HTMLButtonElement>(null),
     paymentLock = useRef(false),
+    providerWindowRef = useRef<string | null>(null),
     run = useRef(0);
   const offer = offers.find((o) => o.code === flow.bonus),
     amountIssue = amountError(flow.amount, flow.bonus);
@@ -259,6 +261,7 @@ export default function App() {
     setDebugError("");
     setSection("Deposit");
     setPaymentChoice("card");
+    setProviderWindow(null);
     setCurrency("USD");
     setCardEligible(true);
     setCryptoAsset("bitcoin");
@@ -284,6 +287,10 @@ export default function App() {
   }
   function close() {
     if (paymentLock.current) return;
+    if (providerWindowRef.current) {
+      setProviderWindow(null);
+      return;
+    }
     setOpen(false);
     setCard(emptyCard());
     setErrors({});
@@ -293,6 +300,9 @@ export default function App() {
       dispatch({ type: "navigate", step: 0 });
     }
   }
+  useEffect(() => {
+    providerWindowRef.current = providerWindow;
+  }, [providerWindow]);
   useEffect(() => {
     if (!open) return;
     const el = dialog.current!;
@@ -444,6 +454,9 @@ export default function App() {
     paymentChoice,
   );
   const selectedCrypto = cryptoAssets.find((asset) => asset.id === cryptoAsset)!;
+  const selectedProvider = paymentMethods.find(
+    (method) => method.id === providerWindow,
+  );
   const quotedCryptoAmount =
     selectedCrypto.rate === 1
       ? Number(flow.amount || 0).toFixed(2)
@@ -1617,7 +1630,13 @@ export default function App() {
                                         <Button
                                           primary
                                           disabled={processing}
-                                          onClick={pay}
+                                          onClick={() => {
+                                            if (paymentChoice !== "card") {
+                                              setProviderWindow(paymentChoice);
+                                              return;
+                                            }
+                                            void pay();
+                                          }}
                                         >
                                           {processing
                                             ? "Processing…"
@@ -1640,6 +1659,45 @@ export default function App() {
                       );
                     })}
                   </fieldset>
+                  {providerWindow && selectedProvider && (
+                    <div className="provider-window-layer">
+                      <section
+                        className="provider-window"
+                        role="dialog"
+                        aria-modal="true"
+                        aria-labelledby="provider-window-title"
+                      >
+                        <div className="provider-window-chrome" aria-hidden="true">
+                          <span />
+                          <span />
+                          <span />
+                          <div>secure.{selectedProvider.id}.example</div>
+                        </div>
+                        <div className="provider-window-body">
+                          <span className={`method-mark method-${selectedProvider.id}`}>
+                            {selectedProvider.mark}
+                          </span>
+                          <small>Secure provider window</small>
+                          <h3 id="provider-window-title">
+                            Complete payment with {selectedProvider.name}
+                          </h3>
+                          <p>
+                            This window simulates the provider’s approval flow.
+                            Close it to return the completed transaction to the cashier.
+                          </p>
+                          <Button
+                            primary
+                            onClick={() => {
+                              setProviderWindow(null);
+                              void pay();
+                            }}
+                          >
+                            Close window to finish transaction
+                          </Button>
+                        </div>
+                      </section>
+                    </div>
+                  )}
                   {processing && (
                     <p className="processing" role="status">
                       Processing your deposit. Please wait…
@@ -1668,7 +1726,7 @@ export default function App() {
                     {result === "success"
                       ? `${money(receipt?.amount ?? 0)} has been added to your cash balance.`
                       : result === "declined"
-                        ? "Your balance has not changed. Check your details and try again."
+                        ? "Your balance has not changed. A digital wallet may have a better chance of approval than retrying the same card."
                         : "We’re waiting for confirmation. Your balance will update once the payment is approved."}
                   </p>
                   {result === "declined" && (
@@ -1686,20 +1744,29 @@ export default function App() {
                   </small>
                   <div className="actions">
                     {result === "declined" ? (
-                      <Button
-                        primary
-                        onClick={() => {
-                          setResult(null);
-                          go(
-                            paymentChoice === "card" &&
-                              flow.method === "saved"
-                              ? 2
-                              : 3,
-                          );
-                        }}
-                      >
-                        Retry by card
-                      </Button>
+                      <>
+                        <Button
+                          primary
+                          onClick={() => {
+                            setPaymentChoice("applepay");
+                            setOutcome("success");
+                            setResult(null);
+                            dispatch({ type: "advance" });
+                          }}
+                        >
+                          Use Apple Pay
+                        </Button>
+                        <Button
+                          onClick={() => {
+                            setPaymentChoice("googlepay");
+                            setOutcome("success");
+                            setResult(null);
+                            dispatch({ type: "advance" });
+                          }}
+                        >
+                          Use Google Pay
+                        </Button>
+                      </>
                     ) : (
                       <Button primary onClick={close}>
                         Back to games

@@ -131,7 +131,7 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(page.getByText("Your deposit is complete")).toBeVisible();
 });
-test("saved card decline, retry and pending without crediting balance", async ({
+test("saved card decline recommends a wallet instead of retrying the card", async ({
   page,
 }) => {
   await open(page);
@@ -149,14 +149,39 @@ test("saved card decline, retry and pending without crediting balance", async ({
   await expect(page.getByRole("button", { name: /Payment Details/ })).toHaveCount(0);
   await expect(page.getByText("Your card was declined")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
-  await debug(page);
-  await page.getByLabel("Payment outcome").selectOption("pending");
-  await page.getByRole("button", { name: "Close prototype controls" }).click();
-  await page.getByRole("button", { name: "Retry by card" }).click();
-  await expect(page.getByRole("button", { name: /Payment Details/ })).toHaveCount(0);
-  await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await expect(page.getByText("Your deposit is pending")).toBeVisible();
-  await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
+  await expect(page.getByRole("button", { name: "Retry by card" })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: "Use Apple Pay" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "Use Google Pay" })).toBeVisible();
+  await page.getByRole("button", { name: "Use Apple Pay" }).click();
+  await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
+  await expect(page.locator(".provider-handoff")).toContainText("Apple Pay");
+  await page.getByRole("button", { name: "Continue to provider" }).click();
+  await expect(
+    page.getByRole("dialog", { name: "Complete payment with Apple Pay" }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Close window to finish transaction" })
+    .click();
+  await expect(page.getByText("Your deposit is complete")).toBeVisible();
+  await expect(page.locator(".cashier-balance-state")).toContainText("$74.50");
+});
+test("provider handoff opens a mock browser window and returns completion", async ({
+  page,
+}) => {
+  await open(page);
+  await page.getByRole("button", { name: "Changelly", exact: true }).click();
+  await noBonus(page);
+  await page.getByRole("button", { name: "Continue to provider" }).click();
+  const providerWindow = page.getByRole("dialog", {
+    name: "Complete payment with Changelly",
+  });
+  await expect(providerWindow).toBeVisible();
+  await expect(providerWindow).toContainText("secure.changelly.example");
+  await providerWindow
+    .getByRole("button", { name: "Close window to finish transaction" })
+    .click();
+  await expect(page.getByText("Your deposit is complete")).toBeVisible();
+  await expect(page.locator(".cashier-balance-state")).toContainText("$74.50");
 });
 test("separate crypto method opens matching payment details", async ({
   page,
