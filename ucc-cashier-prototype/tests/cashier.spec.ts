@@ -198,6 +198,21 @@ test("USD and AUD method order, no categories or caption, and card eligibility",
     "↗ Changelly",
   ]);
 
+  for (const method of [
+    "Apple Pay",
+    "Google Pay",
+    "Bitcoin (BTC)",
+    "Litecoin (LTC)",
+    "Ethereum (ETH)",
+    "Cashlib",
+    "Changelly",
+  ]) {
+    const choice = page.getByRole("button", { name: method, exact: true });
+    await choice.click();
+    await expect(choice).toHaveAttribute("aria-pressed", "true");
+    await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
+  }
+
   await debug(page);
   await page.getByLabel("Account currency").selectOption("AUD");
   await page.getByRole("button", { name: "Close prototype controls" }).click();

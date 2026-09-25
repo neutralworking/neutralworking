@@ -1038,7 +1038,6 @@ export default function App() {
                                             className={`method-choice method-${method.id} ${paymentChoice === method.id ? "chosen" : ""}`}
                                             aria-pressed={paymentChoice === method.id}
                                             onClick={() => {
-                                              dispatch({ type: "method", method: "new" });
                                               setPaymentChoice(method.id);
                                               if (["bitcoin", "litecoin", "ethereum"].includes(method.id))
                                                 setCryptoAsset(method.id as CryptoAssetId);
