@@ -1376,7 +1376,10 @@ export default function App() {
                                         }
                                       }}
                                     >
-                                      Continue
+                                      {paymentChoice === "card" &&
+                                      flow.method === "saved"
+                                        ? `Deposit ${money(Number(flow.amount) || 0)}`
+                                        : "Continue"}
                                     </Button>
                                   </div>
                                 </>

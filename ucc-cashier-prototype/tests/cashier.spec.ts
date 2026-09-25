@@ -24,7 +24,9 @@ async function next(page: Page) {
 async function noBonus(page: Page) {
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
-  await page.getByRole("button", { name: "Continue", exact: true }).click();
+  await page
+    .getByRole("button", { name: /^(?:Continue|Deposit \$[\d,.]+)$/ })
+    .click();
 }
 async function debug(page: Page) {
   await page.getByRole("button", { name: "Prototype controls" }).click();
@@ -111,7 +113,7 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   }
   await expect(page.locator(".active-offer-continue")).toBeVisible();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await page.getByRole("button", { name: "Continue", exact: true }).click();
+  await page.getByRole("button", { name: /^Deposit / }).click();
   await expect(
     page.getByText("Minimum deposit $99.00 with BIGWIN420."),
   ).toBeVisible();
@@ -124,11 +126,11 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   for (const amount of ["9", "2001", "12.345", "abc"]) {
     await enterCustomAmount(page, amount);
-    await page.getByRole("button", { name: "Continue", exact: true }).click();
+    await page.getByRole("button", { name: /^Deposit / }).click();
     await expect(page.locator(".field .error")).toBeVisible();
   }
   await enterCustomAmount(page, "10");
-  await page.getByRole("button", { name: "Continue", exact: true }).click();
+  await page.getByRole("button", { name: "Deposit $10.00", exact: true }).click();
   await expect(page.getByText("Your deposit is complete")).toBeVisible();
 });
 test("saved card decline recommends a wallet instead of retrying the card", async ({
@@ -144,7 +146,14 @@ test("saved card decline recommends a wallet instead of retrying the card", asyn
   await expect(
     page.getByRole("button", { name: /Visa.*Last used/ }),
   ).toHaveAttribute("aria-pressed", "true");
-  await noBonus(page);
+  await next(page);
+  await page.getByRole("button", { name: /Deposit without bonus/ }).click();
+  await expect(
+    page.getByRole("button", { name: "Deposit $50.00", exact: true }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Deposit $50.00", exact: true })
+    .click();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
   await expect(page.getByRole("button", { name: /Review & Deposit/ })).toHaveCount(0);
   await expect(page.getByText("Your card was declined")).toBeVisible();
