@@ -146,7 +146,7 @@ test("saved card decline recommends a wallet instead of retrying the card", asyn
   ).toHaveAttribute("aria-pressed", "true");
   await noBonus(page);
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
-  await expect(page.getByRole("button", { name: /Payment Details/ })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: /Review & Deposit/ })).toHaveCount(0);
   await expect(page.getByText("Your card was declined")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
   await expect(page.getByRole("button", { name: "Retry by card" })).toHaveCount(0);
@@ -317,9 +317,11 @@ test("new card can be saved for the next deposit", async ({ page }) => {
   await expect(saveCard).not.toBeChecked();
   await saveCard.check();
   await noBonus(page);
+  await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
   await expect(
     page.getByRole("checkbox", { name: /Save this card for next time/ }),
-  ).toBeChecked();
+  ).toHaveCount(0);
+  await expect(page.getByText("Visa •••• 4242")).toBeVisible();
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
@@ -447,7 +449,7 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
     .getByRole("button", { name: "Select", exact: true })
     .nth(1)
     .click();
-  await page.getByRole("button", { name: /Payment Details/ }).click();
+  await page.getByRole("button", { name: /Review & Deposit/ }).click();
   await page
     .getByRole("button", { name: "Deposit $50.00", exact: true })
     .click();
