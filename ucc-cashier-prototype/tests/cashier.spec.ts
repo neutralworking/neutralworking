@@ -168,6 +168,27 @@ test("saved card decline recommends a wallet instead of retrying the card", asyn
   expect(appleBox.width).toBe(googleBox.width);
   expect(appleBox.height).toBe(googleBox.height);
   expect(googleBox.x - (appleBox.x + appleBox.width)).toBe(10);
+  const viewTransactions = page.getByRole("button", { name: "View transactions" });
+  const newDeposit = page.getByRole("button", { name: "Try a new deposit" });
+  await expect(newDeposit).toBeVisible();
+  const transactionsBox = (await viewTransactions.boundingBox())!;
+  const newDepositBox = (await newDeposit.boundingBox())!;
+  expect(newDepositBox.y).toBeGreaterThan(
+    transactionsBox.y + transactionsBox.height,
+  );
+  expect(newDepositBox.height).toBeLessThan(transactionsBox.height);
+  await newDeposit.click();
+  await expect(page.getByText("Choose a payment method")).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: /Visa.*Last used/ }),
+  ).toHaveAttribute("aria-pressed", "true");
+
+  await next(page);
+  await page.getByRole("button", { name: /Deposit without bonus/ }).click();
+  await page
+    .getByRole("button", { name: "Deposit $50.00", exact: true })
+    .click();
+  await expect(page.getByText("Your card was declined")).toBeVisible();
   await applePay.click();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
   await expect(page.locator(".provider-handoff")).toContainText("Apple Pay");

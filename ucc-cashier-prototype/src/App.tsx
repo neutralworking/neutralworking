@@ -1750,7 +1750,17 @@ export default function App() {
                       View transactions
                     </Button>
                   </div>
-                  {result !== "declined" && (
+                  {result === "declined" ? (
+                    <button
+                      className="text-button declined-new-deposit"
+                      onClick={() => {
+                        setResult(null);
+                        dispatch({ type: "reset", saved });
+                      }}
+                    >
+                      Try a new deposit
+                    </button>
+                  ) : (
                     <button
                       className="text-button"
                       onClick={() => {

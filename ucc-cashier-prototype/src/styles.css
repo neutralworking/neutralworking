@@ -1886,6 +1886,12 @@ fieldset {
 .result > .text-button {
   margin-top: 15px;
 }
+.result > .declined-new-deposit {
+  min-height: 32px;
+  margin-top: 10px;
+  padding: 4px 8px;
+  font-size: 12px;
+}
 .transaction {
   display: flex;
   align-items: center;
