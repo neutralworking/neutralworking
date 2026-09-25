@@ -963,7 +963,7 @@ fieldset {
   border: 1px solid #777c72;
   border-radius: 50%;
 }
-.saved-card-row .selection-circle,
+.saved-card-row.chosen .selection-circle,
 .method-choice.chosen .selection-circle {
   background: #2ecb87;
   border-color: #2ecb87;
@@ -978,6 +978,7 @@ fieldset {
   height: 22px;
 }
 .method-choice:not(.chosen) .selection-circle { display: none; }
+.saved-card-row:not(.chosen) .selection-circle { display: none; }
 .add-card-mark { font-size: 22px; }
 .change-card-label {
   margin-left: 0;
@@ -1912,6 +1913,22 @@ fieldset {
 .result .actions {
   justify-content: center;
   flex-wrap: wrap;
+}
+.result .declined-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  width: min(100%, 390px);
+  margin: 14px auto 0;
+}
+.result .declined-actions > .button {
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+  margin: 0;
+}
+.result .declined-actions > .button:last-child {
+  grid-column: 1 / -1;
 }
 .result .primary {
   margin-left: 0;

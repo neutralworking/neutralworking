@@ -150,9 +150,16 @@ test("saved card decline recommends a wallet instead of retrying the card", asyn
   await expect(page.getByText("Your card was declined")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
   await expect(page.getByRole("button", { name: "Retry by card" })).toHaveCount(0);
-  await expect(page.getByRole("button", { name: "Use Apple Pay" })).toBeVisible();
-  await expect(page.getByRole("button", { name: "Use Google Pay" })).toBeVisible();
-  await page.getByRole("button", { name: "Use Apple Pay" }).click();
+  const applePay = page.getByRole("button", { name: "Use Apple Pay" });
+  const googlePay = page.getByRole("button", { name: "Use Google Pay" });
+  await expect(applePay).toBeVisible();
+  await expect(googlePay).toBeVisible();
+  const appleBox = (await applePay.boundingBox())!;
+  const googleBox = (await googlePay.boundingBox())!;
+  expect(appleBox.width).toBe(googleBox.width);
+  expect(appleBox.height).toBe(googleBox.height);
+  expect(googleBox.x - (appleBox.x + appleBox.width)).toBe(10);
+  await applePay.click();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
   await expect(page.locator(".provider-handoff")).toContainText("Apple Pay");
   await page.getByRole("button", { name: "Continue to provider" }).click();
@@ -235,6 +242,7 @@ test("USD and AUD method order, no categories or caption, and card eligibility",
     const choice = page.getByRole("button", { name: method, exact: true });
     await choice.click();
     await expect(choice).toHaveAttribute("aria-pressed", "true");
+    await expect(page.locator(".saved-card-row .selection-circle")).toBeHidden();
     await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
   }
 

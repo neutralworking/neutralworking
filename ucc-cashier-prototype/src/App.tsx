@@ -1742,7 +1742,7 @@ export default function App() {
                   <small>
                     Reference RG-{String(transactions.length).padStart(4, "0")}
                   </small>
-                  <div className="actions">
+                  <div className={`actions ${result === "declined" ? "declined-actions" : ""}`}>
                     {result === "declined" ? (
                       <>
                         <Button
