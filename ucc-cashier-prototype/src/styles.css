@@ -674,6 +674,13 @@ fieldset {
   gap: 0;
   position: relative;
 }
+.flow-fields.saved-card-flow {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.flow-fields.saved-card-flow::before {
+  left: 16.667%;
+  right: 16.667%;
+}
 .flow-fields::before {
   content: "";
   position: absolute;
@@ -1877,6 +1884,12 @@ fieldset {
   .slot-machine span { font-size: 42px; }
 }
 @media (max-width: 650px) {
+  .cashier-content {
+    scroll-padding-bottom: 92px;
+  }
+  .step-body > .actions > .button {
+    scroll-margin-bottom: 84px;
+  }
   .sidebar {
     display: none;
   }
@@ -2110,6 +2123,7 @@ fieldset {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 0;
+    padding-bottom: 92px;
   }
   .flow-fields .step {
     display: contents;

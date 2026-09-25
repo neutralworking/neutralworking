@@ -129,7 +129,7 @@ test("coupon entry, invalid code, cancel confirmation, no bonus and custom amoun
   }
   await enterCustomAmount(page, "10");
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await expect(page.getByText("Visa ••5602")).toBeVisible();
+  await expect(page.getByText("Your deposit is complete")).toBeVisible();
 });
 test("saved card decline, retry and pending without crediting balance", async ({
   page,
@@ -145,38 +145,28 @@ test("saved card decline, retry and pending without crediting balance", async ({
     page.getByRole("button", { name: /Visa.*Last used/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await noBonus(page);
-  await expect(page.getByText("Visa ••5602")).toBeVisible();
   await expect(page.getByLabel("Card number", { exact: true })).toHaveCount(0);
-  await page
-    .getByRole("button", { name: "Deposit $50.00", exact: true })
-    .click();
+  await expect(page.getByRole("button", { name: /Payment Details/ })).toHaveCount(0);
   await expect(page.getByText("Your card was declined")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
   await debug(page);
   await page.getByLabel("Payment outcome").selectOption("pending");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
   await page.getByRole("button", { name: "Retry by card" }).click();
-  await page
-    .getByRole("button", { name: "Deposit $50.00", exact: true })
-    .click();
+  await expect(page.getByRole("button", { name: /Payment Details/ })).toHaveCount(0);
+  await page.getByRole("button", { name: "Continue", exact: true }).click();
   await expect(page.getByText("Your deposit is pending")).toBeVisible();
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
-test("crypto selection opens asset choice before matching payment details", async ({
+test("separate crypto method opens matching payment details", async ({
   page,
 }) => {
   await open(page);
-  await page.getByRole("button", { name: /Crypto/ }).click();
-  await expect(page.getByRole("button", { name: /USDT.*Tether/ })).toHaveCount(0);
+  await page.getByRole("button", { name: /Bitcoin \(BTC\)/ }).click();
   await next(page);
   await page.getByRole("button", { name: /Deposit without bonus/ }).click();
   await page.getByRole("button", { name: "Continue", exact: true }).click();
-  await expect(page.getByRole("heading", { name: "Choose your cryptocurrency" })).toBeVisible();
-  await expect(page.getByRole("button", { name: /Tether/ })).toHaveAttribute("aria-pressed", "false");
-  await page.getByRole("button", { name: /Tether/ }).click();
-  await expect(page.getByRole("button", { name: /Tether/ })).toHaveAttribute("aria-pressed", "true");
-  await page.getByRole("button", { name: "Deposit $50.00" }).click();
-  await expect(page.getByRole("heading", { name: "Deposit via Tether" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Deposit via Bitcoin" })).toBeVisible();
   await expect(
     page.locator(".crypto-amount-summary").getByText("50.00", { exact: true }).first(),
   ).toBeVisible();
@@ -184,7 +174,58 @@ test("crypto selection opens asset choice before matching payment details", asyn
   await page.getByRole("button", { name: "Copy", exact: true }).click();
   await expect(page.getByRole("button", { name: "Copied", exact: true })).toBeVisible();
   await page.getByRole("button", { name: /choose a different method/ }).click();
-  await expect(page.getByRole("heading", { name: "Choose your cryptocurrency" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Choose a payment method" })).toBeVisible();
+});
+
+test("USD and AUD method order, no categories or caption, and card eligibility", async ({ page }) => {
+  await open(page);
+  const methodText = () =>
+    page
+      .locator(".method-grid > .card-method-panel, .method-grid > .method-choice")
+      .allInnerTexts()
+      .then((items) => items.map((item) => item.replace(/\s+/g, " ").trim()));
+
+  await expect(page.locator(".payment-groups")).toHaveCount(0);
+  await expect(page.getByText(/Only methods available to this player/i)).toHaveCount(0);
+  expect(await methodText()).toEqual([
+    "Your last used credit card VISA •••• 5602 CHANGE CARD",
+    "● Apple Pay Pay with Apple Pay",
+    "G Google Pay Pay with Google Pay",
+    "₿ Bitcoin (BTC) Pay with Bitcoin",
+    "Ł Litecoin (LTC) Pay with Litecoin",
+    "◆ Ethereum (ETH) Pay with Ethereum",
+    "$ Cashlib Pay with Cashlib",
+    "↗ Changelly Buy crypto by card",
+  ]);
+
+  await debug(page);
+  await page.getByLabel("Account currency").selectOption("AUD");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
+  expect(await methodText()).toEqual([
+    "Your last used credit card VISA •••• 5602 CHANGE CARD",
+    "● Apple Pay Pay with Apple Pay",
+    "G Google Pay Pay with Google Pay",
+    "N Neosurf Pay with Neosurf",
+    "₿ Bitcoin (BTC) Pay with Bitcoin",
+    "Ł Litecoin (LTC) Pay with Litecoin",
+    "◆ Ethereum (ETH) Pay with Ethereum",
+    "$ Cashlib Pay with Cashlib",
+    "↗ Changelly Buy crypto by card",
+  ]);
+
+  await debug(page);
+  await page.getByLabel("Credit card eligibility").selectOption("ineligible");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
+  expect(await methodText()).toEqual([
+    "● Apple Pay Pay with Apple Pay",
+    "G Google Pay Pay with Google Pay",
+    "N Neosurf Pay with Neosurf",
+    "₿ Bitcoin (BTC) Pay with Bitcoin",
+    "Ł Litecoin (LTC) Pay with Litecoin",
+    "◆ Ethereum (ETH) Pay with Ethereum",
+    "$ Cashlib Pay with Cashlib",
+    "↗ Changelly Buy crypto by card",
+  ]);
 });
 test("debug presets retain custom amount; saved replacement; reset clears the scenario", async ({
   page,
@@ -324,6 +365,9 @@ test("back editing revalidates higher bonus, duplicate submission blocked, sessi
   page,
 }) => {
   await open(page);
+  await debug(page);
+  await page.getByLabel("Card scenario").selectOption("new");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
   await noBonus(page);
   await page.getByRole("button", { name: /Without a bonus/ }).click();
   await expect(page.getByRole("button", { name: "Select", exact: true }).first()).toBeVisible();

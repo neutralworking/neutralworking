@@ -50,11 +50,14 @@ const games = [
   ["Moon Of RA", "Fugaso"],
 ] as const;
 const paymentMethods = [
-  { id: "crypto", group: "crypto", mark: "◈", name: "Crypto", detail: "Bitcoin, Litecoin, Ethereum and more" },
-  { id: "changelly", group: "crypto", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
-  { id: "lightning", group: "crypto", mark: "ϟ", name: "Bitcoin Lightning", detail: "Fast Bitcoin payment" },
-  { id: "cashapp", group: "other", mark: "$", name: "Cash App", detail: "Pay with Cash App" },
-  { id: "rewards", group: "other", mark: "R", name: "Players Rewards Card", detail: "Rewards card" },
+  { id: "applepay", mark: "●", name: "Apple Pay", detail: "Pay with Apple Pay" },
+  { id: "googlepay", mark: "G", name: "Google Pay", detail: "Pay with Google Pay" },
+  { id: "neosurf", mark: "N", name: "Neosurf", detail: "Pay with Neosurf" },
+  { id: "bitcoin", mark: "₿", name: "Bitcoin (BTC)", detail: "Pay with Bitcoin" },
+  { id: "litecoin", mark: "Ł", name: "Litecoin (LTC)", detail: "Pay with Litecoin" },
+  { id: "ethereum", mark: "◆", name: "Ethereum (ETH)", detail: "Pay with Ethereum" },
+  { id: "cashlib", mark: "$", name: "Cashlib", detail: "Pay with Cashlib" },
+  { id: "changelly", mark: "↗", name: "Changelly", detail: "Buy crypto by card" },
 ] as const;
 const withdrawalMethods = [
   {
@@ -89,7 +92,7 @@ const cryptoAssets = [
   { id: "tether", mark: "₮", name: "Tether", ticker: "USDT", network: "Ethereum (ERC-20)", rate: 1, destination: "0xUSDT84a19f03CASHIER72B6e91" },
 ] as const;
 type CryptoAssetId = (typeof cryptoAssets)[number]["id"];
-type PaymentGroup = "cards" | "crypto" | "other";
+type AccountCurrency = "USD" | "AUD";
 type WithdrawalScenario = "available" | "empty";
 function Button({
   children,
@@ -207,7 +210,8 @@ export default function App() {
     [transactionTo, setTransactionTo] = useState("2026-09-22"),
     [transactionSearchRun, setTransactionSearchRun] = useState(true);
   const [paymentChoice, setPaymentChoice] = useState("card"),
-    [paymentGroup, setPaymentGroup] = useState<PaymentGroup>("cards");
+    [currency, setCurrency] = useState<AccountCurrency>("USD"),
+    [cardEligible, setCardEligible] = useState(true);
   const [cryptoAsset, setCryptoAsset] = useState<CryptoAssetId>("bitcoin"),
     [cryptoStage, setCryptoStage] = useState<"select" | "details">("select"),
     [cryptoCopied, setCryptoCopied] = useState(false);
@@ -255,7 +259,8 @@ export default function App() {
     setDebugError("");
     setSection("Deposit");
     setPaymentChoice("card");
-    setPaymentGroup("cards");
+    setCurrency("USD");
+    setCardEligible(true);
     setCryptoAsset("bitcoin");
     setCryptoStage("select");
     setCryptoCopied(false);
@@ -435,7 +440,9 @@ export default function App() {
         ? `Enter no more than ${money(Math.min(2500, withdrawableBalance))}.`
         : ""
     : "Choose a withdrawal method.";
-  const isCryptoPayment = ["crypto", "lightning"].includes(paymentChoice);
+  const isCryptoPayment = ["bitcoin", "litecoin", "ethereum"].includes(
+    paymentChoice,
+  );
   const selectedCrypto = cryptoAssets.find((asset) => asset.id === cryptoAsset)!;
   const quotedCryptoAmount =
     selectedCrypto.rate === 1
@@ -474,14 +481,44 @@ export default function App() {
                   const value = e.target.value === "saved";
                   setSaved(value);
                   dispatch({ type: "method", method: value ? "saved" : "new" });
-                  setPaymentGroup("cards");
-                  setPaymentChoice("card");
+                  setPaymentChoice(cardEligible ? "card" : "applepay");
                   setCard(emptyCard());
                   setErrors({});
                 }}
               >
                 <option value="new">New card</option>
                 <option value="saved">Saved Visa</option>
+              </select>
+            </label>
+            <label className="field">
+              Account currency
+              <select
+                aria-label="Account currency"
+                value={currency}
+                onChange={(e) => {
+                  setCurrency(e.target.value as AccountCurrency);
+                  if (e.target.value === "USD" && paymentChoice === "neosurf")
+                    setPaymentChoice(cardEligible ? "card" : "applepay");
+                }}
+              >
+                <option value="USD">USD</option>
+                <option value="AUD">AUD</option>
+              </select>
+            </label>
+            <label className="field">
+              Credit card eligibility
+              <select
+                aria-label="Credit card eligibility"
+                value={cardEligible ? "eligible" : "ineligible"}
+                onChange={(e) => {
+                  const eligible = e.target.value === "eligible";
+                  setCardEligible(eligible);
+                  if (!eligible && paymentChoice === "card")
+                    setPaymentChoice("applepay");
+                }}
+              >
+                <option value="eligible">Eligible</option>
+                <option value="ineligible">Ineligible</option>
               </select>
             </label>
             <label className="field">
@@ -843,12 +880,21 @@ export default function App() {
             <div className="cashier-content">
               {section === "Deposit" && !result ? (
                 <>
-                  <fieldset disabled={processing} className="flow-fields">
+                  <fieldset
+                    disabled={processing}
+                    className={`flow-fields ${paymentChoice === "card" && flow.method === "saved" ? "saved-card-flow" : ""}`}
+                  >
                     {steps.map((title, index) => {
                       const i = index as Step,
                         active = flow.step === i,
                         completed =
                           flow.reached > i && !(i === 2 && amountIssue);
+                      if (
+                        i === 3 &&
+                        paymentChoice === "card" &&
+                        flow.method === "saved"
+                      )
+                        return null;
                       return (
                         <section
                           key={title}
@@ -888,64 +934,27 @@ export default function App() {
                                   <h3 className="payment-method-title">
                                     Choose a payment method
                                   </h3>
-                                  <div
-                                    className="payment-groups"
-                                    aria-label="Payment categories"
-                                  >
-                                    {(["cards", "crypto", "other"] as const).map(
-                                      (group) => (
-                                        <button
-                                          key={group}
-                                          className={
-                                            paymentGroup === group ? "active" : ""
-                                          }
-                                          aria-pressed={paymentGroup === group}
-                                          onClick={() => {
-                                            setPaymentGroup(group);
-                                            dispatch({
-                                              type: "method",
-                                              method:
-                                                group === "cards" && saved
-                                                  ? "saved"
-                                                  : "new",
-                                            });
-                                            setPaymentChoice(
-                                              group === "cards"
-                                                ? "card"
-                                                : group === "crypto"
-                                                  ? "crypto"
-                                                  : "cashapp",
-                                            );
-                                            if (group === "crypto") {
-                                              setCryptoAsset("bitcoin");
-                                              setCryptoStage("select");
-                                              setCryptoCopied(false);
-                                            }
-                                            setCard(emptyCard());
-                                          }}
-                                        >
-                                          {group[0].toUpperCase() + group.slice(1)}
-                                        </button>
-                                      ),
-                                    )}
-                                  </div>
                                   <div className="method-grid">
-                                    {paymentGroup === "cards" ? (
+                                    {cardEligible && (
                                       <section className="card-method-panel">
                                         {saved && flow.method === "saved" ? (
                                           <>
                                             <h4>Your last used credit card</h4>
                                             <button
-                                              className="card-method-row saved-card-row chosen"
-                                              aria-label="Visa •••• 5602 Last used credit card"
-                                              aria-pressed="true"
+                                              className={`card-method-row saved-card-row ${paymentChoice === "card" ? "chosen" : ""}`}
+                                              aria-label="Credit card Visa •••• 5602 Last used credit card"
+                                              aria-pressed={paymentChoice === "card"}
                                               onClick={() => {
-                                                dispatch({ type: "method", method: "new" });
                                                 setPaymentChoice("card");
-                                                setCard(emptyCard());
+                                                if (paymentChoice === "card") {
+                                                  dispatch({ type: "method", method: "new" });
+                                                  setCard(emptyCard());
+                                                } else {
+                                                  dispatch({ type: "method", method: "saved" });
+                                                }
                                               }}
                                             >
-                                              <span className="selection-circle"><Check size={14} /></span>
+                                              <span className="selection-circle">{paymentChoice === "card" ? <Check size={14} /> : null}</span>
                                               <b>VISA</b>
                                               <strong>•••• 5602</strong>
                                               <span className="change-card-label">Change card</span>
@@ -1017,9 +1026,12 @@ export default function App() {
                                           </div>
                                         )}
                                       </section>
-                                    ) : (
-                                      paymentMethods
-                                        .filter((method) => method.group === paymentGroup)
+                                    )}
+                                    {paymentMethods
+                                        .filter(
+                                          (method) =>
+                                            method.id !== "neosurf" || currency === "AUD",
+                                        )
                                         .map((method) => (
                                           <button
                                             key={method.id}
@@ -1028,9 +1040,9 @@ export default function App() {
                                             onClick={() => {
                                               dispatch({ type: "method", method: "new" });
                                               setPaymentChoice(method.id);
-                                              if (method.id === "crypto") setCryptoAsset("bitcoin");
-                                              if (method.id === "lightning") setCryptoAsset("lightning");
-                                              setCryptoStage("select");
+                                              if (["bitcoin", "litecoin", "ethereum"].includes(method.id))
+                                                setCryptoAsset(method.id as CryptoAssetId);
+                                              setCryptoStage("details");
                                               setCryptoCopied(false);
                                               setCard(emptyCard());
                                             }}
@@ -1041,8 +1053,7 @@ export default function App() {
                                               {paymentChoice === method.id ? <Check size={14} /> : null}
                                             </span>
                                           </button>
-                                        ))
-                                    )}
+                                        ))}
                                   </div>
                                   <div className="actions">
                                     <Button
@@ -1324,8 +1335,14 @@ export default function App() {
                                       primary
                                       onClick={() => {
                                         setAmountTouched(true);
-                                        if (!amountIssue)
-                                          dispatch({ type: "advance" });
+                                        if (!amountIssue) {
+                                          if (
+                                            paymentChoice === "card" &&
+                                            flow.method === "saved"
+                                          )
+                                            void pay();
+                                          else dispatch({ type: "advance" });
+                                        }
                                       }}
                                     >
                                       Continue
@@ -1381,7 +1398,7 @@ export default function App() {
                                         <button
                                           className="crypto-change-method"
                                           onClick={() => {
-                                            setCryptoStage("select");
+                                            go(0);
                                             setCryptoCopied(false);
                                           }}
                                         >
@@ -1674,7 +1691,12 @@ export default function App() {
                         primary
                         onClick={() => {
                           setResult(null);
-                          go(3);
+                          go(
+                            paymentChoice === "card" &&
+                              flow.method === "saved"
+                              ? 2
+                              : 3,
+                          );
                         }}
                       >
                         Retry by card
