@@ -1035,7 +1035,7 @@ export default function App() {
                                         .map((method) => (
                                           <button
                                             key={method.id}
-                                            className={`method-choice ${paymentChoice === method.id ? "chosen" : ""}`}
+                                            className={`method-choice method-${method.id} ${paymentChoice === method.id ? "chosen" : ""}`}
                                             aria-pressed={paymentChoice === method.id}
                                             onClick={() => {
                                               dispatch({ type: "method", method: "new" });

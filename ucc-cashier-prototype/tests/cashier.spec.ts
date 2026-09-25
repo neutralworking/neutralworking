@@ -189,13 +189,13 @@ test("USD and AUD method order, no categories or caption, and card eligibility",
   await expect(page.getByText(/Only methods available to this player/i)).toHaveCount(0);
   expect(await methodText()).toEqual([
     "Your last used credit card VISA •••• 5602 CHANGE CARD",
-    "● Apple Pay Pay with Apple Pay",
-    "G Google Pay Pay with Google Pay",
-    "₿ Bitcoin (BTC) Pay with Bitcoin",
-    "Ł Litecoin (LTC) Pay with Litecoin",
-    "◆ Ethereum (ETH) Pay with Ethereum",
-    "$ Cashlib Pay with Cashlib",
-    "↗ Changelly Buy crypto by card",
+    "● Apple Pay",
+    "G Google Pay",
+    "₿ Bitcoin (BTC)",
+    "Ł Litecoin (LTC)",
+    "◆ Ethereum (ETH)",
+    "$ Cashlib",
+    "↗ Changelly",
   ]);
 
   await debug(page);
@@ -203,28 +203,28 @@ test("USD and AUD method order, no categories or caption, and card eligibility",
   await page.getByRole("button", { name: "Close prototype controls" }).click();
   expect(await methodText()).toEqual([
     "Your last used credit card VISA •••• 5602 CHANGE CARD",
-    "● Apple Pay Pay with Apple Pay",
-    "G Google Pay Pay with Google Pay",
-    "N Neosurf Pay with Neosurf",
-    "₿ Bitcoin (BTC) Pay with Bitcoin",
-    "Ł Litecoin (LTC) Pay with Litecoin",
-    "◆ Ethereum (ETH) Pay with Ethereum",
-    "$ Cashlib Pay with Cashlib",
-    "↗ Changelly Buy crypto by card",
+    "● Apple Pay",
+    "G Google Pay",
+    "N Neosurf",
+    "₿ Bitcoin (BTC)",
+    "Ł Litecoin (LTC)",
+    "◆ Ethereum (ETH)",
+    "$ Cashlib",
+    "↗ Changelly",
   ]);
 
   await debug(page);
   await page.getByLabel("Credit card eligibility").selectOption("ineligible");
   await page.getByRole("button", { name: "Close prototype controls" }).click();
   expect(await methodText()).toEqual([
-    "● Apple Pay Pay with Apple Pay",
-    "G Google Pay Pay with Google Pay",
-    "N Neosurf Pay with Neosurf",
-    "₿ Bitcoin (BTC) Pay with Bitcoin",
-    "Ł Litecoin (LTC) Pay with Litecoin",
-    "◆ Ethereum (ETH) Pay with Ethereum",
-    "$ Cashlib Pay with Cashlib",
-    "↗ Changelly Buy crypto by card",
+    "● Apple Pay",
+    "G Google Pay",
+    "N Neosurf",
+    "₿ Bitcoin (BTC)",
+    "Ł Litecoin (LTC)",
+    "◆ Ethereum (ETH)",
+    "$ Cashlib",
+    "↗ Changelly",
   ]);
 });
 test("debug presets retain custom amount; saved replacement; reset clears the scenario", async ({
