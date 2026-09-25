@@ -305,6 +305,30 @@ test("debug presets retain custom amount; saved replacement; reset clears the sc
   await expect(page.getByLabel("Amount presets")).toHaveValue("20, 30, 50");
   await expect(page.locator(".cashier-balance-state")).toContainText("$24.50");
 });
+test("new card can be saved for the next deposit", async ({ page }) => {
+  await open(page);
+  await debug(page);
+  await page.getByLabel("Card scenario").selectOption("new");
+  await page.getByRole("button", { name: "Close prototype controls" }).click();
+  await fillDemoCard(page);
+  const saveCard = page.getByRole("checkbox", {
+    name: /Save this card for next time/,
+  });
+  await expect(saveCard).not.toBeChecked();
+  await saveCard.check();
+  await noBonus(page);
+  await expect(
+    page.getByRole("checkbox", { name: /Save this card for next time/ }),
+  ).toBeChecked();
+  await page
+    .getByRole("button", { name: "Deposit $50.00", exact: true })
+    .click();
+  await expect(page.getByText("Your deposit is complete")).toBeVisible();
+  await page.getByRole("button", { name: "Make another deposit" }).click();
+  await expect(
+    page.getByRole("button", { name: /Visa.*Last used/ }),
+  ).toHaveAttribute("aria-pressed", "true");
+});
 test("withdrawal scenarios lock empty accounts and submit funded requests", async ({
   page,
 }) => {

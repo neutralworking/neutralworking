@@ -176,7 +176,8 @@ export default function App() {
   const [flow, dispatch] = useReducer(reducer, undefined, initialFlow);
   const [open, setOpen] = useState(true),
     [saved, setSaved] = useState(true),
-    [balance, setBalance] = useState(24.5);
+    [balance, setBalance] = useState(24.5),
+    [saveCard, setSaveCard] = useState(false);
   const [card, setCard] = useState<Card>(emptyCard),
     [errors, setErrors] = useState<Record<string, string>>({});
   const [address, setAddress] = useState<Address>(initialAddress),
@@ -261,6 +262,7 @@ export default function App() {
     setDebugError("");
     setSection("Deposit");
     setPaymentChoice("card");
+    setSaveCard(false);
     setProviderWindow(null);
     setCurrency("USD");
     setCardEligible(true);
@@ -293,6 +295,7 @@ export default function App() {
     }
     setOpen(false);
     setCard(emptyCard());
+    setSaveCard(false);
     setErrors({});
     setEditingAddress(false);
     setDebug(false);
@@ -419,6 +422,13 @@ export default function App() {
     ]);
     if (status === "success")
       setBalance((b) => Math.round((b + paidAmount) * 100) / 100);
+    if (
+      status === "success" &&
+      paymentChoice === "card" &&
+      flow.method === "new" &&
+      saveCard
+    )
+      setSaved(true);
     setCard(emptyCard());
     setReceipt({ amount: paidAmount, bonus: flow.bonus ?? null });
     setResult(status);
@@ -496,6 +506,7 @@ export default function App() {
                   dispatch({ type: "method", method: value ? "saved" : "new" });
                   setPaymentChoice(cardEligible ? "card" : "applepay");
                   setCard(emptyCard());
+                  setSaveCard(false);
                   setErrors({});
                 }}
               >
@@ -1033,9 +1044,17 @@ export default function App() {
                                                 }
                                               />
                                             </div>
-                                            <small className="save-card-note">
-                                              You can save your card for faster payments next time.
-                                            </small>
+                                            <label className="save-card-option">
+                                              <input
+                                                type="checkbox"
+                                                checked={saveCard}
+                                                onChange={(e) => setSaveCard(e.target.checked)}
+                                              />
+                                              <span>
+                                                <strong>Save this card for next time</strong>
+                                                <small>Use it for faster deposits on this account.</small>
+                                              </span>
+                                            </label>
                                           </div>
                                         )}
                                       </section>
@@ -1501,6 +1520,17 @@ export default function App() {
                                             }
                                           />
                                         </div>
+                                        <label className="save-card-option">
+                                          <input
+                                            type="checkbox"
+                                            checked={saveCard}
+                                            onChange={(e) => setSaveCard(e.target.checked)}
+                                          />
+                                          <span>
+                                            <strong>Save this card for next time</strong>
+                                            <small>Use it for faster deposits on this account.</small>
+                                          </span>
+                                        </label>
                                         <span className="payment-card-confirmation">Visa •••• 4242</span>
                                       </div>
                                     </section>
