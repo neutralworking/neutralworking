@@ -3840,3 +3840,139 @@ fieldset {
   .is-monochrome .game-art { height: 132px; }
   .is-monochrome .game-favorite { top: 102px; }
 }
+
+/* Mega Medusa wireframe is the only UCC presentation. */
+.mega-ucc.is-monochrome,
+.mega-ucc.is-monochrome .host { background: #f4f4f4; color: #111; }
+.mega-ucc.is-monochrome .host { margin: 0 298px 0 0; }
+.mega-ucc.is-monochrome .sidebar {
+  inset: 62px 0 0 auto;
+  width: 298px;
+  padding: 24px 22px 20px 16px;
+  border: 0;
+  border-left: 1px solid #d5d5d5;
+  background: #fff;
+}
+.mega-ucc.is-monochrome .mega-brand {
+  position: fixed;
+  inset: 0 auto auto 0;
+  width: 230px;
+  height: 62px;
+  padding: 0 16px;
+  display: flex;
+  gap: 10px;
+  border: 0;
+  background: #fff;
+}
+.mega-ucc.is-monochrome .mega-brand::before {
+  content: "MM";
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  border-radius: 4px;
+  background: #191919;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 900;
+}
+.mega-ucc.is-monochrome .mega-brand::after {
+  content: "Mega Medusa";
+  color: #111;
+  font-size: 15px;
+  font-weight: 750;
+}
+.mega-ucc.is-monochrome .mega-quick-actions { margin-bottom: 20px; }
+.mega-ucc.is-monochrome .mega-quick-actions button,
+.mega-ucc.is-monochrome .mega-quick-actions button:last-child {
+  min-height: 52px;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background: #fff;
+  color: #111;
+  box-shadow: none;
+  font-size: 14px;
+}
+.mega-ucc.is-monochrome .mega-quick-actions button:last-child { background: #f0f0f0; }
+.mega-ucc.is-monochrome .sidebar-tools { order: 2; padding: 0; border: 0; background: transparent; }
+.mega-ucc.is-monochrome .search { width: 100%; margin: 12px 0 18px; }
+.mega-ucc.is-monochrome .sidebar nav { padding: 0; border-top: 1px solid #d5d5d5; }
+.mega-ucc.is-monochrome .sidebar nav button,
+.mega-ucc.is-monochrome .sidebar nav button:first-child,
+.mega-ucc.is-monochrome .sidebar nav .selected,
+.mega-ucc.is-monochrome .sidebar nav .selected:not(:first-child) {
+  min-height: 42px;
+  margin: 0;
+  padding: 9px 12px;
+  border: 0;
+  border-bottom: 1px solid #dedede;
+  border-radius: 0;
+  background: #fff;
+  color: #111;
+  box-shadow: none;
+  font-size: 12px;
+  text-transform: none;
+}
+.mega-ucc.is-monochrome .sidebar nav .selected { background: #f0f0f0; box-shadow: inset 3px 0 #191919; }
+.mega-ucc.is-monochrome .sidebar nav button svg,
+.mega-ucc.is-monochrome .sidebar nav button:first-child svg,
+.mega-ucc.is-monochrome .sidebar nav .selected svg { color: #333; }
+.mega-ucc.is-monochrome .sidebar-bottom {
+  order: 3;
+  gap: 0;
+  margin-top: 0;
+  padding: 14px 0 0;
+  border-top: 1px solid #d5d5d5;
+}
+.mega-ucc.is-monochrome .sidebar-bottom button,
+.mega-ucc.is-monochrome .sidebar-bottom button:nth-child(2),
+.mega-ucc.is-monochrome .sidebar-bottom button:nth-last-child(-n+2) {
+  min-height: 42px;
+  padding: 9px 12px;
+  border-bottom: 1px solid #dedede;
+  border-radius: 0;
+  background: #fff;
+  color: #111;
+  font-size: 12px;
+}
+.mega-ucc.is-monochrome .host-header { height: 62px; background: #fff; border-bottom: 1px solid #d5d5d5; }
+.mega-ucc.is-monochrome .account-deposit { border: 1px solid #c9c9c9; background: #fff; color: #111; }
+.mega-ucc.is-monochrome .account-deposit span { background: #191919; color: #fff; }
+.mega-ucc.is-monochrome .header-inbox,
+.mega-ucc.is-monochrome .avatar { border-color: #c9c9c9; background: #fff; color: #333; }
+.mega-ucc.is-monochrome .lobby { width: 1260px; max-width: calc(100vw - 338px); }
+.mega-ucc.is-monochrome .promo { width: 100%; height: 218px; aspect-ratio: auto; background: #fff; }
+.mega-ucc.is-monochrome .promo picture { display: none; }
+.mega-ucc.is-monochrome .promo::before { content: "251% BONUS + 53 FREE SPINS"; }
+.mega-ucc.is-monochrome .promo::after { content: "Mega Medusa promotional artwork placeholder"; }
+.mega-ucc.is-monochrome .categories { border-color: #c9c9c9; }
+.mega-ucc.is-monochrome .game-row-title { color: #111; }
+.mega-ucc.is-monochrome .view-all { border-color: #c9c9c9; color: #111; background: #fff; }
+.mega-ucc.is-monochrome .game { border-color: #c9c9c9; background: #fff; }
+.mega-ucc.is-monochrome .game-art { background: #e8e8e8; }
+.mega-ucc.is-monochrome .game strong { color: #111; }
+.mega-ucc.is-monochrome .game > span { color: #666; }
+
+@media (max-width: 650px) {
+  .mega-ucc.is-monochrome .host { margin-right: 0; }
+  .mega-ucc.is-monochrome .sidebar {
+    inset: 64px 0 75px auto;
+    width: min(298px, 84vw);
+    transform: translateX(105%);
+  }
+  .mega-ucc.is-monochrome .sidebar.mobile-open { transform: translateX(0); }
+  .mega-ucc.is-monochrome .mega-brand { display: none; }
+  .mega-ucc.is-monochrome .mega-mobile-brand {
+    position: relative;
+    width: auto;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: none;
+  }
+  .mega-ucc.is-monochrome .mega-mobile-brand::before { content: "MM"; }
+  .mega-ucc.is-monochrome .mega-mobile-brand::after { content: "Mega Medusa"; }
+  .mega-ucc.is-monochrome .lobby { width: auto; max-width: none; }
+  .mega-ucc.is-monochrome .promo { height: 190px; }
+}

@@ -625,7 +625,7 @@ export default function App() {
   );
   return (
     <>
-      <div className="app-shell mega-ucc">
+      <div className="app-shell mega-ucc is-monochrome">
         <aside className={`sidebar ${menu ? "mobile-open" : ""}`}>
           <a
             className="brand mega-brand"
