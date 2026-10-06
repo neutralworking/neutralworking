@@ -1341,6 +1341,242 @@ fieldset {
   .crypto-help { margin-top: 22px; }
   .crypto-final-details .demo-qr { width: 132px; height: 132px; }
 }
+
+/* Mega Medusa UCC skin. The cashier styles above remain unchanged. */
+.mega-ucc {
+  min-height: 100vh;
+  padding: 0;
+  background: #02070a;
+  color: #f4f5f2;
+}
+.mega-ucc .host {
+  margin: 0 298px 0 0;
+  background: #02070a;
+}
+.mega-ucc .sidebar {
+  inset: 62px 0 0 auto;
+  width: 298px;
+  padding: 24px 22px 20px 16px;
+  overflow-y: auto;
+  border: 0;
+  border-left: 1px solid #10191c;
+  background: #080d10;
+}
+.mega-ucc .mega-brand {
+  position: fixed;
+  z-index: 3;
+  inset: 0 auto auto 0;
+  width: 250px;
+  height: 62px;
+  padding: 0;
+  border: 0;
+  background: #091117 url("/megaucc.png") 0 0 / 1878px 875px no-repeat;
+}
+.mega-ucc .mega-quick-actions {
+  display: grid;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+.mega-ucc .mega-quick-actions button {
+  min-height: 61px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 18px;
+  border: 1px solid #263025;
+  border-radius: 10px;
+  color: #e8e8e8;
+  background: #050a0d;
+  font-size: 16px;
+  font-weight: 800;
+}
+.mega-ucc .mega-quick-actions button:last-child {
+  color: #061000;
+  border-color: #9ee85c;
+  background: #86ff00;
+  box-shadow: 0 0 8px #88ff0066;
+}
+.mega-ucc .sidebar-tools {
+  order: 2;
+  padding: 0;
+  background: transparent;
+}
+.mega-ucc .sidebar-tools > button { display: none; }
+.mega-ucc .search {
+  width: 100%;
+  height: 36px;
+  margin: 12px 0 18px;
+  border: 1px solid #35434b;
+  border-radius: 7px;
+  background: #0d1419;
+  color: #a8bac4;
+}
+.mega-ucc .search input { color: #e6edf0; }
+.mega-ucc .sidebar nav {
+  gap: 0;
+  padding: 0;
+  border-top: 1px solid #1f292d;
+}
+.mega-ucc .sidebar nav button,
+.mega-ucc .sidebar nav button:first-child,
+.mega-ucc .sidebar nav .selected:not(:first-child) {
+  min-height: 42px;
+  margin: 0;
+  padding: 9px 12px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: #e6e6e6;
+  font-size: 14px;
+  font-weight: 650;
+  text-transform: none;
+}
+.mega-ucc .sidebar nav button:first-child,
+.mega-ucc .sidebar nav .selected {
+  background: #9bd164;
+  color: #071005;
+}
+.mega-ucc .sidebar nav button svg { color: #a8d63e; }
+.mega-ucc .sidebar nav button:first-child svg,
+.mega-ucc .sidebar nav .selected svg { color: #755600; }
+.mega-ucc .sidebar-bottom {
+  order: 3;
+  gap: 8px;
+  margin-top: 0;
+  padding: 14px 0 0;
+  border-top: 1px solid #1f292d;
+}
+.mega-ucc .sidebar-bottom button,
+.mega-ucc .sidebar-bottom button:nth-child(2) {
+  min-height: 42px;
+  padding: 10px 12px;
+  border-radius: 5px;
+  background: transparent;
+  color: #e7e7e7;
+  font-size: 14px;
+  text-transform: none;
+}
+.mega-ucc .sidebar-bottom button:nth-last-child(-n+2) {
+  background: #9bd164;
+  color: #071005;
+  font-weight: 700;
+}
+.mega-ucc .host-header {
+  height: 62px;
+  padding: 0 22px;
+  border: 0;
+  border-bottom: 1px solid #111b20;
+  background: #091117;
+}
+.mega-ucc .host-header .header-actions > * { opacity: 1; }
+.mega-ucc .reward-progress { display: none; }
+.mega-ucc .account-deposit {
+  height: 34px;
+  border-radius: 7px;
+  background: #5cc239;
+  color: #fff;
+}
+.mega-ucc .account-deposit span { background: #86ff00; color: #071005; }
+.mega-ucc .header-inbox,
+.mega-ucc .avatar { color: #83ff00; border-color: #83ff00; background: transparent; }
+.mega-ucc .lobby {
+  width: 1260px;
+  max-width: calc(100vw - 338px);
+  padding: 20px 0 44px;
+}
+.mega-ucc .promo {
+  width: 100%;
+  aspect-ratio: 1260 / 340;
+  border-radius: 12px;
+  background: #06120f;
+}
+.mega-ucc .promo-image {
+  width: 149.048%;
+  transform: translate(-8.2%, -9.37%);
+}
+.mega-ucc .promo > button {
+  left: 37.2%;
+  top: 73%;
+  width: 25.7%;
+  height: 14.5%;
+}
+.mega-ucc .categories {
+  height: 45px;
+  margin: 15px 0 28px;
+  padding: 0;
+  border: 0;
+  border-bottom: 4px solid #75bd1a;
+}
+.mega-ucc .categories button,
+.mega-ucc .categories button:first-child,
+.mega-ucc .categories button.active {
+  height: 41px;
+  min-height: 41px;
+  padding: 8px 17px;
+  border-right: 1px solid #243039;
+  background: #101a20;
+  color: #f0f0f0;
+  font-size: 15px;
+  text-transform: none;
+}
+.mega-ucc .categories button:first-child,
+.mega-ucc .categories button.active { background: #9bd164; color: #071005; }
+.mega-ucc .game-row-title { color: #86ff00; }
+.mega-ucc .game-row-title::before { background: #86ff00; color: #071005; }
+.mega-ucc .view-all { border: 1px solid #86ff00; background: transparent; color: #86ff00; }
+.mega-ucc .game { border: 1px solid #86ff00; background: #071015; }
+.mega-ucc .game-art { background-image: url("/megaucc.png"); background-size: 1878px 875px; }
+.mega-ucc .art-0 { background-position: -154px -573px; }
+.mega-ucc .art-1 { background-position: -313px -573px; }
+.mega-ucc .art-2 { background-position: -472px -573px; }
+.mega-ucc .art-3 { background-position: -630px -573px; }
+.mega-ucc .art-4 { background-position: -789px -573px; }
+.mega-ucc .art-5 { background-position: -947px -573px; }
+.mega-ucc .art-6 { background-position: -1106px -573px; }
+.mega-ucc .art-7 { background-position: -1264px -573px; }
+.mega-ucc .game-favorite { color: #fff; background: #5a263e; }
+.mega-ucc .game strong,
+.mega-ucc .game > span { color: #fff; }
+.mega-ucc .mobile-nav { background: #091117; }
+.mega-ucc .mobile-nav .wallet-nav span { background: #86ff00; color: #071005; }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 650px) {
+  .mega-ucc .host { margin-right: 0; }
+  .mega-ucc .host-header { height: 64px; padding: 0 12px; }
+  .mega-ucc .mega-mobile-brand {
+    display: block;
+    width: 153px;
+    height: 44px;
+    margin-right: auto;
+    background: url("/megaucc.png") 0 0 / 1377px 642px no-repeat;
+  }
+  .mega-ucc .sidebar {
+    inset: 64px 0 75px auto;
+    width: min(298px, 84vw);
+    padding-top: 18px;
+    transform: translateX(105%);
+  }
+  .mega-ucc .sidebar.mobile-open { transform: translateX(0); }
+  .mega-ucc .mega-brand { display: none; }
+  .mega-ucc .lobby { width: auto; max-width: none; padding: 14px 14px 96px; }
+  .mega-ucc .promo { width: 100%; aspect-ratio: 1260 / 340; }
+  .mega-ucc .promo-image { width: 149.048%; transform: translate(-8.2%, -9.37%); }
+  .mega-ucc .categories { width: 100%; height: 70px; }
+  .mega-ucc .categories button,
+  .mega-ucc .categories button:first-child,
+  .mega-ucc .categories button.active { height: 66px; min-height: 66px; font-size: 13px; }
+}
 .choice strong {
   font-size: 12px;
 }

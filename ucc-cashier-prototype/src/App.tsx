@@ -200,8 +200,7 @@ export default function App() {
   const [section, setSection] = useState("Deposit"),
     [hostPage, setHostPage] = useState("Lobby"),
     [menu, setMenu] = useState(false),
-    [search, setSearch] = useState(""),
-    [uccColour, setUccColour] = useState(false);
+    [search, setSearch] = useState("");
   const [withdrawalScenario, setWithdrawalScenario] =
       useState<WithdrawalScenario>("empty"),
     [withdrawalMethod, setWithdrawalMethod] = useState(""),
@@ -626,18 +625,22 @@ export default function App() {
   );
   return (
     <>
-      <div className={`app-shell ${uccColour ? "is-colour" : "is-monochrome"}`}>
+      <div className="app-shell mega-ucc">
         <aside className={`sidebar ${menu ? "mobile-open" : ""}`}>
           <a
-            className="brand"
+            className="brand mega-brand"
             href="#"
             onClick={(e) => {
               e.preventDefault();
               setHostPage("Lobby");
             }}
           >
-            <img src="/reels-grande-logo.svg" alt="Reels Grande" />
+            <span className="sr-only">Mega Medusa</span>
           </a>
+          <div className="mega-quick-actions">
+            <button onClick={() => setHostPage("Leaderboards")}><Trophy size={22} />LEADERBOARD</button>
+            <button onClick={() => setHostPage("Daily Free Spins")}><Gift size={22} />DAILY FREE SPINS</button>
+          </div>
           <div className="sidebar-tools">
             <button aria-label="Open navigation"><Menu size={21} /></button>
             <label className="search">
@@ -659,15 +662,10 @@ export default function App() {
               ["Favorites", Gift],
               ["Suggested", Gift],
               ["Popular Slots", Home],
-              ["New Games", Layers],
               ["Table Games", CreditCard],
               ["Video Poker", Layers],
-              ["Specialty", Gift],
-              ["Crash Games", Trophy],
+              ["Specialty Games", Gift],
               ["All Games", Layers],
-              ["Tournaments", Trophy],
-              ["Promotions", Gift],
-              ["Leaderboards", Trophy],
             ].map(([name, Icon]) => {
               const I = Icon as typeof Home;
               return (
@@ -686,21 +684,21 @@ export default function App() {
             })}
           </nav>
           <div className="sidebar-bottom">
-            <button onClick={() => setHostPage("Game Providers")}>⚛ &nbsp; GAME PROVIDERS</button>
-            <button onClick={() => setHostPage("More")}>▦ &nbsp; MORE</button>
-            <button onClick={() => setHostPage("Support")}>◉ &nbsp; LIVE SUPPORT</button>
-            <button onClick={() => setHostPage("Logout")}>↪ &nbsp; LOGOUT</button>
+            <button onClick={() => setHostPage("Promotions")}>🎁 &nbsp; Promos</button>
+            <button onClick={() => setHostPage("Tournaments")}>🏆 &nbsp; Tournaments</button>
+            <button onClick={() => setHostPage("More")}>••• &nbsp; More</button>
+            <button onClick={() => setHostPage("Logout")}>↪ &nbsp; Logout</button>
           </div>
         </aside>
         <div className="host">
           <header className="host-header">
-            <div className="mobile-brand"><img src="/reels-grande-logo.svg" alt="Reels Grande" /></div>
+            <div className="mobile-brand mega-mobile-brand"><span className="sr-only">Mega Medusa</span></div>
             <div className="header-actions">
               <button className="reward-progress" onClick={() => setHostPage("Promotions")} aria-label="Rewards progress">
                 <Trophy size={28} /><strong>0%</strong><span>20 FREE<br />SPINS</span>
               </button>
               <button className="account-deposit" aria-label="Deposit" onClick={() => launch()}>
-                <strong>$0.00</strong><span>DEPOSIT</span>
+                <strong>$11.48</strong><span>DEPOSIT</span>
               </button>
               <button className="header-inbox" aria-label="Inbox" onClick={() => setHostPage("Inbox")}><Inbox size={24} /></button>
               <button
@@ -722,12 +720,11 @@ export default function App() {
           <main className="lobby">
             {hostPage === "Lobby" || hostPage === "Popular Slots" || hostPage === "New Games" || hostPage === "Favorites" || hostPage === "Suggested" || hostPage === "All Games" ||
             hostPage === "Promotions" ||
-            hostPage === "Slots" || hostPage === "Table Games" || hostPage === "Video Poker" || hostPage === "Specialty" || hostPage === "Crash Games" ? (
+            hostPage === "Slots" || hostPage === "Table Games" || hostPage === "Video Poker" || hostPage === "Specialty Games" ? (
               <>
                 <section className="promo">
                   <picture aria-hidden="true">
-                    <source media="(max-width: 650px)" srcSet="/reelsucc-mobile-reference.png" />
-                    <img className="promo-image" src="/reelsucc-reference.png" alt="" />
+                    <img className="promo-image" src="/megaucc.png" alt="" />
                   </picture>
                   <button aria-label="Claim offer" onClick={() => launch("KICKSTARTER")}>Claim now</button>
                 </section>
@@ -738,10 +735,9 @@ export default function App() {
                     ["Favorites", "♥"],
                     ["Suggested", "✦"],
                     ["Popular Slots", "▦"],
-                    ["New Games", "NEW"],
                     ["Table Games", "♣"],
                     ["Video Poker", "♠"],
-                    ["Specialty", "★"],
+                    ["Specialty Games", "★"],
                   ].map(([n, icon]) => (
                     <button
                       key={n}
@@ -816,15 +812,6 @@ export default function App() {
             Inbox
           </button>
         </nav>
-        {!(open && flow.step === 1 && offer) && (
-          <button
-            className="ucc-style-toggle"
-            aria-pressed={uccColour}
-            onClick={() => setUccColour((value) => !value)}
-          >
-            {uccColour ? "Monochrome view" : "Colour view"}
-          </button>
-        )}
       </div>
       {open && (
         <>
@@ -836,7 +823,7 @@ export default function App() {
               e.preventDefault();
               close();
             }}
-            className={`cashier-dialog ${uccColour ? "cashier-colour" : "cashier-wireframe"}`}
+            className="cashier-dialog cashier-wireframe"
           >
           <div className="cashier-header">
             <button
