@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#122a30"><meta name="description" content="A suite of your own. A hotel to explore. Enter The Grand, a playable social hotel prototype."><title>The Grand — A world of your own</title><link rel="stylesheet" href="style.css"></head>
+<body>
+ <header class="hud"><a class="wordmark" href="#" aria-label="The Grand home"><span class="brand-mark">G</span><span>THE GRAND<small>A WORLD OF YOUR OWN</small></span></a><div class="mobile-identity"><div id="hud-avatar"></div><span id="player-name">Alex<small>SUITE 408 · DEMO</small></span></div><div class="hud-right"><span class="demo-label">18+ · PLAYABLE PROTOTYPE</span><button class="balance" data-action="wallet" aria-label="Virtual credit balance"><span class="coin">G</span><strong id="credits">2,500</strong><span class="credit-label">credits</span><span class="balance-plus">+</span></button><button class="icon-button settings-button" data-action="settings" aria-label="Settings"></button></div></header>
+ <div class="app-layout">
+  <nav class="rail" aria-label="Main navigation"><button class="nav-item active" data-action="suite"></button><button class="nav-item" data-action="hotel"></button><button class="nav-item" data-action="avatar"></button><button class="nav-item" data-action="rewards"></button><div class="rail-bottom"><span class="tiny-seal">G</span><span>STAY<br>A LITTLE.</span></div></nav>
+  <main class="game" aria-label="Playable hotel room">
+   <div class="room-heading"><div><div id="room-floor" class="eyebrow"></div><h1 id="room-name"></h1><p id="room-tag"></p></div><button class="secondary edit-button" data-action="edit"></button></div>
+   <div class="ambience" aria-hidden="true"></div><svg id="world" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820" role="application" tabindex="0" aria-label="Isometric room. Tap an open floor tile to walk, or a machine to play."></svg>
+   <div class="camera-tools"><button data-action="zoom-in" aria-label="Zoom in"></button><button data-action="zoom-out" aria-label="Zoom out"></button><button data-action="fit" aria-label="Fit room in view"></button></div>
+   <div class="room-controls"><button class="sound-button icon-button" data-action="sound" aria-label="Toggle sound"></button><span class="movement-help">Tap the floor to walk <span>· WASD / arrows</span></span></div>
+   <div id="joystick" class="joystick floating" aria-label="Movement joystick. Drag to walk." role="application"><div class="stick-ring"></div><div class="stick-thumb"></div><span>MOVE</span></div>
+   <button class="chat-fab" data-action="chat" aria-label="Open room conversation"><span class="notification-dot"></span></button>
+   <div id="editbar" hidden></div><div id="scene-notice" class="scene-notice" hidden></div>
+  </main>
+  <aside class="concierge"><div class="concierge-top"><span class="eyebrow">YOUR STAY</span><span class="status-dot"></span></div><h2>Make yourself<br>at home.</h2><p class="aside-intro">A favourite corner. A familiar face.<br>The evening is yours.</p><div class="mini-profile"><div id="side-avatar"></div><div><strong id="side-name">Alex</strong><span>Resident · Suite 408</span><button class="text-button" data-action="avatar">Edit your look <span>↗</span></button></div></div><div class="aside-rule"></div><div class="section-caption"><h3>A little to discover</h3><span id="achievement-count">0 / 6</span></div><div id="mini-achievements"></div><button class="text-button all-rewards" data-action="rewards">View all achievements <span>→</span></button><div class="aside-rule"></div><div class="section-caption"><h3>Around the hotel</h3><span class="pill">DEMO GUESTS</span></div><div id="guest-list"></div><button class="directory-button" data-action="hotel">Explore the hotel <span>→</span></button><div class="aside-footer"><span>VIRTUAL CREDITS. REAL CURIOSITY.</span><p>A single-player concept with simulated guests.<br>No payments. No cash prizes.</p></div></aside>
+ </div>
+ <nav class="bottom-nav" aria-label="Mobile navigation"><button class="active" data-action="suite"></button><button data-action="hotel"></button><button data-action="avatar"></button><button data-action="rewards"></button></nav>
+ <dialog id="panel" aria-label="Hotel menu"><div id="panel-content"></div></dialog>
+ <div id="toast" role="status" aria-live="polite"></div>
+ <script type="module" src="app.js"></script>
+</body></html>
