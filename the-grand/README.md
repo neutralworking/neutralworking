@@ -16,13 +16,13 @@ A standalone, mobile-first isometric social hotel prototype. The suite opens imm
 - Open Store, or tap the physical clothing rail in the lobby, for 13 jackets, hats and accessories. Try an item on your own avatar, buy with virtual credits or earned style tokens and equip it. Owned items remain in your wardrobe and never charge twice.
 - Say hello to clearly labelled simulated residents. Earn cosmetics through gameplay, exploration, social interaction and decoration. The one-time funding reward is explicitly simulated.
 - Tap any resident to talk to them in the room: type anything or use their topic chips, and their reply appears above their head.
-- Sofia is the hotel's con artist, with her own dialogue engine. She is scripted, not a connected player or an AI model.
+- Sofia is the hotel's most dangerous flirt and con artist, with her own dialogue engine. Expect innuendo. She is scripted, not a connected player or an AI model.
 - Your first evening: get Sofia up to your suite. She will not visit without The Grand Reserve, which unlocks after winning 2 rounds and trying the simulated funding flow. Invite her in person or from Invite in your suite.
 - Open Stories to follow Kit’s route-sign repair and Noor’s tribute performance. Each has four stages, another resident to consult, a physical gallery display with a remembered choice, a character-specific ending and a cosmetic reward.
 - Listening to distinct topics builds persistent friendships and unlocks personal dialogue. Profiles remember topics, visits and story choices. Repeating a line does not farm points or rewards.
 - Earn style tokens from exploration, introductions, new conversation topics, personal chats, hosting and story endings. Every milestone pays once. Tokens only buy cosmetics; they never fund a game or change its credit wallet.
 - Residents travel between public rooms through the same gallery on staggered local schedules. Their live location appears in the resident directory; Find takes you to their current location. Suite visitors are exempt from travel schedules.
-- Your room, avatar, relationships, story choices, preferences, credits and achievements save to this browser's local storage.
+- Your room, avatar, relationships, story choices, preferences, credits and achievements save to this browser's local storage. Returning players can continue or start over on load, or any time from Settings → Start over.
 
 ## Source
 
@@ -39,6 +39,7 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.
+- `tests/reset.test.mjs`: returning-player welcome card and the two-step reset.
 - `tests/sofia.test.mjs`: dialogue behaviour, invitation gate, persistence and a no-deposit-talk fuzz test.
 - `tests/app.test.mjs`: a complete interactive user journey in LinkeDOM, with an injected animation clock and pointer coordinates.
 - `tests/residents-store.test.mjs`: ten simulated minutes of autonomous behaviour, NPC conversations, purchase guards, identity options and save migration.
