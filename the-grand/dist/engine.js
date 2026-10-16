@@ -53,7 +53,41 @@ export function progress(a,s){return a.metric==='visited'?new Set(s.visited.filt
 export function checkUnlocks(s){const newly=ACHIEVEMENTS.filter(a=>progress(a,s)>=a.target&&!s.unlocked.includes(a.id));s.unlocked.push(...newly.map(a=>a.id));return newly;}
 export function equippedColor(s){return COSMETICS.shirt.find(c=>c.id===s.shirt)?.color||'#417c71';}
 export function isUnlocked(c,s){return !c.achievement||s.unlocked.includes(c.achievement);}
-export function spin(s,game,rng=Math.random,bet=25){if(s.credits<bet)return null;const r=rng();const symbols=game==='neon'?['orb','bolt','star','diamond']:['seven','diamond','crown','cherry'];let result,payout;if(r<.08){result=[symbols[0],symbols[0],symbols[0]];payout=bet*8;}else if(r<.24){result=[symbols[1],symbols[1],symbols[1]];payout=bet*4;}else if(r<.48){result=[symbols[2],symbols[2],symbols[3]];payout=bet*2;}else{result=[symbols[0],symbols[3],symbols[1]];payout=0;}s.credits=s.credits-bet+payout;s.spins++;if(payout>bet)s.wins++;return {symbols:result,payout,bet,net:payout-bet};}
+// --- Slot economy -----------------------------------------------------------
+// One paytable drives the outcome roll, the reel faces and the in-game paytable copy.
+// Symbol order per game: [top, high, mid, filler]. RTP = Σ probability × multiplier.
+export const BET=25;
+export const SYMBOLS={gold:['seven','diamond','crown','cherry'],neon:['orb','bolt','star','diamond']};
+export const SYMBOL_NAMES={seven:'sevens',diamond:'diamonds',crown:'crowns',cherry:'cherries',orb:'orbs',bolt:'bolts',star:'stars'};
+export const PAYTABLE=[
+ {id:'three-top',kind:'three',symbol:0,multiplier:20,probability:.015},
+ {id:'three-high',kind:'three',symbol:1,multiplier:8,probability:.035},
+ {id:'three-mid',kind:'three',symbol:2,multiplier:4,probability:.05},
+ {id:'two-mid',kind:'two',symbol:2,multiplier:2,probability:.085}
+];
+export const RTP=PAYTABLE.reduce((sum,t)=>sum+t.probability*t.multiplier,0); // 0.95
+export const HIT_RATE=PAYTABLE.reduce((sum,t)=>sum+t.probability,0); // 0.185
+// Free top-ups only when the player is nearly out, so the balance still means something.
+export const REFILL_BELOW=BET*4, REFILL_AMOUNT=1000;
+export const canRefill=s=>s.credits<REFILL_BELOW;
+export function refill(s){if(!canRefill(s))return false;s.credits+=REFILL_AMOUNT;return true;}
+const pick=(list,rng)=>list[Math.min(list.length-1,Math.floor(rng()*list.length))];
+// Every face combination a tier can show, so wins and losses both look varied.
+function faces(tier,symbols,rng){
+ const target=symbols[tier.symbol];
+ if(tier.kind==='three')return [target,target,target];
+ const odd=pick(symbols.filter(x=>x!==target),rng),slot=pick([0,1,2],rng),out=[target,target,target];out[slot]=odd;return out;
+}
+// A losing line: never three of a kind and never two (or more) of the paying pair symbol.
+// Built constructively rather than by rejection, so a constant rng cannot loop forever.
+function losingFaces(symbols,rng){
+ const pair=symbols[2],a=pick(symbols,rng),b=pick(a===pair?symbols.filter(x=>x!==pair):symbols,rng);
+ const pairs=[a,b].filter(x=>x===pair).length;
+ const c=pick(symbols.filter(x=>!(a===b&&x===a)&&!(pairs&&x===pair)),rng);
+ return [a,b,c];
+}
+export function spin(s,game,rng=Math.random,bet=BET){if(s.credits<bet)return null;const symbols=SYMBOLS[game]||SYMBOLS.gold;const r=rng();let cumulative=0,tier=null;for(const t of PAYTABLE){cumulative+=t.probability;if(r<cumulative){tier=t;break;}}const result=tier?faces(tier,symbols,rng):losingFaces(symbols,rng),payout=tier?bet*tier.multiplier:0;s.credits=s.credits-bet+payout;s.spins++;if(payout>bet)s.wins++;return {symbols:result,payout,bet,net:payout-bet,tier:tier?.id||null};}
+export function paytableLines(game){const symbols=SYMBOLS[game]||SYMBOLS.gold,name=i=>SYMBOL_NAMES[symbols[i]];return PAYTABLE.map(t=>`${t.kind==='three'?'Three':'Two'} ${name(t.symbol)} · ${t.multiplier}× · ${+(t.probability*100).toFixed(1)}%`);}
 export function loadState(raw){const d=freshState();try{const s=JSON.parse(raw);if(s?.version!==1)return d;for(const k of ['spins','wins','social','decorated','funded'])if(Number.isFinite(s[k])&&s[k]>=0)d[k]=Math.floor(s[k]);if(Number.isFinite(s.credits)&&s.credits>=0)d.credits=Math.floor(s.credits);for(const k of ['name','theme','floor','favourite','joystick'])if(typeof s[k]==='string')d[k]=s[k].slice(0,30);for(const k of Object.keys(COSMETICS))if(COSMETICS[k].some(c=>c.id===s[k]))d[k]=s[k];d.visited=Array.isArray(s.visited)?[...new Set(s.visited.filter(v=>ROOMS[v]))]:[];d.unlocked=Array.isArray(s.unlocked)?s.unlocked.filter(a=>ACHIEVEMENTS.some(b=>b.id===a)):[];d.sound=!!s.sound;
  if(Array.isArray(s.furniture)&&s.furniture.length<=24){const valid=[];for(const o of s.furniture){if(!CATALOG[o.type]||typeof o.id!=='string'||!Number.isInteger(o.x)||!Number.isInteger(o.y))continue;const item={id:o.id.slice(0,60),type:o.type,x:o.x,y:o.y,rot:o.rot===1?1:0};if(cells(item).every(([x,y])=>!blocked(x,y,valid)))valid.push(item);}const spawn=[];for(let x=0;x<8;x++)for(let y=0;y<8;y++)if(!blocked(x,y,valid))spawn.push({x:x+.5,y:y+.5});if(spawn.some(p=>reachableFloor(valid,p,[7,7])))d.furniture=valid;}
  checkUnlocks(d);for(const k of Object.keys(COSMETICS)){const c=COSMETICS[k].find(c=>c.id===d[k]);if(!isUnlocked(c,d))d[k]=COSMETICS[k][0].id;}return d;}catch{return d;}}
