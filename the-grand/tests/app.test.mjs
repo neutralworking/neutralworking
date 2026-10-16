@@ -46,9 +46,11 @@ test('complete playable prototype DOM flow',async t=>{
  const npcNode=id=>$(`[data-npc="${id}"]`);
  const bubbleText=()=>$('#speech-layer').textContent;
  const send=text=>{$('#talk-input').value=text;event($('#talk-bar'),'submit');};
+ // Walking to a resident can take a while when they're across the room: wait for the talk bar, up to ~10s.
+ const untilTalk=()=>{for(let i=0;i<40&&!$('#talk-bar');i++)frames(15);frames(20);};
  const tapNpc=id=>{const n=npcNode(id);assert.ok(n,`resident ${id} is in the room`);event(n,'pointerdown',{clientX:100,clientY:100,pointerType:'mouse'});event(n,'pointerup',{clientX:100,clientY:100,pointerType:'mouse'});};
  await t.test('residents talk inline: tapping one opens a talk bar in the scene and replies appear above their head',()=>{
-  tapNpc(15);frames(260);assert.ok($('#talk-bar'),'talk bar opens in the scene, not a panel');assert.equal(panel.open,false);assert.match($('#talk-bar').textContent,/Noor/);focusEl=$('#talk-input');window.visualViewport.height=375;viewportHandlers.resize();assert.equal(game.style.getPropertyValue('--keyboard-inset'),'300px');focusEl=null;window.visualViewport.height=675;viewportHandlers.resize();assert.equal(game.style.getPropertyValue('--keyboard-inset'),'0px');
+  tapNpc(15);untilTalk();assert.ok($('#talk-bar'),'talk bar opens in the scene, not a panel');assert.equal(panel.open,false);assert.match($('#talk-bar').textContent,/Noor/);focusEl=$('#talk-input');window.visualViewport.height=375;viewportHandlers.resize();assert.equal(game.style.getPropertyValue('--keyboard-inset'),'300px');focusEl=null;window.visualViewport.height=675;viewportHandlers.resize();assert.equal(game.style.getPropertyValue('--keyboard-inset'),'0px');
   frames(120);assert.match(bubbleText(),/NOOR/);
   click('[data-action="talk-chip"][data-topic="0"]');frames(3);assert.ok($('#speech-layer .speech-dots'),'they are "typing"');frames(150);assert.match($('#talk-live').textContent,/melody/i);
   send('Lovely evening');frames(3);assert.match(bubbleText(),/Lovely/,'your line appears above your avatar');frames(150);
@@ -56,7 +58,7 @@ test('complete playable prototype DOM flow',async t=>{
   click('[data-action="talk-close"]');assert.equal($('#talk-bar'),null);
  });
  await t.test('Sofia, the resident con artist, has her own brain and will not visit without The Grand Reserve',()=>{
-  click('#quest-pill');assert.match($('#panel-content').textContent,/YOUR FIRST EVENING/);click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');frames(300);
+  click('#quest-pill');assert.match($('#panel-content').textContent,/YOUR FIRST EVENING/);click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');untilTalk();
   assert.ok($('#talk-bar'));assert.match($('#talk-bar').textContent,/dangerous flirt/i);frames(160);assert.match(bubbleText(),/SOFIA/);
   send('My name is Luke');frames(160);assert.match($('#talk-live').textContent,/Luke/);assert.match($('#talk-live').textContent,/Alex/,'she notices the key card name');
   click('[data-action="talk-chip"][data-message="Come up to my suite?"]');frames(160);assert.match($('#talk-live').textContent,/Grand Reserve/);assert.ok($('#quest-pill').classList.contains('flash'),'onboarding is nudged');
@@ -70,7 +72,7 @@ test('complete playable prototype DOM flow',async t=>{
  await t.test('onboarding: claim The Grand Reserve, invite Sofia, and she comes up to 408',()=>{
   frames(40);assert.equal($('#quest-pill').hidden,false);assert.match($('#quest-pill').textContent,/Claim The Grand Reserve/);
   click('#quest-pill');assert.match($('#panel-content').textContent,/SIMULATED/);click('[data-action="claim-reserve"]');assert.deepEqual(getState().items,['reserve']);assert.match($('.reserve-card').textContent,/In your suite/);
-  click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');frames(300);assert.ok($('#talk-bar'));
+  click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');untilTalk();assert.ok($('#talk-bar'));
   click('[data-action="talk-chip"][data-message="Come up to my suite?"]');frames(160);assert.match(bubbleText(),/Lead the way|underestimated/);assert.equal($('#talk-bar'),null,'the conversation pauses while you head up');
   assert.ok(getState().hosted.includes('Sofia'));frames(100);assert.equal($('#room-name').textContent,'Your private suite');
   frames(700);assert.ok(npcNode(0),'Sofia walks in from the door');assert.ok($('#talk-bar'),'and picks the conversation back up');assert.match($('#talk-live').textContent,/408/);
