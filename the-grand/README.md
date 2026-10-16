@@ -36,6 +36,7 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/residents.js`: autonomous finite-state routines, machine reservations, independent bot balances, paired conversations and player interruption.
 - `dist/art.js`: original isometric vector furniture, room scenery, cabinets, modular avatars and UI icons.
 - `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus, inline conversations and speech bubbles, suite invitations, onboarding and interaction controllers.
+- `dist/npc-brain.js`: reusable NPC dialogue engine (intent classification, response pools with conditions/effects/actions, memory, slot filling, reactions). Accepts an external classifier's decision.
 - `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.
