@@ -19,7 +19,69 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .concierge-actions .primary,.concierge-actions .quiet-button{width:100%;padding:12px 16px}
 @keyframes concierge-in{from{opacity:0;transform:translate(-50%,10px)}to{opacity:1;transform:translate(-50%,0)}}
 .chat-fab.nudge{animation:fab-nudge 1.8s ease-in-out infinite}
+/* Room actions + first-evening pill */
+.room-actions{display:flex;gap:8px;align-items:flex-start;pointer-events:auto}
+.invite-button{margin-top:3px}
+.quest-pill,.invite-button{pointer-events:auto}
+.quest-pill{margin-top:10px;display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left;background:#15343ce6;border:1px solid #cab68166;border-radius:8px;padding:7px 11px;color:var(--ink);max-width:260px}
+.quest-pill[hidden],.invite-button[hidden]{display:none}
+.quest-kicker{font-size:8px;letter-spacing:1.6px;color:var(--gold);font-weight:600}
+.quest-step{font-size:11px;color:#dfe3d6}
+.quest-pill.flash{animation:quest-flash .9s ease-out 2}
+@keyframes quest-flash{0%{box-shadow:0 0 0 0 #cfb77fcc}100%{box-shadow:0 0 0 12px #cfb77f00}}
+/* Speech bubbles drawn in the SVG world, above every character */
+.speech{pointer-events:none}
+.speech-bg{fill:#f1ead6;stroke:#cdbf93;stroke-width:1}
+.speech-text{font-size:9px;fill:#1f3a37;font-family:Inter,ui-sans-serif,-apple-system,"Segoe UI",sans-serif}
+.speech-who{font-size:6.5px;letter-spacing:1.2px;fill:#e8d7a6;font-weight:600}
+.speech-you .speech-bg{fill:#d3e4da;stroke:#7fa592}
+.mood-scheming .speech-bg{fill:#ebe5f6;stroke:#9786cf}
+.mood-annoyed .speech-bg{fill:#f3e3d2;stroke:#c08a5a}
+.mood-furious .speech-bg{fill:#f4d5cf;stroke:#b5524a;stroke-width:1.5}
+.mood-delighted .speech-bg{fill:#f7edc8;stroke:#cfb77f;stroke-width:1.5}
+.speech-dots circle{fill:#6b7f78;animation:speech-dot 1s ease-in-out infinite}
+.speech-dots circle:nth-child(2){animation-delay:.15s}.speech-dots circle:nth-child(3){animation-delay:.3s}
+@keyframes speech-dot{0%,100%{opacity:.25}50%{opacity:1}}
+/* Inline talk bar */
+.talk-bar{position:absolute;left:50%;bottom:16px;transform:translateX(-50%);z-index:7;width:min(440px,calc(100% - 32px));background:#152e35f5;border:1px solid #cab68166;border-radius:12px;padding:10px 10px 10px;box-shadow:0 18px 50px #0007}
+.talk-head{display:flex;align-items:center;gap:10px}
+.talk-portrait{width:30px;height:36px;border-radius:6px;overflow:hidden;background:#3c4e45;flex-shrink:0}
+.talk-portrait svg{width:100%;height:100%}
+.talk-id strong{display:block;font-size:13px;color:var(--ink)}
+.talk-id small{display:block;font-size:8px;letter-spacing:1.4px;color:var(--muted);margin-top:2px}
+.talk-bar[data-mood="scheming"] .talk-id small{color:#b7a8ea}.talk-bar[data-mood="annoyed"] .talk-id small{color:#e0a874}.talk-bar[data-mood="furious"] .talk-id small{color:#ee8a80}.talk-bar[data-mood="delighted"] .talk-id small{color:var(--gold)}
+.talk-close{margin-left:auto;width:32px;height:32px;display:grid;place-items:center;border-radius:7px;background:#29464a;color:#c9cfb7}
+.talk-chips{display:flex;flex-wrap:wrap;gap:6px;margin:9px 0}
+.talk-chips button{background:#29464a;border:1px solid #7f9d8d40;border-radius:999px;padding:6px 11px;font-size:11px;color:#d6dcc8;min-height:30px}
+.talk-row{display:flex;gap:8px}
+.talk-row .text-field{min-width:0;min-height:42px;padding:10px 12px}
+.talk-send{width:44px;padding:10px;flex-shrink:0}
+.game:has(.talk-bar) .chat-fab,.game:has(.talk-bar) .joystick,.game:has(.concierge-card) .joystick{visibility:hidden}
+/* Invite list + first-evening panel */
+.invite-list{display:flex;flex-direction:column;gap:10px;margin-top:6px}
+.invite-row{display:flex;align-items:center;gap:12px;padding:10px;border:1px solid var(--border);border-radius:9px;background:#ffffff06}
+.invite-row strong{display:block;font-size:13px}
+.invite-row span{display:block;font-size:10px;color:var(--muted);margin-top:3px}
+.invite-row>button,.invite-row>em{margin-left:auto;min-height:36px;padding:8px 14px;font-size:11px;width:auto}
+.invite-row>em{font-style:normal;color:var(--green);font-size:10px;letter-spacing:1px}
+.reserve-card{display:flex;gap:14px;align-items:center;padding:14px;border:1px solid #cab68155;border-radius:10px;background:linear-gradient(135deg,#1d3c40,#152e35);margin:6px 0 14px}
+.reserve-card.owned{border-color:var(--gold);box-shadow:inset 0 0 0 1px #cfb77f44}
+.reserve-art{width:38px;flex-shrink:0}.reserve-art svg{width:100%;height:auto}
+.reserve-card strong{font:17px/1.2 Georgia,serif;color:#f0efdd}
+.reserve-card p{font-size:11px;line-height:1.5;color:#c3cbbd;margin:5px 0}
+.reserve-card small{font-size:9px;letter-spacing:1px;color:var(--gold)}
+.onboarding-steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.onboarding-steps li{display:flex;align-items:center;gap:11px;padding:10px;border-radius:9px;border:1px solid var(--border)}
+.onboarding-steps li.current{border-color:#cab68188;background:#cfb77f0d}
+.onboarding-steps li.done{opacity:.6}
+.onboarding-steps strong{font-size:12px;display:block}
+.onboarding-steps p{font-size:10px;color:var(--muted);margin:3px 0 0;line-height:1.45}
+.step-num{width:24px;height:24px;border-radius:50%;display:grid;place-items:center;font-size:11px;flex-shrink:0;border:1px solid #cab68166;color:var(--gold)}
+.done .step-num{background:var(--green);border-color:var(--green);color:#173e3c}
+.onboarding-steps li>button{margin-left:auto;width:auto;min-height:34px;padding:7px 12px;font-size:11px;flex-shrink:0}
+.step-done{margin-left:auto;font-size:9px;letter-spacing:1.2px;color:var(--green)}
 @keyframes fab-nudge{0%,100%{box-shadow:0 8px 20px #0003,0 0 0 0 #cfb77f80}50%{box-shadow:0 8px 20px #0003,0 0 0 10px #cfb77f00}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.001ms!important;transition-duration:.001ms!important}}
 @media(pointer:coarse){.joystick{display:flex}}
-@media(prefers-reduced-motion:reduce){.chat-fab.nudge{animation:none;box-shadow:0 8px 20px #0003,0 0 0 3px #cfb77f99}}
+@media(prefers-reduced-motion:reduce){.chat-fab.nudge{animation:none;box-shadow:0 8px 20px #0003,0 0 0 3px #cfb77f99}.speech-dots circle,.quest-pill.flash{animation:none}}
+@media(max-width:600px){.quest-pill{margin-top:6px;padding:6px 9px;max-width:200px}.quest-step{font-size:10px}.talk-bar{bottom:10px;width:calc(100% - 20px)}.invite-button{font-size:10px;padding:6px 9px}}

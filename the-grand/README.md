@@ -12,6 +12,8 @@ A standalone, mobile-first isometric social hotel prototype. The suite opens imm
 - Style & games changes walls, flooring and your physical favourite cabinet.
 - Play Grand Sevens or Nova Nights with fictional credits. There are no payments, withdrawals or cash prizes.
 - Say hello to clearly labelled demo guests. Earn cosmetics through gameplay, exploration, social interaction and decoration. The one-time funding reward is explicitly simulated.
+- Tap Sofia to talk to her in the room: type anything, or use the quick replies. She is a scripted con artist, not a connected player or an AI model.
+- Your first evening: get Sofia up to your suite. She will not visit without The Grand Reserve, which unlocks after winning 2 rounds and trying the simulated funding flow. Invite her in person or from Invite in your suite.
 - Your room, avatar, preferences, credits and achievements save to this browser's local storage.
 
 ## Source
@@ -22,9 +24,11 @@ Live prototype: https://the-grand-weld.vercel.app
 
 - `dist/engine.js`: pure simulation, room definitions, collision, BFS pathfinding, achievement rules, outcome logic and persistence validation.
 - `dist/art.js`: original isometric vector furniture, room scenery, cabinets, modular avatars and UI icons.
-- `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus and interaction controllers.
+- `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus, inline speech bubbles, invitations, onboarding and interaction controllers.
+- `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.
+- `tests/sofia.test.mjs`: dialogue behaviour, invitation gate, persistence and a no-deposit-talk fuzz test.
 - `tests/app.test.mjs`: a complete interactive user journey in LinkeDOM, with an injected animation clock and pointer coordinates.
 - `tests/render-scenes.mjs`: optional standalone SVG scene rendering via the Codex runtime's Sharp library.
 - `QA.md`: exact verification scope and remaining acceptance checks.

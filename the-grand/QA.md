@@ -2,9 +2,14 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **54 checks**, including the parent integration case (36 simulation/art checks and 17 DOM journey subchecks).
+`npm run check` passes. `npm test` passes **68 checks**: 39 simulation/art, 8 Sofia dialogue and 20 DOM journey subchecks (plus the parent integration case).
 
 Verified behaviour:
+
+- Sofia talks inline: tapping her walks you beside her, opens an in-scene talk bar, and her replies type out in a speech bubble above her head (yours appear above your avatar). She learns and needles your name, lies about who she is and can be caught with her own lies, gossips, runs a room-key con, remembers what you like, and storms off when her patience runs out. Walking away mid-conversation gets a parting shot. Her memory persists under its own storage key (`the-grand-sofia-v1`) and restores defensively.
+- A fuzz test (2,400 replies) confirms she never mentions depositing, funding, paying or buying, and never echoes those words back.
+- First evening onboarding: say hello to Sofia → win 2 rounds → simulated funding → claim The Grand Reserve → invite Sofia to 408. Steps derive from saved state; the item is re-validated on load, so a tampered save cannot skip requirements.
+- Sofia refuses to visit without The Grand Reserve; with it she accepts, you both head to 408, and she walks in from the door and resumes the conversation. The suite Invite list explains who will not come and why.
 
 - First visit shows a one-time concierge card (say hello to a guest, or look around first) and nudges the chat button. Dismissing persists `intro`; older saves that already said hello skip it.
 - Projection and inverse projection agree for every floor tile.
