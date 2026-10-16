@@ -2,7 +2,7 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **85 checks**: simulation/art, resident/store/appearance, 8 Sofia dialogue checks and 24 DOM journey subchecks (plus the parent integration case).
+`npm run check` passes. `npm test` passes **101 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
 
 Verified behaviour:
 
@@ -13,14 +13,14 @@ Verified behaviour:
 - Sofia refuses to visit without The Grand Reserve; with it she accepts, you both head to 408, she walks in from the door and resumes the conversation, then leaves through it. Other residents you have met accept invitations freely. Visitors return to their own room if you leave the suite.
 
 - Projection and inverse projection agree for every floor tile.
-- All five rooms contain non-overlapping, in-bounds furniture. Every open floor tile and exit is reachable from spawn. Every interactive object can be approached.
+- All six rooms contain non-overlapping, in-bounds furniture. Every open floor tile and exit is reachable from spawn. Every interactive object can be approached.
 - Tap movement changes the actual rendered avatar; approaching a machine opens its interface.
 - Continuous and diagonal movement respect boundaries and furniture, including delayed-frame collision substeps.
 - Both joystick modes move the rendered avatar and stop on release. A short touch in the floating zone remains tap-to-move.
 - Five settled spins update credits, wins, rounds and unlocks. Every paytable tier and a loss debit once and return their documented payout. Insufficient balance cannot spin.
 - Slot economy: one `PAYTABLE` drives outcomes, reel faces and paytable copy. Declared RTP 95% (hit rate 18.5%); a seeded 200k-spin session lands within 93–97% for both games. Reel faces always match what they pay, losing lines vary (20+ distinct), and a constant rng cannot hang the loss generator. Free top-ups only open below 100 credits.
 - The second cabinet changes appearance and opens/plays Nova Nights. Its paytable matches its symbol set.
-- The hotel directory changes into four actual navigable rooms with demo NPCs. Walking to the exit opens the directory.
+- The hotel directory changes into four actual navigable rooms with demo NPCs. Walking to an exit enters the gallery. Its five focusable doorways route the avatar to the selected destination.
 - Scripted chat updates the social achievement and conversation.
 - Placement preview rejects occupied/player/out-of-bounds/exit tiles and prevents sealing the exit. Existing furniture rotates, moves and removes correctly.
 - Wall/floor choices and favourite cabinet update the actual scene and persist.
@@ -30,7 +30,7 @@ Verified behaviour:
 
 ## Resident, store and player-identity update
 
-- All 20 profiles are unique adults, with five residents per public room and 60 distinct authored topic responses.
+- All 20 profiles are unique adults, with five starting residents per original public room and 60 distinct authored topic responses.
 - A seeded ten-minute simulation reaches all eight states: idle, walking, betting, talking, resting, browsing, skating and music. All 20 residents move without crossing furniture. Residents exchange directed conversations and independently settle virtual rounds without touching the player wallet.
 - Player interruption releases an NPC's reserved cabinet and holds the conversation. NPC-to-NPC questions receive the matching peer topic response.
 - The player can select Woman, Man or Neutral presentation, eight skin tones and eight hairstyles, at no cost. Their actual world avatar and wardrobe preview update together.
@@ -39,9 +39,20 @@ Verified behaviour:
 - The lobby contains an approachable physical boutique. Mobile Store and Residents controls open the catalogue and all 20 profiles.
 - SVG contact sheets of the 20 residents, 24 player appearance combinations and all 13 store items were inspected for visual consistency. All 192 free presentation/skin/hairstyle combinations render without invalid values.
 
+## Relationships, stories, travel and tokens
+
+- Distinct topics grow saved connections; repeated greetings or topics cannot farm points or tokens. Friendship unlocks individual personal dialogue and remembered-topic greetings. Hosting and completing a story also build connections.
+- Kit’s full four-stage DOM journey: Kit → Ada → gallery route board → Kit. Direct/scenic branches both persist, change the ending and later greeting, and grant the cruiser plus 8 tokens once.
+- Noor’s full four-stage DOM journey: Noor → Farah → gallery archive → Noor. Chisholm/Hopper branches both persist and change the ending; completion triggers the music state with a visible saxophone, optional original tones, and the jazz pin plus 12 tokens once.
+- Journal stage hints, current-location Find actions, saved-choice summaries, personal chats, boutique balances and token purchases work through the actual app DOM.
+- Exploring and hosting milestones reconcile once, including prior saved progress. Every priced cosmetic offers a token alternative. Insufficient tokens, unknown items and duplicate purchases do not debit anything. Token purchases leave virtual game credits untouched.
+- All gallery door pairs are reachable; both story objects can be approached. A separate seeded ten-minute travel simulation keeps all residents in bounds, moves at least 15 residents between public rooms, and leaves Sofia stationed in the lobby. Travel can be interrupted by a player conversation and does not run for suite visitors.
+- Resident render membership and directory locations update when characters change rooms. Existing Sofia suite arrival/conversation/exit and invitation tests pass unchanged.
+- Input viewport logic was exercised with a simulated visual viewport shrinking by 300px and restoring. New mobile rules provide larger touch targets, 16px text inputs, scrollable story panels, and a keyboard-aware composer. This is not an actual soft-keyboard or CSS layout test.
+
 ## Visual verification
 
-The original SVG room renderer was rasterized and visually inspected for the suite, lobby, gold lounge, neon arcade and rooftop. Representative scene crops were produced for the gameplay areas associated with:
+The original SVG room renderer was rasterized and visually inspected for the suite, lobby, gold lounge, neon arcade, rooftop and the new gallery. The gallery render was inspected after moving a plant that obscured a doorway label. Representative scene crops were produced for the gameplay areas associated with:
 
 | Device viewport | Gameplay area tested in the DOM camera harness |
 | --- | --- |

@@ -1,3 +1,4 @@
+import {freshSocial,loadSocial} from './social.js';
 // Framework-independent simulation, persistence schema and collision rules.
 export const SIZE=8, SAVE_KEY='the-grand-v1';
 export const CATALOG={
@@ -24,6 +25,9 @@ export const ROOMS={
  roof:{name:'The Rooftop Club',short:'Rooftop Club',floor:'FLOOR 08 · OPEN SKY',tag:'Above the city. Out of the ordinary.',accent:'#e2a49e',wall:'#526b7e',floorA:'#89959a',floorB:'#7e898e',rug:'#796a76',spawn:[4,6],exit:[7,7],guestCount:5,
  objects:[o('bar','bar',0,1),o('sofa','sofa',4,0),o('chair','chair',6,3),o('table','table',5,3),o('palm','plant',0,5),o('palm2','plant',7,0),o('music','speaker',1,6),o('game','machine',6,5,0,'neon')]}
 };
+// The gallery connects every public room and the private suite through marked doors.
+export const GALLERY_DOORS={suite:[1,7],lobby:[0,4],gold:[3,0],neon:[7,1],roof:[7,6]};
+ROOMS.hall={name:'The Gallery & Lifts',short:'Gallery & Lifts',floor:'HOTEL CONNECTIONS',tag:'Take the long way. There’s a story on every wall.',accent:'#d9c28c',wall:'#536e6b',floorA:'#c6b99b',floorB:'#b3aa94',rug:'#57756b',spawn:[4,6],exit:[7,7],guestCount:0,objects:[o('route-board','route-board',1,1),o('archive','archive',5,4),o('gallery-seat','sofa',2,4),o('gallery-palm','plant',7,3)]};
 export {RESIDENTS as GUESTS} from './characters.js';
 import {RESIDENTS as CAST} from './characters.js';
 export const SKIN_TONES=['#f2d8bf','#e6ba96','#d6a080','#bc865f','#a16b48','#855737','#68422e','#4e3026'];
@@ -43,7 +47,7 @@ export const ACHIEVEMENTS=[
  {id:'decorate',name:'Make yourself at home',desc:'Make your first suite edit',target:1,metric:'decorated',reward:'Art deco pin'},
  {id:'fund',name:'The welcome collection',desc:'Try simulated account funding',target:1,metric:'funded',reward:'Champagne jacket',demo:true}
 ];
-export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false,intro:0,items:[],hosted:[]};}
+export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false,intro:0,items:[],hosted:[],socialProgress:freshSocial()};}
 export function dimensions(obj){const c=CATALOG[obj.type]||{w:obj.type==='bar'?3:1,d:1};return obj.rot%2?[c.d,c.w]:[c.w,c.d];}
 export function cells(obj){const [w,d]=dimensions(obj),out=[];for(let x=0;x<w;x++)for(let y=0;y<d;y++)out.push([obj.x+x,obj.y+y]);return out;}
 export function blocked(x,y,objects,ignore){if(x<0||y<0||x>=SIZE||y>=SIZE)return true;return objects.some(o=>o.id!==ignore&&cells(o).some(([a,b])=>a===x&&b===y));}
@@ -53,7 +57,7 @@ export function pathfind(start,end,objects){if(blocked(...end,objects))return nu
 export function approach(player,obj,objects){const candidates=[];for(const [x,y] of cells(obj))for(const [dx,dy] of [[1,0],[-1,0],[0,1],[0,-1]]){const p=[x+dx,y+dy];const path=pathfind([Math.floor(player.x),Math.floor(player.y)],p,objects);if(path!==null)candidates.push({path,target:p});}return candidates.sort((a,b)=>a.path.length-b.path.length)[0]||null;}
 export function moveContinuous(player,dx,dy,dt,objects){const mag=Math.hypot(dx,dy);if(!mag)return {...player};const speed=2.8*dt/Math.max(1,mag);let {x,y}=player; // substeps prevent tunnelling after a delayed frame
  const steps=Math.max(1,Math.ceil(speed*mag/.08));for(let i=0;i<steps;i++){const nx=x+dx*speed/steps,ny=y+dy*speed/steps;const free=(a,b)=>[[-.18,-.18],[.18,-.18],[-.18,.18],[.18,.18]].every(([ox,oy])=>!blocked(Math.floor(a+ox),Math.floor(b+oy),objects));if(free(nx,y))x=nx;if(free(x,ny))y=ny;}return {...player,x,y};}
-export function progress(a,s){return a.metric==='visited'?new Set(s.visited.filter(v=>v!=='suite')).size:Number(s[a.metric]||0);}
+export function progress(a,s){return a.metric==='visited'?new Set(s.visited.filter(v=>['lobby','gold','neon','roof'].includes(v))).size:Number(s[a.metric]||0);}
 export function checkUnlocks(s){const newly=ACHIEVEMENTS.filter(a=>progress(a,s)>=a.target&&!s.unlocked.includes(a.id));s.unlocked.push(...newly.map(a=>a.id));return newly;}
 export function equippedColor(s){return COSMETICS.shirt.find(c=>c.id===s.shirt)?.color||'#417c71';}
 export const STORE_ITEMS=Object.entries(COSMETICS).flatMap(([category,items])=>items.filter(c=>c.price).map(c=>({...c,category})));
@@ -95,6 +99,7 @@ function losingFaces(symbols,rng){
 export function spin(s,game,rng=Math.random,bet=BET){if(s.credits<bet)return null;const symbols=SYMBOLS[game]||SYMBOLS.gold;const r=rng();let cumulative=0,tier=null;for(const t of PAYTABLE){cumulative+=t.probability;if(r<cumulative){tier=t;break;}}const result=tier?faces(tier,symbols,rng):losingFaces(symbols,rng),payout=tier?bet*tier.multiplier:0;s.credits=s.credits-bet+payout;s.spins++;if(payout>bet)s.wins++;return {symbols:result,payout,bet,net:payout-bet,tier:tier?.id||null};}
 export function paytableLines(game){const symbols=SYMBOLS[game]||SYMBOLS.gold,name=i=>SYMBOL_NAMES[symbols[i]];return PAYTABLE.map(t=>`${t.kind==='three'?'Three':'Two'} ${name(t.symbol)} · ${t.multiplier}× · ${+(t.probability*100).toFixed(1)}%`);}
 export function loadState(raw){const d=freshState();try{const s=JSON.parse(raw);if(s?.version!==1)return d;for(const k of ['spins','wins','social','decorated','funded'])if(Number.isFinite(s[k])&&s[k]>=0)d[k]=Math.floor(s[k]);if(Number.isFinite(s.credits)&&s.credits>=0)d.credits=Math.floor(s.credits);for(const k of ['name','theme','floor','favourite','joystick'])if(typeof s[k]==='string')d[k]=s[k].slice(0,30);for(const k of Object.keys(COSMETICS))if(COSMETICS[k].some(c=>c.id===s[k]))d[k]=s[k];d.visited=Array.isArray(s.visited)?[...new Set(s.visited.filter(v=>ROOMS[v]))]:[];d.unlocked=Array.isArray(s.unlocked)?s.unlocked.filter(a=>ACHIEVEMENTS.some(b=>b.id===a)):[];d.sound=!!s.sound;if(SKIN_TONES.includes(s.skin))d.skin=s.skin;if(PRESENTATIONS.some(x=>x.id===s.presentation))d.presentation=s.presentation;if(HAIR_STYLES.some(x=>x.id===s.hairStyle))d.hairStyle=s.hairStyle;d.owned=Array.isArray(s.owned)?[...new Set(s.owned.filter(id=>STORE_ITEMS.some(c=>c.id===id)))]:[];d.metResidents=Array.isArray(s.metResidents)?[...new Set(s.metResidents.filter(id=>Number.isInteger(id)&&id>=0&&id<20))]:[];if(s.friendship&&typeof s.friendship==='object')for(const id of d.metResidents)if(Number.isFinite(s.friendship[id]))d.friendship[id]=Math.max(0,Math.min(999,Math.floor(s.friendship[id])));if(Number.isFinite(s.purchases)&&s.purchases>=0)d.purchases=Math.floor(s.purchases);
+ d.socialProgress=loadSocial(s.socialProgress);
  // First-run concierge beat: done once dismissed, or for older saves that already said hello.
  d.intro=s.intro===1||d.social>0?1:0;
  d.hosted=Array.isArray(s.hosted)?[...new Set(s.hosted.filter(n=>CAST.some(g=>g.name===n)))]:[];
