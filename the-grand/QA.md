@@ -2,7 +2,7 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **52 checks**, including the parent integration case (35 simulation/art checks and 16 DOM journey subchecks).
+`npm run check` passes. `npm test` passes **68 checks**, including the parent integration case (35 existing simulation/art checks, 12 resident/store/appearance checks and 20 DOM journey subchecks).
 
 Verified behaviour:
 
@@ -21,6 +21,17 @@ Verified behaviour:
 - Locked cosmetics remain unavailable. Earned cosmetics update both wardrobe and world avatar.
 - Simulated funding grants one cosmetic once. Free virtual-credit refill is available without funding.
 - Full saved state survives JSON restore, including an empty suite and a suite where the original spawn has been furnished.
+
+## Resident, store and player-identity update
+
+- All 20 profiles are unique adults, with five residents per public room and 60 distinct authored topic responses.
+- A seeded ten-minute simulation reaches all eight states: idle, walking, betting, talking, resting, browsing, skating and music. All 20 residents move without crossing furniture. Residents exchange directed conversations and independently settle virtual rounds without touching the player wallet.
+- Player interruption releases an NPC's reserved cabinet and holds the conversation. NPC-to-NPC questions receive the matching peer topic response.
+- The player can select Woman, Man or Neutral presentation, eight skin tones and eight hairstyles, at no cost. Their actual world avatar and wardrobe preview update together.
+- All 13 store items charge once, save ownership and equip. Unknown items, insufficient funds and duplicate purchases do not debit credits. Store try-on uses the player's own appearance.
+- Appearance, ownership, equipped purchases and acquaintances survive reload. Legacy saves retain prior room customizations and progress.
+- The lobby contains an approachable physical boutique. Mobile Store and Residents controls open the catalogue and all 20 profiles.
+- SVG contact sheets of the 20 residents, 24 player appearance combinations and all 13 store items were inspected for visual consistency. All 192 free presentation/skin/hairstyle combinations render without invalid values.
 
 ## Visual verification
 
