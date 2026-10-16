@@ -2,7 +2,7 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **47 checks**, including the parent integration case (30 simulation/art checks and 16 DOM journey subchecks).
+`npm run check` passes. `npm test` passes **52 checks**, including the parent integration case (35 simulation/art checks and 16 DOM journey subchecks).
 
 Verified behaviour:
 
@@ -11,7 +11,8 @@ Verified behaviour:
 - Tap movement changes the actual rendered avatar; approaching a machine opens its interface.
 - Continuous and diagonal movement respect boundaries and furniture, including delayed-frame collision substeps.
 - Both joystick modes move the rendered avatar and stop on release. A short touch in the floating zone remains tap-to-move.
-- Five settled spins update credits, wins, rounds and unlocks. All four outcome branches debit once and return their documented payout. Insufficient balance cannot spin.
+- Five settled spins update credits, wins, rounds and unlocks. Every paytable tier and a loss debit once and return their documented payout. Insufficient balance cannot spin.
+- Slot economy: one `PAYTABLE` drives outcomes, reel faces and paytable copy. Declared RTP 95% (hit rate 18.5%); a seeded 200k-spin session lands within 93–97% for both games. Reel faces always match what they pay, losing lines vary (20+ distinct), and a constant rng cannot hang the loss generator. Free top-ups only open below 100 credits.
 - The second cabinet changes appearance and opens/plays Nova Nights. Its paytable matches its symbol set.
 - The hotel directory changes into four actual navigable rooms with demo NPCs. Walking to the exit opens the directory.
 - Scripted chat updates the social achievement and conversation.
