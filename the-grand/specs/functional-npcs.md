@@ -89,7 +89,8 @@ type CompetitionResult = {
 };
 type TermsSection = 'general' | 'bonus' | 'competition' | 'free_spins' | 'banking' | 'responsible_gambling' | 'privacy';
 type TermsRef = { section: TermsSection; clauseId: string; url: string };
-type TermsClause = { section: TermsSection; clauseId: string; heading: string; text: string; url: string; version: string; updatedAt: string };
+type TermsClause = { section: TermsSection; clauseId: string; heading: string; text: string; url: string; version: string; updatedAt: string;
+  plain?: string };                                            // one sentence, authored with the clause; Penrose's plainEnglish reads it verbatim
 type BankingRules = {
   depositMethods: { id: string; label: string; min: Money; max: Money; fee?: string; processing: string }[];
   withdrawalMethods: { id: string; label: string; min: Money; max: Money; fee?: string; processing: string }[];
@@ -150,6 +151,12 @@ Cards render from data, never from persona text. Persona text is the one-line fr
 **Intents:** `findClause` (free text → best-matching clause by heading or keywords, top 3 if ambiguous), `bonusTerms`, `competitionTerms`, `freeSpinTerms`, `bankingTerms`, `responsibleGambling`, `privacy`, `whatChanged` (version and `updatedAt`), `plainEnglish`.
 
 **Rules:** he quotes the clause verbatim in a card (`show-terms`). His spoken line may summarise the clause in one sentence only if `plainEnglish` is requested, and he always ends with "The clause itself is the one that counts." He never interprets for the player's specific case ("you'll be fine").
+
+**As built (NW-176):**
+- The one-sentence summary is the clause's authored `plain` field, not text the persona composes, so `plainEnglish` stays inside principle 1 (data, not improvisation). A clause without `plain` gets "I have no plain version of that one, and I won't improvise."
+- Personal-case questions ("will I lose my bonus?", "am I eligible?") are their own intent, `myCase`: he shows the clause and says he can't say how it applies to them.
+- Functional NPCs are **staff**, not residents: listed in `STAFF` (`dist/characters.js`, ids from 100), placed at a fixed post, never ticked by the resident simulation, absent from the residents directory and from "residents met".
+- Terms links: a clause card shown by any other NPC carries "Ask Mr Penrose", which walks the player to his desk with that clause in focus.
 
 ### 4.4 Hollis, the Cashier (lobby, cashier window)
 **Intents:** `depositMethods`, `withdrawalMethods`, `processingTimes`, `fees`, `limits` (including player-set limits), `verification` (why and when KYC is required), `pendingWithdrawal`, `reverseWithdrawal` (state the rule only), `setLimit` (opens safer-play limits).

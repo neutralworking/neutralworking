@@ -26,6 +26,16 @@ export const RESIDENTS=[
  make(19,'Tessa','Tessa Quinn',39,'roof','woman','#e8bc98','#9b6647','long','#6e97a7','stories','The journalist off the record','A curious journalist who promised not to work this weekend. Asks excellent questions, respects a closed notebook, and tells surprisingly good stories herself.','Hello. No interview, I promise. Unless you have a genuinely excellent story about a hat.', ['Off the record means off the record.','That’s a much better question.','Farah has the best stories here.'],[['A memorable story','story|journalist|job','A small community saved its library with a very stubborn book club. I still get their reading list.'],['Asking questions','question|interview|listen','Ask what someone wishes people understood. Then leave enough silence for the answer.'],['Your weekend','weekend|holiday|work','No deadlines. A rooftop, a conversation, and absolutely no checking my inbox.']])
 ];
 
+// Hotel staff (spec §3.1): functional NPCs. They are not residents: they stay at their post, never travel,
+// gamble or join residents' conversations, and don't count towards "residents met". Their live conversation
+// runs on a persona in dist/personas/. Ids start at 100 so they never collide with residents.
+export const STAFF=[
+ make(100,'Mr Penrose','Mr Ambrose Penrose',61,'hall','man','#e2bf9f','#c3c3bd','crop','#2f3b4a','terms','Clerk of Small Print','Keeps the hotel’s terms at a desk in the Gallery. Reads every clause exactly as written and will not guess how one applies to you.','Penrose, Clerk of Small Print. Which clause can I find for you?',['Every word in its place.','The clause itself is the one that counts.','Version 0.3, and proud of it.'],[['The terms','terms|clause|rule','Ask me about any clause and I’ll show you the wording.']],{staff:true,post:'At the small-print desk',desk:[5,1]}),
+];
+export const isStaff=id=>STAFF.some(s=>s.id===Number(id));
+// A resident or a member of staff, by id.
+export const personById=id=>RESIDENTS.find(r=>r.id===Number(id))||STAFF.find(s=>s.id===Number(id));
+
 export function residentReply(resident,message,{name='Alex',familiar=false}={},topicIndex=null){
  const text=String(message).toLowerCase();
  const topic=Number.isInteger(topicIndex)?resident.topics[topicIndex]:resident.topics.find(t=>t.keywords.some(k=>text.includes(k)));

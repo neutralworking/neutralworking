@@ -27,7 +27,7 @@ export const ROOMS={
 };
 // The gallery connects every public room and the private suite through marked doors.
 export const GALLERY_DOORS={suite:[1,7],lobby:[0,4],gold:[3,0],neon:[7,1],roof:[7,6]};
-ROOMS.hall={name:'The Gallery & Lifts',short:'Gallery & Lifts',floor:'HOTEL CONNECTIONS',tag:'Take the long way. There’s a story on every wall.',accent:'#d9c28c',wall:'#536e6b',floorA:'#c6b99b',floorB:'#b3aa94',rug:'#57756b',spawn:[4,6],exit:[7,7],guestCount:0,objects:[o('route-board','route-board',1,1),o('archive','archive',5,4),o('gallery-seat','sofa',2,4),o('gallery-palm','plant',7,3)]};
+ROOMS.hall={name:'The Gallery & Lifts',short:'Gallery & Lifts',floor:'HOTEL CONNECTIONS',tag:'Take the long way. There’s a story on every wall.',accent:'#d9c28c',wall:'#536e6b',floorA:'#c6b99b',floorB:'#b3aa94',rug:'#57756b',spawn:[4,6],exit:[7,7],guestCount:0,objects:[o('route-board','route-board',1,1),o('archive','archive',5,4),o('gallery-seat','sofa',2,4),o('gallery-palm','plant',7,3),o('clerk-desk','table',6,2),o('clerk-lamp','lamp',6,1)]};
 export {RESIDENTS as GUESTS} from './characters.js';
 import {RESIDENTS as CAST} from './characters.js';
 export const SKIN_TONES=['#f2d8bf','#e6ba96','#d6a080','#bc865f','#a16b48','#855737','#68422e','#4e3026'];

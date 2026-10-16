@@ -10,6 +10,12 @@ export function when(iso, timeZone) {
   try { return d.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short', ...(timeZone ? { timeZone } : {}) }); }
   catch { return d.toISOString().slice(0, 16).replace('T', ' '); }
 }
+export function day(iso, timeZone) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  try { return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', ...(timeZone ? { timeZone } : {}) }); }
+  catch { return d.toISOString().slice(0, 10); }
+}
 const pct = v => (v && Number.isFinite(v.percent) ? `${v.percent}% up to ${money(v.cap)}` : money(v));
 
 function card({ kind, title, rows = [], body = '', termsRef = null, simulated = true, extra = '' }) {
@@ -54,12 +60,15 @@ const RENDER = {
       extra: `<ol class="card-table">${(r.winners || []).slice(0, 5).map(w => `<li><span>#${w.rank}</span><span>${esc(w.displayName)}</span><span>${esc(w.prize)}</span></li>`).join('')}</ol>`,
       rows: [['Ended', when(r.endedAt, o.timeZone)], ...(r.records || []).map(x => [x.label, `${x.value} (${x.holder})`])] }));
   },
-  'show-terms'(a, data) {
+  // Mr Penrose's clause card (spec §4.3): the clause verbatim, its version date and a link to the full document.
+  // Shown anywhere else (a Terms link on an offer), it also offers to take the player to Penrose.
+  'show-terms'(a, data, o) {
     const clause = (data?.terms?.[a.section] || []).find(c => c.clauseId === a.clauseId);
     if (!clause) return [unavailable('TERMS', 'This clause')];
-    return [card({ kind: `TERMS · ${clause.section.replace('_', ' ').toUpperCase()}`, title: clause.heading, body: clause.text, simulated: true,
-      rows: [['Version', `${clause.version} · updated ${when(clause.updatedAt)}`]],
-      extra: clause.url ? `<a class="card-link" href="${esc(clause.url)}" target="_blank" rel="noopener">Read the full terms</a>` : '' })];
+    const link = clause.url ? `<a class="card-link" href="${esc(clause.url)}" target="_blank" rel="noopener">Read the full terms</a>` : '';
+    const ask = o.from === 'penrose' ? '' : `<div class="card-actions"><button type="button" data-action="ask-penrose" data-section="${esc(clause.section)}" data-clause="${esc(clause.clauseId)}">Ask Mr Penrose</button></div>`;
+    return [card({ kind: `TERMS · ${clause.section.replace(/_/g, ' ').toUpperCase()} · ${clause.clauseId}`, title: clause.heading, body: clause.text, simulated: true,
+      rows: [['Version', `${clause.version} · updated ${day(clause.updatedAt, o.timeZone)}`]], extra: link + ask })];
   },
   'open-cashier-info'(a, data) {
     const b = data?.banking;

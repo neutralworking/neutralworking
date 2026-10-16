@@ -31,7 +31,7 @@ GitHub location: `neutralworking/neutralworking`, folder `the-grand/`.
 Live prototype: https://the-grand-weld.vercel.app
 
 - `dist/engine.js`: pure simulation, room definitions, collision, BFS pathfinding, achievement rules, outcome logic and persistence validation.
-- `dist/characters.js`: 20 original character profiles, visual identities and 60 authored conversation topics.
+- `dist/characters.js`: 20 original character profiles plus hotel staff (functional NPCs), visual identities and 60 authored conversation topics.
 - `dist/social.js`: saved relationships and story state, finite style-token rewards, cosmetic redemption, authored story branches and personal dialogue.
 - `dist/residents.js`: autonomous finite-state routines, machine reservations, independent bot balances, paired conversations and player interruption.
 - `dist/art.js`: original isometric vector furniture, room scenery, cabinets, modular avatars and UI icons.
@@ -39,7 +39,7 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/npc-brain.js`: reusable NPC dialogue engine (intent classification, response pools with conditions/effects/actions, memory, slot filling, reactions). Accepts an external classifier's decision.
 - `dist/data/promo.js` + `dist/data/fixtures/`: PromoData interface and SIMULATED fixtures (bonuses, free spins, competitions, records, terms, banking). `dist/terms.html` renders the simulated terms.
 - `dist/cards.js`: data-driven cards for functional NPCs (offers, competitions, leaderboard, records, terms, banking, safer play).
-- `dist/personas/`: NPC personas (Sofia now; functional NPCs next). `window.__grand` registers personas and loads a data snapshot for tests or console play.
+- `dist/personas/`: NPC personas: Sofia (social) and Mr Penrose (terms, NW-176). Functional NPCs are hotel staff (`STAFF` in `dist/characters.js`), stationed at a post and kept out of the resident simulation. `window.__grand` registers personas and loads a data snapshot for tests or console play.
 - `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.
