@@ -57,7 +57,7 @@ test('complete playable prototype DOM flow',async t=>{
  });
  await t.test('Sofia, the resident con artist, has her own brain and will not visit without The Grand Reserve',()=>{
   click('#quest-pill');assert.match($('#panel-content').textContent,/YOUR FIRST EVENING/);click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');frames(300);
-  assert.ok($('#talk-bar'));assert.match($('#talk-bar').textContent,/con artist/i);frames(160);assert.match(bubbleText(),/SOFIA/);
+  assert.ok($('#talk-bar'));assert.match($('#talk-bar').textContent,/dangerous flirt/i);frames(160);assert.match(bubbleText(),/SOFIA/);
   send('My name is Luke');frames(160);assert.match($('#talk-live').textContent,/Luke/);assert.match($('#talk-live').textContent,/Alex/,'she notices the key card name');
   click('[data-action="talk-chip"][data-message="Come up to my suite?"]');frames(160);assert.match($('#talk-live').textContent,/Grand Reserve/);assert.ok($('#quest-pill').classList.contains('flash'),'onboarding is nudged');
   assert.ok(getState().metResidents.includes(0));click('[data-action="talk-close"]');assert.equal($('#talk-bar'),null);
