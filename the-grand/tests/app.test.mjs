@@ -72,6 +72,20 @@ test('complete playable prototype DOM flow',async t=>{
   click('#talk-cards .card-terms');assert.equal($$('#talk-cards .npc-card').length,2,'Terms link adds the clause card');assert.match($('#talk-cards').innerHTML,/must be wagered 30 times/);
   click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
  });
+ await t.test('NW-175: a distress line gets a caring reply and safer-play tools, and offers stay off afterwards',()=>{
+  const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra.',value:{percent:50,cap:{amount:200,currency:'credits'}},expiresAt:'2026-10-18T22:00:00Z',termsRef:null,claimable:true}],terms:{}};
+  let calls=0;const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:()=>{calls++;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));
+  window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
+  tapNpc(id);untilTalk();assert.ok($('#talk-bar'));
+  send('I need to win my money back');frames(160);
+  assert.equal(calls,0,'the gate answers before the persona');
+  assert.match($('#talk-live').textContent,/Offers are off/);assert.match($('#talk-cards').innerHTML,/SAFER PLAY/);assert.ok($('#talk-cards [data-tool="exclude"]'));
+  assert.doesNotMatch($('#talk-cards').innerHTML,/Weekend reload/);
+  send('Any bonuses?');frames(160);
+  assert.equal(calls,1);assert.match($('#talk-live').textContent,/can't show offers/);assert.doesNotMatch($('#talk-cards').innerHTML,/Weekend reload/,'offer cards are stripped for the rest of the session');
+  click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
+ });
  await t.test('Sofia, the resident con artist, has her own brain and will not visit without The Grand Reserve',()=>{
   click('#quest-pill');assert.match($('#panel-content').textContent,/YOUR FIRST EVENING/);click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');untilTalk();
   assert.ok($('#talk-bar'));assert.match($('#talk-bar').textContent,/dangerous flirt/i);frames(160);assert.match(bubbleText(),/SOFIA/);
@@ -115,5 +129,17 @@ test('complete playable prototype DOM flow',async t=>{
  });
  await t.test('earned tokens purchase a boutique cosmetic while preserving the game-credit balance',()=>{click('.store-fab');assert.match($('.style-balance').textContent,/style tokens/);click('[data-action="store-filter"][data-filter="all"]');click('[data-action="shop-item"][data-id="beret"]');const before=getState();assert.equal($('[data-action="purchase-tokens"]').disabled,false);click('[data-action="purchase-tokens"]');const after=getState();assert.equal(after.credits,before.credits);assert.equal(after.socialProgress.tokens,before.socialProgress.tokens-4);assert.equal(after.hat,'beret');assert.ok(after.owned.includes('beret'));click('[data-action="close"]');click('.bottom-nav [data-action="suite"]');});
  await t.test('camera projection keeps the avatar in representative portrait and landscape viewports',()=>{for(const [w,h]of [[375,675],[430,795],[688,948],[909,724],[747,327]]){width=w;height=h;frames(160);const [x,y]=position(),[vx,vy,vw,vh]=world.getAttribute('viewBox').split(/\s/).map(Number);assert.ok(x>vx&&x<vx+vw,`${w} horizontal`);assert.ok(y>vy&&y<vy+vh,`${h} vertical`);assert.ok(y-105>vy,`${h} head`);}});
+ await t.test('NW-175: Take a break and Self-exclusion persist and switch play off',()=>{
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');frames(80);
+  const persona={opener:()=>({text:'Here if you need me.'}),suggestions:()=>['Help'],reply:()=>({text:'Tools are below.',mood:'warm',action:{type:'open-safer-play'}})};
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));window.__grand.registerPersona(id,persona);
+  tapNpc(id);untilTalk();send('Help');frames(160);
+  click('#talk-cards [data-tool="timeout"]');assert.ok(getState().coolingOffUntil>Date.now(),'a break is saved');
+  click('#talk-cards [data-tool="exclude"]');assert.equal(getState().selfExcluded,true,'self-exclusion is saved');
+  click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);
+  click('.bottom-nav [data-action="suite"]');frames(80);tapObject('machine');frames(240);
+  const spins=getState().spins;click('[data-action="spin"]');frames(80);assert.equal(getState().spins,spins,'no play while self-excluded');
+  click('[data-action="close"]');
+ });
  await t.test('keyboard movement and refresh persistence retain complete achieved state',async()=>{tapTile(4,4);frames(180);const before=position();event(window,'keydown',{key:'ArrowRight'});frames(15);event(window,'keyup',{key:'ArrowRight'});assert.notDeepEqual(position(),before);const {loadState}=await import('../dist/engine.js');assert.deepEqual(loadState(storage.get(SAVE_KEY)),getState());});
 });
