@@ -2,9 +2,12 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **101 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
+`npm run check` passes. `npm test` passes **105 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
 
 Verified behaviour:
+
+- Returning players (an existing save at load) get a welcome-back card instead of the first-run concierge: continue, or check out and start over. Starting over takes a second tap (in the card, or Settings → Start over), wipes only `the-grand*` storage keys, blocks any re-save during the reload, then reloads (`tests/reset.test.mjs`).
+- Sofia is now the hotel's most dangerous flirt: campy innuendo throughout, flirts back hard, plunging neckline, thigh slit, fishnets, pink boa and a wink. The no-deposit fuzz test still passes.
 
 - First visit shows a one-time concierge card pointing at Sofia (go and meet her, or look around first) and nudges the chat button. Dismissing persists `intro`; older saves that already said hello skip it.
 - Every resident talks inline: tapping one walks you beside them (same screen row), opens an in-scene talk bar, and their reply types out in a speech bubble above their head; your line appears above your avatar. Topic chips use each resident's own topics. Lines are also kept in the room's chat log. Walking away mid-conversation gets a parting line.

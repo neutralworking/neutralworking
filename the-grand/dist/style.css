@@ -116,3 +116,9 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .resident-card>div:nth-child(2){min-width:0}.resident-card strong,.resident-card span{overflow-wrap:anywhere}
 @media(max-width:600px){.talk-bar{bottom:calc(10px + var(--keyboard-inset,0px))}.talk-bar:focus-within .talk-chips{flex-wrap:nowrap;overflow-x:auto;max-height:48px}.talk-chips button{flex-shrink:0}.store-tabs button,.chat-targets button{min-height:44px}.camera-tools button{min-width:44px;min-height:44px}}
 @media(max-height:600px) and (orientation:landscape){.talk-bar{bottom:calc(7px + var(--keyboard-inset,0px));max-height:max(100px,calc(100% - 60px - var(--keyboard-inset,0px)))}}
+/* Welcome back / start over */
+.welcome-back p{margin-bottom:12px}
+.reset-warning{font-size:11px;color:#f0c1b8;margin:0 0 10px;line-height:1.5}
+.danger{background:#a3202f!important;color:#fbe9ea!important;border-color:#c9434f!important}
+.quiet-button.danger{background:transparent!important;color:#ee8a80!important;border-color:#ee8a8066!important}
+.reset-row{margin-top:18px;border-top:1px solid var(--border);padding-top:16px}

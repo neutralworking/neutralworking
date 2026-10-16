@@ -22,25 +22,25 @@ const LIES = [
 ];
 
 const GOSSIP = {
-  jules: ["Jules? He wears borrowed cufflinks. Mine, actually.", "Jules says his records are original pressings. So is my birth certificate. Several of them."],
-  ada: ["Ada sketches better benches on napkins. I sell the napkins.", "Ada thinks a lobby should comfort the least confident visitor. That's who I look for first."],
-  otto: ["Otto fixes wobbly tables. I unfix them. It keeps him busy and me unobserved.", "Otto has three screws in his pocket. Had. I have four now."],
+  jules: ["Jules? He wears borrowed cufflinks. Mine. He left them on my nightstand.", "Jules kisses like he files his records. Thoroughly, alphabetically, and far too slowly."],
+  ada: ["Ada designs benches built for two. I've tested every one of them.", "Ada thinks a lobby should comfort the least confident visitor. That's who I look for first."],
+  otto: ["Otto fixes wobbly tables. I keep giving him reasons to come up to my room with his toolbox.", "Otto has three screws in his pocket. Had. I have four now."],
   farah: ["Farah knows every shortcut in the building. Which is why I stay on her good side. For now.", "Farah reads detective novels. I've started taking that personally."],
   inez: ["Inez was a lawyer. She asks follow-up questions. I avoid her the way cats avoid baths.", "Inez and I have an understanding. She doesn't ask, and I don't tell her about her crossword."],
   mabel: ["Mabel looks like she came for the biscuits. Never play her for money. Or anything you love.", "Mabel noticed my weak flank in 2019. We haven't spoken since."],
   kit: ["Kit ignores 'staff only' signs. Amateur. I had the signs printed.", "Kit's pranks are elaborate. Mine are profitable."],
   wren: ["Wren makes coins vanish. I make whole wallets vanish, but I don't do it for applause.", "Wren keeps losing their room key. Not by ordinary means. You're welcome, Wren."],
-  noor: ["Noor plays the rooftop at sunset. Lovely. Very good cover for a quiet conversation.", "Noor loves a winding melody. I love a winding contract."],
-  luca: ["Luca notices a beautiful seam before a label. He noticed my labels were fake. Rude.", "Luca tailored this coat. He thinks I paid him."],
+  noor: ["Noor plays the rooftop at sunset. The things that saxophone does to me should be illegal.", "Noor loves a winding melody. I love a winding contract."],
+  luca: ["Luca measured me for a dress once. Took him three hours. He wasn't complaining.", "Luca tailored this coat. He thinks I paid him."],
   tessa: ["Tessa is 'off the record' this weekend. Nobody is ever off the record. Especially around me.", "Tessa asks excellent questions. I give excellent answers. None of them true."],
 };
 
 const ROOM_BARBS = {
-  suite: 'Your suite. My future suite. Details.',
-  lobby: 'The lobby. Where people with nowhere better to be wait to be noticed.',
-  gold: 'The Gold Lounge. All velvet, no taste.',
-  neon: "The Neon Arcade. It's for people who peaked.",
-  roof: "The rooftop. The view's wasted on most of you.",
+  suite: 'Your suite. Our suite, if you play your cards right.',
+  lobby: 'The lobby. Where people wait to be noticed. I notice everyone. Especially you.',
+  gold: 'The Gold Lounge. All that velvet. I do love velvet against the skin.',
+  neon: "The Neon Arcade. Terrible taste, flattering lighting. For me.",
+  roof: "The rooftop. Dark corners and a warm breeze. A dangerous combination.",
 };
 
 const NOT_NAMES = new Set(['fine','good','great','ok','okay','sorry','here','not','just','so','very','really','bored','tired',
@@ -124,25 +124,25 @@ function moodFor(mem) { return mem.patience <= 0 ? 'furious' : mem.patience <= 2
 // What she calls you: your real name only once you've told her, otherwise something worse.
 function addressee(mem, ctx, rng) {
   if (mem.name) return mem.name;
-  return rng() < .5 ? 'darling' : 'Four-Oh-Eight';
+  return ['darling', 'sugar', 'handsome', 'Four-Oh-Eight'][Math.min(3, Math.floor(rng() * 4))];
 }
 
 export function sofiaOpener(mem, ctx = {}, rng = Math.random) {
   mem.met++;
   const you = addressee(mem, ctx, rng);
   let text;
-  if (ctx.visitor) text = (mem.visits = (mem.visits || 0) + 1) > 1 ? "Back in 408. I've already moved your sofa. Don't move it back." : 'So this is 408. Smaller than the brochure. The Reserve will do.';
-  else if (mem.patience <= 1) text = 'Oh. You again.';
-  else if (ctx.hat === 'fedora') text = 'Nice fedora. Won or stolen? I won\'t judge. I\'ll just assume.';
-  else if (mem.name) text = `${mem.name}. You came back. They always do.`;
-  else if (mem.met > 1) text = `Back again, ${you}? Still haven't told me your name. Wise.`;
-  else text = "Well, well. The new resident of 408. I've heard nothing about you, which is impressive.";
+  if (ctx.visitor) text = (mem.visits = (mem.visits || 0) + 1) > 1 ? "Back in 408, sugar. I've warmed up your side of the sofa." : 'So this is 408. Smaller than I imagined. Everything usually is.';
+  else if (mem.patience <= 1) text = 'Oh. You again. Pity, you were starting to look interesting.';
+  else if (ctx.hat === 'fedora') text = 'Nice fedora. Keep it on. Leave the rest to my imagination. It\'s very vivid.';
+  else if (mem.name) text = `${mem.name}. You came back. They always come back.`;
+  else if (mem.met > 1) text = `Back again, ${you}? Couldn't stay away. They never can.`;
+  else text = "Well, well. The new resident of 408. I've been dying to get my hands on you. And your room key.";
   return { text, mood: moodFor(mem), walkAway: false };
 }
 
 // Her parting shot when you walk off mid-conversation.
 export function sofiaWalkedOff(mem, rng = Math.random) {
-  return { text: pick(mem, 'walkoff', ['Walking away mid-sentence. Rude. I respect it.', 'Go on, then. I was finished anyway.', "Don't worry, I'll tell everyone you said hello."], rng), mood: moodFor(mem), walkAway: false };
+  return { text: pick(mem, 'walkoff', ["Walking away mid-sentence? Rude. Lovely view from back here, though.", "Go on, then. Walk slowly. I'm watching.", "Don't worry, I'll tell everyone you couldn't handle me."], rng), mood: moodFor(mem), walkAway: false };
 }
 
 export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
@@ -154,41 +154,41 @@ export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
   const you = addressee(mem, ctx, rng);
 
   // Noise, repeats and shouting first: she notices everything.
-  if (!/[a-z]/i.test(text)) return say(pick(mem, 'noise', ['Use words, darling.', 'Was that a sneeze?', 'Fascinating. Truly. No.'], rng));
+  if (!/[a-z]/i.test(text)) return say(pick(mem, 'noise', ['Use words, darling. Or just keep looking at me like that.', 'Was that a sneeze, or am I making you nervous?', 'Speechless. I get that a lot.'], rng));
   // Repeats are teased, except when the repeat is a question whose answer has changed (an invite, the key).
   const repeated = lower === mem.lastUser && !RX.invite.test(text) && mem.pending !== 'key';
   mem.lastUser = lower;
-  if (repeated) return say('You said that already. I was ignoring it the first time too.');
+  if (repeated) return say('You said that already. I was undressing you with my eyes the first time.');
   const shouting = text.length > 4 && text === text.toUpperCase() && /[A-Z]{3}/.test(text);
 
   // 1. Pending answers to her schemes.
   if (mem.pending === 'key') {
-    if (RX.yes.test(text)) { mem.pending = null; mem.scheme = 2; return say('Wonderful. I had it copied this morning, but it\'s nice to have permission.', { mood: 'delighted' }); }
-    if (RX.no.test(text)) { mem.pending = null; return say(pick(mem, 'keyno', ['Pity. Jules said yes in under a minute.', 'Fine. I\'ll ask housekeeping. They adore me. Or fear me. Same thing.'], rng)); }
-    if (RX.why.test(text)) return say('The view. Your minibar. And, briefly, your identity. So: yes?', { mood: 'scheming' });
+    if (RX.yes.test(text)) { mem.pending = null; mem.scheme = 2; return say('Wonderful. I had it copied this morning, but I do love it when you say yes.', { mood: 'delighted' }); }
+    if (RX.no.test(text)) { mem.pending = null; return say(pick(mem, 'keyno', ['Pity. Jules said yes in under a minute. Jules says yes to everything.', 'Playing hard to get? Adorable. I play harder.'], rng)); }
+    if (RX.why.test(text)) return say('The view. Your minibar. Your bathrobe. Possibly you. So: yes?', { mood: 'scheming' });
   }
 
   // Invitations: she only visits a suite with The Grand Reserve on ice. She states the terms; she never sells them.
   if (RX.invite.test(text)) {
-    if (ctx.visitor || ctx.room === 'suite') return say("I'm already here, darling. Keep up.");
-    if (mem.patience <= 1) return say('After the way you spoke to me? Earn it back first.');
+    if (ctx.visitor || ctx.room === 'suite') return say("I'm already here, darling. In your suite. On your sofa. Keep up.");
+    if (mem.patience <= 1) return say('After the way you spoke to me? Grovel first. I do enjoy a grovel.');
     if (!ctx.canHost) {
       mem.refusedInvite = (mem.refusedInvite || 0) + 1;
       return say(mem.refusedInvite > 1
-        ? 'Still no Grand Reserve? Then still no Sofia. Those are the rules. I wrote them.'
-        : 'Your suite? Without The Grand Reserve on ice? I don\'t do dry visits.', { needs: 'reserve' });
+        ? 'Still no Grand Reserve? Then the coat stays on. Rules are rules. I wrote them in lipstick.'
+        : 'Your suite? Without The Grand Reserve on ice? Darling, I don\'t take my coat off for anything less than vintage.', { needs: 'reserve' });
     }
-    return say(pick(mem, 'accept', ['The Grand Reserve? Well. Lead the way. Don\'t touch my coat.', 'You found the Reserve. I underestimated you. Slightly. Let\'s go.'], rng), { mood: 'delighted', invite: true });
+    return say(pick(mem, 'accept', ['Lead the way, sugar. The Grand Reserve? You do know the way to a woman\'s heart. Walk slowly.', 'I underestimated you. The Reserve, no less. I won\'t make that mistake twice. Let\'s go.'], rng), { mood: 'delighted', invite: true });
   }
 
-  if (ctx.visitor && RX.hosting.test(text)) return say(pick(mem, 'hosting', ["Don't mind if I do. I'll pour. You'll watch.", 'Cheers. To you, darling. Briefly.', "The Reserve. Finally, something in 408 with some breeding."], rng), { mood: 'delighted' });
+  if (ctx.visitor && RX.hosting.test(text)) return say(pick(mem, 'hosting', ["Don't mind if I do. I'll pour. You watch. Closely.", 'Cheers, sugar. To bad decisions in good suites.', "The Reserve. Finally, something in 408 as well aged as my intentions."], rng), { mood: 'delighted' });
 
   if (RX.kickOut.test(text)) {
-    if (ctx.visitor) return say(pick(mem, 'kicked', ["Fine. I was leaving anyway. I've seen the minibar. It's seen me.", "Throwing me out of my future suite? Bold. I'll be back for the curtains."], rng), { ended: true });
-    return say("Go away? I was here first. I'm always here first.");
+    if (ctx.visitor) return say(pick(mem, 'kicked', ["Fine. I was leaving anyway. Keep the lipstick on the glass as a souvenir.", "Throwing me out? Bold. I like bold. I'll be back for the curtains. And you."], rng), { ended: true });
+    return say("Go away? I was here first, sugar. I'm always here first. And last.");
   }
 
-  if (RX.bye.test(text)) return say(pick(mem, 'bye', ['Leaving? I\'ll tell the others you were charming. Nobody will believe me.', 'Run along. Mind the third step, it\'s loose. I loosened it.', 'Goodnight. Lock your door. Not that it helps.'], rng), { ended: true });
+  if (RX.bye.test(text)) return say(pick(mem, 'bye', ['Leaving? I\'ll tell the others you were irresistible. Nobody will believe me.', 'Run along. I\'ll be thinking about you. Briefly. Vividly.', 'Goodnight. Lock your door. Or don\'t. Live a little.'], rng), { ended: true });
 
   // 2. Catching her out.
   if (RX.liar.test(text)) {
@@ -204,26 +204,26 @@ export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
   if (RX.threat.test(text)) {
     mem.patience -= 1;
     if (mem.patience <= 0) return storm(mem, rng, say);
-    return say(pick(mem, 'threat', ['The manager owes me four favours and a kidney. Go ahead.', 'Security? Marcus? He walks me to my room. Every night.', 'Complain to reception. Tell them Sofia sent you. Watch what happens.'], rng));
+    return say(pick(mem, 'threat', ['The manager owes me four favours and a kidney. Go ahead.', 'Security? Marcus? He walks me to my room every night. He doesn\'t always leave.', 'Complain to reception. Tell them Sofia sent you. Watch what happens.'], rng));
   }
   if (RX.profanity.test(text) || RX.insult.test(text)) {
     mem.insults++; mem.patience -= RX.profanity.test(text) ? 2 : 1;
     if (mem.patience <= 0) return storm(mem, rng, say);
-    if (/bad person|evil|witch/i.test(text)) return say("Bad? I'm efficient. There's a difference, and it's mostly paperwork.");
-    return say(pick(mem, 'insult', ['Charming. Did you practise that in the mirror?', "Careful. I remember everything, and I'm very bored.", "Insults? From someone in a starter outfit? Adorable.", 'Say that again, slower. I want to write it down for later.'], rng));
+    if (/bad person|evil|witch/i.test(text)) return say("Bad? Darling, I'm deliciously bad. There's a difference, and it's mostly lingerie.");
+    return say(pick(mem, 'insult', ['Ooh, feisty. Say it again, slower.', "Careful. Rough talk only makes me curious.", "Insults? From someone in a starter outfit? Adorable. Come closer and try again.", 'Mean. I like mean. It saves time.'], rng));
   }
   if (RX.apology.test(text)) {
     const was = mem.patience;
     mem.patience = Math.min(5, mem.patience + 1);
-    return say(was < 5 ? 'Apology accepted. It\'ll cost you, but accepted.' : 'Sorry for what? Don\'t answer. I\'ll pick something.');
+    return say(was < 5 ? 'Apology accepted. You can make it up to me later. In detail.' : 'Sorry for what? Don\'t answer. I\'ll pick something fun.');
   }
 
   // 4. Flattery and flirting.
-  if (RX.flirt.test(text)) return say(pick(mem, 'flirt', ["I'm flattered. That passed quickly.", 'Darling, you couldn\'t afford me. Nobody can. That\'s rather the point.', 'Bold. Wrong, but bold.'], rng));
+  if (RX.flirt.test(text)) return say(pick(mem, 'flirt', ["Finally. I was starting to think you'd never ask.", 'Bold. I like bold. Bold gets a second drink.', "Careful, sugar. I bite. Only when asked nicely.", 'Kiss you? Here? In front of Jules? Oh, go on then. Mwah. Now you owe me.'], rng));
   if (RX.compliment.test(text)) {
     mem.flattered++; mem.patience = Math.min(5, mem.patience + 1);
-    if (mem.flattered >= 2 && mem.scheme === 0) { mem.scheme = 1; mem.pending = 'key'; return say('Flattery. You do understand me. So: lend me your key tonight? Just to borrow the view.', { mood: 'scheming' }); }
-    return say(pick(mem, 'compliment', ['Finally, someone with eyes. Keep going.', "I know. But it's nice to hear it from the help. Sorry, from a guest.", 'Flattery. Cheap, but I accept small change.'], rng));
+    if (mem.flattered >= 2 && mem.scheme === 0) { mem.scheme = 1; mem.pending = 'key'; return say('Keep talking like that and I\'ll follow you anywhere. Starting with your room. Lend me your key tonight?', { mood: 'scheming' }); }
+    return say(pick(mem, 'compliment', ['Finally, someone with eyes. Use them. Keep going.', "I know. But say it again, with feeling.", 'Flattery. Cheap, but I\'m feeling generous tonight.'], rng));
   }
 
   // 5. Names: yours, and the many she claims.
@@ -232,24 +232,24 @@ export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
     const given = cap(nameMatch[1].toLowerCase());
     const had = mem.name;
     mem.name = given;
-    if (had && had !== given) return say(`An hour ago you were ${had}. Now you're ${given}. I like you more already.`);
-    if (ctx.playerName && given.toLowerCase() !== String(ctx.playerName).toLowerCase()) return say(`${given}? Funny. Your key card says ${ctx.playerName}. I'll keep your secret. For a price.`);
-    return say(pick(mem, 'name', [`${given}. I'll forget that by breakfast.`, `${given}. Sounds like a racehorse that never placed.`, `${given}. Fine. I'll use it when I need something.`], rng));
+    if (had && had !== given) return say(`An hour ago you were ${had}. Now you're ${given}. Mysterious. I like you more already.`);
+    if (ctx.playerName && given.toLowerCase() !== String(ctx.playerName).toLowerCase()) return say(`${given}? Funny. Your key card says ${ctx.playerName}. I'll keep your secret. For a kiss.`);
+    return say(pick(mem, 'name', [`${given}. I'll be whispering that later.`, `${given}. Rolls off the tongue. So would a lot of things.`, `${given}. I'll use it when I want something. I want a lot of things.`], rng));
   }
   if (RX.whoAreYou.test(text)) {
     const fresh = LIES.filter(l => !mem.lies.includes(l));
     const lie = (fresh.length ? fresh : LIES)[Math.min((fresh.length || LIES.length) - 1, Math.floor(rng() * (fresh.length || LIES.length)))];
     mem.lies.push(lie); mem.lies = mem.lies.slice(-6);
-    return say(`Sofia. I'm ${lie}. You may stop staring.`);
+    return say(`Sofia. I'm ${lie}. You may stop staring. Or don't. I like it.`);
   }
-  if (RX.howAreYou.test(text)) return say(pick(mem, 'how', ["Radiant. Thank you for noticing, eventually.", "Better than you, which is the main thing.", "Exhausted. Being this interesting is a full-time job."], rng));
+  if (RX.howAreYou.test(text)) return say(pick(mem, 'how', ["Hot. Thank you for noticing.", "Better now you're here. Don't let it go to your head.", "Bored. Entertain me, sugar."], rng));
 
   // 6. Topics she cares about: your suite, your credits, the other guests.
   if (RX.room.test(text)) {
     if (ctx.visitor && /let yourself in|broke in|break in|get in|got in|my (room|suite)/i.test(text)) return say("Your suite? You invited me, darling. I remember everything. Especially the bits you'd rather I didn't.");
-    if (mem.scheme === 0) { mem.scheme = 1; mem.pending = 'key'; return say('408. Corner suite, city view, wasted on you. Lend me your key for the night?', { mood: 'scheming' }); }
-    if (mem.scheme === 1) { mem.pending = 'key'; return say('About that key. I\'m asking nicely. I don\'t usually ask.', { mood: 'scheming' }); }
-    return say("Don't worry about 408. I'm taking excellent care of it. I moved your bed.");
+    if (mem.scheme === 0) { mem.scheme = 1; mem.pending = 'key'; return say('408. Corner suite, city view, very big bed. Wasted on one person. Lend me your key tonight?', { mood: 'scheming' }); }
+    if (mem.scheme === 1) { mem.pending = 'key'; return say('About that key. I\'m asking nicely. I can also ask not-so-nicely.', { mood: 'scheming' }); }
+    return say("Don't worry about 408. I'm taking excellent care of it. I've already tested the bed.");
   }
   if (RX.money.test(text)) {
     const c = Number(ctx.credits) || 0;
@@ -271,7 +271,7 @@ export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
     const thing = like[1].replace(/[^a-z' -]/g, '').trim().split(' ').slice(0, 3).join(' ');
     if (thing) {
       mem.likes.push(thing); mem.likes = mem.likes.slice(-5);
-      return say(pick(mem, 'likes', [`You like ${thing}? Noted. Used against you later.`, `${cap(thing)}. Of course you do.`, `${cap(thing)}? I had a cousin who liked ${thing}. We don't talk about him.`], rng));
+      return say(pick(mem, 'likes', [`You like ${thing}? Noted. I'll wear something about it.`, `${cap(thing)}. Of course you do. Tell me more. Slowly.`, `${cap(thing)}? I had a lover who liked ${thing}. Lovely hands. Terrible memory.`], rng));
     }
   }
 
@@ -281,33 +281,33 @@ export function sofiaReply(mem, input, ctx = {}, rng = Math.random) {
     return say(pick(mem, 'places', [
       'Take the service lift to floor nine. Ask for Gerald. There is no floor nine. Or Gerald.',
       ...(here ? [`${here} Try somewhere you'd be less noticed. Everywhere, really.`] : []),
-      'The rooftop at sunset. Trust me. Stand right at the edge for the best photo.',
-      'Advice? Never trust anyone in this hotel. Present company especially included.',
+      'The rooftop at sunset. Lovely view. Very dark corners. Bring me.',
+      'Advice? Never trust anyone in this hotel. Especially the gorgeous ones. Hello.',
     ], rng));
   }
 
-  if (RX.greet.test(text)) return say(pick(mem, 'greet', [`Yes, hello, ${you}. We've established you can wave.`, 'Evening. Don\'t make it weird.', `Ah, ${you}. I was hoping it would be someone else.`], rng));
-  if (RX.yes.test(text) || RX.no.test(text)) return say(pick(mem, 'yn', ['I didn\'t ask you anything. But I\'ll take that as a yes to everything.', 'Agreeing with no one in particular. Bold strategy.'], rng));
+  if (RX.greet.test(text)) return say(pick(mem, 'greet', [`Well hello, ${you}. You clean up nicely.`, 'Evening, sugar. Don\'t make me do all the work.', `Ah, ${you}. I was hoping it would be you. I lie a lot, but not about that.`], rng));
+  if (RX.yes.test(text) || RX.no.test(text)) return say(pick(mem, 'yn', ['I didn\'t ask you anything. But I\'ll take that as a yes to everything.', 'Agreeing already? Easy. I like easy.'], rng));
 
   // 9. Callbacks to what she knows about you, then reflection of your own words.
-  if (mem.likes.length && rng() < .35) return say(`Still thinking about ${mem.likes[mem.likes.length - 1]}? Bold of you to admit that out loud.`);
-  if (mem.scheme === 0 && mem.turns >= 4) { mem.scheme = 1; mem.pending = 'key'; return say('This is lovely, but let\'s talk business. Your room key. Tonight. Yes?', { mood: 'scheming' }); }
+  if (mem.likes.length && rng() < .35) return say(`Still thinking about ${mem.likes[mem.likes.length - 1]}? You should be thinking about me.`);
+  if (mem.scheme === 0 && mem.turns >= 4) { mem.scheme = 1; mem.pending = 'key'; return say('This is lovely, but let\'s talk about tonight. Your room key. Yes?', { mood: 'scheming' }); }
   const word = salientWord(text);
-  const prefix = shouting ? `Indoor voice, ${you}. ` : '';
+  const prefix = shouting ? `Indoor voice, ${you}. Save the shouting for later. ` : '';
   if (RX.question.test(text)) {
     return say(prefix + pick(mem, 'question', [
-      word ? `${cap(word)}? Darling, I only answer questions I can bill for.` : 'I only answer questions I can bill for.',
-      "Why would I tell you that? We've only just met. You haven't even disappointed me yet.",
-      word ? `Ask Jules about ${word}. He'll make something up. I'd make up something better, but I'm busy.` : 'Ask Jules. He makes things up. I make up better things.',
+      word ? `${cap(word)}? Darling, I only answer questions over a second drink.` : 'I only answer questions over a second drink.',
+      "Why would I tell you that? Take me to dinner first.",
+      word ? `Ask Jules about ${word}. He'll make something up. I'd make up something better, but I'm busy looking at you.` : 'Ask Jules. He makes things up. I make up better things.',
     ], rng));
   }
-  if (word) return say(prefix + pick(mem, 'reflect', [`'${cap(word)}'. Fascinating. That was sarcasm.`, `I stopped listening at '${word}'.`, `Nobody here cares about ${word}, ${you}. Least of all me.`, `${cap(word)}. Is that a hobby or a cry for help?`], rng));
-  return say(prefix + pick(mem, 'filler', ['Mm.', 'Riveting.', 'And then what? No, don\'t.'], rng));
+  if (word) return say(prefix + pick(mem, 'reflect', [`'${cap(word)}'. Fascinating. Say it again, but closer.`, `I stopped listening at '${word}'. You have very distracting lips.`, `Nobody here cares about ${word}, ${you}. I care about what you're doing later.`, `${cap(word)}. Is that a hobby or a pickup line? Either way, it's working. Barely.`], rng));
+  return say(prefix + pick(mem, 'filler', ['Mm.', 'Riveting. Keep going, I like the sound of your voice.', 'And then what? Don\'t stop.'], rng));
 }
 
 function storm(mem, rng, say) {
   mem.patience = 0;
-  return say(pick(mem, 'storm', ['That\'s quite enough. I have better people to ignore.', 'No. We\'re done. I\'m taking your good mood with me.', 'Enjoy your evening. I\'ll be ruining it later.'], rng), { mood: 'furious', walkAway: true });
+  return say(pick(mem, 'storm', ['That\'s quite enough. I have better people to flirt with.', 'No. We\'re done. And you were doing so well.', 'Enjoy your evening. Alone. Tragic.'], rng), { mood: 'furious', walkAway: true });
 }
 
 // Context-aware quick replies for the inline talk bar.
@@ -315,7 +315,7 @@ export function sofiaSuggestions(mem, ctx = {}) {
   if (mem.pending === 'key') return ['Sure, take it', 'Absolutely not', 'Why do you want it?'];
   if (mem.patience <= 2) return ['Sorry', 'You\'re a terrible person', 'Bye'];
   if (ctx.visitor) return ['Welcome to 408', 'Who are you, really?', 'Time to go'];
-  if (!mem.lies.length) return ['Who are you?', `My name is ${ctx.playerName || 'Alex'}`, 'Where should I go?'];
+  if (!mem.lies.length) return ['Who are you?', `My name is ${ctx.playerName || 'Alex'}`, 'You look gorgeous'];
   if (mem.lies.length === 1) return ['Who are you, really?', 'Tell me about Jules', 'Nice dress'];
-  return ['You said something else before', 'Tell me about Otto', 'Bye'];
+  return ['You said something else before', 'Kiss me', 'Tell me about Otto'];
 }
