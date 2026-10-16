@@ -2,10 +2,11 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **52 checks**, including the parent integration case (35 simulation/art checks and 16 DOM journey subchecks).
+`npm run check` passes. `npm test` passes **54 checks**, including the parent integration case (36 simulation/art checks and 17 DOM journey subchecks).
 
 Verified behaviour:
 
+- First visit shows a one-time concierge card (say hello to a guest, or look around first) and nudges the chat button. Dismissing persists `intro`; older saves that already said hello skip it.
 - Projection and inverse projection agree for every floor tile.
 - All five rooms contain non-overlapping, in-bounds furniture. Every open floor tile and exit is reachable from spawn. Every interactive object can be approached.
 - Tap movement changes the actual rendered avatar; approaching a machine opens its interface.
