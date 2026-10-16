@@ -4,6 +4,7 @@ import {HotelResidents} from './residents.js';
 import {residentReply} from './characters.js';
 import {createSofia,loadSofia,sofiaReply,sofiaOpener,sofiaWalkedOff,sofiaSuggestions,sofiaHears} from './sofia.js';
 import {renderCards} from './cards.js';
+import {FixtureData,loadFixtures,playerFromState} from './data/promo.js';
 import {icon,esc,project,unproject,roomArt,objectArt,objectSvg,avatarArt,avatarSvg,symbolSvg} from './art.js';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 let storageOK=true;let state;try{state=loadState(localStorage.getItem(SAVE_KEY));}catch{state=freshState();storageOK=false;}
@@ -166,11 +167,14 @@ let talk=null,approaching=null,speech=[],speechLayerRef=null,pendingVisit=null;
 // Functional NPCs (spec §3.1): personas registered by resident id. A registered persona answers instead of the
 // resident's scripted topics. Shape: {reply(text, ctx, rng, topicIndex), opener?(ctx, rng), suggestions?(ctx)}.
 const PERSONAS=new Map();
-// Session snapshot of PromoData (spec §3.2). Filled by the data provider; null until then.
-let promoData=null;
+// Session snapshot of PromoData (spec §3.2), refreshed whenever a conversation opens so eligibility follows
+// the player's state. FixtureData serves the SIMULATED fixtures; ApiData will replace it later (NW-181).
+let promoData=null,promoSource=null,promoOverride=false;
+function refreshPromo(){if(promoOverride||!promoSource)return;try{promoData=promoSource.snapshot(playerFromState(state));}catch{promoData=null;}}
+loadFixtures(new URL('./data/fixtures/',import.meta.url)).then(f=>{promoSource=new FixtureData(f);refreshPromo();}).catch(()=>{});
 function playerTimeZone(){try{return Intl.DateTimeFormat().resolvedOptions().timeZone;}catch{return undefined;}}
 // Dev/test hook: register personas and load a data snapshot from the console or tests.
-window.__grand={registerPersona(id,persona){PERSONAS.set(Number(id),persona);},unregisterPersona(id){PERSONAS.delete(Number(id));},setPromoData(data){promoData=data||null;},get promoData(){return promoData;}};
+window.__grand={registerPersona(id,persona){PERSONAS.set(Number(id),persona);},unregisterPersona(id){PERSONAS.delete(Number(id));},setPromoData(data){promoOverride=!!data;promoData=data||null;if(!data)refreshPromo();},get promoData(){return promoData;}};
 // Sofia butts into other residents' conversations within earshot (not too often, never mid-chat with you).
 let sofiaReactAt=0;
 function maybeSofiaReacts(ev){const a=hotel.get(0);if(!a||ev.index===0||ev.room!==currentRoom||a.room!==ev.room||talk?.a===a||a.partner==='player'||elapsed<sofiaReactAt||Math.random()>.4)return;
@@ -218,7 +222,7 @@ function approachResident(id){const a=hotel.get(id);if(!a||!npcs.includes(a))ret
 // Talk to a resident wherever they are: travel to their room first if needed.
 function talkTo(id){const a=hotel.get(id);if(!a)return;if(a.room!==currentRoom){enterRoom(a.room);if(id===0)toast('Sofia holds court in the lobby.');}approachResident(id);}
 const MOOD_LABEL={smug:'SMUG',scheming:'SCHEMING',annoyed:'ANNOYED',furious:'FURIOUS',delighted:'DELIGHTED, BRIEFLY'};
-function openTalk(id){approaching=null;const a=hotel.get(id);if(!a||!npcs.includes(a))return;hotel.engage(id);talk={a,waiting:false};renderTalk();
+function openTalk(id){approaching=null;refreshPromo();const a=hotel.get(id);if(!a||!npcs.includes(a))return;hotel.engage(id);talk={a,waiting:false};renderTalk();
  if(isSofia(a)){const o=sofiaOpener(sofia,talkCtx(),Math.random);saveSofia();speak(a,o.text,o.mood);setMood(o.mood);setLive(`${a.name}: ${o.text}`);}
  else if(PERSONAS.get(a.id)?.opener){const o=PERSONAS.get(a.id).opener(talkCtx(),Math.random);speak(a,o.text,o.mood||'warm');setLive(`${a.name}: ${o.text}`);if(o.action)showCards(o.action);}
  else{const line=socialGreeting(state,id,a.visitor?`Thanks for having me, ${state.name}. ${a.ambient[0]}`:residentReply(a,'hello',{name:state.name,familiar:state.metResidents.includes(id)}));speak(a,line);setLive(`${a.name}: ${line}`);}}

@@ -29,7 +29,7 @@ const RENDER = {
     if (!items.length) return [card({ kind: isSpins ? 'FREE SPINS' : 'BONUS', title: isSpins ? 'No free spins right now' : 'No bonuses right now' })];
     return items.map(x => isSpins
       ? card({ kind: 'FREE SPINS', title: x.title, termsRef: x.termsRef, rows: [['Spins', x.remaining ?? x.spins], ['Spin value', money(x.spinValue)], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Wagering', x.wagering ? `${x.wagering.multiplier}×` : 'None'], ['Max win', money(x.maxWin) || 'No cap']] })
-      : card({ kind: 'BONUS', title: x.title, body: x.summary, termsRef: x.termsRef, rows: [['Value', pct(x.value)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× ${x.wagering.appliesTo}` : 'None'], ['Min deposit', money(x.minDeposit)], ['Max win', money(x.maxWin) || 'No cap'], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Status', x.claimedAt ? 'Claimed' : x.claimable ? 'Available' : 'Not available']] }));
+      : card({ kind: 'BONUS', title: x.title, body: x.summary, termsRef: x.termsRef, rows: [['Value', pct(x.value)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× ${x.wagering.appliesTo}` : 'None'], ['Min deposit', money(x.minDeposit)], ['Max win', money(x.maxWin) || 'No cap'], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Status', x.claimedAt ? 'Claimed' : x.claimable ? 'Available' : 'Not available'], ['Why not', x.claimable === false ? (x.notClaimableReason || '') : '']] }));
   },
   'show-competitions'(a, data, o) {
     if (!data?.competitions) return [unavailable('COMPETITION', 'Competitions')];

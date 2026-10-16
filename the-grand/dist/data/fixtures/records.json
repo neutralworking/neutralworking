@@ -1,0 +1,7 @@
+{
+  "_note": "SIMULATED past results and records. Display names are anonymised.",
+  "records": [
+    {"competitionId": "gold-classic", "title": "Gold Lounge Classic", "endedAt": "now-7d", "winners": [{"rank": 1, "displayName": "Rooftop***", "score": 1200, "prize": "5,000 credits"}, {"rank": 2, "displayName": "Velvet***", "score": 1110, "prize": "2,000 credits"}, {"rank": 3, "displayName": "Lamp***", "score": 990, "prize": "500 credits"}], "records": [{"label": "Highest single score", "value": "480", "holder": "Neon***", "setAt": "now-40d"}]},
+    {"competitionId": "spring-sprint", "title": "Spring Sprint", "endedAt": "now-60d", "winners": [{"rank": 1, "displayName": "Brass***", "score": 760, "prize": "3,000 credits"}], "records": [{"label": "Most rounds in a race", "value": "212", "holder": "Brass***", "setAt": "now-60d"}]}
+  ]
+}

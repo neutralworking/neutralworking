@@ -2,9 +2,11 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **118 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
+`npm run check` passes. `npm test` passes **126 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
 
 Verified behaviour:
+
+- NW-174: `dist/data/promo.js` defines the PromoData interface and `FixtureData` over SIMULATED fixtures in `dist/data/fixtures/` (fictional credits only, every file labelled). Relative fixture dates (`now+2d`) anchor at load; status and expiry follow the live clock, so a live race ends on time. Offers are current and eligible only (new-player and country rules), and self-excluded, cooling-off, limit-reached or unverified players get none. Every `termsRef` resolves to a clause; `dist/terms.html` renders all clauses with anchors. The app loads fixtures at boot and refreshes the snapshot whenever a conversation opens.
 
 - NW-173: Sofia's persona lives in `dist/personas/sofia.js` (facade at `dist/sofia.js`). Residents can have a registered persona (functional NPCs) that answers through the inline talk bar and receives the session data snapshot as `ctx.data`. Responses with an `action` render cards under the chips from data (`dist/cards.js`: offers, competitions, leaderboard, records, terms, banking, safer play, opt-in); every card is escaped, mirrored in the aria-live region, shows SIMULATED, and offer/competition/banking cards carry a Terms link that opens the clause card. Missing data renders a clear "not available yet" card.
 

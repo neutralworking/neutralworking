@@ -1,0 +1,12 @@
+{
+  "_note": "SIMULATED banking rules. No real payments exist in this prototype.",
+  "banking": {
+    "depositMethods": [{"id": "card", "label": "Card", "min": {"amount": 10, "currency": "credits"}, "max": {"amount": 5000, "currency": "credits"}, "processing": "Instant"}, {"id": "bank", "label": "Bank transfer", "min": {"amount": 20, "currency": "credits"}, "max": {"amount": 20000, "currency": "credits"}, "processing": "Up to 1 business day"}],
+    "withdrawalMethods": [{"id": "card", "label": "Card", "min": {"amount": 20, "currency": "credits"}, "max": {"amount": 5000, "currency": "credits"}, "processing": "1–3 business days"}, {"id": "bank", "label": "Bank transfer", "min": {"amount": 50, "currency": "credits"}, "max": {"amount": 20000, "currency": "credits"}, "processing": "2–5 business days", "fee": "None"}],
+    "verification": {"required": true, "when": "Before your first withdrawal", "documents": ["Photo ID", "Proof of address"]},
+    "limits": {"daily": {"amount": 1000, "currency": "credits"}, "weekly": {"amount": 5000, "currency": "credits"}, "monthly": {"amount": 15000, "currency": "credits"}, "playerSetLimits": true},
+    "pendingPeriod": "24 hours",
+    "reversalAllowed": false,
+    "termsRef": {"section": "banking", "clauseId": "k-1"}
+  }
+}

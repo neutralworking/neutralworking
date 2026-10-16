@@ -37,6 +37,7 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/art.js`: original isometric vector furniture, room scenery, cabinets, modular avatars and UI icons.
 - `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus, inline conversations and speech bubbles, suite invitations, onboarding and interaction controllers.
 - `dist/npc-brain.js`: reusable NPC dialogue engine (intent classification, response pools with conditions/effects/actions, memory, slot filling, reactions). Accepts an external classifier's decision.
+- `dist/data/promo.js` + `dist/data/fixtures/`: PromoData interface and SIMULATED fixtures (bonuses, free spins, competitions, records, terms, banking). `dist/terms.html` renders the simulated terms.
 - `dist/cards.js`: data-driven cards for functional NPCs (offers, competitions, leaderboard, records, terms, banking, safer play).
 - `dist/personas/`: NPC personas (Sofia now; functional NPCs next). `window.__grand` registers personas and loads a data snapshot for tests or console play.
 - `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
