@@ -2,9 +2,11 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **111 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
+`npm run check` passes. `npm test` passes **118 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
 
 Verified behaviour:
+
+- NW-173: Sofia's persona lives in `dist/personas/sofia.js` (facade at `dist/sofia.js`). Residents can have a registered persona (functional NPCs) that answers through the inline talk bar and receives the session data snapshot as `ctx.data`. Responses with an `action` render cards under the chips from data (`dist/cards.js`: offers, competitions, leaderboard, records, terms, banking, safer play, opt-in); every card is escaped, mirrored in the aria-live region, shows SIMULATED, and offer/competition/banking cards carry a Terms link that opens the clause card. Missing data renders a clear "not available yet" card.
 
 - NPC brain (`dist/npc-brain.js`): intents are classified by rules (ranked) and fuzzy example matching (stemming + synonyms, two-word overlap), returned as a ranked probabilistic decision. An external classifier can supply `{intent, p}` instead; the persona still writes every word. Responses carry conditions, effects, moods, flags and optional `action`s; lines are not repeated until a pool is exhausted.
 - Sofia runs on it: 45 intents, 231 player-facing lines and 54 reactions to other residents. A held-out set of 32 unseen phrasings classifies at ≥90%. She is French: furious lines are in French with an English gloss, annoyed lines open with a French tic, delighted lines close with one, pet names include gendered chéri/chérie. She butts into nearby residents' conversations (cooldown, never mid-chat with you). The no-spending fuzz test now covers her reactions too.

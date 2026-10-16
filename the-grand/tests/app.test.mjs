@@ -57,6 +57,21 @@ test('complete playable prototype DOM flow',async t=>{
   assert.ok(getState().metResidents.includes(15));assert.match(roomLog(),/Lovely evening/);
   click('[data-action="talk-close"]');assert.equal($('#talk-bar'),null);
  });
+ await t.test('NW-173: a registered functional persona speaks, and its cards render from data under the talk bar',()=>{
+  const terms={section:'bonus',clauseId:'b-1',url:'https://example.test/terms#b-1'};
+  const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra on a weekend top-up.',value:{percent:50,cap:{amount:200,currency:'credits'}},wagering:{multiplier:30,appliesTo:'bonus'},expiresAt:'2026-10-18T22:00:00Z',termsRef:terms,claimable:true}],terms:{bonus:[{section:'bonus',clauseId:'b-1',heading:'Bonus wagering',text:'Bonus funds must be wagered 30 times before withdrawal.',url:terms.url,version:'1.2',updatedAt:'2026-10-01T00:00:00Z'}]}};
+  let sawData=null;
+  const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:(text,ctx)=>{sawData=ctx.data;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));
+  window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
+  tapNpc(id);untilTalk();assert.ok($('#talk-bar'));assert.equal($('#talk-cards').hidden,true,'no cards before an action');
+  click('[data-action="talk-chip"][data-message="Any bonuses?"]');frames(160);
+  assert.equal(sawData,snap,'personas receive the session data as ctx.data');
+  assert.equal($('#talk-cards').hidden,false);assert.match($('#talk-cards').innerHTML,/Weekend reload/);assert.match($('#talk-cards').innerHTML,/SIMULATED/);
+  assert.match($('#talk-live').textContent,/BONUS: Weekend reload\./,'cards are mirrored in the aria-live region');
+  click('#talk-cards .card-terms');assert.equal($$('#talk-cards .npc-card').length,2,'Terms link adds the clause card');assert.match($('#talk-cards').innerHTML,/must be wagered 30 times/);
+  click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
+ });
  await t.test('Sofia, the resident con artist, has her own brain and will not visit without The Grand Reserve',()=>{
   click('#quest-pill');assert.match($('#panel-content').textContent,/YOUR FIRST EVENING/);click('[data-action="go-sofia"]');assert.equal($('#room-name').textContent,'The Grand Lobby');untilTalk();
   assert.ok($('#talk-bar'));assert.match($('#talk-bar').textContent,/dangerous flirt/i);frames(160);assert.match(bubbleText(),/SOFIA/);

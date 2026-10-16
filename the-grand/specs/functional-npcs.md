@@ -80,6 +80,7 @@ type Competition = {
   eligibleGames?: string[]; minStake?: Money;
   termsRef: TermsRef; optInRequired: boolean; optedIn?: boolean;
   playerStanding?: { rank: number; score: number };             // when opted in
+  standings?: { rank: number; displayName: string; score: number }[]; // top N for the leaderboard card, names anonymised upstream
 };
 type CompetitionResult = {
   competitionId: string; title: string; endedAt: string;
