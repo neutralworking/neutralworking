@@ -2,9 +2,15 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **68 checks**, including the parent integration case (35 existing simulation/art checks, 12 resident/store/appearance checks and 20 DOM journey subchecks).
+`npm run check` passes. `npm test` passes **85 checks**: simulation/art, resident/store/appearance, 8 Sofia dialogue checks and 24 DOM journey subchecks (plus the parent integration case).
 
 Verified behaviour:
+
+- First visit shows a one-time concierge card pointing at Sofia (go and meet her, or look around first) and nudges the chat button. Dismissing persists `intro`; older saves that already said hello skip it.
+- Every resident talks inline: tapping one walks you beside them (same screen row), opens an in-scene talk bar, and their reply types out in a speech bubble above their head; your line appears above your avatar. Topic chips use each resident's own topics. Lines are also kept in the room's chat log. Walking away mid-conversation gets a parting line.
+- Sofia is the resident con artist with her own dialogue engine (`dist/sofia.js`): she learns and needles your name, lies about who she is and can be caught out, gossips about the cast, runs a room-key con, remembers what you like and storms off when her patience runs out. Her memory persists under `the-grand-sofia-v1`. A fuzz test (2,400 replies) confirms she never mentions depositing, funding, paying or buying, and never echoes those words back.
+- First evening onboarding: meet Sofia → win 2 rounds → simulated funding → claim The Grand Reserve → invite Sofia to 408. Steps derive from saved state; items are re-validated on load, so a tampered save cannot skip requirements.
+- Sofia refuses to visit without The Grand Reserve; with it she accepts, you both head to 408, she walks in from the door and resumes the conversation, then leaves through it. Other residents you have met accept invitations freely. Visitors return to their own room if you leave the suite.
 
 - Projection and inverse projection agree for every floor tile.
 - All five rooms contain non-overlapping, in-bounds furniture. Every open floor tile and exit is reachable from spawn. Every interactive object can be approached.
