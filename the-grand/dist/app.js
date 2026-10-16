@@ -2,7 +2,7 @@ import {SAVE_KEY,CATALOG,ROOMS,GALLERY_DOORS,GUESTS,COSMETICS,ACHIEVEMENTS,fresh
 import {recordConversation,syncExploration,relationship,trustReply,socialGreeting,tokenCost,buyWithStyle,storyOptions,advanceStory,chooseStory,storyHint} from './social.js';
 import {HotelResidents} from './residents.js';
 import {residentReply} from './characters.js';
-import {createSofia,loadSofia,sofiaReply,sofiaOpener,sofiaWalkedOff,sofiaSuggestions} from './sofia.js';
+import {createSofia,loadSofia,sofiaReply,sofiaOpener,sofiaWalkedOff,sofiaSuggestions,sofiaHears} from './sofia.js';
 import {icon,esc,project,unproject,roomArt,objectArt,objectSvg,avatarArt,avatarSvg,symbolSvg} from './art.js';
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 let storageOK=true;let state;try{state=loadState(localStorage.getItem(SAVE_KEY));}catch{state=freshState();storageOK=false;}
@@ -51,7 +51,7 @@ function updateActors(){
  order.sort((a,b)=>a.depth-b.depth);for(let i=0;i<order.length;i++)if(depthLayer.children[i]!==order[i].node)depthLayer.insertBefore(order[i].node,depthLayer.children[i]||null);
  updateSpeech();
 }
-function processResidentEvents(){for(const event of hotel.drain()){const log=roomChatLogs[event.room];log.push({...event,target:event.targetId!==null?GUESTS[event.targetId]?.name:null});if(log.length>40)log.splice(0,log.length-40);}if(panelType==='chat'&&$('#chat-log')){const log=$('#chat-log'),markup=chatMarkup();if(log.innerHTML!==markup){log.innerHTML=markup;log.scrollTop=log.scrollHeight;}}}
+function processResidentEvents(){for(const event of hotel.drain()){maybeSofiaReacts(event);const log=roomChatLogs[event.room];log.push({...event,target:event.targetId!==null?GUESTS[event.targetId]?.name:null});if(log.length>40)log.splice(0,log.length-40);}if(panelType==='chat'&&$('#chat-log')){const log=$('#chat-log'),markup=chatMarkup();if(log.innerHTML!==markup){log.innerHTML=markup;log.scrollTop=log.scrollHeight;}}}
 
 function updateCamera(dt){const rect=game.getBoundingClientRect(),mobile=rect.width<600,landscape=rect.height<420;let scale;if(fit){scale=Math.min((rect.width-25)/800,(rect.height-(landscape?90:120))/640)*zoom;}else{scale=(mobile?.88:Math.min(rect.width/950,rect.height/720))*zoom;if(landscape)scale=Math.min(rect.width/850,rect.height/570)*zoom;}scale=Math.max(.28,scale);const vw=rect.width/scale,vh=rect.height/scale;const [px,py]=project(player.x,player.y);const tx=fit||vw>704?500:Math.max(148+vw/2,Math.min(852-vw/2,px)),ty=fit?370:Math.max(320,Math.min(410,py-100));const ease=Math.min(1,dt*5);camera.x+=(tx-camera.x)*ease;camera.y+=(ty-camera.y)*ease;world.setAttribute('viewBox',`${(camera.x-vw/2).toFixed(2)} ${(camera.y-vh/2).toFixed(2)} ${vw.toFixed(2)} ${vh.toFixed(2)}`);}
 function markTarget(x,y){const p=project(x+.5,y+.5);targetLayer.innerHTML=`<g class="target-marker" transform="translate(${p})"><path d="M-19 0 0-9 19 0 0 9Z" fill="#d9ce9f22" stroke="#e8d49b" stroke-width="1.5"/><circle r="2" fill="#f2dfb0"/></g>`;}
@@ -162,9 +162,14 @@ function resetProgress(){try{for(const k of Object.keys(localStorage))if(k.start
 const SOFIA_KEY='the-grand-sofia-v1',INVITE_RX=/\b(come (?:up|over|with me|to my)|visit me|invite|join me|nightcap|up to (?:408|my))\b/i;
 let sofia=(()=>{try{return loadSofia(localStorage.getItem(SOFIA_KEY));}catch{return createSofia();}})();
 let talk=null,approaching=null,speech=[],speechLayerRef=null,pendingVisit=null;
+// Sofia butts into other residents' conversations within earshot (not too often, never mid-chat with you).
+let sofiaReactAt=0;
+function maybeSofiaReacts(ev){const a=hotel.get(0);if(!a||ev.index===0||ev.room!==currentRoom||a.room!==ev.room||talk?.a===a||a.partner==='player'||elapsed<sofiaReactAt||Math.random()>.4)return;
+ const r=sofiaHears(sofia,ev.who,ev.text,{room:currentRoom},Math.random);if(!r)return;sofiaReactAt=elapsed+12;
+ setTimeout(()=>{if(a.room!==currentRoom||talk?.a===a||!npcs.includes(a))return;speak(a,r.text,'smug');logLine({who:a.name,text:r.text,index:0,target:ev.who});saveSofia();},1400);}
 function saveSofia(){if(window.__grandReset)return;try{localStorage.setItem(SOFIA_KEY,JSON.stringify(sofia));}catch{}}
 const isSofia=a=>!!a&&a.id===0;
-function talkCtx(){return {playerName:state.name,credits:state.credits,room:currentRoom,hat:state.hat,visitor:!!talk?.a?.visitor,canHost:canInvite(state,'Sofia').ok};}
+function talkCtx(){return {playerName:state.name,presentation:state.presentation,credits:state.credits,room:currentRoom,hat:state.hat,visitor:!!talk?.a?.visitor,canHost:canInvite(state,'Sofia').ok};}
 function wrapText(text,max){const out=[];let line='';for(const word of String(text).split(/\s+/)){if(!word)continue;if(line&&(line+' '+word).length>max){out.push(line);line=word;}else line=line?line+' '+word:word;}if(line)out.push(line);return out.length?out:[''];}
 // A free tile next to an actor, reachable from `from`. Prefers standing side by side on screen (same iso row),
 // so neither character hides the other or their bubble.
@@ -185,6 +190,8 @@ function updateSpeech(){const layer=document.getElementById('speech-layer');if(!
  if(talk&&Math.hypot(player.x-talk.a.x,player.y-talk.a.y)>3.4){const a=talk.a,line=isSofia(a)?sofiaWalkedOff(sofia).text:'Oh. Another time, then.';if(isSofia(a))saveSofia();endTalk('silent');speak(a,line,isSofia(a)?'annoyed':'warm');if(a.visitor)leaveSuite(a);}
  updateVisits();
  const inviteBtn=$('.invite-button');if(inviteBtn){const hide=currentRoom!=='suite'||editing;if(inviteBtn.hidden!==hide)inviteBtn.hidden=hide;}
+ // While you're talking to someone, their last line stays up until they say something else.
+ for(const b of speech)if(talk&&b.actor===talk.a&&!b.typing)b.until=Math.max(b.until,elapsed+.5);
  speech=speech.filter(b=>b.until>elapsed&&(b.actor==='player'||npcs.includes(b.actor)));
  if(layer!==speechLayerRef){speechLayerRef=layer;for(const b of speech)b.node=null;}
  const calm=reduceMotion(),partner=talk?.a;

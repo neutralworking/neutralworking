@@ -2,9 +2,12 @@
 
 ## Automated result
 
-`npm run check` passes. `npm test` passes **105 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
+`npm run check` passes. `npm test` passes **111 checks**, including the pre-existing economy, Sofia, invitation and onboarding coverage, ten new social/travel checks, and complete DOM journeys through both new stories and token redemption.
 
 Verified behaviour:
+
+- NPC brain (`dist/npc-brain.js`): intents are classified by rules (ranked) and fuzzy example matching (stemming + synonyms, two-word overlap), returned as a ranked probabilistic decision. An external classifier can supply `{intent, p}` instead; the persona still writes every word. Responses carry conditions, effects, moods, flags and optional `action`s; lines are not repeated until a pool is exhausted.
+- Sofia runs on it: 45 intents, 231 player-facing lines and 54 reactions to other residents. A held-out set of 32 unseen phrasings classifies at ≥90%. She is French: furious lines are in French with an English gloss, annoyed lines open with a French tic, delighted lines close with one, pet names include gendered chéri/chérie. She butts into nearby residents' conversations (cooldown, never mid-chat with you). The no-spending fuzz test now covers her reactions too.
 
 - Returning players (an existing save at load) get a welcome-back card instead of the first-run concierge: continue, or check out and start over. Starting over takes a second tap (in the card, or Settings → Start over), wipes only `the-grand*` storage keys, blocks any re-save during the reload, then reloads (`tests/reset.test.mjs`).
 - Sofia is now the hotel's most dangerous flirt: campy innuendo throughout, flirts back hard, plunging neckline, thigh slit, fishnets, pink boa and a wink. The no-deposit fuzz test still passes.
