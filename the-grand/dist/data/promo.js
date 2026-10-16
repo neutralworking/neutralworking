@@ -55,7 +55,7 @@ export class FixtureData {
       .filter(b => Date.parse(b.startsAt) <= t && Date.parse(b.expiresAt) > t)
       .filter(b => !b.eligibility?.newPlayersOnly || player.isNew)
       .filter(b => !b.eligibility?.countries || (player.country && b.eligibility.countries.includes(player.country)))
-      .map(b => ({ ...b, termsRef: withUrl(b.termsRef), claimedAt: player.claimed?.[b.id] || undefined }));
+      .map(b => { const claimedAt = player.claimed?.[b.id] || undefined; return { ...b, termsRef: withUrl(b.termsRef), claimedAt, claimable: !!b.claimable && !claimedAt, progress: player.bonusLedger?.[b.id] || undefined }; });
   }
   freeSpinsSync(player) {
     if (!offersAllowed(player)) return [];
@@ -117,6 +117,6 @@ export function playerFromState(state, now = Date.now()) {
   return {
     id: 'local', ageVerified: true, // the prototype is 18+ on entry
     selfExcluded: !!state.selfExcluded, coolingOff: !!(state.coolingOffUntil && now < state.coolingOffUntil), limitsReached: !!state.limitsReached,
-    isNew: !state.funded, country: state.country || undefined, competitions: state.competitions || {}, claimed: state.claimed || {},
+    isNew: !state.funded, country: state.country || undefined, competitions: state.competitions || {}, claimed: state.claimed || {}, bonusLedger: state.bonusLedger || {},
   };
 }

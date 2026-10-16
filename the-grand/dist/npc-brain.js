@@ -29,6 +29,8 @@ const SYNONYMS = {
   dress: 'outfit', fishnets: 'outfit', boa: 'outfit', lipstick: 'outfit', heels: 'outfit',
 };
 
+// Typographic apostrophes and quotes (chips, phone keyboards) read as plain ones, so patterns only need ' and ".
+export const plain = s => String(s ?? '').replace(/[\u2018\u2019\u02bc]/g, "'").replace(/[\u201c\u201d]/g, '"');
 const stem = w => (w.length > 5 ? w.replace(/(ing|edly|ed|ly|es|s)$/, '') : w.length > 3 ? w.replace(/s$/, '') : w);
 export function tokens(text) {
   return (String(text).toLowerCase().match(/[a-z0-9']+/g) || [])
@@ -58,6 +60,7 @@ function prepare(persona) {
 // Rank applicable intents. A rule (regex) hit always beats similarity; among rule hits, higher rank wins.
 export function classify(persona, text, mem, ctx = {}) {
   prepare(persona);
+  text = plain(text);
   const toks = contentTokens(text), out = [];
   for (const intent of persona.intents) {
     if (intent.fallback) continue;
@@ -101,7 +104,7 @@ export function fill(text, slots) {
 // Respond to the player. opts.intent lets an external classifier decide the intent.
 export function respond(persona, mem, input, ctx = {}, rng = Math.random, opts = {}) {
   prepare(persona);
-  const text = String(input || '').replace(/\s+/g, ' ').trim().slice(0, 140);
+  const text = plain(input).replace(/\s+/g, ' ').trim().slice(0, 140);
   mem.turns = (mem.turns || 0) + 1;
   mem.used = mem.used || {};
   const base = persona.slots ? persona.slots(mem, ctx, rng) : {};
