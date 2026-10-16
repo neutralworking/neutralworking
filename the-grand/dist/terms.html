@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>The Grand — Terms (simulated)</title>
+<style>
+:root{color-scheme:dark;--gold:#cfb77f;--ink:#edf0e6;--muted:#8da5a6}
+body{margin:0;background:#10262d;color:var(--ink);font:15px/1.6 Inter,ui-sans-serif,-apple-system,"Segoe UI",sans-serif}
+main{max-width:720px;margin:0 auto;padding:32px 20px 80px}
+h1{font:30px/1.2 Georgia,serif;margin:0 0 6px}
+.note{color:var(--muted);font-size:13px;border:1px solid #cab68155;border-radius:8px;padding:10px 12px;margin:14px 0 28px}
+h2{font-size:12px;letter-spacing:2px;color:var(--gold);margin:34px 0 8px;text-transform:uppercase}
+section.clause{padding:12px 14px;border-radius:8px;border:1px solid transparent;margin:6px 0}
+section.clause:target{border-color:var(--gold);background:#cfb77f12}
+h3{margin:0 0 4px;font-size:16px}
+.meta{color:var(--muted);font-size:12px}
+a{color:var(--gold)}
+</style></head>
+<body><main>
+<h1>Terms of The Grand</h1>
+<p class="note">SIMULATED. These are fictional terms for a prototype. Credits have no monetary value. This is not legal text and not any operator's terms.</p>
+<div id="terms">Loading…</div>
+<p><a href="./">Back to The Grand</a></p>
+</main>
+<script type="module">
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const names={general:'General',bonus:'Bonuses',competition:'Competitions',free_spins:'Free spins',banking:'Banking',responsible_gambling:'Safer play',privacy:'Privacy'};
+try{const {clauses}=await (await fetch('data/fixtures/terms.json')).json();const by={};for(const c of clauses)(by[c.section]??=[]).push(c);
+ document.getElementById('terms').innerHTML=Object.entries(by).map(([s,list])=>`<h2>${esc(names[s]||s)}</h2>${list.map(c=>`<section class="clause" id="${esc(c.clauseId)}"><h3>${esc(c.heading)}</h3><p>${esc(c.text)}</p><div class="meta">${esc(c.clauseId)} · version ${esc(c.version)} · updated ${esc(c.updatedAt.slice(0,10))}</div></section>`).join('')}`).join('');
+ if(location.hash)document.querySelector(location.hash)?.scrollIntoView();}
+catch{document.getElementById('terms').textContent='The terms could not be loaded.';}
+</script>
+</body></html>
