@@ -1,0 +1,7 @@
+{
+  "_note": "SIMULATED free spins. Fictional credits only. Dates relative to now.",
+  "freeSpins": [
+    {"id": "nova-20", "title": "20 spins on Nova Nights", "spins": 20, "remaining": 20, "spinValue": {"amount": 10, "currency": "credits"}, "eligibleGames": ["Nova Nights"], "expiresAt": "now+3d", "wagering": {"multiplier": 10}, "maxWin": {"amount": 500, "currency": "credits"}, "termsRef": {"section": "free_spins", "clauseId": "fs-1"}, "claimable": true},
+    {"id": "sevens-10", "title": "10 spins on Grand Sevens", "spins": 10, "remaining": 4, "spinValue": {"amount": 25, "currency": "credits"}, "eligibleGames": ["Grand Sevens"], "expiresAt": "now+1d", "wagering": {"multiplier": 10}, "maxWin": {"amount": 250, "currency": "credits"}, "termsRef": {"section": "free_spins", "clauseId": "fs-2"}, "claimable": true}
+  ]
+}

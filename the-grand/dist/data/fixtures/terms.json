@@ -1,0 +1,22 @@
+{
+  "_note": "SIMULATED terms for The Grand prototype. Fictional, not legal text, and not any operator's terms.",
+  "clauses": [
+    {"section": "general", "clauseId": "g-1", "heading": "About these terms", "text": "These simulated terms describe how The Grand prototype works. Credits are fictional, have no monetary value and cannot be withdrawn.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "general", "clauseId": "g-2", "heading": "Age", "text": "The Grand is an 18+ concept. By playing you confirm you are 18 or over.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "bonus", "clauseId": "b-1", "heading": "Bonus wagering", "text": "Bonus credits must be wagered the stated number of times on eligible games before they convert to regular credits. Only eligible games count towards wagering.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "bonus", "clauseId": "b-2", "heading": "Bonus expiry", "text": "Unclaimed bonuses expire at the time shown on the offer. Claimed bonus credits that have not met wagering expire 7 days after claiming.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "bonus", "clauseId": "b-3", "heading": "Maximum win from bonus play", "text": "Winnings from bonus credits are capped at the maximum win shown on the offer. Anything above the cap is removed when wagering completes.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "bonus", "clauseId": "b-4", "heading": "Welcome offer eligibility", "text": "The welcome offer is available once per player, on a new account only.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "competition", "clauseId": "c-1", "heading": "Entering competitions", "text": "Where a competition requires opt-in, only play after opting in counts. Opting in is free and does not require a deposit.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "competition", "clauseId": "c-2", "heading": "Scoring and ties", "text": "Scores are calculated as described on each competition. Ties are broken by whoever reached the score first.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "competition", "clauseId": "c-3", "heading": "Prizes and results", "text": "Prizes are fictional credits, credited within 24 hours of the competition ending. Results show anonymised display names.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "free_spins", "clauseId": "fs-1", "heading": "Using free spins", "text": "Free spins can only be used on the eligible games shown, at the fixed spin value shown, before they expire.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "free_spins", "clauseId": "fs-2", "heading": "Free spin winnings", "text": "Winnings from free spins are paid as bonus credits, subject to the wagering and maximum win shown on the offer.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "banking", "clauseId": "k-1", "heading": "Deposits and withdrawals", "text": "In this prototype no real payments are possible. Banking rules are shown for demonstration only.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "banking", "clauseId": "k-2", "heading": "Verification", "text": "Before a first withdrawal, players must verify their identity and address.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "banking", "clauseId": "k-3", "heading": "Pending withdrawals", "text": "Withdrawals stay pending for 24 hours and cannot be reversed once requested.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "responsible_gambling", "clauseId": "r-1", "heading": "Limits and breaks", "text": "Players can set deposit, loss and time limits, take a break, or self-exclude at any time. Reducing a limit takes effect immediately.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "responsible_gambling", "clauseId": "r-2", "heading": "Offers and wellbeing", "text": "Players who self-exclude, take a break, or reach a limit do not receive offers.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"},
+    {"section": "privacy", "clauseId": "p-1", "heading": "Your data", "text": "Progress in this prototype is stored only in your browser and can be wiped at any time from Settings.", "version": "0.3", "updatedAt": "2026-10-01T00:00:00Z"}
+  ]
+}
