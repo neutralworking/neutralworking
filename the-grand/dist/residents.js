@@ -3,15 +3,15 @@ import {ROOMS,blocked,pathfind,approach,spin} from './engine.js';
 
 const tile=a=>[Math.floor(a.x),Math.floor(a.y)];
 const distance=(a,b)=>Math.hypot(a.x-b.x,a.y-b.y);
-export const STATE_LABELS={idle:'Taking a moment',walking:'On a wander',betting:'Playing virtual credits',talking:'In conversation',skating:'Cruising on a skateboard',music:'Playing a little jazz',browsing:'Browsing the boutique',resting:'Taking a break'};
+export const STATE_LABELS={idle:'Taking a moment',walking:'On a wander',betting:'Playing virtual credits',talking:'In conversation',skating:'Cruising on a skateboard',music:'Playing a little jazz',browsing:'Browsing the boutique',resting:'Taking a break',visiting:'Visiting a suite',leaving:'Heading out'};
 
 export class HotelResidents{
- constructor(rng=Math.random){this.rng=rng;this.time=0;this.events=[];this.pending=[];this.claims=new Map();this.visitedStates=new Set();this.agents=[];
+ constructor(rng=Math.random){this.rng=rng;this.time=0;this.suiteObjects=[];this.events=[];this.pending=[];this.claims=new Map();this.visitedStates=new Set();this.agents=[];
   for(const p of RESIDENTS){const occupied=this.agents.filter(a=>a.room===p.room);const options=[[2,4],[5,2],[3,6],[6,6],[1,3],[4,3],[3,2],[2,6],[7,3]];const pos=options.find(([x,y])=>!blocked(x,y,ROOMS[p.room].objects)&&!occupied.some(a=>Math.floor(a.x)===x&&Math.floor(a.y)===y));this.agents.push({...p,x:pos[0]+.5,y:pos[1]+.5,path:[],mode:'idle',goal:null,partner:null,until:1+(p.id%5)*.8,decisions:0,credits:500,rounds:0,wins:0,sessionRounds:0,lastBet:-50,speech:'',speechUntil:0});}
  }
  inRoom(room){return this.agents.filter(a=>a.room===room);}
  get(id){if(id===null||id===undefined||id==='player')return undefined;return this.agents.find(a=>a.id===Number(id));}
- objects(a){return ROOMS[a.room].objects;}
+ objects(a){return a.room==='suite'?this.suiteObjects:ROOMS[a.room].objects;}// the suite's furniture lives in player state; the app keeps suiteObjects in sync
  say(a,text,target=null){a.speech=text;a.speechUntil=this.time+5.5;this.events.push({room:a.room,index:a.id,who:a.name,text,targetId:target?.id??null,time:this.time});if(this.events.length>100)this.events.shift();}
  drain(){return this.events.splice(0);}
  unclaim(a){for(const [key,id]of this.claims)if(id===a.id)this.claims.delete(key);}

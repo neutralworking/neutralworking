@@ -15,6 +15,9 @@ A standalone, mobile-first isometric social hotel prototype. The suite opens imm
 - Open Avatar to choose Woman, Man or Neutral presentation, eight skin tones and eight hairstyles. These choices are free, save immediately and appear in the world, HUD, chat and store previews.
 - Open Store, or tap the physical clothing rail in the lobby, for 13 jackets, hats and accessories. Try an item on your own avatar, buy with virtual credits and equip it. Owned items remain in your wardrobe and never charge twice.
 - Say hello to clearly labelled simulated residents. Earn cosmetics through gameplay, exploration, social interaction and decoration. The one-time funding reward is explicitly simulated.
+- Tap any resident to talk to them in the room: type anything or use their topic chips, and their reply appears above their head.
+- Sofia is the hotel's con artist, with her own dialogue engine. She is scripted, not a connected player or an AI model.
+- Your first evening: get Sofia up to your suite. She will not visit without The Grand Reserve, which unlocks after winning 2 rounds and trying the simulated funding flow. Invite her in person or from Invite in your suite.
 - Your room, avatar, preferences, credits and achievements save to this browser's local storage.
 
 ## Source
@@ -27,9 +30,11 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/characters.js`: 20 original character profiles, visual identities and 60 authored conversation topics.
 - `dist/residents.js`: autonomous finite-state routines, machine reservations, independent bot balances, paired conversations and player interruption.
 - `dist/art.js`: original isometric vector furniture, room scenery, cabinets, modular avatars and UI icons.
-- `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus and interaction controllers.
+- `dist/app.js`: input, game loop, camera, scene ordering, decorating, menus, inline conversations and speech bubbles, suite invitations, onboarding and interaction controllers.
+- `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.
+- `tests/sofia.test.mjs`: dialogue behaviour, invitation gate, persistence and a no-deposit-talk fuzz test.
 - `tests/app.test.mjs`: a complete interactive user journey in LinkeDOM, with an injected animation clock and pointer coordinates.
 - `tests/residents-store.test.mjs`: ten simulated minutes of autonomous behaviour, NPC conversations, purchase guards, identity options and save migration.
 - `tests/render-cast.mjs`: optional visual contact sheets of all residents, player appearances and store items.

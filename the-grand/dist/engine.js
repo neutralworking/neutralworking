@@ -25,6 +25,7 @@ export const ROOMS={
  objects:[o('bar','bar',0,1),o('sofa','sofa',4,0),o('chair','chair',6,3),o('table','table',5,3),o('palm','plant',0,5),o('palm2','plant',7,0),o('music','speaker',1,6),o('game','machine',6,5,0,'neon')]}
 };
 export {RESIDENTS as GUESTS} from './characters.js';
+import {RESIDENTS as CAST} from './characters.js';
 export const SKIN_TONES=['#f2d8bf','#e6ba96','#d6a080','#bc865f','#a16b48','#855737','#68422e','#4e3026'];
 export const HAIR_STYLES=[{id:'crop',name:'Short'},{id:'messy',name:'Tousled'},{id:'bob',name:'Bob'},{id:'long',name:'Long'},{id:'curls',name:'Curls'},{id:'afro',name:'Afro'},{id:'locs',name:'Locs'},{id:'bun',name:'Bun'}];
 export const PRESENTATIONS=[{id:'woman',name:'Woman'},{id:'man',name:'Man'},{id:'neutral',name:'Neutral'}];
@@ -42,7 +43,7 @@ export const ACHIEVEMENTS=[
  {id:'decorate',name:'Make yourself at home',desc:'Make your first suite edit',target:1,metric:'decorated',reward:'Art deco pin'},
  {id:'fund',name:'The welcome collection',desc:'Try simulated account funding',target:1,metric:'funded',reward:'Champagne jacket',demo:true}
 ];
-export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false};}
+export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false,intro:0,items:[],hosted:[]};}
 export function dimensions(obj){const c=CATALOG[obj.type]||{w:obj.type==='bar'?3:1,d:1};return obj.rot%2?[c.d,c.w]:[c.w,c.d];}
 export function cells(obj){const [w,d]=dimensions(obj),out=[];for(let x=0;x<w;x++)for(let y=0;y<d;y++)out.push([obj.x+x,obj.y+y]);return out;}
 export function blocked(x,y,objects,ignore){if(x<0||y<0||x>=SIZE||y>=SIZE)return true;return objects.some(o=>o.id!==ignore&&cells(o).some(([a,b])=>a===x&&b===y));}
@@ -94,5 +95,36 @@ function losingFaces(symbols,rng){
 export function spin(s,game,rng=Math.random,bet=BET){if(s.credits<bet)return null;const symbols=SYMBOLS[game]||SYMBOLS.gold;const r=rng();let cumulative=0,tier=null;for(const t of PAYTABLE){cumulative+=t.probability;if(r<cumulative){tier=t;break;}}const result=tier?faces(tier,symbols,rng):losingFaces(symbols,rng),payout=tier?bet*tier.multiplier:0;s.credits=s.credits-bet+payout;s.spins++;if(payout>bet)s.wins++;return {symbols:result,payout,bet,net:payout-bet,tier:tier?.id||null};}
 export function paytableLines(game){const symbols=SYMBOLS[game]||SYMBOLS.gold,name=i=>SYMBOL_NAMES[symbols[i]];return PAYTABLE.map(t=>`${t.kind==='three'?'Three':'Two'} ${name(t.symbol)} · ${t.multiplier}× · ${+(t.probability*100).toFixed(1)}%`);}
 export function loadState(raw){const d=freshState();try{const s=JSON.parse(raw);if(s?.version!==1)return d;for(const k of ['spins','wins','social','decorated','funded'])if(Number.isFinite(s[k])&&s[k]>=0)d[k]=Math.floor(s[k]);if(Number.isFinite(s.credits)&&s.credits>=0)d.credits=Math.floor(s.credits);for(const k of ['name','theme','floor','favourite','joystick'])if(typeof s[k]==='string')d[k]=s[k].slice(0,30);for(const k of Object.keys(COSMETICS))if(COSMETICS[k].some(c=>c.id===s[k]))d[k]=s[k];d.visited=Array.isArray(s.visited)?[...new Set(s.visited.filter(v=>ROOMS[v]))]:[];d.unlocked=Array.isArray(s.unlocked)?s.unlocked.filter(a=>ACHIEVEMENTS.some(b=>b.id===a)):[];d.sound=!!s.sound;if(SKIN_TONES.includes(s.skin))d.skin=s.skin;if(PRESENTATIONS.some(x=>x.id===s.presentation))d.presentation=s.presentation;if(HAIR_STYLES.some(x=>x.id===s.hairStyle))d.hairStyle=s.hairStyle;d.owned=Array.isArray(s.owned)?[...new Set(s.owned.filter(id=>STORE_ITEMS.some(c=>c.id===id)))]:[];d.metResidents=Array.isArray(s.metResidents)?[...new Set(s.metResidents.filter(id=>Number.isInteger(id)&&id>=0&&id<20))]:[];if(s.friendship&&typeof s.friendship==='object')for(const id of d.metResidents)if(Number.isFinite(s.friendship[id]))d.friendship[id]=Math.max(0,Math.min(999,Math.floor(s.friendship[id])));if(Number.isFinite(s.purchases)&&s.purchases>=0)d.purchases=Math.floor(s.purchases);
+ // First-run concierge beat: done once dismissed, or for older saves that already said hello.
+ d.intro=s.intro===1||d.social>0?1:0;
+ d.hosted=Array.isArray(s.hosted)?[...new Set(s.hosted.filter(n=>CAST.some(g=>g.name===n)))]:[];
+ const savedItems=Array.isArray(s.items)?s.items:[];// re-validated against requirements once unlocks are known (below)
  if(Array.isArray(s.furniture)&&s.furniture.length<=24){const valid=[];for(const o of s.furniture){if(!CATALOG[o.type]||typeof o.id!=='string'||!Number.isInteger(o.x)||!Number.isInteger(o.y))continue;const item={id:o.id.slice(0,60),type:o.type,x:o.x,y:o.y,rot:o.rot===1?1:0};if(cells(item).every(([x,y])=>!blocked(x,y,valid)))valid.push(item);}const spawn=[];for(let x=0;x<8;x++)for(let y=0;y<8;y++)if(!blocked(x,y,valid))spawn.push({x:x+.5,y:y+.5});if(spawn.some(p=>reachableFloor(valid,p,[7,7])))d.furniture=valid;}
- checkUnlocks(d);for(const k of Object.keys(COSMETICS)){const c=COSMETICS[k].find(c=>c.id===d[k]);if(!isUnlocked(c,d))d[k]=COSMETICS[k][0].id;}return d;}catch{return d;}}
+ checkUnlocks(d);d.items=[...new Set(savedItems.filter(id=>ITEMS[id]&&canClaim(id,d,true)))];for(const k of Object.keys(COSMETICS)){const c=COSMETICS[k].find(c=>c.id===d[k]);if(!isUnlocked(c,d))d[k]=COSMETICS[k][0].id;}return d;}catch{return d;}}
+
+// --- Items, invitations and the first-evening onboarding ---------------------------------
+// An item is claimed once its required achievements are unlocked. 'fund' is the simulated funding flow:
+// no real money exists anywhere in this prototype.
+export const ITEMS={
+ reserve:{name:'The Grand Reserve',desc:'A bottle worth crossing the hotel for. Some guests will not visit a suite without one on ice.',requires:['wins','fund']}
+};
+// Who will accept an invitation to your suite, and what they insist on first.
+export const INVITE_RULES={Sofia:{requires:'reserve'}};
+export const hasItem=(s,id)=>s.items.includes(id);
+export function canClaim(id,s,ignoreOwned=false){const item=ITEMS[id];return !!item&&(ignoreOwned||!hasItem(s,id))&&item.requires.every(a=>s.unlocked.includes(a));}
+export function claimItem(s,id){if(!canClaim(id,s))return false;s.items.push(id);return true;}
+export function canInvite(s,name){const rule=INVITE_RULES[name];if(!rule)return {ok:true,missing:null};return hasItem(s,rule.requires)?{ok:true,missing:null}:{ok:false,missing:rule.requires};}
+export function recordHost(s,name){if(CAST.some(g=>g.name===name)&&!s.hosted.includes(name))s.hosted.push(name);}
+// The onboarding path, derived entirely from saved state so it can never drift from reality.
+export function onboarding(s){
+ const wins=ACHIEVEMENTS.find(a=>a.id==='wins');
+ const steps=[
+  {id:'hello',title:'Say hello to Sofia',hint:'She holds court in the lobby.',done:s.metResidents.includes(0),action:'go-sofia'},
+  {id:'wins',title:'Win 2 rounds',hint:'Any cabinet in the Gold Lounge or Neon Arcade.',done:s.unlocked.includes('wins'),progress:[Math.min(progress(wins,s),wins.target),wins.target],action:'go-room',room:'gold'},
+  {id:'fund',title:'Try account funding',hint:'Simulated. No card, no payment, fictional credits only.',done:s.unlocked.includes('fund'),simulated:true,action:'wallet'},
+  {id:'claim',title:'Claim The Grand Reserve',hint:'Unlocks once you have won 2 rounds and tried funding.',done:hasItem(s,'reserve'),action:'claim-reserve'},
+  {id:'host',title:'Invite Sofia up to 408',hint:'Ask her in person, or use Invite in your suite.',done:s.hosted.includes('Sofia'),action:'go-sofia'}
+ ];
+ const current=steps.find(x=>!x.done)||null;
+ return {steps,done:steps.filter(x=>x.done).length,total:steps.length,current,complete:!current};
+}
