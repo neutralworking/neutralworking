@@ -40,13 +40,13 @@ test('AC: "set a limit" opens the safer-play limits panel', () => {
     assert.equal(r.intent, 'setLimit', q);
     assert.deepEqual(r.action, {type: 'open-safer-play', reason: 'limits', view: 'limits'}, q);
   }
-  const [c] = renderCards({type: 'open-safer-play', reason: 'limits', view: 'limits'}, data, {limits: {limit: 250, pending: null, lost: 75}});
+  const [c] = renderCards({type: 'open-safer-play', reason: 'limits', view: 'limits'}, data, {limits: {limit: 300, pending: null, lost: 75}});
   assert.match(c.text, /SAFER PLAY · LIMITS: Daily loss limit\./);
-  assert.match(c.text, /Your limit: 250 credits a day\./);
+  assert.match(c.text, /Your limit: 300 credits a day\./);
   assert.match(c.text, /Lost today: 75 credits\./);
   for (const v of LIMIT_OPTIONS) assert.match(c.html, new RegExp(`data-action="set-limit" data-amount="${v}"`));
   assert.match(c.html, /data-amount="none"/);
-  assert.match(c.html, /data-amount="250" aria-pressed="true"/);
+  assert.match(c.html, /data-amount="300" aria-pressed="true"/);
 });
 
 test('"how do I deposit?" is answered with method facts only', () => {
@@ -149,37 +149,42 @@ test('explainability: every reply records intent, p, via and dataIds', () => {
 test('limits: lowering works now, raising or removing waits 24 hours', () => {
   const s = freshState(), t0 = Date.parse('2026-10-17T10:00:00Z');
   assert.equal(lossLimit(s, t0), null);
-  assert.deepEqual(setLossLimit(s, 500, t0), {applied: 'now'});
-  assert.deepEqual(setLossLimit(s, 250, t0), {applied: 'now'}, 'lowering is immediate');
-  assert.equal(lossLimit(s, t0), 250);
-  assert.deepEqual(setLossLimit(s, 1000, t0), {applied: 'later', at: t0 + RAISE_DELAY_MS});
-  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS - 1), 250, 'the old limit holds until the wait is over');
-  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS), 1000);
+  assert.deepEqual(setLossLimit(s, 750, t0), {applied: 'now'});
+  assert.deepEqual(setLossLimit(s, 300, t0), {applied: 'now'}, 'lowering is immediate');
+  assert.equal(lossLimit(s, t0), 300);
+  assert.deepEqual(setLossLimit(s, 1500, t0), {applied: 'later', at: t0 + RAISE_DELAY_MS});
+  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS - 1), 300, 'the old limit holds until the wait is over');
+  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS), 1500);
   setLossLimit(s, null, t0 + RAISE_DELAY_MS);
-  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS + 1), 1000, 'removing waits too');
+  assert.equal(lossLimit(s, t0 + RAISE_DELAY_MS + 1), 1500, 'removing waits too');
   assert.equal(lossLimit(s, t0 + 2 * RAISE_DELAY_MS), null);
   assert.equal(setLossLimit(s, 123, t0).applied, 'invalid');
 });
 
 test('limits: daily losses, the stop, the next day, offers paused, and reload', () => {
   const s = freshState(), t0 = Date.parse('2026-10-17T10:00:00Z');
-  setLossLimit(s, 100, t0);
-  for (let i = 0; i < 3; i++) noteResult(s, -25, t0, 'UTC');
+  setLossLimit(s, 150, t0); // two 75-credit spins
+  noteResult(s, -75, t0, 'UTC');
   assert.equal(lostToday(s, t0, 'UTC'), 75);
-  assert.equal(wouldExceed(s, 25, t0, 'UTC'), false);
+  assert.equal(wouldExceed(s, 75, t0, 'UTC'), false, 'a spin that would land exactly on the limit is allowed');
   assert.equal(noteResult(s, 50, t0, 'UTC'), false, 'a win offsets losses');
   assert.equal(lostToday(s, t0, 'UTC'), 25);
-  for (let i = 0; i < 3; i++) noteResult(s, -25, t0, 'UTC');
+  noteResult(s, -75, t0, 'UTC');
+  assert.equal(wouldExceed(s, 75, t0, 'UTC'), true, '100 lost: another spin could pass 150');
+  noteResult(s, -75, t0, 'UTC');
   assert.equal(limitReached(s, t0, 'UTC'), true);
-  assert.equal(wouldExceed(s, 25, t0, 'UTC'), true);
   const p = playerFromState(s, t0);
   assert.equal(p.limitsReached, limitReached(s, t0), 'the player context sees it');
   if (dayKey(t0) === dayKey(t0, 'UTC')) assert.equal(offersBlocked(createWellbeing(), p, t0), 'limit-reached', 'offers pause');
   assert.equal(limitReached(s, t0 + 864e5, 'UTC'), false, 'a new day starts fresh');
   const back = loadState(JSON.stringify(s));
-  assert.equal(back.lossLimit, 100);
+  assert.equal(back.lossLimit, 150);
   assert.deepEqual(back.dayNet, s.dayNet);
-  assert.deepEqual(loadLimits({lossLimit: 7, pendingLossLimit: {amount: 3, at: 1}, dayNet: {day: 'x', net: 1}}), {lossLimit: null, pendingLossLimit: null, dayNet: null});
+  assert.deepEqual(loadLimits({lossLimit: -7, pendingLossLimit: {amount: 'x', at: 1}, dayNet: {day: 'x', net: 1}}), {lossLimit: null, pendingLossLimit: null, dayNet: null});
+  // A limit set before the options changed (e.g. 100) is kept exactly; moving to 150 counts as raising it.
+  const legacy = loadState(JSON.stringify({version: 1, lossLimit: 100}));
+  assert.equal(legacy.lossLimit, 100);
+  assert.equal(setLossLimit(legacy, 150, t0).applied, 'later', 'never loosened straight away');
 });
 
 test('staff: Hollis stands at the lobby cashier window', () => {
