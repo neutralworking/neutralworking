@@ -42,7 +42,7 @@ export function freeSpin(state, offer, game, rng = Math.random, now = Date.now()
   const bet = Math.max(1, Math.floor(offer.spinValue?.amount || 0));
   // The round runs on a stake the player never paid: a shadow balance holding exactly one spin's value.
   const shadow = {credits: bet, spins: state.spins, wins: state.wins};
-  const outcome = spin(shadow, game, rng, bet);
+  const outcome = spin(shadow, game, rng, bet, 1); // free spins play the middle line, at the offer's spin value
   const key = ledgerKey(offer.id), entry = state.bonusLedger?.[key] || {granted: 0, target: 0, wagered: 0, games: [...(offer.eligibleGames || [])], claimedAt: now};
   const cap = offer.maxWin?.amount, room = Number.isFinite(cap) ? Math.max(0, cap - entry.granted) : Infinity;
   const payout = Math.min(outcome.payout, room);
@@ -53,5 +53,5 @@ export function freeSpin(state, offer, game, rng = Math.random, now = Date.now()
   state.credits += payout;
   state.spins = shadow.spins;
   state.wins = shadow.wins;
-  return {ok: true, symbols: outcome.symbols, payout, raw: outcome.payout, capped: payout < outcome.payout, left: spinsLeft(state, offer), bet};
+  return {ok: true, symbols: outcome.symbols, rows: outcome.rows, payout, raw: outcome.payout, capped: payout < outcome.payout, left: spinsLeft(state, offer), bet};
 }

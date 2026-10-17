@@ -38,7 +38,17 @@ test('complete playable prototype DOM flow',async t=>{
  await t.test('first visit shows the concierge beat once, pointing at Sofia',()=>{const card=$('#concierge-card');assert.ok(card,'concierge card on first load');assert.match(card.textContent,/Welcome to The Grand, Alex/);assert.match(card.textContent,/Sofia/);assert.ok($('[data-action="intro-hello"]'));assert.ok($('.chat-fab').classList.contains('nudge'));click('[data-action="intro-dismiss"]');assert.equal($('#concierge-card'),null);assert.equal(getState().intro,1);assert.equal(panel.open,false);});
  function $$(s){return[...document.querySelectorAll(s)];}
  await t.test('floor taps move the rendered avatar and machine approach opens a game',()=>{const before=position();tapTile(3,4);frames(100);assert.notDeepEqual(position(),before);tapObject('machine');frames(240);assert.equal(panel.open,true);assert.match($('#panel-content').textContent,/Grand Sevens/);});
- await t.test('a real spin settles reels, credits, counters and unlocks',()=>{const random=Math.random;Math.random=()=>.1;for(let i=0;i<5;i++){click('[data-action="spin"]');frames(80);}Math.random=random;assert.equal(getState().spins,5);assert.equal(getState().wins,5);assert.equal(getState().credits,2625);assert.ok(getState().unlocked.includes('rounds'));assert.ok(getState().unlocked.includes('wins'));assert.equal($('.reels').classList.contains('spinning'),false);click('[data-action="close"]');});
+ await t.test('a real spin settles reels, credits, counters and unlocks',()=>{const random=Math.random;Math.random=()=>.1;for(let i=0;i<5;i++){click('[data-action="spin"]');frames(80);}Math.random=random;assert.equal(getState().spins,5);assert.equal(getState().wins,5);assert.equal(getState().credits,2875,'three lines × 50 back on a 75 stake, five times');assert.equal($$('.reels .reel').length,3);assert.equal($$('.reels .cell').length,9,'a 3×3 grid');assert.equal($$('.reels .cell.won').length,9,'every line paid and the spin came out ahead: celebrated');assert.match($('.slot-message').textContent,/3 lines paid · 150 back from 75 · \+75 overall/);assert.ok(getState().unlocked.includes('rounds'));assert.ok(getState().unlocked.includes('wins'));assert.equal($('.reels').classList.contains('spinning'),false);click('[data-action="close"]');});
+ await t.test('three lines: a line that pays back less than the spin cost is shown as a loss, never celebrated',()=>{
+  tapObject('machine');frames(240);assert.equal(panel.open,true);
+  assert.match($('.slot-round').textContent,/3 LINES · 25 EACH · 75 A SPIN/);assert.match($('.paytable').textContent,/the spin returns more than it cost 29% of the time/);assert.match($('.paytable').textContent,/a line pays but the spin still loses: those are shown as losses/);
+  const credits=getState().credits,wins=getState().wins,random=Math.random;let first=true;Math.random=()=>{if(first){first=false;return .15;}return .6;};
+  click('[data-action="spin"]');frames(100);Math.random=random;
+  assert.equal(getState().credits,credits-25,'50 back on a 75 stake');assert.equal(getState().wins,wins,'not a win');
+  assert.equal($$('.reels .cell.won').length,0,'no celebration');assert.equal($$('.reels .cell.paid').length,3,'the paying line is marked quietly');
+  assert.match($('.slot-message').textContent,/50 back from 75 · −25 overall/);
+  click('[data-action="close"]');
+ });
  await t.test('wardrobe locked choices are blocked and unlocked clothing updates world',()=>{click('.bottom-nav [data-action="avatar"]');const before=getState().shirt;click('[data-action="equip"][data-category="shirt"][data-id="gold"]');assert.equal(getState().shirt,before);click('[data-action="equip"][data-category="shirt"][data-id="midnight"]');assert.equal(getState().shirt,'midnight');assert.match($('#player').innerHTML,/#526e9a/);click('[data-action="close"]');});
  await t.test('all four public destinations are playable and explore cosmetic unlocks',()=>{for(const id of ['lobby','gold','neon','roof']){click('.bottom-nav [data-action="hotel"]');click(`[data-action="go-room"][data-room="${id}"]`);frames(80);assert.equal(panel.open,false);assert.ok($('[data-npc]'));assert.equal($$('[data-tile]').length,64);}assert.ok(getState().unlocked.includes('explore'));});
  await t.test('physical exits connect to the gallery and its walkable lift doors',()=>{const ex=$('[data-exit]');event(ex,'pointerdown',{clientX:100,clientY:100,pointerType:'mouse'});event(ex,'pointerup',{clientX:100,clientY:100,pointerType:'mouse'});frames(200);assert.equal(panel.open,false);assert.equal($('#room-name').textContent,'The Gallery & Lifts');assert.equal($$('[data-portal]').length,5);const door=$('[data-portal="roof"]');event(door,'keydown',{key:'Enter'});frames(400);assert.equal($('#room-name').textContent,'The Rooftop Club');});
@@ -110,7 +120,7 @@ test('complete playable prototype DOM flow',async t=>{
   const credits=getState().credits,random=Math.random;Math.random=()=>.99;click('[data-action="spin"]');frames(100);Math.random=random;
   assert.equal(getState().credits,credits,'a losing free spin costs nothing');assert.equal(getState().freeSpinsUsed['nova-20'],1);
   assert.match($('.slot-message').textContent,/19 free spins left/);assert.match($('[data-action="spin"]').textContent,/FREE SPIN · 19 LEFT/);
-  click('[data-action="spins-stop"]');assert.match($('[data-action="spin"]').textContent,/SPIN · 25 CREDITS/);assert.equal($('.free-spin-banner'),null);
+  click('[data-action="spins-stop"]');assert.match($('[data-action="spin"]').textContent,/SPIN · 75 CREDITS/);assert.equal($('.free-spin-banner'),null);
   click('[data-action="close"]');
   send('use my nova spins on grand sevens');frames(200);
   assert.equal(panel.open,false,'no cabinet opens for the wrong game');
@@ -240,12 +250,12 @@ test('complete playable prototype DOM flow',async t=>{
   assert.equal($$('#talk-cards input, #talk-cards form').length,0,'read-only: no form');
   click('[data-action="talk-chip"][data-message="Set a limit"]');frames(200);
   assert.match($('#talk-cards').textContent,/Daily loss limit/);
-  click('#talk-cards [data-action="set-limit"][data-amount="1000"]');assert.equal(getState().lossLimit,1000);
-  click('#talk-cards [data-action="set-limit"][data-amount="250"]');assert.equal(getState().lossLimit,250,'lowering is immediate');
-  assert.equal($('#talk-cards [data-amount="250"]').getAttribute('aria-pressed'),'true');
-  click('#talk-cards [data-action="set-limit"][data-amount="1000"]');
-  assert.equal(getState().lossLimit,250,'raising waits');assert.equal(getState().pendingLossLimit.amount,1000);
-  assert.match($('#talk-cards').textContent,/Pending change1,000 credits from/);
+  click('#talk-cards [data-action="set-limit"][data-amount="1500"]');assert.equal(getState().lossLimit,1500);
+  click('#talk-cards [data-action="set-limit"][data-amount="300"]');assert.equal(getState().lossLimit,300,'lowering is immediate');
+  assert.equal($('#talk-cards [data-amount="300"]').getAttribute('aria-pressed'),'true');
+  click('#talk-cards [data-action="set-limit"][data-amount="1500"]');
+  assert.equal(getState().lossLimit,300,'raising waits');assert.equal(getState().pendingLossLimit.amount,1500);
+  assert.match($('#talk-cards').textContent,/Pending change1,500 credits from/);
   click('[data-action="talk-close"]');
  });
  await t.test('NW-175: Take a break and Self-exclusion persist and switch play off',()=>{

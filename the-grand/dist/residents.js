@@ -1,5 +1,5 @@
 import {RESIDENTS,STAFF} from './characters.js';
-import {ROOMS,GALLERY_DOORS,blocked,pathfind,approach,spin} from './engine.js';
+import {ROOMS,GALLERY_DOORS,blocked,pathfind,approach,spin,SPIN_COST} from './engine.js';
 
 const tile=a=>[Math.floor(a.x),Math.floor(a.y)];
 const distance=(a,b)=>Math.hypot(a.x-b.x,a.y-b.y);
@@ -24,7 +24,7 @@ export class HotelResidents{
  busyAt(a,x,y){return this.inRoom(a.room).some(b=>b.id!==a.id&&(Math.floor(b.x)===x&&Math.floor(b.y)===y||b.goal?.x===x&&b.goal?.y===y));}
  route(a,x,y,action='idle',extra={}){if(!extra.shared&&this.busyAt(a,x,y))return false;const path=pathfind(tile(a),[x,y],this.objects(a));if(path===null)return false;a.path=[{x:Math.floor(a.x)+.5,y:Math.floor(a.y)+.5},...path.map(([x,y])=>({x:x+.5,y:y+.5}))];a.goal={x,y,action,...extra};a.mode='walking';return true;}
  wander(a,action='idle'){for(let attempt=0;attempt<20;attempt++){const x=1+Math.floor(this.rng()*6),y=1+Math.floor(this.rng()*6);if(Math.hypot(x+.5-a.x,y+.5-a.y)>.6&&this.route(a,x,y,action))return true;}return false;}
- bet(a){if(a.credits<25||this.time-a.lastBet<22)return false;const machines=this.objects(a).filter(o=>o.type==='machine');for(const obj of machines){const key=`${a.room}:${obj.id}`;if(this.claims.has(key))continue;const near=approach(a,obj,this.objects(a));if(near&&this.route(a,...near.target,'betting',{machine:obj.id,game:obj.game||'gold'})){this.claims.set(key,a.id);return true;}}return false;}
+ bet(a){if(a.credits<SPIN_COST||this.time-a.lastBet<22)return false;const machines=this.objects(a).filter(o=>o.type==='machine');for(const obj of machines){const key=`${a.room}:${obj.id}`;if(this.claims.has(key))continue;const near=approach(a,obj,this.objects(a));if(near&&this.route(a,...near.target,'betting',{machine:obj.id,game:obj.game||'gold'})){this.claims.set(key,a.id);return true;}}return false;}
  converse(a){const peers=this.inRoom(a.room).filter(b=>b.id!==a.id&&b.mode==='idle'&&distance(a,b)<4.5).sort((x,y)=>distance(a,x)-distance(a,y));for(const b of peers){if(distance(a,b)<1.65){this.startConversation(a,b);return true;}for(const [dx,dy]of [[1,0],[0,1],[-1,0],[0,-1]]){const [x,y]=tile(b);if(this.route(a,x+dx,y+dy,'talking',{partner:b.id})){b.until=this.time+12;return true;}}}return false;}
  startConversation(a,b){if(!b||b.room!==a.room||b.partner==='player'||b.mode!=='idle'&&b.partner!==a.id){this.release(a);return;}this.unclaim(a);this.unclaim(b);for(const [who,other]of [[a,b],[b,a]]){who.mode='talking';who.path=[];who.goal=null;who.partner=other.id;who.until=this.time+8;}const topic=b.topics[(b.decisions+a.decisions)%b.topics.length],subject=topic.label.replace(/^Your /,'your ').replace(/\?$/,'').toLowerCase();const lead=a.hobby==='skate'?'Quick question':a.hobby==='sax'?'Before the next tune':a.hobby==='debate'?'One question':'I was wondering';this.say(a,`${lead}, ${b.name}: tell me about ${subject}.`,b);this.pending.push({at:this.time+2.5,from:b.id,to:a.id,text:topic.reply});}
  activity(a){const goal=a.goal;a.goal=null;if(!goal){this.release(a);return;}a.mode=goal.action;a.until=this.time+4+this.rng()*3;
@@ -52,7 +52,7 @@ export class HotelResidents{
    if(this.time<a.until)continue;
    if(a.mode==='betting'){const bot={credits:a.credits,spins:a.rounds,wins:a.wins},outcome=spin(bot,a.game,this.rng);a.credits=bot.credits;a.rounds=bot.spins;a.wins=bot.wins;a.sessionRounds++;a.lastBet=this.time;
     if(a.sessionRounds===1)this.say(a,outcome?.net>0?'A small virtual win. Then I’m finding a coffee.':'One fictional round. The conversation is better.');
-    if(a.sessionRounds<2&&a.credits>=25){a.until=this.time+3;continue;}this.release(a);a.mode='resting';a.until=this.time+7;continue;}
+    if(a.sessionRounds<2&&a.credits>=SPIN_COST){a.until=this.time+3;continue;}this.release(a);a.mode='resting';a.until=this.time+7;continue;}
    if(a.mode==='talking'){const b=this.get(a.partner);if(b?.partner===a.id)this.release(b);}
    this.unclaim(a);a.partner=null;this.decide(a);
   }

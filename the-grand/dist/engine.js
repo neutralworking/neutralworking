@@ -81,7 +81,18 @@ export const PAYTABLE=[
 export const RTP=PAYTABLE.reduce((sum,t)=>sum+t.probability*t.multiplier,0); // 0.95
 export const HIT_RATE=PAYTABLE.reduce((sum,t)=>sum+t.probability,0); // 0.185
 // Free top-ups only when the player is nearly out, so the balance still means something.
-export const REFILL_BELOW=BET*4, REFILL_AMOUNT=1000;
+// Three lines, each staked at BET: a spin costs SPIN_COST. Lines are independent rolls of the same paytable,
+// so the return per line (and per spin) stays RTP.
+export const LINES=3, SPIN_COST=BET*LINES;
+// Exact per-spin odds over LINES independent lines: the distribution of the total multiplier.
+const LINE_OUTCOMES=[...PAYTABLE.map(t=>({p:t.probability,m:t.multiplier})),{p:1-HIT_RATE,m:0}];
+export function spinDistribution(lines=LINES){let d=new Map([[0,1]]);for(let i=0;i<lines;i++){const n=new Map();for(const [m,p] of d)for(const o of LINE_OUTCOMES)n.set(m+o.m,(n.get(m+o.m)||0)+p*o.p);d=n;}return d;}
+const share=(test,lines=LINES)=>[...spinDistribution(lines)].filter(([m])=>test(m,lines)).reduce((a,[,p])=>a+p,0);
+export const SPIN_ANY_LINE=share(m=>m>0);            // at least one line pays (≈ 0.46)
+export const SPIN_AHEAD=share((m,l)=>m>l);            // the spin returns more than it cost
+export const SPIN_DISGUISED_LOSS=share((m,l)=>m>0&&m<=l); // a line pays, but the spin still loses (or breaks even)
+// Free top-ups only when the player is nearly out (four spins' worth), so the balance still means something.
+export const REFILL_BELOW=SPIN_COST*4, REFILL_AMOUNT=1000;
 export const canRefill=s=>s.credits<REFILL_BELOW;
 export function refill(s){if(!canRefill(s))return false;s.credits+=REFILL_AMOUNT;return true;}
 const pick=(list,rng)=>list[Math.min(list.length-1,Math.floor(rng()*list.length))];
@@ -99,8 +110,17 @@ function losingFaces(symbols,rng){
  const c=pick(symbols.filter(x=>!(a===b&&x===a)&&!(pairs&&x===pair)),rng);
  return [a,b,c];
 }
-export function spin(s,game,rng=Math.random,bet=BET){if(s.credits<bet)return null;const symbols=SYMBOLS[game]||SYMBOLS.gold;const r=rng();let cumulative=0,tier=null;for(const t of PAYTABLE){cumulative+=t.probability;if(r<cumulative){tier=t;break;}}const result=tier?faces(tier,symbols,rng):losingFaces(symbols,rng),payout=tier?bet*tier.multiplier:0;s.credits=s.credits-bet+payout;s.spins++;if(payout>bet)s.wins++;return {symbols:result,payout,bet,net:payout-bet,tier:tier?.id||null};}
-export function paytableLines(game){const symbols=SYMBOLS[game]||SYMBOLS.gold,name=i=>SYMBOL_NAMES[symbols[i]];return PAYTABLE.map(t=>`${t.kind==='three'?'Three':'Two'} ${name(t.symbol)} · ${t.multiplier}× · ${+(t.probability*100).toFixed(1)}%`);}
+// One line: roll the paytable, then draw faces that show that outcome.
+function rollLine(symbols,rng){const r=rng();let cumulative=0,tier=null;for(const t of PAYTABLE){cumulative+=t.probability;if(r<cumulative){tier=t;break;}}return {symbols:tier?faces(tier,symbols,rng):losingFaces(symbols,rng),multiplier:tier?tier.multiplier:0,tier:tier?.id||null};}
+// A spin plays `lines` lines at `lineBet` each on a 3×3 grid (rows top, middle, bottom). With one line (free spins),
+// only the middle row plays; the other rows are drawn as non-paying faces. `disguisedLoss` marks a spin where a
+// line paid but the spin as a whole still lost or broke even: the app never celebrates those.
+export function spin(s,game,rng=Math.random,lineBet=BET,lines=LINES){const cost=lineBet*lines;if(s.credits<cost)return null;const symbols=SYMBOLS[game]||SYMBOLS.gold;
+ const active=lines===1?[1]:[0,1,2].slice(0,lines),rows=[0,1,2].map(r=>active.includes(r)?{...rollLine(symbols,rng),active:true}:{symbols:losingFaces(symbols,rng),multiplier:0,tier:null,active:false});
+ const out=rows.map(r=>({symbols:r.symbols,payout:lineBet*r.multiplier,tier:r.tier,active:r.active})),payout=out.reduce((n,r)=>n+r.payout,0);
+ s.credits=s.credits-cost+payout;s.spins++;if(payout>cost)s.wins++;
+ return {rows:out,symbols:out[1].symbols,payout,bet:cost,lineBet,lines,net:payout-cost,tier:out[1].tier,linesPaid:out.filter(r=>r.payout).length,disguisedLoss:payout>0&&payout<=cost};}
+export function paytableLines(game){const symbols=SYMBOLS[game]||SYMBOLS.gold,name=i=>SYMBOL_NAMES[symbols[i]];return PAYTABLE.map(t=>`${t.kind==='three'?'Three':'Two'} ${name(t.symbol)} · ${t.multiplier}× the line stake · ${+(t.probability*100).toFixed(1)}% per line`);}
 export function loadState(raw){const d=freshState();try{const s=JSON.parse(raw);if(s?.version!==1)return d;for(const k of ['spins','wins','social','decorated','funded'])if(Number.isFinite(s[k])&&s[k]>=0)d[k]=Math.floor(s[k]);if(Number.isFinite(s.credits)&&s.credits>=0)d.credits=Math.floor(s.credits);for(const k of ['name','theme','floor','favourite','joystick'])if(typeof s[k]==='string')d[k]=s[k].slice(0,30);for(const k of Object.keys(COSMETICS))if(COSMETICS[k].some(c=>c.id===s[k]))d[k]=s[k];d.visited=Array.isArray(s.visited)?[...new Set(s.visited.filter(v=>ROOMS[v]))]:[];d.unlocked=Array.isArray(s.unlocked)?s.unlocked.filter(a=>ACHIEVEMENTS.some(b=>b.id===a)):[];d.sound=!!s.sound;if(SKIN_TONES.includes(s.skin))d.skin=s.skin;if(PRESENTATIONS.some(x=>x.id===s.presentation))d.presentation=s.presentation;if(HAIR_STYLES.some(x=>x.id===s.hairStyle))d.hairStyle=s.hairStyle;d.owned=Array.isArray(s.owned)?[...new Set(s.owned.filter(id=>STORE_ITEMS.some(c=>c.id===id)))]:[];d.metResidents=Array.isArray(s.metResidents)?[...new Set(s.metResidents.filter(id=>Number.isInteger(id)&&id>=0&&id<20))]:[];if(s.friendship&&typeof s.friendship==='object')for(const id of d.metResidents)if(Number.isFinite(s.friendship[id]))d.friendship[id]=Math.max(0,Math.min(999,Math.floor(s.friendship[id])));if(Number.isFinite(s.purchases)&&s.purchases>=0)d.purchases=Math.floor(s.purchases);
  d.socialProgress=loadSocial(s.socialProgress);
  // First-run concierge beat: done once dismissed, or for older saves that already said hello.
