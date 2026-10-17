@@ -165,7 +165,9 @@ Cards render from data, never from persona text. Persona text is the one-line fr
 ### 4.4 Hollis, the Cashier (lobby, cashier window)
 **Intents:** `depositMethods`, `withdrawalMethods`, `processingTimes`, `fees`, `limits` (including player-set limits), `verification` (why and when KYC is required), `pendingWithdrawal`, `reverseWithdrawal` (state the rule only), `setLimit` (opens safer-play limits).
 
-**Rules:** read-only. `open-cashier-info` never shows a payment form. She never says "deposit now", never links deposits to offers, and answers "how do I deposit" with the method facts only. If `reversalAllowed` is false, she says so plainly; if true, she still doesn't encourage it.
+**Rules:** read-only. `open-cashier-info` never shows a payment form.
+
+**As built (NW-180):** `setLimit` opens a working daily loss limit on paid rounds (`open-safer-play {view:'limits'}`): lowering applies immediately, raising or removing waits 24 hours, reaching it stops paid play for the day and sets `limitsReached`. Fees the data doesn't list are reported as "no fee is listed", never "free". Card-like numbers get a request not to share details and are never echoed. Offer questions get "I only handle banking rules"; deposits are never suggested. She never says "deposit now", never links deposits to offers, and answers "how do I deposit" with the method facts only. If `reversalAllowed` is false, she says so plainly; if true, she still doesn't encourage it.
 
 ### 4.5 Pip, the Spin Attendant (Neon Arcade)
 **Intents:** `whatSpins`, `whichGames`, `spinValue`, `expiry`, `useSpins` (opens the eligible game with spins applied, simulated in the prototype), `spinWagering`, `maxWin`, `noThanks`.

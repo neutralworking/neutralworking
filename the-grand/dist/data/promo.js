@@ -15,6 +15,7 @@
 // injectable clock (anchored at load). ApiData (NW-181) will implement the same interface behind a server-side proxy.
 
 import { standingFor, standingsWith } from './competitions.js';
+import { limitReached } from './limits.js';
 
 export const TERMS_PAGE = 'terms.html';
 export const SECTIONS = ['general', 'bonus', 'competition', 'free_spins', 'banking', 'responsible_gambling', 'privacy'];
@@ -124,7 +125,7 @@ export async function loadFixtures(base, fetchImpl = globalThis.fetch) {
 export function playerFromState(state, now = Date.now()) {
   return {
     id: 'local', ageVerified: true, // the prototype is 18+ on entry
-    selfExcluded: !!state.selfExcluded, coolingOff: !!(state.coolingOffUntil && now < state.coolingOffUntil), limitsReached: !!state.limitsReached,
+    selfExcluded: !!state.selfExcluded, coolingOff: !!(state.coolingOffUntil && now < state.coolingOffUntil), limitsReached: !!state.limitsReached || limitReached(state, now),
     isNew: !state.funded, country: state.country || undefined, competitions: state.competitions || {}, claimed: state.claimed || {}, bonusLedger: state.bonusLedger || {}, freeSpinsUsed: state.freeSpinsUsed || {},
   };
 }

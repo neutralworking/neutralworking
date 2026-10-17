@@ -227,6 +227,27 @@ test('complete playable prototype DOM flow',async t=>{
  });
  await t.test('earned tokens purchase a boutique cosmetic while preserving the game-credit balance',()=>{click('.store-fab');assert.match($('.style-balance').textContent,/style tokens/);click('[data-action="store-filter"][data-filter="all"]');click('[data-action="shop-item"][data-id="beret"]');const before=getState();assert.equal($('[data-action="purchase-tokens"]').disabled,false);click('[data-action="purchase-tokens"]');const after=getState();assert.equal(after.credits,before.credits);assert.equal(after.socialProgress.tokens,before.socialProgress.tokens-4);assert.equal(after.hat,'beret');assert.ok(after.owned.includes('beret'));click('[data-action="close"]');click('.bottom-nav [data-action="suite"]');});
  await t.test('camera projection keeps the avatar in representative portrait and landscape viewports',()=>{for(const [w,h]of [[375,675],[430,795],[688,948],[909,724],[747,327]]){width=w;height=h;frames(160);const [x,y]=position(),[vx,vy,vw,vh]=world.getAttribute('viewBox').split(/\s/).map(Number);assert.ok(x>vx&&x<vx+vw,`${w} horizontal`);assert.ok(y>vy&&y<vy+vh,`${h} vertical`);assert.ok(y-105>vy,`${h} head`);}});
+// NW-180 runs late: its extra simulated time would otherwise let lobby residents start their first trips before the
+ // lobby population check above (residents travel on a timer).
+ await t.test('NW-180: Hollis at the cashier window gives withdrawal facts with no deposit prompt, and "Set a limit" opens working limits',()=>{
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');frames(40);
+  tapNpc(104);untilTalk();frames(150);
+  assert.equal($('#talk-bar').getAttribute('aria-label'),'Conversation with Hollis');
+  assert.ok(!$$('[data-action="talk-chip"]').some(b=>/deposit/i.test(b.dataset.message)),'deposits are never suggested');
+  click('[data-action="talk-chip"][data-message="How long do withdrawals take?"]');frames(200);
+  assert.match($('#talk-live').textContent,/Withdrawal times\. Card: 1–3 business days; bank transfer: 2–5 business days\./);
+  assert.doesNotMatch($('#talk-cards').innerHTML+$('#talk-live').textContent,/deposit/i,'no deposit prompt in the reply or cards');
+  assert.equal($$('#talk-cards input, #talk-cards form').length,0,'read-only: no form');
+  click('[data-action="talk-chip"][data-message="Set a limit"]');frames(200);
+  assert.match($('#talk-cards').textContent,/Daily loss limit/);
+  click('#talk-cards [data-action="set-limit"][data-amount="1000"]');assert.equal(getState().lossLimit,1000);
+  click('#talk-cards [data-action="set-limit"][data-amount="250"]');assert.equal(getState().lossLimit,250,'lowering is immediate');
+  assert.equal($('#talk-cards [data-amount="250"]').getAttribute('aria-pressed'),'true');
+  click('#talk-cards [data-action="set-limit"][data-amount="1000"]');
+  assert.equal(getState().lossLimit,250,'raising waits');assert.equal(getState().pendingLossLimit.amount,1000);
+  assert.match($('#talk-cards').textContent,/Pending change1,000 credits from/);
+  click('[data-action="talk-close"]');
+ });
  await t.test('NW-175: Take a break and Self-exclusion persist and switch play off',()=>{
   click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');frames(80);
   const persona={opener:()=>({text:'Here if you need me.'}),suggestions:()=>['Help'],reply:()=>({text:'Tools are below.',mood:'warm',action:{type:'open-safer-play'}})};
