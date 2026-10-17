@@ -61,7 +61,10 @@ export class FixtureData {
     if (!offersAllowed(player)) return [];
     const t = this.now();
     return (this._resolved().freeSpins || [])
-      .filter(f => Date.parse(f.expiresAt) > t && (f.remaining ?? f.spins) > 0)
+      // Spins the player has used here come off the offer's remaining count (NW-178).
+      // baseRemaining keeps the offer's own count, so spins.js can recount after a spin without a fresh snapshot.
+      .map(f => ({ ...f, baseRemaining: f.remaining ?? f.spins, remaining: Math.max(0, (f.remaining ?? f.spins) - (player.freeSpinsUsed?.[f.id] || 0)), progress: player.bonusLedger?.[`fs:${f.id}`] || undefined }))
+      .filter(f => Date.parse(f.expiresAt) > t && f.remaining > 0)
       .map(f => ({ ...f, termsRef: withUrl(f.termsRef) }));
   }
   competitionsSync(player = {}) {
@@ -117,6 +120,6 @@ export function playerFromState(state, now = Date.now()) {
   return {
     id: 'local', ageVerified: true, // the prototype is 18+ on entry
     selfExcluded: !!state.selfExcluded, coolingOff: !!(state.coolingOffUntil && now < state.coolingOffUntil), limitsReached: !!state.limitsReached,
-    isNew: !state.funded, country: state.country || undefined, competitions: state.competitions || {}, claimed: state.claimed || {}, bonusLedger: state.bonusLedger || {},
+    isNew: !state.funded, country: state.country || undefined, competitions: state.competitions || {}, claimed: state.claimed || {}, bonusLedger: state.bonusLedger || {}, freeSpinsUsed: state.freeSpinsUsed || {},
   };
 }

@@ -170,6 +170,8 @@ Cards render from data, never from persona text. Persona text is the one-line fr
 
 **Rules:** same as Celeste. Never describes spins as "free money". Always shows spin value, wagering and max win on the card.
 
+**As built (NW-178):** `useSpins` returns `open-claim {kind:'free_spins', id, game}`, which the app turns into the cabinet in free-spin mode (not a claim card); an offer valid on several games shows a "Use on <game>" button per game. A free spin plays at `spinValue` without spending credits; winnings are bonus credits, capped at `maxWin` across the offer, with wagering = winnings × multiplier tracked under `fs:<offer id>`. Free spins don't count towards other bonuses' wagering and don't feed the loss-streak pause.
+
 ## 5. Wellbeing gate (shared, runs before every functional reply)
 
 `dist/wellbeing.js` exports `gate(text, mem, playerCtx) → { block: boolean, reason?: string, reply?: string, action?: Action }`.

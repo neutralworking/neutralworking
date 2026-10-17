@@ -52,14 +52,17 @@ export function noteWager(state, game, stake) {
 
 // Validate saved claims (engine.loadState).
 export function loadClaims(s) {
-  const claimed = {}, bonusLedger = {};
+  const claimed = {}, bonusLedger = {}, freeSpinsUsed = {};
   const id = k => typeof k === 'string' && /^[\w-]{1,60}$/.test(k);
   if (s?.claimed && typeof s.claimed === 'object') for (const [k, v] of Object.entries(s.claimed)) if (id(k) && typeof v === 'string' && !Number.isNaN(Date.parse(v))) claimed[k] = v;
   if (s?.bonusLedger && typeof s.bonusLedger === 'object') for (const [k, e] of Object.entries(s.bonusLedger)) {
-    if (!id(k) || !claimed[k] || !e || typeof e !== 'object') continue;
+    // Claimed bonuses use their id; free-spin winnings use fs:<offer id> and need no claim (NW-178).
+    const spinKey = k.startsWith('fs:') && id(k.slice(3));
+    if (!e || typeof e !== 'object' || !(spinKey || (id(k) && claimed[k]))) continue;
     const n = x => (Number.isFinite(x) && x >= 0 ? Math.floor(x) : 0);
     const target = n(e.target);
     bonusLedger[k] = {granted: n(e.granted), target, wagered: Math.min(target, n(e.wagered)), games: Array.isArray(e.games) ? e.games.filter(g => typeof g === 'string').slice(0, 10).map(g => g.slice(0, 40)) : [], claimedAt: n(e.claimedAt)};
   }
-  return {claimed, bonusLedger};
+  if (s?.freeSpinsUsed && typeof s.freeSpinsUsed === 'object') for (const [k, v] of Object.entries(s.freeSpinsUsed)) if (id(k) && Number.isFinite(v) && v > 0) freeSpinsUsed[k] = Math.min(1000, Math.floor(v));
+  return {claimed, bonusLedger, freeSpinsUsed};
 }

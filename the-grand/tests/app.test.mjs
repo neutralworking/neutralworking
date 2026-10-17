@@ -97,6 +97,28 @@ test('complete playable prototype DOM flow',async t=>{
   assert.ok(!$$('[data-action="talk-chip"]').some(b=>/bonus|claim/i.test(b.dataset.message)),'no offer chips either');
   click('[data-action="talk-close"]');
  });
+ await t.test('NW-178: Pip in the Arcade shows free spins, opens an eligible cabinet with spins applied, and refuses the wrong game',()=>{
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="neon"]');frames(40);
+  tapNpc(102);untilTalk();frames(150);
+  assert.equal($('#talk-bar').getAttribute('aria-label'),'Conversation with Pip');
+  click('[data-action="talk-chip"][data-message="What spins have I got?"]');frames(200);
+  const cards=$$('#talk-cards .npc-card');assert.equal(cards.length,2);
+  for(const c of cards)for(const row of ['Spins','Spin value','Games','Expires','Wagering','Max win'])assert.match(c.innerHTML,new RegExp(`<dt>${row}</dt>`),row);
+  click('#talk-cards [data-action="spins-use"][data-id="nova-20"]');
+  assert.equal(panel.open,true);assert.match($('#panel-content').textContent,/Nova Nights/);
+  assert.match($('.free-spin-banner').textContent,/20 spins on Nova Nights/);assert.match($('[data-action="spin"]').textContent,/FREE SPIN · 20 LEFT/);
+  const credits=getState().credits,random=Math.random;Math.random=()=>.99;click('[data-action="spin"]');frames(100);Math.random=random;
+  assert.equal(getState().credits,credits,'a losing free spin costs nothing');assert.equal(getState().freeSpinsUsed['nova-20'],1);
+  assert.match($('.slot-message').textContent,/19 free spins left/);assert.match($('[data-action="spin"]').textContent,/FREE SPIN · 19 LEFT/);
+  click('[data-action="spins-stop"]');assert.match($('[data-action="spin"]').textContent,/SPIN · 25 CREDITS/);assert.equal($('.free-spin-banner'),null);
+  click('[data-action="close"]');
+  send('use my nova spins on grand sevens');frames(200);
+  assert.equal(panel.open,false,'no cabinet opens for the wrong game');
+  assert.match($('#talk-live').textContent,/can only be used on Nova Nights/);assert.match($('#talk-cards').innerHTML,/TERMS · FREE SPINS · fs-1/);
+  click('[data-action="talk-chip"][data-message="Use them"]');frames(200);
+  assert.equal(panel.open,true,'"use them" opens the eligible cabinet');assert.match($('[data-action="spin"]').textContent,/FREE SPIN · 19 LEFT/);
+  click('[data-action="close"]');click('[data-action="talk-close"]');
+ });
  await t.test('NW-175: a distress line gets a caring reply and safer-play tools, and offers stay off afterwards',()=>{
   const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra.',value:{percent:50,cap:{amount:200,currency:'credits'}},expiresAt:'2026-10-18T22:00:00Z',termsRef:null,claimable:true}],terms:{}};
   let calls=0;const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:()=>{calls++;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};

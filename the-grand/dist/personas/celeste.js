@@ -26,7 +26,7 @@ const KIND_WORDS = {
 const GENERIC = new Set('a an the this that it one bonus bonuses offer offers deal deals promo i me my you your what which how does do is are can for to of on and or please claim take it why when explain tell about more wagering playthrough end ends expire'.split(' '));
 const wordsOf = text => String(text).toLowerCase().replace(/top[- ]up/g, 'topup').replace(/no[- ]deposit/g, 'nodeposit').match(/[a-z0-9]+/g)?.filter(w => !GENERIC.has(w)).map(w => (w.length > 4 ? w.replace(/s$/, '') : w)).filter(w => !GENERIC.has(w)) || [];
 const keysFor = b => new Set([...wordsOf(b.title), ...wordsOf(b.id.replace(/-/g, ' ')), ...(KIND_WORDS[b.kind] || [])]);
-const REFERS_BACK = /\b(it|that|this|that one|this one|the one|same one)\b/i;
+export const REFERS_BACK = /\b(it|that|this|them|those|these|that one|this one|the one|same one)\b/i;
 
 // → {bonus} when the text (or the conversation) points at one bonus, {many} when it could be several.
 export function matchBonus(text, bonuses, focusId = null) {

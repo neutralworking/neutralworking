@@ -36,7 +36,10 @@ const RENDER = {
     if (!data) return [unavailable(isSpins ? 'FREE SPINS' : 'BONUS', isSpins ? 'Free spins' : 'Bonuses')];
     if (!items.length) return [card({ kind: isSpins ? 'FREE SPINS' : 'BONUS', title: isSpins ? 'No free spins right now' : 'No bonuses right now' })];
     return items.map(x => isSpins
-      ? card({ kind: 'FREE SPINS', title: x.title, termsRef: x.termsRef, rows: [['Spins', x.remaining ?? x.spins], ['Spin value', money(x.spinValue)], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Wagering', x.wagering ? `${x.wagering.multiplier}×` : 'None'], ['Max win', money(x.maxWin) || 'No cap']] })
+      ? card({ kind: 'FREE SPINS', title: x.title, termsRef: x.termsRef,
+        rows: [['Spins', x.remaining ?? x.spins], ['Spin value', money(x.spinValue)], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× winnings` : 'None'], ['Max win', money(x.maxWin) || 'No cap'],
+          ['Won so far', x.progress ? `${x.progress.granted.toLocaleString('en-GB')} bonus credits` : ''], ['Wagering progress', x.progress?.target ? `${x.progress.wagered.toLocaleString('en-GB')} of ${x.progress.target.toLocaleString('en-GB')} credits` : '']],
+        extra: x.claimable && (x.remaining ?? x.spins) > 0 ? `<div class="card-actions">${(x.eligibleGames || []).map(g => `<button type="button" data-action="spins-use" data-id="${esc(x.id)}" data-game="${esc(g)}">Use on ${esc(g)}</button>`).join('')}</div>` : '' })
       // No minimum-deposit row: a deposit requirement is only described when the player asks (spec §4.1).
       : card({ kind: 'BONUS', title: x.title, body: x.summary, termsRef: x.termsRef,
         rows: [['Value', pct(x.value)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× ${x.wagering.appliesTo}` : 'None'], ['Max win', money(x.maxWin) || 'No cap'], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)],
