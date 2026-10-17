@@ -6,6 +6,7 @@ import fs from 'node:fs/promises';
 import {parseHTML} from 'linkedom';
 import {project} from '../dist/art.js';
 import {SAVE_KEY} from '../dist/engine.js';
+import {FixtureData,assembleFixtures} from '../dist/data/promo.js';
 
 test('complete playable prototype DOM flow',async t=>{
  const {document,window}=parseHTML(await fs.readFile(new URL('../dist/index.html',import.meta.url),'utf8'));
@@ -84,6 +85,35 @@ test('complete playable prototype DOM flow',async t=>{
   assert.doesNotMatch($('#talk-cards').innerHTML,/Weekend reload/);
   send('Any bonuses?');frames(160);
   assert.equal(calls,1);assert.match($('#talk-live').textContent,/can't show offers/);assert.doesNotMatch($('#talk-cards').innerHTML,/Weekend reload/,'offer cards are stripped for the rest of the session');
+  click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
+ });
+ await t.test('NW-176: a Terms link routes to Mr Penrose at his gallery desk, who quotes clauses verbatim',async()=>{
+  const read=async f=>JSON.parse(await fs.readFile(new URL(`../dist/data/fixtures/${f}`,import.meta.url),'utf8'));
+  const fx=assembleFixtures({terms:await read('terms.json'),bonuses:await read('bonuses.json'),freeSpins:await read('free-spins.json'),competitions:await read('competitions.json'),records:await read('records.json'),banking:await read('banking.json')});
+  const snap=new FixtureData(fx).snapshot({id:'p',ageVerified:true}),comp=[...snap.competitions.live,...snap.competitions.upcoming][0];
+  const clauseOf=ref=>snap.terms[ref.section].find(c=>c.clauseId===ref.clauseId);
+  const persona={opener:()=>({text:'Evening. Competitions are my thing.'}),suggestions:()=>['What is on?'],reply:()=>({text:'Here is what is on.',mood:'warm',action:{type:'show-competitions'}})};
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&x!=='100'));
+  window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
+  tapNpc(id);untilTalk();click('[data-action="talk-chip"][data-message="What is on?"]');frames(160);
+  click('#talk-cards .card-terms');
+  assert.ok($('#talk-cards [data-action="ask-penrose"]'),'a clause card shown elsewhere offers Mr Penrose');
+  click('#talk-cards [data-action="ask-penrose"]');untilTalk();
+  assert.equal($('#room-name').textContent,'The Gallery & Lifts');
+  assert.equal($('#talk-bar').getAttribute('aria-label'),'Conversation with Mr Penrose');
+  assert.match($('#talk-bar .talk-note').textContent,/Hotel staff/);
+  assert.match(bubbleText(),new RegExp(comp.termsRef.clauseId),'he opens on the clause he was sent');
+  assert.ok($('#talk-cards').innerHTML.includes(clauseOf(comp.termsRef).text.replace(/'/g,'&#39;')),'the clause, verbatim');
+  assert.equal($('#talk-cards [data-action="ask-penrose"]'),null,'his own cards do not link back to him');
+  send("what's the wagering on free spins?");frames(200);
+  const cards=$('#talk-cards').innerHTML;
+  assert.ok(cards.includes(clauseOf({section:'free_spins',clauseId:'fs-2'}).text.replace(/'/g,'&#39;')));
+  assert.match(cards,/href="terms\.html#fs-2"/);assert.match(cards,/updated 1 Oct 2026/);
+  send('bonus terms');frames(200);
+  assert.ok($('[data-action="talk-chip"][data-message="Bonus wagering"]'),'section headings offered as chips');
+  click('[data-action="talk-chip"][data-message="Bonus expiry"]');frames(200);
+  assert.match($('#talk-cards').innerHTML,/Unclaimed bonuses expire/);
+  assert.doesNotMatch($('#guest-list').textContent,/Mr Penrose/,'staff are not listed as residents');
   click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
  });
  await t.test('Sofia, the resident con artist, has her own brain and will not visit without The Grand Reserve',()=>{
