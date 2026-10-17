@@ -73,6 +73,30 @@ test('complete playable prototype DOM flow',async t=>{
   click('#talk-cards .card-terms');assert.equal($$('#talk-cards .npc-card').length,2,'Terms link adds the clause card');assert.match($('#talk-cards').innerHTML,/must be wagered 30 times/);
   click('[data-action="talk-close"]');window.__grand.unregisterPersona(id);window.__grand.setPromoData(null);
  });
+ await t.test('NW-177: Celeste at the concierge desk lists open bonuses, claims one (simulated credits), and backs off after "no thanks"',async()=>{
+  const read=async f=>JSON.parse(await fs.readFile(new URL(`../dist/data/fixtures/${f}`,import.meta.url),'utf8'));
+  window.__grand.usePromoFixtures(assembleFixtures({terms:await read('terms.json'),bonuses:await read('bonuses.json'),freeSpins:await read('free-spins.json'),competitions:await read('competitions.json'),records:await read('records.json'),banking:await read('banking.json')}));
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');frames(40);
+  tapNpc(101);untilTalk();frames(150);
+  assert.equal($('#talk-bar').getAttribute('aria-label'),'Conversation with Celeste');
+  assert.match(bubbleText(),/offers? open to you tonight/,'one unprompted mention');
+  const open=window.__grand.promoData.bonuses.filter(b=>b.claimable);
+  click('[data-action="talk-chip"][data-message="Any bonuses?"]');frames(200);
+  assert.equal($$('#talk-cards .npc-card').length,open.length);
+  for(const card of $$('#talk-cards .npc-card')){assert.match(card.innerHTML,/Wagering/);assert.match(card.innerHTML,/Expires/);assert.match(card.innerHTML,/Max win/);assert.ok(card.querySelector('.card-terms'));assert.doesNotMatch(card.innerHTML,/Min deposit/);}
+  const credits=getState().credits;
+  click('#talk-cards [data-action="claim-open"][data-id="weekend-reload"]');
+  assert.match($('#talk-cards').textContent,/200 fictional bonus credits/);
+  click('[data-action="claim-confirm"][data-id="weekend-reload"]');frames(5);
+  assert.equal(getState().credits,credits+200,'fictional bonus credits granted');
+  assert.equal(getState().bonusLedger['weekend-reload'].target,6000);
+  assert.match($('#talk-cards').textContent,/Claimed/);assert.match($('#talk-cards').textContent,/0 of 6,000 credits/);
+  send('no thanks');frames(200);
+  click('[data-action="talk-close"]');frames(40);tapNpc(101);untilTalk();frames(150);
+  assert.doesNotMatch(bubbleText(),/offer/,'no mention after "no thanks"');
+  assert.ok(!$$('[data-action="talk-chip"]').some(b=>/bonus|claim/i.test(b.dataset.message)),'no offer chips either');
+  click('[data-action="talk-close"]');
+ });
  await t.test('NW-175: a distress line gets a caring reply and safer-play tools, and offers stay off afterwards',()=>{
   const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra.',value:{percent:50,cap:{amount:200,currency:'credits'}},expiresAt:'2026-10-18T22:00:00Z',termsRef:null,claimable:true}],terms:{}};
   let calls=0;const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:()=>{calls++;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};
@@ -145,7 +169,7 @@ test('complete playable prototype DOM flow',async t=>{
  await t.test('player can be a woman, choose a skin tone and hairstyle for free',()=>{click('.bottom-nav [data-action="avatar"]');const credits=getState().credits;click('[data-action="appearance"][data-field="presentation"][data-value="woman"]');click('[data-action="appearance"][data-field="skin"][data-value="#4e3026"]');click('[data-action="appearance"][data-field="hairStyle"][data-value="afro"]');assert.equal(getState().presentation,'woman');assert.equal(getState().skin,'#4e3026');assert.equal(getState().hairStyle,'afro');assert.equal(getState().credits,credits);assert.ok($('#player [data-presentation="woman"]'));assert.ok($('#player [data-skin="#4e3026"]'));assert.ok($('.wardrobe-preview [data-hair-style="afro"]'));click('[data-action="close"]');});
  await t.test('store try-on, purchase and re-equipping save ownership without double charging',()=>{click('.store-fab');assert.equal($$('.store-item').length,13);click('[data-action="shop-item"][data-id="cobalt"]');assert.ok($('.store-tryon [data-presentation="woman"]'));const credits=getState().credits;click('[data-action="purchase"]');assert.equal(getState().credits,credits-220);assert.ok(getState().owned.includes('cobalt'));assert.equal(getState().shirt,'cobalt');assert.match($('#player').innerHTML,/#5e80b8/);click('[data-action="store-equip"]');assert.equal(getState().credits,credits-220);click('.store-back');click('[data-action="store-filter"][data-filter="owned"]');assert.equal($$('.store-item').length,1);click('[data-action="close"]');});
  await t.test('all 20 profiles have individual topics and remember meeting the player',()=>{click('.people-fab');assert.equal($$('.resident-card').length,20);click('[data-action="guest"][data-index="15"]');assert.match($('#panel-content').textContent,/saxophonist/i);click('[data-action="resident-topic"][data-topic="1"]');assert.match($('#chat-log').textContent,/Shirley Chisholm/);assert.ok(getState().metResidents.includes(15));const first=getState().friendship[15];click('[data-action="resident-topic"][data-topic="0"]');assert.match($('#chat-log').textContent,/melody/);assert.ok(getState().friendship[15]>first);click('[data-action="close"]');});
- await t.test('lobby boutique exists physically and public rooms show persistent resident states',()=>{click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');assert.ok($('[data-object="boutique"]'));assert.equal($$('[data-npc]').length,5);assert.ok($('[data-npc] .resident-state'));tapObject('boutique');frames(200);assert.match($('#panel-content').textContent,/finishing touch/);click('[data-action="close"]');click('.bottom-nav [data-action="suite"]');});
+ await t.test('lobby boutique exists physically and public rooms show persistent resident states',()=>{click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');assert.ok($('[data-object="boutique"]'));assert.equal($$('[data-npc]').filter(n=>Number(n.dataset.npc)<100).length,5,'five residents');assert.ok($('[data-npc="101"]'),'and Celeste at the concierge desk');assert.ok($('[data-npc] .resident-state'));tapObject('boutique');frames(200);assert.match($('#panel-content').textContent,/finishing touch/);click('[data-action="close"]');click('.bottom-nav [data-action="suite"]');});
  await t.test('Kit’s complete in-scene story guides you to Ada and the physical poster, remembers a choice and rewards once',()=>{
   click('.journal-button');assert.equal($$('.story-card').length,2);click('[data-action="story-find"][data-id="kit"]');frames(450);assert.match($('#talk-bar').textContent,/Kit/);click('[data-story-action="kit-start"]');frames(160);assert.equal(getState().socialProgress.stories.kit.stage,1);assert.match($('#talk-live').textContent,/Ada/);click('[data-action="talk-close"]');
   click('.journal-button');click('[data-action="story-find"][data-id="kit"]');frames(450);assert.match($('#talk-bar').textContent,/Ada/);click('[data-story-action="kit-advice"]');frames(160);assert.equal(getState().socialProgress.stories.kit.stage,2);click('[data-action="talk-close"]');

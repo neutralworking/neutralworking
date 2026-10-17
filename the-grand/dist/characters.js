@@ -31,6 +31,7 @@ export const RESIDENTS=[
 // runs on a persona in dist/personas/. Ids start at 100 so they never collide with residents.
 export const STAFF=[
  make(100,'Mr Penrose','Mr Ambrose Penrose',61,'hall','man','#e2bf9f','#c3c3bd','crop','#2f3b4a','terms','Clerk of Small Print','Keeps the hotel’s terms at a desk in the Gallery. Reads every clause exactly as written and will not guess how one applies to you.','Penrose, Clerk of Small Print. Which clause can I find for you?',['Every word in its place.','The clause itself is the one that counts.','Version 0.3, and proud of it.'],[['The terms','terms|clause|rule','Ask me about any clause and I’ll show you the wording.']],{staff:true,post:'At the small-print desk',desk:[5,1]}),
+ make(101,'Celeste','Celeste Marchand',34,'lobby','woman','#9a6445','#1d1513','bun','#6e2f3f','bonuses','The Bonus Concierge','Runs the concierge desk in the lobby. Knows every offer the hotel runs and the terms that come with each, and will not tell you which one to pick.','Good evening. How can I help?',['The desk is open all evening.','Every offer comes with its terms. Always.','Ask me anything about the bonuses.'],[['The bonuses','bonus|offer|claim','Ask me what’s open to you, or how one works.']],{staff:true,post:'At the concierge desk',desk:[1,0]}),
 ];
 export const isStaff=id=>STAFF.some(s=>s.id===Number(id));
 // A resident or a member of staff, by id.

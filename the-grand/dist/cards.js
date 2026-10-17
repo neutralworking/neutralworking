@@ -1,4 +1,6 @@
 // Cards for functional NPCs: rendered from data, never from persona text (spec §3.4, §6).
+import { claimGrant, wagerTarget, grantIsSimulatedCap } from './data/claims.js';
+
 // Pure: renderCards(action, data, opts) → [{html, text}]. The talk bar shows the html; the text is
 // mirrored into the aria-live region. `data` is the session snapshot of PromoData (spec §3.3).
 
@@ -35,7 +37,12 @@ const RENDER = {
     if (!items.length) return [card({ kind: isSpins ? 'FREE SPINS' : 'BONUS', title: isSpins ? 'No free spins right now' : 'No bonuses right now' })];
     return items.map(x => isSpins
       ? card({ kind: 'FREE SPINS', title: x.title, termsRef: x.termsRef, rows: [['Spins', x.remaining ?? x.spins], ['Spin value', money(x.spinValue)], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Wagering', x.wagering ? `${x.wagering.multiplier}×` : 'None'], ['Max win', money(x.maxWin) || 'No cap']] })
-      : card({ kind: 'BONUS', title: x.title, body: x.summary, termsRef: x.termsRef, rows: [['Value', pct(x.value)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× ${x.wagering.appliesTo}` : 'None'], ['Min deposit', money(x.minDeposit)], ['Max win', money(x.maxWin) || 'No cap'], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)], ['Status', x.claimedAt ? 'Claimed' : x.claimable ? 'Available' : 'Not available'], ['Why not', x.claimable === false ? (x.notClaimableReason || '') : '']] }));
+      // No minimum-deposit row: a deposit requirement is only described when the player asks (spec §4.1).
+      : card({ kind: 'BONUS', title: x.title, body: x.summary, termsRef: x.termsRef,
+        rows: [['Value', pct(x.value)], ['Wagering', x.wagering ? `${x.wagering.multiplier}× ${x.wagering.appliesTo}` : 'None'], ['Max win', money(x.maxWin) || 'No cap'], ['Games', (x.eligibleGames || []).join(', ')], ['Expires', when(x.expiresAt, o.timeZone)],
+          ['Status', x.claimedAt ? 'Claimed' : x.claimable ? 'Available' : 'Not available'], ['Why not', !x.claimedAt && x.claimable === false ? (x.notClaimableReason || '') : ''],
+          ['Wagering progress', x.progress && x.progress.target ? `${x.progress.wagered.toLocaleString('en-GB')} of ${x.progress.target.toLocaleString('en-GB')} credits` : '']],
+        extra: x.claimable && !x.claimedAt ? `<div class="card-actions"><button type="button" data-action="claim-open" data-id="${esc(x.id)}">Claim (simulated)</button></div>` : '' }));
   },
   'show-competitions'(a, data, o) {
     if (!data?.competitions) return [unavailable('COMPETITION', 'Competitions')];
@@ -86,6 +93,18 @@ const RENDER = {
   'open-safer-play'(a) {
     const extra = '<div class="card-actions"><button type="button" data-action="safer-play" data-tool="limits">Set limits</button><button type="button" data-action="safer-play" data-tool="timeout">Take a break</button><button type="button" data-action="safer-play" data-tool="exclude">Self-exclusion</button></div>';
     return [card({ kind: 'SAFER PLAY', title: 'Look after yourself', body: 'Tools to set limits, take a break, or step away. Support is available any time.', extra, simulated: true })];
+  },
+  // Simulated claim panel (NW-177): what the claim grants, as fictional bonus credits, and the wagering it carries.
+  'open-claim'(a, data) {
+    const x = (data?.bonuses || []).find(b => b.id === a.id);
+    if (!x) return [unavailable('CLAIM', 'This bonus')];
+    if (x.claimedAt) return [card({ kind: 'CLAIM', title: x.title, body: 'Already claimed.', termsRef: x.termsRef })];
+    if (!x.claimable) return [card({ kind: 'CLAIM', title: x.title, body: x.notClaimableReason || 'This bonus can’t be claimed right now.', termsRef: x.termsRef })];
+    const grant = claimGrant(x), target = wagerTarget(x, grant), unit = x.value?.cap?.currency || x.value?.currency || 'credits';
+    const body = grantIsSimulatedCap(x) ? 'Simulated: the qualifying top-up is assumed, so the full amount is added as fictional bonus credits. Nothing is paid.' : 'Simulated: adds fictional bonus credits. Nothing is paid.';
+    return [card({ kind: 'CLAIM', title: x.title, body, termsRef: x.termsRef,
+      rows: [['You get', `${grant.toLocaleString('en-GB')} fictional bonus ${unit}`], ['Wagering', target ? `${target.toLocaleString('en-GB')} ${unit} on ${(x.eligibleGames || []).join(', ') || 'any game'}` : 'None'], ['Max win', money(x.maxWin) || 'No cap']],
+      extra: `<div class="card-actions"><button type="button" class="primary" data-action="claim-confirm" data-id="${esc(x.id)}">Confirm claim</button><button type="button" data-action="claim-cancel">Not now</button></div>` })];
   },
   'opt-in'(a, data) {
     const c = [...(data?.competitions?.live || []), ...(data?.competitions?.upcoming || [])].find(x => x.id === a.competitionId);

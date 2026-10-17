@@ -138,6 +138,8 @@ Cards render from data, never from persona text. Persona text is the one-line fr
 | `notEligible` | "why can't I get the welcome bonus" | Plain reason from data (`claimable:false` reason) | `show-terms` |
 | `noThanks` | "no thanks", "not interested" | Polite close; no follow-up offer this session | — |
 
+**As built (NW-177):** the offer card leaves out the minimum deposit (shown only when the player asks); locked offers are mentioned in the framing line, not carded; asking which is best gets "That's not for me to say."; claim chips carry the action ("Claim Weekend reload").
+
 **Must not:** recommend a bonus as "best" for the player; mention bonuses unprompted more than once per session; describe a bonus as free money; suggest depositing to unlock anything unless the player asks how a deposit bonus works (then state the rule, neutrally).
 
 ### 4.2 Rex, the Tournament Steward (Gold Lounge)
@@ -244,6 +246,6 @@ The gate also applies to Sofia: on a distress signal she drops the act for one l
 1. **Data source for v1 beyond fixtures.** Which promotions/CRM platform would supply bonuses, competitions and free spins, and does it expose eligibility per player? (Affects ticket 9 only.)
 2. **Jurisdiction.** Which market's rules should the copy and gate follow first? This changes bonus wording, required disclosures and age language.
 3. **Records retention.** How far back should records go, and are display names already anonymised upstream?
-4. **Claim flow in the prototype.** Should a simulated claim grant fictional credits (like the funding flow) or only show a confirmation?
+4. ~~**Claim flow in the prototype.**~~ Decided (NW-177): a simulated claim grants fictional bonus credits. Fixed-value bonuses grant their amount; percentage bonuses simulate the qualifying top-up and grant the cap. The wagering requirement (grant × multiplier) is tracked against spins on the bonus's eligible games. Nothing converts or expires automatically yet.
 5. **Names and art.** Keep the working names and placements above, or brief new characters?
 6. **Does Rex need a separate archivist** once records content grows?
