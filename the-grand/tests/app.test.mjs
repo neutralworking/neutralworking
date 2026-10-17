@@ -261,4 +261,24 @@ test('complete playable prototype DOM flow',async t=>{
   click('[data-action="close"]');
  });
  await t.test('keyboard movement and refresh persistence retain complete achieved state',async()=>{tapTile(4,4);frames(180);const before=position();event(window,'keydown',{key:'ArrowRight'});frames(15);event(window,'keyup',{key:'ArrowRight'});assert.notDeepEqual(position(),before);const {loadState}=await import('../dist/engine.js');assert.deepEqual(loadState(storage.get(SAVE_KEY)),getState());});
+ // Bonus round. These run last: the tour trips the wellbeing check, which is session-wide by design.
+ await t.test('bonus: a postcard frames the current room, signed by the player',()=>{
+  click('.bottom-nav [data-action="hotel"]');assert.ok($('[data-action="tour-start"]'),'the directory offers the tour');
+  click('[data-action="postcard"]');
+  const img=$('.postcard-preview');assert.ok(img);const svg=decodeURIComponent(img.getAttribute('src').replace('data:image/svg+xml;charset=utf-8,',''));
+  assert.match(svg,/Greetings from|GREETINGS FROM/);assert.match(svg,/— Alex, Suite 408/);assert.match(svg,/<g id="depth-layer">/,'the room as drawn');assert.doesNotMatch(svg,/<g id="speech-layer">/);
+  assert.ok($('[data-action="postcard-save"]'));click('[data-action="close"]');
+ });
+ await t.test('bonus: The Grand Tour visits every member of staff, demonstrates the wellbeing check, ends on Sofia, and saves nothing',async()=>{
+  window.__grandNoReload=true;const saved=new Map(storage);
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="tour-start"]');
+  const seen=new Set(),kickers=new Set();
+  for(let i=0;i<9000&&!/9 \/ 9/.test($('.tour-kicker')?.textContent||'');i++){frames(1);await null;// let the tour's awaits resume
+  const bar=$('#talk-bar');if(bar)seen.add(bar.getAttribute('aria-label'));kickers.add($('.tour-kicker')?.textContent);}
+  assert.match($('.tour-kicker').textContent,/THE GRAND TOUR · 9 \/ 9/);
+  for(const who of ['Mr Penrose','Celeste','Hollis','Pip','Rex','Sofia'])assert.ok(seen.has(`Conversation with ${who}`),`talked to ${who}`);
+  assert.equal(kickers.size>=9,true,'every step was captioned');
+  assert.deepEqual(new Map(storage),saved,'nothing written to storage during the tour');
+  click('[data-action="tour-exit"]');assert.equal($('#tour-card'),null);
+ });
 });

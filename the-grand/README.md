@@ -39,6 +39,9 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/npc-brain.js`: reusable NPC dialogue engine (intent classification, response pools with conditions/effects/actions, memory, slot filling, reactions). Accepts an external classifier's decision.
 - `dist/data/promo.js` + `dist/data/fixtures/`: PromoData interface and SIMULATED fixtures (bonuses, free spins, competitions, records, terms, banking). `dist/terms.html` renders the simulated terms.
 - `dist/data/competitions.js`: competition opt-ins, scores on live competitions and the player's standing, saved with progress.
+- `dist/sky.js`: the sky outside follows the player's clock (windows, rooftop, rare shooting star).
+- `dist/tour.js`: The Grand Tour, a sandboxed, captioned demo of the staff. Start it from the directory or open the site with `?tour`.
+- `dist/postcard.js`: postcards from The Grand (the room, framed, saved as a PNG).
 - `dist/data/limits.js`: the player's daily loss limit (lower now, raise after 24 hours), saved with progress.
 - `dist/data/spins.js`: free spins played at a cabinet (no credits spent, winnings as bonus credits capped at max win, wagering tracked).
 - `dist/data/claims.js`: simulated bonus claims (fictional bonus credits, wagering progress), saved with progress.
