@@ -63,7 +63,7 @@ test('complete playable prototype DOM flow',async t=>{
   const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra on a weekend top-up.',value:{percent:50,cap:{amount:200,currency:'credits'}},wagering:{multiplier:30,appliesTo:'bonus'},expiresAt:'2026-10-18T22:00:00Z',termsRef:terms,claimable:true}],terms:{bonus:[{section:'bonus',clauseId:'b-1',heading:'Bonus wagering',text:'Bonus funds must be wagered 30 times before withdrawal.',url:terms.url,version:'1.2',updatedAt:'2026-10-01T00:00:00Z'}]}};
   let sawData=null;
   const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:(text,ctx)=>{sawData=ctx.data;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};
-  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&Number(x)<100));
   window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
   tapNpc(id);untilTalk();assert.ok($('#talk-bar'));assert.equal($('#talk-cards').hidden,true,'no cards before an action');
   click('[data-action="talk-chip"][data-message="Any bonuses?"]');frames(160);
@@ -119,10 +119,32 @@ test('complete playable prototype DOM flow',async t=>{
   assert.equal(panel.open,true,'"use them" opens the eligible cabinet');assert.match($('[data-action="spin"]').textContent,/FREE SPIN · 19 LEFT/);
   click('[data-action="close"]');click('[data-action="talk-close"]');
  });
+ await t.test('NW-179: Rex lists live then upcoming, opts you in on a card, reports standing as data, and the Hall of Records opens the same records',()=>{
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="gold"]');frames(40);
+  tapNpc(103);untilTalk();frames(150);
+  assert.equal($('#talk-bar').getAttribute('aria-label'),'Conversation with Rex');
+  assert.match(bubbleText(),/one\s*competition live and two\s*coming up/);
+  click('[data-action="talk-chip"][data-message="What’s on?"]');frames(200);
+  const kinds=$$('#talk-cards .npc-card .card-kicker').map(k=>k.textContent);assert.deepEqual(kinds,['LIVE COMPETITION','UPCOMING','UPCOMING'],'live first');
+  assert.match($('#talk-cards').textContent,/5,000 credits/);assert.match($('#talk-cards').textContent,/Time left/);
+  send('opt me in to the race');frames(200);
+  click('#talk-cards [data-action="opt-in-confirm"][data-competition="friday-sevens"]');frames(5);
+  assert.equal(getState().competitions['friday-sevens'].optedIn,true,'opt-in saved');assert.match($('#talk-cards').textContent,/You’re opted in/);
+  send('how am I doing?');frames(200);
+  assert.match($('#talk-live').textContent,/Friday Sevens Race: you’re #6 with 0 points\./);
+  assert.match($('#talk-cards').innerHTML,/<li class="you">/,'the player row is highlighted on the leaderboard');
+  click('[data-action="talk-close"]');
+  click('.bottom-nav [data-action="hotel"]');click('[data-action="walk-gallery"]');frames(400);
+  assert.equal($('#room-name').textContent,'The Gallery & Lifts');
+  tapObject('hall-of-records');frames(400);
+  assert.equal(panel.open,true);assert.match($('#panel-content').textContent,/Hall of Records/);
+  assert.match($('#panel-content').textContent,/Gold Lounge Classic/);assert.match($('#panel-content').textContent,/Rooftop\*\*\*/);
+  click('[data-action="close"]');click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="gold"]');frames(40);
+ });
  await t.test('NW-175: a distress line gets a caring reply and safer-play tools, and offers stay off afterwards',()=>{
   const snap={bonuses:[{id:'reload',title:'Weekend reload',kind:'reload',summary:'50% extra.',value:{percent:50,cap:{amount:200,currency:'credits'}},expiresAt:'2026-10-18T22:00:00Z',termsRef:null,claimable:true}],terms:{}};
   let calls=0;const persona={opener:()=>({text:'Evening. Ask me what is on offer.'}),suggestions:()=>['Any bonuses?'],reply:()=>{calls++;return {text:'Here is what is open to you tonight.',mood:'warm',action:{type:'show-offers',kind:'bonus'}};}};
-  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&Number(x)<100));
   window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
   tapNpc(id);untilTalk();assert.ok($('#talk-bar'));
   send('I need to win my money back');frames(160);
@@ -138,8 +160,8 @@ test('complete playable prototype DOM flow',async t=>{
   const fx=assembleFixtures({terms:await read('terms.json'),bonuses:await read('bonuses.json'),freeSpins:await read('free-spins.json'),competitions:await read('competitions.json'),records:await read('records.json'),banking:await read('banking.json')});
   const snap=new FixtureData(fx).snapshot({id:'p',ageVerified:true}),comp=[...snap.competitions.live,...snap.competitions.upcoming][0];
   const clauseOf=ref=>snap.terms[ref.section].find(c=>c.clauseId===ref.clauseId);
-  const persona={opener:()=>({text:'Evening. Competitions are my thing.'}),suggestions:()=>['What is on?'],reply:()=>({text:'Here is what is on.',mood:'warm',action:{type:'show-competitions'}})};
-  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&x!=='100'));
+  const persona={opener:()=>({text:'Evening. Competitions are my thing.'}),suggestions:()=>['What is on?'],reply:()=>({text:'Here is what is on.',mood:'warm',action:{type:'show-leaderboard',competitionId:comp.id}})};// information, not an offer: it still shows after the NW-175 test switched offers off
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&Number(x)<100));// a resident: staff (ids ≥ 100) have their own personas
   window.__grand.registerPersona(id,persona);window.__grand.setPromoData(snap);
   tapNpc(id);untilTalk();click('[data-action="talk-chip"][data-message="What is on?"]');frames(160);
   click('#talk-cards .card-terms');
@@ -208,7 +230,7 @@ test('complete playable prototype DOM flow',async t=>{
  await t.test('NW-175: Take a break and Self-exclusion persist and switch play off',()=>{
   click('.bottom-nav [data-action="hotel"]');click('[data-action="go-room"][data-room="lobby"]');frames(80);
   const persona={opener:()=>({text:'Here if you need me.'}),suggestions:()=>['Help'],reply:()=>({text:'Tools are below.',mood:'warm',action:{type:'open-safer-play'}})};
-  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'));window.__grand.registerPersona(id,persona);
+  const id=Number($$('[data-npc]').map(n=>n.dataset.npc).find(x=>x!=='0'&&Number(x)<100));window.__grand.registerPersona(id,persona);
   tapNpc(id);untilTalk();send('Help');frames(160);
   click('#talk-cards [data-tool="timeout"]');assert.ok(getState().coolingOffUntil>Date.now(),'a break is saved');
   click('#talk-cards [data-tool="exclude"]');assert.equal(getState().selfExcluded,true,'self-exclusion is saved');

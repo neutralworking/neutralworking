@@ -36,7 +36,10 @@ test('competitions, leaderboard, records, terms, banking and safer play render f
  const bank=renderCards({type:'open-cashier-info',view:'withdraw'},SNAPSHOT)[0];assert.match(bank.text,/1–3 days/);assert.match(bank.text,/Not allowed/);assert.doesNotMatch(bank.html,/<form|<input/,'read-only');
  const deposit=renderCards({type:'open-cashier-info',view:'deposit'},SNAPSHOT)[0];assert.doesNotMatch(deposit.text,/\b(now|hurry|today)\b/i,'facts only');
  assert.match(renderCards({type:'open-safer-play',reason:'distress'},null)[0].html,/data-tool="limits"/);
- assert.match(renderCards({type:'opt-in',competitionId:'c2'},SNAPSHOT)[0].html,/data-action="opt-in-confirm" data-competition="c2"/);
+ assert.match(renderCards({type:'opt-in',competitionId:'c2'},SNAPSHOT)[0].text,/No opt-in needed/,'automatic entry offers no opt-in');
+ const needsOptIn={...SNAPSHOT,competitions:{...SNAPSHOT.competitions,upcoming:SNAPSHOT.competitions.upcoming.map(c=>c.id==='c2'?{...c,optInRequired:true,optedIn:false}:c)}};
+ assert.match(renderCards({type:'opt-in',competitionId:'c2'},needsOptIn)[0].html,/data-action="opt-in-confirm" data-competition="c2"/);
+ assert.match(renderCards({type:'opt-in',competitionId:'c1'},SNAPSHOT)[0].text,/You’re opted in/,'no second opt-in');
 });
 
 test('cards escape everything that comes from data',()=>{
