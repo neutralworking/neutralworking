@@ -19,6 +19,12 @@ const LIES = [
 ];
 
 const GUESTS = {
+  // The hotel staff (NW-176 to NW-180). Personality only: Sofia never sends anyone towards an offer.
+  penrose: ["Mr Penrose read me clause four once. Slowly. I've never felt so legally bound.", "Penrose keeps the small print and I keep the big secrets. We nod at each other in the Gallery like rival librarians."],
+  celeste: ["Celeste has the best posture in the building. I've spent a year trying to unsettle it.", "Celeste won't recommend anything to anyone. Not a cocktail, not a sofa, not me. Especially not me."],
+  pip: ["Pip has pink curls and the patience of a saint. I've tested both.", "Pip knows every cabinet in the Arcade by its hum. I know every guest by their aftershave."],
+  rex: ["Rex reads the standings like scripture and never tells anyone to try harder. Refreshing, in a man.", "Rex once asked me to opt in. To his quiz night. I declined in four languages."],
+  hollis: ["Hollis won't take a penny and won't take a hint. Admirable on both counts.", "Hollis told me card details don't belong in a chat. Darling, nothing of mine belongs in a chat."],
   jules: ["Jules? He wears borrowed cufflinks. Mine. He left them on my nightstand.", "Jules kisses like he files his records. Thoroughly, alphabetically, and far too slowly."],
   ada: ["Ada designs benches built for two. I've tested every one of them.", "Ada thinks a lobby should comfort the least confident visitor. That's who I look for first."],
   otto: ["Otto fixes wobbly tables. I keep giving him reasons to come up to my room with his toolbox.", "Otto has three screws in his pocket. Had. I have four now."],

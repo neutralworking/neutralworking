@@ -152,3 +152,14 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .records-panel{display:grid;gap:10px;margin-top:8px}.records-panel .npc-card{flex:none;width:auto}
 /* Limits (NW-180) */
 .limit-options{flex-wrap:wrap}.limit-options button.selected{border-color:#cfb77f;color:#f1e3b7}
+/* Live sky (bonus round) */
+.shooting-star{opacity:0;animation:shoot 11s linear 3s infinite}@keyframes shoot{0%,90%{opacity:0;transform:translate(0,0)}92%{opacity:1}100%{opacity:0;transform:translate(-120px,58px)}}
+.sky-star{animation:twinkle 4s ease-in-out infinite alternate}.sky-star:nth-of-type(3n){animation-delay:1.3s}.sky-star:nth-of-type(4n){animation-delay:2.6s}@keyframes twinkle{to{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.shooting-star{display:none}.sky-star{animation:none}}
+/* The Grand Tour (bonus round) */
+.tour-card{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:min(440px,calc(100% - 32px));z-index:40;background:#0f2328f2;border:1px solid #cfb77f88;border-radius:14px;padding:14px 16px 12px;box-shadow:0 12px 40px #0008;color:#e9ecdf}
+.tour-kicker{font-size:10px;letter-spacing:2px;color:#cfb77f}.tour-card h3{margin:4px 0 6px;font:22px/1.2 Georgia,serif}.tour-card p{margin:0 0 10px;font-size:13px;line-height:1.55;color:#c9d3c6}
+.tour-actions{display:flex;gap:8px}.tour-actions button{min-height:40px;padding:0 14px;border-radius:8px;font:inherit;font-size:13px;cursor:pointer}.tour-actions button:not(.primary):not(.quiet-button){background:#29464a;color:#e9ecdf;border:1px solid #7f9d8d55}
+.game.touring .room-heading,.game.touring #quest-pill{visibility:hidden}
+/* Postcards (bonus round) */
+.postcard-preview{display:block;width:100%;height:auto;border-radius:10px;box-shadow:0 10px 30px #0007;margin:6px 0 16px;background:#efe4cc}

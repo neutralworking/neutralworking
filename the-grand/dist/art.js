@@ -1,3 +1,4 @@
+import {skyAt,rand} from './sky.js';
 import {SIZE,dimensions,equippedColor,COSMETICS,GALLERY_DOORS,ROOMS} from './engine.js';
 export const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const project=(x,y,z=0)=>[500+(x-y)*44,250+(x+y)*22-z];
@@ -32,10 +33,25 @@ export function objectArt(obj,game='gold'){
  }else{s+=cube(.3,.3,.4,.4,32,'#d9c496','#b39b62','#ccb37c');const p=local(.5,.5,56);s+=`<path d="M${p[0]},${p[1]-26}l19 28-19 17-19-17Z" fill="#d4b56c" stroke="#f1d599"/>`;}
  return `<g class="object-art">${s}</g>`;
 }
-function wallWindow(side,start,width){const p=(u,z)=>side==='left'?project(0,u,z):project(u,0,z);let s=poly([p(start,55),p(start+width,55),p(start+width,164),p(start,164)],'#bda978','stroke="#173b3c" stroke-width="8"');s+=poly([p(start+.08,60),p(start+width-.08,60),p(start+width-.08,158),p(start+.08,158)],'url(#nightSky)');for(let i=0;i<6;i++){const a=start+.12+i*width/7,ht=15+(i%3)*13;s+=poly([p(a,60),p(a+.12,60),p(a+.12,60+ht),p(a,60+ht)],'#243a4c');}s+=line(p(start+width/2,59),p(start+width/2,163),'#b9a16d',3)+line(p(start,107),p(start+width,107),'#b9a16d',2);s+=poly([p(start-.08,51),p(start+width+.08,51),p(start+width+.08,57),p(start-.08,57)],'#d3c098');return s;}
-export function roomArt(room,state){let s=`<defs><linearGradient id="nightSky" x2="0" y2="1"><stop stop-color="#122f41"/><stop offset="1" stop-color="#547a87"/></linearGradient><radialGradient id="warmGlow"><stop stop-color="#ffe6a7" stop-opacity=".2"/><stop offset="1" stop-color="#ffe6a7" stop-opacity="0"/></radialGradient><filter id="shadow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="15"/></filter></defs>`;
+function wallWindow(side,start,width,sky=skyAt(),first=false){const p=(u,z)=>side==='left'?project(0,u,z):project(u,0,z);let s=poly([p(start,55),p(start+width,55),p(start+width,164),p(start,164)],'#bda978','stroke="#173b3c" stroke-width="8"');s+=poly([p(start+.08,60),p(start+width-.08,60),p(start+width-.08,158),p(start+.08,158)],'url(#nightSky)');
+ // The sky outside follows the player's clock (sky.js): stars and a moon after dark, a low sun at golden hour and dawn.
+ const seed=start*7+(side==='left'?1:2);
+ if(sky.stars)for(let i=0;i<9;i++){if(rand(seed+i)>sky.stars)continue;const u=start+.15+rand(seed+i*3)*(width-.3),z=92+rand(seed+i*5)*60;const [x,y]=p(u,z);s+=`<circle class="sky-star" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${(.7+rand(seed+i*7)*.8).toFixed(2)}" fill="#f4ecd2" opacity="${(.5+rand(seed+i*11)*.5).toFixed(2)}"/>`;}
+ if(first&&sky.moon){const [x,y]=p(start+width*.68,138);s+=`<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="7" fill="#f1e8c8"/><circle cx="${(x+3).toFixed(1)}" cy="${(y-2).toFixed(1)}" r="6" fill="url(#nightSky)" opacity=".9"/>`;}
+ if(first&&sky.sun){const [x,y]=p(start+width*.35,86);s+=`<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="16" fill="${sky.glow}" opacity=".35"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="8" fill="${sky.glow}"/>`;}
+ for(let i=0;i<6;i++){const a=start+.12+i*width/7,ht=15+(i%3)*13;s+=poly([p(a,60),p(a+.12,60),p(a+.12,60+ht),p(a,60+ht)],'#243a4c');
+  // Lit office windows in the skyline, more of them after dark.
+  for(let k=0;k<3;k++)if(rand(seed*13+i*5+k)<sky.lit){const [x,y]=p(a+.04+(k%2)*.05,64+k*7);s+=`<rect x="${(x-.8).toFixed(1)}" y="${(y-1.6).toFixed(1)}" width="1.6" height="2.2" fill="#f2c97a" opacity=".85"/>`;}}
+ s+=line(p(start+width/2,59),p(start+width/2,163),'#b9a16d',3)+line(p(start,107),p(start+width,107),'#b9a16d',2);s+=poly([p(start-.08,51),p(start+width+.08,51),p(start+width+.08,57),p(start-.08,57)],'#d3c098');return s;}
+export function roomArt(room,state,sky=skyAt()){let s=`<defs><linearGradient id="nightSky" x2="0" y2="1"><stop stop-color="${sky.top}"/><stop offset="1" stop-color="${sky.bottom}"/></linearGradient><radialGradient id="warmGlow"><stop stop-color="#ffe6a7" stop-opacity=".2"/><stop offset="1" stop-color="#ffe6a7" stop-opacity="0"/></radialGradient><filter id="shadow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="15"/></filter></defs>`;
  const theme=state.theme==='rose'?'#805d63':state.theme==='midnight'?'#40516c':room.wall;
- if(room.short==='Rooftop Club'){for(let i=0;i<30;i++){const x=90+i*29,h=40+(i*37)%130;s+=`<rect x="${x}" y="${250-h}" width="22" height="${h+150}" rx="2" fill="#253c4f" opacity=".5"/>`;for(let j=0;j<4;j++)s+=`<rect x="${x+4+(j%2)*10}" y="${258-h+Math.floor(j/2)*19}" width="3" height="5" fill="#d4b58a" opacity=".5"/>`;}}
+ if(room.short==='Rooftop Club'){// Open sky over the rooftop (sky.js).
+  s+=`<defs><linearGradient id="roofSky" x2="0" y2="1"><stop stop-color="${sky.top}" stop-opacity=".85"/><stop offset=".65" stop-color="${sky.bottom}" stop-opacity=".45"/><stop offset="1" stop-color="${sky.bottom}" stop-opacity="0"/></linearGradient><radialGradient id="roofEdge" cx=".5" cy=".35" r=".62"><stop offset=".7" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient><mask id="roofMask"><rect x="-300" y="-200" width="1600" height="520" fill="url(#roofEdge)"/></mask></defs><rect x="-300" y="-200" width="1600" height="520" fill="url(#roofSky)" mask="url(#roofMask)"/>`;
+  for(let i=0;i<40;i++)if(rand(500+i)<sky.stars)s+=`<circle class="sky-star" cx="${(80+rand(600+i)*840).toFixed(1)}" cy="${(-40+rand(700+i)*170).toFixed(1)}" r="${(.8+rand(800+i)).toFixed(2)}" fill="#f4ecd2" opacity="${(.4+rand(900+i)*.6).toFixed(2)}"/>`;
+  if(sky.moon)s+=`<circle cx="812" cy="34" r="17" fill="#f1e8c8"/><circle cx="820" cy="28" r="15" fill="url(#nightSky)"/>`;
+  if(sky.sun)s+=`<circle cx="230" cy="150" r="46" fill="${sky.glow}" opacity=".25"/><circle cx="230" cy="150" r="22" fill="${sky.glow}" opacity=".9"/>`;
+  if(sky.shooting)s+=`<path class="shooting-star" d="M300 20l-70 34" stroke="#fff6dc" stroke-width="2" stroke-linecap="round"/>`;
+  for(let i=0;i<30;i++){const x=90+i*29,h=40+(i*37)%130;s+=`<rect x="${x}" y="${250-h}" width="22" height="${h+150}" rx="2" fill="#253c4f" opacity=".5"/>`;for(let j=0;j<4;j++)s+=`<rect x="${x+4+(j%2)*10}" y="${258-h+Math.floor(j/2)*19}" width="3" height="5" fill="#f2c97a" opacity="${(rand(i*4+j)<sky.lit?.9:.12).toFixed(2)}"/>`;}}
  s+=ellipse(500,568,345,134,'#060f1680','filter="url(#shadow)"');
  const p=project;const wallH=room.short==='Rooftop Club'?56:178;
  s+=poly([p(0,0),p(0,8),p(0,8,wallH),p(0,0,wallH)],theme)+poly([p(0,0),p(8,0),p(8,0,wallH),p(0,0,wallH)],room.short==='My Suite'?theme:room.wall);
@@ -43,7 +59,7 @@ export function roomArt(room,state){let s=`<defs><linearGradient id="nightSky" x
  for(const z of [12,38,wallH-14])s+=line(p(0,8,z),p(0,0,z),'#c6ae7655',z===12?5:1.5)+line(p(0,0,z),p(8,0,z),'#c6ae7655',z===12?5:1.5);
  if(room.short!=='Rooftop Club'){
  for(let i=0;i<8;i++)s+=line(p(0,i+.08,42),p(0,i+.08,wallH-18),'#d4c28b20')+line(p(i+.08,0,42),p(i+.08,0,wallH-18),'#d4c28b20');
- s+=wallWindow('left',.8,1.7)+wallWindow('left',4.5,1.7)+wallWindow('right',1.1,2.2);
+ s+=wallWindow('left',.8,1.7,sky,true)+wallWindow('left',4.5,1.7,sky)+wallWindow('right',1.1,2.2,sky);
  // Original geometric art in a brass frame.
  s+=poly([p(4.4,0,64),p(5.8,0,64),p(5.8,0,148),p(4.4,0,148)],'#d1b67b','stroke="#244d48" stroke-width="5"');s+=poly([p(4.5,0,70),p(5.7,0,70),p(5.7,0,142),p(4.5,0,142)],'#e1c49a');s+=poly([p(4.55,0,72),p(5.65,0,72),p(5.1,0,132)],'#588176')+poly([p(4.65,0,72),p(5.65,0,72),p(5.65,0,117)],'#ae735d');
  }else{const a=p(0,8,125),b=p(0,0,150),c=p(8,0,125);s+=`<path d="M${pt(a)}Q310,220 ${pt(b)}Q700,215 ${pt(c)}" fill="none" stroke="#918875" stroke-width="2"/>`;for(let i=0;i<=16;i++){const u=i/16,x=148+u*704,y=120+Math.abs(u-.5)*100;s+=ellipse(x,y,5,7,'#ffe5ac')+ellipse(x,y,16,20,'url(#warmGlow)');}}
