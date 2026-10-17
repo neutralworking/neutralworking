@@ -69,7 +69,7 @@ test('the async PromoData interface matches the sync snapshot',async()=>{
 
 test('a fixture snapshot renders real content on every card type',()=>{
  const snap=data.snapshot(player);
- const actions=[{type:'show-offers',kind:'bonus'},{type:'show-offers',kind:'free_spins'},{type:'show-competitions',status:'live'},{type:'show-competitions',status:'upcoming'},{type:'show-leaderboard',competitionId:'friday-sevens'},{type:'show-records'},{type:'show-terms',section:'free_spins',clauseId:'fs-1'},{type:'open-cashier-info',view:'withdraw'},{type:'open-safer-play'},{type:'opt-in',competitionId:'rooftop-draw'}];
+ const actions=[{type:'show-offers',kind:'bonus'},{type:'show-offers',kind:'free_spins'},{type:'show-competitions',status:'live'},{type:'show-competitions',status:'upcoming'},{type:'show-leaderboard',competitionId:'friday-sevens'},{type:'show-records'},{type:'show-terms',section:'free_spins',clauseId:'fs-1'},{type:'open-cashier-info',view:'withdraw'},{type:'open-safer-play'},{type:'opt-in',competitionId:'rooftop-draw'},{type:'open-claim',kind:'bonus',id:'weekend-reload'}];
  assert.deepEqual(new Set(actions.map(a=>a.type)),new Set(CARD_TYPES),'every card type is exercised');
  for(const a of actions){const cards=renderCards(a,snap,{timeZone:'Europe/Prague'});assert.ok(cards.length,a.type);for(const c of cards)assert.doesNotMatch(c.text,/not available yet/,`${a.type} has data`);}
  const loyalty=renderCards({type:'show-offers',kind:'bonus',ids:['loyalty-lounge']},snap)[0];assert.match(loyalty.text,/Why not: Unlocks after 25 rounds/);
