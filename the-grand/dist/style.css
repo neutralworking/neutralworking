@@ -143,3 +143,8 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .danger{background:#a3202f!important;color:#fbe9ea!important;border-color:#c9434f!important}
 .quiet-button.danger{background:transparent!important;color:#ee8a80!important;border-color:#ee8a8066!important}
 .reset-row{margin-top:18px;border-top:1px solid var(--border);padding-top:16px}
+
+/* Free spins (NW-178) */
+.free-spin-banner{margin:14px 0 0;padding:8px 10px;border:1px solid #9a94ff66;border-radius:8px;background:#9a94ff14;color:#d9d6ff;font-size:11px;line-height:1.5;text-align:center}
+.free-spin-banner strong{letter-spacing:1.5px;color:#fff;margin-right:4px}
+.spins-stop{width:100%;margin-top:10px}
