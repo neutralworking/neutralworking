@@ -73,7 +73,9 @@ export function noteRound(mem, net, now = Date.now()) {
 }
 
 // Actions that put an offer in front of the player; stripped whenever offers are blocked.
-export const OFFER_ACTIONS = new Set(['show-offers', 'open-claim']);
+// Competitions invite more play, so listing them and opting in count as offers too (NW-179). Records, standings
+// and terms are information and stay available.
+export const OFFER_ACTIONS = new Set(['show-offers', 'open-claim', 'show-competitions', 'opt-in']);
 export const blockedOfferLine = reason => reason === 'underage'
   ? REPLIES.underage
   : "I can't show offers right now, and that's a good thing. Your safer-play settings are looking after you.";

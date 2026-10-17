@@ -18,6 +18,13 @@ export function day(iso, timeZone) {
   try { return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', ...(timeZone ? { timeZone } : {}) }); }
   catch { return d.toISOString().slice(0, 10); }
 }
+// A neutral countdown for live cards (spec §4.2: countdowns on cards only, never in speech).
+export function timeLeft(iso, now = Date.now()) {
+  const ms = Date.parse(iso) - now;
+  if (!(ms > 0)) return '';
+  const m = Math.round(ms / 6e4), d = Math.floor(m / 1440), h = Math.floor((m % 1440) / 60), mm = m % 60;
+  return d ? `${d} d ${h} h` : h ? `${h} h ${mm} min` : `${mm} min`;
+}
 const pct = v => (v && Number.isFinite(v.percent) ? `${v.percent}% up to ${money(v.cap)}` : money(v));
 
 function card({ kind, title, rows = [], body = '', termsRef = null, simulated = true, extra = '' }) {
@@ -53,13 +60,13 @@ const RENDER = {
     const items = a.ids ? list.filter(x => a.ids.includes(x.id)) : list;
     if (!items.length) return [card({ kind: 'COMPETITION', title: a.status === 'upcoming' ? 'Nothing scheduled yet' : 'Nothing live right now' })];
     return items.map(x => card({ kind: x.status === 'live' ? 'LIVE COMPETITION' : 'UPCOMING', title: x.title, body: x.scoring, termsRef: x.termsRef,
-      rows: [['Starts', when(x.startsAt, o.timeZone)], ['Ends', when(x.endsAt, o.timeZone)], ['Prizes', (x.prizes || []).map(p => `${p.rank}: ${p.prize}`).join(' · ')], ['Games', (x.eligibleGames || []).join(', ')], ['Entry', x.optInRequired ? (x.optedIn ? 'Opted in' : 'Opt-in required') : 'Automatic'], ['Your standing', x.playerStanding ? `#${x.playerStanding.rank} · ${x.playerStanding.score} pts` : '']] }));
+      rows: [['Starts', when(x.startsAt, o.timeZone)], ['Ends', when(x.endsAt, o.timeZone)], ['Time left', x.status === 'live' ? timeLeft(x.endsAt, o.now) : ''], ['Prizes', (x.prizes || []).map(p => `${p.rank}: ${p.prize}`).join(' · ')], ['Games', (x.eligibleGames || []).join(', ')], ['Entry', x.optInRequired ? (x.optedIn ? 'Opted in' : 'Opt-in required') : 'Automatic'], ['Your standing', x.playerStanding ? `#${x.playerStanding.rank} · ${x.playerStanding.score} pts` : '']] }));
   },
   'show-leaderboard'(a, data) {
     const c = [...(data?.competitions?.live || []), ...(data?.competitions?.upcoming || [])].find(x => x.id === a.competitionId);
     if (!c) return [unavailable('LEADERBOARD', 'Leaderboard')];
     const rows = (c.standings || []).slice(0, 10);
-    const extra = rows.length ? `<ol class="card-table">${rows.map(r => `<li${c.playerStanding?.rank === r.rank ? ' class="you"' : ''}><span>#${r.rank}</span><span>${esc(r.displayName)}</span><span>${esc(r.score)}</span></li>`).join('')}</ol>` : '';
+    const extra = rows.length ? `<ol class="card-table">${rows.map(r => `<li${(r.you || (!rows.some(x => x.you) && c.playerStanding?.rank === r.rank)) ? ' class="you"' : ''}><span>#${r.rank}</span><span>${esc(r.displayName)}</span><span>${esc(r.score)}</span></li>`).join('')}</ol>` : '';
     return [card({ kind: 'LEADERBOARD', title: c.title, termsRef: c.termsRef, extra, rows: [['Your standing', c.playerStanding ? `#${c.playerStanding.rank} · ${c.playerStanding.score} pts` : 'Not entered']] })];
   },
   'show-records'(a, data, o) {
@@ -112,7 +119,9 @@ const RENDER = {
   'opt-in'(a, data) {
     const c = [...(data?.competitions?.live || []), ...(data?.competitions?.upcoming || [])].find(x => x.id === a.competitionId);
     if (!c) return [unavailable('COMPETITION', 'This competition')];
-    return [card({ kind: 'OPT IN', title: c.title, body: c.scoring, termsRef: c.termsRef, extra: `<div class="card-actions"><button type="button" class="primary" data-action="opt-in-confirm" data-competition="${esc(c.id)}">Opt in</button></div>` })];
+    if (!c.optInRequired) return [card({ kind: 'ENTRY', title: c.title, body: 'No opt-in needed: play on the eligible games while it’s live counts.', termsRef: c.termsRef })];
+    if (c.optedIn) return [card({ kind: 'OPT IN', title: c.title, body: 'You’re opted in.', termsRef: c.termsRef })];
+    return [card({ kind: 'OPT IN', title: c.title, body: c.scoring, termsRef: c.termsRef, extra: `<div class="card-actions"><button type="button" class="primary" data-action="opt-in-confirm" data-competition="${esc(c.id)}">Opt in</button><button type="button" data-action="claim-cancel">Not now</button></div>` })];
   },
 };
 

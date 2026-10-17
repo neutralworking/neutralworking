@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.mjs",
-    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/art.js && node --check dist/characters.js && node --check dist/residents.js && node --check dist/social.js && node --check dist/personas/penrose.js && node --check dist/personas/celeste.js && node --check dist/data/claims.js && node --check dist/personas/pip.js && node --check dist/data/spins.js"
+    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/art.js && node --check dist/characters.js && node --check dist/residents.js && node --check dist/social.js && node --check dist/personas/penrose.js && node --check dist/personas/celeste.js && node --check dist/data/claims.js && node --check dist/personas/pip.js && node --check dist/data/spins.js && node --check dist/personas/rex.js && node --check dist/data/competitions.js"
   },
   "devDependencies": {
     "linkedom": "^0.18.13"

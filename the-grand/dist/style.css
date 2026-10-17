@@ -148,3 +148,5 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .free-spin-banner{margin:14px 0 0;padding:8px 10px;border:1px solid #9a94ff66;border-radius:8px;background:#9a94ff14;color:#d9d6ff;font-size:11px;line-height:1.5;text-align:center}
 .free-spin-banner strong{letter-spacing:1.5px;color:#fff;margin-right:4px}
 .spins-stop{width:100%;margin-top:10px}
+/* Hall of Records (NW-179) */
+.records-panel{display:grid;gap:10px;margin-top:8px}.records-panel .npc-card{flex:none;width:auto}

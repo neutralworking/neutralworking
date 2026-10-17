@@ -147,6 +147,8 @@ Cards render from data, never from persona text. Persona text is the one-line fr
 
 **Must not:** pressure the player to play more to climb the leaderboard ("you're only 40 points behind!"). Standing is reported as data, without nudges. Countdowns appear on cards only.
 
+**As built (NW-179):** listing competitions and opting in count as offers for the wellbeing gate (records, standings and terms don't). Prototype scoring is credits won on a live competition's eligible games, for every kind; an upstream `playerStanding` is used as given. The player's row is placed in `standings` by score (ties go to whoever got there first) and highlighted. Live cards carry a neutral "Time left" row; Rex never speaks a countdown. Extra intents beyond the ticket: `leaderboard`, `recommend` ("that's for you to decide"), `noThanks`.
+
 **Records mode:** triggered by the `records` or `pastResults` intents, or by walking to the Hall of Records board in the Gallery (an interactive object that opens the same view). Winners' names are display names anonymised upstream; never show real names.
 
 ### 4.3 Mr Penrose, Clerk of Small Print (Gallery)

@@ -14,6 +14,8 @@
 // ("now", "now+2d", "now-2h", "now+5d+4h") so live/upcoming stay fresh; they resolve against an
 // injectable clock (anchored at load). ApiData (NW-181) will implement the same interface behind a server-side proxy.
 
+import { standingFor, standingsWith } from './competitions.js';
+
 export const TERMS_PAGE = 'terms.html';
 export const SECTIONS = ['general', 'bonus', 'competition', 'free_spins', 'banking', 'responsible_gambling', 'privacy'];
 const UNIT = { m: 6e4, h: 36e5, d: 864e5 };
@@ -71,8 +73,11 @@ export class FixtureData {
     const t = this.now(), live = [], upcoming = [];
     for (const c of this._resolved().competitions || []) {
       const s = Date.parse(c.startsAt), e = Date.parse(c.endsAt);
-      const mine = player.competitions?.[c.id] || {};
-      const item = { ...c, termsRef: withUrl(c.termsRef), optedIn: c.optInRequired ? !!mine.optedIn : undefined, playerStanding: mine.standing || undefined };
+      // An upstream standing (ApiData) is used as given; otherwise it's computed from the player's local score (NW-179)
+      // and the player's own row is placed in the standings so the leaderboard can highlight it.
+      const mine = player.competitions?.[c.id] || null, upstream = mine?.standing || null;
+      const standing = upstream || standingFor(c, mine) || undefined;
+      const item = { ...c, termsRef: withUrl(c.termsRef), optedIn: c.optInRequired ? !!mine?.optedIn : undefined, playerStanding: standing, standings: c.standings && !upstream ? standingsWith(c, standing) : c.standings };
       if (s <= t && t < e) live.push({ ...item, status: 'live' });
       else if (t < s) upcoming.push({ ...item, status: 'upcoming' });
     }
