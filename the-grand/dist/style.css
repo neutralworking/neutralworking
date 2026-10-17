@@ -135,7 +135,7 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 @media(max-height:600px) and (orientation:landscape){.story-list{grid-template-columns:1fr 1fr}.talk-bar{bottom:7px;max-height:calc(100% - 60px);width:min(480px,calc(100% - 125px))}.talk-head{margin-bottom:2px}.talk-chips{margin-bottom:3px}.talk-note{display:none}.journal-button{min-height:40px}}
 .talk-bar{bottom:calc(16px + var(--keyboard-inset,0px));max-height:max(120px,calc(100% - 115px - var(--keyboard-inset,0px)))}
 .resident-card>div:nth-child(2){min-width:0}.resident-card strong,.resident-card span{overflow-wrap:anywhere}
-@media(max-width:600px){.talk-bar{bottom:calc(10px + var(--keyboard-inset,0px))}.talk-bar:focus-within .talk-chips{flex-wrap:nowrap;overflow-x:auto;max-height:48px}.talk-chips button{flex-shrink:0}.store-tabs button,.chat-targets button{min-height:44px}.camera-tools button{min-width:44px;min-height:44px}}
+@media(max-width:600px){.talk-bar{bottom:calc(10px + var(--keyboard-inset,0px))}.talk-bar:has(.talk-row input:focus) .talk-chips{flex-wrap:nowrap;overflow-x:auto;max-height:48px}.talk-chips button{flex-shrink:0}.store-tabs button,.chat-targets button{min-height:44px}.camera-tools button{min-width:44px;min-height:44px}}
 @media(max-height:600px) and (orientation:landscape){.talk-bar{bottom:calc(7px + var(--keyboard-inset,0px));max-height:max(100px,calc(100% - 60px - var(--keyboard-inset,0px)))}}
 /* Welcome back / start over */
 .welcome-back p{margin-bottom:12px}
@@ -150,3 +150,5 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .spins-stop{width:100%;margin-top:10px}
 /* Hall of Records (NW-179) */
 .records-panel{display:grid;gap:10px;margin-top:8px}.records-panel .npc-card{flex:none;width:auto}
+/* Limits (NW-180) */
+.limit-options{flex-wrap:wrap}.limit-options button.selected{border-color:#cfb77f;color:#f1e3b7}

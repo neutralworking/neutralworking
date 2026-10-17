@@ -1,5 +1,6 @@
 import {loadClaims} from './data/claims.js';
 import {loadCompetitions} from './data/competitions.js';
+import {loadLimits} from './data/limits.js';
 import {freshSocial,loadSocial} from './social.js';
 // Framework-independent simulation, persistence schema and collision rules.
 export const SIZE=8, SAVE_KEY='the-grand-v1';
@@ -49,7 +50,7 @@ export const ACHIEVEMENTS=[
  {id:'decorate',name:'Make yourself at home',desc:'Make your first suite edit',target:1,metric:'decorated',reward:'Art deco pin'},
  {id:'fund',name:'The welcome collection',desc:'Try simulated account funding',target:1,metric:'funded',reward:'Champagne jacket',demo:true}
 ];
-export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false,intro:0,items:[],hosted:[],selfExcluded:false,coolingOffUntil:0,claimed:{},bonusLedger:{},freeSpinsUsed:{},competitions:{},socialProgress:freshSocial()};}
+export function freshState(){return {version:1,credits:2500,name:'Alex',shirt:'teal',hair:'dark',hat:'none',accessory:'none',skin:'#d6a080',presentation:'man',hairStyle:'crop',owned:[],metResidents:[],friendship:{},purchases:0,theme:'evergreen',floor:'oak',favourite:'gold',furniture:structuredClone(DEFAULT_FURNITURE),spins:0,wins:0,social:0,decorated:0,funded:0,visited:[],unlocked:[],joystick:'floating',sound:false,intro:0,items:[],hosted:[],selfExcluded:false,coolingOffUntil:0,claimed:{},bonusLedger:{},freeSpinsUsed:{},competitions:{},lossLimit:null,pendingLossLimit:null,dayNet:null,socialProgress:freshSocial()};}
 export function dimensions(obj){const c=CATALOG[obj.type]||{w:obj.type==='bar'?3:1,d:1};return obj.rot%2?[c.d,c.w]:[c.w,c.d];}
 export function cells(obj){const [w,d]=dimensions(obj),out=[];for(let x=0;x<w;x++)for(let y=0;y<d;y++)out.push([obj.x+x,obj.y+y]);return out;}
 export function blocked(x,y,objects,ignore){if(x<0||y<0||x>=SIZE||y>=SIZE)return true;return objects.some(o=>o.id!==ignore&&cells(o).some(([a,b])=>a===x&&b===y));}
@@ -107,7 +108,7 @@ export function loadState(raw){const d=freshState();try{const s=JSON.parse(raw);
  // Safer-play choices persist (only Start over clears them).
  d.selfExcluded=s.selfExcluded===true;if(Number.isFinite(s.coolingOffUntil)&&s.coolingOffUntil>0)d.coolingOffUntil=Math.floor(s.coolingOffUntil);
  // Simulated bonus claims (NW-177): what was claimed, and wagering progress.
- Object.assign(d,loadClaims(s));d.competitions=loadCompetitions(s);// competition entries and scores (NW-179)
+ Object.assign(d,loadClaims(s));d.competitions=loadCompetitions(s);Object.assign(d,loadLimits(s));// player-set loss limit (NW-180)// competition entries and scores (NW-179)
  d.hosted=Array.isArray(s.hosted)?[...new Set(s.hosted.filter(n=>CAST.some(g=>g.name===n)))]:[];
  const savedItems=Array.isArray(s.items)?s.items:[];// re-validated against requirements once unlocks are known (below)
  if(Array.isArray(s.furniture)&&s.furniture.length<=24){const valid=[];for(const o of s.furniture){if(!CATALOG[o.type]||typeof o.id!=='string'||!Number.isInteger(o.x)||!Number.isInteger(o.y))continue;const item={id:o.id.slice(0,60),type:o.type,x:o.x,y:o.y,rot:o.rot===1?1:0};if(cells(item).every(([x,y])=>!blocked(x,y,valid)))valid.push(item);}const spawn=[];for(let x=0;x<8;x++)for(let y=0;y<8;y++)if(!blocked(x,y,valid))spawn.push({x:x+.5,y:y+.5});if(spawn.some(p=>reachableFloor(valid,p,[7,7])))d.furniture=valid;}

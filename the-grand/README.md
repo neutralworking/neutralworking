@@ -39,10 +39,11 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/npc-brain.js`: reusable NPC dialogue engine (intent classification, response pools with conditions/effects/actions, memory, slot filling, reactions). Accepts an external classifier's decision.
 - `dist/data/promo.js` + `dist/data/fixtures/`: PromoData interface and SIMULATED fixtures (bonuses, free spins, competitions, records, terms, banking). `dist/terms.html` renders the simulated terms.
 - `dist/data/competitions.js`: competition opt-ins, scores on live competitions and the player's standing, saved with progress.
+- `dist/data/limits.js`: the player's daily loss limit (lower now, raise after 24 hours), saved with progress.
 - `dist/data/spins.js`: free spins played at a cabinet (no credits spent, winnings as bonus credits capped at max win, wagering tracked).
 - `dist/data/claims.js`: simulated bonus claims (fictional bonus credits, wagering progress), saved with progress.
 - `dist/cards.js`: data-driven cards for functional NPCs (offers, competitions, leaderboard, records, terms, banking, safer play).
-- `dist/personas/`: NPC personas: Sofia (social), Mr Penrose (terms, NW-176), Celeste (bonuses, NW-177), Pip (free spins, NW-178) and Rex (competitions and records, NW-179). Functional NPCs are hotel staff (`STAFF` in `dist/characters.js`), stationed at a post and kept out of the resident simulation. `window.__grand` registers personas and loads a data snapshot for tests or console play.
+- `dist/personas/`: NPC personas: Sofia (social), Mr Penrose (terms, NW-176), Celeste (bonuses, NW-177), Pip (free spins, NW-178), Rex (competitions and records, NW-179) and Hollis (banking rules, NW-180). Functional NPCs are hotel staff (`STAFF` in `dist/characters.js`), stationed at a post and kept out of the resident simulation. `window.__grand` registers personas and loads a data snapshot for tests or console play.
 - `dist/sofia.js`: Sofia's pure dialogue engine (intent matching, memory, moods, schemes, invitation gate). No DOM; deterministic with an injected rng.
 - `dist/style.css`: phone/tablet/desktop layouts, landscape handling, safe areas and motion preferences.
 - `tests/engine.test.mjs`: simulation, room connectivity, placement, payout and persistence coverage.

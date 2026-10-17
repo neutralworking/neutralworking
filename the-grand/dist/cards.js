@@ -1,5 +1,6 @@
 // Cards for functional NPCs: rendered from data, never from persona text (spec §3.4, §6).
 import { claimGrant, wagerTarget, grantIsSimulatedCap } from './data/claims.js';
+import { LIMIT_OPTIONS } from './data/limits.js';
 
 // Pure: renderCards(action, data, opts) → [{html, text}]. The talk bar shows the html; the text is
 // mirrored into the aria-live region. `data` is the session snapshot of PromoData (spec §3.3).
@@ -100,7 +101,16 @@ const RENDER = {
     const view = views[a.view] ? a.view : 'withdraw';
     return [card({ kind: 'BANKING', title: { deposit: 'Deposit methods', withdraw: 'Withdrawals', limits: 'Limits', verification: 'Verification' }[view], termsRef: b.termsRef, rows: views[view] })];
   },
-  'open-safer-play'(a) {
+  'open-safer-play'(a, data, o) {
+    // The limits view (NW-180): today's losses, the limit in force, any pending change, and the options.
+    if (a.view === 'limits') {
+      const l = o.limits || {}, cur = l.limit ?? null, pending = l.pending || null;
+      const btn = (amt, label) => `<button type="button" data-action="set-limit" data-amount="${amt ?? 'none'}"${amt === cur ? ' aria-pressed="true" class="selected"' : ''}>${label}</button>`;
+      const extra = `<div class="card-actions limit-options">${LIMIT_OPTIONS.map(v => btn(v, `${v.toLocaleString('en-GB')} credits`)).join('')}${btn(null, 'No limit')}</div>`;
+      return [card({ kind: 'SAFER PLAY · LIMITS', title: 'Daily loss limit', body: 'Caps how much you can lose on paid rounds in a day. Lowering it works straight away; raising or removing it takes 24 hours.', extra, simulated: true,
+        rows: [['Your limit', cur === null ? 'None set' : `${cur.toLocaleString('en-GB')} credits a day`], ['Lost today', `${(l.lost || 0).toLocaleString('en-GB')} credits`],
+          ['Pending change', pending ? `${pending.amount === null ? 'No limit' : `${pending.amount.toLocaleString('en-GB')} credits`} from ${when(new Date(pending.at).toISOString(), o.timeZone)}` : '']] })];
+    }
     const extra = '<div class="card-actions"><button type="button" data-action="safer-play" data-tool="limits">Set limits</button><button type="button" data-action="safer-play" data-tool="timeout">Take a break</button><button type="button" data-action="safer-play" data-tool="exclude">Self-exclusion</button></div>';
     return [card({ kind: 'SAFER PLAY', title: 'Look after yourself', body: 'Tools to set limits, take a break, or step away. Support is available any time.', extra, simulated: true })];
   },
