@@ -173,3 +173,23 @@ dialog{padding:0;border:1px solid #879c7a33;border-radius:18px;width:min(92vw,56
 .reels.grid3 .cell.off{opacity:.32}
 @media(max-height:600px) and (orientation:landscape){.reels.grid3 .cell{aspect-ratio:auto;height:30px}.reels.grid3 .cell svg{height:26px;width:auto}}
 @media(prefers-reduced-motion:reduce){.reels.grid3 .cell{transition:none}}
+/* Bottom menu: Suite · Hotel · [Balance] · Offers · Me */
+.bottom-nav{overflow:visible}
+.bottom-nav button.nav-balance{flex:1.15;gap:3px;color:#f1e3b7}
+.nav-balance-coin{display:grid;place-items:center;width:58px;height:58px;margin-top:-30px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#f3dc9c,#c9a14f 60%,#8f6e2c);color:#1d3a36;box-shadow:0 6px 18px #0009,0 0 0 4px #102a31;transition:transform .15s}
+.nav-balance-coin svg{width:28px;height:28px;stroke-width:1.9}
+.bottom-nav button.nav-balance:active .nav-balance-coin{transform:scale(.94)}
+.bottom-nav button.nav-balance strong{font-size:12px;letter-spacing:.3px;font-variant-numeric:tabular-nums;color:#f1e3b7}
+.bottom-nav button.nav-balance.active:after{display:none}
+.nav-badge{position:absolute;top:4px;left:calc(50% + 6px);min-width:16px;height:16px;padding:0 4px;border-radius:8px;background:#c7584d;color:#fff;font:600 10px/16px Inter,sans-serif;font-style:normal;text-align:center}
+.rail .nav-badge{top:6px;left:calc(50% + 8px)}
+.menu-list{display:grid;gap:8px;margin:12px 0}.menu-list .store-shortcut{margin:0}.menu-extras{margin-top:18px}
+.menu-count{font-style:normal;color:#e6c47f;font-size:12px;margin-left:6px}
+.offers-section{margin:16px 0 4px}.offers-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px}.offers-head h3{margin:0 0 8px}
+.offers-strip{margin-bottom:6px}.panel-cards{margin:6px 0 10px}.panel-card .npc-card{width:auto}
+.inbox-list{list-style:none;margin:10px 0 16px;padding:0;display:grid;gap:8px}
+.inbox-item{border:1px solid #a4b79c2a;border-radius:10px;padding:10px 12px;background:#10262d}
+.inbox-item div{display:flex;justify-content:space-between;gap:10px;align-items:baseline}.inbox-item strong{font-size:14px}.inbox-item time{font-size:11px;color:#8da5a6;white-space:nowrap}
+.inbox-item p{margin:4px 0 0;font-size:13px;color:#c9d3c6;line-height:1.5}
+.inbox-item.unread{border-color:#cfb77f88}.inbox-item.unread strong:before{content:'';display:inline-block;width:7px;height:7px;border-radius:50%;background:#e6c47f;margin-right:7px;vertical-align:1px}
+.inbox-item.kind-safety{border-left:3px solid #7cae9c}.inbox-item.kind-receipt{border-left:3px solid #cfb77f}
