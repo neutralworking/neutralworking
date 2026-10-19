@@ -42,6 +42,7 @@ Live prototype: https://the-grand-weld.vercel.app
 - `dist/sky.js`: the sky outside follows the player's clock (windows, rooftop, rare shooting star).
 - `dist/tour.js`: The Grand Tour, a sandboxed, captioned demo of the staff. Start it from the directory or open the site with `?tour`.
 - `dist/postcard.js`: postcards from The Grand (the room, framed, saved as a PNG).
+- `dist/data/inbox.js`: the inbox behind Me: receipts and account notices only, saved with progress.
 - `dist/data/limits.js`: the player's daily loss limit (lower now, raise after 24 hours), saved with progress.
 - `dist/data/spins.js`: free spins played at a cabinet (no credits spent, winnings as bonus credits capped at max win, wagering tracked).
 - `dist/data/claims.js`: simulated bonus claims (fictional bonus credits, wagering progress), saved with progress.
